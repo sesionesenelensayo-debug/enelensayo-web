@@ -269,6 +269,9 @@
         <h2 class="section-title">Análisis y <span class="text-accent">Reportajes</span></h2>
         <p class="section-desc">Periodismo musical de largo aliento</p>
       </div>
+      <div class="yt-embed-wrap">
+        <iframe class="yt-embed" src="https://www.youtube.com/embed/dwxiVM-PuCw?list=RDdwxiVM-PuCw" title="En el Ensayo — Live Sessions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+      </div>
       <div class="longs-grid" id="longsGrid">
         <!-- Cargado por JS desde data/videos.json -->
       </div>
@@ -304,8 +307,8 @@
         <h2 class="section-title">El podcast de <span class="text-accent">la escena</span></h2>
         <p class="section-desc">Conversaciones profundas con artistas, productores y gestores culturales. Cada episodio, una historia sin filtros.</p>
       </div>
-      <div class="podcast-grid" id="podcastGrid">
-        <!-- Cargado por JS desde data/videos.json -->
+      <div class="yt-embed-wrap">
+        <iframe class="yt-embed" src="https://www.youtube.com/embed/N7HQ7HOV2XI" title="El Ensayo Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
       </div>
       <div class="section-footer">
         <a href="https://www.youtube.com/@EnelEnsayo" class="btn btn--primary" target="_blank" rel="noopener">Ver todos los episodios →</a>
@@ -324,8 +327,14 @@
         <h2 class="section-title">El <span class="text-accent">Estudio</span></h2>
         <p class="section-desc">Desde Azcapotzalco, Ciudad de México. Producción diaria de contenido musical con tecnología de punta.</p>
       </div>
-      <!-- Galería de fotos del estudio (carga desde data/estudio.json) -->
-      <div class="estudio-galeria" id="estudioGaleria"></div>
+      <!-- Carrusel de fotos del estudio -->
+      <div class="estudio-carousel-wrap">
+        <button class="carousel-btn carousel-prev" id="estudioPrev" aria-label="Anterior">&#8592;</button>
+        <div class="estudio-carousel-track" id="estudioTrack">
+          <!-- Cargado por JS desde data/estudio.json -->
+        </div>
+        <button class="carousel-btn carousel-next" id="estudioNext" aria-label="Siguiente">&#8594;</button>
+      </div>
 
       <div class="estudio-grid">
         <div class="estudio-card estudio-card--featured">
