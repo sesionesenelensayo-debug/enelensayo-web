@@ -72,6 +72,41 @@ function renderFeatured(art) {
     </div>`;
 }
 
+// ── Renderizar Nota del Día (artículo más reciente destacado) ─────────────────
+function renderNotaDia(art) {
+  const wrap = document.getElementById('notaDiaWrap');
+  if (!wrap) return;
+  if (!art) {
+    wrap.innerHTML = '';
+    return;
+  }
+  const fecha = formatDate(art.fecha);
+  const imgHtml = art.imagen_url
+    ? `<img src="${art.imagen_url}" alt="${art.titulo}" loading="eager"
+             onerror="this.parentNode.innerHTML='<div class=\\'nota-dia-img-placeholder\\'>🎵</div>'">`
+    : `<div class="nota-dia-img-placeholder">🎵</div>`;
+  const href = art.telegraph_url && art.telegraph_url !== 'https://telegra.ph'
+    ? art.telegraph_url : '#noticias';
+  wrap.innerHTML = `
+    <a class="nota-dia-card" href="${href}" target="${href !== '#noticias' ? '_blank' : '_self'}" rel="noopener">
+      <div class="nota-dia-text">
+        <span class="nota-dia-badge">
+          <span class="dot dot--live"></span>
+          Nota del día
+        </span>
+        <h2 class="nota-dia-title">${art.titulo}</h2>
+        <p class="nota-dia-excerpt">${art.intro ? art.intro.slice(0, 200) + '...' : ''}</p>
+        <div class="nota-dia-footer">
+          <span class="nota-dia-date">${fecha}</span>
+          <span class="btn btn--primary" style="pointer-events:none">Leer reportaje →</span>
+        </div>
+      </div>
+      <div class="nota-dia-img">
+        ${imgHtml}
+      </div>
+    </a>`;
+}
+
 // ── Cargar y renderizar artículos ─────────────────────────────────────────────
 async function cargarArticulos() {
   let articulos = [];
@@ -88,6 +123,9 @@ async function cargarArticulos() {
   // Actualizar stat de artículos
   const statEl = document.getElementById('statArticulos');
   if (statEl) statEl.textContent = articulos.length || '0';
+
+  // Nota del día — primer artículo destacado
+  renderNotaDia(articulos[0] || null);
 
   const noticias     = articulos.filter(a => a.tipo !== 'entrevista').slice(0, 6);
   const entrevistas  = articulos.filter(a => a.tipo === 'entrevista').slice(0, 4);
