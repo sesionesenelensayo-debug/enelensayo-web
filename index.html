@@ -26,8 +26,9 @@
       </a>
       <ul class="nav-links">
         <li><a href="#noticias">Noticias</a></li>
-        <li><a href="#reportajes">Reportajes</a></li>
-        <li><a href="#entrevistas">Entrevistas</a></li>
+        <li><a href="#shorts">Shorts</a></li>
+        <li><a href="#longs">Longs</a></li>
+        <li><a href="#podcast">Podcast</a></li>
         <li><a href="#sobre">Sobre nosotros</a></li>
       </ul>
       <button class="nav-burger" id="navBurger" aria-label="Menú">
@@ -36,8 +37,9 @@
     </div>
     <div class="nav-mobile" id="navMobile">
       <a href="#noticias">Noticias</a>
-      <a href="#reportajes">Reportajes</a>
-      <a href="#entrevistas">Entrevistas</a>
+      <a href="#shorts">Shorts</a>
+      <a href="#longs">Longs</a>
+      <a href="#podcast">Podcast</a>
       <a href="#sobre">Sobre nosotros</a>
     </div>
   </nav>
@@ -105,6 +107,62 @@
     </div>
   </div>
 
+  <!-- ── SOCIAL STATS BAND ── -->
+  <section class="social-band" id="comunidad">
+    <div class="social-band-inner">
+      <div class="social-stats-row">
+
+        <a class="social-stat-item" href="https://www.youtube.com/@EnelEnsayoMedia" target="_blank" rel="noopener">
+          <span class="social-stat-icon">▶</span>
+          <span class="social-stat-num" id="cntYtSubs">—</span>
+          <span class="social-stat-label">Suscriptores YouTube</span>
+        </a>
+
+        <div class="social-stat-sep"></div>
+
+        <a class="social-stat-item" href="https://www.youtube.com/@EnelEnsayoMedia" target="_blank" rel="noopener">
+          <span class="social-stat-icon">📱</span>
+          <span class="social-stat-num" id="cntYtShorts">—</span>
+          <span class="social-stat-label">Reproducciones Shorts</span>
+        </a>
+
+        <div class="social-stat-sep"></div>
+
+        <a class="social-stat-item" href="https://www.instagram.com/enelensayomedia" target="_blank" rel="noopener">
+          <span class="social-stat-icon">📸</span>
+          <span class="social-stat-num" id="cntIg">—</span>
+          <span class="social-stat-label">Seguidores Instagram</span>
+        </a>
+
+        <div class="social-stat-sep"></div>
+
+        <a class="social-stat-item" href="https://x.com/enelensayomedia" target="_blank" rel="noopener">
+          <span class="social-stat-icon">𝕏</span>
+          <span class="social-stat-num" id="cntX">—</span>
+          <span class="social-stat-label">Seguidores X</span>
+        </a>
+
+        <div class="social-stat-sep"></div>
+
+        <a class="social-stat-item" href="https://t.me/enelensayomedia" target="_blank" rel="noopener">
+          <span class="social-stat-icon">✈️</span>
+          <span class="social-stat-num" id="cntTg">—</span>
+          <span class="social-stat-label">Miembros Telegram</span>
+        </a>
+
+        <div class="social-stat-sep"></div>
+
+        <a class="social-stat-item" href="https://www.facebook.com/enelensayomedia" target="_blank" rel="noopener">
+          <span class="social-stat-icon">📘</span>
+          <span class="social-stat-num" id="cntFb">—</span>
+          <span class="social-stat-label">Fans Facebook</span>
+        </a>
+
+      </div>
+      <p class="social-band-updated" id="statsUpdated"></p>
+    </div>
+  </section>
+
   <!-- ── ÚLTIMAS NOTICIAS ── -->
   <section class="section" id="noticias">
     <div class="section-inner">
@@ -117,7 +175,6 @@
         <p class="section-desc">Lo más importante del mundo musical mexicano, cubierto con profundidad editorial.</p>
       </div>
       <div class="articles-grid" id="articlesGrid">
-        <!-- Cargado desde data/articles.json -->
         <div class="article-skeleton"></div>
         <div class="article-skeleton"></div>
         <div class="article-skeleton"></div>
@@ -128,8 +185,36 @@
     </div>
   </section>
 
+  <!-- ── YOUTUBE SHORTS CAROUSEL ── -->
+  <section class="section section--dark shorts-carousel-section" id="shorts">
+    <div class="section-inner">
+      <div class="section-header">
+        <p class="section-eyebrow">
+          <span class="dot dot--yellow"></span>
+          📱 Últimos Shorts
+        </p>
+        <h2 class="section-title">Shorts <span class="text-accent">virales</span></h2>
+      </div>
+
+      <div class="shorts-carousel-wrap">
+        <button class="carousel-btn carousel-prev" id="shortsPrev" aria-label="Anterior">&#8592;</button>
+        <div class="shorts-track" id="shortsTrack">
+          <!-- Cargado por JS desde data/videos.json -->
+        </div>
+        <button class="carousel-btn carousel-next" id="shortsNext" aria-label="Siguiente">&#8594;</button>
+      </div>
+
+      <div class="shorts-empty" style="display:none">
+        <p style="font-size:2rem;margin-bottom:1rem">📱</p>
+        <p style="font-weight:700;margin-bottom:0.5rem">Los Shorts aparecen aquí automáticamente</p>
+        <p style="font-size:0.9rem;color:var(--gray);margin-bottom:1.5rem">Agrega IDs de video en <code>data/videos.json</code></p>
+        <a href="https://www.youtube.com/@EnelEnsayoMedia" class="btn btn--outline" target="_blank" rel="noopener">Ver canal de YouTube →</a>
+      </div>
+    </div>
+  </section>
+
   <!-- ── REPORTAJES (featured) ── -->
-  <section class="section section--dark" id="reportajes">
+  <section class="section" id="reportajes">
     <div class="section-inner">
       <div class="section-header">
         <p class="section-eyebrow">
@@ -139,8 +224,24 @@
         <h2 class="section-title">Reportajes <span class="text-accent">exclusivos</span></h2>
       </div>
       <div class="reportajes-featured" id="reportajesFeatured">
-        <!-- Cargado dinámicamente -->
         <div class="featured-skeleton"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── VIDEOS DEL CANAL (longs) ── -->
+  <section class="section section--dark longs-section" id="longs">
+    <div class="section-inner">
+      <div class="section-header">
+        <p class="section-eyebrow">
+          <span class="dot dot--indigo"></span>
+          🎬 Canal de YouTube
+        </p>
+        <h2 class="section-title">Análisis y <span class="text-accent">Reportajes</span></h2>
+        <p class="section-desc">Periodismo musical de largo aliento</p>
+      </div>
+      <div class="longs-grid" id="longsGrid">
+        <!-- Cargado por JS desde data/videos.json -->
       </div>
     </div>
   </section>
@@ -159,6 +260,26 @@
       <div class="entrevistas-grid" id="entrevistasGrid">
         <div class="article-skeleton"></div>
         <div class="article-skeleton"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── PODCAST ── -->
+  <section class="section podcast-section" id="podcast">
+    <div class="section-inner">
+      <div class="section-header">
+        <p class="section-eyebrow">
+          <span class="dot dot--cyan"></span>
+          🎙️ El Ensayo Podcast
+        </p>
+        <h2 class="section-title">El podcast de <span class="text-accent">la escena</span></h2>
+        <p class="section-desc">Conversaciones profundas con artistas, productores y gestores culturales. Cada episodio, una historia sin filtros.</p>
+      </div>
+      <div class="podcast-grid" id="podcastGrid">
+        <!-- Cargado por JS desde data/videos.json -->
+      </div>
+      <div class="section-footer">
+        <a href="https://www.youtube.com/@EnelEnsayo" class="btn btn--primary" target="_blank" rel="noopener">Ver todos los episodios →</a>
       </div>
     </div>
   </section>
@@ -192,9 +313,9 @@
         </div>
         <div class="about-social">
           <a href="https://t.me/enelensayomedia" class="social-btn" target="_blank" rel="noopener">Telegram</a>
-          <a href="#" class="social-btn" target="_blank" rel="noopener">Facebook</a>
-          <a href="#" class="social-btn" target="_blank" rel="noopener">Instagram</a>
-          <a href="#" class="social-btn" target="_blank" rel="noopener">Threads</a>
+          <a href="https://www.facebook.com/enelensayomedia" class="social-btn" target="_blank" rel="noopener">Facebook</a>
+          <a href="https://www.instagram.com/enelensayomedia" class="social-btn" target="_blank" rel="noopener">Instagram</a>
+          <a href="https://www.threads.net/@enelensayomedia" class="social-btn" target="_blank" rel="noopener">Threads</a>
         </div>
       </div>
       <div class="about-visual">
@@ -217,11 +338,11 @@
       <h2 class="cta-title">No te pierdas ninguna nota</h2>
       <p class="cta-sub">Síguenos donde prefieras — publicamos cinco veces al día.</p>
       <div class="cta-platforms">
-        <a href="https://t.me/enelensayomedia" class="platform-btn" target="_blank">📢 Telegram</a>
-        <a href="#" class="platform-btn" target="_blank">📘 Facebook</a>
-        <a href="#" class="platform-btn" target="_blank">🧵 Threads</a>
-        <a href="#" class="platform-btn" target="_blank">🐦 X / Twitter</a>
-        <a href="#" class="platform-btn" target="_blank">📺 YouTube</a>
+        <a href="https://t.me/enelensayomedia" class="platform-btn" target="_blank" rel="noopener">📢 Telegram</a>
+        <a href="https://www.facebook.com/enelensayomedia" class="platform-btn" target="_blank" rel="noopener">📘 Facebook</a>
+        <a href="https://www.threads.net/@enelensayomedia" class="platform-btn" target="_blank" rel="noopener">🧵 Threads</a>
+        <a href="https://x.com/enelensayomedia" class="platform-btn" target="_blank" rel="noopener">🐦 X / Twitter</a>
+        <a href="https://www.youtube.com/@EnelEnsayoMedia" class="platform-btn" target="_blank" rel="noopener">📺 YouTube</a>
       </div>
     </div>
   </section>
@@ -234,7 +355,15 @@
         <span>EN EL ENSAYO MEDIA</span>
       </div>
       <p class="footer-tagline">"Tu música. En vivo. Con todo listo."</p>
-      <p class="footer-copy">© 2025 En El Ensayo Media · Azcapotzalco, Ciudad de México</p>
+      <div class="footer-links">
+        <a href="https://www.youtube.com/@EnelEnsayoMedia" target="_blank" rel="noopener">YouTube</a>
+        <a href="https://www.instagram.com/enelensayomedia" target="_blank" rel="noopener">Instagram</a>
+        <a href="https://www.facebook.com/enelensayomedia" target="_blank" rel="noopener">Facebook</a>
+        <a href="https://x.com/enelensayomedia" target="_blank" rel="noopener">X</a>
+        <a href="https://t.me/enelensayomedia" target="_blank" rel="noopener">Telegram</a>
+        <a href="https://www.threads.net/@enelensayomedia" target="_blank" rel="noopener">Threads</a>
+      </div>
+      <p class="footer-copy">© 2026 En El Ensayo Media · Azcapotzalco, Ciudad de México</p>
     </div>
   </footer>
 
