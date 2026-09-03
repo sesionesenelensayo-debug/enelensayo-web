@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>En El Ensayo Media — Noticias Musicales de México</title>
+  <meta name="description" content="Conglomerado de noticias musicales nacionales. Reportajes, entrevistas y análisis del mundo musical mexicano." />
+  <meta property="og:title" content="En El Ensayo Media" />
+  <meta property="og:description" content="Conglomerado de noticias musicales nacionales." />
+  <meta property="og:type" content="website" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="css/style.css" />
+</head>
+<body>
+
+  <!-- ── NAVBAR ── -->
+  <nav class="navbar" id="navbar">
+    <div class="nav-inner">
+      <a href="/" class="nav-logo">
+        <span class="logo-mark">▶</span>
+        <span class="logo-text">EN EL <strong>ENSAYO</strong></span>
+        <span class="logo-sub">MEDIA</span>
+      </a>
+      <ul class="nav-links">
+        <li><a href="#noticias">Noticias</a></li>
+        <li><a href="#reportajes">Reportajes</a></li>
+        <li><a href="#entrevistas">Entrevistas</a></li>
+        <li><a href="#sobre">Sobre nosotros</a></li>
+      </ul>
+      <button class="nav-burger" id="navBurger" aria-label="Menú">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+    <div class="nav-mobile" id="navMobile">
+      <a href="#noticias">Noticias</a>
+      <a href="#reportajes">Reportajes</a>
+      <a href="#entrevistas">Entrevistas</a>
+      <a href="#sobre">Sobre nosotros</a>
+    </div>
+  </nav>
+
+  <!-- ── HERO ── -->
+  <section class="hero">
+    <div class="hero-grid-bg"></div>
+    <div class="hero-glow hero-glow--indigo"></div>
+    <div class="hero-glow hero-glow--cyan"></div>
+    <div class="hero-inner">
+      <p class="hero-eyebrow">
+        <span class="dot dot--live"></span>
+        Cobertura en tiempo real · México
+      </p>
+      <h1 class="hero-title">
+        El ritmo de la<br/>
+        <span class="hero-title--accent">música nacional</span>
+      </h1>
+      <p class="hero-subtitle">
+        Reportajes, entrevistas y análisis del universo musical mexicano.<br/>
+        Porque cada artista tiene una historia que merece ser contada.
+      </p>
+      <div class="hero-actions">
+        <a href="#noticias" class="btn btn--primary">Leer últimas noticias</a>
+        <a href="#sobre" class="btn btn--ghost">Conoce el proyecto</a>
+      </div>
+      <div class="hero-stats">
+        <div class="stat">
+          <span class="stat-num" id="statArticulos">—</span>
+          <span class="stat-label">Reportajes publicados</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat">
+          <span class="stat-num">5×</span>
+          <span class="stat-label">Publicaciones al día</span>
+        </div>
+        <div class="stat-divider"></div>
+        <div class="stat">
+          <span class="stat-num">3</span>
+          <span class="stat-label">Plataformas simultáneas</span>
+        </div>
+      </div>
+    </div>
+    <div class="hero-scroll-hint">
+      <span>Scroll</span>
+      <div class="scroll-line"></div>
+    </div>
+  </section>
+
+  <!-- ── TICKER DE CATEGORÍAS ── -->
+  <div class="ticker-wrap">
+    <div class="ticker">
+      <span>🎸 Rock Independiente</span>
+      <span>🎤 Urbano</span>
+      <span>🎻 Música de Autor</span>
+      <span>🥁 Jazz &amp; Fusión</span>
+      <span>🎹 Electrónica</span>
+      <span>🪗 Folclor</span>
+      <span>🎸 Rock Independiente</span>
+      <span>🎤 Urbano</span>
+      <span>🎻 Música de Autor</span>
+      <span>🥁 Jazz &amp; Fusión</span>
+      <span>🎹 Electrónica</span>
+      <span>🪗 Folclor</span>
+    </div>
+  </div>
+
+  <!-- ── ÚLTIMAS NOTICIAS ── -->
+  <section class="section" id="noticias">
+    <div class="section-inner">
+      <div class="section-header">
+        <p class="section-eyebrow">
+          <span class="dot dot--yellow"></span>
+          Actualización constante
+        </p>
+        <h2 class="section-title">Últimas <span class="text-accent">noticias</span></h2>
+        <p class="section-desc">Lo más importante del mundo musical mexicano, cubierto con profundidad editorial.</p>
+      </div>
+      <div class="articles-grid" id="articlesGrid">
+        <!-- Cargado desde data/articles.json -->
+        <div class="article-skeleton"></div>
+        <div class="article-skeleton"></div>
+        <div class="article-skeleton"></div>
+      </div>
+      <div class="section-footer">
+        <a href="noticias.html" class="btn btn--outline">Ver todos los reportajes →</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── REPORTAJES (featured) ── -->
+  <section class="section section--dark" id="reportajes">
+    <div class="section-inner">
+      <div class="section-header">
+        <p class="section-eyebrow">
+          <span class="dot dot--indigo"></span>
+          Periodismo de fondo
+        </p>
+        <h2 class="section-title">Reportajes <span class="text-accent">exclusivos</span></h2>
+      </div>
+      <div class="reportajes-featured" id="reportajesFeatured">
+        <!-- Cargado dinámicamente -->
+        <div class="featured-skeleton"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── ENTREVISTAS ── -->
+  <section class="section" id="entrevistas">
+    <div class="section-inner">
+      <div class="section-header">
+        <p class="section-eyebrow">
+          <span class="dot dot--cyan"></span>
+          Cara a cara
+        </p>
+        <h2 class="section-title">Entrevistas <span class="text-accent">en profundidad</span></h2>
+        <p class="section-desc">Conversaciones reales con los artistas que mueven la escena musical nacional.</p>
+      </div>
+      <div class="entrevistas-grid" id="entrevistasGrid">
+        <div class="article-skeleton"></div>
+        <div class="article-skeleton"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── SOBRE NOSOTROS ── -->
+  <section class="section section--dark about" id="sobre">
+    <div class="section-inner about-inner">
+      <div class="about-text">
+        <p class="section-eyebrow">
+          <span class="dot dot--yellow"></span>
+          El proyecto
+        </p>
+        <h2 class="section-title">
+          Música mexicana.<br/>
+          <span class="text-accent">Con todo listo.</span>
+        </h2>
+        <p class="about-body">
+          En El Ensayo Media nació en Azcapotzalco, Ciudad de México, con una
+          convicción: la música independiente mexicana merece cobertura de primer
+          nivel. Reportajes completos, entrevistas de fondo y análisis que van más
+          allá del titular.
+        </p>
+        <p class="about-body">
+          Combinamos periodismo editorial con tecnología de punta para publicar
+          cinco veces al día en todas las plataformas donde vive tu audiencia.
+        </p>
+        <div class="values-row">
+          <div class="value-chip">Calidad</div>
+          <div class="value-chip">Accesibilidad</div>
+          <div class="value-chip">Independencia</div>
+        </div>
+        <div class="about-social">
+          <a href="https://t.me/enelensayomedia" class="social-btn" target="_blank" rel="noopener">Telegram</a>
+          <a href="#" class="social-btn" target="_blank" rel="noopener">Facebook</a>
+          <a href="#" class="social-btn" target="_blank" rel="noopener">Instagram</a>
+          <a href="#" class="social-btn" target="_blank" rel="noopener">Threads</a>
+        </div>
+      </div>
+      <div class="about-visual">
+        <div class="about-card">
+          <div class="about-card-bar"></div>
+          <p class="about-card-label">Cobertura activa</p>
+          <p class="about-card-value text-accent">Todo México</p>
+          <p class="about-card-label" style="margin-top:1.5rem">Géneros cubiertos</p>
+          <p class="about-card-value">Rock · Urbano · Indie<br/>Jazz · Folclor · Electrónica</p>
+          <p class="about-card-label" style="margin-top:1.5rem">Publicaciones</p>
+          <p class="about-card-value text-cyan">Diarias · Automáticas</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── NEWSLETTER CTA ── -->
+  <section class="cta-band">
+    <div class="cta-band-inner">
+      <h2 class="cta-title">No te pierdas ninguna nota</h2>
+      <p class="cta-sub">Síguenos donde prefieras — publicamos cinco veces al día.</p>
+      <div class="cta-platforms">
+        <a href="https://t.me/enelensayomedia" class="platform-btn" target="_blank">📢 Telegram</a>
+        <a href="#" class="platform-btn" target="_blank">📘 Facebook</a>
+        <a href="#" class="platform-btn" target="_blank">🧵 Threads</a>
+        <a href="#" class="platform-btn" target="_blank">🐦 X / Twitter</a>
+        <a href="#" class="platform-btn" target="_blank">📺 YouTube</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── FOOTER ── -->
+  <footer class="footer">
+    <div class="footer-inner">
+      <div class="footer-logo">
+        <span class="logo-mark">▶</span>
+        <span>EN EL ENSAYO MEDIA</span>
+      </div>
+      <p class="footer-tagline">"Tu música. En vivo. Con todo listo."</p>
+      <p class="footer-copy">© 2025 En El Ensayo Media · Azcapotzalco, Ciudad de México</p>
+    </div>
+  </footer>
+
+  <script src="js/main.js"></script>
+</body>
+</html>

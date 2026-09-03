@@ -1,0 +1,29 @@
+[
+  {
+    "tipo": "noticia",
+    "titulo": "Peso Pluma encabezará el Festival Pal Norte 2026",
+    "artista": "Peso Pluma",
+    "intro": "El fenómeno del corrido tumbado regresa al norte de México con una presentación que promete romper todos los récords de asistencia del festival regiomontano.",
+    "telegraph_url": "https://telegra.ph",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Peso_Pluma_Coachella_2023.jpg/640px-Peso_Pluma_Coachella_2023.jpg",
+    "fecha": "2025-09-02T12:00:00"
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "La historia del rock independiente en CDMX: 30 años de resistencia",
+    "artista": "Rock CDMX",
+    "intro": "Desde El Chopo hasta el Foro Indie Rocks, la escena del rock independiente capitalino ha sobrevivido crisis económicas, pandemias y cambios de paradigma con una vitalidad que sigue sorprendiendo.",
+    "telegraph_url": "https://telegra.ph",
+    "imagen_url": "",
+    "fecha": "2025-09-01T10:00:00"
+  },
+  {
+    "tipo": "entrevista",
+    "titulo": "Natanael Cano: 'La música no tiene fronteras, tiene sentimientos'",
+    "artista": "Natanael Cano",
+    "intro": "El creador del corrido tumbado habla sobre su proceso creativo, sus referentes en el rock alternativo y por qué Azcapotzalco le inspira más que Los Ángeles.",
+    "telegraph_url": "https://telegra.ph",
+    "imagen_url": "",
+    "fecha": "2025-08-31T15:00:00"
+  }
+]
