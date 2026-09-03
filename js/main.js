@@ -365,10 +365,36 @@ function renderPodcast(episodes) {
     </a>`).join('');
 }
 
+// ── Galería del estudio ───────────────────────────────────────────────────────
+async function cargarGaleriaEstudio() {
+  const wrap = document.getElementById('estudioGaleria');
+  if (!wrap) return;
+  try {
+    const r = await fetch(`data/estudio.json?_=${Date.now()}`);
+    if (!r.ok) return;
+    const data = await r.json();
+    const fotos = data.fotos || [];
+    if (!fotos.length) return;
+    wrap.innerHTML = `
+      <div class="estudio-galeria-grid">
+        ${fotos.map((f, i) => `
+          <div class="estudio-foto" style="animation-delay:${i * 0.08}s">
+            <img src="${f.url}" alt="En el Ensayo — Estudio ${i + 1}" loading="lazy"
+                 onerror="this.parentElement.style.display='none'">
+          </div>`).join('')}
+      </div>
+      <p class="estudio-galeria-cta">
+        ¿Quieres grabar aquí?
+        <a href="https://wa.me/525512345678" target="_blank" rel="noopener">Agenda tu sesión →</a>
+      </p>`;
+  } catch (e) { /* sin fotos todavía */ }
+}
+
 // ── Init ──────────────────────────────────────────────────────────────────────
 document.addEventListener('DOMContentLoaded', async () => {
   await cargarArticulos();
   initAnimations();
   initCounters();
   await cargarVideos();
+  await cargarGaleriaEstudio();
 });
