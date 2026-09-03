@@ -13,6 +13,26 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="css/style.css" />
+  <!-- SEO structured data -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "NewsMediaOrganization",
+    "name": "En El Ensayo Media",
+    "url": "https://enelensayomedia.netlify.app",
+    "logo": "https://enelensayomedia.netlify.app/img/logo.png",
+    "sameAs": [
+      "https://www.youtube.com/@EnelEnsayoMedia",
+      "https://www.instagram.com/enelensayomedia",
+      "https://x.com/enelensayomedia",
+      "https://t.me/enelensayomedia"
+    ],
+    "description": "Conglomerado de noticias musicales nacionales. Reportajes, entrevistas y análisis del mundo musical mexicano."
+  }
+  </script>
+  <link rel="canonical" href="https://enelensayomedia.netlify.app" />
+  <meta name="robots" content="index, follow" />
+  <meta property="og:image" content="https://enelensayomedia.netlify.app/img/og.jpg" />
 </head>
 <body>
 
@@ -163,6 +183,15 @@
     </div>
   </section>
 
+  <!-- ── NOTA DEL DÍA ── -->
+  <section class="nota-dia-section" id="nota-dia">
+    <div class="section-inner">
+      <div id="notaDiaWrap">
+        <!-- Renderizado dinámicamente desde articles.json -->
+      </div>
+    </div>
+  </section>
+
   <!-- ── ÚLTIMAS NOTICIAS ── -->
   <section class="section" id="noticias">
     <div class="section-inner">
@@ -180,7 +209,7 @@
         <div class="article-skeleton"></div>
       </div>
       <div class="section-footer">
-        <a href="noticias.html" class="btn btn--outline">Ver todos los reportajes →</a>
+        <a href="https://t.me/enelensayomedia" class="btn btn--outline" target="_blank" rel="noopener">Ver todas las notas en Telegram →</a>
       </div>
     </div>
   </section>
@@ -280,6 +309,42 @@
       </div>
       <div class="section-footer">
         <a href="https://www.youtube.com/@EnelEnsayo" class="btn btn--primary" target="_blank" rel="noopener">Ver todos los episodios →</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- ── EL ESTUDIO ── -->
+  <section class="section estudio-section" id="estudio">
+    <div class="section-inner">
+      <div class="section-header">
+        <p class="section-eyebrow">
+          <span class="dot dot--cyan"></span>
+          Detrás del micrófono
+        </p>
+        <h2 class="section-title">El <span class="text-accent">Estudio</span></h2>
+        <p class="section-desc">Desde Azcapotzalco, Ciudad de México. Producción diaria de contenido musical con tecnología de punta.</p>
+      </div>
+      <div class="estudio-grid">
+        <div class="estudio-card estudio-card--featured">
+          <div class="estudio-card-icon">🎙️</div>
+          <h3 class="estudio-card-title">Producción 24/7</h3>
+          <p class="estudio-card-body">Pipeline automatizado que genera y publica contenido musical cinco veces al día en todas las plataformas.</p>
+        </div>
+        <div class="estudio-card">
+          <div class="estudio-card-icon">🤖</div>
+          <h3 class="estudio-card-title">IA Editorial</h3>
+          <p class="estudio-card-body">Guiones generados con inteligencia artificial entrenada en periodismo musical mexicano.</p>
+        </div>
+        <div class="estudio-card">
+          <div class="estudio-card-icon">🎬</div>
+          <h3 class="estudio-card-title">Video Automático</h3>
+          <p class="estudio-card-body">Shorts y documentales renderizados con narración TTS, imágenes y efectos cinematográficos.</p>
+        </div>
+        <div class="estudio-card">
+          <div class="estudio-card-icon">📡</div>
+          <h3 class="estudio-card-title">Multi-Plataforma</h3>
+          <p class="estudio-card-body">Un solo flujo publica simultáneamente en YouTube, Instagram, Facebook, Threads y X.</p>
+        </div>
       </div>
     </div>
   </section>
