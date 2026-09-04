@@ -1,5 +1,14 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Bad Bunny estrena nuevo álbum",
+    "artista": "Bad Bunny",
+    "intro": "Lanzó su nuevo álbum disponible en plataformas",
+    "telegraph_url": "https://telegra.ph/Bad-Bunny-estrena-nuevo-álbum-09-04",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg/1280px-Bad_Bunny_2019_by_Glenn_Francis_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "fecha": "2026-09-04T12:01:34.933151"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Karol G desafía las reglas del género en agosto de 2026",
     "artista": "Karol G",
