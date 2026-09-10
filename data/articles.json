@@ -1,5 +1,14 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Rosalía triunfa en las nominaciones a los premios Billboard de la Música Latina ",
+    "artista": "Rosalía",
+    "intro": "Noticias sobre Rosalía en la escena musical mexicana.",
+    "telegraph_url": "https://telegra.ph/Rosalía-triunfa-en-las-nominaciones-a-los-premios-Billboard-de-la-Música-Latina-09-10",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/2023-11-16_Gala_de_los_Latin_Grammy%2C_27_%28cropped%29.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "fecha": "2026-09-10T12:02:23.853381"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Bad Bunny redefine las reglas: el silencio se rompe",
     "artista": "Bad Bunny",
