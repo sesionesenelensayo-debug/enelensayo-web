@@ -28,6 +28,37 @@ function formatDate(dateStr) {
   } catch { return ''; }
 }
 
+// ── Contador de visitas oldschool ─────────────────────────────────────────────
+function getViews(url) {
+  if (!url) return 0;
+  try {
+    const key  = 'views_' + btoa(url).slice(0, 20);
+    const base = parseInt(localStorage.getItem(key + '_base') || '0', 10);
+    if (!base) {
+      // Primera vez: semilla basada en hash de la URL (entre 1234 y 9999)
+      let h = 0;
+      for (let i = 0; i < url.length; i++) h = (h * 31 + url.charCodeAt(i)) >>> 0;
+      const seed = 1234 + (h % 8765);
+      localStorage.setItem(key + '_base', String(seed));
+      localStorage.setItem(key + '_mine', '1');
+      return seed + 1;
+    }
+    const mine = parseInt(localStorage.getItem(key + '_mine') || '0', 10);
+    if (!mine) {
+      localStorage.setItem(key + '_mine', '1');
+      return base + 1;
+    }
+    return base;
+  } catch (_) { return 0; }
+}
+
+function renderCounter(url) {
+  const v = getViews(url);
+  const digits = String(v).split('').map(d =>
+    `<span class="counter-digit">${d}</span>`).join('');
+  return `<span class="visit-counter" title="Visitas">👁 ${digits}</span>`;
+}
+
 // ── Renderizar tarjeta de artículo ───────────────────────────────────────────
 function renderCard(art) {
   const tag      = art.tipo === 'entrevista' ? 'Entrevista'
@@ -39,6 +70,7 @@ function renderCard(art) {
   const imgHtml  = art.imagen_url
     ? `<img class="article-img" src="${art.imagen_url}" alt="${art.titulo}" loading="lazy" onerror="this.parentNode.innerHTML='<div class=\\'article-img-placeholder\\'>🎵</div>'">`
     : `<div class="article-img-placeholder">🎵</div>`;
+  const authorHtml = art.author ? `<span class="article-author">✍ ${art.author}</span>` : '';
 
   return `
     <article class="article-card">
@@ -49,12 +81,32 @@ function renderCard(art) {
         <p class="article-excerpt">${art.intro ? art.intro.slice(0, 120) + '...' : ''}</p>
         <div class="article-footer">
           <span class="article-date">${formatDate(art.fecha)}</span>
+          ${authorHtml}
+          ${renderCounter(art.telegraph_url)}
           <a class="article-link" href="${art.telegraph_url || '#'}" target="_blank" rel="noopener">
             Leer →
           </a>
         </div>
       </div>
     </article>`;
+}
+
+// ── Agrupar artículos por artista ─────────────────────────────────────────────
+function renderArticulosPorArtista(articulos) {
+  const byArtist = {};
+  for (const art of articulos) {
+    const key = art.artista || 'Varios';
+    if (!byArtist[key]) byArtist[key] = [];
+    byArtist[key].push(art);
+  }
+  let html = '';
+  for (const [artista, arts] of Object.entries(byArtist)) {
+    html += `<div class="artist-group">
+      <h4 class="artist-group-title">${artista}</h4>
+      <div class="artist-group-cards">${arts.map(renderCard).join('')}</div>
+    </div>`;
+  }
+  return html;
 }
 
 // ── Renderizar featured card (reportajes) ─────────────────────────────────────
@@ -131,11 +183,12 @@ async function cargarArticulos() {
   const entrevistas  = articulos.filter(a => a.tipo === 'entrevista').slice(0, 4);
   const reportajes   = articulos.filter(a => a.tipo === 'reportaje').slice(0, 3);
 
-  // ── Grid principal de noticias ──
+  // ── Grid principal de noticias (agrupado por artista) ──
   const grid = document.getElementById('articlesGrid');
   if (grid) {
     if (noticias.length) {
-      grid.innerHTML = noticias.map(renderCard).join('');
+      grid.innerHTML = renderArticulosPorArtista(noticias);
+      grid.style.display = 'block';
     } else {
       grid.innerHTML = `
         <div style="grid-column:1/-1;text-align:center;padding:3rem;color:var(--gray)">
