@@ -1,5 +1,16 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Fidel Nadal cumple 61 años de vida",
+    "artista": "Fidel Nadal",
+    "intro": "El músico y cantante argentino Fidel Nadal llega a los 61 años de su nacimiento. Como una de las figuras clave en la historia del reggae y el movimiento punk subterráneo en Argentina, este aniversario",
+    "telegraph_url": "https://telegra.ph/Fidel-Nadal-cumple-61-años-de-vida-10-04",
+    "imagen_url": "",
+    "fecha": "2026-10-04T12:03:49.297131",
+    "author": "Oliver Ken",
+    "views": 0
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Rosalía y el Premio Billboard Salón de la Fama 2026",
     "artista": "Rosalía",
