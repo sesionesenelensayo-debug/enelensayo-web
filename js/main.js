@@ -83,7 +83,7 @@ function renderCard(art) {
           <span class="article-date">${formatDate(art.fecha)}</span>
           ${authorHtml}
           ${renderCounter(art.telegraph_url)}
-          <a class="article-link" href="${art.telegraph_url || '#'}" target="_blank" rel="noopener">
+          <a class="article-link" href="${art.url || art.telegraph_url || '#'}" ${art.url && art.url.includes('netlify.app') ? '' : 'target="_blank" rel="noopener"'}>
             Leer →
           </a>
         </div>
@@ -118,7 +118,7 @@ function renderFeatured(art) {
         <h3 class="featured-card-title">${art.titulo}</h3>
         <p class="featured-card-excerpt">${art.intro ? art.intro.slice(0, 160) + '...' : ''}</p>
       </div>
-      <a class="featured-card-link" href="${art.telegraph_url || '#'}" target="_blank" rel="noopener">
+      <a class="featured-card-link" href="${art.url || art.telegraph_url || '#'}" target="_blank" rel="noopener">
         Leer reportaje →
       </a>
     </div>`;
