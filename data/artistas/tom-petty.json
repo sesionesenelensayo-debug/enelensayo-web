@@ -1,0 +1,16 @@
+{
+  "artista": "tom petty",
+  "slug": "tom-petty",
+  "imagen": "",
+  "shorts": [],
+  "longs": [
+    {
+      "titulo": "¿Cuánto costó la libertad de Tom Petty? Del Duckpond a su última noche",
+      "url": "https://www.youtube.com/shorts/U73AHdwbfmc",
+      "fecha": "2026-10-02",
+      "tipo": "long"
+    }
+  ],
+  "tweets": [],
+  "updated": "2026-10-02 14:27"
+}

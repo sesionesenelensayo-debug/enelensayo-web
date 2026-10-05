@@ -1,0 +1,16 @@
+{
+  "artista": "julio iglesias",
+  "slug": "julio-iglesias",
+  "imagen": "",
+  "shorts": [],
+  "longs": [
+    {
+      "titulo": "¿Cómo un hombre que no caminaba vendió 300 millones de discos? Julio Iglesias",
+      "url": "https://www.youtube.com/shorts/6XVVWnzbs0c",
+      "fecha": "2026-10-01",
+      "tipo": "long"
+    }
+  ],
+  "tweets": [],
+  "updated": "2026-10-01 14:52"
+}

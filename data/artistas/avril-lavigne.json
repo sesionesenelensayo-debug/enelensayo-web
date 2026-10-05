@@ -1,0 +1,16 @@
+{
+  "artista": "Avril Lavigne",
+  "slug": "avril-lavigne",
+  "imagen": "",
+  "shorts": [],
+  "longs": [
+    {
+      "titulo": "¿Cómo conquistó el mundo con corbatas y tenis? La verdadera historia de Avril Lavigne",
+      "url": "https://www.youtube.com/shorts/hNqoiJy_1Wo",
+      "fecha": "2026-09-27",
+      "tipo": "long"
+    }
+  ],
+  "tweets": [],
+  "updated": "2026-09-27 12:01"
+}

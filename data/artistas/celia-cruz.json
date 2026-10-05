@@ -1,0 +1,16 @@
+{
+  "artista": "Celia cruz",
+  "slug": "celia-cruz",
+  "imagen": "",
+  "shorts": [],
+  "longs": [
+    {
+      "titulo": "¿Por qué jamás volvió a pisar su tierra? La historia de Celia Cruz",
+      "url": "https://www.youtube.com/shorts/msilNQVdq08",
+      "fecha": "2026-09-12",
+      "tipo": "long"
+    }
+  ],
+  "tweets": [],
+  "updated": "2026-09-12 23:06"
+}
