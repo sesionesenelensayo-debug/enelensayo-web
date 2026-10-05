@@ -1,0 +1,16 @@
+{
+  "artista": "Sinead o Connor",
+  "slug": "sinead-o-connor",
+  "imagen": "",
+  "shorts": [],
+  "longs": [
+    {
+      "titulo": "Sinéad O'Connor: El grito de la mujer que desafió al Vaticano",
+      "url": "https://www.youtube.com/shorts/v2aZGUeJyBQ",
+      "fecha": "2026-10-04",
+      "tipo": "long"
+    }
+  ],
+  "tweets": [],
+  "updated": "2026-10-04 11:06"
+}

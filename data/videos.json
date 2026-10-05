@@ -1,11 +1,97 @@
 {
   "shorts": [
     {
-      "id": "zksN0qm0rOc",
-      "titulo": "ROY ORBISON: La verdadera tragedia detrás de Crying",
-      "fecha": "2026-09-03"
+      "id": "PHuO-XL_cgI",
+      "titulo": "Héctor Lavoe: 5 datos, del aula en Ponce al dolor",
+      "fecha": "2026-09-30"
+    },
+    {
+      "id": "kIUwtrtjdgY",
+      "titulo": "Cinco datos de la vida de José José",
+      "fecha": "2026-09-28"
+    },
+    {
+      "id": "SEB69RuUiLU",
+      "titulo": "ROBERT PALMER: El dolor que calló",
+      "fecha": "2026-09-26"
+    },
+    {
+      "id": "G_HVuC8Ww5A",
+      "titulo": "JOHN BONHAM: La muerte que mató a Led Zeppelin",
+      "fecha": "2026-09-25"
+    },
+    {
+      "id": "Q_lhGzgc74s",
+      "titulo": "5 curiosidades que no sabías de Ray Charles",
+      "fecha": "2026-09-25"
+    },
+    {
+      "id": "xQZBhuWghB0",
+      "titulo": "5 curiosidades que no sabías de Johnny Ramone",
+      "fecha": "2026-09-20"
+    },
+    {
+      "id": "5mSeE4sOruU",
+      "titulo": "DUNCAN SHEIK: Cambió el pop por la grandeza",
+      "fecha": "2026-09-19"
+    },
+    {
+      "id": "mA9EBDSzF94",
+      "titulo": "VICTOR JARA: 53 años SIN SU MÚSICA",
+      "fecha": "2026-09-16"
+    },
+    {
+      "id": "L196R9eVP3Y",
+      "titulo": "5 curiosidades que no sabías de Tito Jackson",
+      "fecha": "2026-09-15"
+    },
+    {
+      "id": "S3dPbvid4Ek",
+      "titulo": "5 curiosidades que no sabías de Celia cruz",
+      "fecha": "2026-09-12"
+    },
+    {
+      "id": "CCNQvsE_ULw",
+      "titulo": "5 curiosidades que no sabías de Bersuit Vergarabat",
+      "fecha": "2026-09-11"
+    },
+    {
+      "id": "neftar4_XDY",
+      "titulo": "5 curiosidades que no sabías de Soulja Boy",
+      "fecha": "2026-09-10"
     }
   ],
-  "longs": [],
+  "longs": [
+    {
+      "id": "v2aZGUeJyBQ",
+      "titulo": "Sinéad O'Connor: El grito de la mujer que desafió al Vaticano",
+      "fecha": "2026-10-04"
+    },
+    {
+      "id": "_OdJFbb8FqM",
+      "titulo": "¿Quién es Gwen Stefani? El secreto detrás de la reina del pop alternativo",
+      "fecha": "2026-10-03"
+    },
+    {
+      "id": "U73AHdwbfmc",
+      "titulo": "¿Cuánto costó la libertad de Tom Petty? Del Duckpond a su última noche",
+      "fecha": "2026-10-02"
+    },
+    {
+      "id": "6XVVWnzbs0c",
+      "titulo": "¿Cómo un hombre que no caminaba vendió 300 millones de discos? Julio Iglesias",
+      "fecha": "2026-10-01"
+    },
+    {
+      "id": "x0x-ZY7LxRs",
+      "titulo": "¿Por qué dejó de cantar Mary Ford? La voz detrás de «How High the Moon»",
+      "fecha": "2026-09-30"
+    },
+    {
+      "id": "-yPlSFAGUdM",
+      "titulo": "¿Qué pasó con Héctor Lavoe tras el concierto cancelado? La voz y el balcón",
+      "fecha": "2026-09-30"
+    }
+  ],
   "podcast": []
 }
