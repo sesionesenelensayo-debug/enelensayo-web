@@ -1,0 +1,23 @@
+{
+  "artista": "mac miller",
+  "slug": "mac-miller",
+  "imagen": "",
+  "shorts": [
+    {
+      "titulo": "Fallecimiento de Mac Miller",
+      "url": "",
+      "fecha": "2026-09-06",
+      "tipo": "short"
+    }
+  ],
+  "longs": [
+    {
+      "titulo": "¿Qué ocultaba Mac Miller tras Swimming? Del frat rap a su último día",
+      "url": "https://www.youtube.com/shorts/ABCOfG_scfU",
+      "fecha": "2026-10-07",
+      "tipo": "long"
+    }
+  ],
+  "tweets": [],
+  "updated": "2026-10-07 14:51"
+}

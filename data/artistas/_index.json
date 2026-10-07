@@ -1,5 +1,12 @@
 [
   {
+    "artista": "mac miller",
+    "slug": "mac-miller",
+    "imagen": "",
+    "piezas": 2,
+    "updated": "2026-10-07 14:51"
+  },
+  {
     "artista": "Eddie Van Halen",
     "slug": "eddie-van-halen",
     "imagen": "",
