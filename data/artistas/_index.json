@@ -1,5 +1,12 @@
 [
   {
+    "artista": "Bruno Mars",
+    "slug": "bruno-mars",
+    "imagen": "",
+    "piezas": 1,
+    "updated": "2026-10-08 12:04"
+  },
+  {
     "artista": "mac miller",
     "slug": "mac-miller",
     "imagen": "",

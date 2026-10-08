@@ -63,6 +63,11 @@
   ],
   "longs": [
     {
+      "id": "A6BNucgXNXM",
+      "titulo": "¿Cómo conquistó el pop un cantante sin género? Bruno Mars, de Waikīkī a la cima",
+      "fecha": "2026-10-08"
+    },
+    {
       "id": "ABCOfG_scfU",
       "titulo": "¿Qué ocultaba Mac Miller tras Swimming? Del frat rap a su último día",
       "fecha": "2026-10-07"
@@ -86,11 +91,6 @@
       "id": "U73AHdwbfmc",
       "titulo": "¿Cuánto costó la libertad de Tom Petty? Del Duckpond a su última noche",
       "fecha": "2026-10-02"
-    },
-    {
-      "id": "6XVVWnzbs0c",
-      "titulo": "¿Cómo un hombre que no caminaba vendió 300 millones de discos? Julio Iglesias",
-      "fecha": "2026-10-01"
     }
   ],
   "podcast": []
