@@ -1,0 +1,16 @@
+{
+  "artista": "Bruno Mars",
+  "slug": "bruno-mars",
+  "imagen": "",
+  "shorts": [],
+  "longs": [
+    {
+      "titulo": "¿Cómo conquistó el pop un cantante sin género? Bruno Mars, de Waikīkī a la cima",
+      "url": "https://www.youtube.com/shorts/A6BNucgXNXM",
+      "fecha": "2026-10-08",
+      "tipo": "long"
+    }
+  ],
+  "tweets": [],
+  "updated": "2026-10-08 12:04"
+}
