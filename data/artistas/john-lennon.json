@@ -1,0 +1,16 @@
+{
+  "artista": "John Lennon",
+  "slug": "john-lennon",
+  "imagen": "",
+  "shorts": [],
+  "longs": [
+    {
+      "titulo": "¿Por qué temían a John Lennon? De Liverpool al Dakota, 1940-1980",
+      "url": "https://www.youtube.com/shorts/3MwSRDvosWg",
+      "fecha": "2026-10-09",
+      "tipo": "long"
+    }
+  ],
+  "tweets": [],
+  "updated": "2026-10-09 14:13"
+}
