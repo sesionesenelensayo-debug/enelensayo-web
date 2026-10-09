@@ -1,5 +1,12 @@
 [
   {
+    "artista": "John Lennon",
+    "slug": "john-lennon",
+    "imagen": "",
+    "piezas": 1,
+    "updated": "2026-10-09 14:13"
+  },
+  {
     "artista": "Bruno Mars",
     "slug": "bruno-mars",
     "imagen": "",

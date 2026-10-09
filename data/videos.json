@@ -63,6 +63,11 @@
   ],
   "longs": [
     {
+      "id": "3MwSRDvosWg",
+      "titulo": "¿Por qué temían a John Lennon? De Liverpool al Dakota, 1940-1980",
+      "fecha": "2026-10-09"
+    },
+    {
       "id": "A6BNucgXNXM",
       "titulo": "¿Cómo conquistó el pop un cantante sin género? Bruno Mars, de Waikīkī a la cima",
       "fecha": "2026-10-08"
@@ -86,11 +91,6 @@
       "id": "_OdJFbb8FqM",
       "titulo": "¿Quién es Gwen Stefani? El secreto detrás de la reina del pop alternativo",
       "fecha": "2026-10-03"
-    },
-    {
-      "id": "U73AHdwbfmc",
-      "titulo": "¿Cuánto costó la libertad de Tom Petty? Del Duckpond a su última noche",
-      "fecha": "2026-10-02"
     }
   ],
   "podcast": []
