@@ -63,6 +63,11 @@
   ],
   "longs": [
     {
+      "id": "kXbU5ujFseM",
+      "titulo": "¿Qué motivó al joven Lennon a romper con el sonido del skiffle? – El origen de una revolución m",
+      "fecha": "2026-10-10"
+    },
+    {
       "id": "3MwSRDvosWg",
       "titulo": "¿Por qué temían a John Lennon? De Liverpool al Dakota, 1940-1980",
       "fecha": "2026-10-09"
@@ -86,11 +91,6 @@
       "id": "v2aZGUeJyBQ",
       "titulo": "Sinéad O'Connor: El grito de la mujer que desafió al Vaticano",
       "fecha": "2026-10-04"
-    },
-    {
-      "id": "_OdJFbb8FqM",
-      "titulo": "¿Quién es Gwen Stefani? El secreto detrás de la reina del pop alternativo",
-      "fecha": "2026-10-03"
     }
   ],
   "podcast": []
