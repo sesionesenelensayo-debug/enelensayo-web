@@ -1,5 +1,12 @@
 [
   {
+    "artista": "John bonham",
+    "slug": "john-bonham",
+    "imagen": "",
+    "piezas": 1,
+    "updated": "2026-10-12 09:51"
+  },
+  {
     "artista": "John Lennon",
     "slug": "john-lennon",
     "imagen": "",
