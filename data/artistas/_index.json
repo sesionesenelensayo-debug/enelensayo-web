@@ -1,5 +1,12 @@
 [
   {
+    "artista": "Paul Simon",
+    "slug": "paul-simon",
+    "imagen": "",
+    "piezas": 1,
+    "updated": "2026-10-13 12:31"
+  },
+  {
     "artista": "John bonham",
     "slug": "john-bonham",
     "imagen": "",

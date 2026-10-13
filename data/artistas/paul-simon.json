@@ -1,0 +1,16 @@
+{
+  "artista": "Paul Simon",
+  "slug": "paul-simon",
+  "imagen": "",
+  "shorts": [],
+  "longs": [
+    {
+      "titulo": "¿Cómo un compositor construyó la banda sonora de seis décadas? Paul Simon",
+      "url": "https://www.youtube.com/shorts/t1CeWVcHggs",
+      "fecha": "2026-10-13",
+      "tipo": "long"
+    }
+  ],
+  "tweets": [],
+  "updated": "2026-10-13 12:31"
+}
