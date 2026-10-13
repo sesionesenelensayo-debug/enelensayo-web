@@ -63,6 +63,11 @@
   ],
   "longs": [
     {
+      "id": "t1CeWVcHggs",
+      "titulo": "¿Cómo un compositor construyó la banda sonora de seis décadas? Paul Simon",
+      "fecha": "2026-10-13"
+    },
+    {
       "id": "5W3k-4wMFSU",
       "titulo": "¿Por qué Led Zeppelin murió con él? John Bonham y el ruido que nadie pudo reemplazar",
       "fecha": "2026-10-12"
@@ -86,11 +91,6 @@
       "id": "ABCOfG_scfU",
       "titulo": "¿Qué ocultaba Mac Miller tras Swimming? Del frat rap a su último día",
       "fecha": "2026-10-07"
-    },
-    {
-      "id": "KMaOz8uODR4",
-      "titulo": "¿Cómo armó Eddie Van Halen la guitarra que cambió el rock? Su historia",
-      "fecha": "2026-10-06"
     }
   ],
   "podcast": []
