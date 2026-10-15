@@ -1,5 +1,12 @@
 [
   {
+    "artista": "Cosculluela",
+    "slug": "cosculluela",
+    "imagen": "artistas_img/cosculluela.jpg",
+    "piezas": 1,
+    "updated": "2026-10-15 12:01"
+  },
+  {
     "artista": "5 curiosidades de Alejandro Sanz",
     "slug": "5-curiosidades-de-alejandro-sanz",
     "imagen": "",

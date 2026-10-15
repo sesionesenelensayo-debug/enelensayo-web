@@ -63,6 +63,11 @@
   ],
   "longs": [
     {
+      "id": "7VSaxCVDmjs",
+      "titulo": "¿El príncipe del verso o de la controversia? La historia de Cosculluela",
+      "fecha": "2026-10-15"
+    },
+    {
       "id": "t1CeWVcHggs",
       "titulo": "¿Cómo un compositor construyó la banda sonora de seis décadas? Paul Simon",
       "fecha": "2026-10-13"
@@ -86,11 +91,6 @@
       "id": "A6BNucgXNXM",
       "titulo": "¿Cómo conquistó el pop un cantante sin género? Bruno Mars, de Waikīkī a la cima",
       "fecha": "2026-10-08"
-    },
-    {
-      "id": "ABCOfG_scfU",
-      "titulo": "¿Qué ocultaba Mac Miller tras Swimming? Del frat rap a su último día",
-      "fecha": "2026-10-07"
     }
   ],
   "podcast": []

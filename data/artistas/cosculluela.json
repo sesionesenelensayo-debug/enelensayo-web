@@ -1,0 +1,16 @@
+{
+  "artista": "Cosculluela",
+  "slug": "cosculluela",
+  "imagen": "artistas_img/cosculluela.jpg",
+  "shorts": [],
+  "longs": [
+    {
+      "titulo": "¿El príncipe del verso o de la controversia? La historia de Cosculluela",
+      "url": "https://www.youtube.com/shorts/7VSaxCVDmjs",
+      "fecha": "2026-10-15",
+      "tipo": "long"
+    }
+  ],
+  "tweets": [],
+  "updated": "2026-10-15 12:01"
+}
