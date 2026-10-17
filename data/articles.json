@@ -1,5 +1,17 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Fallece Gustavo Cordera, ex‑frontman de Bersuit Vergarabat",
+    "artista": "Gustavo Cordera",
+    "intro": "El titular de la noticia indica que el músico argentino Gustavo Edgardo Cordera ha fallecido. La información disponible se limita al anuncio del deceso sin precisar causas, lugar ni fecha exacta, lo q",
+    "telegraph_url": "https://telegra.ph/Fallece-Gustavo-Cordera-exfrontman-de-Bersuit-Vergarabat-10-17",
+    "url": "https://telegra.ph/Fallece-Gustavo-Cordera-exfrontman-de-Bersuit-Vergarabat-10-17",
+    "imagen_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Gustavo_Cordera_2012.jpg/1200px-Gustavo_Cordera_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "fecha": "2026-10-17T00:23:48.470847",
+    "author": "Oliver Ken",
+    "views": 0
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Fallece el compositor inglés Bryan Kelly a los 92 años",
     "artista": "Bryan Kelly",
