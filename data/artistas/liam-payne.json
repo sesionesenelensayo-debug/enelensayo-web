@@ -1,0 +1,16 @@
+{
+  "artista": "Liam Payne",
+  "slug": "liam-payne",
+  "imagen": "",
+  "shorts": [],
+  "longs": [
+    {
+      "titulo": "¿Qué pasó realmente en Buenos Aires? La historia oculta detrás de la caída",
+      "url": "https://www.youtube.com/shorts/R7-PYPlCEkI",
+      "fecha": "2026-10-17",
+      "tipo": "long"
+    }
+  ],
+  "tweets": [],
+  "updated": "2026-10-17 18:11"
+}
