@@ -63,6 +63,11 @@
   ],
   "longs": [
     {
+      "id": "R7-PYPlCEkI",
+      "titulo": "¿Qué pasó realmente en Buenos Aires? La historia oculta detrás de la caída",
+      "fecha": "2026-10-17"
+    },
+    {
       "id": "7VSaxCVDmjs",
       "titulo": "¿El príncipe del verso o de la controversia? La historia de Cosculluela",
       "fecha": "2026-10-15"
@@ -86,11 +91,6 @@
       "id": "3MwSRDvosWg",
       "titulo": "¿Por qué temían a John Lennon? De Liverpool al Dakota, 1940-1980",
       "fecha": "2026-10-09"
-    },
-    {
-      "id": "A6BNucgXNXM",
-      "titulo": "¿Cómo conquistó el pop un cantante sin género? Bruno Mars, de Waikīkī a la cima",
-      "fecha": "2026-10-08"
     }
   ],
   "podcast": []
