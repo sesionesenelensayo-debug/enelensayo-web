@@ -63,6 +63,11 @@
   ],
   "longs": [
     {
+      "id": "DDkovv7UP0A",
+      "titulo": "¿Quién fue el poeta detrás de la bossa nova? La historia de Vinícius de Moraes",
+      "fecha": "2026-10-19"
+    },
+    {
       "id": "iNXNYIKiDE4",
       "titulo": "¿Quién transformó la pantalla en arte? El enigma de Graciela Taquini",
       "fecha": "2026-10-18"
@@ -86,11 +91,6 @@
       "id": "5W3k-4wMFSU",
       "titulo": "¿Por qué Led Zeppelin murió con él? John Bonham y el ruido que nadie pudo reemplazar",
       "fecha": "2026-10-12"
-    },
-    {
-      "id": "kXbU5ujFseM",
-      "titulo": "¿Qué motivó al joven Lennon a romper con el sonido del skiffle? – El origen de una revolución m",
-      "fecha": "2026-10-10"
     }
   ],
   "podcast": []
