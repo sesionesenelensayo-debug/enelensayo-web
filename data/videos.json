@@ -63,6 +63,11 @@
   ],
   "longs": [
     {
+      "id": "AOEbBZzkozQ",
+      "titulo": "¿El secreto detrás de la voz del rock? | La verdadera historia de Freddie Mercury",
+      "fecha": "2026-10-21"
+    },
+    {
       "id": "DDkovv7UP0A",
       "titulo": "¿Quién fue el poeta detrás de la bossa nova? La historia de Vinícius de Moraes",
       "fecha": "2026-10-19"
@@ -86,11 +91,6 @@
       "id": "t1CeWVcHggs",
       "titulo": "¿Cómo un compositor construyó la banda sonora de seis décadas? Paul Simon",
       "fecha": "2026-10-13"
-    },
-    {
-      "id": "5W3k-4wMFSU",
-      "titulo": "¿Por qué Led Zeppelin murió con él? John Bonham y el ruido que nadie pudo reemplazar",
-      "fecha": "2026-10-12"
     }
   ],
   "podcast": []

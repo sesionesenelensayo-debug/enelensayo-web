@@ -1,0 +1,16 @@
+{
+  "artista": "Freddy mercury",
+  "slug": "freddy-mercury",
+  "imagen": "",
+  "shorts": [],
+  "longs": [
+    {
+      "titulo": "¿El secreto detrás de la voz del rock? | La verdadera historia de Freddie Mercury",
+      "url": "https://www.youtube.com/shorts/AOEbBZzkozQ",
+      "fecha": "2026-10-21",
+      "tipo": "long"
+    }
+  ],
+  "tweets": [],
+  "updated": "2026-10-21 19:50"
+}
