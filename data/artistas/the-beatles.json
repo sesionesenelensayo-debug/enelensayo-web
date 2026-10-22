@@ -1,0 +1,16 @@
+{
+  "artista": "The Beatles",
+  "slug": "the-beatles",
+  "imagen": "",
+  "shorts": [],
+  "longs": [
+    {
+      "titulo": "Cómo cuatro jóvenes de Liverpool cambiaron la historia de la música",
+      "url": "https://www.youtube.com/shorts/95QgV3gLqN8",
+      "fecha": "2026-10-22",
+      "tipo": "long"
+    }
+  ],
+  "tweets": [],
+  "updated": "2026-10-22 12:01"
+}
