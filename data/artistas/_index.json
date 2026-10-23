@@ -1,5 +1,12 @@
 [
   {
+    "artista": "Marina Vlady",
+    "slug": "marina-vlady",
+    "imagen": "",
+    "piezas": 1,
+    "updated": "2026-10-23 12:01"
+  },
+  {
     "artista": "The Beatles",
     "slug": "the-beatles",
     "imagen": "",
