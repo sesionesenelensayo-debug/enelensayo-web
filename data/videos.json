@@ -63,6 +63,11 @@
   ],
   "longs": [
     {
+      "id": "ChBeza7gWzc",
+      "titulo": "¿Cómo nació Bohemian Rhapsody? El dilema de Queen en 1975",
+      "fecha": "2026-10-24"
+    },
+    {
       "id": "qffAZ24IeEY",
       "titulo": "¿Qué impulsó a Marina Vlady a romper con el cine francés? – La historia detrás de su mayor prem",
       "fecha": "2026-10-23"
@@ -86,11 +91,6 @@
       "id": "iNXNYIKiDE4",
       "titulo": "¿Quién transformó la pantalla en arte? El enigma de Graciela Taquini",
       "fecha": "2026-10-18"
-    },
-    {
-      "id": "R7-PYPlCEkI",
-      "titulo": "¿Qué pasó realmente en Buenos Aires? La historia oculta detrás de la caída",
-      "fecha": "2026-10-17"
     }
   ],
   "podcast": []
