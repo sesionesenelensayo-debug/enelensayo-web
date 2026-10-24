@@ -1,0 +1,16 @@
+{
+  "artista": "Queen",
+  "slug": "queen",
+  "imagen": "artistas_img/queen.jpg",
+  "shorts": [],
+  "longs": [
+    {
+      "titulo": "¿Cómo nació Bohemian Rhapsody? El dilema de Queen en 1975",
+      "url": "https://www.youtube.com/shorts/ChBeza7gWzc",
+      "fecha": "2026-10-24",
+      "tipo": "long"
+    }
+  ],
+  "tweets": [],
+  "updated": "2026-10-24 12:02"
+}

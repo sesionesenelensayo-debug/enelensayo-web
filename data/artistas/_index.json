@@ -1,5 +1,12 @@
 [
   {
+    "artista": "Queen",
+    "slug": "queen",
+    "imagen": "artistas_img/queen.jpg",
+    "piezas": 1,
+    "updated": "2026-10-24 12:02"
+  },
+  {
     "artista": "5 curiosidades de Emilia Clarke",
     "slug": "5-curiosidades-de-emilia-clarke",
     "imagen": "",
