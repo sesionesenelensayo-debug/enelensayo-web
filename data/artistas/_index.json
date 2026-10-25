@@ -1,5 +1,12 @@
 [
   {
+    "artista": "Shakira",
+    "slug": "shakira",
+    "imagen": "artistas_img/shakira.jpg",
+    "piezas": 1,
+    "updated": "2026-10-25 12:01"
+  },
+  {
     "artista": "5 curiosidades de Pablo Picasso",
     "slug": "5-curiosidades-de-pablo-picasso",
     "imagen": "",
