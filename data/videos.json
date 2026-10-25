@@ -1,6 +1,11 @@
 {
   "shorts": [
     {
+      "id": "ULXhdCHJk2s",
+      "titulo": "5 curiosidades de Pablo Picasso",
+      "fecha": "2026-10-25"
+    },
+    {
       "id": "nrAAi07Bb40",
       "titulo": "5 curiosidades de Emilia Clarke",
       "fecha": "2026-10-23"
@@ -54,11 +59,6 @@
       "id": "L196R9eVP3Y",
       "titulo": "5 curiosidades que no sabías de Tito Jackson",
       "fecha": "2026-09-15"
-    },
-    {
-      "id": "S3dPbvid4Ek",
-      "titulo": "5 curiosidades que no sabías de Celia cruz",
-      "fecha": "2026-09-12"
     }
   ],
   "longs": [
