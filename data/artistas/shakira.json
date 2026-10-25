@@ -1,0 +1,16 @@
+{
+  "artista": "Shakira",
+  "slug": "shakira",
+  "imagen": "artistas_img/shakira.jpg",
+  "shorts": [],
+  "longs": [
+    {
+      "titulo": "¿El fin de un imperio? La tormenta detrás de la separación de Shakira",
+      "url": "https://www.youtube.com/shorts/0hRYZZA-0EE",
+      "fecha": "2026-10-25",
+      "tipo": "long"
+    }
+  ],
+  "tweets": [],
+  "updated": "2026-10-25 12:01"
+}

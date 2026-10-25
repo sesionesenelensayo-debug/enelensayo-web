@@ -63,6 +63,11 @@
   ],
   "longs": [
     {
+      "id": "0hRYZZA-0EE",
+      "titulo": "¿El fin de un imperio? La tormenta detrás de la separación de Shakira",
+      "fecha": "2026-10-25"
+    },
+    {
       "id": "ChBeza7gWzc",
       "titulo": "¿Cómo nació Bohemian Rhapsody? El dilema de Queen en 1975",
       "fecha": "2026-10-24"
@@ -86,11 +91,6 @@
       "id": "DDkovv7UP0A",
       "titulo": "¿Quién fue el poeta detrás de la bossa nova? La historia de Vinícius de Moraes",
       "fecha": "2026-10-19"
-    },
-    {
-      "id": "iNXNYIKiDE4",
-      "titulo": "¿Quién transformó la pantalla en arte? El enigma de Graciela Taquini",
-      "fecha": "2026-10-18"
     }
   ],
   "podcast": []
