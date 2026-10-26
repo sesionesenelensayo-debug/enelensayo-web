@@ -1,5 +1,12 @@
 [
   {
+    "artista": "Salvador Dalí",
+    "slug": "salvador-dal",
+    "imagen": "",
+    "piezas": 1,
+    "updated": "2026-10-26 12:02"
+  },
+  {
     "artista": "Shakira",
     "slug": "shakira",
     "imagen": "artistas_img/shakira.jpg",
