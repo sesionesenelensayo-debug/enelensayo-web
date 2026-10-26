@@ -63,6 +63,11 @@
   ],
   "longs": [
     {
+      "id": "hiFk17jfdeo",
+      "titulo": "¿Cuál es el verdadero legado de Salvador Dalí? La historia completa",
+      "fecha": "2026-10-26"
+    },
+    {
       "id": "0hRYZZA-0EE",
       "titulo": "¿El fin de un imperio? La tormenta detrás de la separación de Shakira",
       "fecha": "2026-10-25"
@@ -86,11 +91,6 @@
       "id": "AOEbBZzkozQ",
       "titulo": "¿El secreto detrás de la voz del rock? | La verdadera historia de Freddie Mercury",
       "fecha": "2026-10-21"
-    },
-    {
-      "id": "DDkovv7UP0A",
-      "titulo": "¿Quién fue el poeta detrás de la bossa nova? La historia de Vinícius de Moraes",
-      "fecha": "2026-10-19"
     }
   ],
   "podcast": []
