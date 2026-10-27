@@ -1,6 +1,18 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Fallece la actriz Susan Saint James a los 80 años",
+    "artista": "Susan Saint James",
+    "intro": "La actriz estadounidense Susan Saint James, conocida por sus papeles en series como \"McMillan & Wife\" y \"Kate & Allie\", falleció el 26 de octubre de 2026. Su muerte se registra en la lista de fallecim",
+    "telegraph_url": "https://telegra.ph/Fallece-la-actriz-Susan-Saint-James-a-los-80-años-10-27",
+    "url": "https://telegra.ph/Fallece-la-actriz-Susan-Saint-James-a-los-80-años-10-27",
+    "imagen_url": "https://enelensayomedia.netlify.app/img/notas/fallece-la-actriz-susan-saint-james-a-los-80-anos-1027.jpg",
+    "fecha": "2026-10-27T07:54:04.791191",
+    "author": "Oliver Ken",
+    "views": 0
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Fallece Donnie Iris, pionero del rock de Ohio y Pennsylvania",
     "artista": "Donnie Iris",
     "intro": "Donnie Iris, nacido Dominic Ierace el 28 de febrero de 1943, falleció el 26 de octubre de 2026. Conocido por su paso por The Jaggerz y Wild Cherry en los setenta y por liderar a los Cruisers en los oc",
@@ -571,15 +583,5 @@
     "imagen_url": "https://enelensayomedia.netlify.app/img/notas/karol-g-desafia-las-reglas-del-genero-en-agosto-de-2026-0903.jpg",
     "fecha": "2026-09-03T12:05:08.952957",
     "url": "https://enelensayomedia.netlify.app/notas/karol-g-desafia-las-reglas-del-genero-en-agosto-de-2026-0903.html"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Muerte de Jonathan Menéndez: el caso que sacude la música latina",
-    "artista": "Jonathan Menéndez y su asesinato",
-    "intro": "El 22 de agosto de 2024 el cuerpo sin vida de Jonathan Menéndez, cantautor argentino de 31 años, fue hallado en su apartamento de Palermo, Buenos Aires. Menéndez, conocido por su fusión de folk y pop ",
-    "telegraph_url": "https://telegra.ph/Muerte-de-Jonathan-Menéndez-el-caso-que-sacude-la-música-latina-09-03",
-    "imagen_url": "https://enelensayomedia.netlify.app/img/notas/muerte-de-jonathan-menendez-el-caso-que-sacude-la-musica-latina-0903.jpg",
-    "fecha": "2026-09-03T10:54:34.709888",
-    "url": "https://enelensayomedia.netlify.app/notas/muerte-de-jonathan-menendez-el-caso-que-sacude-la-musica-latina-0903.html"
   }
 ]
