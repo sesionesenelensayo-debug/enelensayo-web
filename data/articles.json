@@ -1,6 +1,18 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Peso Pluma y Fuerza Regida triunfan en los Billboard 2026",
+    "artista": "Peso Pluma",
+    "intro": "En la edición 2026 de los Billboard, Peso Pluma y Fuerza Regida fueron destacados como los principales ganadores, resaltando el orgullo mexicano en el evento. La noticia subraya su éxito colectivo y l",
+    "telegraph_url": "https://telegra.ph/Peso-Pluma-y-Fuerza-Regida-triunfan-en-los-Billboard-2026-10-27",
+    "url": "https://telegra.ph/Peso-Pluma-y-Fuerza-Regida-triunfan-en-los-Billboard-2026-10-27",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Peso_Pluma%2C_performing_in_Monterrey_%282024-09-24%29_%281%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "fecha": "2026-10-27T12:10:23.248887",
+    "author": "Oliver Ken",
+    "views": 0
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Fallece la escultora Ursula von Rydingsvard",
     "artista": "Ursula von Rydingsvard",
     "intro": "El mundo del arte despide a la reconocida escultora Ursula von Rydingsvard, quien falleció el 27 de octubre de 2026 a la edad de 84 años. Su partida deja un vacío notable en la escena artística contem",
@@ -575,15 +587,5 @@
     "imagen_url": "https://enelensayomedia.netlify.app/img/notas/bad-bunny-redefine-las-reglas-el-silencio-se-rompe-0905.jpg",
     "fecha": "2026-09-05T12:04:04.645257",
     "url": "https://enelensayomedia.netlify.app/notas/bad-bunny-redefine-las-reglas-el-silencio-se-rompe-0905.html"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Bad Bunny estrena nuevo álbum",
-    "artista": "Bad Bunny",
-    "intro": "Lanzó su nuevo álbum disponible en plataformas",
-    "telegraph_url": "https://telegra.ph/Bad-Bunny-estrena-nuevo-álbum-09-04",
-    "imagen_url": "https://enelensayomedia.netlify.app/img/notas/bad-bunny-estrena-nuevo-album-0904.jpg",
-    "fecha": "2026-09-04T12:01:34.933151",
-    "url": "https://enelensayomedia.netlify.app/notas/bad-bunny-estrena-nuevo-album-0904.html"
   }
 ]
