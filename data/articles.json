@@ -1,6 +1,18 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Fallece la escultora Ursula von Rydingsvard",
+    "artista": "Ursula von Rydingsvard",
+    "intro": "El mundo del arte despide a la reconocida escultora Ursula von Rydingsvard, quien falleció el 27 de octubre de 2026 a la edad de 84 años. Su partida deja un vacío notable en la escena artística contem",
+    "telegraph_url": "https://telegra.ph/Fallece-la-escultora-Ursula-von-Rydingsvard-10-27",
+    "url": "https://telegra.ph/Fallece-la-escultora-Ursula-von-Rydingsvard-10-27",
+    "imagen_url": "https://enelensayomedia.netlify.app/img/notas/fallece-la-escultora-ursula-von-rydingsvard-1027.jpg",
+    "fecha": "2026-10-27T08:04:34.812201",
+    "author": "Oliver Ken",
+    "views": 0
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Fallece la actriz Susan Saint James a los 80 años",
     "artista": "Susan Saint James",
     "intro": "La actriz estadounidense Susan Saint James, conocida por sus papeles en series como \"McMillan & Wife\" y \"Kate & Allie\", falleció el 26 de octubre de 2026. Su muerte se registra en la lista de fallecim",
@@ -573,15 +585,5 @@
     "imagen_url": "https://enelensayomedia.netlify.app/img/notas/bad-bunny-estrena-nuevo-album-0904.jpg",
     "fecha": "2026-09-04T12:01:34.933151",
     "url": "https://enelensayomedia.netlify.app/notas/bad-bunny-estrena-nuevo-album-0904.html"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Karol G desafía las reglas del género en agosto de 2026",
-    "artista": "Karol G",
-    "intro": "La música urbana cruza una nueva frontera este agosto de 2026. Karol G, la indiscutible reina del género, ha liberado su sencillo más arriesgado hasta la fecha, sacudiendo los cimientos de la industri",
-    "telegraph_url": "https://telegra.ph/Karol-G-desafía-las-reglas-del-género-en-agosto-de-2026-09-03",
-    "imagen_url": "https://enelensayomedia.netlify.app/img/notas/karol-g-desafia-las-reglas-del-genero-en-agosto-de-2026-0903.jpg",
-    "fecha": "2026-09-03T12:05:08.952957",
-    "url": "https://enelensayomedia.netlify.app/notas/karol-g-desafia-las-reglas-del-genero-en-agosto-de-2026-0903.html"
   }
 ]
