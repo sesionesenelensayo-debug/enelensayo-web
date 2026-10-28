@@ -428,11 +428,12 @@
           🎙️ El Ensayo Podcast
         </p>
         <h2 class="section-title">El podcast de <span class="text-accent">la escena</span></h2>
-        <p class="section-desc">Conversaciones profundas con artistas, productores y gestores culturales. Cada episodio, una historia sin filtros.</p>
+        <p class="section-desc">Todos los videos del canal principal de En el Ensayo: sesiones en vivo, entrevistas y conversaciones con la escena.</p>
       </div>
-      <div class="yt-embed-wrap">
-        <iframe class="yt-embed" src="https://www.youtube.com/embed/N7HQ7HOV2XI" title="El Ensayo Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe>
-      </div>
+      <div class="pod-barra"><input id="podBuscar" type="search" placeholder="Buscar episodio o artista…" aria-label="Buscar en el podcast"><span id="podCuenta"></span></div>
+      <div class="pod-visor" id="podVisor" hidden></div>
+      <div class="pod-grid" id="podGrid"><p class="sx-vacio">Cargando episodios…</p></div>
+      <button class="sx-mas pod-mas" id="podMas" hidden>Ver más episodios</button>
       <div class="section-footer">
         <a href="https://www.youtube.com/@EnelEnsayo" class="btn btn--primary" target="_blank" rel="noopener">Ver todos los episodios →</a>
       </div>
@@ -547,5 +548,6 @@
   <script src="js/main.js"></script>
   <script src="js/secciones.js"></script>
   <script src="js/portada.js"></script>
+  <script src="js/podcast.js"></script>
 </body>
 </html>

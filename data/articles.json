@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Tupac Shakur: el mito del disparo en Las Vegas que aún",
+    "artista": "Tupac Shakur",
+    "intro": "El 31 de agosto de 2026 un jurado halló culpable a Duane \"Keffe D\" Davis de asesinato de primer grado con arma mortal por la muerte de Tupac Shakur. La condena, confirmada el 13 de octubre por la juez",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/tupac-shakur-el-mito-del-disparo-en-las-vegas-que-aun-1028.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/tupac-shakur-el-mito-del-disparo-en-las-vegas-que-aun-1028.jpg",
+    "fecha": "2026-10-28T16:58:12.074806",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "La Llorona: el grito que obligó a la Ciudad de México a esconderse",
     "artista": "La Llorona, la leyenda más famosa de México: orígenes prehispánicos, versiones coloniales y apariciones",
     "intro": "La Llorona es una figura del folclore hispanoamericano que aparece en relatos nocturnos de mujeres que buscan a sus hijos cerca de ríos y cuerpos de agua. Su origen se remonta a tradiciones prehispáni",
@@ -22,7 +35,8 @@
     "imagen_url": "https://enelensayomedia.com/img/notas/explosion-de-lanzamientos-victor-mendivil-y-lisa-entre-los-nuevos-disc-1028.jpg",
     "fecha": "2026-10-28T16:42:44.546452",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "Reportaje"
   },
   {
     "tipo": "reportaje",
@@ -34,7 +48,8 @@
     "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Barbara_Barrie_%22Breaking_Away%22_%281980_ABC_press_photo%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
     "fecha": "2026-10-28T14:14:54.185482",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -46,7 +61,8 @@
     "imagen_url": "https://enelensayomedia.com/img/notas/fallece-el-pianista-stephen-kovacevich-a-los-86-anos-1028.jpg",
     "fecha": "2026-10-28T11:44:47.150774",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -58,7 +74,8 @@
     "imagen_url": "",
     "fecha": "2026-10-28T09:12:01.371170",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -70,7 +87,8 @@
     "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Peso_Pluma%2C_performing_in_Monterrey_%282024-09-24%29_%281%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "fecha": "2026-10-27T12:10:23.248887",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "Reportaje"
   },
   {
     "tipo": "reportaje",
@@ -82,7 +100,8 @@
     "imagen_url": "https://enelensayomedia.com/img/notas/fallece-la-escultora-ursula-von-rydingsvard-1027.jpg",
     "fecha": "2026-10-27T08:04:34.812201",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -94,7 +113,8 @@
     "imagen_url": "https://enelensayomedia.com/img/notas/fallece-la-actriz-susan-saint-james-a-los-80-anos-1027.jpg",
     "fecha": "2026-10-27T07:54:04.791191",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -106,7 +126,8 @@
     "imagen_url": "https://enelensayomedia.com/img/notas/fallece-donnie-iris-pionero-del-rock-de-ohio-y-pennsylvania-1026.jpg",
     "fecha": "2026-10-26T17:17:59.927749",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -118,7 +139,8 @@
     "imagen_url": "https://enelensayomedia.com/img/notas/spotify-wrapped-2026-fechas-y-expectativas-1026.jpg",
     "fecha": "2026-10-26T12:09:44.893693",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "Reportaje"
   },
   {
     "tipo": "reportaje",
@@ -130,7 +152,8 @@
     "imagen_url": "https://enelensayomedia.com/img/notas/fallece-walter-koenig-a-los-90-anos-1026.jpg",
     "fecha": "2026-10-26T10:45:57.986853",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -142,7 +165,8 @@
     "imagen_url": "https://enelensayomedia.com/img/notas/fallece-el-actor-de-voz-eric-bauza-a-los-46-anos-1025.jpg",
     "fecha": "2026-10-25T21:46:45.334872",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -154,7 +178,8 @@
     "imagen_url": "https://enelensayomedia.com/img/notas/rosalia-pide-union-y-talento-latino-en-billboard-2026-1025.jpg",
     "fecha": "2026-10-25T12:07:33.050615",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "Reportaje"
   },
   {
     "tipo": "reportaje",
@@ -166,7 +191,8 @@
     "imagen_url": "https://enelensayomedia.com/img/notas/fallece-el-cineasta-espanol-jose-luis-garcia-sanchez-a-los-85-anos-1025.jpg",
     "fecha": "2026-10-25T05:55:06.935139",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -178,7 +204,8 @@
     "imagen_url": "https://enelensayomedia.com/img/notas/los-angeles-azules-no-aparecen-entre-los-ganadores-de-los-premios-bill-1024.jpg",
     "fecha": "2026-10-24T12:10:40.933123",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "Reportaje"
   },
   {
     "tipo": "reportaje",
@@ -190,7 +217,8 @@
     "imagen_url": "https://enelensayomedia.com/img/notas/fallece-derrick-harriott-pionero-del-ska-rocksteady-y-reggae-a-los-87-1024.jpg",
     "fecha": "2026-10-24T11:16:32.436847",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -202,7 +230,8 @@
     "imagen_url": "https://enelensayomedia.com/img/notas/fallece-donal-lunny-figura-clave-del-folk-irlandes-a-los-79-anos-1024.jpg",
     "fecha": "2026-10-24T00:12:54.657264",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -214,7 +243,8 @@
     "imagen_url": "https://enelensayomedia.com/img/notas/fuerza-regida-vence-a-bad-bunny-en-los-premios-billboard-2026-1023.jpg",
     "fecha": "2026-10-23T12:07:52.706745",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "Reportaje"
   },
   {
     "tipo": "reportaje",
@@ -226,7 +256,8 @@
     "imagen_url": "https://enelensayomedia.com/img/notas/fallece-la-actriz-francesa-marina-vlady-a-los-88-anos-1023.jpg",
     "fecha": "2026-10-23T06:13:49.789064",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -238,7 +269,8 @@
     "imagen_url": "https://enelensayomedia.com/img/notas/fallece-amel-baccouche-la-actriz-de-choufli-hal-1023.jpg",
     "fecha": "2026-10-23T00:17:18.699327",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -250,7 +282,8 @@
     "imagen_url": "",
     "fecha": "2026-10-23T00:09:50.952006",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -262,7 +295,8 @@
     "imagen_url": "https://enelensayomedia.com/img/notas/fallece-a-los-43-anos-el-actor-y-director-arnaud-denis-1022.jpg",
     "fecha": "2026-10-22T23:41:37.496467",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -274,7 +308,8 @@
     "imagen_url": "https://enelensayomedia.com/img/notas/fallece-a-los-97-anos-el-pintor-argentino-carlos-alonso-1022.jpg",
     "fecha": "2026-10-22T23:33:06.319566",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -286,7 +321,8 @@
     "imagen_url": "https://enelensayomedia.com/img/notas/fallece-el-actor-tom-skerritt-1022.jpg",
     "fecha": "2026-10-22T23:25:52.883811",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -298,7 +334,8 @@
     "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/%C5%9Eahan_Arzruni_in_2026.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
     "fecha": "2026-10-21T18:02:10.550328",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -310,7 +347,8 @@
     "imagen_url": "https://enelensayomedia.com/img/notas/fallece-el-legendario-sambista-brasileno-benito-di-paula-a-los-84-anos-1018.jpg",
     "fecha": "2026-10-18T20:26:07.344744",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -322,7 +360,8 @@
     "imagen_url": "https://enelensayomedia.com/img/notas/fallece-la-actriz-y-cantante-brasilena-lua-blanco-a-los-39-anos-1018.jpg",
     "fecha": "2026-10-18T10:54:11.096778",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -334,7 +373,8 @@
     "imagen_url": "",
     "fecha": "2026-10-18T06:24:27.598621",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "noticia",
@@ -346,7 +386,8 @@
     "imagen_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Gustavo_Cordera_2012.jpg/1200px-Gustavo_Cordera_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "fecha": "2026-10-17T00:23:48.470847",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -358,7 +399,8 @@
     "imagen_url": "",
     "fecha": "2026-10-16T06:27:09.675141",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -370,7 +412,8 @@
     "imagen_url": "https://enelensayomedia.com/img/notas/fallece-peabo-bryson-a-los-75-anos-tras-un-derrame-cerebral-1016.jpg",
     "fecha": "2026-10-16T00:14:33.181064",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -382,7 +425,8 @@
     "imagen_url": "",
     "fecha": "2026-10-15T09:00:23.588143",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -394,7 +438,8 @@
     "imagen_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/2019_Pavlovs_Dog_-_by_2eight_-_ZSC4488.jpg/1200px-2019_Pavlovs_Dog_-_by_2eight_-_ZSC4488.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "fecha": "2026-10-15T02:30:29.710567",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -406,7 +451,8 @@
     "imagen_url": "",
     "fecha": "2026-10-13T12:07:38.924002",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "Reportaje"
   },
   {
     "tipo": "reportaje",
@@ -418,7 +464,8 @@
     "imagen_url": "",
     "fecha": "2026-10-12T04:30:57.589714",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -430,7 +477,8 @@
     "imagen_url": "",
     "fecha": "2026-10-11T11:19:51.234010",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -442,7 +490,8 @@
     "imagen_url": "https://enelensayomedia.com/img/notas/muere-piero-autor-de-mi-viejo-a-los-81-anos-en-buenos-aires-1009.jpg",
     "fecha": "2026-10-09T00:09:14.046686",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -454,7 +503,8 @@
     "imagen_url": "https://enelensayomedia.com/img/notas/muere-george-fenton-compositor-de-planeta-azul-y-gandhi-a-los-76-anos-1008.jpg",
     "fecha": "2026-10-08T17:33:36.195314",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -466,7 +516,8 @@
     "imagen_url": "https://enelensayomedia.com/img/notas/muere-victor-hugo-ayala-voz-del-bolero-colombiano-a-los-92-anos-1008.jpg",
     "fecha": "2026-10-08T17:24:56.258606",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -478,7 +529,8 @@
     "imagen_url": "https://enelensayomedia.com/img/notas/muere-andy-williams-guitarrista-de-every-time-i-die-y-luchador-de-aew-1008.jpg",
     "fecha": "2026-10-08T17:16:23.144380",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
@@ -490,7 +542,8 @@
     "fecha": "2026-10-05T12:05:14.458420",
     "author": "Oliver Ken",
     "views": 0,
-    "url": "https://enelensayomedia.com/notas/brian-johnson-cumple-79-anos-y-sigue-sobre-el-escenario-con-ac-dc-1005.html"
+    "url": "https://enelensayomedia.com/notas/brian-johnson-cumple-79-anos-y-sigue-sobre-el-escenario-con-ac-dc-1005.html",
+    "categoria": "Reportaje"
   },
   {
     "tipo": "noticia",
@@ -502,7 +555,8 @@
     "fecha": "2026-10-04T12:03:49.297131",
     "author": "Oliver Ken",
     "views": 0,
-    "url": "https://enelensayomedia.com/notas/fidel-nadal-cumple-61-anos-de-vida-1004.html"
+    "url": "https://enelensayomedia.com/notas/fidel-nadal-cumple-61-anos-de-vida-1004.html",
+    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
@@ -514,7 +568,8 @@
     "fecha": "2026-10-03T12:05:39.095034",
     "author": "Oliver Ken",
     "views": 0,
-    "url": "https://enelensayomedia.com/notas/rosalia-y-el-premio-billboard-salon-de-la-fama-2026-1003.html"
+    "url": "https://enelensayomedia.com/notas/rosalia-y-el-premio-billboard-salon-de-la-fama-2026-1003.html",
+    "categoria": "Reportaje"
   },
   {
     "tipo": "reportaje",
@@ -526,7 +581,8 @@
     "fecha": "2026-10-01T12:06:12.124781",
     "author": "Oliver Ken",
     "views": 0,
-    "url": "https://enelensayomedia.com/notas/julio-jaramillo-91-anos-del-ruisenor-de-america-y-su-pasillo-1001.html"
+    "url": "https://enelensayomedia.com/notas/julio-jaramillo-91-anos-del-ruisenor-de-america-y-su-pasillo-1001.html",
+    "categoria": "Reportaje"
   },
   {
     "tipo": "reportaje",
@@ -538,7 +594,8 @@
     "fecha": "2026-09-30T12:05:14.758527",
     "author": "Oliver Ken",
     "views": 0,
-    "url": "https://enelensayomedia.com/notas/hector-lavoe-cumple-80-anos-ponce-celebra-al-cantante-de-los-cantantes-0930.html"
+    "url": "https://enelensayomedia.com/notas/hector-lavoe-cumple-80-anos-ponce-celebra-al-cantante-de-los-cantantes-0930.html",
+    "categoria": "Reportaje"
   },
   {
     "tipo": "noticia",
@@ -550,7 +607,8 @@
     "fecha": "2026-09-29T12:04:03.899247",
     "author": "Oliver Ken",
     "views": 0,
-    "url": "https://enelensayomedia.com/notas/aleks-syntek-trayectoria-del-cantautor-mexicano-0929.html"
+    "url": "https://enelensayomedia.com/notas/aleks-syntek-trayectoria-del-cantautor-mexicano-0929.html",
+    "categoria": "Música"
   },
   {
     "tipo": "noticia",
@@ -562,7 +620,8 @@
     "fecha": "2026-09-27T12:03:12.931509",
     "author": "Oliver Ken",
     "views": 0,
-    "url": "https://enelensayomedia.com/notas/kid-phenomenon-anuncia-nuevo-album-en-mexico-0927.html"
+    "url": "https://enelensayomedia.com/notas/kid-phenomenon-anuncia-nuevo-album-en-mexico-0927.html",
+    "categoria": "Música"
   },
   {
     "tipo": "noticia",
@@ -573,7 +632,8 @@
     "imagen_url": "",
     "fecha": "2026-09-24T12:01:09.086481",
     "author": "Oliver Ken",
-    "views": 0
+    "views": 0,
+    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
@@ -585,18 +645,7 @@
     "fecha": "2026-09-19T12:04:13.058161",
     "author": "Oliver Ken",
     "views": 0,
-    "url": "https://enelensayomedia.com/notas/m100-enciende-el-mes-de-la-musica-chilena-una-travesia-sonora-inespera-0919.html"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Felipe Colombo reinventa el sonido: rock, funk y pop en una sola explosión",
-    "artista": "Felipe Colombo",
-    "intro": "El cantante y multiinstrumentista argentino‑mexicano Felipe Colombo vuelve a sorprender a la escena musical con su último proyecto, una fusión audaz de rock, funk y pop que ha generado revuelo entre c",
-    "telegraph_url": "https://telegra.ph/Felipe-Colombo-reinventa-el-sonido-rock-funk-y-pop-en-una-sola-explosión-09-18",
-    "imagen_url": "https://enelensayomedia.com/img/notas/felipe-colombo-reinventa-el-sonido-rock-funk-y-pop-en-una-sola-explosi-0918.jpg",
-    "fecha": "2026-09-18T12:04:17.884829",
-    "author": "Oliver Ken",
-    "views": 0,
-    "url": "https://enelensayomedia.com/notas/felipe-colombo-reinventa-el-sonido-rock-funk-y-pop-en-una-sola-explosi-0918.html"
+    "url": "https://enelensayomedia.com/notas/m100-enciende-el-mes-de-la-musica-chilena-una-travesia-sonora-inespera-0919.html",
+    "categoria": "Reportaje"
   }
 ]

@@ -71,3 +71,18 @@
 .banner-tg{display:block;max-width:var(--max-w);margin:12px auto 0;padding:11px 18px;background:linear-gradient(90deg,#229ED9,var(--indigo));color:#fff;font-weight:700;font-size:14px;text-decoration:none;border-radius:99px;text-align:center}
 .banner-tg b{color:var(--yellow)}.banner-tg:hover{filter:brightness(1.12)}
 @media(max-width:1280px){.banner-tg{margin-left:16px;margin-right:16px;border-radius:14px}}
+
+/* ── Podcast: todos los videos del canal principal ── */
+.pod-barra{display:flex;align-items:center;gap:14px;margin-bottom:18px}
+.pod-barra input{flex:1;max-width:420px;padding:11px 16px;border-radius:99px;border:1px solid rgba(255,255,255,.2);background:rgba(255,255,255,.06);color:#fff;font:600 14px var(--font)}
+.pod-barra span{color:var(--gray);font-size:13px}
+.pod-visor{margin-bottom:22px}.pod-video{position:relative;aspect-ratio:16/9;max-width:900px;margin:0 auto;background:#000;border-radius:var(--radius);overflow:hidden}
+.pod-video iframe{position:absolute;inset:0;width:100%;height:100%;border:0}
+.pod-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));gap:18px}
+.pod-card{all:unset;cursor:pointer;display:flex;flex-direction:column;gap:8px;color:#fff}
+.pod-th{position:relative;aspect-ratio:16/9;border-radius:10px;overflow:hidden;background:#1b1030;display:block}
+.pod-th img{width:100%;height:100%;object-fit:cover;display:block;transition:transform .3s}.pod-card:hover .pod-th img{transform:scale(1.05)}
+.pod-th i{position:absolute;inset:0;display:grid;place-items:center;font-style:normal;font-size:34px;color:#fff;background:rgba(0,0,0,.25);opacity:0;transition:opacity .2s}.pod-card:hover .pod-th i{opacity:1}
+.pod-th em{position:absolute;right:8px;bottom:8px;background:rgba(0,0,0,.8);padding:2px 7px;border-radius:5px;font:700 12px var(--font);font-style:normal}
+.pod-t{font-weight:700;font-size:14px;line-height:1.3}.pod-card small{color:var(--yellow);font-size:11px;text-transform:uppercase;font-weight:700;letter-spacing:.05em}
+.pod-mas{display:block;margin:24px auto 0}
