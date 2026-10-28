@@ -1,5 +1,19 @@
 [
   {
+    "artista": "John Bonham",
+    "slug": "john-bonham",
+    "imagen": "",
+    "piezas": 2,
+    "updated": "2026-10-28 16:30"
+  },
+  {
+    "artista": "Queen",
+    "slug": "queen",
+    "imagen": "artistas_img/queen.jpg",
+    "piezas": 2,
+    "updated": "2026-10-28 16:27"
+  },
+  {
     "artista": "Prince",
     "slug": "prince",
     "imagen": "artistas_img/prince.jpg",
@@ -26,13 +40,6 @@
     "imagen": "",
     "piezas": 1,
     "updated": "2026-10-25 11:03"
-  },
-  {
-    "artista": "Queen",
-    "slug": "queen",
-    "imagen": "artistas_img/queen.jpg",
-    "piezas": 1,
-    "updated": "2026-10-24 12:02"
   },
   {
     "artista": "5 curiosidades de Emilia Clarke",
@@ -103,13 +110,6 @@
     "imagen": "",
     "piezas": 1,
     "updated": "2026-10-13 12:31"
-  },
-  {
-    "artista": "John bonham",
-    "slug": "john-bonham",
-    "imagen": "",
-    "piezas": 1,
-    "updated": "2026-10-12 09:51"
   },
   {
     "artista": "John Lennon",
