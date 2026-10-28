@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "John Bonham: la historia detrás de su obra",
+    "artista": "John Bonham",
+    "intro": "John Henry Bonham, nacido el 31 de mayo de 1948 en Redditch, Inglaterra, y fallecido el 25 de septiembre de 1980 en Clewer, sigue siendo recordado como el baterista que definió el sonido de Led Zeppel",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/john-bonham-la-historia-detras-de-su-obra-1028.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/john-bonham-la-historia-detras-de-su-obra-1028.jpg",
+    "fecha": "2026-10-28T17:18:26.688368",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Tupac Shakur: el mito del disparo en Las Vegas que aún",
     "artista": "Tupac Shakur",
     "intro": "El 31 de agosto de 2026 un jurado halló culpable a Duane \"Keffe D\" Davis de asesinato de primer grado con arma mortal por la muerte de Tupac Shakur. La condena, confirmada el 13 de octubre por la juez",
@@ -634,18 +647,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "M100 enciende el Mes de la Música Chilena: una travesía sonora inesperada",
-    "artista": "M100",
-    "intro": "El productor y DJ mexicano M100 ha anunciado una serie de eventos y colaboraciones para conmemorar el Mes de la Música Chilena, una iniciativa que llega en medio de un creciente interés por la música ",
-    "telegraph_url": "https://telegra.ph/M100-enciende-el-Mes-de-la-Música-Chilena-una-travesía-sonora-inesperada-09-19",
-    "imagen_url": "https://enelensayomedia.com/img/notas/m100-enciende-el-mes-de-la-musica-chilena-una-travesia-sonora-inespera-0919.jpg",
-    "fecha": "2026-09-19T12:04:13.058161",
-    "author": "Oliver Ken",
-    "views": 0,
-    "url": "https://enelensayomedia.com/notas/m100-enciende-el-mes-de-la-musica-chilena-una-travesia-sonora-inespera-0919.html",
-    "categoria": "Reportaje"
   }
 ]
