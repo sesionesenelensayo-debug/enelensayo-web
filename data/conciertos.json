@@ -1,0 +1,110 @@
+{
+ "actualizado": "2026-10-28 16:03",
+ "eventos": [],
+ "api": false,
+ "ticketmaster": {
+  "inicio": "https://www.ticketmaster.com.mx/discover/concerts",
+  "recintos": [
+   {
+    "recinto": "Auditorio Nacional",
+    "ciudad": "CDMX",
+    "url": "https://www.ticketmaster.com.mx/search?q=Auditorio%20Nacional"
+   },
+   {
+    "recinto": "Palacio de los Deportes",
+    "ciudad": "CDMX",
+    "url": "https://www.ticketmaster.com.mx/search?q=Palacio%20de%20los%20Deportes"
+   },
+   {
+    "recinto": "Foro Sol",
+    "ciudad": "CDMX",
+    "url": "https://www.ticketmaster.com.mx/search?q=Foro%20Sol"
+   },
+   {
+    "recinto": "Estadio GNP Seguros",
+    "ciudad": "CDMX",
+    "url": "https://www.ticketmaster.com.mx/search?q=Estadio%20GNP%20Seguros"
+   },
+   {
+    "recinto": "Arena CDMX",
+    "ciudad": "CDMX",
+    "url": "https://www.ticketmaster.com.mx/search?q=Arena%20CDMX"
+   },
+   {
+    "recinto": "Pepsi Center WTC",
+    "ciudad": "CDMX",
+    "url": "https://www.ticketmaster.com.mx/search?q=Pepsi%20Center%20WTC"
+   },
+   {
+    "recinto": "Teatro Metropólitan",
+    "ciudad": "CDMX",
+    "url": "https://www.ticketmaster.com.mx/search?q=Teatro%20Metrop%C3%B3litan"
+   },
+   {
+    "recinto": "Auditorio Telmex",
+    "ciudad": "Guadalajara",
+    "url": "https://www.ticketmaster.com.mx/search?q=Auditorio%20Telmex"
+   },
+   {
+    "recinto": "Arena VFG",
+    "ciudad": "Guadalajara",
+    "url": "https://www.ticketmaster.com.mx/search?q=Arena%20VFG"
+   },
+   {
+    "recinto": "Auditorio Citibanamex",
+    "ciudad": "Monterrey",
+    "url": "https://www.ticketmaster.com.mx/search?q=Auditorio%20Citibanamex"
+   },
+   {
+    "recinto": "Arena Monterrey",
+    "ciudad": "Monterrey",
+    "url": "https://www.ticketmaster.com.mx/search?q=Arena%20Monterrey"
+   },
+   {
+    "recinto": "Estadio Akron",
+    "ciudad": "Guadalajara",
+    "url": "https://www.ticketmaster.com.mx/search?q=Estadio%20Akron"
+   },
+   {
+    "recinto": "Estadio BBVA",
+    "ciudad": "Monterrey",
+    "url": "https://www.ticketmaster.com.mx/search?q=Estadio%20BBVA"
+   },
+   {
+    "recinto": "Teatro Diana",
+    "ciudad": "Guadalajara",
+    "url": "https://www.ticketmaster.com.mx/search?q=Teatro%20Diana"
+   }
+  ]
+ },
+ "fever": [
+  {
+   "nombre": "Música en vivo — CDMX",
+   "url": "https://feverup.com/es/ciudad-de-mexico/eventos-musicales"
+  },
+  {
+   "nombre": "Candlelight: conciertos a la luz de las velas — CDMX",
+   "url": "https://feverup.com/es/ciudad-de-mexico/candlelight"
+  },
+  {
+   "nombre": "The Jazz Room — CDMX",
+   "url": "https://feverup.com/es/ciudad-de-mexico/the-jazz-room"
+  },
+  {
+   "nombre": "Lugares y recintos — CDMX",
+   "url": "https://feverup.com/es/ciudad-de-mexico/venue"
+  },
+  {
+   "nombre": "Todo en Guadalajara",
+   "url": "https://feverup.com/es/guadalajara"
+  },
+  {
+   "nombre": "Todo en Monterrey",
+   "url": "https://feverup.com/es/monterrey"
+  },
+  {
+   "nombre": "Todo en CDMX",
+   "url": "https://feverup.com/es/ciudad-de-mexico"
+  }
+ ]
+}
