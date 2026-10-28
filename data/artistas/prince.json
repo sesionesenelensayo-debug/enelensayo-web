@@ -1,0 +1,16 @@
+{
+  "artista": "Prince",
+  "slug": "prince",
+  "imagen": "artistas_img/prince.jpg",
+  "shorts": [],
+  "longs": [
+    {
+      "titulo": "¿Se extinguió su legado o vive en cada nota? La verdad detrás de una leyenda",
+      "url": "https://www.youtube.com/shorts/WIiOttznNpE",
+      "fecha": "2026-10-28",
+      "tipo": "long"
+    }
+  ],
+  "tweets": [],
+  "updated": "2026-10-28 12:10"
+}

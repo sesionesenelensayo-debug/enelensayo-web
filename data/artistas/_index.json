@@ -1,5 +1,12 @@
 [
   {
+    "artista": "Prince",
+    "slug": "prince",
+    "imagen": "artistas_img/prince.jpg",
+    "piezas": 1,
+    "updated": "2026-10-28 12:10"
+  },
+  {
     "artista": "Salvador Dalí",
     "slug": "salvador-dal",
     "imagen": "",
