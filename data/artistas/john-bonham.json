@@ -1,5 +1,5 @@
 {
-  "artista": "John bonham",
+  "artista": "John Bonham",
   "slug": "john-bonham",
   "imagen": "",
   "shorts": [],
@@ -9,8 +9,14 @@
       "url": "https://www.youtube.com/shorts/5W3k-4wMFSU",
       "fecha": "2026-10-12",
       "tipo": "long"
+    },
+    {
+      "titulo": "John Bonham: la historia detrás de su obra",
+      "url": "https://www.youtube.com/shorts/66FfK2si07I",
+      "fecha": "2026-10-28",
+      "tipo": "long"
     }
   ],
   "tweets": [],
-  "updated": "2026-10-12 09:51"
+  "updated": "2026-10-28 16:30"
 }
