@@ -46,7 +46,7 @@
         <span class="logo-sub">MEDIA</span>
       </a>
       <ul class="nav-links">
-        <li><a href="#noticias">Noticias</a></li>
+        <li><a href="#notas">Noticias</a></li>
         <li><a href="#chisme">Chisme</a></li>
         <li><a href="#misterio">Misterio</a></li>
         <li><a href="#deporte">Deporte</a></li>
@@ -62,7 +62,7 @@
       </button>
     </div>
     <div class="nav-mobile" id="navMobile">
-      <a href="#noticias">Noticias</a>
+      <a href="#notas">Noticias</a>
       <a href="#chisme">Chisme</a>
       <a href="#misterio">Misterio</a>
       <a href="#deporte">Deporte</a>
@@ -75,6 +75,54 @@
     </div>
   </nav>
 
+  <!-- ── PORTADA ── -->
+  <div class="tira-sp"><div class="cinta-sp" id="cintaSp"><span>Cargando lo más escuchado…</span></div></div>
+  <a class="banner-tg" href="https://t.me/enelensayomedia" target="_blank" rel="noopener">📲 Únete GRATIS al canal de Telegram de En el Ensayo Media: la nota del día, el Top 20 de Spotify y conciertos antes que nadie <b id="tgCuenta"></b> →</a>
+  <div class="fecha-sx" id="fechaSx"></div>
+  <main class="portada" id="portada">
+    <aside class="col-sp" aria-label="Top 20 Spotify">
+      <div class="caja">
+        <h2><span class="dot dot--live"></span> Top 20 en Spotify</h2>
+        <div class="pestanas"><button class="on" data-sp="mexico">México hoy</button><button data-sp="mundo">Mundo</button></div>
+        <ol class="sp-lista" id="spLista"><li class="sx-vacio">Cargando…</li></ol>
+        <p class="sx-aviso" id="spFuente"></p>
+      </div>
+    </aside>
+    <section class="col-centro" aria-label="Nota del día">
+      <div id="notaDiaPortada"><div class="article-skeleton"></div></div>
+      <div class="otras" id="otrasNotas"></div>
+    </section>
+    <aside class="col-conc" aria-label="Próximos conciertos">
+      <div class="caja">
+        <h2>🎟 Próximos conciertos</h2>
+        <ul class="conc-lista" id="concLista"><li class="sx-vacio">Cargando…</li></ul>
+        <a class="conc-mas" href="#conciertos">Ver boletos en Ticketmaster y Fever →</a>
+      </div>
+    </aside>
+  </main>
+
+  <section class="section" id="notas">
+    <div class="section-inner">
+      <div class="section-header">
+        <p class="section-eyebrow"><span class="dot dot--yellow"></span>Todas las notas</p>
+        <h2 class="section-title">Lo último en <span class="text-accent">En el Ensayo</span></h2>
+      </div>
+      <div class="sx-grid sx-notas" id="todasNotas"></div>
+      <button class="sx-mas" id="masNotas" hidden>Ver más notas</button>
+    </div>
+  </section>
+
+  <section class="section" id="videos">
+    <div class="section-inner">
+      <div class="section-header">
+        <p class="section-eyebrow"><span class="dot dot--yellow"></span>Videos</p>
+        <h2 class="section-title">Shorts y <span class="text-accent">documentales</span></h2>
+      </div>
+      <div class="sx-grid sx-vids" id="todosVideos"></div>
+    </div>
+  </section>
+
+  <div class="legacy" hidden>
   <!-- ── HERO ── -->
   <section class="hero">
     <div class="hero-grid-bg"></div>
@@ -94,7 +142,7 @@
         Porque cada artista tiene una historia que merece ser contada.
       </p>
       <div class="hero-actions">
-        <a href="#noticias" class="btn btn--primary">Leer últimas noticias</a>
+        <a href="#notas" class="btn btn--primary">Leer últimas noticias</a>
         <a href="#sobre" class="btn btn--ghost">Conoce el proyecto</a>
       </div>
       <div class="hero-stats">
@@ -224,6 +272,8 @@
       </div>
     </div>
   </section>
+
+  </div>
 
   <section class="section" id="chisme">
     <div class="section-inner">
@@ -519,5 +569,6 @@
 
   <script src="js/main.js"></script>
   <script src="js/secciones.js"></script>
+  <script src="js/portada.js"></script>
 </body>
 </html>
