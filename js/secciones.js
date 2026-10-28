@@ -21,10 +21,20 @@
   }
 
   get('data/secciones.json').then(function (d) {
-    tarjetas('sxChisme', d.chisme, 'Chisme');
     tarjetas('sxMisterio', d.misterio, 'Misterio');
     tarjetas('sxDeporte', d.deporte, 'Música y deporte');
     propios('sxMisterioPropio', d.misterio_propio);
+  }).catch(function () { });
+
+  // Chisme PROPIO: solo notas de este sitio (categoría Chisme), con foto y enlace interno
+  get('data/articles.json').then(function (arts) {
+    var el = document.getElementById('sxChisme'); if (!el) return;
+    var l = arts.filter(function (a) { return (a.categoria || '') === 'Chisme'; }).sort(function (a, b) { return new Date(b.fecha) - new Date(a.fecha); }).slice(0, 12);
+    if (!l.length) { el.innerHTML = '<p class="sx-vacio">Preparando las notas de hoy…</p>'; return; }
+    el.innerHTML = l.map(function (a) {
+      return '<a class="sx-card" href="' + esc(a.url) + '"><div class="foto">' + (a.imagen_url ? '<img loading="lazy" src="' + esc(a.imagen_url) + '" alt="" onerror="this.remove()">' : '') + '</div><div class="cuerpo"><span class="sx-tag">Chisme</span><h3>' +
+        esc(a.titulo) + '</h3><span class="sx-meta"><b>' + esc(a.artista || '') + '</b><span>' + fechaCorta(a.fecha) + '</span></span></div></a>';
+    }).join('');
   }).catch(function () { });
 
   get('data/conciertos.json').then(function (c) {
