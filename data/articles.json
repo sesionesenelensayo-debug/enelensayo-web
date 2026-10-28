@@ -1,6 +1,18 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Fallece el director Peter Medak, figura del cine y la TV británico‑húngaro",
+    "artista": "Peter Medak",
+    "intro": "El director húngaro‑británico Peter Medak falleció el martes 27 de octubre de 2026 en Los Ángeles, donde residía. La familia anunció su muerte a los 88 años a través de The Hollywood Reporter. No se h",
+    "telegraph_url": "https://telegra.ph/Fallece-el-director-Peter-Medak-figura-del-cine-y-la-TV-británicohúngaro-10-28",
+    "url": "https://telegra.ph/Fallece-el-director-Peter-Medak-figura-del-cine-y-la-TV-británicohúngaro-10-28",
+    "imagen_url": "",
+    "fecha": "2026-10-28T09:12:01.371170",
+    "author": "Oliver Ken",
+    "views": 0
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Peso Pluma y Fuerza Regida triunfan en los Billboard 2026",
     "artista": "Peso Pluma",
     "intro": "En la edición 2026 de los Billboard, Peso Pluma y Fuerza Regida fueron destacados como los principales ganadores, resaltando el orgullo mexicano en el evento. La noticia subraya su éxito colectivo y l",
@@ -577,15 +589,5 @@
     "imagen_url": "https://enelensayomedia.netlify.app/img/notas/rosalia-triunfa-en-las-nominaciones-a-los-premios-billboard-de-la-musi-0910.jpg",
     "fecha": "2026-09-10T12:02:23.853381",
     "url": "https://enelensayomedia.netlify.app/notas/rosalia-triunfa-en-las-nominaciones-a-los-premios-billboard-de-la-musi-0910.html"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Bad Bunny redefine las reglas: el silencio se rompe",
-    "artista": "Bad Bunny",
-    "intro": "En El Ensayo Media — La música urbana global vuelve a detener su curso. Benito Antonio Martínez Ocasio, conocido mundialmente como Bad Bunny, ha lanzado este día su nueva producción discográfica en to",
-    "telegraph_url": "https://telegra.ph/Bad-Bunny-redefine-las-reglas-el-silencio-se-rompe-09-05",
-    "imagen_url": "https://enelensayomedia.netlify.app/img/notas/bad-bunny-redefine-las-reglas-el-silencio-se-rompe-0905.jpg",
-    "fecha": "2026-09-05T12:04:04.645257",
-    "url": "https://enelensayomedia.netlify.app/notas/bad-bunny-redefine-las-reglas-el-silencio-se-rompe-0905.html"
   }
 ]
