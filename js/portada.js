@@ -7,6 +7,7 @@
   var fc = function (f) { var d = new Date(f); return isNaN(d) ? '' : d.toLocaleDateString('es-MX', { day: 'numeric', month: 'short' }); };
   var foto = function (u) { return u ? '<img src="' + esc(u) + '" alt="" loading="lazy" onerror="this.remove()">' : ''; };
   var corta = function (t) { if (t.length < 190) return t; return t.slice(0, 200).replace(/\s+\S*$/, '') + '…'; };
+  var cat = function (a) { return a.categoria || (/fallece|muere|muri/i.test(a.titulo) ? 'In memoriam' : 'Reportaje'); };
   var href = function (a) { var u = a.url || a.telegraph_url || ''; return u && u !== 'https://telegra.ph' ? u : '#notas'; };
 
   var f = $('fechaSx'); if (f) f.textContent = new Date().toLocaleDateString('es-MX', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' }) + ' · Noticias y cultura musical de México';
@@ -24,7 +25,7 @@
     var g = $('todasNotas'); if (!g) return;
     g.innerHTML = TODAS.slice(0, SHOWN).map(function (a) {
       return '<a class="sx-card" href="' + esc(href(a)) + '" target="_blank" rel="noopener"><div class="foto">' + foto(a.imagen_url) + '</div><div class="cuerpo">' +
-        '<h3>' + esc(a.titulo) + '</h3><span class="sx-meta"><b>' + esc(a.artista || a.tipo) + '</b><span>' + fc(a.fecha) + '</span></span></div></a>';
+        '<span class="sx-tag">' + esc(cat(a)) + '</span><h3>' + esc(a.titulo) + '</h3><span class="sx-meta"><b>' + esc(a.artista || a.tipo) + '</b><span>' + fc(a.fecha) + '</span></span></div></a>';
     }).join('');
     var b = $('masNotas'); if (b) b.hidden = SHOWN >= TODAS.length;
   }
@@ -37,12 +38,12 @@
     if (nd && w) {
       var hoy = new Date(nd.fecha).toDateString() === new Date().toDateString();
       w.innerHTML = '<a class="destacada-sx" href="' + esc(href(nd)) + '" target="_blank" rel="noopener"><div class="foto">' + (nd.imagen_url ? foto(nd.imagen_url) : '🎵') +
-        '</div><div class="txt"><span class="chip-sx"><span class="dot dot--live"></span>Nota del día' + (hoy ? '' : ' · ' + fc(nd.fecha)) + '</span><h2>' + esc(nd.titulo) + '</h2>' +
+        '</div><div class="txt"><span class="chip-sx"><span class="dot dot--live"></span>Nota del día · ' + esc(cat(nd)) + (hoy ? '' : ' · ' + fc(nd.fecha)) + '</span><h2>' + esc(nd.titulo) + '</h2>' +
         '<p>' + esc(corta(nd.intro || '')) + '</p><div class="meta"><span>' + esc(nd.artista || '') + ' · ' + fc(nd.fecha) + '</span><span class="leer">Leer nota →</span></div></div></a>';
     }
     var o = $('otrasNotas');
     if (o) o.innerHTML = TODAS.filter(function (a) { return a !== nd; }).slice(0, 3).map(function (a) {
-      return '<a class="otra" href="' + esc(href(a)) + '" target="_blank" rel="noopener"><div class="foto">' + foto(a.imagen_url) + '</div><h3>' + esc(a.titulo) + '</h3><small>' + fc(a.fecha) + '</small></a>';
+      return '<a class="otra" href="' + esc(href(a)) + '" target="_blank" rel="noopener"><div class="foto">' + foto(a.imagen_url) + '</div><h3><span class="sx-tag" style="margin-right:6px">' + esc(cat(a)) + '</span>' + esc(a.titulo) + '</h3><small>' + fc(a.fecha) + '</small></a>';
     }).join('');
     pintaNotas();
   }).catch(function () { });
