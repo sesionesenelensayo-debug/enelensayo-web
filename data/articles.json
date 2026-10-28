@@ -1,6 +1,18 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Explosión de lanzamientos: Víctor Mendivil y LISA entre los nuevos discos",
+    "artista": "Discos de la semana",
+    "intro": "Octubre de 2026 se llenó de novedades discográficas: seis proyectos llegan a la escena, cubriendo géneros que van de la música latina al pop y la alternativa. Cada uno se publica bajo un sello distint",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/explosion-de-lanzamientos-victor-mendivil-y-lisa-entre-los-nuevos-disc-1028.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/explosion-de-lanzamientos-victor-mendivil-y-lisa-entre-los-nuevos-disc-1028.jpg",
+    "fecha": "2026-10-28T16:42:44.546452",
+    "author": "Oliver Ken",
+    "views": 0
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Fallece la actriz Barbara Barrie a los 95 años",
     "artista": "Barbara Barrie",
     "intro": "La actriz y autora estadounidense Barbara Barrie, conocida por su papel en \"Breaking Away\" y su premio en Cannes, falleció el 28 de octubre de 2026. Su muerte se registra en la lista de fallecimientos",
@@ -583,15 +595,5 @@
     "imagen_url": "https://enelensayomedia.com/img/notas/edgar-barrera-encabeza-nominaciones-en-los-latin-grammy-2026-con-10-ca-0917.jpg",
     "fecha": "2026-09-17T12:03:42.968483",
     "url": "https://enelensayomedia.com/notas/edgar-barrera-encabeza-nominaciones-en-los-latin-grammy-2026-con-10-ca-0917.html"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Natalia Jiménez rompe el silencio con “Y Punto”: el nuevo capítulo de una voz que no cesa",
-    "artista": "Natalia Jiménez",
-    "intro": "Después de una pausa de casi dos años desde su último sencillo, la cantante mexicana Natalia Jiménez vuelve al escenario con “Y Punto”, una canción que no solo marca el lanzamiento de su próximo álbum",
-    "telegraph_url": "https://telegra.ph/Natalia-Jiménez-rompe-el-silencio-con-Y-Punto-el-nuevo-capítulo-de-una-voz-que-no-cesa-09-16",
-    "imagen_url": "https://enelensayomedia.com/img/notas/natalia-jimenez-rompe-el-silencio-con-y-punto-el-nuevo-capitulo-de-una-0916.jpg",
-    "fecha": "2026-09-16T12:04:18.983816",
-    "url": "https://enelensayomedia.com/notas/natalia-jimenez-rompe-el-silencio-con-y-punto-el-nuevo-capitulo-de-una-0916.html"
   }
 ]
