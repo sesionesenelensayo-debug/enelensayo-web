@@ -86,3 +86,36 @@
 .pod-th em{position:absolute;right:8px;bottom:8px;background:rgba(0,0,0,.8);padding:2px 7px;border-radius:5px;font:700 12px var(--font);font-style:normal}
 .pod-t{font-weight:700;font-size:14px;line-height:1.3}.pod-card small{color:var(--yellow);font-size:11px;text-transform:uppercase;font-weight:700;letter-spacing:.05em}
 .pod-mas{display:block;margin:24px auto 0}
+
+/* ══ Optimización para celulares ══ */
+html{-webkit-text-size-adjust:100%}
+img,iframe{max-width:100%}
+@media(max-width:760px){
+  .section{padding:44px 16px!important}
+  .section-title{font-size:1.7rem!important;line-height:1.15}
+  .section-desc{font-size:.95rem}
+  .tira-sp{margin-top:60px;font-size:13px}
+  .banner-tg{margin:10px 12px 0;padding:11px 14px;font-size:13px;line-height:1.35;border-radius:14px}
+  .fecha-sx{padding:0 14px;font-size:12px}
+  .portada{padding:0 12px;gap:18px;margin:12px auto 30px}
+  .caja{padding:14px}
+  .destacada-sx .txt{padding:16px 16px 20px}
+  .destacada-sx h2{font-size:23px!important}
+  .destacada-sx p{font-size:15px}
+  .destacada-sx .meta{flex-direction:column;align-items:flex-start;gap:10px}
+  .destacada-sx .leer{align-self:stretch;text-align:center;padding:12px}
+  .otras{grid-template-columns:1fr 1fr;gap:12px}
+  .sx-grid{grid-template-columns:1fr;gap:12px}
+  .sx-card{padding:16px}.sx-notas .sx-card{padding:0}
+  .sx-card h3{font-size:16px}
+  .sx-ev{grid-template-columns:56px 1fr}
+  .sx-chip{padding:11px 14px;font-size:14px}
+  .hitos{grid-template-columns:1fr}
+  .pod-grid{grid-template-columns:1fr 1fr;gap:12px}.pod-t{font-size:13px}
+  .pod-barra{flex-direction:column;align-items:stretch}.pod-barra input{max-width:none;font-size:16px}
+  .sp-lista li{padding:10px 0}.pestanas button{padding:10px 0;font-size:13px}
+  .conc-lista li{padding:12px 0}.conc-mas,.sx-mas{display:block;padding:12px;font-size:14px}
+  .sp-lista small{font-size:11px}
+}
+@media(max-width:420px){.otras{grid-template-columns:1fr}.pod-grid{grid-template-columns:1fr}}
+@media(max-width:760px){.destacada-sx .foto{aspect-ratio:16/11}.destacada-sx .foto img{object-position:center 20%}}
