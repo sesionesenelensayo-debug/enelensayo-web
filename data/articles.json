@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "La Llorona: el grito que obligó a la Ciudad de México a esconderse",
+    "artista": "La Llorona, la leyenda más famosa de México: orígenes prehispánicos, versiones coloniales y apariciones",
+    "intro": "La Llorona es una figura del folclore hispanoamericano que aparece en relatos nocturnos de mujeres que buscan a sus hijos cerca de ríos y cuerpos de agua. Su origen se remonta a tradiciones prehispáni",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/la-llorona-el-grito-que-obligo-a-la-ciudad-de-mexico-a-esconderse-1028.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-llorona-el-grito-que-obligo-a-la-ciudad-de-mexico-a-esconderse-1028.jpg",
+    "fecha": "2026-10-28T16:55:34.099087",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Terror y misterio"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Explosión de lanzamientos: Víctor Mendivil y LISA entre los nuevos discos",
     "artista": "Discos de la semana",
     "intro": "Octubre de 2026 se llenó de novedades discográficas: seis proyectos llegan a la escena, cubriendo géneros que van de la música latina al pop y la alternativa. Cada uno se publica bajo un sello distint",
@@ -585,15 +598,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "url": "https://enelensayomedia.com/notas/felipe-colombo-reinventa-el-sonido-rock-funk-y-pop-en-una-sola-explosi-0918.html"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Edgar Barrera encabeza nominaciones en los Latin Grammy 2026 con 10 categorías",
-    "artista": "Edgar Barrera",
-    "intro": "En la ceremonia de los Latin Grammy 2026, el productor, compositor y cantante mexicano Edgar Barrera ha alcanzado la cifra más alta de nominaciones en la historia reciente del certamen: diez categoría",
-    "telegraph_url": "https://telegra.ph/Edgar-Barrera-encabeza-nominaciones-en-los-Latin-Grammy-2026-con-10-categorías-09-17",
-    "imagen_url": "https://enelensayomedia.com/img/notas/edgar-barrera-encabeza-nominaciones-en-los-latin-grammy-2026-con-10-ca-0917.jpg",
-    "fecha": "2026-09-17T12:03:42.968483",
-    "url": "https://enelensayomedia.com/notas/edgar-barrera-encabeza-nominaciones-en-los-latin-grammy-2026-con-10-ca-0917.html"
   }
 ]
