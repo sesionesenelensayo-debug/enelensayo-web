@@ -63,6 +63,11 @@
   ],
   "longs": [
     {
+      "id": "WIiOttznNpE",
+      "titulo": "¿Se extinguió su legado o vive en cada nota? La verdad detrás de una leyenda",
+      "fecha": "2026-10-28"
+    },
+    {
       "id": "hiFk17jfdeo",
       "titulo": "¿Cuál es el verdadero legado de Salvador Dalí? La historia completa",
       "fecha": "2026-10-26"
@@ -86,11 +91,6 @@
       "id": "95QgV3gLqN8",
       "titulo": "Cómo cuatro jóvenes de Liverpool cambiaron la historia de la música",
       "fecha": "2026-10-22"
-    },
-    {
-      "id": "AOEbBZzkozQ",
-      "titulo": "¿El secreto detrás de la voz del rock? | La verdadera historia de Freddie Mercury",
-      "fecha": "2026-10-21"
     }
   ],
   "podcast": []
