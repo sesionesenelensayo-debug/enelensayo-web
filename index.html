@@ -13,6 +13,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="css/secciones.css" />
   <!-- SEO structured data -->
   <script type="application/ld+json">
   {
@@ -46,6 +47,11 @@
       </a>
       <ul class="nav-links">
         <li><a href="#noticias">Noticias</a></li>
+        <li><a href="#chisme">Chisme</a></li>
+        <li><a href="#misterio">Misterio</a></li>
+        <li><a href="#deporte">Deporte</a></li>
+        <li><a href="#conciertos">Conciertos</a></li>
+        <li><a href="#hitos">Hitos</a></li>
         <li><a href="#shorts">Shorts</a></li>
         <li><a href="#longs">Longs</a></li>
         <li><a href="#podcast">Podcast</a></li>
@@ -57,6 +63,11 @@
     </div>
     <div class="nav-mobile" id="navMobile">
       <a href="#noticias">Noticias</a>
+      <a href="#chisme">Chisme</a>
+      <a href="#misterio">Misterio</a>
+      <a href="#deporte">Deporte</a>
+      <a href="#conciertos">Conciertos</a>
+      <a href="#hitos">Hitos</a>
       <a href="#shorts">Shorts</a>
       <a href="#longs">Longs</a>
       <a href="#podcast">Podcast</a>
@@ -213,6 +224,68 @@
       </div>
     </div>
   </section>
+
+  <section class="section" id="chisme">
+    <div class="section-inner">
+      <div class="section-header">
+        <p class="section-eyebrow"><span class="dot dot--yellow"></span>Lo que se comenta</p>
+        <h2 class="section-title">Chisme <span class="text-accent">musical</span></h2>
+        <p class="section-desc">Lo más comentado de cantantes y famosos, con enlace a la nota completa de cada medio.</p>
+      </div>
+      <div class="sx-grid" id="sxChisme"><p class="sx-vacio">Cargando…</p></div>
+    </div>
+  </section>
+
+  <section class="section" id="misterio">
+    <div class="section-inner">
+      <div class="section-header">
+        <p class="section-eyebrow"><span class="dot dot--yellow"></span>Leyendas y casos</p>
+        <h2 class="section-title">Misterio <span class="text-accent">y terror</span></h2>
+        <p class="section-desc">Historias sin resolver, leyendas de México y nuestros documentales de terror.</p>
+      </div>
+      <div class="sx-grid" id="sxMisterioPropio"></div>
+      <div class="sx-grid" id="sxMisterio" style="margin-top:16px"><p class="sx-vacio">Cargando…</p></div>
+    </div>
+  </section>
+
+  <section class="section" id="deporte">
+    <div class="section-inner">
+      <div class="section-header">
+        <p class="section-eyebrow"><span class="dot dot--yellow"></span>Cuando se cruzan</p>
+        <h2 class="section-title">Música <span class="text-accent">y deporte</span></h2>
+        <p class="section-desc">Shows de medio tiempo, himnos, canciones de mundiales y conciertos en estadios.</p>
+      </div>
+      <div class="sx-grid" id="sxDeporte"><p class="sx-vacio">Cargando…</p></div>
+    </div>
+  </section>
+
+  <section class="section" id="conciertos">
+    <div class="section-inner">
+      <div class="section-header">
+        <p class="section-eyebrow"><span class="dot dot--yellow"></span>Boletos y planes</p>
+        <h2 class="section-title">Próximos <span class="text-accent">conciertos</span></h2>
+        <p class="section-desc">Encuentra funciones en Ticketmaster México y planes musicales en Fever.</p>
+      </div>
+      <div class="sx-grid" id="sxEventos"></div>
+      <h3 class="sx-sub">Ticketmaster México</h3>
+      <div class="sx-chips" id="sxTm"></div>
+      <h3 class="sx-sub">Lugares y planes en Fever</h3>
+      <div class="sx-chips" id="sxFever"></div>
+      <p class="sx-aviso">Enlaces externos: precios, fechas y disponibilidad dependen de Ticketmaster y Fever.</p>
+    </div>
+  </section>
+
+  <section class="section" id="hitos">
+    <div class="section-inner">
+      <div class="section-header">
+        <p class="section-eyebrow"><span class="dot dot--yellow"></span>Crecemos contigo</p>
+        <h2 class="section-title">Nuestros <span class="text-accent">hitos</span></h2>
+        <p class="section-desc">Seguidores y reproducciones en vivo, con la barra al siguiente hito. Sé parte del próximo.</p>
+      </div>
+      <div class="hitos" id="sxHitos"></div>
+    </div>
+  </section>
+
 
   <!-- ── YOUTUBE SHORTS CAROUSEL ── -->
   <section class="section section--dark shorts-carousel-section" id="shorts">
@@ -445,5 +518,6 @@
   </footer>
 
   <script src="js/main.js"></script>
+  <script src="js/secciones.js"></script>
 </body>
 </html>
