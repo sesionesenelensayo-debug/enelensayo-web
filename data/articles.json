@@ -1,6 +1,18 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Fallece la actriz Barbara Barrie a los 95 años",
+    "artista": "Barbara Barrie",
+    "intro": "La actriz y autora estadounidense Barbara Barrie, conocida por su papel en \"Breaking Away\" y su premio en Cannes, falleció el 28 de octubre de 2026. Su muerte se registra en la lista de fallecimientos",
+    "telegraph_url": "https://telegra.ph/Fallece-la-actriz-Barbara-Barrie-a-los-95-años-10-28",
+    "url": "https://telegra.ph/Fallece-la-actriz-Barbara-Barrie-a-los-95-años-10-28",
+    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Barbara_Barrie_%22Breaking_Away%22_%281980_ABC_press_photo%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "fecha": "2026-10-28T14:14:54.185482",
+    "author": "Oliver Ken",
+    "views": 0
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Fallece el pianista Stephen Kovacevich a los 86 años",
     "artista": "Stephen Kovacevich",
     "intro": "El pianista y director de orquesta estadounidense Stephen Kovacevich murió a los 86 años, según informó Slippedisc el 28 de octubre de 2026. La noticia se anunció el día anterior, el 27 de octubre, au",
@@ -581,15 +593,5 @@
     "imagen_url": "https://enelensayomedia.netlify.app/img/notas/natalia-jimenez-rompe-el-silencio-con-y-punto-el-nuevo-capitulo-de-una-0916.jpg",
     "fecha": "2026-09-16T12:04:18.983816",
     "url": "https://enelensayomedia.netlify.app/notas/natalia-jimenez-rompe-el-silencio-con-y-punto-el-nuevo-capitulo-de-una-0916.html"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Peso Pluma encabeza los Billboard 2026 con 17 nominaciones",
-    "artista": "Peso Pluma",
-    "intro": "El cantante mexicano Peso Pluma, nombre artístico de Hassan Emilio Kabande Laija, ha marcado un antes y un después en la música latina al encabezar la lista de finalistas de los Premios Billboard 2026",
-    "telegraph_url": "https://telegra.ph/Peso-Pluma-encabeza-los-Billboard-2026-con-17-nominaciones-09-11",
-    "imagen_url": "https://enelensayomedia.netlify.app/img/notas/peso-pluma-encabeza-los-billboard-2026-con-17-nominaciones-0911.jpg",
-    "fecha": "2026-09-11T12:04:11.114449",
-    "url": "https://enelensayomedia.netlify.app/notas/peso-pluma-encabeza-los-billboard-2026-con-17-nominaciones-0911.html"
   }
 ]
