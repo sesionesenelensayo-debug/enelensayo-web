@@ -67,7 +67,7 @@
       ['Facebook', 'fb_fans', 'https://www.facebook.com/enelensayomedia', '#1877F2', 'f', 'seguidores'],
       ['Instagram', 'ig_seguidores', 'https://www.instagram.com/enelensayomedia', '#E1306C', 'IG', 'seguidores'],
       ['Telegram', 'telegram_miembros', 'https://t.me/enelensayomedia', '#229ED9', '✈', 'suscriptores'],
-      ['X', 'x_seguidores', 'https://x.com/enelensayo', '#8b87a0', '𝕏', 'seguidores'],
+      ['X', 'x_seguidores', 'https://x.com/Enelensayomedia', '#8b87a0', '𝕏', 'seguidores'],
       ['Reproducciones Shorts', 'yt_views_shorts', 'https://www.youtube.com/@EnelEnsayoMedia/shorts', '#FFB300', '👁', 'vistas'],
       ['Reproducciones Longs', 'yt_views_longs', 'https://www.youtube.com/@EnelEnsayoMedia/videos', '#673AB7', '🎬', 'vistas'],
       ['Visitas al sitio', 'visitas_sitio', '#portada', '#00C9A7', '🌐', 'visitas']];
