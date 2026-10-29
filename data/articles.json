@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "El día que el reactor 4 de Chernóbil estalló y silenció a la URSS",
+    "artista": "El día que el reactor 4 de Chernóbil estalló y silenció a la",
+    "intro": "El 26 de abril de 1986 a la 1:24 a.m., el reactor 4 de la central nuclear de Chernóbil (Vladímir Ilich Lenin) explotó durante una prueba de seguridad. La explosión liberó una radiactividad 400 veces m",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-dia-que-el-reactor-4-de-chernobil-estallo-y-silencio-a-la-urss-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-dia-que-el-reactor-4-de-chernobil-estallo-y-silencio-a-la-urss-1029.jpg",
+    "fecha": "2026-10-29T07:13:51.899959",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "¿Quién fue el poeta detrás de la bossa nova? La historia de Vinícius de Moraes",
     "artista": "Vinícius de Moraes",
     "intro": "Vinícius de Moraes, poeta, letrista y diplomático brasileño, es recordado como una de las figuras fundadoras de la bossa nova. Su legado musical, junto a Tom Jobim, marcó una revolución en la música p",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades de Taylor Swift",
-    "artista": "Taylor Swift",
-    "intro": "Taylor Swift celebra sus 33 años. La artista, nacida en West Reading, Pensilvania, el 13 de diciembre de 1989, es una de las cantautoras más influyentes y con mayores ingresos en la historia de la mús",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-taylor-swift-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-taylor-swift-1028.jpg",
-    "fecha": "2026-10-28T20:55:56.320488",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Datos curiosos"
   }
 ]
