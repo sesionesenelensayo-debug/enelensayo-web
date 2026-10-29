@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://enelensayomedia.com/</loc><lastmod>2026-10-28</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
 <url><loc>https://enelensayomedia.com/anunciate.html</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+<url><loc>https://enelensayomedia.com/notas/se-extinguio-su-legado-o-vive-en-cada-nota-la-verdad-detras-de-una-ley-1028.html</loc><lastmod>2026-10-28</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://enelensayomedia.com/notas/jim-morrison-el-dia-que-murio-sin-autopsia-en-paris-1028.html</loc><lastmod>2026-10-28</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://enelensayomedia.com/notas/chisme-de-pasillo-ernesto-chavana-y-el-dron-que-golpeo-a-isabella-roja-1028.html</loc><lastmod>2026-10-28</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://enelensayomedia.com/notas/fallece-komanche-streamer-salvadoreno-de-30-anos-en-monterrey-1028.html</loc><lastmod>2026-10-28</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://enelensayomedia.com/notas/julia-roberts-el-oscar-de-2000-y-sus-20-millones-de-dolares-1028.html</loc><lastmod>2026-10-28</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -70,16 +72,4 @@
 <url><loc>https://enelensayomedia.com/notas/rosalia-triunfa-en-las-nominaciones-a-los-premios-billboard-de-la-musi-0910.html</loc><lastmod>2026-09-10</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/rosalia-y-el-premio-billboard-salon-de-la-fama-2026-1003.html</loc><lastmod>2026-10-03</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/spotify-wrapped-2026-fechas-y-expectativas-1026.html</loc><lastmod>2026-10-26</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-  <url>
-    <loc>https://enelensayomedia.com/notas/jim-morrison-el-dia-que-murio-sin-autopsia-en-paris-1028.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://enelensayomedia.com/notas/se-extinguio-su-legado-o-vive-en-cada-nota-la-verdad-detras-de-una-ley-1028.html</loc>
-    <lastmod>2026-10-28</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
 </urlset>
