@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "El estudiante que entró a un bar en 1989 y terminó en un ritual",
+    "artista": "El estudiante que entró a un bar en 1989 y terminó en un rit",
+    "intro": "En 1989, Mark James Kilroy, estudiante de medicina, fue secuestrado en Matamoros y posteriormente sacrificado por un grupo identificado como narcosatánicos. El caso, difundido por En el Ensayo — Live ",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-estudiante-que-entro-a-un-bar-en-1989-y-termino-en-un-ritual-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-estudiante-que-entro-a-un-bar-en-1989-y-termino-en-un-ritual-1029.jpg",
+    "fecha": "2026-10-29T05:37:35.064229",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Michael Jackson: el juicio que culpó a su doctor por la sobr",
     "artista": "Michael Jackson",
     "intro": "Un video publicado en YouTube titulado “Michael Jackson: el juicio que culpó a su doctor por la sobr” afirma que la muerte del cantante en 2009 fue un crimen y revisa el proceso judicial contra su méd",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Terror y misterio"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Stephen Kovacevich: el pianista que cambió su nombre",
-    "artista": "Stephen Kovacevich",
-    "intro": "Stephen Kovacevich, reconocido pianista y director de orquesta, murió el 27 de octubre de 2026 a los 86 años. Su partida revive el interés por la trayectoria de un artista que, además de sus grabacion",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/stephen-kovacevich-el-pianista-que-cambio-su-nombre-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/stephen-kovacevich-el-pianista-que-cambio-su-nombre-1028.jpg",
-    "fecha": "2026-10-28T19:22:52.719782",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
