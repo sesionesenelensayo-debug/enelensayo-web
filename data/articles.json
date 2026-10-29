@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Julia Roberts: el Óscar de 2000 y sus 20 millones de dólares",
+    "artista": "Julia Roberts",
+    "intro": "Julia Roberts rompió esquemas en el año 2000 al convertirse en la primera actriz en cobrar 20 millones de dólares por una sola película: *Erin Brockovich*. Con 32 años y un historial de comedias román",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/julia-roberts-el-oscar-de-2000-y-sus-20-millones-de-dolares-1028.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/julia-roberts-el-oscar-de-2000-y-sus-20-millones-de-dolares-1028.jpg",
+    "fecha": "2026-10-28T18:18:36.713130",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Juan Gabriel: su muerte confirmada",
     "artista": "Juan Gabriel",
     "intro": "El 28 de agosto de 2016, Alberto Aguilera Valadez, conocido como Juan Gabriel, murió en Santa Mónica, California. La Oficina Forense de Santa Mónica y voceros del Consulado de México confirmaron su fa",
@@ -635,18 +648,5 @@
     "views": 0,
     "url": "https://enelensayomedia.com/notas/brian-johnson-cumple-79-anos-y-sigue-sobre-el-escenario-con-ac-dc-1005.html",
     "categoria": "Reportaje"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Fidel Nadal cumple 61 años de vida",
-    "artista": "Fidel Nadal",
-    "intro": "El músico y cantante argentino Fidel Nadal llega a los 61 años de su nacimiento. Como una de las figuras clave en la historia del reggae y el movimiento punk subterráneo en Argentina, este aniversario",
-    "telegraph_url": "https://telegra.ph/Fidel-Nadal-cumple-61-años-de-vida-10-04",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fidel-nadal-cumple-61-anos-de-vida-1004.jpg",
-    "fecha": "2026-10-04T12:03:49.297131",
-    "author": "Oliver Ken",
-    "views": 0,
-    "url": "https://enelensayomedia.com/notas/fidel-nadal-cumple-61-anos-de-vida-1004.html",
-    "categoria": "Música"
   }
 ]
