@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "El científico mexicano que desapareció sin dejar rastro · Jacobo Grinberg",
+    "artista": "Jacobo Grinberg",
+    "intro": "El científico mexicano Jacobo Grinberg desapareció misteriosamente el 8 de diciembre de 1994, tras investigar la conciencia y el chamanismo. Años después de su misteriosa ausencia sin dejar rastro, su",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-cientifico-mexicano-que-desaparecio-sin-dejar-rastro-jacobo-grinber-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-cientifico-mexicano-que-desaparecio-sin-dejar-rastro-jacobo-grinber-1029.jpg",
+    "fecha": "2026-10-29T16:04:26.717734",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Terror"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "¿Qué motivó al joven Lennon a romper con el sonido del skiffle? – El origen de una revolución m",
     "artista": "Lennon",
     "intro": "John Lennon pasó de ser un niño en Liverpool a convertirse en el corazón de la revolución musical. Su historia, que transcurre entre acordes y protestas, revela la persona detrás del mito y demuestra ",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades de Thalía",
-    "artista": "Thalía",
-    "intro": "En una publicación de En el Ensayo — Live Sessions se recopilan cinco datos poco conocidos de la cantante y actriz mexicana Thalía, desde su origen de nombre artístico hasta anécdotas de su vida perso",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-thalia-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-thalia-1029.jpg",
-    "fecha": "2026-10-29T06:32:21.443349",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Datos curiosos"
   }
 ]
