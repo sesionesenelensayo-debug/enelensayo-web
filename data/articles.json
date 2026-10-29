@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "5 curiosidades de Michael Jackson",
+    "artista": "Michael Jackson",
+    "intro": "A pocos años de su fallecimiento, Michael Jackson sigue sorprendiendo. Según varias fuentes, el rey del pop intentó comprar Marvel Comics, reconoció solo dos intervenciones estéticas, ganó 13 Grammys,",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-michael-jackson-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-michael-jackson-1029.jpg",
+    "fecha": "2026-10-29T05:51:18.214586",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Datos curiosos"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "El estudiante que entró a un bar en 1989 y terminó en un ritual",
     "artista": "El estudiante que entró a un bar en 1989 y terminó en un rit",
     "intro": "En 1989, Mark James Kilroy, estudiante de medicina, fue secuestrado en Matamoros y posteriormente sacrificado por un grupo identificado como narcosatánicos. El caso, difundido por En el Ensayo — Live ",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "La Isla de las Muñecas: muerte sin explicación",
-    "artista": "La Isla de las Muñecas",
-    "intro": "La Isla de las Muñecas es una chinampa situada en la Laguna de Teshuilo, dentro del sistema de canales de Xochimilco, al sur de la Ciudad de México. Fue creada por Julián Santana Barrera a mediados de",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-isla-de-las-munecas-muerte-sin-explicacion-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-isla-de-las-munecas-muerte-sin-explicacion-1028.jpg",
-    "fecha": "2026-10-28T19:41:38.707524",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Terror y misterio"
   }
 ]
