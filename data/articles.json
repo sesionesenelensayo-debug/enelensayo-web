@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Cómo cuatro jóvenes de Liverpool cambiaron la historia de la música",
+    "artista": "The Beatles",
+    "intro": "Cada 16 de enero se conmemora el Día Internacional de The Beatles, homenajeando a John Lennon, Paul McCartney, George Harrison y Ringo Starr. La fecha coincide con la apertura del Cavern Club en 1957 ",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/como-cuatro-jovenes-de-liverpool-cambiaron-la-historia-de-la-musica-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/como-cuatro-jovenes-de-liverpool-cambiaron-la-historia-de-la-musica-1029.jpg",
+    "fecha": "2026-10-29T04:04:03.065017",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "The Police: la verdad oculta detrás de su mayor éxito musica",
     "artista": "The Police",
     "intro": "The Police logró un hito histórico al encabezar el Billboard Hot 100 con su sencillo \"Every Breath You Take\". El tema, extraído del álbum Synchronicity lanzado el 17 de junio de 1983, marcó el mayor é",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "¿Cómo nació Bohemian Rhapsody? La creación de la obra maestra de Queen",
-    "artista": "Queen",
-    "intro": "La historia de «Bohemian Rhapsody», la obra maestra de Queen, está marcada por el drama, la tensión y una apuesta comercial sumamente arriesgada debido a sus casi seis minutos de duración. Freddie Mer",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/como-nacio-bohemian-rhapsody-la-creacion-de-la-obra-maestra-de-queen-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/como-nacio-bohemian-rhapsody-la-creacion-de-la-obra-maestra-de-queen-1028.jpg",
-    "fecha": "2026-10-28T17:52:01.054107",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Biografía"
   }
 ]
