@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Motel habla de su nueva canción y sus 20 años",
+    "artista": "Motel",
+    "intro": "El grupo Motel ha ofrecido una entrevista en exclusiva para abordar los detalles de su nueva canción y las presentaciones programadas en el marco de su 20 aniversario. La noticia genera expectativa en",
+    "telegraph_url": "https://telegra.ph/Motel-habla-de-su-nueva-canción-y-sus-20-años-10-29",
+    "url": "https://enelensayomedia.com/notas/motel-habla-de-su-nueva-cancion-y-sus-20-anos-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/motel-habla-de-su-nueva-cancion-y-sus-20-anos-1029.jpg",
+    "fecha": "2026-10-29T11:56:33.807143",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Escena local"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Chupacabras: La bestia sin sangre que aterrorizó Texas y Puerto Rico",
     "artista": "Chupacabras",
     "intro": "El nuevo video de En El Ensayo recorre en diez minutos el mito del chupacabras, partiendo de su origen en Puerto Rico y siguiendo su expansión hasta los extraños cadáveres encontrados en Texas. El pro",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades de Emilia Clarke",
-    "artista": "Emilia Clarke",
-    "intro": "La actriz británica Emilia Clarke cumplió 40 años el 23 de octubre de 2026 con una fiesta en Londres a la que asistieron sus compañeros de Game of Thrones. En la misma ocasión, confirmó que su próxima",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-emilia-clarke-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-emilia-clarke-1029.jpg",
-    "fecha": "2026-10-29T02:04:30.647929",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Datos curiosos"
   }
 ]
