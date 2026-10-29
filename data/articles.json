@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "¿Qué motivó al joven Lennon a romper con el sonido del skiffle? – El origen de una revolución m",
+    "artista": "Lennon",
+    "intro": "John Lennon pasó de ser un niño en Liverpool a convertirse en el corazón de la revolución musical. Su historia, que transcurre entre acordes y protestas, revela la persona detrás del mito y demuestra ",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/que-motivo-al-joven-lennon-a-romper-con-el-sonido-del-skiffle-el-orige-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/que-motivo-al-joven-lennon-a-romper-con-el-sonido-del-skiffle-el-orige-1029.jpg",
+    "fecha": "2026-10-29T15:52:10.910484",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Édith Piaf: 40,000 personas en su funeral",
     "artista": "Édith Piaf",
     "intro": "Hoy se cumplen 63 años de la muerte de Édith Piaf, quien falleció en 1963. Su partida dejó una huella imborrable en la historia de la música, paralizando las calles de París en su momento y recordando",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El carnicero de Plainfield: La granja del horror",
-    "artista": "Ed Gein",
-    "intro": "En noviembre de 1957 la desaparición de Bernice Worden, dueña de una ferretería en Plainfield, Wisconsin, llevó a la policía a la granja de Ed Gein. Allí encontraron el cuerpo decapitado de Worden col",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-carnicero-de-plainfield-la-granja-del-horror-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-carnicero-de-plainfield-la-granja-del-horror-1029.jpg",
-    "fecha": "2026-10-29T06:18:19.407952",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
