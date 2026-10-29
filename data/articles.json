@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "5 curiosidades de Elvis Presley",
+    "artista": "Elvis Presley",
+    "intro": "En En el Ensayo — Live Sessions, Azcapotzalco, CDMX, se publicó un breve artículo titulado “5 curiosidades de Elvis Presley”. La pieza, vinculada al portal en-el-ensayo.vercel.app, recuerda al icónico",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-elvis-presley-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-elvis-presley-1029.jpg",
+    "fecha": "2026-10-29T10:44:51.485157",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Datos curiosos"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Marc Anthony: el éxito de hiphop que lideró en 1991",
     "artista": "Marc Anthony",
     "intro": "En 1991 Marc Anthony encabezó las listas estadounidenses con un éxito de hip‑hop, una faceta poco conocida que precede su posterior consagración como el mayor cantante de salsa de la historia. El dato",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "[Los Ángeles Azules]: Los Ángeles Azules: de un chofer de autobús a 40",
-    "artista": "Los Ángeles Azules",
-    "intro": "Los Ángeles Azules no obtuvieron ningún galardón durante los Premios Billboard de la Música Latina 2026. A pesar de este resultado en la ceremonia, la agrupación mantiene vigente una historia de esfue",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/los-angeles-azules-los-angeles-azules-de-un-chofer-de-autobus-a-40-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/los-angeles-azules-los-angeles-azules-de-un-chofer-de-autobus-a-40-1029.jpg",
-    "fecha": "2026-10-29T00:28:42.234937",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
