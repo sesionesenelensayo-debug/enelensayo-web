@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "El carnicero de Plainfield: La granja del horror",
+    "artista": "Ed Gein",
+    "intro": "En noviembre de 1957 la desaparición de Bernice Worden, dueña de una ferretería en Plainfield, Wisconsin, llevó a la policía a la granja de Ed Gein. Allí encontraron el cuerpo decapitado de Worden col",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-carnicero-de-plainfield-la-granja-del-horror-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-carnicero-de-plainfield-la-granja-del-horror-1029.jpg",
+    "fecha": "2026-10-29T06:18:19.407952",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "The Clash: firma de 100 000 libras que impulsó el punk globa",
     "artista": "The Clash",
     "intro": "El 20 de octubre de 1976 The Clash firmó su primer contrato discográfico con CBS Records por 100 000 libras. Ese acuerdo permitió grabar su álbum debut de 1977 y expandir el punk británico a nivel glo",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Peso Pluma: triunfa en los Billboard 2026",
-    "artista": "Peso Pluma",
-    "intro": "El cantante mexicano Peso Pluma alcanzó la posición más alta en la edición 2026 de los Billboard, según la información publicada. Este logro destaca su presencia en los rankings más relevantes del sec",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/peso-pluma-triunfa-en-los-billboard-2026-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/peso-pluma-triunfa-en-los-billboard-2026-1028.jpg",
-    "fecha": "2026-10-28T20:06:48.848954",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
