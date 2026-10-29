@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "¿Cómo un compositor construyó la banda sonora de seis décadas? Paul Simon",
+    "artista": "Paul Simon",
+    "intro": "Un recorrido por la carrera musical de Paul Simon, desde sus inicios con Simon & Garfunkel hasta sus obras maestras en solitario como Graceland y su profundo impacto en la historia de la música popula",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/como-un-compositor-construyo-la-banda-sonora-de-seis-decadas-paul-simo-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/como-un-compositor-construyo-la-banda-sonora-de-seis-decadas-paul-simo-1029.jpg",
+    "fecha": "2026-10-29T13:46:21.501654",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "5 curiosidades de Alejandro Sanz",
     "artista": "Alejandro Sanz",
     "intro": "El reconocido cantautor español Alejandro Sanz es el centro de atención en un nuevo material audiovisual que recopila curiosidades sobre su trayectoria artística. A través de este lanzamiento, 'En El ",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Cómo cuatro jóvenes de Liverpool cambiaron la historia de la música",
-    "artista": "The Beatles",
-    "intro": "Cada 16 de enero se conmemora el Día Internacional de The Beatles, homenajeando a John Lennon, Paul McCartney, George Harrison y Ringo Starr. La fecha coincide con la apertura del Cavern Club en 1957 ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/como-cuatro-jovenes-de-liverpool-cambiaron-la-historia-de-la-musica-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/como-cuatro-jovenes-de-liverpool-cambiaron-la-historia-de-la-musica-1029.jpg",
-    "fecha": "2026-10-29T04:04:03.065017",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Biografía"
   }
 ]
