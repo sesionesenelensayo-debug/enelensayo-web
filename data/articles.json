@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "5 curiosidades de Green Day",
+    "artista": "Green Day",
+    "intro": "El proyecto musical En el Ensayo, que registra sesiones en vivo para bandas independientes, ha publicado en su canal de YouTube un video titulado “5 curiosidades de Green Day”. La pieza, grabada en Az",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-green-day-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-green-day-1029.jpg",
+    "fecha": "2026-10-29T15:27:37.022157",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Datos curiosos"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "MC Lyte: el disco de oro de 1993 que ninguna rapera tenía",
     "artista": "MC Lyte",
     "intro": "En 1993, la rapera MC Lyte logró un hito histórico en la música al conseguir que su sencillo 'Ruffneck' fuera certificado como disco de oro. Este acontecimiento marcó un antes y un después en la indus",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades de Michael Jackson",
-    "artista": "Michael Jackson",
-    "intro": "A pocos años de su fallecimiento, Michael Jackson sigue sorprendiendo. Según varias fuentes, el rey del pop intentó comprar Marvel Comics, reconoció solo dos intervenciones estéticas, ganó 13 Grammys,",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-michael-jackson-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-michael-jackson-1029.jpg",
-    "fecha": "2026-10-29T05:51:18.214586",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Datos curiosos"
   }
 ]
