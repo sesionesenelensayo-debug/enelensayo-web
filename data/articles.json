@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Fallece Sir Patrick Stewart a los 86 años",
+    "artista": "Patrick Stewart",
+    "intro": "Sir Patrick Stewart ha fallecido el 28 de octubre de 2026 a la edad de 86 años. El reconocido actor británico de cine, televisión y doblaje deja atrás una trayectoria de más de 60 años sobre los escen",
+    "telegraph_url": "https://telegra.ph/Fallece-Sir-Patrick-Stewart-a-los-86-años-10-29",
+    "url": "https://enelensayomedia.com/notas/fallece-sir-patrick-stewart-a-los-86-anos-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-sir-patrick-stewart-a-los-86-anos-1029.jpg",
+    "fecha": "2026-10-29T13:57:53.294091",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "In memoriam"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "¿Cómo un compositor construyó la banda sonora de seis décadas? Paul Simon",
     "artista": "Paul Simon",
     "intro": "Un recorrido por la carrera musical de Paul Simon, desde sus inicios con Simon & Garfunkel hasta sus obras maestras en solitario como Graceland y su profundo impacto en la historia de la música popula",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "La masacre de Jonestown: 900 personas bebieron el veneno",
-    "artista": "Jonestown",
-    "intro": "El 18 de noviembre de 1978 la comunidad de Jonestown, Guyana, vio morir a más de 900 personas después de que Jim Jones ordenara la ingestión de una bebida con cianuro. La cifra exacta varía entre fuen",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-masacre-de-jonestown-900-personas-bebieron-el-veneno-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-masacre-de-jonestown-900-personas-bebieron-el-veneno-1029.jpg",
-    "fecha": "2026-10-29T04:18:13.027679",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
