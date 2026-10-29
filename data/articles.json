@@ -1,6 +1,32 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "5 curiosidades de Liam Payne",
+    "artista": "Liam Payne",
+    "intro": "En el Ensayo — Live Sessions presentó una grabación en vivo desde Azcapotzalco, CDMX, titulada “5 curiosidades de Liam Payne”. El video, disponible en la plataforma del programa, ofrece datos poco con",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-liam-payne-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-liam-payne-1029.jpg",
+    "fecha": "2026-10-29T10:09:53.277294",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Datos curiosos"
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "Fallece Lauri “Cyanide” Happonen, leyenda del Mundial 2011",
+    "artista": "Fallecimiento de Cyanide",
+    "intro": "El exjugador finlandés de Fnatic, campeón mundial a los 16 años, murió a los 31 años; su partida deja un vacío en la historia de los esports.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/fallece-lauri-cyanide-happonen-leyenda-del-mundial-2011-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-lauri-cyanide-happonen-leyenda-del-mundial-2011-1029.jpg",
+    "fecha": "2026-10-29T10:09:27.633670",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Gustavo Cordera: el vendedor de autos que fundó Bersuit",
     "artista": "Gustavo Cordera",
     "intro": "En 1988 Gustavo Cordera decidió vender su concesionaria automotriz tras un viaje a Río de Janeiro y dedicarse por completo a la música. Ese mismo año fundó Bersuit Vergarabat, grupo que lideró hasta 2",
@@ -622,31 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades de Fats Domino",
-    "artista": "Fats Domino",
-    "intro": "A pocos años de su nacimiento, el legado de Fats Domino sigue resonando. Un compendio de curiosidades revela su vida personal, logros y anécdotas que continúan inspirando a músicos y amantes del rock,",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-fats-domino-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-fats-domino-1029.jpg",
-    "fecha": "2026-10-29T00:13:45.261965",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El misterio sin fin del vuelo MH370",
-    "artista": "vuelo MH370",
-    "intro": "El vuelo MH370 de Malaysia Airlines desapareció en 2014 mientras transportaba a 239 personas. A pesar de que se han hallado restos del avión, la causa de la desaparición sigue sin resolverse, mantenie",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-misterio-sin-fin-del-vuelo-mh370-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-misterio-sin-fin-del-vuelo-mh370-1029.jpg",
-    "fecha": "2026-10-29T00:00:27.867246",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
