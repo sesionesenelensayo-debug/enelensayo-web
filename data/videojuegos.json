@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-28T21:07",
+ "actualizado": "2026-10-29T03:12",
  "peores": [
   {
    "titulo": "Code Violet",
@@ -135,18 +135,6 @@
   }
  ],
  "estrenos": [
-  {
-   "titulo": "Bleach Mirrors High",
-   "fecha": "2026-10-28",
-   "fecha_txt": "28 de octubre",
-   "plataformas": [
-    "iOS",
-    "Android"
-   ],
-   "genero": "Action",
-   "desarrolla": "Bandai Namco Entertainment",
-   "publica": ""
-  },
   {
    "titulo": "Croc 2: Kingdom of the Gobbos",
    "fecha": "2026-10-29",
@@ -453,6 +441,18 @@
    ],
    "genero": "Puzzle",
    "desarrolla": "TECOPARK",
+   "publica": ""
+  },
+  {
+   "titulo": "Grand Theft Auto VI",
+   "fecha": "2026-11-19",
+   "fecha_txt": "19 de noviembre",
+   "plataformas": [
+    "PS5",
+    "Xbox Series"
+   ],
+   "genero": "Action-adventure",
+   "desarrolla": "Rockstar Games",
    "publica": ""
   }
  ]
