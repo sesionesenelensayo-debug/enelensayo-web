@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Bing Crosby: el cantante con más de 1 600 canciones grabadas",
+    "artista": "Bing Crosby",
+    "intro": "Bing Crosby marcó la historia de la música mundial con una trayectoria que dejó más de 1 600 canciones grabadas. Su estilo íntimo de canto inspiró a figuras fundamentales de la música, incluyendo a Jo",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/bing-crosby-el-cantante-con-mas-de-1-600-canciones-grabadas-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/bing-crosby-el-cantante-con-mas-de-1-600-canciones-grabadas-1029.jpg",
+    "fecha": "2026-10-29T12:16:13.809970",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Gloria Trevi gana premio Artista Oro en HEAT Latin Music Awards 2026",
     "artista": "Gloria Trevi",
     "intro": "Gloria Trevi ha sido galardonada con el premio Artista Oro en los HEAT Latin Music Awards 2026. El anuncio fue publicado por Billboard, confirmando el reconocimiento a la trayectoria de la cantante me",
@@ -633,19 +646,6 @@
     "url": "https://enelensayomedia.com/notas/arnaud-denis-el-fallecimiento-del-director-teatral-en-2026-1029.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/arnaud-denis-el-fallecimiento-del-director-teatral-en-2026-1029.jpg",
     "fecha": "2026-10-29T02:57:49.949304",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Manuel Boix: el artista que falleció el 23 de septiembre de",
-    "artista": "Manuel Boix",
-    "intro": "El artista español Manuel Boix, reconocido por sus grabados, ilustraciones y por diseñar casi todas las portadas de Al Tall, murió el 23 de septiembre de 2026 en La Alcudia, Valencia. Su fallecimiento",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/manuel-boix-el-artista-que-fallecio-el-23-de-septiembre-de-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/manuel-boix-el-artista-que-fallecio-el-23-de-septiembre-de-1029.jpg",
-    "fecha": "2026-10-29T02:44:46.529236",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
