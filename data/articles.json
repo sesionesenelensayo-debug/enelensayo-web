@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "5 curiosidades de Joey Belladonna",
+    "artista": "Joey Belladonna",
+    "intro": "Joey Belladonna, vocalista de heavy metal y thrash metal conocido por su trabajo con Anthrax, concentra la atención actual tras la difusión de materiales que repasan curiosidades sobre su figura artís",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-joey-belladonna-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-joey-belladonna-1029.jpg",
+    "fecha": "2026-10-29T13:08:09.231346",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Datos curiosos"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "El día que el ejército atrapó un platillo volador en Roswell",
     "artista": "Roswell",
     "intro": "En julio de 1947, un ranchero de Nuevo México halló restos extraños que desataron el misterio de Roswell. Las preguntas sobre si se trató de un globo meteorológico o de un secreto militar han permanec",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Tom Skerritt: su trayectoria en más de 170 producciones",
-    "artista": "Tom Skerritt",
-    "intro": "El actor estadounidense Tom Skerritt murió a los 93 años por causas naturales, según anunció su familia el 22 de octubre de 2026. Con una carrera que abarcó más de seis décadas, Skerritt dejó una huel",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/tom-skerritt-su-trayectoria-en-mas-de-170-producciones-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/tom-skerritt-su-trayectoria-en-mas-de-170-producciones-1029.jpg",
-    "fecha": "2026-10-29T03:23:52.839507",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
