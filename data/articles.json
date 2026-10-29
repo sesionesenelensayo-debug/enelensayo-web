@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "5 curiosidades de Paul McCartney",
+    "artista": "Paul McCartney",
+    "intro": "En el marco de los 82 años de Paul McCartney, CNN Brasil publicó una serie de datos curiosos que van desde rumores de su muerte hasta su activismo vegano. La información, recopilada de distintas fecha",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-paul-mccartney-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-paul-mccartney-1029.jpg",
+    "fecha": "2026-10-29T01:23:42.812689",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Datos curiosos"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "El monstruo detrás de la feria: H. H. Holmes",
     "artista": "H. H. Holmes",
     "intro": "Se recuerda al asesino en serie H. H. Holmes, cuyo edificio en Chicago, inaugurado durante la Exposición Colombina Mundial de 1893, sigue despertando curiosidad. La noticia plantea la pregunta sobre c",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reportaje"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece la escultora Ursula von Rydingsvard",
-    "artista": "Ursula von Rydingsvard",
-    "intro": "El mundo del arte despide a la reconocida escultora Ursula von Rydingsvard, quien falleció el 27 de octubre de 2026 a la edad de 84 años. Su partida deja un vacío notable en la escena artística contem",
-    "telegraph_url": "https://telegra.ph/Fallece-la-escultora-Ursula-von-Rydingsvard-10-27",
-    "url": "https://telegra.ph/Fallece-la-escultora-Ursula-von-Rydingsvard-10-27",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-la-escultora-ursula-von-rydingsvard-1027.jpg",
-    "fecha": "2026-10-27T08:04:34.812201",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
