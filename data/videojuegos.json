@@ -1,0 +1,459 @@
+{
+ "actualizado": "2026-10-28T21:07",
+ "peores": [
+  {
+   "titulo": "Code Violet",
+   "score": 29,
+   "resenas": 16,
+   "fecha": "2026-01-10",
+   "plataforma": "PlayStation 5",
+   "genero": "Survival",
+   "sentimiento": "Generally unfavorable",
+   "slug": "code-violet",
+   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1767942816.jpg"
+  },
+  {
+   "titulo": "Agefield High: Rock the School",
+   "score": 29,
+   "resenas": 14,
+   "fecha": "2026-08-12",
+   "plataforma": "PC",
+   "genero": "Open-World Action",
+   "sentimiento": "Generally unfavorable",
+   "slug": "agefield-high-rock-the-school",
+   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1786578220.jpg"
+  },
+  {
+   "titulo": "Tokyo Scramble",
+   "score": 43,
+   "resenas": 11,
+   "fecha": "2026-02-11",
+   "plataforma": "Nintendo Switch 2",
+   "genero": "Survival",
+   "sentimiento": "Generally unfavorable",
+   "slug": "tokyo-scramble",
+   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1771488401.jpg"
+  },
+  {
+   "titulo": "1348 Ex Voto",
+   "score": 50,
+   "resenas": 19,
+   "fecha": "2026-03-12",
+   "plataforma": "PC",
+   "genero": "Action Adventure",
+   "sentimiento": "Mixed or average",
+   "slug": "1348-ex-voto",
+   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1773330261.jpg"
+  },
+  {
+   "titulo": "Samson",
+   "score": 51,
+   "resenas": 33,
+   "fecha": "2026-04-08",
+   "plataforma": "PC",
+   "genero": "Open-World Action",
+   "sentimiento": "Mixed or average",
+   "slug": "samson",
+   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1775578115.jpg"
+  },
+  {
+   "titulo": "The Relic: First Guardian",
+   "score": 51,
+   "resenas": 12,
+   "fecha": "2026-07-31",
+   "plataforma": "PlayStation 5",
+   "genero": "Action RPG",
+   "sentimiento": "Mixed or average",
+   "slug": "the-relic-first-guardian",
+   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1785220152.jpg"
+  },
+  {
+   "titulo": "Disgaea Mayhem",
+   "score": 52,
+   "resenas": 10,
+   "fecha": "2026-07-23",
+   "plataforma": "Nintendo Switch 2",
+   "genero": "Action RPG",
+   "sentimiento": "Mixed or average",
+   "slug": "disgaea-mayhem",
+   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1784176288.jpg"
+  },
+  {
+   "titulo": "Legacy of Kain: Ascendance",
+   "score": 53,
+   "resenas": 18,
+   "fecha": "2026-03-31",
+   "plataforma": "PlayStation 5",
+   "genero": "2D Platformer",
+   "sentimiento": "Mixed or average",
+   "slug": "legacy-of-kain-ascendance",
+   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1773261213.jpg"
+  },
+  {
+   "titulo": "RENNSPORT",
+   "score": 53,
+   "resenas": 10,
+   "fecha": "2025-11-13",
+   "plataforma": "PlayStation 5",
+   "genero": "Auto Racing Sim",
+   "sentimiento": "Mixed or average",
+   "slug": "rennsport",
+   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1763100018.jpg"
+  },
+  {
+   "titulo": "Sacred 2 Remaster",
+   "score": 54,
+   "resenas": 16,
+   "fecha": "2025-11-11",
+   "plataforma": "PC",
+   "genero": "Action RPG",
+   "sentimiento": "Mixed or average",
+   "slug": "sacred-2-remaster",
+   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1762882599.jpg"
+  },
+  {
+   "titulo": "Sonic Frontiers: Definitive Edition",
+   "score": 56,
+   "resenas": 12,
+   "fecha": "2026-06-23",
+   "plataforma": "Nintendo Switch 2",
+   "genero": "3D Platformer",
+   "sentimiento": "Mixed or average",
+   "slug": "sonic-frontiers-definitive-edition",
+   "imagen": "https://www.metacritic.com/a/img/catalog/provider/6/3/6-1-1251177-13.jpg"
+  },
+  {
+   "titulo": "Of Ash and Steel",
+   "score": 57,
+   "resenas": 14,
+   "fecha": "2025-11-24",
+   "plataforma": "PC",
+   "genero": "Action RPG",
+   "sentimiento": "Mixed or average",
+   "slug": "of-ash-and-steel",
+   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1764047447.jpg"
+  }
+ ],
+ "estrenos": [
+  {
+   "titulo": "Bleach Mirrors High",
+   "fecha": "2026-10-28",
+   "fecha_txt": "28 de octubre",
+   "plataformas": [
+    "iOS",
+    "Android"
+   ],
+   "genero": "Action",
+   "desarrolla": "Bandai Namco Entertainment",
+   "publica": ""
+  },
+  {
+   "titulo": "Croc 2: Kingdom of the Gobbos",
+   "fecha": "2026-10-29",
+   "fecha_txt": "29 de octubre",
+   "plataformas": [
+    "PC",
+    "Switch",
+    "PS4",
+    "PS5",
+    "Xbox Series"
+   ],
+   "genero": "Platformer",
+   "desarrolla": "Argonaut Games",
+   "publica": ""
+  },
+  {
+   "titulo": "Hello Kitty Party Land",
+   "fecha": "2026-10-29",
+   "fecha_txt": "29 de octubre",
+   "plataformas": [
+    "Switch",
+    "Switch 2"
+   ],
+   "genero": "Party",
+   "desarrolla": "G-STYLE",
+   "publica": "Sanrio Games, Bandai Namco Entertainment"
+  },
+  {
+   "titulo": "Joe & Mac Retro Collection",
+   "fecha": "2026-10-29",
+   "fecha_txt": "29 de octubre",
+   "plataformas": [
+    "PC",
+    "Switch",
+    "Switch 2",
+    "PS5",
+    "Xbox Series"
+   ],
+   "genero": "Platformer",
+   "desarrolla": "Red Art Games",
+   "publica": ""
+  },
+  {
+   "titulo": "Monster Hunter Outlanders",
+   "fecha": "2026-10-29",
+   "fecha_txt": "29 de octubre",
+   "plataformas": [
+    "iOS",
+    "Android"
+   ],
+   "genero": "Action RPG, Survival",
+   "desarrolla": "Capcom, TiMi Studio Group",
+   "publica": "Level Infinite"
+  },
+  {
+   "titulo": "Phantom Blade Zero",
+   "fecha": "2026-10-29",
+   "fecha_txt": "29 de octubre",
+   "plataformas": [
+    "PC",
+    "PS5"
+   ],
+   "genero": "Action RPG",
+   "desarrolla": "S-GAME",
+   "publica": ""
+  },
+  {
+   "titulo": "ArcheAge Chronicles",
+   "fecha": "2026-11-03",
+   "fecha_txt": "3 de noviembre",
+   "plataformas": [
+    "PC"
+   ],
+   "genero": "MMORPG",
+   "desarrolla": "XL Games",
+   "publica": ""
+  },
+  {
+   "titulo": "Dungeon Rampage Remastered",
+   "fecha": "2026-11-03",
+   "fecha_txt": "3 de noviembre",
+   "plataformas": [
+    "PC"
+   ],
+   "genero": "Action RPG, Dungeon crawl",
+   "desarrolla": "Gamebreaking Studios",
+   "publica": ""
+  },
+  {
+   "titulo": "Godzilla: Destroy All Monsters Melee Remastered",
+   "fecha": "2026-11-03",
+   "fecha_txt": "3 de noviembre",
+   "plataformas": [
+    "PC",
+    "Switch 2",
+    "PS5",
+    "Xbox Series"
+   ],
+   "genero": "Fighting",
+   "desarrolla": "Pipeworks Software",
+   "publica": "Atari"
+  },
+  {
+   "titulo": "Void/Breaker",
+   "fecha": "2026-11-04",
+   "fecha_txt": "4 de noviembre",
+   "plataformas": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+   ],
+   "genero": "FPS, Roguelite",
+   "desarrolla": "Stubby Games",
+   "publica": "Playstack"
+  },
+  {
+   "titulo": "World of Warcraft: Forever",
+   "fecha": "2026-11-04",
+   "fecha_txt": "4 de noviembre",
+   "plataformas": [
+    "PC",
+    "Mac"
+   ],
+   "genero": "MMO, RPG",
+   "desarrolla": "Blizzard Entertainment",
+   "publica": ""
+  },
+  {
+   "titulo": "Escape Academy 2: Back 2 School",
+   "fecha": "2026-11-05",
+   "fecha_txt": "5 de noviembre",
+   "plataformas": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+   ],
+   "genero": "Puzzle, Adventure",
+   "desarrolla": "Coin Crew Games",
+   "publica": "iam8bit"
+  },
+  {
+   "titulo": "Payday: Aces High",
+   "fecha": "2026-11-05",
+   "fecha_txt": "5 de noviembre",
+   "plataformas": [
+    "PC",
+    "Quest"
+   ],
+   "genero": "FPS",
+   "desarrolla": "Fast Travel Games",
+   "publica": ""
+  },
+  {
+   "titulo": "Hasbro Games Junior Collection",
+   "fecha": "2026-11-06",
+   "fecha_txt": "6 de noviembre",
+   "plataformas": [
+    "PC",
+    "Switch",
+    "Switch 2",
+    "PS4",
+    "PS5"
+   ],
+   "genero": "Digital tabletop, Party",
+   "desarrolla": "Casual Brothers",
+   "publica": "Outright Games"
+  },
+  {
+   "titulo": "DreamWorks Shrek 2 Remastered",
+   "fecha": "2026-11-10",
+   "fecha_txt": "10 de noviembre",
+   "plataformas": [
+    "PC",
+    "Switch",
+    "Switch 2",
+    "PS5",
+    "Xbox Series"
+   ],
+   "genero": "Action-adventure",
+   "desarrolla": "Aspyr",
+   "publica": ""
+  },
+  {
+   "titulo": "Football Manager 27",
+   "fecha": "2026-11-10",
+   "fecha_txt": "10 de noviembre",
+   "plataformas": [
+    "PC",
+    "Mac",
+    "PS5",
+    "Xbox Series",
+    "iOS"
+   ],
+   "genero": "Sports management",
+   "desarrolla": "Sports Interactive",
+   "publica": "Sega, Netflix"
+  },
+  {
+   "titulo": "Tanuki: Pon's Summer",
+   "fecha": "2026-11-10",
+   "fecha_txt": "10 de noviembre",
+   "plataformas": [
+    "PC",
+    "Switch",
+    "Switch 2",
+    "PS4",
+    "PS5"
+   ],
+   "genero": "Adventure",
+   "desarrolla": "Denkiworks",
+   "publica": "Critical Reflex"
+  },
+  {
+   "titulo": "Warhammer Survivors",
+   "fecha": "2026-11-10",
+   "fecha_txt": "10 de noviembre",
+   "plataformas": [
+    "PC",
+    "Switch",
+    "Switch 2",
+    "PS5",
+    "Xbox Series"
+   ],
+   "genero": "Bullet heaven",
+   "desarrolla": "Auroch Digital",
+   "publica": ""
+  },
+  {
+   "titulo": "Barbie Rewind",
+   "fecha": "2026-11-12",
+   "fecha_txt": "12 de noviembre",
+   "plataformas": [
+    "PC",
+    "Switch",
+    "Switch 2",
+    "PS4",
+    "PS5"
+   ],
+   "genero": "",
+   "desarrolla": "Digital Eclipse",
+   "publica": "Atari"
+  },
+  {
+   "titulo": "Fakin' It XL",
+   "fecha": "2026-11-12",
+   "fecha_txt": "12 de noviembre",
+   "plataformas": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+   ],
+   "genero": "Party",
+   "desarrolla": "Jackbox Games",
+   "publica": ""
+  },
+  {
+   "titulo": "Moomin: Midsummer Madness",
+   "fecha": "2026-11-12",
+   "fecha_txt": "12 de noviembre",
+   "plataformas": [
+    "PC",
+    "Switch",
+    "Switch 2"
+   ],
+   "genero": "PCA",
+   "desarrolla": "Crossbridge Game Studios",
+   "publica": "Shochiku"
+  },
+  {
+   "titulo": "Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy",
+   "fecha": "2026-11-12",
+   "fecha_txt": "12 de noviembre",
+   "plataformas": [
+    "Switch 2"
+   ],
+   "genero": "Puzzle, RTS",
+   "desarrolla": "Nintendo EPD, Eighting",
+   "publica": "Nintendo"
+  },
+  {
+   "titulo": "Prinny Party: Going Overboard!",
+   "fecha": "2026-11-12",
+   "fecha_txt": "12 de noviembre",
+   "plataformas": [
+    "PC",
+    "Switch",
+    "Switch 2",
+    "PS5"
+   ],
+   "genero": "Party",
+   "desarrolla": "Nippon Ichi Software",
+   "publica": ""
+  },
+  {
+   "titulo": "Sonic Pico Park",
+   "fecha": "2026-11-12",
+   "fecha_txt": "12 de noviembre",
+   "plataformas": [
+    "PC",
+    "Mac",
+    "Switch",
+    "Switch 2",
+    "PS5"
+   ],
+   "genero": "Puzzle",
+   "desarrolla": "TECOPARK",
+   "publica": ""
+  }
+ ]
+}
