@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Sean Lennon: nació el 9 de octubre de 1975, cumpleaños de Jo",
+    "artista": "Sean Lennon",
+    "intro": "Sean Lennon, hijo de John Lennon y Yoko Ono, cumple 51 años hoy. Nació en Nueva York el 9 de octubre de 1975, exactamente el día en que su padre cumplía 35 años. Con tres discos como solista, el más r",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/sean-lennon-nacio-el-9-de-octubre-de-1975-cumpleanos-de-jo-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/sean-lennon-nacio-el-9-de-octubre-de-1975-cumpleanos-de-jo-1029.jpg",
+    "fecha": "2026-10-29T16:29:03.946698",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "5 curiosidades de John Lennon",
     "artista": "John Lennon",
     "intro": "En El Ensayo Media presenta un repaso sobre la vida de John Lennon a través de cinco curiosidades. Desde su nacimiento en Liverpool el 9 de octubre de 1940 hasta su trayectoria como cofundador de The ",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El día que el reactor 4 de Chernóbil estalló y silenció a la URSS",
-    "artista": "El día que el reactor 4 de Chernóbil estalló y silenció a la",
-    "intro": "El 26 de abril de 1986 a la 1:24 a.m., el reactor 4 de la central nuclear de Chernóbil (Vladímir Ilich Lenin) explotó durante una prueba de seguridad. La explosión liberó una radiactividad 400 veces m",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-dia-que-el-reactor-4-de-chernobil-estallo-y-silencio-a-la-urss-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-dia-que-el-reactor-4-de-chernobil-estallo-y-silencio-a-la-urss-1029.jpg",
-    "fecha": "2026-10-29T07:13:51.899959",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
