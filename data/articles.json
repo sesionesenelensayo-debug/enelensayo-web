@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "¿Quién fue el poeta detrás de la bossa nova? La historia de Vinícius de Moraes",
+    "artista": "Vinícius de Moraes",
+    "intro": "Vinícius de Moraes, poeta, letrista y diplomático brasileño, es recordado como una de las figuras fundadoras de la bossa nova. Su legado musical, junto a Tom Jobim, marcó una revolución en la música p",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/quien-fue-el-poeta-detras-de-la-bossa-nova-la-historia-de-vinicius-de-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/quien-fue-el-poeta-detras-de-la-bossa-nova-la-historia-de-vinicius-de-1029.jpg",
+    "fecha": "2026-10-29T06:59:28.813342",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Juanes: el lanzamiento de Mi Sangre y sus 4 millones de copi",
     "artista": "Juanes",
     "intro": "El 19 de octubre de 2004 Juanes presentó su tercer álbum, Mi Sangre, que incluye el éxito La Camisa Negra. Veinte años después, el cantante rememora el proyecto, cuyas ventas se estiman en alrededor d",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Susan Saint James había sobrevivido al duelo de su hijo",
-    "artista": "Susan Saint James",
-    "intro": "Susan Saint James, actriz de culto y ganadora de un premio Emmy, falleció el 26 de octubre de 2026. La intérprete dejó una huella profunda tanto en su carrera artística como en su activismo, especialm",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/susan-saint-james-habia-sobrevivido-al-duelo-de-su-hijo-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/susan-saint-james-habia-sobrevivido-al-duelo-de-su-hijo-1028.jpg",
-    "fecha": "2026-10-28T20:43:39.717500",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
