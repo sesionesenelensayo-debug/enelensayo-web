@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "El misterio sin fin del vuelo MH370",
+    "artista": "vuelo MH370",
+    "intro": "El vuelo MH370 de Malaysia Airlines desapareció en 2014 mientras transportaba a 239 personas. A pesar de que se han hallado restos del avión, la causa de la desaparición sigue sin resolverse, mantenie",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-misterio-sin-fin-del-vuelo-mh370-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-misterio-sin-fin-del-vuelo-mh370-1029.jpg",
+    "fecha": "2026-10-29T00:00:27.867246",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "José Luis García Sánchez: el director que ganó el Oso de Oro",
     "artista": "José Luis García Sánchez",
     "intro": "El director de cine José Luis García Sánchez dejó una huella imborrable en la cinematografía. A lo largo de su carrera, dirigió 30 películas desde 1968, consolidando una trayectoria que incluye premio",
@@ -632,19 +645,6 @@
     "url": "https://telegra.ph/Fallece-Derrick-Harriott-pionero-del-ska-rocksteady-y-reggae-a-los-87-años-10-24",
     "imagen_url": "https://enelensayomedia.com/img/notas/fallece-derrick-harriott-pionero-del-ska-rocksteady-y-reggae-a-los-87-1024.jpg",
     "fecha": "2026-10-24T11:16:32.436847",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece Dónal Lunny, figura clave del folk irlandés, a los 79 años",
-    "artista": "Dónal Lunny",
-    "intro": "El músico y productor irlandés Dónal Lunny murió el 23 de octubre de 2026, según informan RTÉ y TheJournal.ie. Lunny, de 79 años, fue una de las figuras más influyentes del renacimiento de la música t",
-    "telegraph_url": "https://telegra.ph/Fallece-Dónal-Lunny-figura-clave-del-folk-irlandés-a-los-79-años-10-24",
-    "url": "https://telegra.ph/Fallece-Dónal-Lunny-figura-clave-del-folk-irlandés-a-los-79-años-10-24",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-donal-lunny-figura-clave-del-folk-irlandes-a-los-79-anos-1024.jpg",
-    "fecha": "2026-10-24T00:12:54.657264",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
