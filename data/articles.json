@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "La criatura de ojos rojos y la tragedia del puente Silver",
+    "artista": "Silver",
+    "intro": "En una nueva publicación de En El Ensayo, se invita al público a explorar la historia documentada del Mothman en Point Pleasant y el derrumbe del Silver Bridge en 1967. La pieza plantea la pregunta de",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/la-criatura-de-ojos-rojos-y-la-tragedia-del-puente-silver-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-criatura-de-ojos-rojos-y-la-tragedia-del-puente-silver-1029.jpg",
+    "fecha": "2026-10-29T11:27:35.258604",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "¿El príncipe del verso o de la controversia? La historia de Cosculluela",
     "artista": "Cosculluela",
     "intro": "Se lanzó un nuevo documental que explora la trayectoria de Cosculluela, desde sus inicios underground en Humacao y Palmas del Mar hasta su consagración como \"El Príncipe del Verso\" y las controversias",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El monstruo detrás de la feria: H. H. Holmes",
-    "artista": "H. H. Holmes",
-    "intro": "Se recuerda al asesino en serie H. H. Holmes, cuyo edificio en Chicago, inaugurado durante la Exposición Colombina Mundial de 1893, sigue despertando curiosidad. La noticia plantea la pregunta sobre c",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-monstruo-detras-de-la-feria-h-h-holmes-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-monstruo-detras-de-la-feria-h-h-holmes-1029.jpg",
-    "fecha": "2026-10-29T01:07:04.801148",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
