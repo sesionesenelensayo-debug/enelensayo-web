@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Manuel Boix: el artista que falleció el 23 de septiembre de",
+    "artista": "Manuel Boix",
+    "intro": "El artista español Manuel Boix, reconocido por sus grabados, ilustraciones y por diseñar casi todas las portadas de Al Tall, murió el 23 de septiembre de 2026 en La Alcudia, Valencia. Su fallecimiento",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/manuel-boix-el-artista-que-fallecio-el-23-de-septiembre-de-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/manuel-boix-el-artista-que-fallecio-el-23-de-septiembre-de-1029.jpg",
+    "fecha": "2026-10-29T02:44:46.529236",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "In memoriam"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Marina Vlady: el premio de 1963 en Cannes y su vida en el ci",
     "artista": "Marina Vlady",
     "intro": "La actriz franco‑rusa Marina Vlady murió el 24 de septiembre de 2026 a los 88 años, según comunicó su familia a la AFP. Su fallecimiento se produce a pocos meses de cumplir 63 años desde que recibió e",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "La Llorona: el grito que obligó a la Ciudad de México a esconderse",
-    "artista": "La Llorona, la leyenda más famosa de México: orígenes prehispánicos, versiones coloniales y apariciones",
-    "intro": "La Llorona es una figura del folclore hispanoamericano que aparece en relatos nocturnos de mujeres que buscan a sus hijos cerca de ríos y cuerpos de agua. Su origen se remonta a tradiciones prehispáni",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-llorona-el-grito-que-obligo-a-la-ciudad-de-mexico-a-esconderse-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-llorona-el-grito-que-obligo-a-la-ciudad-de-mexico-a-esconderse-1028.jpg",
-    "fecha": "2026-10-28T16:55:34.099087",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Terror y misterio"
   }
 ]
