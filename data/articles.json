@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Fallece Komanche, streamer salvadoreño de 30 años, en Monterrey",
+    "artista": "Komanche",
+    "intro": "El streamer e influencer salvadoreño Carlos Mauricio Gómez, conocido como Komanche, murió a los 30 años en Monterrey, México. Su representante Byron Reyes confirmó el fallecimiento a través de Instagr",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/fallece-komanche-streamer-salvadoreno-de-30-anos-en-monterrey-1028.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-komanche-streamer-salvadoreno-de-30-anos-en-monterrey-1028.jpg",
+    "fecha": "2026-10-28T18:29:22.769577",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Julia Roberts: el Óscar de 2000 y sus 20 millones de dólares",
     "artista": "Julia Roberts",
     "intro": "Julia Roberts rompió esquemas en el año 2000 al convertirse en la primera actriz en cobrar 20 millones de dólares por una sola película: *Erin Brockovich*. Con 32 años y un historial de comedias román",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Brian Johnson cumple 79 años y sigue sobre el escenario con AC/DC",
-    "artista": "Brian Johnson",
-    "intro": "Brian Johnson, cantante y compositor británico, cumple hoy 79 años. Nació el 5 de octubre de 1947 en Inglaterra y es el vocalista de AC/DC, la banda australiana de hard rock a la que se unió en 1980, ",
-    "telegraph_url": "https://telegra.ph/Brian-Johnson-cumple-79-años-y-sigue-sobre-el-escenario-con-ACDC-10-05",
-    "imagen_url": "https://enelensayomedia.com/img/notas/brian-johnson-cumple-79-anos-y-sigue-sobre-el-escenario-con-ac-dc-1005.jpg",
-    "fecha": "2026-10-05T12:05:14.458420",
-    "author": "Oliver Ken",
-    "views": 0,
-    "url": "https://enelensayomedia.com/notas/brian-johnson-cumple-79-anos-y-sigue-sobre-el-escenario-con-ac-dc-1005.html",
-    "categoria": "Reportaje"
   }
 ]
