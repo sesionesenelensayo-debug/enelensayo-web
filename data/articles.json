@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "¿Por qué temían a John Lennon? De Liverpool al Dakota, 1940-1980",
+    "artista": "John Lennon",
+    "intro": "Un recorrido documental repasa la vida de John Lennon, desde su nacimiento en Liverpool en 1940 y su crianza con su tía Mimi hasta la fundación de The Quarrymen a los quince años, el germen de The Bea",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/por-que-temian-a-john-lennon-de-liverpool-al-dakota-1940-1980-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/por-que-temian-a-john-lennon-de-liverpool-al-dakota-1940-1980-1029.jpg",
+    "fecha": "2026-10-29T16:47:19.182164",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Las 10 películas más esperadas de 2026: El ranking definitivo",
     "artista": "las 10 películas más esperadas de 2026",
     "intro": "Descubre cuáles son los estrenos más esperados del cine para este año según los principales medios especializados de la industria.",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "John Lennon: el arresto de 1968 que arruinó sus trámites de",
-    "artista": "John Lennon",
-    "intro": "El 18 de octubre de 1968 la policía londinense registró el apartamento de John Lennon en Montagu Square y detuvo al músico y a Yoko Ono por posesión de cannabis. Lennon asumió la culpa para proteger a",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/john-lennon-el-arresto-de-1968-que-arruino-sus-tramites-de-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/john-lennon-el-arresto-de-1968-que-arruino-sus-tramites-de-1029.jpg",
-    "fecha": "2026-10-29T07:41:12.528789",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
