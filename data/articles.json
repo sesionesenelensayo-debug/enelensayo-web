@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "¿Quién fue el camaleón del rock? La vida secreta de un genio musical",
+    "artista": "David Bowie",
+    "intro": "David Bowie marcó la música popular durante cinco décadas a través de su vida, obra y constantes reinvenciones. Conocido como el camaleón del rock, su trayectoria recorre desde sus inicios en Brixton ",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/quien-fue-el-camaleon-del-rock-la-vida-secreta-de-un-genio-musical-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/quien-fue-el-camaleon-del-rock-la-vida-secreta-de-un-genio-musical-1029.jpg",
+    "fecha": "2026-10-29T12:43:18.785610",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "La Odisea por Inteligencia Artificial desata polémica en redes",
     "artista": "La Odisea generada con IA",
     "intro": "El estreno de la versión de La Odisea generada por inteligencia artificial desata un intenso debate cultural sobre la tradición y la tecnología actual.",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Carlos Alonso: el pintor argentino y su obra expresionista",
-    "artista": "Carlos Alonso",
-    "intro": "El pintor, dibujante y grabador argentino Carlos Alonso murió el 21 de septiembre de 2026 a los 97 años. Su fallecimiento, anunciado por su familia en redes sociales y confirmado por los medios, marca",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/carlos-alonso-el-pintor-argentino-y-su-obra-expresionista-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/carlos-alonso-el-pintor-argentino-y-su-obra-expresionista-1029.jpg",
-    "fecha": "2026-10-29T03:10:55.273844",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
