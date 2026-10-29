@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Graciela Taquini: el Konex de Platino y su obra Granada",
+    "artista": "Graciela Taquini",
+    "intro": "Graciela Taquini, pionera del video experimental argentino, recibió el Premio Konex de Platino en Video Arte y su obra \"Granada\" (2005) sigue siendo referencia en la escena. La noticia destaca su inic",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/graciela-taquini-el-konex-de-platino-y-su-obra-granada-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/graciela-taquini-el-konex-de-platino-y-su-obra-granada-1029.jpg",
+    "fecha": "2026-10-29T08:07:01.727282",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "¿Quién transformó la pantalla en arte? El enigma de Graciela Taquini",
     "artista": "Graciela Taquini",
     "intro": "En el marco de la serie \"Shorts diarios\" de En El Ensayo, se difundió una pieza que revisa la vida y obra de Graciela Taquini, la artista argentina fallecida el 19 de septiembre de 2026. El video, alo",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "¿Cuál es el verdadero legado de Salvador Dalí? La historia completa",
-    "artista": "Salvador Dalí",
-    "intro": "En El Ensayo Media presenta un recorrido por la historia completa y el verdadero legado de Salvador Dalí. Años después de su fallecimiento, la figura del pintor español sigue generando interés en el á",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/cual-es-el-verdadero-legado-de-salvador-dali-la-historia-completa-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/cual-es-el-verdadero-legado-de-salvador-dali-la-historia-completa-1028.jpg",
-    "fecha": "2026-10-28T22:05:32.949153",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Biografía"
   }
 ]
