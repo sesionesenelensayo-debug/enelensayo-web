@@ -1,5 +1,18 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "Victoria Spivey: el contrato de 1926 que impulsó su carrera",
+    "artista": "Victoria Spivey",
+    "intro": "En 1926 Victoria Spivey firmó un contrato histórico con Okeh Records en San Luis, Missouri. Ese acuerdo marcó el inicio de una carrera que la llevaría a la escena del blues urbano y, según la noticia,",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/victoria-spivey-el-contrato-de-1926-que-impulso-su-carrera-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/victoria-spivey-el-contrato-de-1926-que-impulso-su-carrera-1029.jpg",
+    "fecha": "2026-10-29T11:02:33.920874",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
     "tipo": "noticia",
     "titulo": "Víctor Mendívil estrena el disco “No Hay Ángeles Aquí” con Natanael Cano, Anuel AA y más",
     "artista": "Víctor Mendívil",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Chisme de pasillo: Rafa y Azalia se enfrentan en La Granja VIP",
-    "artista": "Rafa y Azalia",
-    "intro": "El 8 de septiembre de 2026, según Excélsior, Azalia Ojeda y el cantante Rafa (Rafael) Mercadante protagonizaron una discusión en el programa La Granja VIP. El conflicto surgió por un comentario de Raf",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/chisme-de-pasillo-rafa-y-azalia-se-enfrentan-en-la-granja-vip-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/chisme-de-pasillo-rafa-y-azalia-se-enfrentan-en-la-granja-vip-1029.jpg",
-    "fecha": "2026-10-29T00:41:35.950291",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   }
 ]
