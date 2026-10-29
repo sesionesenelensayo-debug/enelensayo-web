@@ -1,0 +1,39 @@
+/* Dinamismo de la portada: carrusel, cinta de última hora, aparición al hacer scroll */
+.carrusel{display:grid}
+.carrusel .slide{grid-area:1/1;opacity:0;visibility:hidden;transform:scale(.985);transition:opacity .6s ease,transform .6s ease,visibility .6s}
+.carrusel .slide.on{opacity:1;visibility:visible;transform:none}
+.carrusel .slide .foto img{transition:transform 7s ease-out}
+.carrusel .slide.on .foto img{transform:scale(1.06)}
+.pausa .slide.on .foto img{transform:scale(1.03)}
+.car-ctl{display:flex;align-items:center;gap:8px;margin-top:12px}
+.car-ctl button{width:34px;height:6px;border:0;border-radius:99px;background:rgba(255,255,255,.2);cursor:pointer;padding:0;transition:background .3s,width .3s}
+.car-ctl button.on{background:var(--yellow);width:52px}
+.car-ctl button:focus-visible{outline:2px solid var(--yellow);outline-offset:3px}
+.car-bar{flex:1;height:2px;background:rgba(255,255,255,.08);border-radius:2px;overflow:hidden}
+.car-bar i{display:block;height:100%;width:100%;background:var(--indigo);filter:brightness(1.8);transform-origin:left;animation:carbar 7s linear forwards}
+.pausa .car-bar i{animation-play-state:paused}
+@keyframes carbar{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+
+.tira-uh{display:flex;align-items:stretch;background:#120b24;border-bottom:1px solid rgba(255,255,255,.08);font-size:14px;overflow:hidden}
+.tira-uh[hidden]{display:none}
+.uh-etq{flex:none;display:flex;align-items:center;gap:8px;background:var(--yellow);color:#111;font-weight:900;font-size:12px;letter-spacing:.08em;text-transform:uppercase;padding:9px 16px;z-index:1}
+.uh-etq i{width:8px;height:8px;border-radius:50%;background:#e1306c;animation:uhpulso 1.4s ease-in-out infinite}
+.uh-ven{overflow:hidden;white-space:nowrap;flex:1;display:flex;align-items:center;mask-image:linear-gradient(90deg,transparent,#000 24px)}
+.uh-cinta{display:inline-block;animation:uhmarcha 90s linear infinite;padding-left:20px}
+.uh-ven:hover .uh-cinta{animation-play-state:paused}
+.uh-cinta a{color:#e9e6f5;text-decoration:none;margin-right:42px}.uh-cinta a::before{content:"▪";color:var(--yellow);margin-right:10px}
+.uh-cinta a:hover{color:var(--yellow)}
+@keyframes uhmarcha{to{transform:translateX(-50%)}}
+@keyframes uhpulso{50%{transform:scale(1.6);opacity:.45}}
+.nuevo{color:var(--yellow);font-weight:800}
+
+.rv{opacity:0;transform:translateY(18px);transition:opacity .55s ease,transform .55s ease}
+.rv.vi{opacity:1;transform:none}
+.sx-card,.otra,.caja{transition:transform .25s ease,border-color .25s ease,box-shadow .25s ease}
+.sx-card:hover{box-shadow:0 10px 28px rgba(0,0,0,.35)}
+.otra:hover{transform:translateY(-3px)}
+@media(prefers-reduced-motion:reduce){
+  .carrusel .slide,.rv,.rv.vi{transition:none;transform:none}
+  .carrusel .slide .foto img,.uh-cinta,.uh-etq i,.car-bar i,.cinta-sp{animation:none!important;transform:none!important}
+}
+@media(max-width:700px){.uh-etq{padding:9px 11px;font-size:11px}.car-ctl button{width:26px}.car-ctl button.on{width:40px}}

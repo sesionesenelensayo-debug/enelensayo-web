@@ -13,6 +13,7 @@
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" />
   <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="css/dinamismo.css" />
   <link rel="stylesheet" href="css/secciones.css" />
   <!-- SEO structured data -->
   <script type="application/ld+json">
@@ -81,6 +82,7 @@
   <!-- ── PORTADA ── -->
   <div data-slot="cabecera"></div>
   <div class="tira-sp"><div class="cinta-sp" id="cintaSp"><span>Cargando lo más escuchado…</span></div></div>
+  <div class="tira-uh" id="tiraUh" hidden><span class="uh-etq"><i></i>Última hora</span><div class="uh-ven"><div class="uh-cinta" id="cintaUh"></div></div></div>
   <a class="banner-tg" href="https://t.me/enelensayomedia" target="_blank" rel="noopener">📲 Únete GRATIS al canal de Telegram de En el Ensayo Media: la nota del día, el Top 20 de Spotify y conciertos antes que nadie <b id="tgCuenta"></b> →</a>
   <div class="fecha-sx" id="fechaSx"></div>
   <main class="portada" id="portada">
@@ -381,7 +383,7 @@
 
       <div class="shorts-empty" style="display:none">
         <p style="font-size:2rem;margin-bottom:1rem">📱</p>
-        <p style="font-weight:700;margin-bottom:0.5rem">Los Shorts aparecen aquí automáticamente</p>
+        <p style="font-weight:700;margin-bottom:0.5rem">Pronto: los Shorts más recientes del canal</p>
         <p style="font-size:0.9rem;color:var(--gray);margin-bottom:1.5rem">Agrega IDs de video en <code>data/videos.json</code></p>
         <a href="https://www.youtube.com/@EnelEnsayoMedia" class="btn btn--outline" target="_blank" rel="noopener">Ver canal de YouTube →</a>
       </div>
@@ -574,6 +576,7 @@
   <script src="js/videojuegos.js"></script>
   <script src="js/anuncios.js"></script>
   <script src="js/portada.js"></script>
+  <script src="js/dinamismo.js"></script>
   <script src="js/podcast.js"></script>
 </body>
 </html>
