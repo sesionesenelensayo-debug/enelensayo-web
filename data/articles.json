@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Fuerza Regida: 8 premios en Billboard 2026",
+    "artista": "Fuerza Regida",
+    "intro": "Fuerza Regida se alzó con el mayor número de galardones en la edición 2026 de los Premios Billboard Latino, obteniendo ocho trofeos y superando a Bad Bunny, quien quedó con siete. La ceremonia, celebr",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/fuerza-regida-8-premios-en-billboard-2026-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fuerza-regida-8-premios-en-billboard-2026-1029.jpg",
+    "fecha": "2026-10-29T01:37:48.063581",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "5 curiosidades de Paul McCartney",
     "artista": "Paul McCartney",
     "intro": "En el marco de los 82 años de Paul McCartney, CNN Brasil publicó una serie de datos curiosos que van desde rumores de su muerte hasta su activismo vegano. La información, recopilada de distintas fecha",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Peso Pluma y Fuerza Regida triunfan en los Billboard 2026",
-    "artista": "Peso Pluma",
-    "intro": "En la edición 2026 de los Billboard, Peso Pluma y Fuerza Regida fueron destacados como los principales ganadores, resaltando el orgullo mexicano en el evento. La noticia subraya su éxito colectivo y l",
-    "telegraph_url": "https://telegra.ph/Peso-Pluma-y-Fuerza-Regida-triunfan-en-los-Billboard-2026-10-27",
-    "url": "https://telegra.ph/Peso-Pluma-y-Fuerza-Regida-triunfan-en-los-Billboard-2026-10-27",
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Peso_Pluma%2C_performing_in_Monterrey_%282024-09-24%29_%281%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
-    "fecha": "2026-10-27T12:10:23.248887",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reportaje"
   }
 ]
