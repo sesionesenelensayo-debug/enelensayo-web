@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Kim Basinger revela cómo Robert Redford la ayudó en el estreno de 'El mejor'",
+    "artista": "Kim Basinger y Robert Redford",
+    "intro": "La actriz recordó el apoyo de Redford durante el estreno de la película de 1984, basada en la novela de Bernard Malamud.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/kim-basinger-revela-como-robert-redford-la-ayudo-en-el-estreno-de-el-m-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/kim-basinger-revela-como-robert-redford-la-ayudo-en-el-estreno-de-el-m-1029.jpg",
+    "fecha": "2026-10-29T16:10:08.235928",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme internacional"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "El científico mexicano que desapareció sin dejar rastro · Jacobo Grinberg",
     "artista": "Jacobo Grinberg",
     "intro": "El científico mexicano Jacobo Grinberg desapareció misteriosamente el 8 de diciembre de 1994, tras investigar la conciencia y el chamanismo. Años después de su misteriosa ausencia sin dejar rastro, su",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Juanes: el lanzamiento de Mi Sangre y sus 4 millones de copi",
-    "artista": "Juanes",
-    "intro": "El 19 de octubre de 2004 Juanes presentó su tercer álbum, Mi Sangre, que incluye el éxito La Camisa Negra. Veinte años después, el cantante rememora el proyecto, cuyas ventas se estiman en alrededor d",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/juanes-el-lanzamiento-de-mi-sangre-y-sus-4-millones-de-copi-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/juanes-el-lanzamiento-de-mi-sangre-y-sus-4-millones-de-copi-1029.jpg",
-    "fecha": "2026-10-29T06:46:35.912196",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
