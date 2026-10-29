@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Fallece la actriz Elke Sommer a los 85 años en Bel Air",
+    "artista": "Elke Sommer",
+    "intro": "La actriz alemana‑americana Elke Sommer murió el miércoles 28 de octubre de 2026 en su residencia de Bel Air, California, a los 85 años. Según los medios alemanes que citan a Bild y a un amigo fotógra",
+    "telegraph_url": "https://telegra.ph/Fallece-la-actriz-Elke-Sommer-a-los-85-años-en-Bel-Air-10-29",
+    "url": "https://enelensayomedia.com/notas/fallece-la-actriz-elke-sommer-a-los-85-anos-en-bel-air-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-la-actriz-elke-sommer-a-los-85-anos-en-bel-air-1029.jpg",
+    "fecha": "2026-10-29T03:19:19.295557",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "In memoriam"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Carlos Alonso: el pintor argentino y su obra expresionista",
     "artista": "Carlos Alonso",
     "intro": "El pintor, dibujante y grabador argentino Carlos Alonso murió el 21 de septiembre de 2026 a los 97 años. Su fallecimiento, anunciado por su familia en redes sociales y confirmado por los medios, marca",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Manuel Bandera sobrevive a accidente ferroviario en Toledo",
-    "artista": "Manuel Bandera",
-    "intro": "El actor y bailarín español Manuel Bandera resultó herido con una pequeña contusión en las costillas y un golpe en la cara tras verse involucrado en un grave accidente ferroviario ocurrido este miérco",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/manuel-bandera-sobrevive-a-accidente-ferroviario-en-toledo-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/manuel-bandera-sobrevive-a-accidente-ferroviario-en-toledo-1028.jpg",
-    "fecha": "2026-10-28T17:32:43.428396",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   }
 ]
