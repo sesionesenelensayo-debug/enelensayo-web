@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Doja Cat: el sencillo de 2012 que lanzó su carrera en SoundC",
+    "artista": "Doja Cat",
+    "intro": "Doja Cat, la rapera nacida en Los Ángeles, comenzó a publicar canciones en internet y en 2012 lanzó un sencillo que impulsó su carrera en SoundCloud, marcando el inicio de su reconocimiento dentro del",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/doja-cat-el-sencillo-de-2012-que-lanzo-su-carrera-en-soundc-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/doja-cat-el-sencillo-de-2012-que-lanzo-su-carrera-en-soundc-1029.jpg",
+    "fecha": "2026-10-29T04:58:17.156478",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "¿El secreto detrás de la voz del rock? | La verdadera historia de Freddie Mercury",
     "artista": "Freddie Mercury",
     "intro": "Un estudio publicado en 2016 en la revista Logopedics Phoniatrics Vocology analizó la voz de Freddie Mercury, concluyendo que su registro hablaba como barítono pero cantaba como tenor, con un control ",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Chisme de pasillo: Ernesto Chavana y el dron que golpeó a Isabella Rojas",
-    "artista": "Ernesto Chavana",
-    "intro": "Circulan en medios de espectáculos rumores de que un dron operado por Ernesto Chavana impactó a la cantante Isabella Rojas. La información proviene de ABCnoticias, Excélsior, Infobae y Milenio, pero n",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/chisme-de-pasillo-ernesto-chavana-y-el-dron-que-golpeo-a-isabella-roja-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/chisme-de-pasillo-ernesto-chavana-y-el-dron-que-golpeo-a-isabella-roja-1028.jpg",
-    "fecha": "2026-10-28T18:31:07.871192",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   }
 ]
