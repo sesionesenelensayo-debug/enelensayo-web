@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "La Odisea por Inteligencia Artificial desata polémica en redes",
+    "artista": "La Odisea generada con IA",
+    "intro": "El estreno de la versión de La Odisea generada por inteligencia artificial desata un intenso debate cultural sobre la tradición y la tecnología actual.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/la-odisea-por-inteligencia-artificial-desata-polemica-en-redes-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-odisea-por-inteligencia-artificial-desata-polemica-en-redes-1029.jpg",
+    "fecha": "2026-10-29T12:37:41.437788",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Agenda woke"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Bing Crosby: el cantante con más de 1 600 canciones grabadas",
     "artista": "Bing Crosby",
     "intro": "Bing Crosby marcó la historia de la música mundial con una trayectoria que dejó más de 1 600 canciones grabadas. Su estilo íntimo de canto inspiró a figuras fundamentales de la música, incluyendo a Jo",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Arnaud Denis: el fallecimiento del director teatral en 2026",
-    "artista": "Arnaud Denis",
-    "intro": "El actor y director teatral francés Arnaud Denis murió a los 43 años por eutanasia en Namur, Bélgica, el 22 de septiembre de 2026. Su abogado, Philippe Courtois, confirmó la muerte a la AFP, señalando",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/arnaud-denis-el-fallecimiento-del-director-teatral-en-2026-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/arnaud-denis-el-fallecimiento-del-director-teatral-en-2026-1029.jpg",
-    "fecha": "2026-10-29T02:57:49.949304",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]

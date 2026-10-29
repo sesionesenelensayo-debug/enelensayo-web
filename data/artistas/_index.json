@@ -1,5 +1,12 @@
 [
   {
+    "artista": "David Bowie",
+    "slug": "david-bowie",
+    "imagen": "",
+    "piezas": 1,
+    "updated": "2026-10-29 12:30"
+  },
+  {
     "artista": "John Bonham",
     "slug": "john-bonham",
     "imagen": "",

@@ -63,6 +63,11 @@
   ],
   "longs": [
     {
+      "id": "LR1wy0ECOME",
+      "titulo": "¿Quién fue el camaleón del rock? La vida secreta de un genio musical",
+      "fecha": "2026-10-29"
+    },
+    {
       "id": "66FfK2si07I",
       "titulo": "John Bonham: la historia detrás de su obra",
       "fecha": "2026-10-28"
@@ -86,11 +91,6 @@
       "id": "0hRYZZA-0EE",
       "titulo": "¿El fin de un imperio? La tormenta detrás de la separación de Shakira",
       "fecha": "2026-10-25"
-    },
-    {
-      "id": "qffAZ24IeEY",
-      "titulo": "¿Qué impulsó a Marina Vlady a romper con el cine francés? – La historia detrás de su mayor prem",
-      "fecha": "2026-10-23"
     }
   ],
   "podcast": []
