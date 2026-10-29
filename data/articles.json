@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Juanes: el lanzamiento de Mi Sangre y sus 4 millones de copi",
+    "artista": "Juanes",
+    "intro": "El 19 de octubre de 2004 Juanes presentó su tercer álbum, Mi Sangre, que incluye el éxito La Camisa Negra. Veinte años después, el cantante rememora el proyecto, cuyas ventas se estiman en alrededor d",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/juanes-el-lanzamiento-de-mi-sangre-y-sus-4-millones-de-copi-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/juanes-el-lanzamiento-de-mi-sangre-y-sus-4-millones-de-copi-1029.jpg",
+    "fecha": "2026-10-29T06:46:35.912196",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "5 curiosidades de Thalía",
     "artista": "Thalía",
     "intro": "En una publicación de En el Ensayo — Live Sessions se recopilan cinco datos poco conocidos de la cantante y actriz mexicana Thalía, desde su origen de nombre artístico hasta anécdotas de su vida perso",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Chisme de pasillo: Laura Bozzo en terapia intensiva tras cirugía de urgencia",
-    "artista": "Laura Bozzo",
-    "intro": "Medios de espectáculos han difundido información acerca de la presentadora de televisión y abogada Laura Bozzo. De acuerdo con los reportes, la conductora se encontraría en terapia intensiva tras una ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/chisme-de-pasillo-laura-bozzo-en-terapia-intensiva-tras-cirugia-de-urg-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/chisme-de-pasillo-laura-bozzo-en-terapia-intensiva-tras-cirugia-de-urg-1028.jpg",
-    "fecha": "2026-10-28T20:31:24.372475",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   }
 ]
