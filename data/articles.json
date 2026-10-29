@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "The Clash: firma de 100 000 libras que impulsó el punk globa",
+    "artista": "The Clash",
+    "intro": "El 20 de octubre de 1976 The Clash firmó su primer contrato discográfico con CBS Records por 100 000 libras. Ese acuerdo permitió grabar su álbum debut de 1977 y expandir el punk británico a nivel glo",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/the-clash-firma-de-100-000-libras-que-impulso-el-punk-globa-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/the-clash-firma-de-100-000-libras-que-impulso-el-punk-globa-1029.jpg",
+    "fecha": "2026-10-29T06:05:26.118254",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "5 curiosidades de Michael Jackson",
     "artista": "Michael Jackson",
     "intro": "A pocos años de su fallecimiento, Michael Jackson sigue sorprendiendo. Según varias fuentes, el rey del pop intentó comprar Marvel Comics, reconoció solo dos intervenciones estéticas, ganó 13 Grammys,",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades de Juan Gabriel",
-    "artista": "Juan Gabriel",
-    "intro": "El programa En El Ensayo — Live Sessions, grabado en Azcapotzalco, CDMX, lanzó un video titulado “5 curiosidades de Juan Gabriel”. La pieza, disponible en su sitio web y en YouTube, ofrece datos breve",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-juan-gabriel-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-juan-gabriel-1028.jpg",
-    "fecha": "2026-10-28T19:54:04.602007",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Datos curiosos"
   }
 ]
