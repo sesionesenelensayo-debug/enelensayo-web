@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Las 10 películas más esperadas de 2026: El ranking definitivo",
+    "artista": "las 10 películas más esperadas de 2026",
+    "intro": "Descubre cuáles son los estrenos más esperados del cine para este año según los principales medios especializados de la industria.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/las-10-peliculas-mas-esperadas-de-2026-el-ranking-definitivo-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/las-10-peliculas-mas-esperadas-de-2026-el-ranking-definitivo-1029.jpg",
+    "fecha": "2026-10-29T16:39:51.926956",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Sean Lennon: nació el 9 de octubre de 1975, cumpleaños de Jo",
     "artista": "Sean Lennon",
     "intro": "Sean Lennon, hijo de John Lennon y Yoko Ono, cumple 51 años hoy. Nació en Nueva York el 9 de octubre de 1975, exactamente el día en que su padre cumplía 35 años. Con tres discos como solista, el más r",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades de Rolling Stones",
-    "artista": "Rolling Stones",
-    "intro": "En una sesión de Live Sessions en Azcapotzalco, CDMX, el programa En el Ensayo presentó cinco datos poco conocidos sobre los Rolling Stones, revelando anécdotas que van desde la expulsión de Keith Ric",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-rolling-stones-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-rolling-stones-1029.jpg",
-    "fecha": "2026-10-29T07:27:04.858013",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Datos curiosos"
   }
 ]
