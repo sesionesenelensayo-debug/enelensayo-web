@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "5 curiosidades de Luis Miguel",
+    "artista": "Luis Miguel",
+    "intro": "El artículo de En el Ensayo revela datos poco conocidos del cantante Luis Miguel, desde su peso al nacer hasta su reciente concierto en Tampico. Estas curiosidades resaltan la trayectoria del artista ",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-luis-miguel-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-luis-miguel-1029.jpg",
+    "fecha": "2026-10-29T04:31:11.469130",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Datos curiosos"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "La masacre de Jonestown: 900 personas bebieron el veneno",
     "artista": "Jonestown",
     "intro": "El 18 de noviembre de 1978 la comunidad de Jonestown, Guyana, vio morir a más de 900 personas después de que Jim Jones ordenara la ingestión de una bebida con cianuro. La cifra exacta varía entre fuen",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Julia Roberts: el Óscar de 2000 y sus 20 millones de dólares",
-    "artista": "Julia Roberts",
-    "intro": "Julia Roberts rompió esquemas en el año 2000 al convertirse en la primera actriz en cobrar 20 millones de dólares por una sola película: *Erin Brockovich*. Con 32 años y un historial de comedias román",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/julia-roberts-el-oscar-de-2000-y-sus-20-millones-de-dolares-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/julia-roberts-el-oscar-de-2000-y-sus-20-millones-de-dolares-1028.jpg",
-    "fecha": "2026-10-28T18:18:36.713130",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
