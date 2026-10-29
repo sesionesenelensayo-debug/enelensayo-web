@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "¿El príncipe del verso o de la controversia? La historia de Cosculluela",
+    "artista": "Cosculluela",
+    "intro": "Se lanzó un nuevo documental que explora la trayectoria de Cosculluela, desde sus inicios underground en Humacao y Palmas del Mar hasta su consagración como \"El Príncipe del Verso\" y las controversias",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-principe-del-verso-o-de-la-controversia-la-historia-de-cosculluela-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-principe-del-verso-o-de-la-controversia-la-historia-de-cosculluela-1029.jpg",
+    "fecha": "2026-10-29T11:15:05.031802",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Victoria Spivey: el contrato de 1926 que impulsó su carrera",
     "artista": "Victoria Spivey",
     "intro": "En 1926 Victoria Spivey firmó un contrato histórico con Okeh Records en San Luis, Missouri. Ese acuerdo marcó el inicio de una carrera que la llevaría a la escena del blues urbano y, según la noticia,",
@@ -632,19 +645,6 @@
     "url": "https://enelensayomedia.com/notas/el-monstruo-detras-de-la-feria-h-h-holmes-1029.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/el-monstruo-detras-de-la-feria-h-h-holmes-1029.jpg",
     "fecha": "2026-10-29T01:07:04.801148",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Kurt Cobain: la noche del 8 de abril de 1994 y el mito del",
-    "artista": "Kurt Cobain",
-    "intro": "El cuerpo de Kurt Cobain fue encontrado el 8 de abril de 1994 en su casa de Seattle, cerca del lago Washington. La investigación oficial determinó que había fallecido unos tres días antes, alrededor d",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/kurt-cobain-la-noche-del-8-de-abril-de-1994-y-el-mito-del-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/kurt-cobain-la-noche-del-8-de-abril-de-1994-y-el-mito-del-1029.jpg",
-    "fecha": "2026-10-29T00:54:18.277517",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
