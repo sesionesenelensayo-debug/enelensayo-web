@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "¿Cómo conquistó el pop un cantante sin género? Bruno Mars, de Waikīkī a la cima",
+    "artista": "Bruno Mars",
+    "intro": "El nuevo documental sobre Bruno Mars recorre su trayectoria desde el álbum debut Doo‑Wops & Hooligans hasta su último trabajo, The Romantic. Nacido en Honolulu en 1985, a los cuatro años ya era llamad",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/como-conquisto-el-pop-un-cantante-sin-genero-bruno-mars-de-waikiki-a-l-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/como-conquisto-el-pop-un-cantante-sin-genero-bruno-mars-de-waikiki-a-l-1029.jpg",
+    "fecha": "2026-10-29T17:32:33.492073",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "8 de octubre de 2005: 14 semanas en el número 1",
     "artista": "8 de octubre de 2005",
     "intro": "El 8 de octubre de 2005, Mariah Carey alcanzó su decimocuarta semana no consecutiva en el número 1 del Billboard Hot 100 con la canción «We Belong Together». Un solo tema lanzado en 2005 le otorgó tre",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Terror y misterio"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "La exluchadora que aterrorizó México: Juana Barraza",
-    "artista": "Juana Barraza",
-    "intro": "La noticia invita a conocer la historia de Juana Barraza, apodada 'La Mataviejitas', quien fue detenida en 2006 en la Ciudad de México. El llamado a profundizar en su caso busca esclarecer los hechos ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-exluchadora-que-aterrorizo-mexico-juana-barraza-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-exluchadora-que-aterrorizo-mexico-juana-barraza-1029.jpg",
-    "fecha": "2026-10-29T08:32:19.100662",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
