@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "¿Qué impulsó a Marina Vlady a romper con el cine francés?",
+    "artista": "Marina Vlady",
+    "intro": "Marina Vlady falleció el 24 de septiembre de 2026 a los 88 años, según confirmó su familia. La actriz, nacida en Clichy en 1938, ganó el premio a mejor actriz en Cannes 1963 y después de una prolífica",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/que-impulso-a-marina-vlady-a-romper-con-el-cine-frances-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/que-impulso-a-marina-vlady-a-romper-con-el-cine-frances-1029.jpg",
+    "fecha": "2026-10-29T02:17:51.364863",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "5 curiosidades de Emilia Clarke",
     "artista": "Emilia Clarke",
     "intro": "La actriz británica Emilia Clarke cumplió 40 años el 23 de octubre de 2026 con una fiesta en Londres a la que asistieron sus compañeros de Game of Thrones. En la misma ocasión, confirmó que su próxima",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reportaje"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece la actriz Barbara Barrie a los 95 años",
-    "artista": "Barbara Barrie",
-    "intro": "La actriz y autora estadounidense Barbara Barrie, conocida por su papel en \"Breaking Away\" y su premio en Cannes, falleció el 28 de octubre de 2026. Su muerte se registra en la lista de fallecimientos",
-    "telegraph_url": "https://telegra.ph/Fallece-la-actriz-Barbara-Barrie-a-los-95-años-10-28",
-    "url": "https://telegra.ph/Fallece-la-actriz-Barbara-Barrie-a-los-95-años-10-28",
-    "imagen_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/Barbara_Barrie_%22Breaking_Away%22_%281980_ABC_press_photo%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
-    "fecha": "2026-10-28T14:14:54.185482",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
