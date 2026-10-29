@@ -60,14 +60,17 @@
 
   var ESC = [100, 250, 500, 1000, 2500, 5000, 10000, 25000, 50000, 100000, 250000, 500000, 1000000];
   function hito(v) { var meta = ESC.find(function (e) { return e > v; }) || ESC[ESC.length - 1]; var prev = Math.max.apply(null, [0].concat(ESC.filter(function (e) { return e <= v; }))); return [meta, Math.max(2, Math.min(100, (v - prev) / Math.max(1, meta - prev) * 100))]; }
-  get('data/stats.json').then(function (s) {
+  var visitas = fetch('https://abacus.jasoncameron.dev/get/enelensayo-mx/v-total').then(function (r) { return r.json(); }).then(function (j) { return +j.value || 0; }).catch(function () { return 0; });
+  Promise.all([get('data/stats.json'), visitas]).then(function (res) {
+    var s = res[0]; s.visitas_sitio = res[1];
     var R = [['YouTube', 'yt_subs', 'https://www.youtube.com/@EnelEnsayoMedia', '#FF0033', '▶', 'suscriptores'],
       ['Facebook', 'fb_fans', 'https://www.facebook.com/enelensayomedia', '#1877F2', 'f', 'seguidores'],
       ['Instagram', 'ig_seguidores', 'https://www.instagram.com/enelensayomedia', '#E1306C', 'IG', 'seguidores'],
       ['Telegram', 'telegram_miembros', 'https://t.me/enelensayomedia', '#229ED9', '✈', 'suscriptores'],
       ['X', 'x_seguidores', 'https://x.com/enelensayo', '#8b87a0', '𝕏', 'seguidores'],
       ['Reproducciones Shorts', 'yt_views_shorts', 'https://www.youtube.com/@EnelEnsayoMedia/shorts', '#FFB300', '👁', 'vistas'],
-      ['Reproducciones Longs', 'yt_views_longs', 'https://www.youtube.com/@EnelEnsayoMedia/videos', '#673AB7', '🎬', 'vistas']];
+      ['Reproducciones Longs', 'yt_views_longs', 'https://www.youtube.com/@EnelEnsayoMedia/videos', '#673AB7', '🎬', 'vistas'],
+      ['Visitas al sitio', 'visitas_sitio', '#portada', '#00C9A7', '🌐', 'visitas']];
     var el = document.getElementById('sxHitos'); if (!el) return;
     el.innerHTML = R.map(function (r) {
       var v = +s[r[1]] || 0, h = hito(v);
