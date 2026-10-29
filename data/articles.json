@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "El Charro Negro: El jinete maldito que cobra almas en la noche",
+    "artista": "El Charro Negro",
+    "intro": "La figura que aparece se asocia con la leyenda del Charro Negro, un personaje del folclore mexicano cuya historia se remonta a relatos tradicionales y a su presencia en la cultura popular.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-charro-negro-el-jinete-maldito-que-cobra-almas-en-la-noche-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-charro-negro-el-jinete-maldito-que-cobra-almas-en-la-noche-1029.jpg",
+    "fecha": "2026-10-29T09:00:16.755060",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Terror y misterio"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "La exluchadora que aterrorizó México: Juana Barraza",
     "artista": "Juana Barraza",
     "intro": "La noticia invita a conocer la historia de Juana Barraza, apodada 'La Mataviejitas', quien fue detenida en 2006 en la Ciudad de México. El llamado a profundizar en su caso busca esclarecer los hechos ",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades de Ricky Martin",
-    "artista": "Ricky Martin",
-    "intro": "El proyecto musical En el Ensayo — Live Sessions, que realiza grabaciones en vivo para bandas independientes en Azcapotzalco, CDMX, ha publicado en YouTube un video titulado '5 curiosidades de Ricky M",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-ricky-martin-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-ricky-martin-1028.jpg",
-    "fecha": "2026-10-28T22:43:33.035493",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Datos curiosos"
   }
 ]
