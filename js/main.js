@@ -1,7 +1,7 @@
 /* ============================================
    EN EL ENSAYO MEDIA — main.js
    Carga artículos desde data/articles.json
-   (generado automáticamente por el bot)
+   (publicado por la redacción)
    ============================================ */
 
 // ── Navbar scroll effect ──────────────────────────────────────────────────────
@@ -193,8 +193,8 @@ async function cargarArticulos() {
       grid.innerHTML = `
         <div style="grid-column:1/-1;text-align:center;padding:3rem;color:var(--gray)">
           <p style="font-size:2rem;margin-bottom:1rem">📡</p>
-          <p style="font-weight:700;margin-bottom:0.5rem">Escáner activo</p>
-          <p style="font-size:0.9rem">El primer reportaje se publicará automáticamente a las 12:00pm CDMX.</p>
+          <p style="font-weight:700;margin-bottom:0.5rem">Estamos preparando la edición de hoy</p>
+          <p style="font-size:0.9rem">La nota del día se publica a las 12:00 pm (hora CDMX).</p>
         </div>`;
     }
   }
@@ -210,10 +210,7 @@ async function cargarArticulos() {
           <div class="featured-card-text">
             <span class="featured-card-tag">📰 Próximamente</span>
             <h3 class="featured-card-title">Los primeros reportajes están en camino</h3>
-            <p class="featured-card-excerpt">
-              Usa <code style="background:var(--black);padding:2px 6px;border-radius:4px">/reportaje [tema]</code>
-              en Telegram para publicar el primero.
-            </p>
+            <p class="featured-card-excerpt">Nuestra redacción prepara los primeros reportajes de la temporada.</p>
           </div>
         </div>`;
     }
@@ -229,7 +226,7 @@ async function cargarArticulos() {
         <div style="grid-column:1/-1;text-align:center;padding:2rem;color:var(--gray)">
           <p style="font-size:2rem;margin-bottom:0.75rem">🎤</p>
           <p style="font-weight:700;margin-bottom:0.5rem">Entrevistas en preparación</p>
-          <p style="font-size:0.9rem">Usa <code style="background:var(--black-2);padding:2px 6px;border-radius:4px">/entrevista [artista]</code> en el bot.</p>
+          <p style="font-size:0.9rem">Muy pronto: conversaciones con los artistas de la escena.</p>
         </div>`;
     }
   }
@@ -369,7 +366,7 @@ function renderLongs(longs) {
     grid.innerHTML = `
       <div class="longs-empty">
         <p>📺</p>
-        <p>Los videos del canal aparecen aquí automáticamente.</p>
+        <p>Pronto encontrarás aquí los videos del canal.</p>
         <a href="https://www.youtube.com/@EnelEnsayoMedia" class="btn btn--outline" target="_blank" rel="noopener">Ver canal →</a>
       </div>`;
     return;
