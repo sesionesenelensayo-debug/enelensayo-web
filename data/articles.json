@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "¿El secreto detrás de la voz del rock? | La verdadera historia de Freddie Mercury",
+    "artista": "Freddie Mercury",
+    "intro": "Un estudio publicado en 2016 en la revista Logopedics Phoniatrics Vocology analizó la voz de Freddie Mercury, concluyendo que su registro hablaba como barítono pero cantaba como tenor, con un control ",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-secreto-detras-de-la-voz-del-rock-la-verdadera-historia-de-freddie-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-secreto-detras-de-la-voz-del-rock-la-verdadera-historia-de-freddie-1029.jpg",
+    "fecha": "2026-10-29T04:45:34.445787",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "5 curiosidades de Luis Miguel",
     "artista": "Luis Miguel",
     "intro": "El artículo de En el Ensayo revela datos poco conocidos del cantante Luis Miguel, desde su peso al nacer hasta su reciente concierto en Tampico. Estas curiosidades resaltan la trayectoria del artista ",
@@ -632,19 +645,6 @@
     "url": "https://enelensayomedia.com/notas/chisme-de-pasillo-ernesto-chavana-y-el-dron-que-golpeo-a-isabella-roja-1028.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/chisme-de-pasillo-ernesto-chavana-y-el-dron-que-golpeo-a-isabella-roja-1028.jpg",
     "fecha": "2026-10-28T18:31:07.871192",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece Komanche, streamer salvadoreño de 30 años, en Monterrey",
-    "artista": "Komanche",
-    "intro": "El streamer e influencer salvadoreño Carlos Mauricio Gómez, conocido como Komanche, murió a los 30 años en Monterrey, México. Su representante Byron Reyes confirmó el fallecimiento a través de Instagr",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fallece-komanche-streamer-salvadoreno-de-30-anos-en-monterrey-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-komanche-streamer-salvadoreno-de-30-anos-en-monterrey-1028.jpg",
-    "fecha": "2026-10-28T18:29:22.769577",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
