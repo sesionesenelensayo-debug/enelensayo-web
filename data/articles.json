@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Peter Hernández, Elvis niño y un Grammy en 2016",
+    "artista": "Peter Hernández",
+    "intro": "La figura de Peter Hernández resurge en el análisis musical actual bajo una perspectiva que examina su trayectoria a través de múltiples facetas. Lejos de los convencionalismos, la revisión de su carr",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/peter-hernandez-elvis-nino-y-un-grammy-en-2016-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/peter-hernandez-elvis-nino-y-un-grammy-en-2016-1029.jpg",
+    "fecha": "2026-10-29T17:48:48.909224",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "¿Cómo conquistó el pop un cantante sin género? Bruno Mars, de Waikīkī a la cima",
     "artista": "Bruno Mars",
     "intro": "El nuevo documental sobre Bruno Mars recorre su trayectoria desde el álbum debut Doo‑Wops & Hooligans hasta su último trabajo, The Romantic. Nacido en Honolulu en 1985, a los cuatro años ya era llamad",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El Charro Negro: El jinete maldito que cobra almas en la noche",
-    "artista": "El Charro Negro",
-    "intro": "La figura que aparece se asocia con la leyenda del Charro Negro, un personaje del folclore mexicano cuya historia se remonta a relatos tradicionales y a su presencia en la cultura popular.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-charro-negro-el-jinete-maldito-que-cobra-almas-en-la-noche-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-charro-negro-el-jinete-maldito-que-cobra-almas-en-la-noche-1029.jpg",
-    "fecha": "2026-10-29T09:00:16.755060",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Terror y misterio"
   }
 ]
