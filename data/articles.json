@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Chisme de pasillo: Ernesto Chavana y el dron que golpeó a Isabella Rojas",
+    "artista": "Ernesto Chavana",
+    "intro": "Circulan en medios de espectáculos rumores de que un dron operado por Ernesto Chavana impactó a la cantante Isabella Rojas. La información proviene de ABCnoticias, Excélsior, Infobae y Milenio, pero n",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/chisme-de-pasillo-ernesto-chavana-y-el-dron-que-golpeo-a-isabella-roja-1028.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/chisme-de-pasillo-ernesto-chavana-y-el-dron-que-golpeo-a-isabella-roja-1028.jpg",
+    "fecha": "2026-10-28T18:31:07.871192",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Fallece Komanche, streamer salvadoreño de 30 años, en Monterrey",
     "artista": "Komanche",
     "intro": "El streamer e influencer salvadoreño Carlos Mauricio Gómez, conocido como Komanche, murió a los 30 años en Monterrey, México. Su representante Byron Reyes confirmó el fallecimiento a través de Instagr",
@@ -632,19 +645,6 @@
     "url": "https://telegra.ph/Muere-Víctor-Hugo-Ayala-voz-del-bolero-colombiano-a-los-92-años-10-08",
     "imagen_url": "https://enelensayomedia.com/img/notas/muere-victor-hugo-ayala-voz-del-bolero-colombiano-a-los-92-anos-1008.jpg",
     "fecha": "2026-10-08T17:24:56.258606",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Muere Andy Williams, guitarrista de Every Time I Die y luchador de AEW",
-    "artista": "Andy Williams",
-    "intro": "Andrew \"Andy\" Williams, guitarrista rítmico de la banda de metalcore Every Time I Die y exluchador de AEW bajo el nombre de The Butcher, murió a los 48 años. Se desplomó durante una función de lucha l",
-    "telegraph_url": "https://telegra.ph/Muere-Andy-Williams-guitarrista-de-Every-Time-I-Die-y-luchador-de-AEW-10-08",
-    "url": "https://telegra.ph/Muere-Andy-Williams-guitarrista-de-Every-Time-I-Die-y-luchador-de-AEW-10-08",
-    "imagen_url": "https://enelensayomedia.com/img/notas/muere-andy-williams-guitarrista-de-every-time-i-die-y-luchador-de-aew-1008.jpg",
-    "fecha": "2026-10-08T17:16:23.144380",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
