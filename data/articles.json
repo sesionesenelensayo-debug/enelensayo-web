@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "José Luis García Sánchez: el director que ganó el Oso de Oro",
+    "artista": "José Luis García Sánchez",
+    "intro": "El director de cine José Luis García Sánchez dejó una huella imborrable en la cinematografía. A lo largo de su carrera, dirigió 30 películas desde 1968, consolidando una trayectoria que incluye premio",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/jose-luis-garcia-sanchez-el-director-que-gano-el-oso-de-oro-1028.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/jose-luis-garcia-sanchez-el-director-que-gano-el-oso-de-oro-1028.jpg",
+    "fecha": "2026-10-28T23:46:58.017467",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "5 curiosidades de Pablo Picasso",
     "artista": "Pablo Picasso",
     "intro": "Existe un contenido titulado '5 curiosidades de Pablo Picasso' publicado en formato YouTube Shorts por En el Ensayo — Live Sessions, proyecto enfocado en grabaciones en vivo para bandas independientes",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fuerza Regida vence a Bad Bunny en los Premios Billboard 2026",
-    "artista": "Fuerza Regida",
-    "intro": "Fuerza Regida se consagró como el mayor ganador de los Premios Billboard de la Música Latina 2026 al obtener 8 premios, superando a Bad Bunny, quien obtuvo 7. La ceremonia se llevó a cabo el 22 de oct",
-    "telegraph_url": "https://telegra.ph/Fuerza-Regida-vence-a-Bad-Bunny-en-los-Premios-Billboard-2026-10-23",
-    "url": "https://telegra.ph/Fuerza-Regida-vence-a-Bad-Bunny-en-los-Premios-Billboard-2026-10-23",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fuerza-regida-vence-a-bad-bunny-en-los-premios-billboard-2026-1023.jpg",
-    "fecha": "2026-10-23T12:07:52.706745",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reportaje"
   }
 ]
