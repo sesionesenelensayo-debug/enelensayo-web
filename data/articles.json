@@ -1,5 +1,18 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Víctor Mendívil estrena el disco “No Hay Ángeles Aquí” con Natanael Cano, Anuel AA y más",
+    "artista": "Víctor Mendívil",
+    "intro": "El artista Víctor Mendívil lanzó su nuevo álbum titulado “No Hay Ángeles Aquí”, que incluye colaboraciones de Natanael Cano, Anuel AA y otros músicos. El anuncio, publicado en el titular de Sopitas, g",
+    "telegraph_url": "https://telegra.ph/Víctor-Mendívil-estrena-el-disco-No-Hay-Ángeles-Aquí-con-Natanael-Cano-Anuel-AA-y-más-10-29",
+    "url": "https://enelensayomedia.com/notas/victor-mendivil-estrena-el-disco-no-hay-angeles-aqui-con-natanael-cano-1029.html",
+    "imagen_url": "",
+    "fecha": "2026-10-29T10:56:50.537393",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Escena local"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "5 curiosidades de Elvis Presley",
     "artista": "Elvis Presley",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece Eric Bauza, la voz moderna de los Looney Tunes, a los 46 años",
-    "artista": "Eric Bauza",
-    "intro": "El actor de doblaje canadiense murió el 25 de octubre en Los Ángeles; su familia confirmó la noticia y la causa fue una enfermedad cardiovascular hipertensiva.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fallece-eric-bauza-la-voz-moderna-de-los-looney-tunes-a-los-46-anos-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-eric-bauza-la-voz-moderna-de-los-looney-tunes-a-los-46-anos-1029.jpg",
-    "fecha": "2026-10-29T00:31:31.304256",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
