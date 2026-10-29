@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Ernesto Laguardia: su paso por Dune en 1984",
+    "artista": "Ernesto Laguardia",
+    "intro": "Ernesto Laguardia, conocido actor y presentador mexicano, empezó su carrera como mensajero en estaciones de radio y, tras pocos meses, llegó a entrevistar a Julio Iglesias. En 1984, su trayectoria dio",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/ernesto-laguardia-su-paso-por-dune-en-1984-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/ernesto-laguardia-su-paso-por-dune-en-1984-1029.jpg",
+    "fecha": "2026-10-29T09:26:01.570373",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "5 curiosidades de Eminem",
     "artista": "Eminem",
     "intro": "En El Ensayo – Live Sessions lanzó un video en YouTube titulado “5 curiosidades de Eminem”. El contenido, producido en Azcapotzalco, CDMX, forma parte de la serie de grabaciones en vivo para bandas in",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "¿El fin de un imperio? La tormenta detrás de la separación de Shakira",
-    "artista": "Shakira",
-    "intro": "El recorrido documental analiza cómo Shakira transformó el escándalo de su separación y su batalla legal en el mayor resurgimiento de su carrera musical. Este trabajo examina los detalles detrás de un",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-fin-de-un-imperio-la-tormenta-detras-de-la-separacion-de-shakira-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-fin-de-un-imperio-la-tormenta-detras-de-la-separacion-de-shakira-1028.jpg",
-    "fecha": "2026-10-28T23:21:04.117784",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Biografía"
   }
 ]
