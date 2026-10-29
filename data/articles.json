@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "El cielo se partió en Siberia: el misterio de Tunguska",
+    "artista": "Tunguska",
+    "intro": "El 30 de junio de 1908, una gran explosión sacudió la cuenca del río Podkámennaya Tunguska, en Siberia, derribando unos 80 millones de árboles en una superficie de aproximadamente 2,150 km². El evento",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-cielo-se-partio-en-siberia-el-misterio-de-tunguska-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-cielo-se-partio-en-siberia-el-misterio-de-tunguska-1029.jpg",
+    "fecha": "2026-10-29T13:58:32.167499",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Fallece Sir Patrick Stewart a los 86 años",
     "artista": "Patrick Stewart",
     "intro": "Sir Patrick Stewart ha fallecido el 28 de octubre de 2026 a la edad de 86 años. El reconocido actor británico de cine, televisión y doblaje deja atrás una trayectoria de más de 60 años sobre los escen",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades de Luis Miguel",
-    "artista": "Luis Miguel",
-    "intro": "El artículo de En el Ensayo revela datos poco conocidos del cantante Luis Miguel, desde su peso al nacer hasta su reciente concierto en Tampico. Estas curiosidades resaltan la trayectoria del artista ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-luis-miguel-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-luis-miguel-1029.jpg",
-    "fecha": "2026-10-29T04:31:11.469130",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Datos curiosos"
   }
 ]
