@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Aleks Syntek y su situación actual",
+    "artista": "Aleks Syntek",
+    "intro": "El cantautor mexicano Aleks Syntek enfrenta un periodo de cambios y ajustes en su carrera. Reportes de medios señalan situaciones médicas y personales recientes que han impactado sus actividades profe",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/aleks-syntek-y-su-situacion-actual-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/aleks-syntek-y-su-situacion-actual-1029.jpg",
+    "fecha": "2026-10-29T14:15:37.847147",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Isla de las Muñecas: la niña que nadie pudo probar que existió",
     "artista": "Isla de las Muñecas",
     "intro": "La Isla de las Muñecas, ubicada en los canales de Xochimilco, Ciudad de México, es un sitio conocido por albergar miles de piezas deterioradas. El lugar se asocia con Julián Santana Barrera, quien se ",
@@ -633,19 +646,6 @@
     "url": "https://enelensayomedia.com/notas/freddie-mercury-el-diagnostico-de-vih-que-oculto-hasta-1991-1029.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/freddie-mercury-el-diagnostico-de-vih-que-oculto-hasta-1991-1029.jpg",
     "fecha": "2026-10-29T05:10:59.016852",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Doja Cat: el sencillo de 2012 que lanzó su carrera en SoundC",
-    "artista": "Doja Cat",
-    "intro": "Doja Cat, la rapera nacida en Los Ángeles, comenzó a publicar canciones en internet y en 2012 lanzó un sencillo que impulsó su carrera en SoundCloud, marcando el inicio de su reconocimiento dentro del",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/doja-cat-el-sencillo-de-2012-que-lanzo-su-carrera-en-soundc-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/doja-cat-el-sencillo-de-2012-que-lanzo-su-carrera-en-soundc-1029.jpg",
-    "fecha": "2026-10-29T04:58:17.156478",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
