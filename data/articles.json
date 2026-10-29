@@ -1,5 +1,31 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Régulo Caro estrena \"Mi Morena\" antes de su concierto de Halloween en Hermosillo",
+    "artista": "Régulo Caro",
+    "intro": "El cantante regional mexicano Régulo Caro lanzó su nuevo sencillo \"Mi Morena\" como preludio a su presentación de Halloween en Hermosillo. El estreno del tema coincide con el evento, generando expectat",
+    "telegraph_url": "https://telegra.ph/Régulo-Caro-estrena-Mi-Morena-antes-de-su-concierto-de-Halloween-en-Hermosillo-10-29",
+    "url": "https://enelensayomedia.com/notas/regulo-caro-estrena-mi-morena-antes-de-su-concierto-de-halloween-en-he-1029.html",
+    "imagen_url": "",
+    "fecha": "2026-10-29T11:37:42.894254",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Escena local"
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "The Witcher 4 sustituye a Geralt por Ciri: debate sobre la decisión editorial",
+    "artista": "The Witcher 4",
+    "intro": "CD Projekt RED ha confirmado que Ciri será la protagonista de The Witcher 4, sustituyendo a Geralt de Rivia. La medida ha generado controversia en redes, donde algunos la califican de \"woke\" mientras ",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/the-witcher-4-sustituye-a-geralt-por-ciri-debate-sobre-la-decision-edi-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/the-witcher-4-sustituye-a-geralt-por-ciri-debate-sobre-la-decision-edi-1029.jpg",
+    "fecha": "2026-10-29T11:35:45.770975",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "La criatura de ojos rojos y la tragedia del puente Silver",
     "artista": "Silver",
@@ -622,31 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fuerza Regida: 8 premios en Billboard 2026",
-    "artista": "Fuerza Regida",
-    "intro": "Fuerza Regida se alzó con el mayor número de galardones en la edición 2026 de los Premios Billboard Latino, obteniendo ocho trofeos y superando a Bad Bunny, quien quedó con siete. La ceremonia, celebr",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fuerza-regida-8-premios-en-billboard-2026-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fuerza-regida-8-premios-en-billboard-2026-1029.jpg",
-    "fecha": "2026-10-29T01:37:48.063581",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades de Paul McCartney",
-    "artista": "Paul McCartney",
-    "intro": "En el marco de los 82 años de Paul McCartney, CNN Brasil publicó una serie de datos curiosos que van desde rumores de su muerte hasta su activismo vegano. La información, recopilada de distintas fecha",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-paul-mccartney-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-paul-mccartney-1029.jpg",
-    "fecha": "2026-10-29T01:23:42.812689",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Datos curiosos"
   }
 ]
