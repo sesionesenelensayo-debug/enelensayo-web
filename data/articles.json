@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Michael Jackson: el juicio que culpó a su doctor por la sobr",
+    "artista": "Michael Jackson",
+    "intro": "Un video publicado en YouTube titulado “Michael Jackson: el juicio que culpó a su doctor por la sobr” afirma que la muerte del cantante en 2009 fue un crimen y revisa el proceso judicial contra su méd",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/michael-jackson-el-juicio-que-culpo-a-su-doctor-por-la-sobr-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/michael-jackson-el-juicio-que-culpo-a-su-doctor-por-la-sobr-1029.jpg",
+    "fecha": "2026-10-29T05:25:04.595661",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Freddie Mercury: el diagnóstico de VIH que ocultó hasta 1991",
     "artista": "Freddie Mercury",
     "intro": "Freddie Mercury falleció el 24 de noviembre de 1991 en Londres a los 45 años. La noticia revisa sus últimos años, revelando que recibió el diagnóstico de VIH en 1987, lo mantuvo en reserva hasta 1991 ",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "¿Se extinguió su legado o vive en cada nota? La verdad detrás de una leyenda",
-    "artista": "¿Se extinguió su legado o vive en cada nota? La verdad detrá",
-    "intro": "Un nuevo video titulado “La historia completa de Prince” ha sido publicado, reavivando la discusión sobre la vigencia del legado del icónico músico. El material, disponible en YouTube, vuelve a poner ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/se-extinguio-su-legado-o-vive-en-cada-nota-la-verdad-detras-de-una-ley-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/se-extinguio-su-legado-o-vive-en-cada-nota-la-verdad-detras-de-una-ley-1028.jpg",
-    "fecha": "2026-10-28T18:56:09.030017",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Terror"
   }
 ]
