@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Juan Gabriel: su muerte confirmada",
+    "artista": "Juan Gabriel",
+    "intro": "El 28 de agosto de 2016, Alberto Aguilera Valadez, conocido como Juan Gabriel, murió en Santa Mónica, California. La Oficina Forense de Santa Mónica y voceros del Consulado de México confirmaron su fa",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/juan-gabriel-su-muerte-confirmada-1028.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/juan-gabriel-su-muerte-confirmada-1028.jpg",
+    "fecha": "2026-10-28T18:04:50.989301",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "¿Cómo nació Bohemian Rhapsody? La creación de la obra maestra de Queen",
     "artista": "Queen",
     "intro": "La historia de «Bohemian Rhapsody», la obra maestra de Queen, está marcada por el drama, la tensión y una apuesta comercial sumamente arriesgada debido a sus casi seis minutos de duración. Freddie Mer",
@@ -635,18 +648,5 @@
     "views": 0,
     "url": "https://enelensayomedia.com/notas/fidel-nadal-cumple-61-anos-de-vida-1004.html",
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Rosalía y el Premio Billboard Salón de la Fama 2026",
-    "artista": "Rosalía",
-    "intro": "La artista española Rosalía es noticia en el ámbito musical actual tras darse a conocer el titular referente al Premio Billboard Salón de la Fama 2026. Este reconocimiento marca un punto de atención s",
-    "telegraph_url": "https://telegra.ph/Rosalía-y-el-Premio-Billboard-Salón-de-la-Fama-2026-10-03",
-    "imagen_url": "https://enelensayomedia.com/img/notas/rosalia-y-el-premio-billboard-salon-de-la-fama-2026-1003.jpg",
-    "fecha": "2026-10-03T12:05:39.095034",
-    "author": "Oliver Ken",
-    "views": 0,
-    "url": "https://enelensayomedia.com/notas/rosalia-y-el-premio-billboard-salon-de-la-fama-2026-1003.html",
-    "categoria": "Reportaje"
   }
 ]
