@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "5 curiosidades de Taylor Swift",
+    "artista": "Taylor Swift",
+    "intro": "Taylor Swift celebra sus 33 años. La artista, nacida en West Reading, Pensilvania, el 13 de diciembre de 1989, es una de las cantautoras más influyentes y con mayores ingresos en la historia de la mús",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-taylor-swift-1028.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-taylor-swift-1028.jpg",
+    "fecha": "2026-10-28T20:55:56.320488",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Datos curiosos"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Susan Saint James había sobrevivido al duelo de su hijo",
     "artista": "Susan Saint James",
     "intro": "Susan Saint James, actriz de culto y ganadora de un premio Emmy, falleció el 26 de octubre de 2026. La intérprete dejó una huella profunda tanto en su carrera artística como en su activismo, especialm",
@@ -632,19 +645,6 @@
     "url": "https://telegra.ph/Fallece-Gustavo-Cordera-exfrontman-de-Bersuit-Vergarabat-10-17",
     "imagen_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Gustavo_Cordera_2012.jpg/1200px-Gustavo_Cordera_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
     "fecha": "2026-10-17T00:23:48.470847",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece el compositor inglés Bryan Kelly a los 92 años",
-    "artista": "Bryan Kelly",
-    "intro": "El compositor, director de orquesta y pianista británico Bryan George Kelly, nacido el 3 de enero de 1934 en Oxford, murió el 17 de septiembre de 2026 a los 92 años. Su obra, que incluye el innovador ",
-    "telegraph_url": "https://telegra.ph/Fallece-el-compositor-inglés-Bryan-Kelly-a-los-92-años-10-16",
-    "url": "https://telegra.ph/Fallece-el-compositor-inglés-Bryan-Kelly-a-los-92-años-10-16",
-    "imagen_url": "",
-    "fecha": "2026-10-16T06:27:09.675141",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
