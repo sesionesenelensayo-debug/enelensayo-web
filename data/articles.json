@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "5 curiosidades de Pablo Picasso",
+    "artista": "Pablo Picasso",
+    "intro": "Existe un contenido titulado '5 curiosidades de Pablo Picasso' publicado en formato YouTube Shorts por En el Ensayo — Live Sessions, proyecto enfocado en grabaciones en vivo para bandas independientes",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-pablo-picasso-1028.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-pablo-picasso-1028.jpg",
+    "fecha": "2026-10-28T23:34:47.362190",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Datos curiosos"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "¿El fin de un imperio? La tormenta detrás de la separación de Shakira",
     "artista": "Shakira",
     "intro": "El recorrido documental analiza cómo Shakira transformó el escándalo de su separación y su batalla legal en el mayor resurgimiento de su carrera musical. Este trabajo examina los detalles detrás de un",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reportaje"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece la actriz francesa Marina Vlady a los 88 años",
-    "artista": "Marina Vlady",
-    "intro": "La actriz francesa Marina Vlady falleció el jueves 24 de septiembre. Su partida deja un profundo vacío en el panorama cinematográfico internacional y en la comunidad de Noirestyle, donde era una figur",
-    "telegraph_url": "https://telegra.ph/Fallece-la-actriz-francesa-Marina-Vlady-a-los-88-años-10-23",
-    "url": "https://telegra.ph/Fallece-la-actriz-francesa-Marina-Vlady-a-los-88-años-10-23",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-la-actriz-francesa-marina-vlady-a-los-88-anos-1023.jpg",
-    "fecha": "2026-10-23T06:13:49.789064",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
