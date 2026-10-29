@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Freddie Mercury: el diagnóstico de VIH que ocultó hasta 1991",
+    "artista": "Freddie Mercury",
+    "intro": "Freddie Mercury falleció el 24 de noviembre de 1991 en Londres a los 45 años. La noticia revisa sus últimos años, revelando que recibió el diagnóstico de VIH en 1987, lo mantuvo en reserva hasta 1991 ",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/freddie-mercury-el-diagnostico-de-vih-que-oculto-hasta-1991-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/freddie-mercury-el-diagnostico-de-vih-que-oculto-hasta-1991-1029.jpg",
+    "fecha": "2026-10-29T05:10:59.016852",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Doja Cat: el sencillo de 2012 que lanzó su carrera en SoundC",
     "artista": "Doja Cat",
     "intro": "Doja Cat, la rapera nacida en Los Ángeles, comenzó a publicar canciones en internet y en 2012 lanzó un sencillo que impulsó su carrera en SoundCloud, marcando el inicio de su reconocimiento dentro del",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Terror"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Jim Morrison: el día que murió sin autopsia en París",
-    "artista": "Jim Morrison",
-    "intro": "El 3 de julio de 1971 Jim Morrison murió en París bajo circunstancias misteriosas. La ausencia de una autopsia ha alimentado décadas de especulación entre sus seguidores, mientras que la noticia actua",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/jim-morrison-el-dia-que-murio-sin-autopsia-en-paris-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/jim-morrison-el-dia-que-murio-sin-autopsia-en-paris-1028.jpg",
-    "fecha": "2026-10-28T18:43:38.698884",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
