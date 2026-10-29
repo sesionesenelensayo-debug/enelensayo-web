@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "El Internacional Grupo La Migra lanza álbum en vivo y enfrenta disputa por su nombre",
+    "artista": "El Internacional Grupo La Migra",
+    "intro": "El Internacional Grupo La Migra presentó su nuevo álbum grabado en vivo desde la Arena CDMX. El sencillo “Sueño Americano” está disponible en plataformas digitales. Paralelamente, cuatro personas fuer",
+    "telegraph_url": "https://telegra.ph/El-Internacional-Grupo-La-Migra-lanza-álbum-en-vivo-y-enfrenta-disputa-por-su-nombre-10-29",
+    "url": "https://enelensayomedia.com/notas/el-internacional-grupo-la-migra-lanza-album-en-vivo-y-enfrenta-disputa-1029.html",
+    "imagen_url": "",
+    "fecha": "2026-10-29T10:26:55.078651",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Escena local"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Banda El Recodo lanza nuevo sencillo “Todo Pasa Por Algo” tras renovar visas en Hermosillo",
     "artista": "Banda El Recodo",
     "intro": "La icónica Banda El Recodo de Don Cruz Lizárraga volvió a la capital sonorense, Hermosillo, para tramitar la renovación de sus visas de trabajo. En la misma visita, la agrupación reveló los detalles d",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Agenda woke"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "G2 vs Karmine Corp: la batalla europea que define su paso en Worlds 2026",
-    "artista": "G2 Esports vs Karmine Corp en Worlds 2026",
-    "intro": "Los dos representantes de la LEC luchan por sobrevivir en una fase suiza implacable mientras los rivales asiáticos presionan su margen de error.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/g2-vs-karmine-corp-la-batalla-europea-que-define-su-paso-en-worlds-202-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/g2-vs-karmine-corp-la-batalla-europea-que-define-su-paso-en-worlds-202-1029.jpg",
-    "fecha": "2026-10-29T00:24:10.443087",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Esports"
   }
 ]
