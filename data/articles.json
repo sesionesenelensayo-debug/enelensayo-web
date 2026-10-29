@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "5 curiosidades de Thalía",
+    "artista": "Thalía",
+    "intro": "En una publicación de En el Ensayo — Live Sessions se recopilan cinco datos poco conocidos de la cantante y actriz mexicana Thalía, desde su origen de nombre artístico hasta anécdotas de su vida perso",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-thalia-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-thalia-1029.jpg",
+    "fecha": "2026-10-29T06:32:21.443349",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Datos curiosos"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "El carnicero de Plainfield: La granja del horror",
     "artista": "Ed Gein",
     "intro": "En noviembre de 1957 la desaparición de Bernice Worden, dueña de una ferretería en Plainfield, Wisconsin, llevó a la policía a la granja de Ed Gein. Allí encontraron el cuerpo decapitado de Worden col",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades de Madonna",
-    "artista": "Madonna",
-    "intro": "Se han dado a conocer 5 curiosidades de Madonna. Este material se enmarca dentro de las grabaciones de En el Ensayo — Live Sessions, un espacio enfocado en sesiones en vivo para bandas independientes ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-madonna-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-madonna-1028.jpg",
-    "fecha": "2026-10-28T20:19:06.308703",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Datos curiosos"
   }
 ]
