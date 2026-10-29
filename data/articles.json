@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "5 curiosidades de Alejandro Sanz",
+    "artista": "Alejandro Sanz",
+    "intro": "El reconocido cantautor español Alejandro Sanz es el centro de atención en un nuevo material audiovisual que recopila curiosidades sobre su trayectoria artística. A través de este lanzamiento, 'En El ",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-alejandro-sanz-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-alejandro-sanz-1029.jpg",
+    "fecha": "2026-10-29T13:32:42.872367",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Datos curiosos"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Grimes: el nuevo disco Psy Opera y su single Accelerando",
     "artista": "Grimes",
     "intro": "La productora y cantante canadiense Grimes prepara su primer álbum desde 2020, el cual se titula Psy Opera. Como parte de este nuevo material discográfico, la artista lanza el single titulado Accelera",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "The Police: la verdad oculta detrás de su mayor éxito musica",
-    "artista": "The Police",
-    "intro": "The Police logró un hito histórico al encabezar el Billboard Hot 100 con su sencillo \"Every Breath You Take\". El tema, extraído del álbum Synchronicity lanzado el 17 de junio de 1983, marcó el mayor é",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/the-police-la-verdad-oculta-detras-de-su-mayor-exito-musica-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/the-police-la-verdad-oculta-detras-de-su-mayor-exito-musica-1029.jpg",
-    "fecha": "2026-10-29T03:51:09.550905",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
