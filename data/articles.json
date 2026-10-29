@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "5 curiosidades de Juan Gabriel",
+    "artista": "Juan Gabriel",
+    "intro": "El programa En El Ensayo — Live Sessions, grabado en Azcapotzalco, CDMX, lanzó un video titulado “5 curiosidades de Juan Gabriel”. La pieza, disponible en su sitio web y en YouTube, ofrece datos breve",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-juan-gabriel-1028.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-juan-gabriel-1028.jpg",
+    "fecha": "2026-10-28T19:54:04.602007",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Datos curiosos"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "La Isla de las Muñecas: muerte sin explicación",
     "artista": "La Isla de las Muñecas",
     "intro": "La Isla de las Muñecas es una chinampa situada en la Laguna de Teshuilo, dentro del sistema de canales de Xochimilco, al sur de la Ciudad de México. Fue creada por Julián Santana Barrera a mediados de",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reportaje"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Muere Rory Bourke, autor de 'The Most Beautiful Girl', según Wikipedia",
-    "artista": "Rory Bourke",
-    "intro": "Rory Bourke, compositor y editor musical estadounidense de country, murió el 10 de octubre de 2026 a los 84 años, según la página de Wikipedia sobre el artista. El dato requiere cautela: hasta ahora n",
-    "telegraph_url": "https://telegra.ph/Muere-Rory-Bourke-autor-de-The-Most-Beautiful-Girl-según-Wikipedia-10-12",
-    "url": "https://telegra.ph/Muere-Rory-Bourke-autor-de-The-Most-Beautiful-Girl-según-Wikipedia-10-12",
-    "imagen_url": "",
-    "fecha": "2026-10-12T04:30:57.589714",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
