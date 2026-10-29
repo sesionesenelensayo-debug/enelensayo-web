@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "¿Qué pasó realmente en Buenos Aires? La historia oculta detrás de la caída",
+    "artista": "¿Qué pasó realmente en Buenos Aires? La historia oculta detr",
+    "intro": "El nuevo reportaje explora la vida de Liam Payne, desde sus inicios en Wolverhampton hasta su fallecimiento en Buenos Aires. La pieza se basa en material audiovisual con licencia Creative Commons y bu",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/que-paso-realmente-en-buenos-aires-la-historia-oculta-detras-de-la-cai-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/que-paso-realmente-en-buenos-aires-la-historia-oculta-detras-de-la-cai-1029.jpg",
+    "fecha": "2026-10-29T09:38:58.892932",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Ernesto Laguardia: su paso por Dune en 1984",
     "artista": "Ernesto Laguardia",
     "intro": "Ernesto Laguardia, conocido actor y presentador mexicano, empezó su carrera como mensajero en estaciones de radio y, tras pocos meses, llegó a entrevistar a Julio Iglesias. En 1984, su trayectoria dio",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades de Pablo Picasso",
-    "artista": "Pablo Picasso",
-    "intro": "Existe un contenido titulado '5 curiosidades de Pablo Picasso' publicado en formato YouTube Shorts por En el Ensayo — Live Sessions, proyecto enfocado en grabaciones en vivo para bandas independientes",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-pablo-picasso-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-pablo-picasso-1028.jpg",
-    "fecha": "2026-10-28T23:34:47.362190",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Datos curiosos"
   }
 ]
