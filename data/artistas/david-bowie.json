@@ -1,0 +1,16 @@
+{
+  "artista": "David Bowie",
+  "slug": "david-bowie",
+  "imagen": "",
+  "shorts": [],
+  "longs": [
+    {
+      "titulo": "¿Quién fue el camaleón del rock? La vida secreta de un genio musical",
+      "url": "https://www.youtube.com/shorts/LR1wy0ECOME",
+      "fecha": "2026-10-29",
+      "tipo": "long"
+    }
+  ],
+  "tweets": [],
+  "updated": "2026-10-29 12:30"
+}
