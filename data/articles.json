@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "5 curiosidades de Rolling Stones",
+    "artista": "Rolling Stones",
+    "intro": "En una sesión de Live Sessions en Azcapotzalco, CDMX, el programa En el Ensayo presentó cinco datos poco conocidos sobre los Rolling Stones, revelando anécdotas que van desde la expulsión de Keith Ric",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-rolling-stones-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-rolling-stones-1029.jpg",
+    "fecha": "2026-10-29T07:27:04.858013",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Datos curiosos"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "El día que el reactor 4 de Chernóbil estalló y silenció a la URSS",
     "artista": "El día que el reactor 4 de Chernóbil estalló y silenció a la",
     "intro": "El 26 de abril de 1986 a la 1:24 a.m., el reactor 4 de la central nuclear de Chernóbil (Vladímir Ilich Lenin) explotó durante una prueba de seguridad. La explosión liberó una radiactividad 400 veces m",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Horacio Beamonte atraviesa delicado estado de salud",
-    "artista": "Horacio Beamonte",
-    "intro": "El actor mexicano de televisión y teatro Horacio Beamonte, de 55 años, se encuentra hospitalizado en condición muy grave tras llevar 15 días internado. La información fue dada a conocer por su madre, ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/horacio-beamonte-atraviesa-delicado-estado-de-salud-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/horacio-beamonte-atraviesa-delicado-estado-de-salud-1028.jpg",
-    "fecha": "2026-10-28T21:02:17.094356",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   }
 ]
