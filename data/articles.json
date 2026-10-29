@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Isla de las Muñecas: la niña que nadie pudo probar que existió",
+    "artista": "Isla de las Muñecas",
+    "intro": "La Isla de las Muñecas, ubicada en los canales de Xochimilco, Ciudad de México, es un sitio conocido por albergar miles de piezas deterioradas. El lugar se asocia con Julián Santana Barrera, quien se ",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/isla-de-las-munecas-la-nina-que-nadie-pudo-probar-que-existio-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/isla-de-las-munecas-la-nina-que-nadie-pudo-probar-que-existio-1029.jpg",
+    "fecha": "2026-10-29T14:10:50.514265",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Terror y misterio"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "El cielo se partió en Siberia: el misterio de Tunguska",
     "artista": "Tunguska",
     "intro": "El 30 de junio de 1908, una gran explosión sacudió la cuenca del río Podkámennaya Tunguska, en Siberia, derribando unos 80 millones de árboles en una superficie de aproximadamente 2,150 km². El evento",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "¿El secreto detrás de la voz del rock? | La verdadera historia de Freddie Mercury",
-    "artista": "Freddie Mercury",
-    "intro": "Un estudio publicado en 2016 en la revista Logopedics Phoniatrics Vocology analizó la voz de Freddie Mercury, concluyendo que su registro hablaba como barítono pero cantaba como tenor, con un control ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-secreto-detras-de-la-voz-del-rock-la-verdadera-historia-de-freddie-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-secreto-detras-de-la-voz-del-rock-la-verdadera-historia-de-freddie-1029.jpg",
-    "fecha": "2026-10-29T04:45:34.445787",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Biografía"
   }
 ]
