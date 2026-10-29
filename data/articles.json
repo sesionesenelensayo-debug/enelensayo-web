@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Banda El Recodo lanza nuevo sencillo “Todo Pasa Por Algo” tras renovar visas en Hermosillo",
+    "artista": "Banda El Recodo",
+    "intro": "La icónica Banda El Recodo de Don Cruz Lizárraga volvió a la capital sonorense, Hermosillo, para tramitar la renovación de sus visas de trabajo. En la misma visita, la agrupación reveló los detalles d",
+    "telegraph_url": "https://telegra.ph/Banda-El-Recodo-lanza-nuevo-sencillo-Todo-Pasa-Por-Algo-tras-renovar-visas-en-Hermosillo-10-29",
+    "url": "https://enelensayomedia.com/notas/banda-el-recodo-lanza-nuevo-sencillo-todo-pasa-por-algo-tras-renovar-v-1029.html",
+    "imagen_url": "",
+    "fecha": "2026-10-29T10:12:39.597120",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Escena local"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "5 curiosidades de Liam Payne",
     "artista": "Liam Payne",
     "intro": "En el Ensayo — Live Sessions presentó una grabación en vivo desde Azcapotzalco, CDMX, titulada “5 curiosidades de Liam Payne”. El video, disponible en la plataforma del programa, ofrece datos poco con",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Esports"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El Triángulo de las Bermudas: historia, misterios y explicaciones",
-    "artista": "el caso del Triángulo de las Bermudas",
-    "intro": "Desde su primera mención en 1950 hasta los casos más recientes, se analizan los hechos documentados, teorías científicas y leyendas que rodean al enigmático triángulo.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-triangulo-de-las-bermudas-historia-misterios-y-explicaciones-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-triangulo-de-las-bermudas-historia-misterios-y-explicaciones-1029.jpg",
-    "fecha": "2026-10-29T00:18:58.401727",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror"
   }
 ]
