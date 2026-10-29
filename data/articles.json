@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "5 curiosidades de Eminem",
+    "artista": "Eminem",
+    "intro": "En El Ensayo – Live Sessions lanzó un video en YouTube titulado “5 curiosidades de Eminem”. El contenido, producido en Azcapotzalco, CDMX, forma parte de la serie de grabaciones en vivo para bandas in",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-eminem-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-eminem-1029.jpg",
+    "fecha": "2026-10-29T09:13:06.716422",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Datos curiosos"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Fallece Cuauhtémoc Cárdenas a los 92 años, figura clave de la izquierda mexicana",
     "artista": "Cuauhtémoc Cárdenas",
     "intro": "El ingeniero y político Cuauhtémoc Cárdenas Solórzano murió el 28 de octubre de 2026 a los 92 años en la Ciudad de México. Su fallecimiento, confirmado por la presidenta Claudia Sheinbaum en la red so",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Chisme de pasillo: ¡Kimberly la Más Preciosa llora!",
-    "artista": "Kimberly la Más Preciosa",
-    "intro": "Medios de espectáculos como TVyNovelas y Milenio han reportado un chisme de pasillo sobre Kimberly la Más Preciosa. La información se centra en rumores no confirmados que han circulado recientemente e",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/chisme-de-pasillo-kimberly-la-mas-preciosa-llora-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/chisme-de-pasillo-kimberly-la-mas-preciosa-llora-1028.jpg",
-    "fecha": "2026-10-28T23:08:13.824844",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   }
 ]
