@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Tom Skerritt: su trayectoria en más de 170 producciones",
+    "artista": "Tom Skerritt",
+    "intro": "El actor estadounidense Tom Skerritt murió a los 93 años por causas naturales, según anunció su familia el 22 de octubre de 2026. Con una carrera que abarcó más de seis décadas, Skerritt dejó una huel",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/tom-skerritt-su-trayectoria-en-mas-de-170-producciones-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/tom-skerritt-su-trayectoria-en-mas-de-170-producciones-1029.jpg",
+    "fecha": "2026-10-29T03:23:52.839507",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Fallece la actriz Elke Sommer a los 85 años en Bel Air",
     "artista": "Elke Sommer",
     "intro": "La actriz alemana‑americana Elke Sommer murió el miércoles 28 de octubre de 2026 en su residencia de Bel Air, California, a los 85 años. Según los medios alemanes que citan a Bild y a un amigo fotógra",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "The Notorious B.I.G.: el tiroteo que quedó sin resolver",
-    "artista": "The Notorious B.I.G.",
-    "intro": "Christopher Wallace, conocido en la industria musical como The Notorious B.I.G., murió a los 24 años en un tiroteo desde un vehículo en movimiento en Los Ángeles. El ataque ocurrió la noche del 9 de m",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/the-notorious-b-i-g-el-tiroteo-que-quedo-sin-resolver-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/the-notorious-b-i-g-el-tiroteo-que-quedo-sin-resolver-1028.jpg",
-    "fecha": "2026-10-28T17:34:40.491573",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
