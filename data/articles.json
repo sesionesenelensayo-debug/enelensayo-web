@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Grimes: el nuevo disco Psy Opera y su single Accelerando",
+    "artista": "Grimes",
+    "intro": "La productora y cantante canadiense Grimes prepara su primer álbum desde 2020, el cual se titula Psy Opera. Como parte de este nuevo material discográfico, la artista lanza el single titulado Accelera",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/grimes-el-nuevo-disco-psy-opera-y-su-single-accelerando-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/grimes-el-nuevo-disco-psy-opera-y-su-single-accelerando-1029.jpg",
+    "fecha": "2026-10-29T13:20:28.376658",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "5 curiosidades de Joey Belladonna",
     "artista": "Joey Belladonna",
     "intro": "Joey Belladonna, vocalista de heavy metal y thrash metal conocido por su trabajo con Anthrax, concentra la atención actual tras la difusión de materiales que repasan curiosidades sobre su figura artís",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades de Metallica",
-    "artista": "Metallica",
-    "intro": "Metallica anunció su residencia \"Life Burns Faster\" en el Sphere (La Esfera) de Las Vegas el 25 de febrero de 2026. La programación inicial incluye ocho fechas en octubre de 2026, con un total de 24 s",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-metallica-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-metallica-1029.jpg",
-    "fecha": "2026-10-29T03:36:56.842022",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Datos curiosos"
   }
 ]
