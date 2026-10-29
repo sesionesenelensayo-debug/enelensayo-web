@@ -1,5 +1,18 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Pitbull en México 2027: fechas, sedes y boletos",
+    "artista": "Pitbull",
+    "intro": "El rapero estadounidense Pitbull regresa a México con tres conciertos confirmados en la Ciudad de México, Guadalajara y Monterrey para febrero de 2027.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/pitbull-en-mexico-2027-fechas-sedes-y-boletos-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/pitbull-en-mexico-2027-fechas-sedes-y-boletos-1029.jpg",
+    "fecha": "2026-10-29T16:56:24.095425",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "¿Por qué temían a John Lennon? De Liverpool al Dakota, 1940-1980",
     "artista": "John Lennon",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "¿Quién transformó la pantalla en arte? El enigma de Graciela Taquini",
-    "artista": "Graciela Taquini",
-    "intro": "En el marco de la serie \"Shorts diarios\" de En El Ensayo, se difundió una pieza que revisa la vida y obra de Graciela Taquini, la artista argentina fallecida el 19 de septiembre de 2026. El video, alo",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/quien-transformo-la-pantalla-en-arte-el-enigma-de-graciela-taquini-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/quien-transformo-la-pantalla-en-arte-el-enigma-de-graciela-taquini-1029.jpg",
-    "fecha": "2026-10-29T07:54:29.159997",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Biografía"
   }
 ]
