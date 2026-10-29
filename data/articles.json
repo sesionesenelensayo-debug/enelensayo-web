@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Stephen Kovacevich: el pianista que cambió su nombre",
+    "artista": "Stephen Kovacevich",
+    "intro": "Stephen Kovacevich, reconocido pianista y director de orquesta, murió el 27 de octubre de 2026 a los 86 años. Su partida revive el interés por la trayectoria de un artista que, además de sus grabacion",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/stephen-kovacevich-el-pianista-que-cambio-su-nombre-1028.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/stephen-kovacevich-el-pianista-que-cambio-su-nombre-1028.jpg",
+    "fecha": "2026-10-28T19:22:52.719782",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "¿Se extinguió su legado o vive en cada nota? La verdad detrás de una leyenda",
     "artista": "¿Se extinguió su legado o vive en cada nota? La verdad detrá",
     "intro": "Un nuevo video titulado “La historia completa de Prince” ha sido publicado, reavivando la discusión sobre la vigencia del legado del icónico músico. El material, disponible en YouTube, vuelve a poner ",
@@ -632,19 +645,6 @@
     "url": "https://telegra.ph/Muere-Wilma-De-Angelis-la-voz-de-Patatina-y-pionera-de-la-cocina-en-TV-10-11",
     "imagen_url": "",
     "fecha": "2026-10-11T11:19:51.234010",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Muere Piero, autor de 'Mi viejo', a los 81 años en Buenos Aires",
-    "artista": "Piero",
-    "intro": "El cantautor argentino Piero, nacido Piero Antonio Franco De Benedictis, murió el miércoles 7 de octubre de 2026 en Buenos Aires, a los 81 años. Falleció en el Hospital Italiano, donde llevaba varios ",
-    "telegraph_url": "https://telegra.ph/Muere-Piero-autor-de-Mi-viejo-a-los-81-años-en-Buenos-Aires-10-09",
-    "url": "https://telegra.ph/Muere-Piero-autor-de-Mi-viejo-a-los-81-años-en-Buenos-Aires-10-09",
-    "imagen_url": "https://enelensayomedia.com/img/notas/muere-piero-autor-de-mi-viejo-a-los-81-anos-en-buenos-aires-1009.jpg",
-    "fecha": "2026-10-09T00:09:14.046686",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
