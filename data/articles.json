@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Fallece Cuauhtémoc Cárdenas a los 92 años, figura clave de la izquierda mexicana",
+    "artista": "Cuauhtémoc Cárdenas",
+    "intro": "El ingeniero y político Cuauhtémoc Cárdenas Solórzano murió el 28 de octubre de 2026 a los 92 años en la Ciudad de México. Su fallecimiento, confirmado por la presidenta Claudia Sheinbaum en la red so",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/fallece-cuauhtemoc-cardenas-a-los-92-anos-figura-clave-de-la-izquierda-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-cuauhtemoc-cardenas-a-los-92-anos-figura-clave-de-la-izquierda-1029.jpg",
+    "fecha": "2026-10-29T09:05:51.128004",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "El Charro Negro: El jinete maldito que cobra almas en la noche",
     "artista": "El Charro Negro",
     "intro": "La figura que aparece se asocia con la leyenda del Charro Negro, un personaje del folclore mexicano cuya historia se remonta a relatos tradicionales y a su presencia en la cultura popular.",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Rosalía: su llamado a la unión latina en Billboard 2026",
-    "artista": "Rosalía",
-    "intro": "La artista española Rosalía ha protagonizado un momento destacado al pedir unidad y talento latino durante su intervención reciente. Conocida por fusionar flamenco con pop, la cantante ha llevado a ca",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/rosalia-su-llamado-a-la-union-latina-en-billboard-2026-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/rosalia-su-llamado-a-la-union-latina-en-billboard-2026-1028.jpg",
-    "fecha": "2026-10-28T22:55:59.882526",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
