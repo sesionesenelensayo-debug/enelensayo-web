@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "5 curiosidades de Ricky Martin",
+    "artista": "Ricky Martin",
+    "intro": "El proyecto musical En el Ensayo — Live Sessions, que realiza grabaciones en vivo para bandas independientes en Azcapotzalco, CDMX, ha publicado en YouTube un video titulado '5 curiosidades de Ricky M",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-ricky-martin-1028.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-ricky-martin-1028.jpg",
+    "fecha": "2026-10-28T22:43:33.035493",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Datos curiosos"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Las Poquianchis: El infierno de los burdeles que enterró a cientos",
     "artista": "Las Poquianchis",
     "intro": "La macabra historia de las hermanas González Valenzuela, alias Las Poquianchis, sale a la luz en un documental que revela testimonios, pruebas forenses y los horrores descubiertos en Purísima del Rinc",
@@ -632,19 +645,6 @@
     "url": "https://telegra.ph/Fallece-a-los-43-años-el-actor-y-director-Arnaud-Denis-10-23",
     "imagen_url": "https://enelensayomedia.com/img/notas/fallece-a-los-43-anos-el-actor-y-director-arnaud-denis-1022.jpg",
     "fecha": "2026-10-22T23:41:37.496467",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece a los 97 años el pintor argentino Carlos Alonso",
-    "artista": "Carlos Alonso",
-    "intro": "El reconocido pintor, dibujante y grabador argentino Carlos Alonso murió el lunes 21 de septiembre de 2026 a los 97 años. El fallecimiento tuvo lugar en su domicilio de Unquillo, Córdoba, y fue confir",
-    "telegraph_url": "https://telegra.ph/Fallece-a-los-97-años-el-pintor-argentino-Carlos-Alonso-10-23",
-    "url": "https://telegra.ph/Fallece-a-los-97-años-el-pintor-argentino-Carlos-Alonso-10-23",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-a-los-97-anos-el-pintor-argentino-carlos-alonso-1022.jpg",
-    "fecha": "2026-10-22T23:33:06.319566",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
