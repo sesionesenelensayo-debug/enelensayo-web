@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Carlos Alonso: el pintor argentino y su obra expresionista",
+    "artista": "Carlos Alonso",
+    "intro": "El pintor, dibujante y grabador argentino Carlos Alonso murió el 21 de septiembre de 2026 a los 97 años. Su fallecimiento, anunciado por su familia en redes sociales y confirmado por los medios, marca",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/carlos-alonso-el-pintor-argentino-y-su-obra-expresionista-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/carlos-alonso-el-pintor-argentino-y-su-obra-expresionista-1029.jpg",
+    "fecha": "2026-10-29T03:10:55.273844",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Arnaud Denis: el fallecimiento del director teatral en 2026",
     "artista": "Arnaud Denis",
     "intro": "El actor y director teatral francés Arnaud Denis murió a los 43 años por eutanasia en Namur, Bélgica, el 22 de septiembre de 2026. Su abogado, Philippe Courtois, confirmó la muerte a la AFP, señalando",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "John Bonham: la historia detrás de su obra",
-    "artista": "John Bonham",
-    "intro": "John Henry Bonham, nacido el 31 de mayo de 1948 en Redditch, Inglaterra, y fallecido el 25 de septiembre de 1980 en Clewer, sigue siendo recordado como el baterista que definió el sonido de Led Zeppel",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/john-bonham-la-historia-detras-de-su-obra-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/john-bonham-la-historia-detras-de-su-obra-1028.jpg",
-    "fecha": "2026-10-28T17:18:26.688368",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Biografía"
   }
 ]
