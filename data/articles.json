@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "¿Quién transformó la pantalla en arte? El enigma de Graciela Taquini",
+    "artista": "Graciela Taquini",
+    "intro": "En el marco de la serie \"Shorts diarios\" de En El Ensayo, se difundió una pieza que revisa la vida y obra de Graciela Taquini, la artista argentina fallecida el 19 de septiembre de 2026. El video, alo",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/quien-transformo-la-pantalla-en-arte-el-enigma-de-graciela-taquini-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/quien-transformo-la-pantalla-en-arte-el-enigma-de-graciela-taquini-1029.jpg",
+    "fecha": "2026-10-29T07:54:29.159997",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "John Lennon: el arresto de 1968 que arruinó sus trámites de",
     "artista": "John Lennon",
     "intro": "El 18 de octubre de 1968 la policía londinense registró el apartamento de John Lennon en Montagu Square y detuvo al músico y a Yoko Ono por posesión de cannabis. Lennon asumió la culpa para proteger a",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Spotify Wrapped: la incertidumbre de su lanzamiento 2026",
-    "artista": "Spotify Wrapped",
-    "intro": "La edición 2026 de Spotify Wrapped genera incertidumbre y promete una sorpresa final. La campaña anual de la plataforma de streaming, que ha funcionado desde 2016 con lanzamientos habituales a princip",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/spotify-wrapped-la-incertidumbre-de-su-lanzamiento-2026-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/spotify-wrapped-la-incertidumbre-de-su-lanzamiento-2026-1028.jpg",
-    "fecha": "2026-10-28T21:45:53.144542",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
