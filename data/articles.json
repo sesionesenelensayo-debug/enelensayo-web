@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "5 curiosidades de Fats Domino",
+    "artista": "Fats Domino",
+    "intro": "A pocos años de su nacimiento, el legado de Fats Domino sigue resonando. Un compendio de curiosidades revela su vida personal, logros y anécdotas que continúan inspirando a músicos y amantes del rock,",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-fats-domino-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-fats-domino-1029.jpg",
+    "fecha": "2026-10-29T00:13:45.261965",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Datos curiosos"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "El misterio sin fin del vuelo MH370",
     "artista": "vuelo MH370",
     "intro": "El vuelo MH370 de Malaysia Airlines desapareció en 2014 mientras transportaba a 239 personas. A pesar de que se han hallado restos del avión, la causa de la desaparición sigue sin resolverse, mantenie",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reportaje"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece Derrick Harriott, pionero del ska, rocksteady y reggae a los 87 años",
-    "artista": "Derrick Harriott",
-    "intro": "El 24 de octubre de 2026 murió Derrick Clifton Harriott, reconocido cantante y productor jamaicano, a los 87 años. Su fallecimiento, anunciado por The Gleaner y confirmado por el encargado de la Derri",
-    "telegraph_url": "https://telegra.ph/Fallece-Derrick-Harriott-pionero-del-ska-rocksteady-y-reggae-a-los-87-años-10-24",
-    "url": "https://telegra.ph/Fallece-Derrick-Harriott-pionero-del-ska-rocksteady-y-reggae-a-los-87-años-10-24",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-derrick-harriott-pionero-del-ska-rocksteady-y-reggae-a-los-87-1024.jpg",
-    "fecha": "2026-10-24T11:16:32.436847",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
