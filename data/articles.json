@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "The Police: la verdad oculta detrás de su mayor éxito musica",
+    "artista": "The Police",
+    "intro": "The Police logró un hito histórico al encabezar el Billboard Hot 100 con su sencillo \"Every Breath You Take\". El tema, extraído del álbum Synchronicity lanzado el 17 de junio de 1983, marcó el mayor é",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/the-police-la-verdad-oculta-detras-de-su-mayor-exito-musica-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/the-police-la-verdad-oculta-detras-de-su-mayor-exito-musica-1029.jpg",
+    "fecha": "2026-10-29T03:51:09.550905",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "5 curiosidades de Metallica",
     "artista": "Metallica",
     "intro": "Metallica anunció su residencia \"Life Burns Faster\" en el Sphere (La Esfera) de Las Vegas el 25 de febrero de 2026. La programación inicial incluye ocho fechas en octubre de 2026, con un total de 24 s",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Crisis emocional de Natalia Alcocer en reality show",
-    "artista": "Natalia Alcocer",
-    "intro": "La actriz y conductora Natalia Alcocer, conocida como 'La Vikinga', sufrió un colapso emocional y una fuerte crisis de ansiedad dentro de la habitación de acceso limitado llamada 'entrevistadero' en e",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/crisis-emocional-de-natalia-alcocer-en-reality-show-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/crisis-emocional-de-natalia-alcocer-en-reality-show-1028.jpg",
-    "fecha": "2026-10-28T17:38:22.776672",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   }
 ]
