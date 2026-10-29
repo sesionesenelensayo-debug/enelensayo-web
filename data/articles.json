@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Horacio Beamonte atraviesa delicado estado de salud",
+    "artista": "Horacio Beamonte",
+    "intro": "El actor mexicano de televisión y teatro Horacio Beamonte, de 55 años, se encuentra hospitalizado en condición muy grave tras llevar 15 días internado. La información fue dada a conocer por su madre, ",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/horacio-beamonte-atraviesa-delicado-estado-de-salud-1028.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/horacio-beamonte-atraviesa-delicado-estado-de-salud-1028.jpg",
+    "fecha": "2026-10-28T21:02:17.094356",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "5 curiosidades de Taylor Swift",
     "artista": "Taylor Swift",
     "intro": "Taylor Swift celebra sus 33 años. La artista, nacida en West Reading, Pensilvania, el 13 de diciembre de 1989, es una de las cantautoras más influyentes y con mayores ingresos en la historia de la mús",
@@ -632,19 +645,6 @@
     "url": "https://telegra.ph/Muere-Graciela-Taquini-figura-clave-del-videoarte-argentino-a-los-85-años-10-18",
     "imagen_url": "",
     "fecha": "2026-10-18T06:24:27.598621",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Fallece Gustavo Cordera, ex‑frontman de Bersuit Vergarabat",
-    "artista": "Gustavo Cordera",
-    "intro": "El titular de la noticia indica que el músico argentino Gustavo Edgardo Cordera ha fallecido. La información disponible se limita al anuncio del deceso sin precisar causas, lugar ni fecha exacta, lo q",
-    "telegraph_url": "https://telegra.ph/Fallece-Gustavo-Cordera-exfrontman-de-Bersuit-Vergarabat-10-17",
-    "url": "https://telegra.ph/Fallece-Gustavo-Cordera-exfrontman-de-Bersuit-Vergarabat-10-17",
-    "imagen_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Gustavo_Cordera_2012.jpg/1200px-Gustavo_Cordera_2012.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
-    "fecha": "2026-10-17T00:23:48.470847",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
