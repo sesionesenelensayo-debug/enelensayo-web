@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Marc Anthony: el éxito de hiphop que lideró en 1991",
+    "artista": "Marc Anthony",
+    "intro": "En 1991 Marc Anthony encabezó las listas estadounidenses con un éxito de hip‑hop, una faceta poco conocida que precede su posterior consagración como el mayor cantante de salsa de la historia. El dato",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/marc-anthony-el-exito-de-hiphop-que-lidero-en-1991-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/marc-anthony-el-exito-de-hiphop-que-lidero-en-1991-1029.jpg",
+    "fecha": "2026-10-29T10:32:17.038831",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "El Internacional Grupo La Migra lanza álbum en vivo y enfrenta disputa por su nombre",
     "artista": "El Internacional Grupo La Migra",
     "intro": "El Internacional Grupo La Migra presentó su nuevo álbum grabado en vivo desde la Arena CDMX. El sencillo “Sueño Americano” está disponible en plataformas digitales. Paralelamente, cuatro personas fuer",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Mbappé y el meme de Mao: polémica, boicot y disculpas en China",
-    "artista": "Kylian Mbappé",
-    "intro": "El delantero francés provocó una crisis comercial y mediática tras un chiste sobre un meme que lo vinculaba al líder chino.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/mbappe-y-el-meme-de-mao-polemica-boicot-y-disculpas-en-china-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/mbappe-y-el-meme-de-mao-polemica-boicot-y-disculpas-en-china-1029.jpg",
-    "fecha": "2026-10-29T00:28:13.604306",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Agenda woke"
   }
 ]
