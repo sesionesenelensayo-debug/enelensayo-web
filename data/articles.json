@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "MC Lyte: el disco de oro de 1993 que ninguna rapera tenía",
+    "artista": "MC Lyte",
+    "intro": "En 1993, la rapera MC Lyte logró un hito histórico en la música al conseguir que su sencillo 'Ruffneck' fuera certificado como disco de oro. Este acontecimiento marcó un antes y un después en la indus",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/mc-lyte-el-disco-de-oro-de-1993-que-ninguna-rapera-tenia-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/mc-lyte-el-disco-de-oro-de-1993-que-ninguna-rapera-tenia-1029.jpg",
+    "fecha": "2026-10-29T15:15:19.807336",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "5 curiosidades de Justin Timberlake",
     "artista": "Justin Timberlake",
     "intro": "Se han dado a conocer cinco curiosidades sobre Justin Timberlake en un contenido multimedia reciente. La pieza audiovisual, compartida en plataformas digitales, forma parte de las grabaciones y conten",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El estudiante que entró a un bar en 1989 y terminó en un ritual",
-    "artista": "El estudiante que entró a un bar en 1989 y terminó en un rit",
-    "intro": "En 1989, Mark James Kilroy, estudiante de medicina, fue secuestrado en Matamoros y posteriormente sacrificado por un grupo identificado como narcosatánicos. El caso, difundido por En el Ensayo — Live ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-estudiante-que-entro-a-un-bar-en-1989-y-termino-en-un-ritual-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-estudiante-que-entro-a-un-bar-en-1989-y-termino-en-un-ritual-1029.jpg",
-    "fecha": "2026-10-29T05:37:35.064229",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
