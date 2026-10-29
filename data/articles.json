@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Elke Sommer: el día que ganó una demanda de 3.3 millones",
+    "artista": "Elke Sommer",
+    "intro": "La actriz alemana Elke Sommer, recordada por su paso por Hollywood en los años 60, obtuvo una sentencia favorable en la demanda que mantuvo contra Zsa Zsa Gabor. El tribunal le concedió $3.3 millones ",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/elke-sommer-el-dia-que-gano-una-demanda-de-3-3-millones-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/elke-sommer-el-dia-que-gano-una-demanda-de-3-3-millones-1029.jpg",
+    "fecha": "2026-10-29T08:19:32.345894",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Graciela Taquini: el Konex de Platino y su obra Granada",
     "artista": "Graciela Taquini",
     "intro": "Graciela Taquini, pionera del video experimental argentino, recibió el Premio Konex de Platino en Video Arte y su obra \"Granada\" (2005) sigue siendo referencia en la escena. La noticia destaca su inic",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Walter Koenig: su anuncio por George Takei en 2026",
-    "artista": "Walter Koenig",
-    "intro": "El 26 de octubre de 2026, George Takei anunció en su página de Facebook el fallecimiento del actor y escritor estadounidense Walter Koenig. Años atrás, Koenig había participado en un momento clave jun",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/walter-koenig-su-anuncio-por-george-takei-en-2026-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/walter-koenig-su-anuncio-por-george-takei-en-2026-1028.jpg",
-    "fecha": "2026-10-28T22:17:46.894977",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
