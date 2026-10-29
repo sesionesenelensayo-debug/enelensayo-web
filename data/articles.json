@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Peso Pluma: triunfa en los Billboard 2026",
+    "artista": "Peso Pluma",
+    "intro": "El cantante mexicano Peso Pluma alcanzó la posición más alta en la edición 2026 de los Billboard, según la información publicada. Este logro destaca su presencia en los rankings más relevantes del sec",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/peso-pluma-triunfa-en-los-billboard-2026-1028.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/peso-pluma-triunfa-en-los-billboard-2026-1028.jpg",
+    "fecha": "2026-10-28T20:06:48.848954",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "5 curiosidades de Juan Gabriel",
     "artista": "Juan Gabriel",
     "intro": "El programa En El Ensayo — Live Sessions, grabado en Azcapotzalco, CDMX, lanzó un video titulado “5 curiosidades de Juan Gabriel”. La pieza, disponible en su sitio web y en YouTube, ofrece datos breve",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Grimes anuncia 'Psy Opera', su primer álbum desde 2020 y lanza el single 'Accelerando'",
-    "artista": "Grimes",
-    "intro": "La productora y cantante canadiense Grimes reveló el 9 de octubre de 2026 el primer sencillo de su próximo álbum, 'Accelerando', y confirmó que el disco, titulado Psy Opera, será su regreso a los estu",
-    "telegraph_url": "https://telegra.ph/Grimes-anuncia-Psy-Opera-su-primer-álbum-desde-2020-y-lanza-el-single-Accelerando-10-13",
-    "url": "https://telegra.ph/Grimes-anuncia-Psy-Opera-su-primer-álbum-desde-2020-y-lanza-el-single-Accelerando-10-13",
-    "imagen_url": "",
-    "fecha": "2026-10-13T12:07:38.924002",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reportaje"
   }
 ]
