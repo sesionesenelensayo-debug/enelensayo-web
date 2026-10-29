@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Arnaud Denis: el fallecimiento del director teatral en 2026",
+    "artista": "Arnaud Denis",
+    "intro": "El actor y director teatral francés Arnaud Denis murió a los 43 años por eutanasia en Namur, Bélgica, el 22 de septiembre de 2026. Su abogado, Philippe Courtois, confirmó la muerte a la AFP, señalando",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/arnaud-denis-el-fallecimiento-del-director-teatral-en-2026-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/arnaud-denis-el-fallecimiento-del-director-teatral-en-2026-1029.jpg",
+    "fecha": "2026-10-29T02:57:49.949304",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "In memoriam"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Manuel Boix: el artista que falleció el 23 de septiembre de",
     "artista": "Manuel Boix",
     "intro": "El artista español Manuel Boix, reconocido por sus grabados, ilustraciones y por diseñar casi todas las portadas de Al Tall, murió el 23 de septiembre de 2026 en La Alcudia, Valencia. Su fallecimiento",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Tupac Shakur: el mito del disparo en Las Vegas que aún",
-    "artista": "Tupac Shakur",
-    "intro": "El 31 de agosto de 2026 un jurado halló culpable a Duane \"Keffe D\" Davis de asesinato de primer grado con arma mortal por la muerte de Tupac Shakur. La condena, confirmada el 13 de octubre por la juez",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/tupac-shakur-el-mito-del-disparo-en-las-vegas-que-aun-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/tupac-shakur-el-mito-del-disparo-en-las-vegas-que-aun-1028.jpg",
-    "fecha": "2026-10-28T16:58:12.074806",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
