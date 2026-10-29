@@ -1,5 +1,18 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "Chupacabras: La bestia sin sangre que aterrorizó Texas y Puerto Rico",
+    "artista": "Chupacabras",
+    "intro": "El nuevo video de En El Ensayo recorre en diez minutos el mito del chupacabras, partiendo de su origen en Puerto Rico y siguiendo su expansión hasta los extraños cadáveres encontrados en Texas. El pro",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/chupacabras-la-bestia-sin-sangre-que-aterrorizo-texas-y-puerto-rico-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/chupacabras-la-bestia-sin-sangre-que-aterrorizo-texas-y-puerto-rico-1029.jpg",
+    "fecha": "2026-10-29T11:43:33.670861",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Terror"
+  },
+  {
     "tipo": "noticia",
     "titulo": "Régulo Caro estrena \"Mi Morena\" antes de su concierto de Halloween en Hermosillo",
     "artista": "Régulo Caro",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Chisme de pasillo: Thalía frena su disco por la polémica de Timbiriche",
-    "artista": "Thalía",
-    "intro": "El productor Kiko Campos confirmó que Thalía ha pedido suspender, “por el momento” y “hasta nuevo aviso”, la producción del álbum que llevaba cuatro años trabajando. La decisión se originó porque Camp",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/chisme-de-pasillo-thalia-frena-su-disco-por-la-polemica-de-timbiriche-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/chisme-de-pasillo-thalia-frena-su-disco-por-la-polemica-de-timbiriche-1029.jpg",
-    "fecha": "2026-10-29T01:50:44.403508",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   }
 ]
