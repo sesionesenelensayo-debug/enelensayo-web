@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "5 curiosidades de Café Tacvba",
+    "artista": "Café Tacvba",
+    "intro": "El proyecto En El Ensayo — Live Sessions publicó en YouTube un video titulado “5 curiosidades de Café Tacvba”. Grabado en vivo en Azcapotzalco, CDMX, el material forma parte de sus sesiones destinadas",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-cafe-tacvba-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-cafe-tacvba-1029.jpg",
+    "fecha": "2026-10-29T12:03:30.490241",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Datos curiosos"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Motel habla de su nueva canción y sus 20 años",
     "artista": "Motel",
     "intro": "El grupo Motel ha ofrecido una entrevista en exclusiva para abordar los detalles de su nueva canción y las presentaciones programadas en el marco de su 20 aniversario. La noticia genera expectativa en",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "¿Qué impulsó a Marina Vlady a romper con el cine francés?",
-    "artista": "Marina Vlady",
-    "intro": "Marina Vlady falleció el 24 de septiembre de 2026 a los 88 años, según confirmó su familia. La actriz, nacida en Clichy en 1938, ganó el premio a mejor actriz en Cannes 1963 y después de una prolífica",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/que-impulso-a-marina-vlady-a-romper-con-el-cine-frances-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/que-impulso-a-marina-vlady-a-romper-con-el-cine-frances-1029.jpg",
-    "fecha": "2026-10-29T02:17:51.364863",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Biografía"
   }
 ]
