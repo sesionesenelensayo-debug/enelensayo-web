@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "El piloto que habló con voz ajena: caso Rafael Pacheco XB-ZOX",
+    "artista": "Rafael Pacheco",
+    "intro": "El 21 de junio de 1976 el estudiante de aviación Rafael Pacheco, de 20 años, despegó en una Cessna 150 (registro XB‑ZOX) desde el Estado de México y, tras desaparecer de los radares, reapareció sobre ",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-piloto-que-hablo-con-voz-ajena-caso-rafael-pacheco-xb-zox-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-piloto-que-hablo-con-voz-ajena-caso-rafael-pacheco-xb-zox-1030.jpg",
+    "fecha": "2026-10-30T06:22:29.495304",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Terror"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Sesenta mil personas en el Astrodome por Selena",
     "artista": "Selena",
     "intro": "El 30 de septiembre de 1995, el Astrodome de Houston se llenó con la asistencia de más de sesenta mil fanáticos para homenajear a Selena, pocos meses después de su trágica muerte. El concierto, parte ",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Conciertos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El misterio de Enfield: ¿poltergeist real o la mayor estafa de los 70?",
-    "artista": "el caso Enfield Poltergeist",
-    "intro": "Dos años de fenómenos inexplicables en Londres dividieron a la ciencia y alimentaron leyendas que aún hoy generan debate.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-misterio-de-enfield-poltergeist-real-o-la-mayor-estafa-de-los-70-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-misterio-de-enfield-poltergeist-real-o-la-mayor-estafa-de-los-70-1029.jpg",
-    "fecha": "2026-10-29T19:32:24.437454",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror"
   }
 ]
