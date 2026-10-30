@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "JOHN COLTRANE: CUMPLE 100 AÑOS — lo que no sabías",
+    "artista": "John Coltrane",
+    "intro": "El video titulado \"JOHN COLTRANE: CUMPLE 100 AÑOS — lo que no sabías\", publicado en el canal En El Ensayo, celebra el centenario del nacimiento del saxofonista y flautista estadounidense John William ",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/john-coltrane-cumple-100-anos-lo-que-no-sabias-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/john-coltrane-cumple-100-anos-lo-que-no-sabias-1030.jpg",
+    "fecha": "2026-10-30T11:02:22.492749",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "archivo": true
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "JULIO IGLESIAS 83: El rechazo a Elvis que cambió su vida",
     "artista": "Julio Iglesias",
     "intro": "En una entrevista reciente, Julio José Iglesias de la Cueva, el icónico cantante español, revela que un rechazo a Elvis Presley en sus inicios fue decisivo para su carrera. El artista, cuya trayectori",
@@ -10,7 +24,8 @@
     "fecha": "2026-10-30T10:49:40.301702",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -23,7 +38,8 @@
     "fecha": "2026-10-30T10:36:52.567378",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Biografía"
+    "categoria": "Biografía",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -77,7 +93,8 @@
     "fecha": "2026-10-30T10:24:29.224827",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Datos curiosos"
+    "categoria": "Datos curiosos",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -854,20 +871,6 @@
     "url": "https://enelensayomedia.com/notas/4-de-octubre-de-2009-5-15-am-se-apago-la-negra-1029.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/4-de-octubre-de-2009-5-15-am-se-apago-la-negra-1029.jpg",
     "fecha": "2026-10-29T22:02:27",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Valentich: «No es un avión» y 17 segundos de silencio",
-    "artista": "",
-    "intro": "El 21 de octubre de 1978, el piloto Frederick Valentich desapareció sobre el Estrecho de Bass tras reportar una aeronave desconocida. Su última transmisión",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/valentich-no-es-un-avion-y-17-segundos-de-silencio-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/valentich-no-es-un-avion-y-17-segundos-de-silencio-1029.jpg",
-    "fecha": "2026-10-29T21:49:29",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música",
