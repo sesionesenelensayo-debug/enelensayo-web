@@ -11,6 +11,7 @@ PAGINAS = {  # archivo: (etiqueta de menú, título, descripción, [ids de secci
     "exclusivas": ("Exclusivas", "Notas exclusivas", "Lecturas largas diarias: esports, agenda woke, chismes internacionales y terror.", ["exclusivas"]),
     "top10": ("Top 10", "Top 10 semanal", "La cuenta regresiva semanal: lo más escuchado en México y en el mundo.", ["top10"]),
     "periodico": ("Periódico", "El Periódico", "La edición descargable de En el Ensayo Media, con publicidad y lo mejor de la semana.", ["periodico"]),
+    "newsletter": ("Newsletter", "Newsletter", "Recibe El Periódico de En el Ensayo en tu correo, de lunes a viernes. Gratis.", ["newsletter"]),
     "cine": ("Cine", "Cine", "Una nota al día de cine: las más esperadas, los fracasos y las decepciones. Cuenta regresiva a Avengers: Doomsday.", ["cine"]),
     "videojuegos": ("Videojuegos", "Videojuegos", "Estrenos, peor calificados y polémicas. Cuenta regresiva a GTA VI.", ["videojuegos"]),
     "conciertos": ("Conciertos", "Conciertos", "Boletos y planes: conciertos y eventos.", ["conciertos"]),
