@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Tom Petty: la gira que terminó una semana antes",
+    "artista": "Tom Petty",
+    "intro": "El 2 de octubre de 2017 Tom Petty murió en Santa Mónica a los 66 años por una sobredosis accidental de medicamentos recetados. La noticia llega una semana después de que la banda cerrara su gira del 4",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/tom-petty-la-gira-que-termino-una-semana-antes-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/tom-petty-la-gira-que-termino-una-semana-antes-1030.jpg",
+    "fecha": "2026-10-30T02:32:47.589081",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "¿Cuánto costó la libertad de Tom Petty? Del Duckpond a su última noche",
     "artista": "Tom Petty",
     "intro": "El nuevo documental sobre Tom Petty recorre su trayectoria desde los primeros pasos en el Duckpond de Gainesville, pasando por Mudcrutch y la polémica batalla contra MCA en 1979, hasta la creación de ",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Pitbull en México 2027: fechas, sedes y boletos",
-    "artista": "Pitbull",
-    "intro": "El rapero estadounidense Pitbull regresa a México con tres conciertos confirmados en la Ciudad de México, Guadalajara y Monterrey para febrero de 2027.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/pitbull-en-mexico-2027-fechas-sedes-y-boletos-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/pitbull-en-mexico-2027-fechas-sedes-y-boletos-1029.jpg",
-    "fecha": "2026-10-29T16:56:24.095425",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
   }
 ]
