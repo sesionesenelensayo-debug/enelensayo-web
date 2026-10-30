@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "El soldado teletransportado de 1593 | Leyenda de Gil Pérez",
+    "artista": "Gil Pérez",
+    "intro": "En octubre de 1593 un soldado español que estaba de guardia en el Palacio del Gobernador de Manila apareció inesperadamente en la Plaza Mayor de la Ciudad de México. El relato, documentado en fuentes ",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-soldado-teletransportado-de-1593-leyenda-de-gil-perez-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-soldado-teletransportado-de-1593-leyenda-de-gil-perez-1030.jpg",
+    "fecha": "2026-10-30T00:19:51.121293",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Terror"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "La boda de Paul McCartney y Nancy Shevell en Londres",
     "artista": "Paul McCartney",
     "intro": "El legendario Beatle Paul McCartney contrajo matrimonio con la empresaria estadounidense Nancy Shevell en una ceremonia civil celebrada el domingo 9 de octubre de 2011 en Londres. El enlace, íntimo y ",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Édith Piaf: 40,000 personas en su funeral",
-    "artista": "Édith Piaf",
-    "intro": "Hoy se cumplen 63 años de la muerte de Édith Piaf, quien falleció en 1963. Su partida dejó una huella imborrable en la historia de la música, paralizando las calles de París en su momento y recordando",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/edith-piaf-40-000-personas-en-su-funeral-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/edith-piaf-40-000-personas-en-su-funeral-1029.jpg",
-    "fecha": "2026-10-29T15:39:58.875979",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
