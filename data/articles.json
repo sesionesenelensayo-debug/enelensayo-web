@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Romance (1991): 5 datos de Luis Miguel y el bolero",
+    "artista": "Luis Miguel",
+    "intro": "El álbum Romance, lanzado el 19 de noviembre de 1991 bajo WEA Latina, se consolidó como el octavo disco de estudio de Luis Miguel y una apuesta que redefinió el bolero en la radio. Grabado en Ocean Wa",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/romance-1991-5-datos-de-luis-miguel-y-el-bolero-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/romance-1991-5-datos-de-luis-miguel-y-el-bolero-1030.jpg",
+    "fecha": "2026-10-30T05:55:33.775393",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "¿Qué pasó con Héctor Lavoe tras el concierto cancelado? La voz y el balcón",
     "artista": "Héctor Lavoe",
     "intro": "El 5 de junio de 1988 se programó un concierto de Héctor Lavoe en el Coliseo Rubén Rodríguez de Bayamón, Puerto Rico, pero el productor lo canceló tres horas antes por la escasa venta de boletos. Las ",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece Patrick Stewart, ícono de Star Trek y X-Men, a los 86 años",
-    "artista": "Patrick Stewart",
-    "intro": "El actor británico, conocido por sus roles como Jean-Luc Picard y el Profesor X, murió en Los Ángeles tras enfrentar Alzheimer y demencia.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fallece-patrick-stewart-icono-de-star-trek-y-x-men-a-los-86-anos-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-patrick-stewart-icono-de-star-trek-y-x-men-a-los-86-anos-1029.jpg",
-    "fecha": "2026-10-29T19:19:37.851482",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme internacional"
   }
 ]
