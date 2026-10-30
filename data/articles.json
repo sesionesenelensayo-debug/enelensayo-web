@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "El compositor alemán detrás del éxito de 1967",
+    "artista": "El compositor alemán detrás del éxito de 1967",
+    "intro": "En una breve nota de En El Ensayo se revela que la obra del compositor alemán Engelbert Humperdinck, autor de la ópera Hänsel y Gretel, alcanzó la lista de éxitos en 1967. El dato destaca cómo una pie",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-compositor-aleman-detras-del-exito-de-1967-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-compositor-aleman-detras-del-exito-de-1967-1030.jpg",
+    "fecha": "2026-10-30T08:10:29.780059",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Cinco datos de la vida de José José",
     "artista": "José José",
     "intro": "El portal En el Ensayo publica cinco datos clave sobre José José, el legendario cantante mexicano nacido en febrero de 1948. Desde sus orígenes en Azcapotzalco hasta su fallecimiento en 2019, la pieza",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "La Gusana Ciega llega a Monterrey el 28 de noviembre con gira Claroscuro",
-    "artista": "La Gusana Ciega",
-    "intro": "La banda anuncia fecha en Escenario GNP Seguros y festival en Guanajuato con promoción 2x1.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-gusana-ciega-llega-a-monterrey-el-28-de-noviembre-con-gira-claroscu-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-gusana-ciega-llega-a-monterrey-el-28-de-noviembre-con-gira-claroscu-1029.jpg",
-    "fecha": "2026-10-29T20:46:00.098647",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
   }
 ]
