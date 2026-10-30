@@ -1,6 +1,32 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "7 de octubre de 1978: Some Girls y 6 millones",
+    "artista": "Some Girls",
+    "intro": "El 7 de octubre de 1978, Billboard certificó el éxito comercial de la gira estadounidense de The Rolling Stones vinculada a su álbum Some Girls. El disco alcanzó el número 1 del Billboard 200 y logró ",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/7-de-octubre-de-1978-some-girls-y-6-millones-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/7-de-octubre-de-1978-some-girls-y-6-millones-1029.jpg",
+    "fecha": "2026-10-29T18:23:06.527112",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "T1 y Movistar KOI chocan en Worlds 2026",
+    "artista": "T1 vs KOI en los Worlds 2026 de League of Legends",
+    "intro": "La Ronda 4 de los Worlds 2026 de League of Legends enfrenta a T1 y Movistar KOI en Allen, Texas, en busca del pase a playoffs.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/t1-y-movistar-koi-chocan-en-worlds-2026-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/t1-y-movistar-koi-chocan-en-worlds-2026-1029.jpg",
+    "fecha": "2026-10-29T18:22:42.084371",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Dalia Negra: la joven que apareció partida en dos",
     "artista": "Dalia Negra",
     "intro": "En enero de 1947, Elizabeth Short, de 22 años, fue vista por última vez en el Biltmore de Los Ángeles. Seis días después, su cuerpo apareció en un terreno baldío de Leimert Park. El asesino nunca fue ",
@@ -623,31 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Ernesto Laguardia: su paso por Dune en 1984",
-    "artista": "Ernesto Laguardia",
-    "intro": "Ernesto Laguardia, conocido actor y presentador mexicano, empezó su carrera como mensajero en estaciones de radio y, tras pocos meses, llegó a entrevistar a Julio Iglesias. En 1984, su trayectoria dio",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/ernesto-laguardia-su-paso-por-dune-en-1984-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/ernesto-laguardia-su-paso-por-dune-en-1984-1029.jpg",
-    "fecha": "2026-10-29T09:26:01.570373",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades de Eminem",
-    "artista": "Eminem",
-    "intro": "En El Ensayo – Live Sessions lanzó un video en YouTube titulado “5 curiosidades de Eminem”. El contenido, producido en Azcapotzalco, CDMX, forma parte de la serie de grabaciones en vivo para bandas in",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-eminem-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-eminem-1029.jpg",
-    "fecha": "2026-10-29T09:13:06.716422",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Datos curiosos"
   }
 ]
