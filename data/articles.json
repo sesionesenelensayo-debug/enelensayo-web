@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "David Guetta anuncia su regreso a la CDMX con The Monolith",
+    "artista": "David Guetta",
+    "intro": "El reconocido DJ y productor discográfico francés David Guetta ha confirmado oficialmente su próximo regreso a la Ciudad de México bajo el concepto titulado 'The Monolith'. La noticia, reportada inici",
+    "telegraph_url": "https://telegra.ph/David-Guetta-anuncia-su-regreso-a-la-CDMX-con-The-Monolith-10-30",
+    "url": "https://enelensayomedia.com/notas/david-guetta-anuncia-su-regreso-a-la-cdmx-con-the-monolith-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/david-guetta-anuncia-su-regreso-a-la-cdmx-con-the-monolith-1030.jpg",
+    "fecha": "2026-10-30T16:40:16.332361",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "ALFRED REED: 21 años SIN SU MÚSICA",
     "artista": "Alfred Reed",
     "intro": "Se recuerdan 21 años sin la música de Alfred Reed, uno de los compositores estadounidenses con mayor repertorio. A lo largo de su trayectoria, dejó más de doscientas obras publicadas para orquesta, ba",
@@ -1102,20 +1115,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Biografía",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El día que Alanis Morissette conquistó el Billboard 200",
-    "artista": "Alanis Morissette",
-    "intro": "El 7 de octubre de 1995, el álbum Jagged Little Pill de Alanis Morissette alcanzó el número uno en el Billboard 200 de Estados Unidos, convirtiéndose en el primer disco número 1 de una artista canadie",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-dia-que-alanis-morissette-conquisto-el-billboard-200-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-dia-que-alanis-morissette-conquisto-el-billboard-200-1030.jpg",
-    "fecha": "2026-10-30T03:12:51.775229",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
     "archivo": true
   },
   {
