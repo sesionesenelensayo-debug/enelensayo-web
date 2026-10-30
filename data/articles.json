@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "La Dama del Lago Chapala: entre la historia y la leyenda en el lago más grande de México",
+    "artista": "el Lago Chapala y sus aparecidos",
+    "intro": "El lago Chapala, destino emblemático de Jalisco, guarda historias de amor, tragedia y aparecidos que persisten en el tiempo.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/la-dama-del-lago-chapala-entre-la-historia-y-la-leyenda-en-el-lago-mas-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-dama-del-lago-chapala-entre-la-historia-y-la-leyenda-en-el-lago-mas-1029.jpg",
+    "fecha": "2026-10-29T20:43:19.435440",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Historias de terror"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "6 de octubre de 2012: Skyfall entra al número 2",
     "artista": "Skyfall",
     "intro": "El 6 de octubre de 2012, Adele lanzó oficialmente \"Skyfall\", la canción original de la película homónima de James Bond. La pieza entró directamente al número 2 de la UK Singles Chart y alcanzó el pues",
@@ -636,18 +649,5 @@
     "views": 0,
     "nota_dia": true,
     "categoria": "Internacional"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades de Café Tacvba",
-    "artista": "Café Tacvba",
-    "intro": "El proyecto En El Ensayo — Live Sessions publicó en YouTube un video titulado “5 curiosidades de Café Tacvba”. Grabado en vivo en Azcapotzalco, CDMX, el material forma parte de sus sesiones destinadas",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-cafe-tacvba-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-cafe-tacvba-1029.jpg",
-    "fecha": "2026-10-29T12:03:30.490241",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Datos curiosos"
   }
 ]
