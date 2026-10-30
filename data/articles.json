@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Héctor Lavoe cumpliría 80 años: sus tres peores golpes",
+    "artista": "Héctor Lavoe",
+    "intro": "Hoy, a 80 años de su nacimiento, la ciudad de Ponce recuerda a Héctor Lavoe, ícono de la salsa, señalando tres episodios dolorosos que marcaron su vida: su retiro temporal en Cali, la muerte trágica d",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/hector-lavoe-cumpliria-80-anos-sus-tres-peores-golpes-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/hector-lavoe-cumpliria-80-anos-sus-tres-peores-golpes-1030.jpg",
+    "fecha": "2026-10-30T05:28:10.222855",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Héctor Lavoe: 5 datos, del aula en Ponce al dolor",
     "artista": "Héctor Lavoe",
     "intro": "El cantante puertorriqueño Héctor Lavoe, nacido el 30 de septiembre de 1946 en Ponce, vivió una infancia marcada por la pérdida de su madre a los tres años y escapadas al Río Portugués. Emigró a Nueva",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "9 de junio de 1978: Some Girls frente al punk",
-    "artista": "The Rolling Stones",
-    "intro": "El video titulado '9 de junio de 1978: Some Girls frente al punk' trata sobre los Rolling Stones y forma parte de 'cinco escenas de los Rolling Stones'. Esta pieza forma parte de las grabaciones en vi",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/9-de-junio-de-1978-some-girls-frente-al-punk-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/9-de-junio-de-1978-some-girls-frente-al-punk-1029.jpg",
-    "fecha": "2026-10-29T19:09:08.193788",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
