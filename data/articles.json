@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Maná casi se disuelve y luego vendió 10 millones",
+    "artista": "Maná",
+    "intro": "El 29 de septiembre de 1992 la banda mexicana Maná lanzó su álbum “¿Dónde jugarán los niños?” con Warner Music, después de considerar la posibilidad de disolverse. El disco superó los 10 millones de c",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/mana-casi-se-disuelve-y-luego-vendio-10-millones-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/mana-casi-se-disuelve-y-luego-vendio-10-millones-1030.jpg",
+    "fecha": "2026-10-30T07:15:28.464973",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "De Magia a Loba: la historia de Shakira",
     "artista": "Shakira",
     "intro": "Una reciente recopilación de cinco momentos esenciales de la trayectoria de Shakira, desde su debut a los 14 años hasta su octavo disco, Loba, revela cómo la artista colombiana pasó de vender mil copi",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Agenda woke"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Murió el mismo día que Rasputin, 94 años después",
-    "artista": "Rasputin",
-    "intro": "El 30 de diciembre de 2010, el bailarín y cantante arubeño‑neerlandés Bobby Farrell, conocido por su paso por Boney M., falleció en San Petersburgo después de que sonara su despertador y nadie respond",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/murio-el-mismo-dia-que-rasputin-94-anos-despues-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/murio-el-mismo-dia-que-rasputin-94-anos-despues-1029.jpg",
-    "fecha": "2026-10-29T20:06:17.158568",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
