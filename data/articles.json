@@ -1,5 +1,18 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "NSQK anuncia concierto en la Arena Monterrey para presentar 'MOSCA'",
+    "artista": "NSQK",
+    "intro": "El artista regiomontano NSQK se presentará en la Arena Monterrey como parte de su gira mundial para presentar el álbum 'MOSCA'.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/nsqk-anuncia-concierto-en-la-arena-monterrey-para-presentar-mosca-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/nsqk-anuncia-concierto-en-la-arena-monterrey-para-presentar-mosca-1030.jpg",
+    "fecha": "2026-10-30T14:55:01.437923",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "DUNCAN SHEIK: Cambió el pop por la grandeza",
     "artista": "Duncan Sheik",
