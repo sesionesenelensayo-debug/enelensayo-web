@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Sesenta mil personas en el Astrodome por Selena",
+    "artista": "Selena",
+    "intro": "El 30 de septiembre de 1995, el Astrodome de Houston se llenó con la asistencia de más de sesenta mil fanáticos para homenajear a Selena, pocos meses después de su trágica muerte. El concierto, parte ",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/sesenta-mil-personas-en-el-astrodome-por-selena-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/sesenta-mil-personas-en-el-astrodome-por-selena-1030.jpg",
+    "fecha": "2026-10-30T06:08:21.979616",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Romance (1991): 5 datos de Luis Miguel y el bolero",
     "artista": "Luis Miguel",
     "intro": "El álbum Romance, lanzado el 19 de noviembre de 1991 bajo WEA Latina, se consolidó como el octavo disco de estudio de Luis Miguel y una apuesta que redefinió el bolero en la radio. Grabado en Ocean Wa",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "7 de octubre de 2011: el Grammy de We Found Love",
-    "artista": "We Found Love",
-    "intro": "El 7 de octubre de 2011 Rihanna lanzó junto a Calvin Harris el sencillo «We Found Love». La canción alcanzó la posición número 1 del Billboard Hot 100 y se mantuvo en la cima durante varias semanas, v",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/7-de-octubre-de-2011-el-grammy-de-we-found-love-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/7-de-octubre-de-2011-el-grammy-de-we-found-love-1029.jpg",
-    "fecha": "2026-10-29T19:23:47.694329",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
