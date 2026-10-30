@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Cinco datos de la vida de José José",
+    "artista": "José José",
+    "intro": "El portal En el Ensayo publica cinco datos clave sobre José José, el legendario cantante mexicano nacido en febrero de 1948. Desde sus orígenes en Azcapotzalco hasta su fallecimiento en 2019, la pieza",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/cinco-datos-de-la-vida-de-jose-jose-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/cinco-datos-de-la-vida-de-jose-jose-1030.jpg",
+    "fecha": "2026-10-30T07:55:36.760730",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "¿Por qué perdió su voz? La trágica caída de José José",
     "artista": "José José",
     "intro": "José Rómulo Sosa Ortiz, conocido como José José, nació el 17 de febrero de 1948 en Clavería, Azcapotzalco, Ciudad de México. La noticia destaca que creció rodeado de música gracias a su padre, el cant",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Conciertos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "La Dama del Lago Chapala: entre la historia y la leyenda en el lago más grande de México",
-    "artista": "el Lago Chapala y sus aparecidos",
-    "intro": "El lago Chapala, destino emblemático de Jalisco, guarda historias de amor, tragedia y aparecidos que persisten en el tiempo.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-dama-del-lago-chapala-entre-la-historia-y-la-leyenda-en-el-lago-mas-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-dama-del-lago-chapala-entre-la-historia-y-la-leyenda-en-el-lago-mas-1029.jpg",
-    "fecha": "2026-10-29T20:43:19.435440",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror"
   }
 ]
