@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "¿Por qué dejó de cantar Mary Ford? La voz detrás de «How High the Moon»",
+    "artista": "Mary Ford",
+    "intro": "Mary Ford, nacida Iris Colleen Summers en 1924, alcanzó la fama en la década de 1950 junto a su esposo Les Paul. Su versión de \"How High the Moon\" lideró las listas estadounidenses entre abril y junio",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/por-que-dejo-de-cantar-mary-ford-la-voz-detras-de-how-high-the-moon-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/por-que-dejo-de-cantar-mary-ford-la-voz-detras-de-how-high-the-moon-1030.jpg",
+    "fecha": "2026-10-30T04:47:41.476084",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "La Isla de las Muñecas: la muerte de Don Julián Santana",
     "artista": "La Isla de las Muñecas",
     "intro": "Durante más de cinco décadas, Santana instaló más de mil muñecas deterioradas en la isla, práctica que continuó su familia tras su fallecimiento.",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Kygo en México 2027: fechas, sedes y boletos",
-    "artista": "Kygo",
-    "intro": "El productor noruego Kygo regresa a México en 2027 con dos conciertos masivos y preventas exclusivas.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/kygo-en-mexico-2027-fechas-sedes-y-boletos-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/kygo-en-mexico-2027-fechas-sedes-y-boletos-1029.jpg",
-    "fecha": "2026-10-29T18:37:14.446549",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
   }
 ]
