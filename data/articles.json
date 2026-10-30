@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "La Isla de las Muñecas: la muerte de Don Julián Santana",
+    "artista": "La Isla de las Muñecas",
+    "intro": "Durante más de cinco décadas, Santana instaló más de mil muñecas deterioradas en la isla, práctica que continuó su familia tras su fallecimiento.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/la-isla-de-las-munecas-la-muerte-de-don-julian-santana-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-isla-de-las-munecas-la-muerte-de-don-julian-santana-1030.jpg",
+    "fecha": "2026-10-30T04:33:30.992051",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Terror y misterio"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Diátlov: 9 esquiadores dejaron su tienda y murieron",
     "artista": "Diátlov",
     "intro": "En febrero de 1959, nueve excursionistas experimentados fallecieron en los montes Urales después de dejar su tienda en la ladera de Jólat Siajl. La tienda presentaba cortes internos y varios cuerpos m",
@@ -632,19 +645,6 @@
     "url": "https://enelensayomedia.com/notas/kygo-en-mexico-2027-fechas-sedes-y-boletos-1029.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/kygo-en-mexico-2027-fechas-sedes-y-boletos-1029.jpg",
     "fecha": "2026-10-29T18:37:14.446549",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Franco Escamilla lleva su show 'El Juicio' al Auditorio Nacional el 6 de febrero de 2027",
-    "artista": "Franco Escamilla",
-    "intro": "El comediante mexicano regresa a CDMX con su nuevo espectáculo de stand up en el Auditorio Nacional.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/franco-escamilla-lleva-su-show-el-juicio-al-auditorio-nacional-el-6-de-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/franco-escamilla-lleva-su-show-el-juicio-al-auditorio-nacional-el-6-de-1029.jpg",
-    "fecha": "2026-10-29T18:34:04.541164",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Conciertos"
