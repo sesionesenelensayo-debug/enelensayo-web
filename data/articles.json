@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Ranking: Las 10 películas que más dinero perdieron en taquilla",
+    "artista": "las 10 películas que más dinero perdieron (mayores fracasos de taquilla recientes)",
+    "intro": "Descubre el listado de las diez producciones recientes que registraron los mayores fracasos y pérdidas financieras en la industria cinematográfica según los medios.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/ranking-las-10-peliculas-que-mas-dinero-perdieron-en-taquilla-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/ranking-las-10-peliculas-que-mas-dinero-perdieron-en-taquilla-1029.jpg",
+    "fecha": "2026-10-29T19:14:17.706136",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "9 de junio de 1978: Some Girls frente al punk",
     "artista": "The Rolling Stones",
     "intro": "El video titulado '9 de junio de 1978: Some Girls frente al punk' trata sobre los Rolling Stones y forma parte de 'cinco escenas de los Rolling Stones'. Esta pieza forma parte de las grabaciones en vi",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Marc Anthony: el éxito de hiphop que lideró en 1991",
-    "artista": "Marc Anthony",
-    "intro": "En 1991 Marc Anthony encabezó las listas estadounidenses con un éxito de hip‑hop, una faceta poco conocida que precede su posterior consagración como el mayor cantante de salsa de la historia. El dato",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/marc-anthony-el-exito-de-hiphop-que-lidero-en-1991-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/marc-anthony-el-exito-de-hiphop-que-lidero-en-1991-1029.jpg",
-    "fecha": "2026-10-29T10:32:17.038831",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
