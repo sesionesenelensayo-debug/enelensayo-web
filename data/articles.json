@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Fallece Patrick Stewart, ícono de Star Trek y X-Men, a los 86 años",
+    "artista": "Patrick Stewart",
+    "intro": "El actor británico, conocido por sus roles como Jean-Luc Picard y el Profesor X, murió en Los Ángeles tras enfrentar Alzheimer y demencia.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/fallece-patrick-stewart-icono-de-star-trek-y-x-men-a-los-86-anos-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-patrick-stewart-icono-de-star-trek-y-x-men-a-los-86-anos-1029.jpg",
+    "fecha": "2026-10-29T19:19:37.851482",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme internacional"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Ranking: Las 10 películas que más dinero perdieron en taquilla",
     "artista": "las 10 películas que más dinero perdieron (mayores fracasos de taquilla recientes)",
     "intro": "Descubre el listado de las diez producciones recientes que registraron los mayores fracasos y pérdidas financieras en la industria cinematográfica según los medios.",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Escena local"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades de Elvis Presley",
-    "artista": "Elvis Presley",
-    "intro": "En En el Ensayo — Live Sessions, Azcapotzalco, CDMX, se publicó un breve artículo titulado “5 curiosidades de Elvis Presley”. La pieza, vinculada al portal en-el-ensayo.vercel.app, recuerda al icónico",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-elvis-presley-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-elvis-presley-1029.jpg",
-    "fecha": "2026-10-29T10:44:51.485157",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Datos curiosos"
   }
 ]
