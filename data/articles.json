@@ -1,5 +1,18 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "La Gusana Ciega llega a Monterrey el 28 de noviembre con gira Claroscuro",
+    "artista": "La Gusana Ciega",
+    "intro": "La banda anuncia fecha en Escenario GNP Seguros y festival en Guanajuato con promoción 2x1.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/la-gusana-ciega-llega-a-monterrey-el-28-de-noviembre-con-gira-claroscu-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-gusana-ciega-llega-a-monterrey-el-28-de-noviembre-con-gira-claroscu-1029.jpg",
+    "fecha": "2026-10-29T20:46:00.098647",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "La Dama del Lago Chapala: entre la historia y la leyenda en el lago más grande de México",
     "artista": "el Lago Chapala y sus aparecidos",
@@ -635,19 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Gloria Trevi gana premio Artista Oro en HEAT Latin Music Awards 2026",
-    "artista": "Gloria Trevi",
-    "intro": "Gloria Trevi ha sido galardonada con el premio Artista Oro en los HEAT Latin Music Awards 2026. El anuncio fue publicado por Billboard, confirmando el reconocimiento a la trayectoria de la cantante me",
-    "telegraph_url": "https://telegra.ph/Gloria-Trevi-gana-premio-Artista-Oro-en-HEAT-Latin-Music-Awards-2026-10-29",
-    "url": "https://enelensayomedia.com/notas/gloria-trevi-gana-premio-artista-oro-en-heat-latin-music-awards-2026-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/gloria-trevi-gana-premio-artista-oro-en-heat-latin-music-awards-2026-1029.jpg",
-    "fecha": "2026-10-29T12:08:43.078694",
-    "author": "Oliver Ken",
-    "views": 0,
-    "nota_dia": true,
-    "categoria": "Internacional"
   }
 ]
