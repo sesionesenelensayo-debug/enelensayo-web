@@ -1,6 +1,21 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Fallece Sir Patrick Stewart a los 86 años",
+    "artista": "",
+    "intro": "Sir Patrick Stewart ha fallecido el 28 de octubre de 2026 a la edad de 86 años. El reconocido actor británico de cine, televisión y doblaje deja atrás una ",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/fallece-sir-patrick-stewart-a-los-86-anos-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-sir-patrick-stewart-a-los-86-anos-1029.jpg",
+    "fecha": "2026-10-30T17:41:10.548326",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "In memoriam",
+    "fecha_original": "2026-10-29T13:54:07",
+    "actualizada": true
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Belinda causa revuelo en México con su exclusiva fiesta de Halloween",
     "artista": "Belinda",
     "intro": "La cantante y actriz Belinda ha generado gran revuelo en México tras celebrar una exclusiva fiesta de Halloween, denominada Beliween, donde se transformó en alien. El evento reunió a diversas figuras ",
@@ -954,21 +969,6 @@
     "views": 0,
     "categoria": "Música",
     "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece Sir Patrick Stewart a los 86 años",
-    "artista": "",
-    "intro": "Sir Patrick Stewart ha fallecido el 28 de octubre de 2026 a la edad de 86 años. El reconocido actor británico de cine, televisión y doblaje deja atrás una ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fallece-sir-patrick-stewart-a-los-86-anos-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-sir-patrick-stewart-a-los-86-anos-1029.jpg",
-    "fecha": "2026-10-30T09:12:34.147144",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam",
-    "fecha_original": "2026-10-29T13:54:07",
-    "actualizada": true
   },
   {
     "tipo": "reportaje",
