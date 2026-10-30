@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Eslabón Armado anuncia concierto en el Teatro Metropólitan el 2 de diciembre de 2026",
+    "artista": "Eslabón Armado",
+    "intro": "Eslabón Armado confirmó su próximo show en la Ciudad de México, programado para el miércoles 2 de diciembre de 2026 en el Teatro Metropólitan. El anuncio, difundido en redes sociales, forma parte de l",
+    "telegraph_url": "https://telegra.ph/Eslabón-Armado-anuncia-concierto-en-el-Teatro-Metropólitan-el-2-de-diciembre-de-2026-10-30",
+    "url": "https://enelensayomedia.com/notas/eslabon-armado-anuncia-concierto-en-el-teatro-metropolitan-el-2-de-dic-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/eslabon-armado-anuncia-concierto-en-el-teatro-metropolitan-el-2-de-dic-1030.jpg",
+    "fecha": "2026-10-30T12:34:51.337368",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "BO CARTER: 64 años SIN SU MÚSICA",
     "artista": "BO CARTER",
     "intro": "Hace 64 años falleció Bo Carter, influyente cantante‑guitarrista de blues que marcó la historia del género. Su muerte, ocurrida el 21 de septiembre, nos invita a repasar su legado y la influencia que ",
@@ -940,20 +953,6 @@
     "url": "https://enelensayomedia.com/notas/la-historia-secreta-de-sting-1029.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/la-historia-secreta-de-sting-1029.jpg",
     "fecha": "2026-10-29T23:14:42.111524",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Paso Dyatlov: 9 excursionistas, una tienda rasgada y un misterio",
-    "artista": "Paso Dyatlov",
-    "intro": "En febrero de 1959, nueve excursionistas del Instituto Politécnico de los Urales murieron en el norte de los Montes Urales. Su tienda de campaña apareció rasgada desde dentro y los cuerpos fueron hall",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/paso-dyatlov-9-excursionistas-una-tienda-rasgada-y-un-misterio-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/paso-dyatlov-9-excursionistas-una-tienda-rasgada-y-un-misterio-1029.jpg",
-    "fecha": "2026-10-29T22:59:04.046353",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música",
