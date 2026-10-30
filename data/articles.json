@@ -1,5 +1,32 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Pitbull regresa a México y presentará tres conciertos",
+    "artista": "Pitbull",
+    "intro": "Según informa Noroeste, el cantante y productor Pitbull volverá a México y tiene programados tres conciertos en territorio nacional. El anuncio, publicado en la plataforma digital, confirma la presenc",
+    "telegraph_url": "https://telegra.ph/Pitbull-regresa-a-México-y-presentará-tres-conciertos-10-30",
+    "url": "https://enelensayomedia.com/notas/pitbull-regresa-a-mexico-y-presentara-tres-conciertos-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/pitbull-regresa-a-mexico-y-presentara-tres-conciertos-1030.jpg",
+    "fecha": "2026-10-30T13:35:27.992223",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "¿Qué secretos escondió José Sabre Marroquín? La historia que nadie te contó",
+    "artista": "José Sabre Marroquín",
+    "intro": "A 115 años de su nacimiento, la figura de José Sabre Marroquín vuelve a la palestra. Nacido en San Luis Potosí el 8 de diciembre de 1909 y fallecido el 20 de septiembre de 1995, fue un compositor y di",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/que-secretos-escondio-jose-sabre-marroquin-la-historia-que-nadie-te-co-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/que-secretos-escondio-jose-sabre-marroquin-la-historia-que-nadie-te-co-1030.jpg",
+    "fecha": "2026-10-30T13:33:22.291692",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "JOSÉ SABRE MARROQUÍN: 31 años SIN SU MÚSICA",
     "artista": "José Sabre Marroquín",
@@ -1023,19 +1050,6 @@
     "views": 0,
     "categoria": "Biografía",
     "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Top 10 semanal: lo más escuchado en México y en el mundo (29 de octubre)",
-    "artista": "Top 10 semanal",
-    "intro": "Como en los viejos conteos de MTV, aquí está la cuenta regresiva de la semana. En México manda «BbY WOW» de KAROL G; en el mundo, «Housewife» de Tate McRae.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/top-10-semanal-lo-mas-escuchado-en-mexico-y-en-el-mundo-29-de-octubre-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/top-10-semanal-lo-mas-escuchado-en-mexico-y-en-el-mundo-29-de-octubre-1029.jpg",
-    "fecha": "2026-10-29T23:48:14.501545",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
