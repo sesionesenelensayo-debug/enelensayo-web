@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Brian Johnson: 79 años de rock con AC/DC",
+    "artista": "Brian Johnson",
+    "intro": "Brian Johnson, vocalista de AC/DC, celebra 79 años de vida y una trayectoria que lo ha mantenido al frente del rock mundial durante décadas. Su voz distintiva y su energía en el escenario lo han conve",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/brian-johnson-79-anos-de-rock-con-ac-dc-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/brian-johnson-79-anos-de-rock-con-ac-dc-1029.jpg",
+    "fecha": "2026-10-29T22:15:59.310343",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "4 de octubre de 2009: 5:15 am, se apagó la Negra",
     "artista": "La Negra",
     "intro": "A las 5:15 a.m. del 4 de octubre de 2009, la voz de Mercedes Sosa, la icónica cantautora argentina conocida como “La Negra”, se apagó en Buenos Aires. La artista murió a los 74 años por falla multiorg",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades de Alejandro Sanz",
-    "artista": "Alejandro Sanz",
-    "intro": "El reconocido cantautor español Alejandro Sanz es el centro de atención en un nuevo material audiovisual que recopila curiosidades sobre su trayectoria artística. A través de este lanzamiento, 'En El ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-alejandro-sanz-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-alejandro-sanz-1029.jpg",
-    "fecha": "2026-10-29T13:32:42.872367",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Datos curiosos"
   }
 ]
