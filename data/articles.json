@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "De Magia a Loba: la historia de Shakira",
+    "artista": "Shakira",
+    "intro": "Una reciente recopilación de cinco momentos esenciales de la trayectoria de Shakira, desde su debut a los 14 años hasta su octavo disco, Loba, revela cómo la artista colombiana pasó de vender mil copi",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/de-magia-a-loba-la-historia-de-shakira-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/de-magia-a-loba-la-historia-de-shakira-1030.jpg",
+    "fecha": "2026-10-30T07:02:58.555676",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Rigo Tovar y el Moog en el Auditorio Nacional",
     "artista": "Rigo Tovar",
     "intro": "El 29 de septiembre de 1976 Rigo Tovar, con su grupo Costa Azul, agotó el Auditorio Nacional, introduciendo en el escenario un sintetizador Moog y una guitarra eléctrica. Ese concierto marcó una de la",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "72 días en los Andes: el Milagro del Vuelo 571",
-    "artista": "Vuelo 571",
-    "intro": "El 13 de octubre de 1972, el vuelo 571 de la Fuerza Airéa Uruguaya, que transportaba a un equipo de rugby y un total de 45 personas a bordo, se estrelló en los Andes. Tras 72 días, Nando Parrado y Rob",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/72-dias-en-los-andes-el-milagro-del-vuelo-571-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/72-dias-en-los-andes-el-milagro-del-vuelo-571-1029.jpg",
-    "fecha": "2026-10-29T19:48:51.558619",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
