@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Paso Dyatlov: 9 excursionistas, una tienda rasgada y un misterio",
+    "artista": "Paso Dyatlov",
+    "intro": "En febrero de 1959, nueve excursionistas del Instituto Politécnico de los Urales murieron en el norte de los Montes Urales. Su tienda de campaña apareció rasgada desde dentro y los cuerpos fueron hall",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/paso-dyatlov-9-excursionistas-una-tienda-rasgada-y-un-misterio-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/paso-dyatlov-9-excursionistas-una-tienda-rasgada-y-un-misterio-1029.jpg",
+    "fecha": "2026-10-29T22:59:04.046353",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "5 de octubre de 1970: el disco con agujeros",
     "artista": "5 de octubre de 1970",
     "intro": "El 5 de octubre de 1970, Atlantic Records publicó en Estados Unidos el tercer álbum de estudio de Led Zeppelin. La salida de este disco marcó un giro hacia el folk y la música acústica para la banda b",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Terror y misterio"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El cielo se partió en Siberia: el misterio de Tunguska",
-    "artista": "Tunguska",
-    "intro": "El 30 de junio de 1908, una gran explosión sacudió la cuenca del río Podkámennaya Tunguska, en Siberia, derribando unos 80 millones de árboles en una superficie de aproximadamente 2,150 km². El evento",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-cielo-se-partio-en-siberia-el-misterio-de-tunguska-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-cielo-se-partio-en-siberia-el-misterio-de-tunguska-1029.jpg",
-    "fecha": "2026-10-29T13:58:32.167499",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
