@@ -62,6 +62,30 @@ extra = f'''  <section class="section" id="top10-mini"><div class="section-inner
   </div></section>
 
 '''
+def bloque(idb, eyebrow, titulo, pagina):
+    return (f'''  <section class="section" id="b-{idb}" data-bloque="1"><div class="section-inner">
+    <div class="section-header"><p class="section-eyebrow"><span class="dot dot--yellow"></span>{eyebrow}</p><h2 class="section-title">{titulo}</h2></div>
+    <div class="sx-grid sx-notas" id="blk{idb}"></div><a class="blk-mas" href="{pagina}">Ver todo →</a>
+  </div></section>
+
+''')
+
+
+graficas = '''  <section class="section" id="graficas"><div class="section-inner">
+    <div class="section-header"><p class="section-eyebrow"><span class="dot dot--yellow"></span>Lo más escuchado</p>
+      <h2 class="section-title">Los artistas más <span class="text-accent">escuchados</span></h2></div>
+    <div class="gr-cols"><div><h3 class="sx-sub">México hoy</h3><div id="grafMx"></div></div><div><h3 class="sx-sub">Mundo</h3><div id="grafMundo"></div></div></div>
+    <p class="sx-aviso" id="grafFuente"></p>
+  </div></section>
+
+'''
+bloques = graficas + bloque("Musica", "Música actual", "Música: <span class=\"text-accent\">lo que pasa hoy</span>", "noticias.html") + \
+    bloque("Chisme", "Famosos y espectáculos", "<span class=\"text-accent\">Chisme</span> de hoy", "chisme.html") + \
+    bloque("Cine", "Pantalla grande", "<span class=\"text-accent\">Cine</span>", "cine.html") + \
+    bloque("Cultura", "Cultura pop", "<span class=\"text-accent\">Cultura</span>", "noticias.html") + \
+    bloque("Juegos", "Controles en mano", "Video<span class=\"text-accent\">juegos</span>", "videojuegos.html")
+corte = '  <section class="section" id="notas">'
+portada = portada.replace(corte, bloques + corte, 1) if corte in portada else portada + bloques
 idx = head + "<body>\n\n" + menu(nav, "") + portada + extra + footer + scripts
 open(os.path.join(AQUI, "index.html"), "w", encoding="utf-8").write(idx)
 for k, (et, tit, desc, ids) in PAGINAS.items():
