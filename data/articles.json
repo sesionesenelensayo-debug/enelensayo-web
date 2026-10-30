@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Murió Juan Marcelo, la voz histórica del dúo Juan y Juan",
+    "artista": "Juan Marcelo",
+    "intro": "El mundo de la música popular argentina despide a una de sus figuras más emblemáticas. A los 82 años, falleció Juan Marcelo, cantante, compositor y la mitad del recordado dúo Juan y Juan que marcó una",
+    "telegraph_url": "https://telegra.ph/Murió-Juan-Marcelo-la-voz-histórica-del-dúo-Juan-y-Juan-10-30",
+    "url": "https://enelensayomedia.com/notas/murio-juan-marcelo-la-voz-historica-del-duo-juan-y-juan-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/murio-juan-marcelo-la-voz-historica-del-duo-juan-y-juan-1030.jpg",
+    "fecha": "2026-10-30T17:33:35.901696",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Worlds 2026: definición en la fase suiza de League of Legends",
     "artista": "Worlds 2026 de League of Legends",
     "intro": "El Campeonato Mundial 2026 entra en su fase definitiva con la ronda cinco en Estados Unidos, donde los mejores equipos buscan los últimos pases a cuartos.",
@@ -1162,20 +1175,6 @@
     "url": "https://enelensayomedia.com/notas/hector-lavoe-5-datos-del-aula-en-ponce-al-dolor-1030.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/hector-lavoe-5-datos-del-aula-en-ponce-al-dolor-1030.jpg",
     "fecha": "2026-10-30T05:15:27.042476",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Marty Stuart: de Delaware 1972 a la banda de Johnny Cash",
-    "artista": "Marty Stuart",
-    "intro": "Marty Stuart, nacido el 30 de septiembre de 1958 en Mississippi, subió al escenario con Lester Flatt en Delaware en 1972 y, tras varios años con la banda de Flatt, pasó a tocar en la banda de gira de ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/marty-stuart-de-delaware-1972-a-la-banda-de-johnny-cash-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/marty-stuart-de-delaware-1972-a-la-banda-de-johnny-cash-1030.jpg",
-    "fecha": "2026-10-30T05:00:28.455615",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música",
