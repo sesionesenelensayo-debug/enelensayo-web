@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "La boda de Paul McCartney y Nancy Shevell en Londres",
+    "artista": "Paul McCartney",
+    "intro": "El legendario Beatle Paul McCartney contrajo matrimonio con la empresaria estadounidense Nancy Shevell en una ceremonia civil celebrada el domingo 9 de octubre de 2011 en Londres. El enlace, íntimo y ",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/la-boda-de-paul-mccartney-y-nancy-shevell-en-londres-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-boda-de-paul-mccartney-y-nancy-shevell-en-londres-1030.jpg",
+    "fecha": "2026-10-30T00:06:20.387214",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Sinéad O'Connor: El grito de la mujer que desafió al Vaticano",
     "artista": "Sinéad O'Connor",
     "intro": "El nuevo video de En El Ensayo Media titulado “Sinéad O'Connor: El grito de la mujer que desafió al Vaticano” repasa la trayectoria de la cantante irlandesa, desde el éxito mundial de “Nothing Compare",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades de Green Day",
-    "artista": "Green Day",
-    "intro": "El proyecto musical En el Ensayo, que registra sesiones en vivo para bandas independientes, ha publicado en su canal de YouTube un video titulado “5 curiosidades de Green Day”. La pieza, grabada en Az",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-green-day-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-green-day-1029.jpg",
-    "fecha": "2026-10-29T15:27:37.022157",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Datos curiosos"
   }
 ]
