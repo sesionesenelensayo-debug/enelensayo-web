@@ -1,6 +1,32 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "¿Cómo conquistó el mundo con corbatas y tenis? La verdadera historia de Avril Lavigne",
+    "artista": "Avril Lavigne",
+    "intro": "Avril Lavigne alcanzó la fama mundial en 2002 con su álbum debut Let Go, cuyo éxito incluyó los sencillos \"Complicated\" y \"Sk8er Boi\". Su imagen icónica de principios de los 2000 combinaba pantalones ",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/como-conquisto-el-mundo-con-corbatas-y-tenis-la-verdadera-historia-de-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/como-conquisto-el-mundo-con-corbatas-y-tenis-la-verdadera-historia-de-1030.jpg",
+    "fecha": "2026-10-30T08:36:04.571154",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "Aokigahara: entre la belleza del Fuji y la sombra del suicidio",
+    "artista": "el bosque Aokigahara y sus leyendas",
+    "intro": "Una crónica que explora la geología, la historia, la cultura y los esfuerzos de prevención en el misterioso bosque japonés.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/aokigahara-entre-la-belleza-del-fuji-y-la-sombra-del-suicidio-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/aokigahara-entre-la-belleza-del-fuji-y-la-sombra-del-suicidio-1030.jpg",
+    "fecha": "2026-10-30T08:35:24.132567",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Historias de terror"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "El trágico final del guitarrista de Paul McCartney y Wings",
     "artista": "Paul McCartney",
     "intro": "Un apartamento en Londres fue el escenario donde se encontró sin vida el cuerpo de Jimmy McCulloch, guitarrista escocés que colaboró con Paul McCartney en Wings y falleció en 1979 a los veintiséis año",
@@ -622,31 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "6 de octubre de 2008: Metallica no soltó el número 1",
-    "artista": "Metallica",
-    "intro": "El 6 de octubre de 2008, Metallica mantenía su posición en la cima de la industria musical estadounidense. El álbum Death Magnetic seguía en el puesto número 1 del Billboard 200, impulsado por la vent",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/6-de-octubre-de-2008-metallica-no-solto-el-numero-1-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/6-de-octubre-de-2008-metallica-no-solto-el-numero-1-1029.jpg",
-    "fecha": "2026-10-29T21:13:43.683078",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "¿Cómo armó Eddie Van Halen la guitarra que cambió el rock? Su historia",
-    "artista": "¿Cómo armó Eddie Van Halen la guitarra que cambió el rock? S",
-    "intro": "Un nuevo documental recorre la vida de Eddie Van Halen, desde su nacimiento en Ámsterdam en 1955 hasta su fallecimiento el 6 de octubre de 2020 en Santa Mónica. La película muestra cómo, sin dominar l",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/como-armo-eddie-van-halen-la-guitarra-que-cambio-el-rock-su-historia-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/como-armo-eddie-van-halen-la-guitarra-que-cambio-el-rock-su-historia-1029.jpg",
-    "fecha": "2026-10-29T21:01:06.543707",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Biografía"
   }
 ]
