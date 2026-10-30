@@ -48,7 +48,7 @@
   function esNotaDia(a) {
     if (a.nota_dia) return true;
     var d = new Date(a.fecha); var h = d.getHours() + d.getMinutes() / 60;
-    return h >= 11.9 && h < 14;                      // respaldo: la nota publicada alrededor de las 12:00
+    return h >= 11.9 && h < 14 && (Date.now() - d.getTime()) < 36 * 3600 * 1000;   // respaldo: la nota de ~12:00 de las últimas 36 h (nunca de archivo)
   }
   function pintaNotas() {
     var g = $('todasNotas'); if (!g) return;
@@ -61,7 +61,7 @@
   var mas = $('masNotas'); if (mas) mas.onclick = function () { SHOWN += 12; pintaNotas(); };
 
   get('data/articles.json').then(function (arts) {
-    TODAS = arts.slice().sort(function (a, b) { return new Date(b.fecha) - new Date(a.fecha); });
+    TODAS = arts.filter(function (a) { return !a.archivo; }).sort(function (a, b) { return new Date(b.fecha) - new Date(a.fecha); });
     var nd = TODAS.find(esNotaDia) || TODAS[0];
     var w = $('notaDiaPortada');
     var slides = nd ? [nd].concat(TODAS.filter(function (a) { return a !== nd; }).slice(0, 3)) : [];

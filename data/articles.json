@@ -1,6 +1,32 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Solary se corona en la EVA Pro League y el EVA Summit muestra la nueva cara del VR esports",
+    "artista": "Solary campeón EVA Pro League",
+    "intro": "La primera temporada de la EVA Pro League concluyó con Solary como campeón, mientras el EVA Summit reveló sorpresas y definió el futuro del circuito europeo.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/solary-se-corona-en-la-eva-pro-league-y-el-eva-summit-muestra-la-nueva-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/solary-se-corona-en-la-eva-pro-league-y-el-eva-summit-muestra-la-nueva-1030.jpg",
+    "fecha": "2026-10-30T10:25:48.404801",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports"
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "5 curiosidades que no sabías de Ray Charles",
+    "artista": "Ray Charles",
+    "intro": "En la sección Live Sessions de En El Ensayo se publicó una lista titulada “5 curiosidades que no sabías de Ray Charles”. El contenido, aunque breve, invita a recordar al pionero del soul y a explorar ",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-ray-charles-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-que-no-sabias-de-ray-charles-1030.jpg",
+    "fecha": "2026-10-30T10:24:29.224827",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Datos curiosos"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Ulthima lanza el sencillo principal 'Midnight’s Call' de su nuevo álbum",
     "artista": "Ulthima",
     "intro": "El 27 de noviembre de 2026 la banda mexicana Ulthima presentó el sencillo principal de su próximo álbum 'Midnight’s Call' a través de Inverse Records. El lanzamiento marca el avance de su segundo disc",
@@ -36,7 +62,8 @@
     "fecha": "2026-10-30T09:52:15.766287",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -49,7 +76,8 @@
     "fecha": "2026-10-30T09:40:02.653637",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -75,7 +103,8 @@
     "fecha": "2026-10-30T09:27:42.339604",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "In memoriam"
+    "categoria": "In memoriam",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -88,7 +117,8 @@
     "fecha": "2026-10-30T09:14:24.749390",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -116,7 +146,8 @@
     "fecha": "2026-10-30T08:36:04.571154",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Biografía"
+    "categoria": "Biografía",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -142,7 +173,8 @@
     "fecha": "2026-10-30T08:23:12.382299",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -155,7 +187,8 @@
     "fecha": "2026-10-30T08:10:29.780059",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -168,7 +201,8 @@
     "fecha": "2026-10-30T07:55:36.760730",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -181,7 +215,8 @@
     "fecha": "2026-10-30T07:40:55.525492",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Biografía"
+    "categoria": "Biografía",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -194,7 +229,8 @@
     "fecha": "2026-10-30T07:28:30.706394",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -207,7 +243,8 @@
     "fecha": "2026-10-30T07:15:28.464973",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -220,7 +257,8 @@
     "fecha": "2026-10-30T07:02:58.555676",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -233,7 +271,8 @@
     "fecha": "2026-10-30T06:49:24.821341",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -246,7 +285,8 @@
     "fecha": "2026-10-30T06:35:14.631965",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -259,7 +299,8 @@
     "fecha": "2026-10-30T06:22:29.495304",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Terror"
+    "categoria": "Terror",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -272,7 +313,8 @@
     "fecha": "2026-10-30T06:08:21.979616",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -285,7 +327,8 @@
     "fecha": "2026-10-30T05:55:33.775393",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Chisme"
+    "categoria": "Chisme",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -298,7 +341,8 @@
     "fecha": "2026-10-30T05:41:22.142827",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Biografía"
+    "categoria": "Biografía",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -311,7 +355,8 @@
     "fecha": "2026-10-30T05:28:10.222855",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -324,7 +369,8 @@
     "fecha": "2026-10-30T05:15:27.042476",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -337,7 +383,8 @@
     "fecha": "2026-10-30T05:00:28.455615",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -350,7 +397,8 @@
     "fecha": "2026-10-30T04:47:41.476084",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Biografía"
+    "categoria": "Biografía",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -363,7 +411,8 @@
     "fecha": "2026-10-30T04:33:30.992051",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Terror y misterio"
+    "categoria": "Terror y misterio",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -376,7 +425,8 @@
     "fecha": "2026-10-30T04:20:24.171722",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -389,7 +439,8 @@
     "fecha": "2026-10-30T04:06:34.412364",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -402,7 +453,8 @@
     "fecha": "2026-10-30T03:53:36.829437",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -415,7 +467,8 @@
     "fecha": "2026-10-30T03:39:34.912180",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -428,7 +481,8 @@
     "fecha": "2026-10-30T03:27:05.566276",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Biografía"
+    "categoria": "Biografía",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -441,7 +495,8 @@
     "fecha": "2026-10-30T03:12:51.775229",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -454,7 +509,8 @@
     "fecha": "2026-10-30T02:59:48.486219",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -467,7 +523,8 @@
     "fecha": "2026-10-30T02:45:40.891176",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -480,7 +537,8 @@
     "fecha": "2026-10-30T02:32:47.589081",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -493,7 +551,8 @@
     "fecha": "2026-10-30T02:18:22.665965",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Biografía"
+    "categoria": "Biografía",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -506,7 +565,8 @@
     "fecha": "2026-10-30T02:05:18.883953",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -519,7 +579,8 @@
     "fecha": "2026-10-30T01:51:20.851378",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Terror"
+    "categoria": "Terror",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -532,7 +593,8 @@
     "fecha": "2026-10-30T01:37:36.788310",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -545,7 +607,8 @@
     "fecha": "2026-10-30T00:59:32.333416",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Biografía"
+    "categoria": "Biografía",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -558,7 +621,8 @@
     "fecha": "2026-10-30T00:46:32.516678",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -571,7 +635,8 @@
     "fecha": "2026-10-30T00:32:51.801735",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -584,7 +649,8 @@
     "fecha": "2026-10-30T00:19:51.121293",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Terror"
+    "categoria": "Terror",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -597,7 +663,8 @@
     "fecha": "2026-10-30T00:06:20.387214",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -610,7 +677,8 @@
     "fecha": "2026-10-29T23:53:38.637354",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Biografía"
+    "categoria": "Biografía",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -636,7 +704,8 @@
     "fecha": "2026-10-29T23:40:09.816266",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -649,7 +718,8 @@
     "fecha": "2026-10-29T23:27:00.731299",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -662,7 +732,8 @@
     "fecha": "2026-10-29T23:14:42.111524",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -675,7 +746,8 @@
     "fecha": "2026-10-29T22:59:04.046353",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -688,7 +760,8 @@
     "fecha": "2026-10-29T22:44:36",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -701,7 +774,8 @@
     "fecha": "2026-10-29T22:30:05",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -714,7 +788,8 @@
     "fecha": "2026-10-29T22:15:58",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -727,7 +802,8 @@
     "fecha": "2026-10-29T22:02:27",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -740,7 +816,8 @@
     "fecha": "2026-10-29T21:49:29",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -753,7 +830,8 @@
     "fecha": "2026-10-29T21:28:51",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -766,7 +844,8 @@
     "fecha": "2026-10-29T21:13:43",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Música",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -818,7 +897,8 @@
     "fecha": "2026-10-29T20:06:16",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "In memoriam"
+    "categoria": "In memoriam",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -987,7 +1067,8 @@
     "fecha": "2026-10-29T16:04:26",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Terror y misterio"
+    "categoria": "Terror y misterio",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -1013,7 +1094,8 @@
     "fecha": "2026-10-29T14:10:49",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Terror y misterio"
+    "categoria": "Terror y misterio",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -1065,7 +1147,8 @@
     "fecha": "2026-10-29T11:43:32",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Terror y misterio"
+    "categoria": "Terror y misterio",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -1169,7 +1252,8 @@
     "fecha": "2026-10-29T09:00:16",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Terror y misterio"
+    "categoria": "Terror y misterio",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -1195,7 +1279,8 @@
     "fecha": "2026-10-29T02:44:46",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "In memoriam"
+    "categoria": "In memoriam",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -1208,7 +1293,8 @@
     "fecha": "2026-10-29T01:50:44",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Chisme"
+    "categoria": "Chisme",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -1221,7 +1307,8 @@
     "fecha": "2026-10-29T00:41:35",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Chisme"
+    "categoria": "Chisme",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -1286,7 +1373,8 @@
     "fecha": "2026-10-28T23:08:13",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Chisme"
+    "categoria": "Chisme",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -1325,7 +1413,8 @@
     "fecha": "2026-10-28T20:31:23",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Chisme"
+    "categoria": "Chisme",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -1338,7 +1427,8 @@
     "fecha": "2026-10-28T19:41:38",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Terror y misterio"
+    "categoria": "Terror y misterio",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -1351,7 +1441,8 @@
     "fecha": "2026-10-28T18:56:08",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Terror y misterio"
+    "categoria": "Terror y misterio",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -1364,7 +1455,8 @@
     "fecha": "2026-10-28T18:43:38",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "In memoriam"
+    "categoria": "In memoriam",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -1377,7 +1469,8 @@
     "fecha": "2026-10-28T18:31:07",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Chisme"
+    "categoria": "Chisme",
+    "archivo": true
   },
   {
     "tipo": "reportaje",
@@ -1442,7 +1535,8 @@
     "fecha": "2026-10-28T16:55:33",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Terror y misterio"
+    "categoria": "Terror y misterio",
+    "archivo": true
   },
   {
     "tipo": "reportaje",

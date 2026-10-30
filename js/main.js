@@ -166,7 +166,7 @@ async function cargarArticulos() {
   try {
     const res = await fetch(`data/articles.json?_=${Date.now()}`);
     if (res.ok) {
-      articulos = await res.json();
+      articulos = (await res.json()).filter(a => !a.archivo);          // el contenido de archivo (videos viejos) no compite por la portada
     }
   } catch (_) {
     // Sin artículos publicados aún — mostrar placeholder
