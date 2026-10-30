@@ -1,5 +1,18 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "¿Qué ocultaba Mac Miller tras Swimming? Del frat rap a su último día",
+    "artista": "Mac Miller",
+    "intro": "El documental sobre Mac Miller revela su ascenso, lucha con las drogas y su muerte en 2018. Desde Blue Slide Park, el primer álbum debut independiente en llegar al número uno del Billboard 200 desde 1",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/que-ocultaba-mac-miller-tras-swimming-del-frat-rap-a-su-ultimo-dia-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/que-ocultaba-mac-miller-tras-swimming-del-frat-rap-a-su-ultimo-dia-1029.jpg",
+    "fecha": "2026-10-29T18:44:24.210210",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Biografía"
+  },
+  {
     "tipo": "noticia",
     "titulo": "Kygo en México 2027: fechas, sedes y boletos",
     "artista": "Kygo",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Escena local"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades de Liam Payne",
-    "artista": "Liam Payne",
-    "intro": "En el Ensayo — Live Sessions presentó una grabación en vivo desde Azcapotzalco, CDMX, titulada “5 curiosidades de Liam Payne”. El video, disponible en la plataforma del programa, ofrece datos poco con",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-liam-payne-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-liam-payne-1029.jpg",
-    "fecha": "2026-10-29T10:09:53.277294",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Datos curiosos"
   }
 ]
