@@ -1,0 +1,16 @@
+{
+  "artista": "Elton John",
+  "slug": "elton-john",
+  "imagen": "",
+  "shorts": [],
+  "longs": [
+    {
+      "titulo": "¿Qué impulsó a Elton John a reinventarse a los 70 años? – El salto que cambió su historia",
+      "url": "https://www.youtube.com/shorts/x9957JlZgJk",
+      "fecha": "2026-10-30",
+      "tipo": "long"
+    }
+  ],
+  "tweets": [],
+  "updated": "2026-10-30 12:01"
+}
