@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "7 de octubre de 2011: el Grammy de We Found Love",
+    "artista": "We Found Love",
+    "intro": "El 7 de octubre de 2011 Rihanna lanzó junto a Calvin Harris el sencillo «We Found Love». La canción alcanzó la posición número 1 del Billboard Hot 100 y se mantuvo en la cima durante varias semanas, v",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/7-de-octubre-de-2011-el-grammy-de-we-found-love-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/7-de-octubre-de-2011-el-grammy-de-we-found-love-1029.jpg",
+    "fecha": "2026-10-29T19:23:47.694329",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Fallece Patrick Stewart, ícono de Star Trek y X-Men, a los 86 años",
     "artista": "Patrick Stewart",
     "intro": "El actor británico, conocido por sus roles como Jean-Luc Picard y el Profesor X, murió en Los Ángeles tras enfrentar Alzheimer y demencia.",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Víctor Mendívil estrena el disco “No Hay Ángeles Aquí” con Natanael Cano, Anuel AA y más",
-    "artista": "Víctor Mendívil",
-    "intro": "El artista Víctor Mendívil lanzó su nuevo álbum titulado “No Hay Ángeles Aquí”, que incluye colaboraciones de Natanael Cano, Anuel AA y otros músicos. El anuncio, publicado en el titular de Sopitas, g",
-    "telegraph_url": "https://telegra.ph/Víctor-Mendívil-estrena-el-disco-No-Hay-Ángeles-Aquí-con-Natanael-Cano-Anuel-AA-y-más-10-29",
-    "url": "https://enelensayomedia.com/notas/victor-mendivil-estrena-el-disco-no-hay-angeles-aqui-con-natanael-cano-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/victor-mendivil-estrena-el-disco-no-hay-angeles-aqui-con-natanael-cano-1029.jpg",
-    "fecha": "2026-10-29T10:56:50.537393",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Escena local"
   }
 ]
