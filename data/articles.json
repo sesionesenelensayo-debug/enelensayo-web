@@ -1,5 +1,19 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "JOSÉ SABRE MARROQUÍN: 31 años SIN SU MÚSICA",
+    "artista": "José Sabre Marroquín",
+    "intro": "El 31.º aniversario de la ausencia musical de José Sabre Marroquín se recordó en una sesión en vivo de En el Ensayo, ubicada en Azcapotzalco, CDMX. El evento, parte de la serie \"Live Sessions\" para ba",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/jose-sabre-marroquin-31-anos-sin-su-musica-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/jose-sabre-marroquin-31-anos-sin-su-musica-1030.jpg",
+    "fecha": "2026-10-30T13:20:31.342733",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
     "tipo": "noticia",
     "titulo": "José Madero anuncia concierto en Monterrey para el 6 de marzo de 2027",
     "artista": "José Madero",
@@ -1022,20 +1036,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "La historia real y los récords del grupo mexicano RBD",
-    "artista": "RBD",
-    "intro": "El fenómeno mexicano RBD no fue solo una telenovela, sino un imperio musical que redefinió las ventas en la industria latina. Con más de 15 millones de discos vendidos, el grupo formado por Anahí, Dul",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-historia-real-y-los-records-del-grupo-mexicano-rbd-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-historia-real-y-los-records-del-grupo-mexicano-rbd-1029.jpg",
-    "fecha": "2026-10-29T23:40:09.816266",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "archivo": true
   },
   {
     "tipo": "reportaje",
