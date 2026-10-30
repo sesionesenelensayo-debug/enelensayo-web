@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "9 de junio de 1978: Some Girls frente al punk",
+    "artista": "The Rolling Stones",
+    "intro": "El video titulado '9 de junio de 1978: Some Girls frente al punk' trata sobre los Rolling Stones y forma parte de 'cinco escenas de los Rolling Stones'. Esta pieza forma parte de las grabaciones en vi",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/9-de-junio-de-1978-some-girls-frente-al-punk-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/9-de-junio-de-1978-some-girls-frente-al-punk-1029.jpg",
+    "fecha": "2026-10-29T19:09:08.193788",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Glastonbury 2023: el público terminó su canción",
     "artista": "Glastonbury",
     "intro": "El cantante escocés Lewis Capaldi protagonizó uno de los momentos más destacados durante su actuación en Glastonbury 2023. Durante el concierto, el artista interrumpió la interpretación de una canción",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El Internacional Grupo La Migra lanza álbum en vivo y enfrenta disputa por su nombre",
-    "artista": "El Internacional Grupo La Migra",
-    "intro": "El Internacional Grupo La Migra presentó su nuevo álbum grabado en vivo desde la Arena CDMX. El sencillo “Sueño Americano” está disponible en plataformas digitales. Paralelamente, cuatro personas fuer",
-    "telegraph_url": "https://telegra.ph/El-Internacional-Grupo-La-Migra-lanza-álbum-en-vivo-y-enfrenta-disputa-por-su-nombre-10-29",
-    "url": "https://enelensayomedia.com/notas/el-internacional-grupo-la-migra-lanza-album-en-vivo-y-enfrenta-disputa-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-internacional-grupo-la-migra-lanza-album-en-vivo-y-enfrenta-disputa-1029.jpg",
-    "fecha": "2026-10-29T10:26:55.078651",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Escena local"
   }
 ]
