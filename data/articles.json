@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "El monstruo de Flatwoods: lo que vio Eugene Lemon en 1952",
+    "artista": "Eugene Lemon",
+    "intro": "El 12 de septiembre de 1952, en Flatwoods, Virginia Occidental, los hermanos May, otros testigos y el guardia nacional Eugene Lemon reportaron haber visto una luz roja y una figura alta en una colina.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-monstruo-de-flatwoods-lo-que-vio-eugene-lemon-en-1952-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-monstruo-de-flatwoods-lo-que-vio-eugene-lemon-en-1952-1030.jpg",
+    "fecha": "2026-10-30T07:28:30.706394",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Maná casi se disuelve y luego vendió 10 millones",
     "artista": "Maná",
     "intro": "El 29 de septiembre de 1992 la banda mexicana Maná lanzó su álbum “¿Dónde jugarán los niños?” con Warner Music, después de considerar la posibilidad de disolverse. El disco superó los 10 millones de c",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "La disculpa del Real Madrid y Mbappé a China: ¿'woke' o necesaria?",
-    "artista": "Disculpas del Real Madrid y Kylian Mbappé a China",
-    "intro": "El club y el jugador se disculpan por un meme, pero ¿es suficiente para los críticos?",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-disculpa-del-real-madrid-y-mbappe-a-china-woke-o-necesaria-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-disculpa-del-real-madrid-y-mbappe-a-china-woke-o-necesaria-1029.jpg",
-    "fecha": "2026-10-29T20:16:04.163576",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Agenda woke"
   }
 ]
