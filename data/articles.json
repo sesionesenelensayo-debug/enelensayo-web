@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Cinco hechos reales sobre la trayectoria de Janis Joplin",
+    "artista": "Janis Joplin",
+    "intro": "Un video en 'En El Ensayo — Live Sessions' presenta cinco registros exactos que explican la vida y carrera de Janis Joplin, ícono del rock y blues. La cantante, fallecida en 1970, dejó un legado imbor",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/cinco-hechos-reales-sobre-la-trayectoria-de-janis-joplin-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/cinco-hechos-reales-sobre-la-trayectoria-de-janis-joplin-1029.jpg",
+    "fecha": "2026-10-29T22:30:05.762307",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Brian Johnson: 79 años de rock con AC/DC",
     "artista": "Brian Johnson",
     "intro": "Brian Johnson, vocalista de AC/DC, celebra 79 años de vida y una trayectoria que lo ha mantenido al frente del rock mundial durante décadas. Su voz distintiva y su energía en el escenario lo han conve",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "¿Cómo un compositor construyó la banda sonora de seis décadas? Paul Simon",
-    "artista": "Paul Simon",
-    "intro": "Un recorrido por la carrera musical de Paul Simon, desde sus inicios con Simon & Garfunkel hasta sus obras maestras en solitario como Graceland y su profundo impacto en la historia de la música popula",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/como-un-compositor-construyo-la-banda-sonora-de-seis-decadas-paul-simo-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/como-un-compositor-construyo-la-banda-sonora-de-seis-decadas-paul-simo-1029.jpg",
-    "fecha": "2026-10-29T13:46:21.501654",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Biografía"
   }
 ]
