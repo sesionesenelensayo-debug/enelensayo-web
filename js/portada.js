@@ -119,10 +119,13 @@
 
   // ── Conciertos ──
   function cargaConc() {
-    get('data/conciertos.json').then(function (c) {
+    Promise.all([get('data/conciertos.json'), get('data/articles.json').catch(function () { return []; })]).then(function (r) {
+      var c = r[0], propias = (r[1] || []).filter(function (a) { return a.categoria === 'Conciertos'; }).sort(function (a, b) { return new Date(b.fecha) - new Date(a.fecha); });
       var l = $('concLista'); if (!l) return;
       var h = '';
-      if (c.eventos && c.eventos.length) {
+      if (propias.length) {
+        h = propias.slice(0, 10).map(function (a) { return '<li><a href="' + esc(a.url) + '">' + esc(a.titulo) + '</a><small>En el Ensayo · ' + fc(a.fecha) + '</small></li>'; }).join('');
+      } else if (c.eventos && c.eventos.length) {
         h = c.eventos.slice(0, 10).map(function (e) {
           var d = new Date(e.fecha + 'T12:00:00');
           return '<li><a href="' + esc(e.url) + '" target="_blank" rel="noopener nofollow"><span class="f">' + d.getDate() + ' ' + d.toLocaleDateString('es-MX', { month: 'short' }) + '</span>' + esc(e.nombre) + '</a><small>' + esc(e.recinto) + ' · ' + esc(e.ciudad) + '</small></li>';
