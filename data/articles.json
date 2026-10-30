@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "El día que Zeta Bosio fue a oír una batería",
+    "artista": "Zeta Bosio",
+    "intro": "En una anécdota que se volvió leyenda, Zeta Bosio y Gustavo Cerati visitaron a Charly Alberti para escuchar la batería del padre de este último. Ese encuentro desencadenó la formación de Soda Stereo, ",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-dia-que-zeta-bosio-fue-a-oir-una-bateria-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-dia-que-zeta-bosio-fue-a-oir-una-bateria-1030.jpg",
+    "fecha": "2026-10-30T04:06:34.412364",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Taylor Swift: 5 datos y el debut de Begin Again",
     "artista": "Taylor Swift",
     "intro": "En la última edición de En el Ensayo — Live Sessions se anunció que la canción “Begin Again” de Taylor Swift se lanzó el 1 de octubre de 2012. El programa también presentó cinco datos relevantes sobre",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Conciertos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "7 de octubre de 1978: Some Girls y 6 millones",
-    "artista": "Some Girls",
-    "intro": "El 7 de octubre de 1978, Billboard certificó el éxito comercial de la gira estadounidense de The Rolling Stones vinculada a su álbum Some Girls. El disco alcanzó el número 1 del Billboard 200 y logró ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/7-de-octubre-de-1978-some-girls-y-6-millones-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/7-de-octubre-de-1978-some-girls-y-6-millones-1029.jpg",
-    "fecha": "2026-10-29T18:23:06.527112",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
