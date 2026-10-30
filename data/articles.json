@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "¿Cómo armó Eddie Van Halen la guitarra que cambió el rock? Su historia",
+    "artista": "¿Cómo armó Eddie Van Halen la guitarra que cambió el rock? S",
+    "intro": "Un nuevo documental recorre la vida de Eddie Van Halen, desde su nacimiento en Ámsterdam en 1955 hasta su fallecimiento el 6 de octubre de 2020 en Santa Mónica. La película muestra cómo, sin dominar l",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/como-armo-eddie-van-halen-la-guitarra-que-cambio-el-rock-su-historia-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/como-armo-eddie-van-halen-la-guitarra-que-cambio-el-rock-su-historia-1029.jpg",
+    "fecha": "2026-10-29T21:01:06.543707",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Frankenstrat: 50 dólares de madera y un mástil de 90",
     "artista": "Frankenstrat",
     "intro": "La historia de la Frankenstrat se resume en una transacción económica y una modificación técnica. Eddie Van Halen adquirió un cuerpo de madera de segunda calidad y un mástil por un total de 130 dólare",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "La Odisea por Inteligencia Artificial desata polémica en redes",
-    "artista": "La Odisea generada con IA",
-    "intro": "El estreno de la versión de La Odisea generada por inteligencia artificial desata un intenso debate cultural sobre la tradición y la tecnología actual.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-odisea-por-inteligencia-artificial-desata-polemica-en-redes-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-odisea-por-inteligencia-artificial-desata-polemica-en-redes-1029.jpg",
-    "fecha": "2026-10-29T12:37:41.437788",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Agenda woke"
   }
 ]
