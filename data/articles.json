@@ -1,6 +1,36 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Chisme de pasillo: Ernesto Chavana y el dron que golpeó a Isabella Rojas",
+    "artista": "",
+    "intro": "Circulan en medios de espectáculos rumores de que un dron operado por Ernesto Chavana impactó a la cantante Isabella Rojas. La información proviene de ABCn",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/chisme-de-pasillo-ernesto-chavana-y-el-dron-que-golpeo-a-isabella-roja-1028.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/chisme-de-pasillo-ernesto-chavana-y-el-dron-que-golpeo-a-isabella-roja-1028.jpg",
+    "fecha": "2026-10-30T14:14:24.540727",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "archivo": true,
+    "fecha_original": "2026-10-28T18:31:07",
+    "actualizada": true
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "FUD LECLERC: 16 años SIN SU MÚSICA",
+    "artista": "FUD LECLERC",
+    "intro": "El 20 de septiembre de 2010 el silencio se apoderó del escenario cuando falleció Fud Leclerc, el cantante belga que representó a su país en Eurovisión en cuatro ocasiones. Dieciséis años después, su a",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/fud-leclerc-16-anos-sin-su-musica-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fud-leclerc-16-anos-sin-su-musica-1030.jpg",
+    "fecha": "2026-10-30T14:11:10.549151",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "5 curiosidades que no sabías de Claude Lombard",
     "artista": "Claude Lombard",
     "intro": "En el marco de la serie En el Ensayo — Live Sessions, el estudio de Azcapotzalco, CDMX, presentó una grabación dedicada a Claude Lombard, la cantante belga fallecida en 2021. El programa, titulado “5 ",
@@ -1066,20 +1096,6 @@
   },
   {
     "tipo": "reportaje",
-    "titulo": "La boda de Paul McCartney y Nancy Shevell en Londres",
-    "artista": "Paul McCartney",
-    "intro": "El legendario Beatle Paul McCartney contrajo matrimonio con la empresaria estadounidense Nancy Shevell en una ceremonia civil celebrada el domingo 9 de octubre de 2011 en Londres. El enlace, íntimo y ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-boda-de-paul-mccartney-y-nancy-shevell-en-londres-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-boda-de-paul-mccartney-y-nancy-shevell-en-londres-1030.jpg",
-    "fecha": "2026-10-30T00:06:20.387214",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
     "titulo": "Sinéad O'Connor: El grito de la mujer que desafió al Vaticano",
     "artista": "Sinéad O'Connor",
     "intro": "El nuevo video de En El Ensayo Media titulado “Sinéad O'Connor: El grito de la mujer que desafió al Vaticano” repasa la trayectoria de la cantante irlandesa, desde el éxito mundial de “Nothing Compare",
@@ -1688,20 +1704,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Chisme de pasillo: Ernesto Chavana y el dron que golpeó a Isabella Rojas",
-    "artista": "",
-    "intro": "Circulan en medios de espectáculos rumores de que un dron operado por Ernesto Chavana impactó a la cantante Isabella Rojas. La información proviene de ABCn",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/chisme-de-pasillo-ernesto-chavana-y-el-dron-que-golpeo-a-isabella-roja-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/chisme-de-pasillo-ernesto-chavana-y-el-dron-que-golpeo-a-isabella-roja-1028.jpg",
-    "fecha": "2026-10-28T18:31:07",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
     "archivo": true
   },
   {
