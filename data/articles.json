@@ -1,5 +1,44 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Kygo en México 2027: fechas, sedes y boletos",
+    "artista": "Kygo",
+    "intro": "El productor noruego Kygo regresa a México en 2027 con dos conciertos masivos y preventas exclusivas.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/kygo-en-mexico-2027-fechas-sedes-y-boletos-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/kygo-en-mexico-2027-fechas-sedes-y-boletos-1029.jpg",
+    "fecha": "2026-10-29T18:37:14.446549",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
+    "tipo": "noticia",
+    "titulo": "Franco Escamilla lleva su show 'El Juicio' al Auditorio Nacional el 6 de febrero de 2027",
+    "artista": "Franco Escamilla",
+    "intro": "El comediante mexicano regresa a CDMX con su nuevo espectáculo de stand up en el Auditorio Nacional.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/franco-escamilla-lleva-su-show-el-juicio-al-auditorio-nacional-el-6-de-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/franco-escamilla-lleva-su-show-el-juicio-al-auditorio-nacional-el-6-de-1029.jpg",
+    "fecha": "2026-10-29T18:34:04.541164",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
+    "tipo": "noticia",
+    "titulo": "Bronco anuncia su Inquebrantable Tour 2027",
+    "artista": "Bronco",
+    "intro": "La emblemática agrupación mexicana Bronco confirmó su gira internacional para 2027 con presentaciones en varios países y un gran cierre este año.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/bronco-anuncia-su-inquebrantable-tour-2027-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/bronco-anuncia-su-inquebrantable-tour-2027-1029.jpg",
+    "fecha": "2026-10-29T18:33:04.947270",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "7 de octubre de 1978: Some Girls y 6 millones",
     "artista": "Some Girls",
@@ -610,44 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece Lauri “Cyanide” Happonen, leyenda del Mundial 2011",
-    "artista": "Fallecimiento de Cyanide",
-    "intro": "El exjugador finlandés de Fnatic, campeón mundial a los 16 años, murió a los 31 años; su partida deja un vacío en la historia de los esports.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fallece-lauri-cyanide-happonen-leyenda-del-mundial-2011-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-lauri-cyanide-happonen-leyenda-del-mundial-2011-1029.jpg",
-    "fecha": "2026-10-29T10:09:27.633670",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Esports"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Gustavo Cordera: el vendedor de autos que fundó Bersuit",
-    "artista": "Gustavo Cordera",
-    "intro": "En 1988 Gustavo Cordera decidió vender su concesionaria automotriz tras un viaje a Río de Janeiro y dedicarse por completo a la música. Ese mismo año fundó Bersuit Vergarabat, grupo que lideró hasta 2",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/gustavo-cordera-el-vendedor-de-autos-que-fundo-bersuit-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/gustavo-cordera-el-vendedor-de-autos-que-fundo-bersuit-1029.jpg",
-    "fecha": "2026-10-29T09:55:18.231652",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "¿Qué pasó realmente en Buenos Aires? La historia oculta detrás de la caída",
-    "artista": "¿Qué pasó realmente en Buenos Aires? La historia oculta detr",
-    "intro": "El nuevo reportaje explora la vida de Liam Payne, desde sus inicios en Wolverhampton hasta su fallecimiento en Buenos Aires. La pieza se basa en material audiovisual con licencia Creative Commons y bu",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/que-paso-realmente-en-buenos-aires-la-historia-oculta-detras-de-la-cai-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/que-paso-realmente-en-buenos-aires-la-historia-oculta-detras-de-la-cai-1029.jpg",
-    "fecha": "2026-10-29T09:38:58.892932",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Biografía"
   }
 ]
