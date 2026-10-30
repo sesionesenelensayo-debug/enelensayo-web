@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "DUNCAN SHEIK: Cambió el pop por la grandeza",
+    "artista": "Duncan Sheik",
+    "intro": "Un nuevo video en YouTube explora la decisión de Duncan Sheik de abandonar la fama del pop para perseguir su verdadera pasión. El artista, fallecido en 2026, dejó un legado que va más allá de su éxito",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/duncan-sheik-cambio-el-pop-por-la-grandeza-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/duncan-sheik-cambio-el-pop-por-la-grandeza-1030.jpg",
+    "fecha": "2026-10-30T14:50:18.636394",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "SYLVANO BUSSOTTI: 5 años SIN SU MÚSICA",
     "artista": "Sylvano Bussotti",
     "intro": "Hoy se cumplen 5 años desde que Sylvano Bussotti nos dejó. El artista italiano es especialmente conocido como compositor, aunque su labor creativa abarcó múltiples disciplinas. A cinco años de su fall",
@@ -1077,20 +1091,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Biografía",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Rosalía y el Premio Billboard Salón de la Fama 2026",
-    "artista": "Rosalía",
-    "intro": "Telemundo y Billboard anunciaron el 1 de octubre de 2026 que la cantante española Rosalía será honrada con el Premio Billboard Salón de la Fama 2026. El galardón se entregará durante la gala de los Pr",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/rosalia-y-el-premio-billboard-salon-de-la-fama-2026-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/rosalia-y-el-premio-billboard-salon-de-la-fama-2026-1030.jpg",
-    "fecha": "2026-10-30T00:46:32.516678",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
     "archivo": true
   },
   {
