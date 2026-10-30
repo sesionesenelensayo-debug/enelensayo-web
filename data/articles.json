@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "El trágico final del guitarrista de Paul McCartney y Wings",
+    "artista": "Paul McCartney",
+    "intro": "Un apartamento en Londres fue el escenario donde se encontró sin vida el cuerpo de Jimmy McCulloch, guitarrista escocés que colaboró con Paul McCartney en Wings y falleció en 1979 a los veintiséis año",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-tragico-final-del-guitarrista-de-paul-mccartney-y-wings-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-tragico-final-del-guitarrista-de-paul-mccartney-y-wings-1030.jpg",
+    "fecha": "2026-10-30T08:23:12.382299",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "El compositor alemán detrás del éxito de 1967",
     "artista": "El compositor alemán detrás del éxito de 1967",
     "intro": "En una breve nota de En El Ensayo se revela que la obra del compositor alemán Engelbert Humperdinck, autor de la ópera Hänsel y Gretel, alcanzó la lista de éxitos en 1967. El dato destaca cómo una pie",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Frankenstrat: 50 dólares de madera y un mástil de 90",
-    "artista": "Frankenstrat",
-    "intro": "La historia de la Frankenstrat se resume en una transacción económica y una modificación técnica. Eddie Van Halen adquirió un cuerpo de madera de segunda calidad y un mástil por un total de 130 dólare",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/frankenstrat-50-dolares-de-madera-y-un-mastil-de-90-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/frankenstrat-50-dolares-de-madera-y-un-mastil-de-90-1029.jpg",
-    "fecha": "2026-10-29T20:48:02.149395",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
