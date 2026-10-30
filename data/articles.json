@@ -1,5 +1,19 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "LUÍS GÓIS: 14 años SIN SU MÚSICA",
+    "artista": "LUÍS GÓIS",
+    "intro": "En 2012, Portugal dijo adiós a Luiz Fernando de Sousa Pires de Góis, un hombre que dejó una huella imborrable en el mundo de la música y la medicina. Conocido como Luiz Góis, este artista portugués es",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/luis-gois-14-anos-sin-su-musica-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/luis-gois-14-anos-sin-su-musica-1030.jpg",
+    "fecha": "2026-10-30T15:03:07.801052",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
     "tipo": "noticia",
     "titulo": "NSQK anuncia concierto en la Arena Monterrey para presentar 'MOSCA'",
     "artista": "NSQK",
@@ -1076,20 +1090,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Terror",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El histórico concierto de Juan Gabriel en 2014",
-    "artista": "Juan Gabriel",
-    "intro": "El 3 de octubre de 2014 Juan Gabriel ofreció un show de más de tres horas en el Auditorio Nacional de la Ciudad de México ante más de 9,600 espectadores. La actuación, acompañada por mariachi y orques",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-historico-concierto-de-juan-gabriel-en-2014-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-historico-concierto-de-juan-gabriel-en-2014-1030.jpg",
-    "fecha": "2026-10-30T01:37:36.788310",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
     "archivo": true
   },
   {
