@@ -1,6 +1,19 @@
 [
   {
     "tipo": "noticia",
+    "titulo": "U2 suma cuarta fecha en CDMX para marzo de 2027 tras agotar boletos",
+    "artista": "U2",
+    "intro": "La banda irlandesa añade un show más en el GNP Seguros para el 2 de marzo de 2027, continuando su gira mundial.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/u2-suma-cuarta-fecha-en-cdmx-para-marzo-de-2027-tras-agotar-boletos-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/u2-suma-cuarta-fecha-en-cdmx-para-marzo-de-2027-tras-agotar-boletos-1029.jpg",
+    "fecha": "2026-10-29T19:40:16.440507",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
+    "tipo": "noticia",
     "titulo": "NSQK confirma show en Arena Monterrey para abril de 2027 con su gira mundial",
     "artista": "NSQK",
     "intro": "El regiomontano Rodrigo Torres de la Garza anuncia fecha y preventa para su presentación en la capital de Nuevo León.",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "La criatura de ojos rojos y la tragedia del puente Silver",
-    "artista": "Silver",
-    "intro": "En una nueva publicación de En El Ensayo, se invita al público a explorar la historia documentada del Mothman en Point Pleasant y el derrumbe del Silver Bridge en 1967. La pieza plantea la pregunta de",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-criatura-de-ojos-rojos-y-la-tragedia-del-puente-silver-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-criatura-de-ojos-rojos-y-la-tragedia-del-puente-silver-1029.jpg",
-    "fecha": "2026-10-29T11:27:35.258604",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
