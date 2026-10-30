@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Valentich: «No es un avión» y 17 segundos de silencio",
+    "artista": "Valentich",
+    "intro": "El 21 de octubre de 1978, el piloto Frederick Valentich desapareció sobre el Estrecho de Bass tras reportar una aeronave desconocida. Su última transmisión incluyó ruidos metálicos y su frase final: '",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/valentich-no-es-un-avion-y-17-segundos-de-silencio-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/valentich-no-es-un-avion-y-17-segundos-de-silencio-1029.jpg",
+    "fecha": "2026-10-29T21:49:29.867427",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Eclipse 1991: el objeto plateado que nadie explicó en la CDMX",
     "artista": "Eclipse 1991: el objeto plateado que nadie explicó en la CDM",
     "intro": "El 11 de julio de 1991 la Ciudad de México vivió un eclipse total que duró casi siete minutos. A las 13:22, según un reporte ufológico, cientos de observadores capturaron en video lo que describieron ",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades de Joey Belladonna",
-    "artista": "Joey Belladonna",
-    "intro": "Joey Belladonna, vocalista de heavy metal y thrash metal conocido por su trabajo con Anthrax, concentra la atención actual tras la difusión de materiales que repasan curiosidades sobre su figura artís",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-joey-belladonna-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-joey-belladonna-1029.jpg",
-    "fecha": "2026-10-29T13:08:09.231346",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Datos curiosos"
   }
 ]
