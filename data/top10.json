@@ -1,0 +1,215 @@
+{
+ "semana": "2026-W44",
+ "rango": "Del 23 al 29 de octubre",
+ "url_nota": "https://enelensayomedia.com/notas/top-10-semanal-lo-mas-escuchado-en-mexico-y-en-el-mundo-29-de-octubre-1029.html",
+ "mx": [
+  {
+   "pos": 1,
+   "mov": "=",
+   "artista": "KAROL G",
+   "cancion": "BbY WOW",
+   "extra": "Judeline, rusowsky",
+   "semanas": 11,
+   "pico": 1,
+   "streams": "9,624,152"
+  },
+  {
+   "pos": 2,
+   "mov": "=",
+   "artista": "Natanael Cano",
+   "cancion": "OLIVIA LA FLAKA",
+   "extra": "Tito Double P, Victor Mendivil, Ovi",
+   "semanas": 4,
+   "pico": 2,
+   "streams": "8,252,885"
+  },
+  {
+   "pos": 3,
+   "mov": "=",
+   "artista": "Neton Vega",
+   "cancion": "RIKI",
+   "extra": "",
+   "semanas": 11,
+   "pico": 1,
+   "streams": "6,463,845"
+  },
+  {
+   "pos": 4,
+   "mov": "+32",
+   "artista": "Fuerza Regida",
+   "cancion": "Suzuki (from GTAVI: The Album)",
+   "extra": "Grand Theft Auto VI",
+   "semanas": 2,
+   "pico": 4,
+   "streams": "6,000,301"
+  },
+  {
+   "pos": 5,
+   "mov": "+1",
+   "artista": "Neton Vega",
+   "cancion": "Nalguita y Teta",
+   "extra": "",
+   "semanas": 30,
+   "pico": 1,
+   "streams": "5,342,719"
+  },
+  {
+   "pos": 6,
+   "mov": "-1",
+   "artista": "LOS DOS DE TAMAULIPAS",
+   "cancion": "Ayúdame",
+   "extra": "",
+   "semanas": 30,
+   "pico": 2,
+   "streams": "5,212,513"
+  },
+  {
+   "pos": 7,
+   "mov": "=",
+   "artista": "Omar Camacho",
+   "cancion": "King of Watches",
+   "extra": "",
+   "semanas": 20,
+   "pico": 6,
+   "streams": "5,072,969"
+  },
+  {
+   "pos": 8,
+   "mov": "-4",
+   "artista": "El Rabbanito",
+   "cancion": "Dandy Hats",
+   "extra": "",
+   "semanas": 12,
+   "pico": 4,
+   "streams": "4,721,810"
+  },
+  {
+   "pos": 9,
+   "mov": "-1",
+   "artista": "Junior H",
+   "cancion": "DEMENCIA",
+   "extra": "Gael Valenzuela",
+   "semanas": 36,
+   "pico": 4,
+   "streams": "4,637,264"
+  },
+  {
+   "pos": 10,
+   "mov": "+8",
+   "artista": "Natanael Cano",
+   "cancion": "Mar Azul",
+   "extra": "",
+   "semanas": 8,
+   "pico": 9,
+   "streams": "4,399,770"
+  }
+ ],
+ "int": [
+  {
+   "pos": 1,
+   "mov": "NEW",
+   "artista": "Tate McRae",
+   "cancion": "Housewife",
+   "extra": "",
+   "semanas": 1,
+   "pico": 1,
+   "streams": "39,124,791"
+  },
+  {
+   "pos": 2,
+   "mov": "-1",
+   "artista": "KAROL G",
+   "cancion": "BbY WOW",
+   "extra": "Judeline, rusowsky",
+   "semanas": 10,
+   "pico": 1,
+   "streams": "35,983,567"
+  },
+  {
+   "pos": 3,
+   "mov": "-1",
+   "artista": "ADÉLA",
+   "cancion": "Nicole Kidman",
+   "extra": "",
+   "semanas": 7,
+   "pico": 2,
+   "streams": "32,192,657"
+  },
+  {
+   "pos": 4,
+   "mov": "-1",
+   "artista": "ADÉLA",
+   "cancion": "Ain't In LA",
+   "extra": "",
+   "semanas": 12,
+   "pico": 3,
+   "streams": "26,199,908"
+  },
+  {
+   "pos": 5,
+   "mov": "-1",
+   "artista": "Olivia Rodrigo",
+   "cancion": "the cure",
+   "extra": "",
+   "semanas": 22,
+   "pico": 2,
+   "streams": "24,280,538"
+  },
+  {
+   "pos": 6,
+   "mov": "NEW",
+   "artista": "Olivia Rodrigo",
+   "cancion": "expectations",
+   "extra": "Chappell Roan",
+   "semanas": 1,
+   "pico": 6,
+   "streams": "23,596,646"
+  },
+  {
+   "pos": 7,
+   "mov": "-1",
+   "artista": "Ashe",
+   "cancion": "Stop The Wedding!",
+   "extra": "",
+   "semanas": 6,
+   "pico": 6,
+   "streams": "22,801,057"
+  },
+  {
+   "pos": 8,
+   "mov": "-3",
+   "artista": "Malcolm Todd",
+   "cancion": "Earrings",
+   "extra": "",
+   "semanas": 30,
+   "pico": 1,
+   "streams": "20,364,756"
+  },
+  {
+   "pos": 9,
+   "mov": "=",
+   "artista": "Katy Perry",
+   "cancion": "The One That Got Away",
+   "extra": "",
+   "semanas": 31,
+   "pico": 4,
+   "streams": "19,447,550"
+  },
+  {
+   "pos": 10,
+   "mov": "-3",
+   "artista": "Olivia Rodrigo",
+   "cancion": "stupid song",
+   "extra": "",
+   "semanas": 19,
+   "pico": 1,
+   "streams": "19,261,710"
+  }
+ ],
+ "verif": {
+  "mx": 1,
+  "int": 4,
+  "mx_dia": 10
+ },
+ "video": ""
+}
