@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Dalia Negra: la joven que apareció partida en dos",
+    "artista": "Dalia Negra",
+    "intro": "En enero de 1947, Elizabeth Short, de 22 años, fue vista por última vez en el Biltmore de Los Ángeles. Seis días después, su cuerpo apareció en un terreno baldío de Leimert Park. El asesino nunca fue ",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/dalia-negra-la-joven-que-aparecio-partida-en-dos-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/dalia-negra-la-joven-que-aparecio-partida-en-dos-1029.jpg",
+    "fecha": "2026-10-29T18:01:07.900366",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Peter Hernández, Elvis niño y un Grammy en 2016",
     "artista": "Peter Hernández",
     "intro": "La figura de Peter Hernández resurge en el análisis musical actual bajo una perspectiva que examina su trayectoria a través de múltiples facetas. Lejos de los convencionalismos, la revisión de su carr",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece Cuauhtémoc Cárdenas a los 92 años, figura clave de la izquierda mexicana",
-    "artista": "Cuauhtémoc Cárdenas",
-    "intro": "El ingeniero y político Cuauhtémoc Cárdenas Solórzano murió el 28 de octubre de 2026 a los 92 años en la Ciudad de México. Su fallecimiento, confirmado por la presidenta Claudia Sheinbaum en la red so",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fallece-cuauhtemoc-cardenas-a-los-92-anos-figura-clave-de-la-izquierda-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-cuauhtemoc-cardenas-a-los-92-anos-figura-clave-de-la-izquierda-1029.jpg",
-    "fecha": "2026-10-29T09:05:51.128004",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   }
 ]
