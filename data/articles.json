@@ -1,5 +1,18 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "Frankenstrat: 50 dólares de madera y un mástil de 90",
+    "artista": "Frankenstrat",
+    "intro": "La historia de la Frankenstrat se resume en una transacción económica y una modificación técnica. Eddie Van Halen adquirió un cuerpo de madera de segunda calidad y un mástil por un total de 130 dólare",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/frankenstrat-50-dolares-de-madera-y-un-mastil-de-90-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/frankenstrat-50-dolares-de-madera-y-un-mastil-de-90-1029.jpg",
+    "fecha": "2026-10-29T20:48:02.149395",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
     "tipo": "noticia",
     "titulo": "La Gusana Ciega llega a Monterrey el 28 de noviembre con gira Claroscuro",
     "artista": "La Gusana Ciega",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Agenda woke"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Bing Crosby: el cantante con más de 1 600 canciones grabadas",
-    "artista": "Bing Crosby",
-    "intro": "Bing Crosby marcó la historia de la música mundial con una trayectoria que dejó más de 1 600 canciones grabadas. Su estilo íntimo de canto inspiró a figuras fundamentales de la música, incluyendo a Jo",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/bing-crosby-el-cantante-con-mas-de-1-600-canciones-grabadas-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/bing-crosby-el-cantante-con-mas-de-1-600-canciones-grabadas-1029.jpg",
-    "fecha": "2026-10-29T12:16:13.809970",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
