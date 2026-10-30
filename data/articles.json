@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Julio Jaramillo: 91 años y 200 000 personas",
+    "artista": "Julio Jaramillo",
+    "intro": "Este 1 de octubre de 2026 Ecuador conmemora el Día del Pasillo y recuerda a Julio Jaramillo, el Ruiseñor de América, a 91 años de su nacimiento. La noticia destaca que el país sigue cantando su legado",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/julio-jaramillo-91-anos-y-200-000-personas-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/julio-jaramillo-91-anos-y-200-000-personas-1030.jpg",
+    "fecha": "2026-10-30T03:39:34.912180",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "¿Cómo un hombre que no caminaba vendió 300 millones de discos? Julio Iglesias",
     "artista": "Julio Iglesias",
     "intro": "Una nueva recopilación de datos confirma que Julio Iglesias, nacido en Madrid en 1943, ha superado los 300 millones de copias vendidas en todo el mundo, consolidándose como uno de los artistas más exi",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Esports"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Dalia Negra: la joven que apareció partida en dos",
-    "artista": "Dalia Negra",
-    "intro": "En enero de 1947, Elizabeth Short, de 22 años, fue vista por última vez en el Biltmore de Los Ángeles. Seis días después, su cuerpo apareció en un terreno baldío de Leimert Park. El asesino nunca fue ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/dalia-negra-la-joven-que-aparecio-partida-en-dos-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/dalia-negra-la-joven-que-aparecio-partida-en-dos-1029.jpg",
-    "fecha": "2026-10-29T18:01:07.900366",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
