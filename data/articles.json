@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Eclipse 1991: el objeto plateado que nadie explicó en la CDMX",
+    "artista": "Eclipse 1991: el objeto plateado que nadie explicó en la CDM",
+    "intro": "El 11 de julio de 1991 la Ciudad de México vivió un eclipse total que duró casi siete minutos. A las 13:22, según un reporte ufológico, cientos de observadores capturaron en video lo que describieron ",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/eclipse-1991-el-objeto-plateado-que-nadie-explico-en-la-cdmx-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/eclipse-1991-el-objeto-plateado-que-nadie-explico-en-la-cdmx-1029.jpg",
+    "fecha": "2026-10-29T21:28:51.487584",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "6 de octubre de 2008: Metallica no soltó el número 1",
     "artista": "Metallica",
     "intro": "El 6 de octubre de 2008, Metallica mantenía su posición en la cima de la industria musical estadounidense. El álbum Death Magnetic seguía en el puesto número 1 del Billboard 200, impulsado por la vent",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El día que el ejército atrapó un platillo volador en Roswell",
-    "artista": "Roswell",
-    "intro": "En julio de 1947, un ranchero de Nuevo México halló restos extraños que desataron el misterio de Roswell. Las preguntas sobre si se trató de un globo meteorológico o de un secreto militar han permanec",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-dia-que-el-ejercito-atrapo-un-platillo-volador-en-roswell-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-dia-que-el-ejercito-atrapo-un-platillo-volador-en-roswell-1029.jpg",
-    "fecha": "2026-10-29T12:55:56.291615",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
