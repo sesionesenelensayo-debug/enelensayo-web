@@ -1,6 +1,19 @@
 [
   {
     "tipo": "noticia",
+    "titulo": "José Madero anuncia concierto en Monterrey para el 6 de marzo de 2027",
+    "artista": "José Madero",
+    "intro": "La venta de boletos inicia el 23 de octubre a las 11:00 a.m. vía Ticketmaster, sin preventa y con acceso igualitario para todos los fans.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/jose-madero-anuncia-concierto-en-monterrey-para-el-6-de-marzo-de-2027-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/jose-madero-anuncia-concierto-en-monterrey-para-el-6-de-marzo-de-2027-1030.jpg",
+    "fecha": "2026-10-30T13:14:20.909826",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
+    "tipo": "noticia",
     "titulo": "Centimillimental confirma conciertos en México para marzo 2025",
     "artista": "CENTIMILLIMENTAL",
     "intro": "Los shows del proyecto de Atsushi se agotaron en minutos, marcando un récord para un acto japonés en la CDMX.",
