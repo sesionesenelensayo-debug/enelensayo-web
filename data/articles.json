@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "VICTOR JARA: 53 años SIN SU MÚSICA",
+    "artista": "Victor Jara",
+    "intro": "A 53 años sin su música, la memoria de Víctor Jara sigue marcada por los hechos trágicos de su asesinato. La información disponible señala que el músico fue asesinado con más de cuarenta disparos en u",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/victor-jara-53-anos-sin-su-musica-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/victor-jara-53-anos-sin-su-musica-1030.jpg",
+    "fecha": "2026-10-30T17:24:07.783704",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "MARC BOLAN: 49 años SIN SU MÚSICA",
     "artista": "Marc Bolan",
     "intro": "Hoy se cumplen 49 años desde que Marc Bolan nos dejó. Mark Feld, conocido artísticamente como Marc Bolan, fue un músico, compositor, actor y cantante británico, y una de las figuras más populares del ",
@@ -1180,20 +1194,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Terror y misterio",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Diátlov: 9 esquiadores dejaron su tienda y murieron",
-    "artista": "Diátlov",
-    "intro": "En febrero de 1959, nueve excursionistas experimentados fallecieron en los montes Urales después de dejar su tienda en la ladera de Jólat Siajl. La tienda presentaba cortes internos y varios cuerpos m",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/diatlov-9-esquiadores-dejaron-su-tienda-y-murieron-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/diatlov-9-esquiadores-dejaron-su-tienda-y-murieron-1030.jpg",
-    "fecha": "2026-10-30T04:20:24.171722",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
     "archivo": true
   },
   {
