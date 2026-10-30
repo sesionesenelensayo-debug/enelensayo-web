@@ -381,7 +381,18 @@
       </div>
       <div class="per-caja">
         <div class="per-info">
-          <h3>Suscríbete por correo</h3>
+          <h3>Recibe El Periódico en tu correo</h3>
+          <form class="nlf" id="nlForm" novalidate>
+            <div class="nlr"><input type="email" name="email" placeholder="tu@correo.com" required autocomplete="email" aria-label="Tu correo electrónico">
+              <input type="text" name="web" tabindex="-1" autocomplete="off" style="position:absolute;left:-9999px" aria-hidden="true">
+              <button type="submit" class="sx-mas">Suscribirme</button></div>
+            <label class="nla"><input type="checkbox" name="acepto"> Acepto recibir el newsletter y el <a href="privacy.html">aviso de privacidad</a></label>
+            <div class="nlm" id="nlMsg" role="status"></div>
+          </form>
+          <p style="font-size:.85rem;opacity:.75">Gratis, de lunes a viernes, sin spam. Te das de baja con un clic desde el propio correo. ¿Prefieres Telegram? Usa los botones de abajo.</p>
+        </div>
+        <div class="per-info">
+          <h3>Suscríbete por Telegram</h3>
           <p>Abre nuestro bot de Telegram, escribe tu correo y listo (20 segundos). Si no lo ves al día siguiente, revisa Spam o Promociones.</p>
           <a class="sx-mas per-bt" href="https://t.me/SesionesEEEbot?start=newsletter" target="_blank" rel="noopener">✉️ Suscribirme por correo</a>
           <a class="sx-mas per-bt" href="https://t.me/enelensayomedia" target="_blank" rel="noopener">✈️ O únete al canal de Telegram</a>
@@ -665,6 +676,7 @@
   <script src="js/cuentas.js?v=20261029a"></script>
   <script src="js/top10.js?v=20261030a"></script>
   <script src="js/noticias.js?v=20261030a"></script>
+  <script src="js/newsletter.js?v=20261030a"></script>
   <script src="js/exclusivas.js?v=20261029b"></script>
   <script src="js/anuncios.js"></script>
   <script src="js/portada.js?v=20261029b"></script>
