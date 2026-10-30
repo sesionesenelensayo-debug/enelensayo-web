@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Marty Stuart: de Delaware 1972 a la banda de Johnny Cash",
+    "artista": "Marty Stuart",
+    "intro": "Marty Stuart, nacido el 30 de septiembre de 1958 en Mississippi, subió al escenario con Lester Flatt en Delaware en 1972 y, tras varios años con la banda de Flatt, pasó a tocar en la banda de gira de ",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/marty-stuart-de-delaware-1972-a-la-banda-de-johnny-cash-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/marty-stuart-de-delaware-1972-a-la-banda-de-johnny-cash-1030.jpg",
+    "fecha": "2026-10-30T05:00:28.455615",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "¿Por qué dejó de cantar Mary Ford? La voz detrás de «How High the Moon»",
     "artista": "Mary Ford",
     "intro": "Mary Ford, nacida Iris Colleen Summers en 1924, alcanzó la fama en la década de 1950 junto a su esposo Les Paul. Su versión de \"How High the Moon\" lideró las listas estadounidenses entre abril y junio",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "¿Qué ocultaba Mac Miller tras Swimming? Del frat rap a su último día",
-    "artista": "Mac Miller",
-    "intro": "El documental sobre Mac Miller revela su ascenso, lucha con las drogas y su muerte en 2018. Desde Blue Slide Park, el primer álbum debut independiente en llegar al número uno del Billboard 200 desde 1",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/que-ocultaba-mac-miller-tras-swimming-del-frat-rap-a-su-ultimo-dia-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/que-ocultaba-mac-miller-tras-swimming-del-frat-rap-a-su-ultimo-dia-1029.jpg",
-    "fecha": "2026-10-29T18:44:24.210210",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Biografía"
   }
 ]
