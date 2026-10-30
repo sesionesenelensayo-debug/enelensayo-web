@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "El OVNI sumergido de Shag Harbour | Caso Real 1967",
+    "artista": "Shag Harbour",
+    "intro": "El 4 de octubre de 1967, varios testigos en la pequeña aldea pesquera de Shag Harbour, Nueva Escocia, observaron un objeto con luces que descendió sobre la bahía. Marina, Fuerza Aérea, la Policía y eq",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-ovni-sumergido-de-shag-harbour-caso-real-1967-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-ovni-sumergido-de-shag-harbour-caso-real-1967-1030.jpg",
+    "fecha": "2026-10-30T01:51:20.851378",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Terror"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "El histórico concierto de Juan Gabriel en 2014",
     "artista": "Juan Gabriel",
     "intro": "El 3 de octubre de 2014 Juan Gabriel ofreció un show de más de tres horas en el Auditorio Nacional de la Ciudad de México ante más de 9,600 espectadores. La actuación, acompañada por mariachi y orques",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Sean Lennon: nació el 9 de octubre de 1975, cumpleaños de Jo",
-    "artista": "Sean Lennon",
-    "intro": "Sean Lennon, hijo de John Lennon y Yoko Ono, cumple 51 años hoy. Nació en Nueva York el 9 de octubre de 1975, exactamente el día en que su padre cumplía 35 años. Con tres discos como solista, el más r",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/sean-lennon-nacio-el-9-de-octubre-de-1975-cumpleanos-de-jo-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/sean-lennon-nacio-el-9-de-octubre-de-1975-cumpleanos-de-jo-1029.jpg",
-    "fecha": "2026-10-29T16:29:03.946698",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
