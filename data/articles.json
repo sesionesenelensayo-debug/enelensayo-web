@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Rosalía y el Premio Billboard Salón de la Fama 2026",
+    "artista": "Rosalía",
+    "intro": "Telemundo y Billboard anunciaron el 1 de octubre de 2026 que la cantante española Rosalía será honrada con el Premio Billboard Salón de la Fama 2026. El galardón se entregará durante la gala de los Pr",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/rosalia-y-el-premio-billboard-salon-de-la-fama-2026-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/rosalia-y-el-premio-billboard-salon-de-la-fama-2026-1030.jpg",
+    "fecha": "2026-10-30T00:46:32.516678",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "El día que Sinéad O'Connor rompió la foto del Papa",
     "artista": "Sinéad O'Connor",
     "intro": "El 3 de octubre de 1992, durante una transmisión en vivo de Saturday Night Live, Sinéad O'Connor mostró una fotografía del Papa Juan Pablo II y la rompió como protesta contra los abusos en la Iglesia ",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme internacional"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El científico mexicano que desapareció sin dejar rastro · Jacobo Grinberg",
-    "artista": "Jacobo Grinberg",
-    "intro": "El científico mexicano Jacobo Grinberg desapareció misteriosamente el 8 de diciembre de 1994, tras investigar la conciencia y el chamanismo. Años después de su misteriosa ausencia sin dejar rastro, su",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-cientifico-mexicano-que-desaparecio-sin-dejar-rastro-jacobo-grinber-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-cientifico-mexicano-que-desaparecio-sin-dejar-rastro-jacobo-grinber-1029.jpg",
-    "fecha": "2026-10-29T16:04:26.717734",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Terror"
   }
 ]
