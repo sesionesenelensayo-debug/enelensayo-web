@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Fidel Nadal: 61 años de reggae y punk subterráneo",
+    "artista": "Fidel Nadal",
+    "intro": "En el día de su 61.º cumpleaños, En El Ensayo vuelve la mirada a Fidel Nadal, figura clave del reggae y del punk underground de Argentina. La publicación plantea la pregunta “¿Quién llevó las raíces d",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/fidel-nadal-61-anos-de-reggae-y-punk-subterraneo-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fidel-nadal-61-anos-de-reggae-y-punk-subterraneo-1029.jpg",
+    "fecha": "2026-10-29T23:27:00.731299",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "La historia secreta de Sting",
     "artista": "Sting",
     "intro": "Un video titulado 'La historia secreta de Sting' promete revelar el tercer dato menos conocido sobre Gordon Matthew Thomas Sumner, el nombre real del icónico músico británico. Este contenido, disponib",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Aleks Syntek y su situación actual",
-    "artista": "Aleks Syntek",
-    "intro": "El cantautor mexicano Aleks Syntek enfrenta un periodo de cambios y ajustes en su carrera. Reportes de medios señalan situaciones médicas y personales recientes que han impactado sus actividades profe",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/aleks-syntek-y-su-situacion-actual-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/aleks-syntek-y-su-situacion-actual-1029.jpg",
-    "fecha": "2026-10-29T14:15:37.847147",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   }
 ]
