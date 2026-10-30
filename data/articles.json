@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Taylor Swift: 5 datos y el debut de Begin Again",
+    "artista": "Taylor Swift",
+    "intro": "En la última edición de En el Ensayo — Live Sessions se anunció que la canción “Begin Again” de Taylor Swift se lanzó el 1 de octubre de 2012. El programa también presentó cinco datos relevantes sobre",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/taylor-swift-5-datos-y-el-debut-de-begin-again-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/taylor-swift-5-datos-y-el-debut-de-begin-again-1030.jpg",
+    "fecha": "2026-10-30T03:53:36.829437",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Julio Jaramillo: 91 años y 200 000 personas",
     "artista": "Julio Jaramillo",
     "intro": "Este 1 de octubre de 2026 Ecuador conmemora el Día del Pasillo y recuerda a Julio Jaramillo, el Ruiseñor de América, a 91 años de su nacimiento. La noticia destaca que el país sigue cantando su legado",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "T1 y Movistar KOI chocan en Worlds 2026",
-    "artista": "T1 vs KOI en los Worlds 2026 de League of Legends",
-    "intro": "La Ronda 4 de los Worlds 2026 de League of Legends enfrenta a T1 y Movistar KOI en Allen, Texas, en busca del pase a playoffs.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/t1-y-movistar-koi-chocan-en-worlds-2026-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/t1-y-movistar-koi-chocan-en-worlds-2026-1029.jpg",
-    "fecha": "2026-10-29T18:22:42.084371",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Esports"
   }
 ]
