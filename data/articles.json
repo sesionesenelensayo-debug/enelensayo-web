@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "El día que Oasis lanzó Morning Glory en 1995",
+    "artista": "Oasis",
+    "intro": "El 2 de octubre de 1995 el Reino Unido vio nacer (What's the Story) Morning Glory, el segundo álbum de estudio de Oasis. El disco, publicado por Creation Records y producido por Owen Morris y Noel Gal",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-dia-que-oasis-lanzo-morning-glory-en-1995-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-dia-que-oasis-lanzo-morning-glory-en-1995-1030.jpg",
+    "fecha": "2026-10-30T02:05:18.883953",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "El OVNI sumergido de Shag Harbour | Caso Real 1967",
     "artista": "Shag Harbour",
     "intro": "El 4 de octubre de 1967, varios testigos en la pequeña aldea pesquera de Shag Harbour, Nueva Escocia, observaron un objeto con luces que descendió sobre la bahía. Marina, Fuerza Aérea, la Policía y eq",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Las 10 películas más esperadas de 2026: El ranking definitivo",
-    "artista": "las 10 películas más esperadas de 2026",
-    "intro": "Descubre cuáles son los estrenos más esperados del cine para este año según los principales medios especializados de la industria.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/las-10-peliculas-mas-esperadas-de-2026-el-ranking-definitivo-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/las-10-peliculas-mas-esperadas-de-2026-el-ranking-definitivo-1029.jpg",
-    "fecha": "2026-10-29T16:39:51.926956",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   }
 ]
