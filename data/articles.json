@@ -1,5 +1,18 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "72 días en los Andes: el Milagro del Vuelo 571",
+    "artista": "Vuelo 571",
+    "intro": "El 13 de octubre de 1972, el vuelo 571 de la Fuerza Airéa Uruguaya, que transportaba a un equipo de rugby y un total de 45 personas a bordo, se estrelló en los Andes. Tras 72 días, Nando Parrado y Rob",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/72-dias-en-los-andes-el-milagro-del-vuelo-571-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/72-dias-en-los-andes-el-milagro-del-vuelo-571-1029.jpg",
+    "fecha": "2026-10-29T19:48:51.558619",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
     "tipo": "noticia",
     "titulo": "U2 suma cuarta fecha en CDMX para marzo de 2027 tras agotar boletos",
     "artista": "U2",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Escena local"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "The Witcher 4 sustituye a Geralt por Ciri: debate sobre la decisión editorial",
-    "artista": "The Witcher 4",
-    "intro": "CD Projekt RED ha confirmado que Ciri será la protagonista de The Witcher 4, sustituyendo a Geralt de Rivia. La medida ha generado controversia en redes, donde algunos la califican de \"woke\" mientras ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/the-witcher-4-sustituye-a-geralt-por-ciri-debate-sobre-la-decision-edi-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/the-witcher-4-sustituye-a-geralt-por-ciri-debate-sobre-la-decision-edi-1029.jpg",
-    "fecha": "2026-10-29T11:35:45.770975",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos"
   }
 ]
