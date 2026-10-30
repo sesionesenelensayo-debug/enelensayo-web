@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "5 de octubre de 1970: el disco con agujeros",
+    "artista": "5 de octubre de 1970",
+    "intro": "El 5 de octubre de 1970, Atlantic Records publicó en Estados Unidos el tercer álbum de estudio de Led Zeppelin. La salida de este disco marcó un giro hacia el folk y la música acústica para la banda b",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/5-de-octubre-de-1970-el-disco-con-agujeros-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/5-de-octubre-de-1970-el-disco-con-agujeros-1029.jpg",
+    "fecha": "2026-10-29T22:44:36.404282",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Cinco hechos reales sobre la trayectoria de Janis Joplin",
     "artista": "Janis Joplin",
     "intro": "Un video en 'En El Ensayo — Live Sessions' presenta cinco registros exactos que explican la vida y carrera de Janis Joplin, ícono del rock y blues. La cantante, fallecida en 1970, dejó un legado imbor",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece Sir Patrick Stewart a los 86 años",
-    "artista": "Patrick Stewart",
-    "intro": "Sir Patrick Stewart ha fallecido el 28 de octubre de 2026 a la edad de 86 años. El reconocido actor británico de cine, televisión y doblaje deja atrás una trayectoria de más de 60 años sobre los escen",
-    "telegraph_url": "https://telegra.ph/Fallece-Sir-Patrick-Stewart-a-los-86-años-10-29",
-    "url": "https://enelensayomedia.com/notas/fallece-sir-patrick-stewart-a-los-86-anos-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-sir-patrick-stewart-a-los-86-anos-1029.jpg",
-    "fecha": "2026-10-29T13:57:53.294091",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
