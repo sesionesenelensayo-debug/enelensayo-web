@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Madonna, Artista del año en los VMAs 2026",
+    "artista": "Madonna",
+    "intro": "La leyenda del pop volvió a los MTV Video Music Awards después de 23 años y se alzó con siete galardones, entre ellos Artista del Año y Mejor Dance, en una ceremonia celebrada el 27 de septiembre de 2",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/madonna-artista-del-ano-en-los-vmas-2026-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/madonna-artista-del-ano-en-los-vmas-2026-1030.jpg",
+    "fecha": "2026-10-30T06:35:14.631965",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "El piloto que habló con voz ajena: caso Rafael Pacheco XB-ZOX",
     "artista": "Rafael Pacheco",
     "intro": "El 21 de junio de 1976 el estudiante de aviación Rafael Pacheco, de 20 años, despegó en una Cessna 150 (registro XB‑ZOX) desde el Estado de México y, tras desaparecer de los radares, reapareció sobre ",
@@ -632,19 +645,6 @@
     "url": "https://enelensayomedia.com/notas/u2-suma-cuarta-fecha-en-cdmx-para-marzo-de-2027-tras-agotar-boletos-1029.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/u2-suma-cuarta-fecha-en-cdmx-para-marzo-de-2027-tras-agotar-boletos-1029.jpg",
     "fecha": "2026-10-29T19:40:16.440507",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "NSQK confirma show en Arena Monterrey para abril de 2027 con su gira mundial",
-    "artista": "NSQK",
-    "intro": "El regiomontano Rodrigo Torres de la Garza anuncia fecha y preventa para su presentación en la capital de Nuevo León.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/nsqk-confirma-show-en-arena-monterrey-para-abril-de-2027-con-su-gira-m-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/nsqk-confirma-show-en-arena-monterrey-para-abril-de-2027-con-su-gira-m-1029.jpg",
-    "fecha": "2026-10-29T19:37:39.818733",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Conciertos"
