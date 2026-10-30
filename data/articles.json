@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Luces sobre Campeche: el video militar sin explicación",
+    "artista": "Luces sobre Campeche",
+    "intro": "El 5 de marzo de 2004 un avión Merlin C-26A de la Fuerza Aérea Mexicana capturó con cámara infrarroja once objetos luminosos sobre el golfo de Campeche, mientras el radar solo registró tres ecos. El v",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/luces-sobre-campeche-el-video-militar-sin-explicacion-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/luces-sobre-campeche-el-video-militar-sin-explicacion-1030.jpg",
+    "fecha": "2026-10-30T02:59:48.486219",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Nuestro Amor de RBD: platino en siete horas",
     "artista": "RBD",
     "intro": "A siete horas de su lanzamiento en 2005, el álbum 'Nuestro Amor' de RBD obtuvo la certificación de platino, según datos de Wikipedia en español y la ficha de Amazon México. La certificación correspond",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "8 de octubre de 2005: 14 semanas en el número 1",
-    "artista": "8 de octubre de 2005",
-    "intro": "El 8 de octubre de 2005, Mariah Carey alcanzó su decimocuarta semana no consecutiva en el número 1 del Billboard Hot 100 con la canción «We Belong Together». Un solo tema lanzado en 2005 le otorgó tre",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/8-de-octubre-de-2005-14-semanas-en-el-numero-1-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/8-de-octubre-de-2005-14-semanas-en-el-numero-1-1029.jpg",
-    "fecha": "2026-10-29T17:20:17.142414",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
