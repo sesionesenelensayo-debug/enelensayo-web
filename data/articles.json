@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "La historia real y los récords del grupo mexicano RBD",
+    "artista": "RBD",
+    "intro": "El fenómeno mexicano RBD no fue solo una telenovela, sino un imperio musical que redefinió las ventas en la industria latina. Con más de 15 millones de discos vendidos, el grupo formado por Anahí, Dul",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/la-historia-real-y-los-records-del-grupo-mexicano-rbd-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-historia-real-y-los-records-del-grupo-mexicano-rbd-1029.jpg",
+    "fecha": "2026-10-29T23:40:09.816266",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Fidel Nadal: 61 años de reggae y punk subterráneo",
     "artista": "Fidel Nadal",
     "intro": "En el día de su 61.º cumpleaños, En El Ensayo vuelve la mirada a Fidel Nadal, figura clave del reggae y del punk underground de Argentina. La publicación plantea la pregunta “¿Quién llevó las raíces d",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Patrick Stewart: el secreto de sus reportajes inventados a l",
-    "artista": "Patrick Stewart",
-    "intro": "El actor británico Patrick Stewart falleció el 28 de octubre de 2026 a la edad de 86 años, tras una trayectoria de más de 60 años en los escenarios y la pantalla. La noticia recuerda los inicios del i",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/patrick-stewart-el-secreto-de-sus-reportajes-inventados-a-l-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/patrick-stewart-el-secreto-de-sus-reportajes-inventados-a-l-1029.jpg",
-    "fecha": "2026-10-29T14:45:41.051524",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
