@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "La disculpa del Real Madrid y Mbappé a China: ¿'woke' o necesaria?",
+    "artista": "Disculpas del Real Madrid y Kylian Mbappé a China",
+    "intro": "El club y el jugador se disculpan por un meme, pero ¿es suficiente para los críticos?",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/la-disculpa-del-real-madrid-y-mbappe-a-china-woke-o-necesaria-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-disculpa-del-real-madrid-y-mbappe-a-china-woke-o-necesaria-1029.jpg",
+    "fecha": "2026-10-29T20:16:04.163576",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Agenda woke"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Murió el mismo día que Rasputin, 94 años después",
     "artista": "Rasputin",
     "intro": "El 30 de diciembre de 2010, el bailarín y cantante arubeño‑neerlandés Bobby Farrell, conocido por su paso por Boney M., falleció en San Petersburgo después de que sonara su despertador y nadie respond",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Escena local"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Chupacabras: La bestia sin sangre que aterrorizó Texas y Puerto Rico",
-    "artista": "Chupacabras",
-    "intro": "El nuevo video de En El Ensayo recorre en diez minutos el mito del chupacabras, partiendo de su origen en Puerto Rico y siguiendo su expansión hasta los extraños cadáveres encontrados en Texas. El pro",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/chupacabras-la-bestia-sin-sangre-que-aterrorizo-texas-y-puerto-rico-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/chupacabras-la-bestia-sin-sangre-que-aterrorizo-texas-y-puerto-rico-1029.jpg",
-    "fecha": "2026-10-29T11:43:33.670861",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Terror"
   }
 ]
