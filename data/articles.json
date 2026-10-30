@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "¿Qué pasó con Héctor Lavoe tras el concierto cancelado? La voz y el balcón",
+    "artista": "Héctor Lavoe",
+    "intro": "El 5 de junio de 1988 se programó un concierto de Héctor Lavoe en el Coliseo Rubén Rodríguez de Bayamón, Puerto Rico, pero el productor lo canceló tres horas antes por la escasa venta de boletos. Las ",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/que-paso-con-hector-lavoe-tras-el-concierto-cancelado-la-voz-y-el-balc-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/que-paso-con-hector-lavoe-tras-el-concierto-cancelado-la-voz-y-el-balc-1030.jpg",
+    "fecha": "2026-10-30T05:41:22.142827",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Héctor Lavoe cumpliría 80 años: sus tres peores golpes",
     "artista": "Héctor Lavoe",
     "intro": "Hoy, a 80 años de su nacimiento, la ciudad de Ponce recuerda a Héctor Lavoe, ícono de la salsa, señalando tres episodios dolorosos que marcaron su vida: su retiro temporal en Cali, la muerte trágica d",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme internacional"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Ranking: Las 10 películas que más dinero perdieron en taquilla",
-    "artista": "las 10 películas que más dinero perdieron (mayores fracasos de taquilla recientes)",
-    "intro": "Descubre el listado de las diez producciones recientes que registraron los mayores fracasos y pérdidas financieras en la industria cinematográfica según los medios.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/ranking-las-10-peliculas-que-mas-dinero-perdieron-en-taquilla-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/ranking-las-10-peliculas-que-mas-dinero-perdieron-en-taquilla-1029.jpg",
-    "fecha": "2026-10-29T19:14:17.706136",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   }
 ]
