@@ -1,5 +1,31 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "NSQK confirma show en Arena Monterrey para abril de 2027 con su gira mundial",
+    "artista": "NSQK",
+    "intro": "El regiomontano Rodrigo Torres de la Garza anuncia fecha y preventa para su presentación en la capital de Nuevo León.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/nsqk-confirma-show-en-arena-monterrey-para-abril-de-2027-con-su-gira-m-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/nsqk-confirma-show-en-arena-monterrey-para-abril-de-2027-con-su-gira-m-1029.jpg",
+    "fecha": "2026-10-29T19:37:39.818733",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "El misterio de Enfield: ¿poltergeist real o la mayor estafa de los 70?",
+    "artista": "el caso Enfield Poltergeist",
+    "intro": "Dos años de fenómenos inexplicables en Londres dividieron a la ciencia y alimentaron leyendas que aún hoy generan debate.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-misterio-de-enfield-poltergeist-real-o-la-mayor-estafa-de-los-70-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-misterio-de-enfield-poltergeist-real-o-la-mayor-estafa-de-los-70-1029.jpg",
+    "fecha": "2026-10-29T19:32:24.437454",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Historias de terror"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "7 de octubre de 2011: el Grammy de We Found Love",
     "artista": "We Found Love",
@@ -620,32 +646,6 @@
     "url": "https://enelensayomedia.com/notas/la-criatura-de-ojos-rojos-y-la-tragedia-del-puente-silver-1029.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/la-criatura-de-ojos-rojos-y-la-tragedia-del-puente-silver-1029.jpg",
     "fecha": "2026-10-29T11:27:35.258604",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "¿El príncipe del verso o de la controversia? La historia de Cosculluela",
-    "artista": "Cosculluela",
-    "intro": "Se lanzó un nuevo documental que explora la trayectoria de Cosculluela, desde sus inicios underground en Humacao y Palmas del Mar hasta su consagración como \"El Príncipe del Verso\" y las controversias",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-principe-del-verso-o-de-la-controversia-la-historia-de-cosculluela-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-principe-del-verso-o-de-la-controversia-la-historia-de-cosculluela-1029.jpg",
-    "fecha": "2026-10-29T11:15:05.031802",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Victoria Spivey: el contrato de 1926 que impulsó su carrera",
-    "artista": "Victoria Spivey",
-    "intro": "En 1926 Victoria Spivey firmó un contrato histórico con Okeh Records en San Luis, Missouri. Ese acuerdo marcó el inicio de una carrera que la llevaría a la escena del blues urbano y, según la noticia,",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/victoria-spivey-el-contrato-de-1926-que-impulso-su-carrera-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/victoria-spivey-el-contrato-de-1926-que-impulso-su-carrera-1029.jpg",
-    "fecha": "2026-10-29T11:02:33.920874",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
