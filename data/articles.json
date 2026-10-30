@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Nuestro Amor de RBD: platino en siete horas",
+    "artista": "RBD",
+    "intro": "A siete horas de su lanzamiento en 2005, el álbum 'Nuestro Amor' de RBD obtuvo la certificación de platino, según datos de Wikipedia en español y la ficha de Amazon México. La certificación correspond",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/nuestro-amor-de-rbd-platino-en-siete-horas-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/nuestro-amor-de-rbd-platino-en-siete-horas-1030.jpg",
+    "fecha": "2026-10-30T02:45:40.891176",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Tom Petty: la gira que terminó una semana antes",
     "artista": "Tom Petty",
     "intro": "El 2 de octubre de 2017 Tom Petty murió en Santa Mónica a los 66 años por una sobredosis accidental de medicamentos recetados. La noticia llega una semana después de que la banda cerrara su gira del 4",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "La avioneta que cruzó México en 1 hora: el piloto que habló 'con otra voz'",
-    "artista": "La avioneta que cruzó México",
-    "intro": "El 21 de junio de 1976, un estudiante de 20 años desapareció del radar durante un vuelo de práctica en una Cessna 150. Reapareció una hora después sobre Acapulco, un trayecto que normalmente toma tres",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-avioneta-que-cruzo-mexico-en-1-hora-el-piloto-que-hablo-con-otra-vo-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-avioneta-que-cruzo-mexico-en-1-hora-el-piloto-que-hablo-con-otra-vo-1029.jpg",
-    "fecha": "2026-10-29T17:07:43.982518",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Biografía"
   }
 ]
