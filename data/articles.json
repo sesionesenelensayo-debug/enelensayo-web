@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Murió el mismo día que Rasputin, 94 años después",
+    "artista": "Rasputin",
+    "intro": "El 30 de diciembre de 2010, el bailarín y cantante arubeño‑neerlandés Bobby Farrell, conocido por su paso por Boney M., falleció en San Petersburgo después de que sonara su despertador y nadie respond",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/murio-el-mismo-dia-que-rasputin-94-anos-despues-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/murio-el-mismo-dia-que-rasputin-94-anos-despues-1029.jpg",
+    "fecha": "2026-10-29T20:06:17.158568",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "In memoriam"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "72 días en los Andes: el Milagro del Vuelo 571",
     "artista": "Vuelo 571",
     "intro": "El 13 de octubre de 1972, el vuelo 571 de la Fuerza Airéa Uruguaya, que transportaba a un equipo de rugby y un total de 45 personas a bordo, se estrelló en los Andes. Tras 72 días, Nando Parrado y Rob",
@@ -636,18 +649,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Terror"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Régulo Caro estrena \"Mi Morena\" antes de su concierto de Halloween en Hermosillo",
-    "artista": "Régulo Caro",
-    "intro": "El cantante regional mexicano Régulo Caro lanzó su nuevo sencillo \"Mi Morena\" como preludio a su presentación de Halloween en Hermosillo. El estreno del tema coincide con el evento, generando expectat",
-    "telegraph_url": "https://telegra.ph/Régulo-Caro-estrena-Mi-Morena-antes-de-su-concierto-de-Halloween-en-Hermosillo-10-29",
-    "url": "https://enelensayomedia.com/notas/regulo-caro-estrena-mi-morena-antes-de-su-concierto-de-halloween-en-he-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/regulo-caro-estrena-mi-morena-antes-de-su-concierto-de-halloween-en-he-1029.jpg",
-    "fecha": "2026-10-29T11:37:42.894254",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Escena local"
   }
 ]
