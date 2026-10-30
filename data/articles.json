@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "¿Por qué perdió su voz? La trágica caída de José José",
+    "artista": "José José",
+    "intro": "José Rómulo Sosa Ortiz, conocido como José José, nació el 17 de febrero de 1948 en Clavería, Azcapotzalco, Ciudad de México. La noticia destaca que creció rodeado de música gracias a su padre, el cant",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/por-que-perdio-su-voz-la-tragica-caida-de-jose-jose-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/por-que-perdio-su-voz-la-tragica-caida-de-jose-jose-1030.jpg",
+    "fecha": "2026-10-30T07:40:55.525492",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "El monstruo de Flatwoods: lo que vio Eugene Lemon en 1952",
     "artista": "Eugene Lemon",
     "intro": "El 12 de septiembre de 1952, en Flatwoods, Virginia Occidental, los hermanos May, otros testigos y el guardia nacional Eugene Lemon reportaron haber visto una luz roja y una figura alta en una colina.",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "6 de octubre de 2012: Skyfall entra al número 2",
-    "artista": "Skyfall",
-    "intro": "El 6 de octubre de 2012, Adele lanzó oficialmente \"Skyfall\", la canción original de la película homónima de James Bond. La pieza entró directamente al número 2 de la UK Singles Chart y alcanzó el pues",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/6-de-octubre-de-2012-skyfall-entra-al-numero-2-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/6-de-octubre-de-2012-skyfall-entra-al-numero-2-1029.jpg",
-    "fecha": "2026-10-29T20:35:16.453870",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   }
 ]
