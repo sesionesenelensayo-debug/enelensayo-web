@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Top 10 semanal: lo más escuchado en México y en el mundo (29 de octubre)",
+    "artista": "Top 10 semanal",
+    "intro": "Como en los viejos conteos de MTV, aquí está la cuenta regresiva de la semana. En México manda «BbY WOW» de KAROL G; en el mundo, «Housewife» de Tate McRae.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/top-10-semanal-lo-mas-escuchado-en-mexico-y-en-el-mundo-29-de-octubre-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/top-10-semanal-lo-mas-escuchado-en-mexico-y-en-el-mundo-29-de-octubre-1029.jpg",
+    "fecha": "2026-10-29T23:48:14.501545",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "La historia real y los récords del grupo mexicano RBD",
     "artista": "RBD",
     "intro": "El fenómeno mexicano RBD no fue solo una telenovela, sino un imperio musical que redefinió las ventas en la industria latina. Con más de 15 millones de discos vendidos, el grupo formado por Anahí, Dul",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades de Justin Timberlake",
-    "artista": "Justin Timberlake",
-    "intro": "Se han dado a conocer cinco curiosidades sobre Justin Timberlake en un contenido multimedia reciente. La pieza audiovisual, compartida en plataformas digitales, forma parte de las grabaciones y conten",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-justin-timberlake-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-justin-timberlake-1029.jpg",
-    "fecha": "2026-10-29T15:02:55.702784",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Datos curiosos"
   }
 ]
