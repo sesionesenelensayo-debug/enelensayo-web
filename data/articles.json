@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "JOHNNY LABORIEL: 13 años SIN SU MÚSICA",
+    "artista": "Johnny Laboriel",
+    "intro": "Hoy se recuerdan trece años desde el fallecimiento de Johnny Laboriel, el icónico cantante y actor cómico mexicano cuya carrera marcó el inicio del rock en español en México. Nacido Juan José Laboriel",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/johnny-laboriel-13-anos-sin-su-musica-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/johnny-laboriel-13-anos-sin-su-musica-1030.jpg",
+    "fecha": "2026-10-30T15:15:23.127296",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "LUÍS GÓIS: 14 años SIN SU MÚSICA",
     "artista": "LUÍS GÓIS",
     "intro": "En 2012, Portugal dijo adiós a Luiz Fernando de Sousa Pires de Góis, un hombre que dejó una huella imborrable en el mundo de la música y la medicina. Conocido como Luiz Góis, este artista portugués es",
@@ -1062,20 +1076,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Biografía",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El día que Oasis lanzó Morning Glory en 1995",
-    "artista": "Oasis",
-    "intro": "El 2 de octubre de 1995 el Reino Unido vio nacer (What's the Story) Morning Glory, el segundo álbum de estudio de Oasis. El disco, publicado por Creation Records y producido por Owen Morris y Noel Gal",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-dia-que-oasis-lanzo-morning-glory-en-1995-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-dia-que-oasis-lanzo-morning-glory-en-1995-1030.jpg",
-    "fecha": "2026-10-30T02:05:18.883953",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
     "archivo": true
   },
   {
