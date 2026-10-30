@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "¿Cómo un hombre que no caminaba vendió 300 millones de discos? Julio Iglesias",
+    "artista": "Julio Iglesias",
+    "intro": "Una nueva recopilación de datos confirma que Julio Iglesias, nacido en Madrid en 1943, ha superado los 300 millones de copias vendidas en todo el mundo, consolidándose como uno de los artistas más exi",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/como-un-hombre-que-no-caminaba-vendio-300-millones-de-discos-julio-igl-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/como-un-hombre-que-no-caminaba-vendio-300-millones-de-discos-julio-igl-1030.jpg",
+    "fecha": "2026-10-30T03:27:05.566276",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "El día que Alanis Morissette conquistó el Billboard 200",
     "artista": "Alanis Morissette",
     "intro": "El 7 de octubre de 1995, el álbum Jagged Little Pill de Alanis Morissette alcanzó el número uno en el Billboard 200 de Estados Unidos, convirtiéndose en el primer disco número 1 de una artista canadie",
@@ -632,19 +645,6 @@
     "url": "https://enelensayomedia.com/notas/dalia-negra-la-joven-que-aparecio-partida-en-dos-1029.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/dalia-negra-la-joven-que-aparecio-partida-en-dos-1029.jpg",
     "fecha": "2026-10-29T18:01:07.900366",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Peter Hernández, Elvis niño y un Grammy en 2016",
-    "artista": "Peter Hernández",
-    "intro": "La figura de Peter Hernández resurge en el análisis musical actual bajo una perspectiva que examina su trayectoria a través de múltiples facetas. Lejos de los convencionalismos, la revisión de su carr",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/peter-hernandez-elvis-nino-y-un-grammy-en-2016-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/peter-hernandez-elvis-nino-y-un-grammy-en-2016-1029.jpg",
-    "fecha": "2026-10-29T17:48:48.909224",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"

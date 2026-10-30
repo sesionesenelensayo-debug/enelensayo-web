@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-10-29T21:30",
+ "actualizado": "2026-10-30T03:34",
  "peores": [
   {
    "titulo": "Code Violet",
@@ -135,72 +135,6 @@
   }
  ],
  "estrenos": [
-  {
-   "titulo": "Croc 2: Kingdom of the Gobbos",
-   "fecha": "2026-10-29",
-   "fecha_txt": "29 de octubre",
-   "plataformas": [
-    "PC",
-    "Switch",
-    "PS4",
-    "PS5",
-    "Xbox Series"
-   ],
-   "genero": "Platformer",
-   "desarrolla": "Argonaut Games",
-   "publica": ""
-  },
-  {
-   "titulo": "Hello Kitty Party Land",
-   "fecha": "2026-10-29",
-   "fecha_txt": "29 de octubre",
-   "plataformas": [
-    "Switch",
-    "Switch 2"
-   ],
-   "genero": "Party",
-   "desarrolla": "G-STYLE",
-   "publica": "Sanrio Games, Bandai Namco Entertainment"
-  },
-  {
-   "titulo": "Joe & Mac Retro Collection",
-   "fecha": "2026-10-29",
-   "fecha_txt": "29 de octubre",
-   "plataformas": [
-    "PC",
-    "Switch",
-    "Switch 2",
-    "PS5",
-    "Xbox Series"
-   ],
-   "genero": "Platformer",
-   "desarrolla": "Red Art Games",
-   "publica": ""
-  },
-  {
-   "titulo": "Monster Hunter Outlanders",
-   "fecha": "2026-10-29",
-   "fecha_txt": "29 de octubre",
-   "plataformas": [
-    "iOS",
-    "Android"
-   ],
-   "genero": "Action RPG, Survival",
-   "desarrolla": "Capcom, TiMi Studio Group",
-   "publica": "Level Infinite"
-  },
-  {
-   "titulo": "Phantom Blade Zero",
-   "fecha": "2026-10-29",
-   "fecha_txt": "29 de octubre",
-   "plataformas": [
-    "PC",
-    "PS5"
-   ],
-   "genero": "Action RPG",
-   "desarrolla": "S-GAME",
-   "publica": ""
-  },
   {
    "titulo": "ArcheAge Chronicles",
    "fecha": "2026-11-03",
@@ -454,6 +388,74 @@
    "genero": "Action-adventure",
    "desarrolla": "Rockstar Games",
    "publica": ""
+  },
+  {
+   "titulo": "Azur Promilia",
+   "fecha": "2026-11-26",
+   "fecha_txt": "26 de noviembre",
+   "plataformas": [
+    "PC",
+    "iOS",
+    "Android"
+   ],
+   "genero": "Action RPG",
+   "desarrolla": "Manjuu",
+   "publica": ""
+  },
+  {
+   "titulo": "Expelled from Paradise: The Stellar Angel",
+   "fecha": "2026-11-26",
+   "fecha_txt": "26 de noviembre",
+   "plataformas": [
+    "PC",
+    "Switch"
+   ],
+   "genero": "Visual novel",
+   "desarrolla": "Studio51",
+   "publica": "Toei Animation"
+  },
+  {
+   "titulo": "Aeterna Lucis",
+   "fecha": "2026-12-03",
+   "fecha_txt": "3 de diciembre",
+   "plataformas": [
+    "PC",
+    "Switch",
+    "PS4",
+    "PS5",
+    "Xbox One"
+   ],
+   "genero": "Metroidvania",
+   "desarrolla": "Aeternum Game Studios",
+   "publica": ""
+  },
+  {
+   "titulo": "Dragon Quest Monsters: The Withered World",
+   "fecha": "2026-12-03",
+   "fecha_txt": "3 de diciembre",
+   "plataformas": [
+    "PC",
+    "Switch",
+    "Switch 2",
+    "PS5",
+    "Xbox Series"
+   ],
+   "genero": "RPG",
+   "desarrolla": "Tose",
+   "publica": "Square Enix"
+  },
+  {
+   "titulo": "Edge of Memories",
+   "fecha": "2026-12-03",
+   "fecha_txt": "3 de diciembre",
+   "plataformas": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+   ],
+   "genero": "Action RPG",
+   "desarrolla": "Midgar Studio",
+   "publica": "Nacon"
   }
  ]
 }
