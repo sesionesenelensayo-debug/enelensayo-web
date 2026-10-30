@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Rigo Tovar y el Moog en el Auditorio Nacional",
+    "artista": "Rigo Tovar",
+    "intro": "El 29 de septiembre de 1976 Rigo Tovar, con su grupo Costa Azul, agotó el Auditorio Nacional, introduciendo en el escenario un sintetizador Moog y una guitarra eléctrica. Ese concierto marcó una de la",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/rigo-tovar-y-el-moog-en-el-auditorio-nacional-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/rigo-tovar-y-el-moog-en-el-auditorio-nacional-1030.jpg",
+    "fecha": "2026-10-30T06:49:24.821341",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Madonna, Artista del año en los VMAs 2026",
     "artista": "Madonna",
     "intro": "La leyenda del pop volvió a los MTV Video Music Awards después de 23 años y se alzó con siete galardones, entre ellos Artista del Año y Mejor Dance, en una ceremonia celebrada el 27 de septiembre de 2",
@@ -635,18 +648,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "U2 suma cuarta fecha en CDMX para marzo de 2027 tras agotar boletos",
-    "artista": "U2",
-    "intro": "La banda irlandesa añade un show más en el GNP Seguros para el 2 de marzo de 2027, continuando su gira mundial.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/u2-suma-cuarta-fecha-en-cdmx-para-marzo-de-2027-tras-agotar-boletos-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/u2-suma-cuarta-fecha-en-cdmx-para-marzo-de-2027-tras-agotar-boletos-1029.jpg",
-    "fecha": "2026-10-29T19:40:16.440507",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
   }
 ]
