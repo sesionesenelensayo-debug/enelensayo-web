@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Ray Charles - La verdad sobre su adicción ",
+    "artista": "Ray Charles",
+    "intro": "A 93 años de su nacimiento, la historia completa de Ray Charles revela una infancia marcada por la pobreza extrema en el sur segregado, la pérdida de la vista a los siete años y una larga batalla cont",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/ray-charles-la-verdad-sobre-su-adiccion-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/ray-charles-la-verdad-sobre-su-adiccion-1030.jpg",
+    "fecha": "2026-10-30T10:36:52.567378",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Kim Kardashian llega a la CDMX para promocionar la serie “Todo Vale”",
     "artista": "Kim Kardashian",
     "intro": "Kim Kardashian arribó a la Ciudad de México acompañada de la actriz Sarah Paulson y el elenco de su nueva serie “Todo Vale”. La visita, que incluye presentaciones y encuentros con fans, tiene como obj",
@@ -856,20 +869,6 @@
     "url": "https://enelensayomedia.com/notas/eclipse-1991-el-objeto-plateado-que-nadie-explico-en-la-cdmx-1029.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/eclipse-1991-el-objeto-plateado-que-nadie-explico-en-la-cdmx-1029.jpg",
     "fecha": "2026-10-29T21:28:51",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "6 de octubre de 2008: Metallica no soltó el número 1",
-    "artista": "",
-    "intro": "El 6 de octubre de 2008, Metallica mantenía su posición en la cima de la industria musical estadounidense. El álbum Death Magnetic seguía en el puesto núme",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/6-de-octubre-de-2008-metallica-no-solto-el-numero-1-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/6-de-octubre-de-2008-metallica-no-solto-el-numero-1-1029.jpg",
-    "fecha": "2026-10-29T21:13:43",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música",
