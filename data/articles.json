@@ -1,6 +1,33 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Belinda causa revuelo en México con su exclusiva fiesta de Halloween",
+    "artista": "Belinda",
+    "intro": "La cantante y actriz Belinda ha generado gran revuelo en México tras celebrar una exclusiva fiesta de Halloween, denominada Beliween, donde se transformó en alien. El evento reunió a diversas figuras ",
+    "telegraph_url": "https://telegra.ph/Belinda-causa-revuelo-en-México-con-su-exclusiva-fiesta-de-Halloween-10-30",
+    "url": "https://enelensayomedia.com/notas/belinda-causa-revuelo-en-mexico-con-su-exclusiva-fiesta-de-halloween-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/belinda-causa-revuelo-en-mexico-con-su-exclusiva-fiesta-de-halloween-1030.jpg",
+    "fecha": "2026-10-30T17:40:15.416410",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "Victor Jara ¿Por qué le temían tanto a su guitarra? El trágico final",
+    "artista": "Victor Jara",
+    "intro": "Víctor Lidio Jara Martínez nació el 28 de septiembre de 1932 en la provincia de Ñuble, Chile, en un entorno rural donde la vida se mide con el sudor del campo. Hijo de Manuel Jara y de Amanda Martínez",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/victor-jara-por-que-le-temian-tanto-a-su-guitarra-el-tragico-final-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/victor-jara-por-que-le-temian-tanto-a-su-guitarra-el-tragico-final-1030.jpg",
+    "fecha": "2026-10-30T17:36:22.241973",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Murió Juan Marcelo, la voz histórica del dúo Juan y Juan",
     "artista": "Juan Marcelo",
     "intro": "El mundo de la música popular argentina despide a una de sus figuras más emblemáticas. A los 82 años, falleció Juan Marcelo, cantante, compositor y la mitad del recordado dúo Juan y Juan que marcó una",
