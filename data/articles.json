@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Julián Navarro: el dato que sorprende a todos",
+    "artista": "Julián Navarro",
+    "intro": "La noticia revela que Julián Navarro, conocido artísticamente como 'Pelusa', no solo fue un destacado músico, compositor, pianista, director y productor musical argentino, sino también un ingeniero ae",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/julian-navarro-el-dato-que-sorprende-a-todos-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/julian-navarro-el-dato-que-sorprende-a-todos-1030.jpg",
+    "fecha": "2026-10-30T21:36:44.593090",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Todo lo que no sabías de Juan Almeida Bosque",
     "artista": "Juan Almeida Bosque",
     "intro": "Un nuevo video en YouTube, titulado 'Todo lo que no sabías de Juan Almeida Bosque', explora aspectos menos conocidos del revolucionario y compositor cubano. Publicado en el canal 'En el Ensayo — Live ",
@@ -1522,20 +1536,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El trágico final del guitarrista de Paul McCartney y Wings",
-    "artista": "Paul McCartney",
-    "intro": "Un apartamento en Londres fue el escenario donde se encontró sin vida el cuerpo de Jimmy McCulloch, guitarrista escocés que colaboró con Paul McCartney en Wings y falleció en 1979 a los veintiséis año",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-tragico-final-del-guitarrista-de-paul-mccartney-y-wings-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-tragico-final-del-guitarrista-de-paul-mccartney-y-wings-1030.jpg",
-    "fecha": "2026-10-30T08:23:12.382299",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "archivo": true
   },
   {
     "tipo": "reportaje",
