@@ -41,7 +41,8 @@ def menu(n, activo):
 
 # portada LIGERA: cabecera + menú + portada (nota del día, lo último, videos) + Top 10 + periódico + botones de sección
 portada = src[src.index("  <!-- ── PORTADA"):src.index("  <!-- ── HERO")]
-botones = "".join(f'<a href="{k}.html">{et}</a>' for k, (et, *_r) in PAGINAS.items() if k not in ("noticias",))
+ICONOS = {"chisme": "💬", "misterio": "👻", "deporte": "⚽", "exclusivas": "⭐", "top10": "🏆", "periodico": "📰", "newsletter": "✉️", "cine": "🎬", "videojuegos": "🎮", "conciertos": "🎟️", "hitos": "🏅", "shorts": "📱", "longs": "📺", "podcast": "🎙️", "sobre": "💡"}
+botones = "".join(f'<a href="{k}.html"><span class="ic">{ICONOS.get(k, "🎵")}</span>{et}</a>' for k, (et, *_r) in PAGINAS.items() if k not in ("noticias",))
 extra = f'''  <section class="section" id="top10-mini"><div class="section-inner">
     <div class="section-header"><p class="section-eyebrow"><span class="dot dot--yellow"></span>Cuenta regresiva semanal</p>
       <h2 class="section-title">Top <span class="text-accent">10</span></h2></div>

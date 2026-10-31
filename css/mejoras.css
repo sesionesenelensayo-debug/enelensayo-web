@@ -1,0 +1,63 @@
+/* Mejoras visuales (originales; ideas de galerías de navbar, footer, CTA y vidrio): barra de cristal, tarjetas translúcidas con brillo,
+   botones con degradado, fondo ambiental vaporwave, animación al desplazarse, pie en cápsulas e iconos en mosaicos. */
+:root{--vidrio:linear-gradient(180deg,rgba(255,255,255,.075),rgba(255,255,255,.025));--borde:rgba(255,255,255,.11);--brillo:inset 0 1px 0 rgba(255,255,255,.14);--sombra:0 12px 34px rgba(0,0,0,.38)}
+body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;
+  background:radial-gradient(900px 520px at 8% -6%,rgba(103,58,183,.28),transparent 62%),radial-gradient(760px 480px at 100% 12%,rgba(255,64,160,.14),transparent 60%),radial-gradient(800px 560px at 70% 108%,rgba(0,188,212,.14),transparent 62%)}
+#progreso{position:fixed;top:0;left:0;height:3px;width:0;z-index:200;background:linear-gradient(90deg,#00d6f0,#ffeb3b,#ff4da6);box-shadow:0 0 12px rgba(255,235,59,.6)}
+
+/* Barra de navegación de cristal */
+.navbar{background:rgba(11,8,18,.66)!important;-webkit-backdrop-filter:blur(18px) saturate(150%);backdrop-filter:blur(18px) saturate(150%);border-bottom:1px solid var(--borde)!important;transition:background .3s,box-shadow .3s}
+.navbar.scrolled{background:rgba(11,8,18,.86)!important;box-shadow:0 8px 30px rgba(0,0,0,.45)}
+@media(min-width:901px){
+  .nav-links{border-top:1px solid rgba(255,255,255,.07)!important;gap:6px!important;padding:7px 0 9px!important;flex-wrap:nowrap!important;overflow-x:auto;scrollbar-width:none;justify-content:flex-start!important}
+  .nav-links::-webkit-scrollbar{display:none}
+  .nav-links a{background:rgba(255,255,255,.055)!important;color:#e9e6f5!important;border:1px solid rgba(255,255,255,.12)!important;box-shadow:none!important;padding:.4rem .95rem!important;font-size:.84rem!important;font-weight:700!important;white-space:nowrap;transition:all .2s}
+  .nav-links a:hover{background:rgba(255,235,59,.14)!important;color:#ffeb3b!important;border-color:rgba(255,235,59,.55)!important;transform:translateY(-1px)}
+  .nav-links a.activa{background:var(--yellow)!important;color:#111!important;border-color:var(--yellow)!important}
+}
+.nav-mobile{background:rgba(11,8,18,.94)!important;-webkit-backdrop-filter:blur(18px);backdrop-filter:blur(18px)}
+.nav-mobile a{background:rgba(255,255,255,.06)!important;color:#fff!important;border:1px solid var(--borde)}
+.nav-mobile a:hover,.nav-mobile a.activa{background:var(--yellow)!important;color:#111!important}
+
+/* Títulos de sección */
+.section-title{letter-spacing:-.025em;font-size:clamp(2rem,5.6vw,3.3rem)!important;line-height:1.05}
+.text-accent{background:linear-gradient(90deg,#ffeb3b,#ff9f43 60%,#ff4da6);-webkit-background-clip:text;background-clip:text;color:transparent}
+.section-eyebrow{letter-spacing:.14em}
+
+/* Tarjetas de vidrio con brillo y elevación */
+.sx-card,.caja,.per-caja,.cuenta,.t10-lista li,.t10-mini-c,.secciones-grid a,.gr-cols>div,.per-ad,.otra{background:var(--vidrio)!important;border:1px solid var(--borde)!important;box-shadow:var(--sombra),var(--brillo);-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px);transition:transform .28s cubic-bezier(.2,.8,.2,1),border-color .28s,box-shadow .28s}
+.sx-card:hover,.otra:hover,.secciones-grid a:hover,.t10-lista li:hover{transform:translateY(-5px);border-color:rgba(255,235,59,.55)!important;box-shadow:0 18px 44px rgba(0,0,0,.5),0 0 0 1px rgba(255,235,59,.18),var(--brillo)}
+.sx-card .foto{overflow:hidden}.sx-card .foto img{transition:transform .6s cubic-bezier(.2,.8,.2,1)}.sx-card:hover .foto img{transform:scale(1.07)}
+.sx-card .sx-tag{box-shadow:0 4px 14px rgba(103,58,183,.5)}
+
+/* Botones con degradado y brillo */
+.sx-mas,.btn--primary,.blk-mas,.per-bt{background:linear-gradient(135deg,#ffeb3b,#ffb347)!important;color:#15101f!important;border:0!important;border-radius:99px!important;font-weight:800!important;padding:.7rem 1.35rem;text-decoration:none;box-shadow:0 8px 22px rgba(255,200,40,.28),inset 0 1px 0 rgba(255,255,255,.55);transition:transform .2s,box-shadow .2s}
+.sx-mas:hover,.btn--primary:hover,.blk-mas:hover,.per-bt:hover{transform:translateY(-2px) scale(1.02);box-shadow:0 12px 30px rgba(255,200,40,.45),inset 0 1px 0 rgba(255,255,255,.6)}
+.sx-mas:active,.btn--primary:active{transform:scale(.98)}
+.blk-mas{display:inline-block;margin-top:14px}
+.platform-btn{background:var(--vidrio)!important;border:1px solid var(--borde)!important;border-radius:99px!important;box-shadow:var(--brillo);transition:all .25s}
+.platform-btn:hover{border-color:rgba(255,235,59,.6)!important;transform:translateY(-3px);box-shadow:0 12px 26px rgba(0,0,0,.4)}
+
+/* Banda de llamada a la acción y pie */
+.cta-band{background:radial-gradient(700px 300px at 50% 0,rgba(103,58,183,.45),transparent 70%),linear-gradient(180deg,rgba(255,255,255,.04),transparent)!important;border-top:1px solid var(--borde);border-bottom:1px solid var(--borde)}
+.cta-title{letter-spacing:-.02em;font-size:clamp(1.8rem,5vw,2.8rem)!important}
+.footer{border-top:1px solid var(--borde)!important;background:linear-gradient(180deg,rgba(0,0,0,.25),rgba(0,0,0,.55))!important}
+.footer-links{gap:10px!important;flex-wrap:wrap;justify-content:center}
+.footer-links a{padding:.45rem 1rem;border-radius:99px;border:1px solid var(--borde);background:rgba(255,255,255,.04);transition:all .2s}
+.footer-links a:hover{background:var(--yellow);color:#111!important;border-color:var(--yellow);transform:translateY(-2px)}
+
+/* Mosaicos de iconos (estilo 3D suave) en «Todas las secciones» */
+.secciones-grid{grid-template-columns:repeat(auto-fill,minmax(132px,1fr))!important;gap:14px!important}
+.secciones-grid a{padding:18px 10px 14px!important;display:flex!important;flex-direction:column;align-items:center;gap:8px;font-size:.9rem}
+.secciones-grid a .ic{display:grid;place-items:center;width:58px;height:58px;font-size:1.9rem;border-radius:18px;background:linear-gradient(145deg,rgba(255,255,255,.2),rgba(103,58,183,.35));box-shadow:0 10px 18px rgba(0,0,0,.45),inset 0 2px 0 rgba(255,255,255,.35),inset 0 -6px 12px rgba(0,0,0,.25);transition:transform .3s}
+.secciones-grid a:hover .ic{transform:translateY(-4px) rotate(-6deg) scale(1.08)}
+.secciones-grid a:hover{color:inherit!important;background:var(--vidrio)!important}
+
+/* Carga con destello en vez de un bloque oscuro vacío */
+.article-skeleton,.sx-vacio{border-radius:var(--radius-lg);background:linear-gradient(110deg,rgba(255,255,255,.04) 30%,rgba(255,255,255,.11) 50%,rgba(255,255,255,.04) 70%);background-size:220% 100%;animation:destello 1.5s linear infinite}
+.article-skeleton{min-height:360px}
+@keyframes destello{to{background-position:-220% 0}}
+
+/* Aparición al desplazarse */
+.rev{opacity:0;transform:translateY(24px);transition:opacity .7s ease,transform .7s cubic-bezier(.2,.8,.2,1)}.rev.in{opacity:1;transform:none}
+@media(prefers-reduced-motion:reduce){.rev{opacity:1;transform:none;transition:none}.article-skeleton,.sx-vacio{animation:none}*{scroll-behavior:auto!important}}
