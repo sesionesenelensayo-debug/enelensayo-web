@@ -1,6 +1,21 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Mía Rubín responde a rumores de ruptura con Tarik Othón",
+    "artista": "Mía Rubín",
+    "intro": "La cantante Mía Rubín ha reaccionado a los rumores de ruptura con Tarik Othón. Según reportes de medios como HOLA y Panorama Web, la artista emitió un comentario sobre la situación, describiéndola com",
+    "telegraph_url": "https://telegra.ph/Mía-Rubín-responde-a-rumores-de-ruptura-con-Tarik-Othón-10-31",
+    "url": "https://enelensayomedia.com/notas/mia-rubin-responde-a-rumores-de-ruptura-con-tarik-othon-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/mia-rubin-responde-a-rumores-de-ruptura-con-tarik-othon-1030.jpg",
+    "fecha": "2026-10-30T21:14:38.293960",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-10-30T19:13:24.987437",
+    "actualizada": true
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "José Antonio Calcaño: la historia real",
     "artista": "José Antonio Calcaño",
     "intro": "La noticia revela la faceta menos conocida de José Antonio Calcaño: su papel como compositor y miembro fundador de la Orquesta Sinfónica Venezuela. Más allá de su reconocida trayectoria como escritor,",
@@ -282,19 +297,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Mía Rubín responde a rumores de ruptura con Tarik Othón",
-    "artista": "Mía Rubín",
-    "intro": "La cantante Mía Rubín ha reaccionado a los rumores de ruptura con Tarik Othón. Según reportes de medios como HOLA y Panorama Web, la artista emitió un comentario sobre la situación, describiéndola com",
-    "telegraph_url": "https://telegra.ph/Mía-Rubín-responde-a-rumores-de-ruptura-con-Tarik-Othón-10-31",
-    "url": "https://enelensayomedia.com/notas/mia-rubin-responde-a-rumores-de-ruptura-con-tarik-othon-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/mia-rubin-responde-a-rumores-de-ruptura-con-tarik-othon-1030.jpg",
-    "fecha": "2026-10-30T19:13:24.987437",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   },
   {
     "tipo": "reportaje",
