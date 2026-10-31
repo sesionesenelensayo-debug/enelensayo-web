@@ -1,5 +1,31 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Bronco anuncia Inquebrantable Tour 2027 con fechas en España y Paraguay",
+    "artista": "Bronco",
+    "intro": "La banda mexicana confirmó su gira internacional para 2027, que incluirá presentaciones en Europa, América Latina y México.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/bronco-anuncia-inquebrantable-tour-2027-con-fechas-en-espana-y-paragua-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/bronco-anuncia-inquebrantable-tour-2027-con-fechas-en-espana-y-paragua-1030.jpg",
+    "fecha": "2026-10-30T18:42:46.287830",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
+    "tipo": "noticia",
+    "titulo": "Pitbull anuncia fechas de su gira 'I'm Back' en México para febrero de 2027",
+    "artista": "Pitbull",
+    "intro": "El artista estadounidense confirmará su regreso a la región con tres conciertos programados en la Ciudad de México, Guadalajara y Monterrey.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/pitbull-anuncia-fechas-de-su-gira-i-m-back-en-mexico-para-febrero-de-2-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/pitbull-anuncia-fechas-de-su-gira-i-m-back-en-mexico-para-febrero-de-2-1030.jpg",
+    "fecha": "2026-10-30T18:36:45.646141",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Toluca logra Récord Guinness con el alfeñique más largo del mundo",
     "artista": "Toluca",
