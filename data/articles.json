@@ -1,6 +1,19 @@
 [
   {
     "tipo": "noticia",
+    "titulo": "Christian Nodal y Ángela Aguilar presumen su amor en un escenario significativo",
+    "artista": "Christian Nodal y Ángela Aguilar",
+    "intro": "Christian Nodal y Ángela Aguilar confirmaron su relación amorosa al presentarse juntos en un escenario que ambos describen como muy significativo, según informó el medio HOLA. El gesto, realizado dura",
+    "telegraph_url": "https://telegra.ph/Christian-Nodal-y-Ángela-Aguilar-presumen-su-amor-en-un-escenario-significativo-10-31",
+    "url": "https://enelensayomedia.com/notas/christian-nodal-y-angela-aguilar-presumen-su-amor-en-un-escenario-sign-1031.html",
+    "imagen_url": "",
+    "fecha": "2026-10-31T07:47:25.300316",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "noticia",
     "titulo": "Daddy Yankee visita Venezuela acompañado de Danny Ocean",
     "artista": "Daddy Yankee",
     "intro": "Según Clx Icons, el reguetonero puertorriqueño Daddy Yankee regresó a Venezuela, esta vez viajando junto al cantante Danny Ocean. El anuncio, reportado por varios medios, confirma su presencia en el p",
@@ -1547,20 +1560,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Escena local"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "JOHN BONHAM: La muerte que mató a Led Zeppelin",
-    "artista": "JOHN BONHAM",
-    "intro": "Nadie lo creyó cuando decidieron disolver la banda más grande del rock. La muerte de John Bonham marcó el fin definitivo de Led Zeppelin, un acontecimiento que conmocionó al mundo de la música y dejó ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/john-bonham-la-muerte-que-mato-a-led-zeppelin-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/john-bonham-la-muerte-que-mato-a-led-zeppelin-1030.jpg",
-    "fecha": "2026-10-30T09:52:15.766287",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "archivo": true
   },
   {
     "tipo": "reportaje",
