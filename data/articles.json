@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "JUSTIN TIMBERLAKE: Todos pensaban que sería un músico callejero más",
+    "artista": "Justin Timberlake",
+    "intro": "En una sesión en vivo de 'En El Ensayo — Live Sessions' en Azcapotzalco, CDMX, se recordó que Justin Timberlake nació como futuro ídolo pop y miembro de NSYNC, desmintiendo la idea de que sería solo u",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/justin-timberlake-todos-pensaban-que-seria-un-musico-callejero-mas-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/justin-timberlake-todos-pensaban-que-seria-un-musico-callejero-mas-1031.jpg",
+    "fecha": "2026-10-31T17:53:18.143137",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "5 curiosidades que no sabías de Robert Plant",
     "artista": "Robert Plant",
     "intro": "El programa En el Ensayo – Live Sessions lanzó un video titulado “5 curiosidades que no sabías de Robert Plant”. La pieza, grabada en Azcapotzalco, CDMX, forma parte de la serie de sesiones en vivo pa",
@@ -1819,19 +1833,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Pitbull regresa a México y presentará tres conciertos",
-    "artista": "Pitbull",
-    "intro": "Según informa Noroeste, el cantante y productor Pitbull volverá a México y tiene programados tres conciertos en territorio nacional. El anuncio, publicado en la plataforma digital, confirma la presenc",
-    "telegraph_url": "https://telegra.ph/Pitbull-regresa-a-México-y-presentará-tres-conciertos-10-30",
-    "url": "https://enelensayomedia.com/notas/pitbull-regresa-a-mexico-y-presentara-tres-conciertos-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/pitbull-regresa-a-mexico-y-presentara-tres-conciertos-1030.jpg",
-    "fecha": "2026-10-30T13:35:27.992223",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
