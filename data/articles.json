@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "José Antonio Calcaño: la historia real",
+    "artista": "José Antonio Calcaño",
+    "intro": "La noticia revela la faceta menos conocida de José Antonio Calcaño: su papel como compositor y miembro fundador de la Orquesta Sinfónica Venezuela. Más allá de su reconocida trayectoria como escritor,",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/jose-antonio-calcano-la-historia-real-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/jose-antonio-calcano-la-historia-real-1030.jpg",
+    "fecha": "2026-10-30T21:07:46.297531",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Natalia Alcocer y Manelyk González protagonizan pelea en 'La Granja VIP'",
     "artista": "Natalia Alcocer y Manelyk",
     "intro": "Natalia Alcocer y Manelyk González, participantes de 'La Granja VIP', tuvieron un fuerte enfrentamiento el 29 de octubre durante la dinámica 'Echar tierra'. El conflicto, reportado por medios como Inf",
@@ -1516,20 +1530,6 @@
     "url": "https://enelensayomedia.com/notas/el-compositor-aleman-detras-del-exito-de-1967-1030.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/el-compositor-aleman-detras-del-exito-de-1967-1030.jpg",
     "fecha": "2026-10-30T08:10:29.780059",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Cinco datos de la vida de José José",
-    "artista": "José José",
-    "intro": "El portal En el Ensayo publica cinco datos clave sobre José José, el legendario cantante mexicano nacido en febrero de 1948. Desde sus orígenes en Azcapotzalco hasta su fallecimiento en 2019, la pieza",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/cinco-datos-de-la-vida-de-jose-jose-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/cinco-datos-de-la-vida-de-jose-jose-1030.jpg",
-    "fecha": "2026-10-30T07:55:36.760730",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música",
