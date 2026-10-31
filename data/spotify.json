@@ -125,124 +125,124 @@
   {
    "n": 1,
    "nombre": "Fuerza Regida",
-   "valor": 5786260,
+   "valor": 6163623,
    "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
   },
   {
    "n": 2,
    "nombre": "Victor Mendivil",
-   "valor": 5673383,
+   "valor": 5804395,
    "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
   },
   {
    "n": 3,
    "nombre": "Neton Vega",
-   "valor": 5326705,
+   "valor": 5745522,
    "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
   },
   {
    "n": 4,
    "nombre": "Junior H",
-   "valor": 3457323,
+   "valor": 3341516,
    "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
   },
   {
    "n": 5,
    "nombre": "Natanael Cano",
-   "valor": 2507525,
+   "valor": 2862693,
    "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
   },
   {
    "n": 6,
    "nombre": "Omar Camacho",
-   "valor": 2431247,
+   "valor": 2606619,
    "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
   },
   {
    "n": 7,
    "nombre": "Peso Pluma",
-   "valor": 2142472,
+   "valor": 2277972,
    "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
   },
   {
    "n": 8,
    "nombre": "Calle 24",
-   "valor": 2057951,
+   "valor": 2103233,
    "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
   },
   {
    "n": 9,
    "nombre": "KAROL G",
-   "valor": 1995786,
+   "valor": 2077503,
    "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
   },
   {
    "n": 10,
    "nombre": "Tito Double P",
-   "valor": 1688338,
+   "valor": 2005305,
    "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
   },
   {
    "n": 11,
-   "nombre": "Bad Bunny",
-   "valor": 1295072,
-   "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-  },
-  {
-   "n": 12,
    "nombre": "LOS DOS DE TAMAULIPAS",
-   "valor": 1286365,
+   "valor": 1368906,
    "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
   },
   {
-   "n": 13,
+   "n": 12,
    "nombre": "El Rabbanito",
-   "valor": 1270573,
+   "valor": 1350355,
    "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
   },
   {
-   "n": 14,
-   "nombre": "Grupo Firme",
-   "valor": 1042532,
-   "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+   "n": 13,
+   "nombre": "Bad Bunny",
+   "valor": 1347467,
+   "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
   },
   {
-   "n": 15,
+   "n": 14,
    "nombre": "Lenin Ramírez",
-   "valor": 1027647,
+   "valor": 1138655,
    "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
   },
   {
-   "n": 16,
-   "nombre": "El Bogueto",
-   "valor": 938240,
-   "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+   "n": 15,
+   "nombre": "Grupo Firme",
+   "valor": 1107986,
+   "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
   },
   {
-   "n": 17,
+   "n": 16,
    "nombre": "Alfredo Olivas",
-   "valor": 758910,
+   "valor": 1031243,
    "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
   },
   {
+   "n": 17,
+   "nombre": "El Bogueto",
+   "valor": 1020481,
+   "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+  },
+  {
    "n": 18,
-   "nombre": "Moy Bobadilla",
-   "valor": 724000,
-   "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
+   "nombre": "Rauw Alejandro",
+   "valor": 806538,
+   "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
   },
   {
    "n": 19,
-   "nombre": "Chuyin",
-   "valor": 693394,
-   "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+   "nombre": "Moy Bobadilla",
+   "valor": 759301,
+   "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
   },
   {
    "n": 20,
-   "nombre": "Marc Seguí",
-   "valor": 682908,
-   "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+   "nombre": "Chuyin",
+   "valor": 723025,
+   "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
   }
  ],
  "fuente": "Spotify vía kworb.net",
- "actualizado": "2026-10-31 13:47"
+ "actualizado": "2026-10-31 15:52"
 }
