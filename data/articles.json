@@ -1,5 +1,34 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "Ulthima lanza el sencillo principal 'Midnight’s Call' de su nuevo álbum",
+    "artista": "Ulthima",
+    "intro": "El 27 de noviembre de 2026 la banda mexicana Ulthima presentó el sencillo principal de su próximo álbum 'Midnight’s Call' a través de Inverse Records. El lanzamiento marca el avance de su segundo disc",
+    "telegraph_url": "https://telegra.ph/Ulthima-lanza-el-sencillo-principal-Midnights-Call-de-su-nuevo-álbum-10-30",
+    "url": "https://enelensayomedia.com/notas/ulthima-lanza-el-sencillo-principal-midnights-call-de-su-nuevo-album-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/ulthima-lanza-el-sencillo-principal-midnights-call-de-su-nuevo-album-1030.jpg",
+    "fecha": "2026-10-31T15:28:28.069758",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Escena local",
+    "fecha_original": "2026-10-30T10:22:48.715747",
+    "actualizada": true
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "Prince: la sobredosis de fentanilo que disipó el mito",
+    "artista": "Prince",
+    "intro": "El 21 de abril de 2016 se confirmó que la muerte de Prince, a los 57 años, fue causada por una sobredosis accidental de fentanilo. La investigación policial descartó teorías de asesinato y desmintió l",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/prince-la-sobredosis-de-fentanilo-que-disipo-el-mito-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/prince-la-sobredosis-de-fentanilo-que-disipo-el-mito-1031.jpg",
+    "fecha": "2026-10-31T15:26:43.696562",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
     "tipo": "noticia",
     "titulo": "Rico o Muerto lidera Spotify México; Víctor Mendivil es el artista más escuchado",
     "artista": "Rico o Muerto",
@@ -1763,20 +1792,6 @@
   },
   {
     "tipo": "reportaje",
-    "titulo": "BO CARTER: 64 años SIN SU MÚSICA",
-    "artista": "BO CARTER",
-    "intro": "Hace 64 años falleció Bo Carter, influyente cantante‑guitarrista de blues que marcó la historia del género. Su muerte, ocurrida el 21 de septiembre, nos invita a repasar su legado y la influencia que ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/bo-carter-64-anos-sin-su-musica-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/bo-carter-64-anos-sin-su-musica-1030.jpg",
-    "fecha": "2026-10-30T12:29:28.870454",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
     "titulo": "¿Qué impulsó a Elton John a reinventarse a los 70 años? – El salto que cambió su historia",
     "artista": "Elton John",
     "intro": "El nuevo reportaje de En El Ensayo explora la vida de Elton John, desde sus humildes comienzos en Pinner hasta la gira de despedida más grande de su trayectoria. Con testimonios y datos reales, la pie",
@@ -1912,19 +1927,6 @@
     "views": 0,
     "categoria": "Datos curiosos",
     "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Ulthima lanza el sencillo principal 'Midnight’s Call' de su nuevo álbum",
-    "artista": "Ulthima",
-    "intro": "El 27 de noviembre de 2026 la banda mexicana Ulthima presentó el sencillo principal de su próximo álbum 'Midnight’s Call' a través de Inverse Records. El lanzamiento marca el avance de su segundo disc",
-    "telegraph_url": "https://telegra.ph/Ulthima-lanza-el-sencillo-principal-Midnights-Call-de-su-nuevo-álbum-10-30",
-    "url": "https://enelensayomedia.com/notas/ulthima-lanza-el-sencillo-principal-midnights-call-de-su-nuevo-album-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/ulthima-lanza-el-sencillo-principal-midnights-call-de-su-nuevo-album-1030.jpg",
-    "fecha": "2026-10-30T10:22:48.715747",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Escena local"
   },
   {
     "tipo": "reportaje",
