@@ -175,3 +175,6 @@ img,iframe{max-width:100%}
 
 .nlf .nlr{display:flex;gap:8px;flex-wrap:wrap;margin:8px 0}.nlf input[type=email]{flex:1;min-width:210px;padding:11px 14px;border-radius:99px;border:1px solid rgba(255,235,59,.5);background:rgba(255,255,255,.07);color:inherit;font:inherit}
 .nlf button{cursor:pointer;border:0}.nla{display:block;font-size:.82rem;opacity:.85;margin:6px 0}.nlm{min-height:1.2em;font-size:.85rem;color:#ff9b9b}.nlok{padding:14px;border-radius:var(--radius);border:1px solid #3ddc84;color:#3ddc84;font-weight:700}
+
+/* retratos verticales: en las tarjetas anchas se recorta mostrando la CARA (parte alta), no el torso */
+.sx-card .foto img{object-position:50% 18%}
