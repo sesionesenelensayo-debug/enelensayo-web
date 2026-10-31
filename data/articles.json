@@ -1,5 +1,18 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Nuevas fechas para Fuerza Regida en Monterrey",
+    "artista": "Fuerza Regida",
+    "intro": "Fuerza Regida ha abierto nuevas fechas para sus presentaciones en Monterrey tras lograr agotar las entradas disponibles. La noticia fue reportada por Infobae, destacando la alta demanda que el grupo e",
+    "telegraph_url": "https://telegra.ph/Nuevas-fechas-para-Fuerza-Regida-en-Monterrey-10-31",
+    "url": "https://enelensayomedia.com/notas/nuevas-fechas-para-fuerza-regida-en-monterrey-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/nuevas-fechas-para-fuerza-regida-en-monterrey-1030.jpg",
+    "fecha": "2026-10-30T18:10:13.719901",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Ramón Rojo de Sonido La Changa cancela presentación en Ecatepec por salud",
     "artista": "Sonido La Changa",
@@ -1231,20 +1244,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Biografía",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Héctor Lavoe cumpliría 80 años: sus tres peores golpes",
-    "artista": "Héctor Lavoe",
-    "intro": "Hoy, a 80 años de su nacimiento, la ciudad de Ponce recuerda a Héctor Lavoe, ícono de la salsa, señalando tres episodios dolorosos que marcaron su vida: su retiro temporal en Cali, la muerte trágica d",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/hector-lavoe-cumpliria-80-anos-sus-tres-peores-golpes-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/hector-lavoe-cumpliria-80-anos-sus-tres-peores-golpes-1030.jpg",
-    "fecha": "2026-10-30T05:28:10.222855",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
     "archivo": true
   },
   {
