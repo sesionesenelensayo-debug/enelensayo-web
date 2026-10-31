@@ -1,6 +1,33 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Las 10 mayores pérdidas de taquilla entre 2025 y 2026",
+    "artista": "las 10 películas que más dinero perdieron (mayores fracasos de taquilla recientes)",
+    "intro": "Ranking basado en la diferencia entre presupuesto y recaudación mundial, según datos de medios especializados y reportes de la industria.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/las-10-mayores-perdidas-de-taquilla-entre-2025-y-2026-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/las-10-mayores-perdidas-de-taquilla-entre-2025-y-2026-1031.jpg",
+    "fecha": "2026-10-31T15:14:16.845601",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "Luis Miguel: el mito de su enfermedad y la verdad",
+    "artista": "Luis Miguel",
+    "intro": "En el aniversario del nacimiento de Luis Miguel, el canal En El Ensayo — Live Sessions publica un video que desmiente el rumor de una enfermedad mortal que nunca ha existido en el cantante. El mismo m",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/luis-miguel-el-mito-de-su-enfermedad-y-la-verdad-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/luis-miguel-el-mito-de-su-enfermedad-y-la-verdad-1031.jpg",
+    "fecha": "2026-10-31T15:14:13.488668",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "John Lennon: el asesinato frente al Dakota en 1980",
     "artista": "John Lennon",
     "intro": "El 8 de diciembre de 1980, John Lennon, cofundador de The Beatles, fue asesinado frente al edificio Dakota en Nueva York. El autor del crimen, Mark David Chapman, declaró que buscaba fama con el acto.",
@@ -1790,20 +1817,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "PETER HORTON: 3 años SIN SU MÚSICA",
-    "artista": "Peter Horton",
-    "intro": "El 22 de septiembre de 2023, Peter Horton celebró su 82.º cumpleaños, fecha que se convirtió en su último aniversario antes de fallecer. La noticia destaca que el cantante y compositor austriaco lleva",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/peter-horton-3-anos-sin-su-musica-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/peter-horton-3-anos-sin-su-musica-1030.jpg",
-    "fecha": "2026-10-30T11:35:46.094486",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
