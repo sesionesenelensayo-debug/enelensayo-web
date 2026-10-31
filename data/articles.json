@@ -1,5 +1,19 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "Grace Slick: planeó envenenar el té de Nixon con LSD",
+    "artista": "Grace Slick",
+    "intro": "La icónica cantante de rock psicodélico Grace Slick, conocida por su voz en bandas como Jefferson Airplane y Starship, celebró su 86 cumpleaños el 30 de octubre. Pero más allá de su legado musical, Sl",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/grace-slick-planeo-envenenar-el-te-de-nixon-con-lsd-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/grace-slick-planeo-envenenar-el-te-de-nixon-con-lsd-1030.jpg",
+    "fecha": "2026-10-30T18:44:44.029676",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
     "tipo": "noticia",
     "titulo": "Bronco anuncia Inquebrantable Tour 2027 con fechas en España y Paraguay",
     "artista": "Bronco",
@@ -1308,20 +1322,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Terror",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Sesenta mil personas en el Astrodome por Selena",
-    "artista": "Selena",
-    "intro": "El 30 de septiembre de 1995, el Astrodome de Houston se llenó con la asistencia de más de sesenta mil fanáticos para homenajear a Selena, pocos meses después de su trágica muerte. El concierto, parte ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/sesenta-mil-personas-en-el-astrodome-por-selena-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/sesenta-mil-personas-en-el-astrodome-por-selena-1030.jpg",
-    "fecha": "2026-10-30T06:08:21.979616",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
     "archivo": true
   },
   {
