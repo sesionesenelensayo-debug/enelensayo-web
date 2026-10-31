@@ -1,6 +1,21 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Detienen a Inés Gómez Mont en Florida",
+    "artista": "Inés Gómez Mont",
+    "intro": "La presentadora de televisión Inés Gómez Mont fue detenida en Florida, Estados Unidos, de acuerdo con reportes de diversos medios de comunicación. La conductora mexicana llevaba años prófuga de la jus",
+    "telegraph_url": "https://telegra.ph/Detienen-a-Inés-Gómez-Mont-en-Florida-10-30",
+    "url": "https://enelensayomedia.com/notas/detienen-a-ines-gomez-mont-en-florida-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/detienen-a-ines-gomez-mont-en-florida-1030.jpg",
+    "fecha": "2026-10-31T09:09:21.874252",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-10-30T15:55:18.749711",
+    "actualizada": true
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Los niños de ojos negros: origen, testimonios y su lugar en la cultura de terror",
     "artista": "los Niños de Ojos Negros",
     "intro": "Una crónica que recorre el surgimiento de la leyenda, los relatos más emblemáticos y su influencia en la narrativa de horror contemporánea.",
@@ -1022,19 +1037,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Detienen a Inés Gómez Mont en Florida",
-    "artista": "Inés Gómez Mont",
-    "intro": "La presentadora de televisión Inés Gómez Mont fue detenida en Florida, Estados Unidos, de acuerdo con reportes de diversos medios de comunicación. La conductora mexicana llevaba años prófuga de la jus",
-    "telegraph_url": "https://telegra.ph/Detienen-a-Inés-Gómez-Mont-en-Florida-10-30",
-    "url": "https://enelensayomedia.com/notas/detienen-a-ines-gomez-mont-en-florida-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/detienen-a-ines-gomez-mont-en-florida-1030.jpg",
-    "fecha": "2026-10-30T15:55:18.749711",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   },
   {
     "tipo": "reportaje",
