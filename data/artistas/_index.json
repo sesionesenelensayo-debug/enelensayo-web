@@ -1,5 +1,12 @@
 [
   {
+    "artista": "Maná",
+    "slug": "man",
+    "imagen": "",
+    "piezas": 1,
+    "updated": "2026-10-31 12:03"
+  },
+  {
     "artista": "Elton John",
     "slug": "elton-john",
     "imagen": "",
