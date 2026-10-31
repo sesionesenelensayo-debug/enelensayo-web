@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "\"Physical Graffiti\" encabeza listas brit: Historia",
+    "artista": "Led Zeppelin",
+    "intro": "El álbum 'Physical Graffiti' de Led Zeppelin, lanzado en 1975, alcanzó el número 1 en la lista de álbumes del Reino Unido. Este éxito reafirma la vigencia del disco, considerado uno de los más influye",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/physical-graffiti-encabeza-listas-brit-historia-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/physical-graffiti-encabeza-listas-brit-historia-1031.jpg",
+    "fecha": "2026-10-31T17:15:19.994970",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Anirudh Ravichander y Kavya Maran: boda prevista en Grecia y recepción en Chennai",
     "artista": "Boda de Anirudh Ravichander y Kavya Maran",
     "intro": "Se reporta una ceremonia privada en Grecia el 11 de noviembre y una recepción en Chennai el 21 de noviembre, con invitados políticos y familiares.",
@@ -1804,20 +1818,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "JOSÉ SABRE MARROQUÍN: 31 años SIN SU MÚSICA",
-    "artista": "José Sabre Marroquín",
-    "intro": "El 31.º aniversario de la ausencia musical de José Sabre Marroquín se recordó en una sesión en vivo de En el Ensayo, ubicada en Azcapotzalco, CDMX. El evento, parte de la serie \"Live Sessions\" para ba",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/jose-sabre-marroquin-31-anos-sin-su-musica-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/jose-sabre-marroquin-31-anos-sin-su-musica-1030.jpg",
-    "fecha": "2026-10-30T13:20:31.342733",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "noticia",
