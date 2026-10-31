@@ -11,6 +11,7 @@
       var d = new Date(), k = 'v-' + d.getFullYear() + String(d.getMonth() + 1).padStart(2, '0') + String(d.getDate()).padStart(2, '0');
       var pag = (location.pathname.split('/').pop().replace('.html', '') || 'inicio').slice(0, 24).replace(/[^a-z0-9-]/gi, '');
       hit('v-total'); hit(k); hit('p-' + pag);
+      hit('h-' + new Date().toISOString().slice(0, 13).replace(/[-T]/g, ''));      // visitas por hora (UTC) para /vistas [e.leo]
       var ref = (document.referrer || '').toLowerCase(), q = new URLSearchParams(location.search);
       var o = ref.indexOf(location.hostname) > -1 ? 'interna' : !ref ? 'directo' : /google\./.test(ref) ? 'google' : /bing\.|duckduckgo|yahoo|ecosia|brave/.test(ref) ? 'buscadores' :
         /facebook|fb\.|l\.facebook/.test(ref) ? 'facebook' : /instagram/.test(ref) ? 'instagram' : /tiktok/.test(ref) ? 'tiktok' : /youtube|youtu\.be/.test(ref) ? 'youtube' :
