@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Marisa Manchado: muerte en el accidente ferroviario de 2026",
+    "artista": "Marisa Manchado",
+    "intro": "La compositora española Marisa Manchado, reconocida por su ópera 'La Regenta', falleció en el accidente ferroviario de Toledo en 2026. Su legado en la música clásica incluye tres óperas y el Premio Na",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/marisa-manchado-muerte-en-el-accidente-ferroviario-de-2026-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/marisa-manchado-muerte-en-el-accidente-ferroviario-de-2026-1030.jpg",
+    "fecha": "2026-10-30T20:54:46.705130",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Víctor Mendívil estrena el disco “No Hay Ángeles Aquí” con Natanael Cano, Anuel AA y más",
     "artista": "",
     "intro": "El artista Víctor Mendívil lanzó su nuevo álbum titulado “No Hay Ángeles Aquí”, que incluye colaboraciones de Natanael Cano, Anuel AA y otros músicos. El a",
@@ -1507,20 +1521,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Biografía",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El monstruo de Flatwoods: lo que vio Eugene Lemon en 1952",
-    "artista": "Eugene Lemon",
-    "intro": "El 12 de septiembre de 1952, en Flatwoods, Virginia Occidental, los hermanos May, otros testigos y el guardia nacional Eugene Lemon reportaron haber visto una luz roja y una figura alta en una colina.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-monstruo-de-flatwoods-lo-que-vio-eugene-lemon-en-1952-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-monstruo-de-flatwoods-lo-que-vio-eugene-lemon-en-1952-1030.jpg",
-    "fecha": "2026-10-30T07:28:30.706394",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
     "archivo": true
   },
   {
