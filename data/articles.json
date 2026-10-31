@@ -1,6 +1,21 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Víctor Mendívil estrena el disco “No Hay Ángeles Aquí” con Natanael Cano, Anuel AA y más",
+    "artista": "",
+    "intro": "El artista Víctor Mendívil lanzó su nuevo álbum titulado “No Hay Ángeles Aquí”, que incluye colaboraciones de Natanael Cano, Anuel AA y otros músicos. El a",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/victor-mendivil-estrena-el-disco-no-hay-angeles-aqui-con-natanael-cano-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/victor-mendivil-estrena-el-disco-no-hay-angeles-aqui-con-natanael-cano-1029.jpg",
+    "fecha": "2026-10-30T20:52:20.809448",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-10-29T10:53:01",
+    "actualizada": true
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "La Dama Blanca: un fantasma urbano en la Colonia Condesa",
     "artista": "el Fantasma de la Dama Blanca de la Condesa en CDMX",
     "intro": "Una crónica de apariciones, leyendas y misterios en un icónico barrio de la Ciudad de México.",
@@ -1301,21 +1316,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Víctor Mendívil estrena el disco “No Hay Ángeles Aquí” con Natanael Cano, Anuel AA y más",
-    "artista": "",
-    "intro": "El artista Víctor Mendívil lanzó su nuevo álbum titulado “No Hay Ángeles Aquí”, que incluye colaboraciones de Natanael Cano, Anuel AA y otros músicos. El a",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/victor-mendivil-estrena-el-disco-no-hay-angeles-aqui-con-natanael-cano-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/victor-mendivil-estrena-el-disco-no-hay-angeles-aqui-con-natanael-cano-1029.jpg",
-    "fecha": "2026-10-30T10:27:34.315202",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-10-29T10:53:01",
-    "actualizada": true
   },
   {
     "tipo": "reportaje",
