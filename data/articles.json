@@ -1,6 +1,19 @@
 [
   {
     "tipo": "noticia",
+    "titulo": "Rico o Muerto lidera Spotify México; Víctor Mendivil es el artista más escuchado",
+    "artista": "Rico o Muerto",
+    "intro": "Según El Heraldo de Saltillo, la canción \"Rico o Muerto\" encabeza la lista de reproducción de Spotify en México, mientras que el cantante Víctor Mendivil se posiciona como el artista más escuchado del",
+    "telegraph_url": "https://telegra.ph/Rico-o-Muerto-lidera-Spotify-México-Víctor-Mendivil-es-el-artista-más-escuchado-10-31",
+    "url": "https://enelensayomedia.com/notas/rico-o-muerto-lidera-spotify-mexico-victor-mendivil-es-el-artista-mas-1031.html",
+    "imagen_url": "",
+    "fecha": "2026-10-31T15:25:50.053227",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "noticia",
     "titulo": "YOLAMASCARA reúne a 50 Cent y Sexyy Red en su primer álbum",
     "artista": "YOLAMASCARA",
     "intro": "El medio El Generacional informó que el proyecto musical YOLAMASCARA ha incluido a los artistas internacionales 50 Cent y Sexyy Red en su álbum debut. El anuncio sitúa al nuevo disco en el foco de la ",
@@ -1789,20 +1802,6 @@
     "views": 0,
     "nota_dia": true,
     "categoria": "Internacional"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "HUGUITO FLORES: 3 años SIN SU MÚSICA",
-    "artista": "Huguito Flores",
-    "intro": "El cantante argentino Huguito Flores, de 57 años, dejó de tocar después de un accidente vial que ocurrió hace tres años. La noticia, difundida por el programa En el Ensayo — Live Sessions, destaca que",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/huguito-flores-3-anos-sin-su-musica-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/huguito-flores-3-anos-sin-su-musica-1030.jpg",
-    "fecha": "2026-10-30T12:01:41.672577",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
