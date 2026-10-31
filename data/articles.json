@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "John Lennon: el asesinato frente al Dakota en 1980",
+    "artista": "John Lennon",
+    "intro": "El 8 de diciembre de 1980, John Lennon, cofundador de The Beatles, fue asesinado frente al edificio Dakota en Nueva York. El autor del crimen, Mark David Chapman, declaró que buscaba fama con el acto.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/john-lennon-el-asesinato-frente-al-dakota-en-1980-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/john-lennon-el-asesinato-frente-al-dakota-en-1980-1031.jpg",
+    "fecha": "2026-10-31T15:00:25.759047",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "El Komander anuncia la muerte de su bebé y cancela show",
     "artista": "El Komander",
     "intro": "El cantante regional mexicano El Komander confirmó en sus redes sociales la muerte de su bebé, José Eliseo, a pocos meses de su nacimiento. La tragedia lo llevó a cancelar el concierto que tenía progr",
