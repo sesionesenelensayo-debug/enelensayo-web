@@ -1,6 +1,21 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Victoria Justice visita México, prueba tacos y aparece en Hoy",
+    "artista": "Victoria Justice",
+    "intro": "La actriz y cantante estadounidense Victoria Justice estuvo en la Ciudad de México, donde participó del programa matutino Hoy, degustó tacos junto a Aarón Mercury y recibió una lección de español de G",
+    "telegraph_url": "https://telegra.ph/Victoria-Justice-visita-México-prueba-tacos-y-aparece-en-Hoy-10-30",
+    "url": "https://enelensayomedia.com/notas/victoria-justice-visita-mexico-prueba-tacos-y-aparece-en-hoy-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/victoria-justice-visita-mexico-prueba-tacos-y-aparece-en-hoy-1030.jpg",
+    "fecha": "2026-10-30T21:48:21.906496",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-10-30T12:11:31.463526",
+    "actualizada": true
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Julián Navarro: el dato que sorprende a todos",
     "artista": "Julián Navarro",
     "intro": "La noticia revela que Julián Navarro, conocido artísticamente como 'Pelusa', no solo fue un destacado músico, compositor, pianista, director y productor musical argentino, sino también un ingeniero ae",
@@ -1221,19 +1236,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Victoria Justice visita México, prueba tacos y aparece en Hoy",
-    "artista": "Victoria Justice",
-    "intro": "La actriz y cantante estadounidense Victoria Justice estuvo en la Ciudad de México, donde participó del programa matutino Hoy, degustó tacos junto a Aarón Mercury y recibió una lección de español de G",
-    "telegraph_url": "https://telegra.ph/Victoria-Justice-visita-México-prueba-tacos-y-aparece-en-Hoy-10-30",
-    "url": "https://enelensayomedia.com/notas/victoria-justice-visita-mexico-prueba-tacos-y-aparece-en-hoy-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/victoria-justice-visita-mexico-prueba-tacos-y-aparece-en-hoy-1030.jpg",
-    "fecha": "2026-10-30T12:11:31.463526",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   },
   {
     "tipo": "noticia",
