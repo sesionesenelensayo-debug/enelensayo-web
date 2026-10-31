@@ -1,5 +1,33 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "El Komander anuncia la muerte de su bebé y cancela show",
+    "artista": "El Komander",
+    "intro": "El cantante regional mexicano El Komander confirmó en sus redes sociales la muerte de su bebé, José Eliseo, a pocos meses de su nacimiento. La tragedia lo llevó a cancelar el concierto que tenía progr",
+    "telegraph_url": "https://telegra.ph/El-Komander-anuncia-la-muerte-de-su-bebé-y-cancela-show-10-31",
+    "url": "https://enelensayomedia.com/notas/el-komander-anuncia-la-muerte-de-su-bebe-y-cancela-show-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-komander-anuncia-la-muerte-de-su-bebe-y-cancela-show-1031.jpg",
+    "fecha": "2026-10-31T10:12:30.869572",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-10-31T09:29:15.024218",
+    "actualizada": true
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "Teamfight Tactics Superbrawl EMEA: formato, inscripción y camino a los Trials",
+    "artista": "Teamfight Tactics Superbrawl EMEA",
+    "intro": "El Superbrawl reúne a 96 equipos en un torneo de cuatro contra cuatro que decidirá los pases a la segunda semana del Tactician’s Trials 1 del set 19.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/teamfight-tactics-superbrawl-emea-formato-inscripcion-y-camino-a-los-t-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/teamfight-tactics-superbrawl-emea-formato-inscripcion-y-camino-a-los-t-1031.jpg",
+    "fecha": "2026-10-31T10:11:38.360438",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports"
+  },
+  {
     "tipo": "noticia",
     "titulo": "A Perfect Circle llega a CDMX con Dogstar, banda de Keanu Reeves",
     "artista": "A Perfect Circle",
@@ -50,19 +78,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El Komander anuncia la muerte de su bebé y cancela show",
-    "artista": "El Komander",
-    "intro": "El cantante regional mexicano El Komander confirmó en sus redes sociales la muerte de su bebé, José Eliseo, a pocos meses de su nacimiento. La tragedia lo llevó a cancelar el concierto que tenía progr",
-    "telegraph_url": "https://telegra.ph/El-Komander-anuncia-la-muerte-de-su-bebé-y-cancela-show-10-31",
-    "url": "https://enelensayomedia.com/notas/el-komander-anuncia-la-muerte-de-su-bebe-y-cancela-show-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-komander-anuncia-la-muerte-de-su-bebe-y-cancela-show-1031.jpg",
-    "fecha": "2026-10-31T09:29:15.024218",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
