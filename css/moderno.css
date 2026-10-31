@@ -133,3 +133,9 @@ body:has(.cabecera) .ad.libre a{border-radius:14px;border-color:rgba(124,82,204,
   body::before,body::after,.text-accent,.sx-card::after,.destacada-sx::after,.secciones-grid a::after{animation:none!important}
   @view-transition{navigation:none}
 }
+
+/* ── Ranuras extra de publicidad [e.leo] ── */
+[data-slot].ad{margin:28px auto;max-width:1180px;overflow:hidden}
+[data-slot="medio"].ad{margin:34px 0}
+[data-slot].sticky.ad{position:sticky;top:96px;margin:0 0 22px}
+[data-slot] .adsbygoogle{min-height:90px}
