@@ -69,3 +69,44 @@
     document.head.appendChild(st);
   }
 })();
+
+// ── Retención [e.leo]: instalar como app + barra de suscripción al newsletter (y canal de WhatsApp si existe) ──
+(function () {
+  try { if ('serviceWorker' in navigator && location.protocol === 'https:') navigator.serviceWorker.register('/sw.js').catch(function () { }); } catch (e) { }
+  var ls = { get: function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } }, set: function (k, v) { try { localStorage.setItem(k, v); } catch (e) { } } };
+  if (document.getElementById('nlForm') || ls.get('eem_nl') || !/\/(notas|artistas)\//.test(location.pathname)) return;
+  var API = 'https://eeem-newsletter.enelensayomedia.workers.dev';
+  var barra = null;
+  function esc(s) { return String(s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); }
+  function abrir(wa) {
+    if (barra) return;
+    barra = document.createElement('div'); barra.id = 'mx-nl';
+    barra.innerHTML = '<button type="button" class="x" aria-label="Cerrar">×</button><b>📰 El Periódico, gratis en tu correo</b><span>Lo mejor de música y cultura de México, de lunes a viernes.</span>' +
+      '<form novalidate><input type="email" name="email" placeholder="tu@correo.com" aria-label="Correo" required><button type="submit">Suscribirme</button>' +
+      '<label><input type="checkbox" name="acepto"> Acepto el <a href="/privacy.html" target="_blank">aviso de privacidad</a></label></form><i class="msg"></i>' +
+      (wa ? '<a class="wa" href="' + esc(wa) + '" target="_blank" rel="noopener">💬 Únete al canal de WhatsApp</a>' : '');
+    document.body.appendChild(barra);
+    setTimeout(function () { barra.classList.add('on'); }, 60);
+    barra.querySelector('.x').onclick = function () { ls.set('eem_nl', 'x'); barra.classList.remove('on'); };
+    var f = barra.querySelector('form'), m = barra.querySelector('.msg');
+    f.addEventListener('submit', function (ev) {
+      ev.preventDefault();
+      var e = f.email.value.trim();
+      if (!/^[^@\s]+@[^@\s]+\.[^@\s]{2,}$/.test(e)) { m.textContent = 'Escribe un correo válido.'; return; }
+      if (!f.acepto.checked) { m.textContent = 'Marca que aceptas el aviso de privacidad.'; return; }
+      f.querySelector('button').disabled = true; m.textContent = 'Enviando…';
+      fetch(API + '/suscribir', { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ email: e, acepto: true, web: '' }) })
+        .then(function (r) { return r.json().catch(function () { return { ok: false }; }); })
+        .then(function (j) {
+          if (j.ok) { ls.set('eem_nl', 'ok'); barra.innerHTML = '<b>✅ ¡Listo!</b><span>Recibirás El Periódico en tu correo. Revisa spam la primera vez.</span>'; setTimeout(function () { barra.classList.remove('on'); }, 5000); }
+          else { f.querySelector('button').disabled = false; m.textContent = 'No se pudo. Inténtalo de nuevo.'; }
+        }).catch(function () { f.querySelector('button').disabled = false; m.textContent = 'Sin conexión. Inténtalo de nuevo.'; });
+    });
+  }
+  function disparar() {
+    window.removeEventListener('scroll', al);
+    fetch('/data/redes.json?_=' + Date.now()).then(function (r) { return r.json(); }).catch(function () { return {}; }).then(function (j) { abrir((j || {}).whatsapp || ''); });
+  }
+  function al() { var h = document.documentElement; if ((h.scrollTop + innerHeight) / Math.max(h.scrollHeight, 1) > 0.45) disparar(); }
+  window.addEventListener('scroll', al, { passive: true });
+})();
