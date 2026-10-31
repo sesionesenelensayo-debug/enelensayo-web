@@ -96,6 +96,6 @@ for k, (et, tit, desc, ids) in PAGINAS.items():
     h = re.sub(r'<script type="application/ld\+json">.*?</script>', "", h, flags=re.S)
     cuerpo = "".join(seccion(i) for i in ids)
     cuerpo = cuerpo.replace('class="section section--dark', 'class="section section--dark', 1)
-    pag = h + "<body>\n\n" + menu(nav, k) + f'  <header class="pag-cab"><div class="section-inner"><a class="pag-volver" href="/">← Portada</a></div></header>\n' + cuerpo + "\n" + footer + scripts
+    pag = h + "<body>\n\n" + menu(nav, k) + f'  <header class="pag-cab"><div class="section-inner"><a class="pag-volver" href="/">← Portada</a></div></header>\n  <div class="section-inner" data-slot="cabecera"></div>\n' + cuerpo + "\n" + footer + scripts
     open(os.path.join(AQUI, f"{k}.html"), "w", encoding="utf-8").write(pag)
 print("páginas:", len(PAGINAS))

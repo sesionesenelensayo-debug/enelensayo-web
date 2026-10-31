@@ -31,6 +31,10 @@
       if (a && (a.html || a.img)) {
         el.className = 'ad';
         el.innerHTML = '<span>Publicidad</span>' + (a.html || '<a href="' + esc(a.url) + '" rel="sponsored noopener" target="_blank" data-ad="' + esc(pos) + '"><img src="' + esc(a.img) + '" alt="' + esc(a.marca || '') + '" loading="lazy"></a>');
+      } else if ((ads._adsense || {})[pos] && !/chisme|misterio|terror|fallece|murio|muerte/i.test(location.pathname)) {   // brand-safety: sin AdSense en chisme/terror/muertes            // [e.leo] sin anunciante directo → unidad de AdSense (pega el ID de bloque en data/anuncios.json → "_adsense": {"cabecera": "1234567890"})
+        el.className = 'ad adsense';
+        el.innerHTML = '<span>Publicidad</span><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5230441592261869" data-ad-slot="' + esc(ads._adsense[pos]) + '" data-ad-format="auto" data-full-width-responsive="true"></ins>';
+        try { (window.adsbygoogle = window.adsbygoogle || []).push({}); } catch (e) { }
       } else {
         el.className = 'ad libre';
         el.innerHTML = '<a href="/anunciate.html" data-ad="libre-' + esc(pos) + '">Anúnciate aquí desde $49 MXN · tu negocio frente a lectores de música de México →</a>';
