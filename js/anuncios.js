@@ -35,6 +35,8 @@
         el.className = 'ad adsense';
         el.innerHTML = '<span>Publicidad</span><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5230441592261869" data-ad-slot="' + esc(ads._adsense[pos]) + '" data-ad-format="auto" data-full-width-responsive="true"></ins>';
         try { (window.adsbygoogle = window.adsbygoogle || []).push({}); } catch (e) { }
+      } else if (pos !== 'cabecera' && pos !== 'nota') {   // [e.leo] ranuras extra: solo se muestran con anunciante directo o bloque de AdSense
+        el.style.display = 'none';
       } else {
         el.className = 'ad libre';
         el.innerHTML = '<a href="/anunciate.html" data-ad="libre-' + esc(pos) + '">Anúnciate aquí desde $49 MXN · tu negocio frente a lectores de música de México →</a>';
