@@ -1,0 +1,135 @@
+/* moderno.css — capa visual 2026 [e.leo]: aurora animada + grano, tipografía display, tarjetas bento con foco que sigue al cursor,
+   bordes de degradado vivo, botones con destello, transiciones de página, lectura de nota en modo oscuro.
+   Va DESPUÉS de style/secciones/mejoras. Respeta «reducir movimiento». */
+:root{
+  --display:'Bricolage Grotesque','Manrope',system-ui,sans-serif;
+  --ease:cubic-bezier(.22,1,.36,1);
+  --g1:#7c52cc;--g2:#00d6f0;--g3:#ff4da6;--g4:#ffeb3b;
+  --cristal:rgba(255,255,255,.055);--cristal-b:rgba(255,255,255,.12);
+}
+@property --ang{syntax:'<angle>';inherits:false;initial-value:0deg}
+html{scroll-padding-top:90px}
+body{font-feature-settings:"ss01","cv11";text-rendering:optimizeLegibility}
+::selection{background:var(--g4);color:#111}
+
+/* ── Fondo: aurora que respira + grano de película ── */
+body::before{background:
+  radial-gradient(900px 560px at 8% -8%,rgba(124,82,204,.34),transparent 62%),
+  radial-gradient(780px 520px at 102% 10%,rgba(255,77,166,.17),transparent 62%),
+  radial-gradient(900px 600px at 50% 112%,rgba(0,214,240,.14),transparent 62%)!important;
+  animation:aurora 26s ease-in-out infinite alternate;will-change:transform}
+@keyframes aurora{0%{transform:translate3d(0,0,0) scale(1)}50%{transform:translate3d(-2%,1.5%,0) scale(1.06)}100%{transform:translate3d(2%,-1%,0) scale(1.1)}}
+body::after{content:"";position:fixed;inset:-50%;z-index:9999;pointer-events:none;opacity:.055;mix-blend-mode:overlay;
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='160' height='160'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.9' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
+  animation:grano 1.2s steps(6) infinite}
+@keyframes grano{0%{transform:translate(0,0)}20%{transform:translate(-3%,2%)}40%{transform:translate(2%,-3%)}60%{transform:translate(-2%,-1%)}80%{transform:translate(3%,3%)}100%{transform:translate(0,0)}}
+
+/* ── Foco que sigue al cursor (lo mueve moderno.js con --mx/--my) ── */
+#mx-foco{position:fixed;left:0;top:0;width:520px;height:520px;margin:-260px 0 0 -260px;border-radius:50%;pointer-events:none;z-index:0;opacity:0;
+  background:radial-gradient(circle,rgba(124,82,204,.20),rgba(0,214,240,.07) 45%,transparent 70%);transition:opacity .6s;mix-blend-mode:screen}
+body.mx-activo #mx-foco{opacity:1}
+
+/* ── Tipografía display ── */
+.section-title,.destacada-sx h2,.cta-title,.cabecera h1,.pag h1,.nav-logo,.logo-text{font-family:var(--display);font-weight:800;letter-spacing:-.035em}
+.section-title{font-size:clamp(2.2rem,6.4vw,4.2rem)!important;line-height:.98}
+.destacada-sx h2{font-size:clamp(1.9rem,4.4vw,3.2rem);line-height:1.02;letter-spacing:-.03em}
+.text-accent{background:linear-gradient(100deg,var(--g4),#ff9f43 38%,var(--g3) 72%,var(--g1));background-size:220% 100%;-webkit-background-clip:text;background-clip:text;color:transparent;animation:fluir 9s ease-in-out infinite alternate}
+@keyframes fluir{to{background-position:100% 0}}
+.section-eyebrow{font-family:var(--display);text-transform:uppercase;letter-spacing:.2em;font-size:11.5px;opacity:.9}
+
+/* ── Navbar: vidrio líquido con hilo de luz ── */
+.navbar{border-radius:0 0 22px 22px;-webkit-backdrop-filter:blur(22px) saturate(180%)!important;backdrop-filter:blur(22px) saturate(180%)!important;border-bottom:0!important;
+  box-shadow:0 1px 0 rgba(255,255,255,.08),0 20px 50px -20px rgba(0,0,0,.7)}
+.navbar::after{content:"";position:absolute;left:8%;right:8%;bottom:0;height:1px;background:linear-gradient(90deg,transparent,var(--g2),var(--g4),var(--g3),transparent);opacity:.6;filter:blur(.3px)}
+.nav-links a{transition:transform .35s var(--ease),background .3s,color .3s,border-color .3s!important}
+.nav-links a:hover{transform:translateY(-2px) scale(1.04)}
+.nav-links a.activa{background:linear-gradient(120deg,var(--g4),#ffc247)!important;box-shadow:0 6px 22px -6px rgba(255,235,59,.7)}
+
+/* ── Tarjetas bento: vidrio + foco interno + borde vivo ── */
+.sx-card,.caja,.otra,.per-caja,.cuenta,.secciones-grid a,.gr-cols>div,.t10-lista li,.destacada-sx{position:relative;isolation:isolate;overflow:hidden;
+  border-radius:20px!important;transition:transform .5s var(--ease),border-color .3s,box-shadow .5s var(--ease)!important;
+  -webkit-backdrop-filter:blur(14px);backdrop-filter:blur(14px)}
+.sx-card::before,.caja::before,.otra::before,.per-caja::before,.cuenta::before,.secciones-grid a::before,.gr-cols>div::before,.t10-lista li::before,.destacada-sx::before{
+  content:"";position:absolute;inset:0;z-index:-1;pointer-events:none;opacity:0;transition:opacity .4s;
+  background:radial-gradient(420px circle at var(--mx,50%) var(--my,0%),rgba(255,255,255,.13),rgba(124,82,204,.10) 40%,transparent 65%)}
+.sx-card:hover::before,.caja:hover::before,.otra:hover::before,.per-caja:hover::before,.cuenta:hover::before,.secciones-grid a:hover::before,.gr-cols>div:hover::before,.t10-lista li:hover::before,.destacada-sx:hover::before{opacity:1}
+.sx-card::after,.destacada-sx::after,.secciones-grid a::after{content:"";position:absolute;inset:0;border-radius:inherit;padding:1px;pointer-events:none;opacity:0;transition:opacity .4s;
+  background:conic-gradient(from var(--ang),transparent 0 55%,var(--g2),var(--g4),var(--g3),transparent 95%);
+  -webkit-mask:linear-gradient(#000 0 0) content-box,linear-gradient(#000 0 0);-webkit-mask-composite:xor;mask:linear-gradient(#000 0 0) content-box exclude,linear-gradient(#000 0 0);
+  animation:gira 5s linear infinite}
+.sx-card:hover::after,.destacada-sx:hover::after,.secciones-grid a:hover::after{opacity:1}
+@keyframes gira{to{--ang:360deg}}
+.sx-card h3{font-family:var(--display);font-size:17px;letter-spacing:-.015em;line-height:1.28}
+.sx-card .foto,.destacada-sx .foto{border-radius:14px;overflow:hidden}
+.sx-card .foto img{transition:transform .9s var(--ease),filter .6s}
+.sx-card:hover .foto img{transform:scale(1.09);filter:saturate(1.15) contrast(1.04)}
+
+/* Bento: primera tarjeta grande en pantallas anchas */
+@media(min-width:1000px){
+  .sx-grid{grid-template-columns:repeat(4,1fr)!important;gap:18px!important}
+  .sx-grid>.sx-card:first-child{grid-column:span 2;grid-row:span 2}
+  .sx-grid>.sx-card:first-child h3{font-size:clamp(1.5rem,2.4vw,2.2rem);line-height:1.08;letter-spacing:-.03em}
+  .sx-grid>.sx-card:nth-child(6n+4){grid-column:span 2}
+}
+
+/* ── Botones: borde de luz + destello ── */
+.platform-btn,.btn,a.b,.tg,.leer,.sx-mas a,.conc-mas a,.blk-mas a{position:relative;overflow:hidden;transition:transform .45s var(--ease),box-shadow .45s var(--ease)!important}
+.platform-btn::after,.btn::after,a.b::after,.tg::after{content:"";position:absolute;top:0;left:-120%;width:60%;height:100%;pointer-events:none;
+  background:linear-gradient(100deg,transparent,rgba(255,255,255,.55),transparent);transform:skewX(-20deg);transition:left .8s var(--ease)}
+.platform-btn:hover::after,.btn:hover::after,a.b:hover::after,.tg:hover::after{left:140%}
+.platform-btn:hover{box-shadow:0 14px 34px -10px rgba(124,82,204,.7),0 0 0 1px rgba(255,235,59,.4)!important}
+
+/* ── Cintas ── */
+.tira-uh,.tira-sp{-webkit-backdrop-filter:blur(10px);backdrop-filter:blur(10px)}
+.cinta-sp{mask-image:linear-gradient(90deg,transparent,#000 40px,#000 calc(100% - 40px),transparent)}
+
+/* ── Pie y bandas ── */
+.cta-band{position:relative;overflow:hidden;border-radius:28px;margin:0 16px}
+.cta-title{font-size:clamp(2rem,5.4vw,3.6rem);line-height:1}
+.footer{border-top:1px solid var(--cristal-b)!important}
+
+/* ── Transiciones entre páginas (Chrome/Safari modernos) ── */
+@view-transition{navigation:auto}
+::view-transition-old(root){animation:vt-sale .28s ease both}
+::view-transition-new(root){animation:vt-entra .45s var(--ease) both}
+@keyframes vt-sale{to{opacity:0;transform:scale(.99)}}
+@keyframes vt-entra{from{opacity:0;transform:translateY(14px)}}
+
+/* ── NOTAS (plantilla de sitio_web.py): lectura oscura, tipo revista ── */
+body:has(.cabecera){background:#0b0812;color:#ece9f6}
+body:has(.cabecera) .top{background:rgba(11,8,18,.7);-webkit-backdrop-filter:blur(20px) saturate(170%);backdrop-filter:blur(20px) saturate(170%);border-bottom:1px solid var(--cristal-b);position:sticky;top:0;z-index:50}
+body:has(.cabecera) .top .logo{font-family:var(--display);color:var(--g4);letter-spacing:-.01em}
+body:has(.cabecera) .top .tg{border-radius:99px;background:linear-gradient(120deg,var(--g4),#ffc247)}
+body:has(.cabecera) .cabecera{background:radial-gradient(800px 380px at 15% 0,rgba(124,82,204,.4),transparent 65%),radial-gradient(600px 300px at 90% 100%,rgba(255,77,166,.18),transparent 70%),#0b0812;padding:56px 20px 34px}
+body:has(.cabecera) .cabecera h1{font-family:var(--display);font-size:clamp(2.2rem,6vw,4.6rem);line-height:.98;letter-spacing:-.04em}
+body:has(.cabecera) .kicker{border:1px solid rgba(255,235,59,.5);border-radius:99px;padding:5px 14px;text-transform:uppercase;font:700 11px var(--display);letter-spacing:.16em;color:var(--g4)}
+body:has(.cabecera) .firma{border-bottom:1px solid var(--cristal-b)}
+body:has(.cabecera) .pagina{padding-top:34px}
+body:has(.cabecera) article{color:#e7e3f3}
+body:has(.cabecera) article p{text-align:left;hyphens:manual;-webkit-hyphens:manual;font-size:1.12rem;line-height:1.78;color:#dcd8ea}
+body:has(.cabecera) article p:first-of-type::first-letter{font-family:var(--display);font-weight:800;font-size:3.6em;float:left;line-height:.86;margin:.06em .12em 0 0;color:var(--g4)}
+body:has(.cabecera) article h2{font-family:var(--display);border-bottom:1px solid var(--cristal-b);font-size:1.45rem;letter-spacing:-.02em}
+body:has(.cabecera) article blockquote{border-left:0;position:relative;padding:22px 26px;background:var(--cristal);border:1px solid var(--cristal-b);border-radius:20px;font-family:var(--display)}
+body:has(.cabecera) article a{color:var(--g2);text-decoration-thickness:1px;text-underline-offset:3px}
+body:has(.cabecera) .hero img,body:has(.cabecera) figure.hero img{border-radius:22px;box-shadow:0 30px 80px -30px rgba(0,0,0,.9)}
+body:has(.cabecera) .share a{border-radius:99px;border-color:var(--cristal-b);color:#fff;transition:all .3s var(--ease)}
+body:has(.cabecera) .share a:hover{background:var(--g4);color:#111;transform:translateY(-2px)}
+body:has(.cabecera) .cta,body:has(.cabecera) .caja-tg,body:has(.cabecera) .act{background:var(--cristal);border:1px solid var(--cristal-b);border-radius:20px}
+body:has(.cabecera) .cta a.b{border-radius:99px;background:linear-gradient(120deg,var(--g4),#ffc247)}
+body:has(.cabecera) .lado h3,body:has(.cabecera) .mas h3{font-family:var(--display);letter-spacing:-.02em}
+body:has(.cabecera) footer{border-top:1px solid var(--cristal-b);color:#a9a4bd}
+body:has(.cabecera) .ad.libre a{border-radius:14px;border-color:rgba(124,82,204,.7);color:#cbb8ff}
+
+/* ── Publicidad: se integra al diseño ── */
+.ad{border-radius:16px}.ad.libre a{transition:all .4s var(--ease)}
+
+/* ── Móvil y accesibilidad ── */
+@media(max-width:700px){
+  body::after{display:none}#mx-foco{display:none}
+  .navbar{border-radius:0 0 16px 16px}
+  .cta-band{margin:0 8px;border-radius:20px}
+}
+@media(prefers-reduced-motion:reduce){
+  body::before,body::after,.text-accent,.sx-card::after,.destacada-sx::after,.secciones-grid a::after{animation:none!important}
+  @view-transition{navigation:none}
+}
