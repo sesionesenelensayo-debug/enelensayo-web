@@ -1,5 +1,18 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Daddy Yankee visita Venezuela acompañado de Danny Ocean",
+    "artista": "Daddy Yankee",
+    "intro": "Según Clx Icons, el reguetonero puertorriqueño Daddy Yankee regresó a Venezuela, esta vez viajando junto al cantante Danny Ocean. El anuncio, reportado por varios medios, confirma su presencia en el p",
+    "telegraph_url": "https://telegra.ph/Daddy-Yankee-visita-Venezuela-acompañado-de-Danny-Ocean-10-31",
+    "url": "https://enelensayomedia.com/notas/daddy-yankee-visita-venezuela-acompanado-de-danny-ocean-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/daddy-yankee-visita-venezuela-acompanado-de-danny-ocean-1031.jpg",
+    "fecha": "2026-10-31T07:42:21.531024",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Cine Mexicano recomienda películas esenciales para el Día de Muertos",
     "artista": "Cine Mexicano",
@@ -1544,20 +1557,6 @@
     "url": "https://enelensayomedia.com/notas/john-bonham-la-muerte-que-mato-a-led-zeppelin-1030.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/john-bonham-la-muerte-que-mato-a-led-zeppelin-1030.jpg",
     "fecha": "2026-10-30T09:52:15.766287",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "ROBERT PALMER: El dolor que calló",
-    "artista": "Robert Palmer",
-    "intro": "La plataforma de periodismo musical En El Ensayo Media ha publicado un nuevo material audiovisual centrado en la figura de Robert Palmer. A través de un video en formato YouTube Shorts titulado \"ROBER",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/robert-palmer-el-dolor-que-callo-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/robert-palmer-el-dolor-que-callo-1030.jpg",
-    "fecha": "2026-10-30T09:40:02.653637",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música",
