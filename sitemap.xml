@@ -2,6 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url><loc>https://enelensayomedia.com/</loc><lastmod>2026-10-31</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
 <url><loc>https://enelensayomedia.com/anunciate.html</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+<url><loc>https://enelensayomedia.com/contacto.html</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+<url><loc>https://enelensayomedia.com/privacy.html</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
 <url><loc>https://enelensayomedia.com/notas/top-10-semanal-lo-mas-escuchado-en-mexico-y-el-mundo-shorts-1031.html</loc><lastmod>2026-10-31</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://enelensayomedia.com/notas/frostpunk-llega-a-nintendo-switch-el-19-de-octubre-con-demo-disponible-1031.html</loc><lastmod>2026-10-31</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://enelensayomedia.com/notas/cultura-colectiva-senala-que-mexico-es-poca-cosa-para-kris-jenner-y-ki-1031.html</loc><lastmod>2026-10-31</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -276,8 +278,6 @@
 <url><loc>https://enelensayomedia.com/notas/brian-johnson-cumple-79-anos-y-sigue-sobre-el-escenario-con-ac-dc-1005.html</loc><lastmod>2026-10-05</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/caloncho-y-juan-pablo-vega-lanzan-tunel-de-escape-1031.html</loc><lastmod>2026-10-31</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/carlos-alonso-el-pintor-argentino-y-su-obra-expresionista-1029.html</loc><lastmod>2026-10-29</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-<url><loc>https://enelensayomedia.com/notas/chisme-de-pasillo-aleks-syntek-confirma-su-separacion-y-crisis-emocion-1029.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
-<url><loc>https://enelensayomedia.com/notas/chisme-de-pasillo-isabella-rojas-y-ernesto-chavana-dron-y-controversia-1030.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/cinco-datos-de-la-vida-de-jose-jose-1030.html</loc><lastmod>2026-10-30</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/cinco-hechos-reales-sobre-la-trayectoria-de-janis-joplin-1029.html</loc><lastmod>2026-10-29</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/como-armo-eddie-van-halen-la-guitarra-que-cambio-el-rock-su-historia-1029.html</loc><lastmod>2026-10-29</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -323,7 +323,6 @@
 <url><loc>https://enelensayomedia.com/notas/fallece-gustavo-cordera-exfrontman-de-bersuit-vergarabat-1017.html</loc><lastmod>2026-10-17</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/fallece-la-actriz-y-cantante-brasilena-lua-blanco-a-los-39-anos-1018.html</loc><lastmod>2026-10-18</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/fallece-peabo-bryson-a-los-75-anos-tras-un-derrame-cerebral-1016.html</loc><lastmod>2026-10-16</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-<url><loc>https://enelensayomedia.com/notas/fallece-sir-patrick-stewart-a-los-86-anos-1029.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/felipe-colombo-reinventa-el-sonido-rock-funk-y-pop-en-una-sola-explosi-0918.html</loc><lastmod>2026-09-18</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/fidel-nadal-61-anos-de-reggae-y-punk-subterraneo-1029.html</loc><lastmod>2026-10-29</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/fidel-nadal-cumple-61-anos-de-vida-1004.html</loc><lastmod>2026-10-04</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -360,11 +359,9 @@
 <url><loc>https://enelensayomedia.com/notas/la-exluchadora-que-aterrorizo-mexico-juana-barraza-1029.html</loc><lastmod>2026-10-29</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/la-historia-real-y-los-records-del-grupo-mexicano-rbd-1029.html</loc><lastmod>2026-10-29</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/la-historia-secreta-de-sting-1029.html</loc><lastmod>2026-10-29</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-<url><loc>https://enelensayomedia.com/notas/la-historia-y-records-ocultos-de-rbd-1030.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/la-masacre-de-jonestown-900-personas-bebieron-el-veneno-1029.html</loc><lastmod>2026-10-29</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/las-poquianchis-el-infierno-de-los-burdeles-que-enterro-a-cientos-1028.html</loc><lastmod>2026-10-28</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/los-angeles-azules-los-angeles-azules-de-un-chofer-de-autobus-a-40-1029.html</loc><lastmod>2026-10-29</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-<url><loc>https://enelensayomedia.com/notas/los-videojuegos-peor-calificados-del-ultimo-ano-segun-metacritic-1028.html</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/luces-sobre-campeche-el-video-militar-sin-explicacion-1030.html</loc><lastmod>2026-10-30</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/m100-enciende-el-mes-de-la-musica-chilena-una-travesia-sonora-inespera-0919.html</loc><lastmod>2026-09-19</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/madonna-artista-del-ano-en-los-vmas-2026-1030.html</loc><lastmod>2026-10-30</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -391,6 +388,7 @@
 <url><loc>https://enelensayomedia.com/notas/peso-pluma-triunfa-en-los-billboard-2026-1028.html</loc><lastmod>2026-10-28</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/peter-hernandez-elvis-nino-y-un-grammy-en-2016-1029.html</loc><lastmod>2026-10-29</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/peter-horton-3-anos-sin-su-musica-1030.html</loc><lastmod>2026-10-30</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://enelensayomedia.com/notas/pol-granch-lanza-escalofrios-y-confirma-gira-por-mexico-1031.html</loc><lastmod>2026-10-31</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/por-que-temian-a-john-lennon-de-liverpool-al-dakota-1940-1980-1029.html</loc><lastmod>2026-10-29</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/que-impulso-a-marina-vlady-a-romper-con-el-cine-frances-1029.html</loc><lastmod>2026-10-29</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/que-motivo-al-joven-lennon-a-romper-con-el-sonido-del-skiffle-el-orige-1029.html</loc><lastmod>2026-10-29</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
