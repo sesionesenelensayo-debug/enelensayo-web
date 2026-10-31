@@ -1,6 +1,12 @@
 {
  "chisme": [
   {
+   "titulo": "Karol G y Young Miko protagonizaron un momento que desató rumores",
+   "fuente": "HSB Noticias",
+   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOVkzNlpSMzJYbHZVZ3ZkSE5jRlFYRDEwaWVMMUIweFB6Z0dMTTdRVmR5NFJjOEM0RFYyM0d4emZlMk43NUtnWFUyNU9NZHJvU2ZpNjZIZWNfc1pSVUZxYkVweXVDV1JRSFVreWMtaVVIV1UtTHhULVI1REZTbUtWb3NfNnJnTGpuNWJWZmh6eXlyazUxM2pNSUFDU19WYVk?oc=5",
+   "fecha": "2026-10-31 15:31"
+  },
+  {
    "titulo": "Hollywood y la farándula, entre despedidas y nuevos comienzos",
    "fuente": "www.latribuna.com.py",
    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQU12Z0ZKcFVQYWdOVlZHNVB6b0FtWm1IT2VXdGl4WjdjY1MxMkdEYTJ0NzZqMUFHQklFUWE2NXpKVEM2eE1FSENtZHB4dnBqNW1icDFINkNtTW9DblZHcEtNVU1QU212Zmg4WHhhaThSRS1ENHc3MS0yaW1menVlam9ZREUybFNYWGhmME5TdnVQd1NOU3JobHdTaTd2WjBnblpnanlBQ2Z6c3hOYjAxQVJzOV90aWNwekhUbQ?oc=5",
@@ -25,12 +31,6 @@
    "fecha": "2026-10-31 02:45"
   },
   {
-   "titulo": "Inés Gómez Mont es detenida en Florida tras 5 años prófuga: el caso que sacudió a la farándula mexicana",
-   "fuente": "Diario de Morelos",
-   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOUVaNWVOTlN2REkzY2JMU1V5RnRfN3NVV191VjAwYnAyeUhkcV90cUNydjE4Vkl6ajAxa0hjUW8tR25OaGZCWEtpQ0ZZUHJYcmNiOXdXdTdWck1oYTFXdDZjcDhlVHNxVUNDOGhJdTJmZ05qQkFBTVg1dkcyX2EyZE9nNEZ6RVFMQlpiUnFVc3hBelZtbGd5eTUwSDFFWEV5TDFLX2hXakhhMGo0NHFUQlRWX3l4d3NKOThtZU93akwwemJX0gHKAUFVX3lxTFBzLXdkNjRyenFGX2NSckxMaVBVbUotckhvV0NzSTgta0ZKdWVYckcxRVJSOExEREFvQ004T1g2eHFleEVjQlJlVC1MVlJYLWVTT0lyR3hncEMtbWNoVkNfMXhGbVU0V2VGa2Y0N3VjdFg0ZEt2bkpTWDNIRmtXQTNEYlhqLUxQclIyM04tZ05HcmxSbXlibzdhQU92T1JiWUJHNkYxV25ORWQwb0h4aVU3NUFGNXlfU3k3d25GbGlqVUpVeElfWDR4M3c?oc=5",
-   "fecha": "2026-10-30 21:28"
-  },
-  {
    "titulo": "¡Famosos se roban el show con sus bebés en Halloween!",
    "fuente": "El Siglo Panamá",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNb0hoRXdnajZVbUpOODYyYVBWcklBREtDR2RESEFpTThsdktsNDdtbHhuaWVOT2JSNmQxMEVQY21oSnBYTGVUMzdaWGJwYXJ2ZjhodzdKZWQxWUMtbkpLdjA1N05oMnhRZWFSOUpGYUlSbExWWXJVXzhWTHdlS2VzdEYta1NYX0I5aThrVDV1TkdydUlSb0xpRXpaWdIBoAFBVV95cUxNN1hRcFoyTWJYN3RhQzRFWDBTX2h3QklTdXFab29OWWhXY3BLRzhSMFlaZnlhU0lGUWYycVRMeGFWMXVLUmpERDhFel9PODhqRnZQZVZsUy1CY2JUSFk4R2gtXzhkTkpPcHg5ekM2Q2RpQUhvdTIzVDc3d0oxVVVNcGpRejN6Z1k5OWQ3bVpqenM1UDB2b29yZGN6ZFN1MlZ3?oc=5",
@@ -43,28 +43,34 @@
    "fecha": "2026-10-30 19:41"
   },
   {
-   "titulo": "¡Se confiesa! Amy Gutiérrez expone su dura batalla contra la depresión y el alcohol: “Quería quitarme la vida”",
-   "fuente": "Trome.com",
-   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPX3ZHRDZyRnp0T1dOWUZiVVNfc0xXQ29kdDF6OE5LWUtuZlA2ZF9SeUNwMmdVa1pRWm9RTF9KRm03WVR3OUc2eU9EejlTZzNILXR2dHJkX0VSMUptMGNXU1R5YlM2WGxuaG5GY3ZaQlFodF9wdm5MbS16TWtUTmlxUmlrU3NscE1KU01nS1dmUWVpSWYtOE5wQXA2WVZ0REFCRlNxaEVzNzJKS3lQemdoS0pMZFBZSGN4RmZXRm85QlhHU2xMeUVpUjkweEpJaE0wWjZBdFRXMDlfTlhDR25MSUxndTdKdDDSAfsBQVVfeXFMUElrMVdPeUt6Q0tINi05RkYzZXBtbTFhS2hHaDE0WUo0ZmFGQlJybXNBeU1XUVN0LXNNLWdZeHdock0tc2dEa0paM1FCc1VycUZaN2RWblJDcnoxUHhacXZ1YklrdndvbnFOYkxpak9vMlhoZjRvM1ZYdEUxdUF2ZlFxOXhWaDAzMXBfMDJGNndfWXF5ejdXeURpZl9CRGMyaVZyRVZMR1BGNUZNRXkxSVk1MHYyVm1SUS1ndnI1dHUzTzFJUGFObzNJT1F5UDNBeF9OTjVmM0xGNEFGaEVXVXY5QV9VM25meTEzTkw1QTdLb3lyQnM3MkJuREU?oc=5",
-   "fecha": "2026-10-30 18:24"
-  },
-  {
    "titulo": "Kbeto Zuleta: hijo del Poncho Zurita lucha por su vida tras accidente en Colombia",
    "fuente": "Diario Extra",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV2syeFNzcDMycXpvYzRsbU1rN2F6RmhuMktlNG9VYjZQMGZyQ1NfSUlnSldzamIwcWM4NTdyM29WQVhuVllLdkFGMk04bER0VTdFUTRGSWc3eTdlYU1iVm9HTWJSdXZwbHM1SVJPMXNOUV9kTTNSdkxfb0JTVWN0LU5feW9WeFZXOVpnZnBOM2hfc0gtUlJYRmdpWVlicU5CQzJqenBnQWNZemIwZVBsekdR0gG3AUFVX3lxTFA2QjJwWVRueEl4a3k2X2FYOWRYcklfUElNaERFZE9PVGZfU0dLVTNvWnFPWVVvRXgtWjEzQm45VzhkM3o1NHI0eW44ckFWTDlCQlhpeVgydk5fTzNwczdJV01MVTZBdFNYa1RSYzMxVDV1NTFiMXgwc2ZYN2YtSkVjTDlaSXMybVJtdHhhR2FMRjFmNGxoQkpWMEdWTllhcVNGSTc5UzBzUG5rS0JkSkJDSWlTR0MwSQ?oc=5",
+   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNkIycFlUbnhJeGt5Nl9hWDlkWHJJX1BJTWhERWRPT1RmX1NHS1Uzb1pxT1lVb0V4LVoxM0JuOVc4ZDN6NTRyNHluOHJBVkw5QkJYaXlYMnZOX08zcHM3SVdNTFU2QXRTWGtUUmMzMVQ1dTUxYjF4MHNmWDdmLUpFY0w5WklzMm1SbXR4YUdhTEYxZjRsaEJKVjBHVk5ZYXFTRkk3OVMwc1Bua0tCZEpCQ0lpU0dDMEnSAbcBQVVfeXFMUDZCMnBZVG54SXhreTZfYVg5ZFhySV9QSU1oREVkT09UZl9TR0tVM29acU9ZVW9FeC1aMTNCbjlXOGQzejU0cjR5bjhyQVZMOUJCWGl5WDJ2Tl9PM3BzN0lXTUxVNkF0U1hrVFJjMzFUNXU1MWIxeDBzZlg3Zi1KRWNMOVpJczJtUm10eGFHYUxGMWY0bGhCSlYwR1ZOWWFxU0ZJNzlTMHNQbmtLQmRKQkNJaVNHQzBJ?oc=5",
    "fecha": "2026-10-30 17:17"
   },
   {
-   "titulo": "Abogado de Maribel Guardia no descarta que existan hijos no reconocidos de Julián Figueroa que peleen por su herencia",
-   "fuente": "La Prensa Gráfica",
-   "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPTzd5NzdnVFpEVjVmV3ZZd2p0WEllMDZZZ0NHSmx4YWQyWmFCNU44SHJnajlrVHRRYUY0QUZzcl85SnNGZDVqQlltNjBZdUFWTGpnc0ZFYTBvOE1IY3JfbzVxRjhJSWk1ZjkxYW5zQWlacHFObEsyUmhMMXBzMDZqWVBUR3FtYkZFQUJIczhOZ3I5Q1pkdnRMbTZiSi1MYU1obTFaLWxsZ3lSY01OVEZLMzY3U1hnZXNKMmpmbFFIcE51Q2RnNVRDUDNJbjZRaE9BU18zMTE4Y2tEQkNNMXdwaGJJa19zT1RqYUJqWkMxbnhmR1FTOU1MeVpQcnZ6WG1CenBvU1FCa3pMUQ?oc=5",
-   "fecha": "2026-10-30 16:11"
+   "titulo": "[VIDEO] ¡Talento norteño! Cantante quiere cumplirle el sueño a la pequeña Rocío Aramí",
+   "fuente": "Crónica.com.py",
+   "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQNUZSZnVyakJ2b0xHWVVwUzdsSzBFLTNkRVgwSTEwbjVKak9xeGRFclhEcG9NYkc1TUVzMnp3UkdBYTYxa0NJMnlqLUZKaXVyaXQtOWg5V2RrVlktU0t6dXE5eGhTWUxtXzdxelA4M2s0U2F3ZzVfOHdaY0JydmpMdHFTYzdDbVFJUy1lcVFfYnFKV1l1RldLSFhwTEF0QWFUamljTF9TdUFzbjNXVllrZnpmNC1NYXRfamFaMGIyamdRVlRUMXIyZkxaNS1xWjZqNHB3Q0FYbnhHQm9PUWZrbDVsMUNoTFU?oc=5",
+   "fecha": "2026-10-30 15:17"
+  },
+  {
+   "titulo": "Luigui Carbajal revela que su suegra se oponía a su relación con Diana García: “Pensaba que era un demonio”",
+   "fuente": "Trome.com",
+   "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPaGhzUkQ5NHFnTFRtTjNBeUktdFV0WXV0UUVBZFlhWnFYdXNITGNsTnI3ZGRka3BfeE5Kd3hMc1VsaUxNOXVQWFVPSDl4UEJYMjVsc2JXWTkyNmZmUDVOZy1xamdsUjUwbFpQdlVFekV2MTJTTUFVR21uY3dmSU9CSEo4X0RsV1RZbEZlT2Fqd1ZGSEctN1p3eV8xUXd6Vm84OHBBa0RRVnZzM2kwWGZ1OE11WjgzSk55NTA4eFNvc3VRN3lfcDRVTHpNUzg4Zk5TY3c4R2lrTjQ5czV1OUQ0UW5kdDE3bDlTQkN1aVRDY2xMWUhUMVZXNGFn0gGOAkFVX3lxTE0tbkNreDRNOG1YY0pBNXVia05wUHBhR0tXN1lScHpRem5qd1Z0NHpMT3pTbE8xaTBaRXlZc1BzdnJxYTZqVXhyczUxa2xRUENQdGRiZXVsdnQycFFlcHhvVUcxYlB1bnJRNHg5dFpCWW5KaTJRQmRWblJLeG5jZjl5RFF2X3dhaGZUU1ZJalBQS2VaTlhOQVpSRThuaVVrZEFlcDJ6ZGlJT1F5RktTT1kxSWktUlFwM2FPNHVnR1hYb1dWVDdYU3dHaE5PZThFcXRqX1pYZFlKdlN5SDRmVXJCejgwSWYxT1BKdU83U0hoaG1Id1ZBbTJRdEFPZWt5VTJkdDNHWlBWWGJiZ3YzQQ?oc=5",
+   "fecha": "2026-10-30 12:33"
   },
   {
    "titulo": "Dalvin “La Melodía” habla del difícil momento que vivió su esposa por las críticas",
    "fuente": "El Nuevo Día",
    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOd2Z2aUFRY1pYWWR2UU1qMFZzQVFOZ09faGxvM2NxWlBSSVRhampHeDNDaDFtS0VfcEF0aUZHN3NpUENnN2Z3OVVob3lBTkdoZ2ZLZlh4MlZ1LTFISjNJWTRFMEVSOEVOZDNUSWZjVHM5UXh3aDdndFNOdTR4dVR6TW1TdHZOWk1qaE9IWnJ1YzFiSmhjUjZwODhPTkVjRk1tcDBPMlJ6Yk90VlZLaWUxQ1p1OFNBVUY2Mi1mTnpLT0FXNlA2TFo1LXY2UkNsMFlhVkhXN2VlNA?oc=5",
    "fecha": "2026-10-30 12:24"
+  },
+  {
+   "titulo": "Farándula internacional con novedades de estrellas y reencuentros",
+   "fuente": "www.latribuna.com.py",
+   "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaFBvNDdoMzdiUkZzMWc1aER5ajQ1WmxEanBPSlNsZ2EzdkJGMXh6azQzQ0h6LU9RTW5HZnRUYnU2X3lhSXRjSnVieFFZX3hoQ093UXhxZzZ5ZHBGTVY0UzBqaUxkQ0VqbEd4bjFWVXJVVm5ocE9CaUhKcGNNR2ZBRkZ1VTVGZTBzc2xJSFF0TUs3VnZ0TmNvbGQzd2FZak5Lc1hIT21WR0ZpRHFDN09STHpSZkdPN0d0WkRKemRVVjFvNjQ?oc=5",
+   "fecha": "2026-10-30 04:00"
   },
   {
    "titulo": "Patrick Stewart, Catherine O’Hara, Eric Dane y TODOS los famosos que han muerto en 2026: lista de íconos de l",
@@ -77,12 +83,6 @@
    "fuente": "Cadena Heat",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNMzk2QnRyejFkdzdHZmdEVUxXZHF6dEdvckMwRUdDN0ZfZFNPUmo3MGU4N1BiOWtsRmN4dkNfeDRDTHdGeHhNcktaVTJmVU42TmptQ1JqeGVOREluZUhEWUhtNHFTa0YyUkRnOWVGZ1VRMWJCSkFEcTN3cV9tMnZtY1piNlVJLW1EcEJ6VXBNZlJ0WHcxdWhndUxPNmZrU2xTSUptVzVsbDBNVzdvWUV3WkdNTi1mXzZ4WVRYZENvbnQ1ZERJeTFCMnYzaDRZcXB4Tmc?oc=5",
    "fecha": "2026-10-29 23:17"
-  },
-  {
-   "titulo": "¿Quiénes son las otras personalidades que descansan en el Panteón Francés donde será sepultado Cuauhtémoc Cárdenas?",
-   "fuente": "Infobae",
-   "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPQVhNWU4xLTFnTGdyb25Sc0VUUWlKa2VVMk1SanAtQTNLaUVQNDRwaEJyYmlob20xc1V3NTRMVDhpb2taN3pUa3AyME8tMWhTZGR0REpKZ0ZGbjA0b2w3VEdYODAtVVUwRGUtdE1MaDlaVngtWDM4Mkg1dF90UnhLM2JzT1l0RHpHd2I5RTFpaEdYZmR0bTE1eFVFOWh0WWFuVkREbmNHSTR3c2pGNzBtZWh2UlVuT0Q2NWloN09hUnRqV2RpdFVfdnl5eFljd3BnWW5WRTA4anNmRl9xalcwVVZGYzlFNC1tTGV4TNIBhwJBVV95cUxOU0QwYTZ3eHBPQXZkSkxwOHFZRnc1UEkwRTQ4M3VhRVZaTm1ES1lqSmFZN0hTdWRSU29XQ2hSYXpiTThfY3FhUkVvWms4RFEtcGV5anN5aUFQZ2JJU3M3eEtVcFg1T2JlUW5tVllHbjRrWGc3bTNDU3JjdWM3eXF2WkZTdU0zMDdWOWRUem8xN3hqMEg5cGFGSnc3SUFLeVo1ZnRLRzZZT3hveVBJZTZJVDN0UXpoZHd4RElBR0dDaWM1TlRNaWhGZHlVNHRsWDdWa0xfbWRUZHpJaDBHd3NLUmx4S0xRbDc3R0xFUHJQTGYycFRwUDRIWURPZERjRnFHTUsxZzlLWQ?oc=5",
-   "fecha": "2026-10-29 23:03"
   },
   {
    "titulo": "Melody, cantante, sobre la maternidad: \"Las mujeres tenemos que armarnos de valor y ponernos a trabajar inmediatamente porque si no parece que sales del mapa\"",
@@ -143,6 +143,12 @@
  ],
  "misterio": [
   {
+   "titulo": "Folclore digital: cuando el terror habita en la pantalla",
+   "fuente": "UDG TV",
+   "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTm1zUlBTN29XTjBoVjh0WVBTT0MxRm1xWXdWYmxQNjBrZ3dMUWpkdlJKeFBpQUt0SEV0cWttZnJCT2Z6TmN2V3Z5MDFwWWlPY1RyVERwM25oemk2amdscUpQOUFhYWJGc3lkRmV1MnotdlpydUtTb2ZpSGpDNjluVTg0ZGpLaWNpSy04bW96MGlzMlk?oc=5",
+   "fecha": "2026-10-31 14:00"
+  },
+  {
    "titulo": "Un Halloween de leyenda: Mitos, monstruos y pesadillas",
    "fuente": "Periódico Zócalo",
    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNejZwLVotMmVwMWdhQWFfNnZkMWx4bjJnNXc0Wm1RV2o3UHRFN0hXQWdoX0pqcjlrWmo1N3FmNUVkb0lMeGtmUS1vRzN3LW5LZWx2UWd6OHlEcE9OVUh1YWY0cWU3TVVHU1kwLVlidWpBT20tbmpXZFJTd1czLV94LXMzYkhWZw?oc=5",
@@ -195,12 +201,6 @@
    "fuente": "MILENIO",
    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaDhlU1ZZTkdGMzF5LUZEOTlnWThKRVhzaHViOFRuMzZTRDl4aWtNZmZ3X0lnU0hmeHBGMmIzWmFweGVTXzFqbzJLb0pyT0FvZERWa3F1ZU5PYS14MkZXNUo4ZVhMTGdVZmpiZUQ2Q0dta0lDRkpqa1NsdUtBVEVSTlVEbTdfQnk2cVBCa19CV3BtYjI2X2FWNENVanRvelJ1WEM40gGjAUFVX3lxTE5nOW9oSVgxdWdkckJNUGFEWXJRaV9WaW9tNVNpaGc4LXBId0VXWFJqbzZHcDNKSHYwSTRTdldTbnFvQm1zTEtYc2ZJejR1Yk83QWJ6WXZIT0ZJZUw5UHdTZDhISHZvVGlGclZORXllVnNWUUNXQ0NDM3Z1R0hVVGp6SDFyUVRfWmNHdERscEFlNVVCYXkzc0FxZmZ4SEg4OThaelE?oc=5",
    "fecha": "2026-10-30 00:58"
-  },
-  {
-   "titulo": "Palpitando Halloween: ¿qué historias paranormales conocen los villamarienses? (VIDEO)",
-   "fuente": "Facebook",
-   "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQeU9QblRZVHhRelU0Q3JNOUxINHBxSU84LUxSY3dWaWQyWTZsQ3k0Y25veEtZZjdnZGhOc1V6N2cyVmlSQXVJc2ktRXM2Wm4ybTNQb2I2QXNoMTVOMkxEdjlpVlhIQ3RxNzRRT00xNVJ0Qmh6WGxVSG5kaHFuSWNDaDhsczhERHdrbDlOaGpoR1hIOURwMUVzRGxzVW9TTzFYQlRIUmt3cUJKQzJaRkhnVmQ1NnBYOEc0c2tydkk2MHNJT1g5bDB6aXdMRG8zaWwzS0JtcTdDMWVwUVM0TEJpWQ?oc=5",
-   "fecha": "2026-10-29 20:20"
   },
   {
    "titulo": "De Lizzie Borden a ‘El conjuro’: siete casas que inspiraron estos clásicos de terror",
@@ -259,5 +259,5 @@
    "tipo": "longs"
   }
  ],
- "actualizado": "2026-10-31 07:37"
+ "actualizado": "2026-10-31 09:38"
 }
