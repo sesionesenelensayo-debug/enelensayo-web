@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Todo lo que no sabías de Juan Almeida Bosque",
+    "artista": "Juan Almeida Bosque",
+    "intro": "Un nuevo video en YouTube, titulado 'Todo lo que no sabías de Juan Almeida Bosque', explora aspectos menos conocidos del revolucionario y compositor cubano. Publicado en el canal 'En el Ensayo — Live ",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/todo-lo-que-no-sabias-de-juan-almeida-bosque-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/todo-lo-que-no-sabias-de-juan-almeida-bosque-1030.jpg",
+    "fecha": "2026-10-30T21:22:46.302915",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Mía Rubín responde a rumores de ruptura con Tarik Othón",
     "artista": "Mía Rubín",
     "intro": "La cantante Mía Rubín ha reaccionado a los rumores de ruptura con Tarik Othón. Según reportes de medios como HOLA y Panorama Web, la artista emitió un comentario sobre la situación, describiéndola com",
@@ -1518,20 +1532,6 @@
     "url": "https://enelensayomedia.com/notas/el-tragico-final-del-guitarrista-de-paul-mccartney-y-wings-1030.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/el-tragico-final-del-guitarrista-de-paul-mccartney-y-wings-1030.jpg",
     "fecha": "2026-10-30T08:23:12.382299",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El compositor alemán detrás del éxito de 1967",
-    "artista": "El compositor alemán detrás del éxito de 1967",
-    "intro": "En una breve nota de En El Ensayo se revela que la obra del compositor alemán Engelbert Humperdinck, autor de la ópera Hänsel y Gretel, alcanzó la lista de éxitos en 1967. El dato destaca cómo una pie",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-compositor-aleman-detras-del-exito-de-1967-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-compositor-aleman-detras-del-exito-de-1967-1030.jpg",
-    "fecha": "2026-10-30T08:10:29.780059",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música",
