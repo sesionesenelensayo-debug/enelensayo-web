@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Joss Favela estrena ‘Un Hilo’, su nuevo y desgarrador sencillo",
+    "artista": "Joss Favela",
+    "intro": "Joss Favela, el reconocido cantante y compositor mexicano, ha lanzado su nuevo sencillo ‘Un Hilo’, descrito como desgarrador. Este estreno se suma a su trayectoria como uno de los artistas más destaca",
+    "telegraph_url": "https://telegra.ph/Joss-Favela-estrena-Un-Hilo-su-nuevo-y-desgarrador-sencillo-10-31",
+    "url": "https://enelensayomedia.com/notas/joss-favela-estrena-un-hilo-su-nuevo-y-desgarrador-sencillo-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/joss-favela-estrena-un-hilo-su-nuevo-y-desgarrador-sencillo-1030.jpg",
+    "fecha": "2026-10-30T21:54:19.873015",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Kurt Cobain, ¿Courtney estuvo detrás de lo que pasó? La historia completa ",
     "artista": "Kurt Cobain, ¿Courtney estuvo detrás de lo que pasó? La hist",
     "intro": "La noticia aborda la historia completa de Kurt Donald Cobain. El artículo detalla su nacimiento el 20 de febrero de 1967 en Aberdeen, Washington. Se destaca que su infancia fue marcada por el divorcio",
@@ -1510,20 +1523,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Humperdinck: el alumno que Wagner nombró su apoderado",
-    "artista": "Humperdinck",
-    "intro": "Antes de Hänsel y Gretel, Humperdinck vivió cinco momentos decisivos junto a Wagner. Así lo señala la más reciente información difundida sobre el compositor y su relación con el autor alemán, un víncu",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/humperdinck-el-alumno-que-wagner-nombro-su-apoderado-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/humperdinck-el-alumno-que-wagner-nombro-su-apoderado-1030.jpg",
-    "fecha": "2026-10-30T09:14:24.749390",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
     "archivo": true
   },
   {
