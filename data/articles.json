@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "El secreto prohibido del nacimiento de Frédéric Chopin",
+    "artista": "Chopin",
+    "intro": "La producción explora sus precoces inicios en la música y destapa un oscuro secreto familiar vinculado directamente con su nacimiento y su partida de nacimiento original.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-secreto-prohibido-del-nacimiento-de-frederic-chopin-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-secreto-prohibido-del-nacimiento-de-frederic-chopin-1031.jpg",
+    "fecha": "2026-10-31T23:35:42.735978",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "LARRY KEITH: El hombre que creó a Jimi Hendrix",
     "artista": "Larry Keith",
     "intro": "El productor y compositor estadounidense Larry Keith es recordado por haber descubierto a un joven Jimi Hendrix en Nueva York y haberlo llevado al Reino Unido.",
