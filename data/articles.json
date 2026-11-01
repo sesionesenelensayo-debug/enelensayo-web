@@ -1,5 +1,18 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Festival Xandú reúne artistas en Huatulco para celebrar la memoria",
+    "artista": "Festival Xandú",
+    "intro": "El Festival Xandú congregó a diversos artistas en la ciudad costera de Huatulco con el objetivo de honrar la memoria colectiva.",
+    "telegraph_url": "https://telegra.ph/Festival-Xandú-reúne-artistas-en-Huatulco-para-celebrar-la-memoria-11-01",
+    "url": "https://enelensayomedia.com/notas/festival-xandu-reune-artistas-en-huatulco-para-celebrar-la-memoria-1101.html",
+    "imagen_url": "",
+    "fecha": "2026-11-01T09:55:38.880471",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "La película de Street Fighter triunfa en su primer fin de semana",
     "artista": "Street Fighter",
