@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Lobster: punk experimental con estética gótica del Valle de México",
+    "artista": "LOBZTER",
+    "intro": "El grupo, liderado por el vocalista independiente @el_principe_ges, combina crudeza rítmica, texturas alternativas y tintes oscuros dentro del punk experimental.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/lobster-punk-experimental-con-estetica-gotica-del-valle-de-mexico-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/lobster-punk-experimental-con-estetica-gotica-del-valle-de-mexico-1101.jpg",
+    "fecha": "2026-11-01T06:53:39.681038",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "La noche del 9 de marzo de 1997: últimos momentos de The Notorious B.I.G.",
     "artista": "Notorious B.I.G.",
     "intro": "En el video del canal En el Ensayo Media se relata la madrugada del 9 de marzo de 1997, cuando cuatro disparos acabaron con la vida de Christopher Wallace, alias The Notorious B.I.G., en Los Ángeles.",
@@ -2016,20 +2030,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "KURT SANDERLING: 15 años SIN SU MÚSICA",
-    "artista": "KURT SANDERLING",
-    "intro": "Se cumplen 12 años sin Kurt Sanderling, director judío-alemán que marcó la Berliner Sinfonie-Orchester hasta su retiro en 2002. Su muerte en 2011 silenció una batuta que muchos creían eterna. Sanderli",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/kurt-sanderling-15-anos-sin-su-musica-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/kurt-sanderling-15-anos-sin-su-musica-1030.jpg",
-    "fecha": "2026-10-30T16:59:31.890508",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
