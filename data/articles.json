@@ -1,6 +1,33 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Las 10 mayores decepciones cinematográficas de 2026 según la crítica",
+    "artista": "las 10 grandes decepciones de 2026 según la crítica (peor calificadas con más expectativa)",
+    "intro": "Un ranking que combina bajas calificaciones y altas expectativas para señalar los tropiezos más notorios del año.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/las-10-mayores-decepciones-cinematograficas-de-2026-segun-la-critica-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/las-10-mayores-decepciones-cinematograficas-de-2026-segun-la-critica-1031.jpg",
+    "fecha": "2026-10-31T21:08:50.230087",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "El oscuro secreto detrás de la muerte de Kurt Cobain",
+    "artista": "Kurt Cobain",
+    "intro": "El mundo de la música perdió a su mayor ícono generacional de forma trágica. La muerte de Kurt Cobain, vocalista y principal compositor de Nirvana…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-oscuro-secreto-detras-de-la-muerte-de-kurt-cobain-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-oscuro-secreto-detras-de-la-muerte-de-kurt-cobain-1031.jpg",
+    "fecha": "2026-10-31T21:07:49.242283",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "In memoriam"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Natalia Alcocer y Manelyk González protagonizan pelea en 'La Granja VIP'",
     "artista": "Natalia Alcocer y Manelyk",
     "intro": "Natalia Alcocer y Manelyk González, participantes de 'La Granja VIP', tuvieron un fuerte enfrentamiento el 29 de octubre durante la dinámica 'Echar tierra'. El conflicto, reportado por medios como Inf",
