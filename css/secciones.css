@@ -178,3 +178,10 @@ img,iframe{max-width:100%}
 
 /* retratos verticales: en las tarjetas anchas se recorta mostrando la CARA (parte alta), no el torso */
 .sx-card .foto img{object-position:50% 18%}
+
+/* Luchas */
+.lu-filtros{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 14px}
+.lu-chip{border:1px solid rgba(255,255,255,.25);background:transparent;color:inherit;border-radius:999px;padding:6px 14px;font:700 12px/1 inherit;cursor:pointer}
+.lu-chip.on{background:#ffd23f;color:#111;border-color:#ffd23f}
+.lu-camps{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}.lu-camp{background:rgba(255,210,63,.16);border:1px solid rgba(255,210,63,.5);border-radius:8px;padding:3px 8px;font-size:12px}
+.lu-fuente{display:inline-block;margin-top:8px;font-size:12px;opacity:.7}
