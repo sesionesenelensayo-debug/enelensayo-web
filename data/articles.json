@@ -11,7 +11,8 @@
     "author": "Oliver Ken",
     "views": 0,
     "nota_dia": true,
-    "categoria": "Cine"
+    "categoria": "Cine",
+    "ultima_hora": true
   },
   {
     "tipo": "reportaje",

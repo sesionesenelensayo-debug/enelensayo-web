@@ -65,7 +65,8 @@
     var MUS = ['Música', 'Escena local', 'Internacional', 'Conciertos', 'Discos de la semana'];
     var recientes = TODAS.filter(function (a) { return (Date.now() - new Date(a.fecha).getTime()) < 48 * 3600 * 1000; });
     // la nota principal es de MÚSICA ACTUAL (con foto, de las últimas 48 h); si no hay, la marcada «nota del día»; nunca de archivo
-    var nd = recientes.find(function (a) { return MUS.indexOf(a.categoria) >= 0 && a.imagen_url && a.categoria !== 'Discos de la semana'; }) || TODAS.find(esNotaDia) || TODAS[0];
+    var uh = recientes.find(function (a) { return a.ultima_hora && a.imagen_url && (Date.now() - new Date(a.fecha).getTime()) < 24 * 3600 * 1000; });   // [e.leo] última hora (radar, gravedad ≥ 9) abre la portada 24 h
+    var nd = uh || recientes.find(function (a) { return MUS.indexOf(a.categoria) >= 0 && a.imagen_url && a.categoria !== 'Discos de la semana'; }) || TODAS.find(esNotaDia) || TODAS[0];
     var w = $('notaDiaPortada');
     var slides = nd ? [nd].concat(TODAS.filter(function (a) { return a !== nd; }).slice(0, 3)) : [];
     if (nd && w) {
