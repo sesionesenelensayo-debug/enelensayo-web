@@ -1,6 +1,34 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "El Komander anuncia la muerte de su bebé y cancela show",
+    "artista": "El Komander",
+    "intro": "El cantante regional mexicano El Komander confirmó en sus redes sociales la muerte de su bebé, José Eliseo, a pocos meses de su nacimiento. La tragedia lo llevó a cancelar el concierto que tenía progr",
+    "telegraph_url": "https://telegra.ph/El-Komander-anuncia-la-muerte-de-su-bebé-y-cancela-show-10-31",
+    "url": "https://enelensayomedia.com/notas/el-komander-anuncia-la-muerte-de-su-bebe-y-cancela-show-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-komander-anuncia-la-muerte-de-su-bebe-y-cancela-show-1031.jpg",
+    "fecha": "2026-10-31T22:08:15.207854",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-10-31T09:29:15.024218",
+    "actualizada": true
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "El fantasma de la Torre de Londres: historia, testimonios y explicaciones",
+    "artista": "el caso del fantasma de la Torre de Londres",
+    "intro": "Una crónica que recorre siglos de arquitectura, prisioneros célebres y apariciones reportadas, analizando también las interpretaciones escépticas.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-fantasma-de-la-torre-de-londres-historia-testimonios-y-explicacione-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-fantasma-de-la-torre-de-londres-historia-testimonios-y-explicacione-1031.jpg",
+    "fecha": "2026-10-31T22:07:44.453331",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Historias de terror"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Los próximos estrenos de videojuegos que no te puedes perder",
     "artista": "Los próximos estrenos de videojuegos que no te puedes perder",
     "intro": "Se han dado a conocer las fechas de los próximos lanzamientos de videojuegos. Este calendario de disponibilidad permite conocer los momentos en los que saldrán al mercado los nuevos títulos…",
@@ -452,21 +480,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El Komander anuncia la muerte de su bebé y cancela show",
-    "artista": "El Komander",
-    "intro": "El cantante regional mexicano El Komander confirmó en sus redes sociales la muerte de su bebé, José Eliseo, a pocos meses de su nacimiento. La tragedia lo llevó a cancelar el concierto que tenía progr",
-    "telegraph_url": "https://telegra.ph/El-Komander-anuncia-la-muerte-de-su-bebé-y-cancela-show-10-31",
-    "url": "https://enelensayomedia.com/notas/el-komander-anuncia-la-muerte-de-su-bebe-y-cancela-show-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-komander-anuncia-la-muerte-de-su-bebe-y-cancela-show-1031.jpg",
-    "fecha": "2026-10-31T14:16:23.313766",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-10-31T09:29:15.024218",
-    "actualizada": true
   },
   {
     "tipo": "noticia",
