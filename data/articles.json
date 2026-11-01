@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Freddie Mercury: del exilio en Zanzíbar al genio de Queen",
+    "artista": "Freddie Mercury",
+    "intro": "En el video de siete minutos publicado por el canal En el Ensayo Media, se presenta una crónica documental sobre Freddie Mercury, nacido Farrokh Bulsara en Zanzíbar en 1946.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/freddie-mercury-del-exilio-en-zanzibar-al-genio-de-queen-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/freddie-mercury-del-exilio-en-zanzibar-al-genio-de-queen-1101.jpg",
+    "fecha": "2026-11-01T02:01:52.954345",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "El polémico abandono y regreso de Brian \"Head\" Welch a Korn",
     "artista": "KORN",
     "intro": "En el video de En el Ensayo Media se relata la trayectoria de Brian Head Welch, cofundador y guitarrista de Korn, destacando su papel en el éxito del nu metal…",
