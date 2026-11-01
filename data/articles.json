@@ -1,6 +1,32 @@
 [
   {
     "tipo": "noticia",
+    "titulo": "Bronco anuncia el Inquebrantable Tour 2027",
+    "artista": "Bronco",
+    "intro": "La agrupación mexicana Bronco, fundada en 1979 en Apodaca, Nuevo León, anunció la realización del Inquebrantable Tour 2027 para celebrar sus 47 años de trayectoria en la industria musical.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/bronco-anuncia-el-inquebrantable-tour-2027-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/bronco-anuncia-el-inquebrantable-tour-2027-1101.jpg",
+    "fecha": "2026-11-01T15:48:52.786256",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
+    "tipo": "noticia",
+    "titulo": "Kygo anuncia concierto en CDMX para 2027",
+    "artista": "Kygo",
+    "intro": "El DJ noruego Kygo regresa a México con presentaciones en Guadalajara y la Ciudad de México programadas para el año 2027.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/kygo-anuncia-concierto-en-cdmx-para-2027-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/kygo-anuncia-concierto-en-cdmx-para-2027-1101.jpg",
+    "fecha": "2026-11-01T15:47:39.017536",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
+    "tipo": "noticia",
     "titulo": "Stephen King vaticina futuro clásico para filme fallido",
     "artista": "Stephen King",
     "intro": "El aclamado escritor Stephen King ha hecho una predicción sobre el futuro cinematográfico de una producción protagonizada por Margot Robbie que no logró destacar en su paso por las salas de cine.",
