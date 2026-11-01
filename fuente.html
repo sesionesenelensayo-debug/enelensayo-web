@@ -67,6 +67,7 @@
         <li><a href="shorts.html">Shorts</a></li>
         <li><a href="longs.html">Longs</a></li>
         <li><a href="podcast.html">Podcast</a></li>
+        <li><a href="sesiones.html">Sesiones en vivo</a></li>
         <li><a href="sobre.html">Sobre nosotros</a></li>
       </ul>
       <button class="nav-burger" id="navBurger" aria-label="Menú">
@@ -88,6 +89,7 @@
       <a href="shorts.html">Shorts</a>
       <a href="longs.html">Longs</a>
       <a href="podcast.html">Podcast</a>
+      <a href="sesiones.html">Sesiones en vivo</a>
       <a href="sobre.html">Sobre nosotros</a>
     </div>
   </nav>
@@ -557,14 +559,34 @@
           🎙️ El Ensayo Podcast
         </p>
         <h2 class="section-title">El podcast de <span class="text-accent">la escena</span></h2>
-        <p class="section-desc">Todos los videos del canal principal de En el Ensayo: sesiones en vivo, entrevistas y conversaciones con la escena.</p>
+        <p class="section-desc">Episodios, clips y shorts del canal principal de En el Ensayo: entrevistas y conversaciones con la escena.</p>
       </div>
       <div class="pod-barra"><input id="podBuscar" type="search" placeholder="Buscar episodio o artista…" aria-label="Buscar en el podcast"><span id="podCuenta"></span></div>
       <div class="pod-visor" id="podVisor" hidden></div>
-      <div class="pod-grid" id="podGrid"><p class="sx-vacio">Cargando episodios…</p></div>
+      <div class="pod-grid" id="podGrid" data-lista="podcast"><p class="sx-vacio">Cargando episodios…</p></div>
       <button class="sx-mas pod-mas" id="podMas" hidden>Ver más episodios</button>
       <div class="section-footer">
-        <a href="https://www.youtube.com/@EnelEnsayo" class="btn btn--primary" target="_blank" rel="noopener">Ver todos los episodios →</a>
+        <a href="https://www.youtube.com/@enelensayo" class="btn btn--primary" target="_blank" rel="noopener">Ver todos los episodios →</a>
+      </div>
+    </div>
+  </section>
+
+  <section class="section podcast-section" id="sesiones">
+    <div class="section-inner">
+      <div class="section-header">
+        <p class="section-eyebrow">
+          <span class="dot dot--cyan"></span>
+          🎸 Sesiones En el Ensayo
+        </p>
+        <h2 class="section-title">Sesiones <span class="text-accent">en vivo</span></h2>
+        <p class="section-desc">Episodios, clips y shorts del canal principal de En el Ensayo: entrevistas y conversaciones con la escena.</p>
+      </div>
+      <div class="pod-barra"><input id="podBuscar" type="search" placeholder="Buscar sesión o artista…" aria-label="Buscar en las sesiones"><span id="podCuenta"></span></div>
+      <div class="pod-visor" id="podVisor" hidden></div>
+      <div class="pod-grid" id="podGrid" data-lista="sesiones" ><p class="sx-vacio">Cargando sesiones…</p></div>
+      <button class="sx-mas pod-mas" id="podMas" hidden>Ver más sesiones</button>
+      <div class="section-footer">
+        <a href="https://www.youtube.com/@enelensayo" class="btn btn--primary" target="_blank" rel="noopener">Ver todas en YouTube →</a>
       </div>
     </div>
   </section>

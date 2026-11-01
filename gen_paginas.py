@@ -19,6 +19,7 @@ PAGINAS = {  # archivo: (etiqueta de menú, título, descripción, [ids de secci
     "shorts": ("Shorts", "Shorts", "Nuestros videos cortos.", ["shorts"]),
     "longs": ("Longs", "Videos largos", "Los videos largos del canal.", ["longs"]),
     "podcast": ("Podcast", "Podcast", "El podcast de En el Ensayo Media.", ["podcast"]),
+    "sesiones": ("Sesiones en vivo", "Sesiones en vivo", "Sesiones, conciertos e improvisaciones en vivo de En el Ensayo Media.", ["sesiones"]),
     "sobre": ("Sobre nosotros", "Sobre nosotros", "Quiénes somos y cómo trabajamos.", ["estudio", "sobre"]),
 }
 src = open(os.path.join(AQUI, "fuente.html"), encoding="utf-8").read()
@@ -41,7 +42,7 @@ def menu(n, activo):
 
 # portada LIGERA: cabecera + menú + portada (nota del día, lo último, videos) + Top 10 + periódico + botones de sección
 portada = src[src.index("  <!-- ── PORTADA"):src.index("  <!-- ── HERO")]
-ICONOS = {"chisme": "💬", "misterio": "👻", "deporte": "⚽", "exclusivas": "⭐", "top10": "🏆", "periodico": "📰", "newsletter": "✉️", "cine": "🎬", "videojuegos": "🎮", "conciertos": "🎟️", "hitos": "🏅", "shorts": "📱", "longs": "📺", "podcast": "🎙️", "sobre": "💡"}
+ICONOS = {"chisme": "💬", "misterio": "👻", "deporte": "⚽", "exclusivas": "⭐", "top10": "🏆", "periodico": "📰", "newsletter": "✉️", "cine": "🎬", "videojuegos": "🎮", "conciertos": "🎟️", "hitos": "🏅", "shorts": "📱", "longs": "📺", "podcast": "🎙️", "sesiones": "🎸", "sobre": "💡"}
 botones = "".join(f'<a href="{k}.html"><span class="ic">{ICONOS.get(k, "🎵")}</span>{et}</a>' for k, (et, *_r) in PAGINAS.items() if k not in ("noticias",))
 extra = f'''  <section class="section" id="top10-mini"><div class="section-inner">
     <div class="section-header"><p class="section-eyebrow"><span class="dot dot--yellow"></span>Cuenta regresiva semanal</p>
