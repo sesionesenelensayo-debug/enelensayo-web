@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Registro público de correcciones de En el Ensayo Media."><link rel="canonical" href="https://enelensayomedia.com/correcciones.html"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Correcciones — En el Ensayo Media</title>
+  <style>
+    body { font-family: 'Segoe UI', sans-serif; max-width: 800px; margin: 0 auto; padding: 2rem; color: #222; line-height: 1.7; }
+    h1 { color: #0B0812; border-bottom: 3px solid #FFEB3B; padding-bottom: 0.5rem; }
+    h2 { color: #673AB7; margin-top: 2rem; }
+    a { color: #00BCD4; }
+  </style>
+  <meta name="google-adsense-account" content="ca-pub-5230441592261869"><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5230441592261869"
+     crossorigin="anonymous"></script>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&display=swap" rel="stylesheet"><link rel="stylesheet" href="/css/moderno.css?v=20261101a"><meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1"><link rel="manifest" href="/manifest.webmanifest"><meta name="theme-color" content="#0B0812"><link rel="apple-touch-icon" href="/img/icon-192.png"></head>
+<body>
+<h1>Correcciones</h1>
+  <p>Aquí dejamos constancia de las correcciones que hacemos a notas ya publicadas. Si detectas un error, escríbenos a <a href="mailto:sesionesenelensayo@gmail.com">sesionesenelensayo@gmail.com</a> con el enlace de la nota y lo que debería decir.</p>
+  <div id="registro"><p><em>Todavía no hemos registrado correcciones públicas.</em></p></div>
+  <script>
+  fetch('/data/correcciones.json?_='+Date.now()).then(function(r){return r.json()}).then(function(l){
+    if(!l||!l.length)return; var h='';
+    l.slice().reverse().forEach(function(c){h+='<h2>'+String(c.fecha||'').replace(/[<>&]/g,'')+'</h2><p><a href="'+String(c.url||'#').replace(/"/g,'')+'">'+String(c.titulo||'Nota').replace(/[<>&]/g,'')+'</a><br>'+String(c.cambio||'').replace(/[<>&]/g,'')+'</p>';});
+    document.getElementById('registro').innerHTML=h;}).catch(function(){});
+  </script>
+  <p><a href="/como-trabajamos.html">Cómo trabajamos</a> · <a href="/">← Volver al sitio</a></p>
+</body>
+</html>
