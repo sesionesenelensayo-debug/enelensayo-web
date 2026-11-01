@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Paco de Lucía: el prodigio que revolucionó la guitarra flamenca",
+    "artista": "Paco de Lucía",
+    "intro": "En el video del canal En el Ensayo Media se narra la vida del guitarrista flamenco Paco de Lucía, nacido el 21 de diciembre de 1947 en Algeciras.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/paco-de-lucia-el-prodigio-que-revoluciono-la-guitarra-flamenca-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/paco-de-lucia-el-prodigio-que-revoluciono-la-guitarra-flamenca-1101.jpg",
+    "fecha": "2026-11-01T12:20:55.344581",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Celine Dion, la reina de las Power Ballads: trayectoria y hitos clave",
     "artista": "Céline Dion",
     "intro": "En el video del canal En el Ensayo Media se recorre la vida y carrera de Celine Dion, desde sus humildes orígenes en Charlemania, Quebec, hasta su consolidación como la reina de las power ballads.",
