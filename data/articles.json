@@ -1,6 +1,21 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "La película 'Klara y el sol' de Jenna Ortega tropieza en Europa",
+    "artista": "Jenna Ortega",
+    "intro": "La película 'Klara y el sol' de Jenna Ortega tropieza en España y Europa, según lo reportado por el Diario de México. La información difundida por los medios señala el paso del estreno en cines a la i",
+    "telegraph_url": "https://telegra.ph/La-película-Klara-y-el-sol-de-Jenna-Ortega-tropieza-en-Europa-10-30",
+    "url": "https://enelensayomedia.com/notas/la-pelicula-klara-y-el-sol-de-jenna-ortega-tropieza-en-europa-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-pelicula-klara-y-el-sol-de-jenna-ortega-tropieza-en-europa-1030.jpg",
+    "fecha": "2026-11-01T12:27:53.409660",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-10-30T16:57:14.893183",
+    "actualizada": true
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Frostpunk llega a Nintendo Switch el 19 de octubre con demo disponible",
     "artista": "Frostpunk",
     "intro": "Según Players4Players.com, el juego de supervivencia y construcción de ciudades Frostpunk estará disponible en la Nintendo Switch a partir del 19 de octubre, y ya se puede descargar una demo en la eSh",
@@ -2437,19 +2452,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "La película 'Klara y el sol' de Jenna Ortega tropieza en Europa",
-    "artista": "Jenna Ortega",
-    "intro": "La película 'Klara y el sol' de Jenna Ortega tropieza en España y Europa, según lo reportado por el Diario de México. La información difundida por los medios señala el paso del estreno en cines a la i",
-    "telegraph_url": "https://telegra.ph/La-película-Klara-y-el-sol-de-Jenna-Ortega-tropieza-en-Europa-10-30",
-    "url": "https://enelensayomedia.com/notas/la-pelicula-klara-y-el-sol-de-jenna-ortega-tropieza-en-europa-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-pelicula-klara-y-el-sol-de-jenna-ortega-tropieza-en-europa-1030.jpg",
-    "fecha": "2026-10-30T16:57:14.893183",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   },
   {
     "tipo": "reportaje",
