@@ -1,6 +1,19 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "El Fausto encabezará el festival FISCUM",
+    "artista": "El Fausto",
+    "intro": "Según el titular publicado, la agrupación El Fausto será la cabeza de cartel del festival FISCUM.",
+    "telegraph_url": "https://telegra.ph/El-Fausto-encabezará-el-festival-FISCUM-11-01",
+    "url": "https://enelensayomedia.com/notas/el-fausto-encabezara-el-festival-fiscum-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-fausto-encabezara-el-festival-fiscum-1101.jpg",
+    "fecha": "2026-11-01T10:04:08.866496",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Escena local"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Alan Wilson: del escenario de Woodstock a la tragedia a los 27 años",
     "artista": "Alan Wilson",
     "intro": "El video del canal En el Ensayo Media relata la vida y muerte de Alan Wilson, músico que tocó en Woodstock ante medio millón de personas y falleció a los 27 años.",
