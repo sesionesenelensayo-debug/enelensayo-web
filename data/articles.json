@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Luis 'El Negro' Dura: La verdad oculta tras su último disco",
+    "artista": "LUIS EL NEGRO DURA",
+    "intro": "En el Ensayo Media revela la historia detrás del último álbum de Luis 'El Negro' Dura, un ícono de la música tropical mexicana.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/luis-el-negro-dura-la-verdad-oculta-tras-su-ultimo-disco-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/luis-el-negro-dura-la-verdad-oculta-tras-su-ultimo-disco-1101.jpg",
+    "fecha": "2026-11-01T11:11:54.232616",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Fortnite lanza la skin de Nikki Freeman y desata polémica",
     "artista": "Fortnite",
     "intro": "Epic Games presentó la skin de Nikki Freeman, personaje de la película de terror psicológico *Obsession*, en un video promocional el 20 de octubre de 2026.",
@@ -2068,20 +2082,6 @@
     "fecha": "2026-10-30T19:08:30.030161",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "PATRICK SWAYZE: HABRÍA CUMPLIDO 17",
-    "artista": "PATRICK SWAYZE",
-    "intro": "La noticia plantea una interrogante directa: ¿Qué habría creado Patrick Swayze si siguiera aquí? El texto disponible identifica a Patrick Wayne Swayze como un actor, bailarín y cantante estadounidense",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/patrick-swayze-habria-cumplido-17-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/patrick-swayze-habria-cumplido-17-1030.jpg",
-    "fecha": "2026-10-30T18:59:48.968735",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
     "categoria": "Música"
   },
   {
