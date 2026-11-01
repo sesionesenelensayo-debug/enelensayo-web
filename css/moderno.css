@@ -106,7 +106,7 @@ body:has(.cabecera) .kicker{border:1px solid rgba(255,235,59,.5);border-radius:9
 body:has(.cabecera) .firma{border-bottom:1px solid var(--cristal-b)}
 body:has(.cabecera) .pagina{padding-top:34px}
 body:has(.cabecera) article{color:#e7e3f3}
-body:has(.cabecera) article p{text-align:left;hyphens:manual;-webkit-hyphens:manual;font-size:1.12rem;line-height:1.78;color:#dcd8ea}
+body:has(.cabecera) article p,body:has(.cabecera) article li,body:has(.cabecera) article blockquote{text-align:justify;text-justify:inter-word;hyphens:auto;-webkit-hyphens:auto;overflow-wrap:break-word;font-size:1.12rem;line-height:1.78;color:#dcd8ea}
 body:has(.cabecera) article p:first-of-type::first-letter{font-family:var(--display);font-weight:800;font-size:3.6em;float:left;line-height:.86;margin:.06em .12em 0 0;color:var(--g4)}
 body:has(.cabecera) article h2{font-family:var(--display);border-bottom:1px solid var(--cristal-b);font-size:1.45rem;letter-spacing:-.02em}
 body:has(.cabecera) article blockquote{border-left:0;position:relative;padding:22px 26px;background:var(--cristal);border:1px solid var(--cristal-b);border-radius:20px;font-family:var(--display)}
