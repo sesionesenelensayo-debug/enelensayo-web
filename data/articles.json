@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Mara Lezama anuncia el Festival de Cultura del Caribe 2026 del 19 al 22 de noviembre",
+    "artista": "Festival de Cultura del Caribe",
+    "intro": "Mara Lezama confirmó la realización del Festival de Cultura del Caribe 2026, que se llevará a cabo del 19 al 22 de noviembre en Chetumal.",
+    "telegraph_url": "https://telegra.ph/Mara-Lezama-anuncia-el-Festival-de-Cultura-del-Caribe-2026-del-19-al-22-de-noviembre-11-01",
+    "url": "https://enelensayomedia.com/notas/mara-lezama-anuncia-el-festival-de-cultura-del-caribe-2026-del-19-al-2-1101.html",
+    "imagen_url": "",
+    "fecha": "2026-11-01T08:38:27.020691",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura",
+    "fecha_original": "2026-11-01T07:08:39.958614",
+    "actualizada": true
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Santa Sabina regresa y anuncia nueva música",
     "artista": "Santa Sabina",
@@ -152,19 +167,6 @@
     "categoria": "Música",
     "fecha_original": "2026-10-31T23:05:43.058631",
     "actualizada": true
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Mara Lezama anuncia el Festival de Cultura del Caribe 2026 del 19 al 22 de noviembre",
-    "artista": "Festival de Cultura del Caribe",
-    "intro": "Mara Lezama confirmó la realización del Festival de Cultura del Caribe 2026, que se llevará a cabo del 19 al 22 de noviembre en Chetumal.",
-    "telegraph_url": "https://telegra.ph/Mara-Lezama-anuncia-el-Festival-de-Cultura-del-Caribe-2026-del-19-al-22-de-noviembre-11-01",
-    "url": "https://enelensayomedia.com/notas/mara-lezama-anuncia-el-festival-de-cultura-del-caribe-2026-del-19-al-2-1101.html",
-    "imagen_url": "",
-    "fecha": "2026-11-01T07:08:39.958614",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   },
   {
     "tipo": "noticia",
