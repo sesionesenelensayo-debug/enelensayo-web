@@ -4,19 +4,31 @@
   "WWE": [
    {
     "titulo": "World Heavyweight Championship",
-    "campeon": "Roman Reigns"
+    "campeon": "Roman Reigns",
+    "img": "img/luchas/w-roman-reigns.jpg",
+    "credito": "Foto: Diego Serrano · CC BY 2.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:Roman_Reigns_RR25_(1)_(headshot).jpg"
    },
    {
     "titulo": "Women's World Championship",
-    "campeon": "Liv Morgan"
+    "campeon": "Liv Morgan",
+    "img": "img/luchas/w-liv-morgan.jpg",
+    "credito": "Foto: Diego Serrano · CC BY 2.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:Big_E,_Liv_Morgan_%26_Tyler_Breeze_(1)_(cropped_2).jpg"
    },
    {
     "titulo": "WWE Intercontinental Championship",
-    "campeon": "Chad Gable"
+    "campeon": "Chad Gable",
+    "img": "img/luchas/w-chad-gable.jpg",
+    "credito": "Foto: Noon Plastic · CC BY 4.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:WWE_Live_Road_To_WrestleMania,_Toronto,_2022_90_(cropped).jpg"
    },
    {
     "titulo": "WWE Women's Intercontinental Championship",
-    "campeon": "Raquel Rodriguez"
+    "campeon": "Raquel Rodriguez",
+    "img": "img/luchas/w-raquel-rodriguez.jpg",
+    "credito": "Foto: Diego Serrano · CC BY 2.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:Raquel_Rodriguez_RR25_(cropped).jpg"
    },
    {
     "titulo": "World Tag Team Championship",
@@ -24,19 +36,31 @@
    },
    {
     "titulo": "Undisputed WWE Championship",
-    "campeon": "Sami Zayn"
+    "campeon": "Sami Zayn",
+    "img": "img/luchas/w-sami-zayn.jpg",
+    "credito": "Foto: Diego Serrano · CC BY 2.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:Sami_Zayn_March_2023.jpg"
    },
    {
     "titulo": "WWE Women's Championship",
-    "campeon": "Chelsea Green"
+    "campeon": "Chelsea Green",
+    "img": "img/luchas/w-chelsea-green.jpg",
+    "credito": "Foto: TaurusEmerald · CC BY-SA 4.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:Chelsea_Green_Las_Vegas_2025_(cropped).jpg"
    },
    {
     "titulo": "WWE United States Championship",
-    "campeon": "Trick Williams"
+    "campeon": "Trick Williams",
+    "img": "img/luchas/w-trick-williams.jpg",
+    "credito": "Foto: Front Office Sports · CC BY 4.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:Trick_Williams_FOS_2026_version_3_(cropped).png"
    },
    {
     "titulo": "WWE Women's United States Championship",
-    "campeon": "Jacy Jayne"
+    "campeon": "Jacy Jayne",
+    "img": "img/luchas/w-jacy-jayne.jpg",
+    "credito": "Foto: Jonathan Rivera · CC BY 2.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:Jacy_Jayne_2023.jpg"
    },
    {
     "titulo": "WWE Tag Team Championship",
@@ -44,7 +68,10 @@
    },
    {
     "titulo": "AAA World Cruiserweight Championship",
-    "campeon": "Rey Fénix"
+    "campeon": "Rey Fénix",
+    "img": "img/luchas/w-rey-fenix.jpg",
+    "credito": "Foto: grenwail · CC BY 2.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:Rey_Fenix_(cropped).jpg"
    },
    {
     "titulo": "WWE Women's Tag Team Championship",
@@ -52,7 +79,10 @@
    },
    {
     "titulo": "NXT Championship",
-    "campeon": "Grayson Waller"
+    "campeon": "Grayson Waller",
+    "img": "img/luchas/w-grayson-waller.jpg",
+    "credito": "Foto: Mechanical Elephant · CC0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:Grayson_Waller_-_2023_(cropped).jpg"
    },
    {
     "titulo": "NXT Women's Championship",
@@ -76,7 +106,10 @@
    },
    {
     "titulo": "WWE Evolve Women's Championship",
-    "campeon": "Nikkita Lyons"
+    "campeon": "Nikkita Lyons",
+    "img": "img/luchas/w-nikkita-lyons.jpg",
+    "credito": "Foto: Gerrard Facto Graphics · CC0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:Nikkita_Lyons_Powerful_Look_(cropped).jpg"
    },
    {
     "titulo": "WWE ID Championship",
@@ -90,7 +123,10 @@
   "AAA": [
    {
     "titulo": "AAA Mega Championship",
-    "campeon": "El Grande Americano"
+    "campeon": "El Grande Americano",
+    "img": "img/luchas/w-el-grande-americano.jpg",
+    "credito": "Foto: Mechanical Elephant · CC BY-SA 4.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:El_Grande_Americano_-_August_2025.jpg"
    },
    {
     "titulo": "AAA Reina de Reinas Championship",
@@ -98,11 +134,17 @@
    },
    {
     "titulo": "AAA Latin American Championship",
-    "campeon": "La Parka"
+    "campeon": "La Parka",
+    "img": "img/luchas/w-la-parka.jpg",
+    "credito": "Foto: Ferfive · CC BY-SA 4.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:AAA_AGS_3-2026_(165).jpg"
    },
    {
     "titulo": "AAA World Cruiserweight Championship",
-    "campeon": "Rey Fénix"
+    "campeon": "Rey Fénix",
+    "img": "img/luchas/w-rey-fenix.jpg",
+    "credito": "Foto: grenwail · CC BY 2.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:Rey_Fenix_(cropped).jpg"
    },
    {
     "titulo": "AAA World Tag Team Championship",
@@ -110,7 +152,10 @@
    },
    {
     "titulo": "AAA World Mixed Tag Team Championship",
-    "campeon": "La Hiedra and Laredo Kid"
+    "campeon": "La Hiedra and Laredo Kid",
+    "img": "img/luchas/w-la-hiedra.jpg",
+    "credito": "Foto: Ferfive · CC BY-SA 4.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:La_Hiedra_in_2026.jpg"
    },
    {
     "titulo": "AAA World Trios Championship",
@@ -120,15 +165,24 @@
   "NJPW": [
    {
     "titulo": "IWGP Heavyweight Championship",
-    "campeon": "Yota Tsuji"
+    "campeon": "Yota Tsuji",
+    "img": "img/luchas/w-yota-tsuji.jpg",
+    "credito": "Foto: 結牙 · CC BY-SA 4.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:Yota_Tsuji_20250105_(cropped).jpg"
    },
    {
     "titulo": "IWGP Global Heavyweight Championship",
-    "campeon": "Gabe Kidd"
+    "campeon": "Gabe Kidd",
+    "img": "img/luchas/w-gabe-kidd.jpg",
+    "credito": "Foto: 結牙 · CC BY 4.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:Gabe_Kidd_with_the_Strong_Openweight_Championship.jpg"
    },
    {
     "titulo": "IWGP Junior Heavyweight Championship",
-    "campeon": "Yoh"
+    "campeon": "Yoh",
+    "img": "img/luchas/w-yoh.jpg",
+    "credito": "Foto: Monaco njpw · CC BY-SA 4.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:YOHnjpw.jpg"
    },
    {
     "titulo": "NEVER Openweight Championship",
@@ -136,11 +190,17 @@
    },
    {
     "titulo": "Strong Openweight Championship",
-    "campeon": "Boltin Oleg"
+    "campeon": "Boltin Oleg",
+    "img": "img/luchas/w-boltin-oleg.jpg",
+    "credito": "Foto: 結牙 · CC BY 4.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:%E3%83%9C%E3%83%AB%E3%83%81%E3%83%B3%E3%83%BB%E3%82%AA%E3%83%AC%E3%83%83%E3%82%B020240810.jpg"
    },
    {
     "titulo": "NJPW World Television Championship",
-    "campeon": "Shun Skywalker"
+    "campeon": "Shun Skywalker",
+    "img": "img/luchas/w-shun-skywalker.jpg",
+    "credito": "Foto: Yoccy441 · CC BY-SA 4.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:%E3%82%B7%E3%83%A5%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%AB%E3%82%A4%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC2024.jpg"
    },
    {
     "titulo": "IWGP Tag Team Championship",
@@ -148,7 +208,10 @@
    },
    {
     "titulo": "IWGP Junior Heavyweight Tag Team Championship",
-    "campeon": "El Desperado and Místico"
+    "campeon": "El Desperado and Místico",
+    "img": "img/luchas/w-el-desperado.jpg",
+    "credito": "Foto: ゾーヒョー · CC BY-SA 4.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:El_Desperado_2017.jpg"
    },
    {
     "titulo": "Strong Openweight Tag Team Championship",
@@ -164,33 +227,54 @@
    },
    {
     "titulo": "IWGP Women's Championship",
-    "campeon": "Syuri"
+    "campeon": "Syuri",
+    "img": "img/luchas/w-syuri.jpg",
+    "credito": "Foto: J O Y F U L 🐻 V I O L E N C E · CC BY 2.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:Syuri_in_April_2025_(cropped).jpg"
    },
    {
     "titulo": "Strong Women's Championship",
-    "campeon": "Alex Windsor"
+    "campeon": "Alex Windsor",
+    "img": "img/luchas/w-alex-windsor.jpg",
+    "credito": "Foto: KMcWrestling Photography · CC BY-SA 4.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:Alex_Windsor_(cropped).jpg"
    }
   ],
   "CMLL": [
    {
     "titulo": "CMLL World Heavyweight Championship",
-    "campeon": "Hechicero"
+    "campeon": "Hechicero",
+    "img": "img/luchas/w-hechicero.jpg",
+    "credito": "Foto: KMcWrestling Photography · CC BY-SA 4.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:Hechicero_at_ROH_Death_Before_Dishonor_-_August_29_2025_(Headshot).jpg"
    },
    {
     "titulo": "CMLL World Light Heavyweight Championship",
-    "campeon": "Místico"
+    "campeon": "Místico",
+    "img": "img/luchas/w-mistico.jpg",
+    "credito": "Foto: KMcWrestling Photography · CC BY-SA 4.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:Mistico_ROH_(cropped)_(cropped).jpg"
    },
    {
     "titulo": "CMLL World Middleweight Championship",
-    "campeon": "Templario"
+    "campeon": "Templario",
+    "img": "img/luchas/w-templario.jpg",
+    "credito": "Foto: Satanic.boho · CC BY-SA 4.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:Templario_cubriendo_a_su_compa%C3%B1ero_desenmascarado_(cropped).jpg"
    },
    {
     "titulo": "CMLL World Welterweight Championship",
-    "campeon": "Titán"
+    "campeon": "Titán",
+    "img": "img/luchas/w-titan.jpg",
+    "credito": "Foto: ハイエナジー · CC BY-SA 4.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:2023.11.04-titan_(cropped).jpg"
    },
    {
     "titulo": "CMLL World Lightweight Championship",
-    "campeon": "Stigma"
+    "campeon": "Stigma",
+    "img": "img/luchas/w-stigma.jpg",
+    "credito": "Foto: shstrng · CC BY 2.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:STIGMA.JPG"
    },
    {
     "titulo": "CMLL World Mini-Estrellas Championship",
@@ -202,15 +286,24 @@
    },
    {
     "titulo": "NWA World Historic Light Heavyweight Championship",
-    "campeon": "Averno"
+    "campeon": "Averno",
+    "img": "img/luchas/w-averno.jpg",
+    "credito": "Foto: Carlos Adampol Galindo from DF, México · CC BY-SA 2.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:AvernoUnmasked.jpg"
    },
    {
     "titulo": "NWA World Historic Middleweight Championship",
-    "campeon": "Volador Jr."
+    "campeon": "Volador Jr.",
+    "img": "img/luchas/w-volador-jr.jpg",
+    "credito": "Foto: ゾーヒョー · CC BY-SA 4.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:Volador_Jr._2016.jpg"
    },
    {
     "titulo": "NWA World Historic Welterweight Championship",
-    "campeon": "Máscara Dorada"
+    "campeon": "Máscara Dorada",
+    "img": "img/luchas/w-mascara-dorada.jpg",
+    "credito": "Foto: KMcWrestling Photography · CC BY-SA 4.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:Mascara_Dorada_ROH_Death_Before_Dishonor_-_August_20_2026_(cropped).jpg"
    },
    {
     "titulo": "CMLL World Tag Team Championship",
@@ -222,11 +315,17 @@
    },
    {
     "titulo": "CMLL World Women's Championship",
-    "campeon": "Persephone"
+    "campeon": "Persephone",
+    "img": "img/luchas/w-persephone.jpg",
+    "credito": "Foto: KMcWrestling Photography · CC BY-SA 4.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:Persephone_AEW_(cropped).jpg"
    },
    {
     "titulo": "CMLL Japan Women's Championship",
-    "campeon": "India Sioux"
+    "campeon": "India Sioux",
+    "img": "img/luchas/w-india-sioux.jpg",
+    "credito": "Foto: Promo Orbe · CC BY 3.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:India_Sioux_(born_1984)_interviewed_on_Orbe_Espiritual.png"
    },
    {
     "titulo": "CMLL World Women's Tag Team Championship",
@@ -234,7 +333,10 @@
    },
    {
     "titulo": "Mexican National Heavyweight Championship",
-    "campeon": "Esfinge"
+    "campeon": "Esfinge",
+    "img": "img/luchas/w-esfinge.jpg",
+    "credito": "Foto: J O Y F U L 🐻 V I O L E N C E · CC BY 2.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:Esfinge_in_April_2025_(cropped).jpg"
    },
    {
     "titulo": "Mexican National Light Heavyweight Championship",
@@ -262,7 +364,10 @@
    },
    {
     "titulo": "Mexican National Women's Championship",
-    "campeon": "Thunder Rosa"
+    "campeon": "Thunder Rosa",
+    "img": "img/luchas/w-thunder-rosa.jpg",
+    "credito": "Foto: All Elite Wrestling · CC BY-SA 4.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:All_Elite_Wrestling_Women%27s_World_Champion_-_Thunder_Rosa_(cropped).jpg"
    },
    {
     "titulo": "Mexican National Women's Tag Team Championship",
@@ -279,7 +384,10 @@
    "ciudad": "México",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://cmll.com/cartelera/"
+   "fuente": "https://cmll.com/cartelera/",
+   "img": "img/luchas/o-cmll-domingo-familiar-tzompantli-de-mascaras.jpg",
+   "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
+   "credito_url": "https://cmll.com/cartelera/"
   },
   {
    "nombre": "LUNES CLÁSICO #LunesClásicoCMLL",
@@ -289,7 +397,10 @@
    "ciudad": "Puebla",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://cmll.com/cartelera/"
+   "fuente": "https://cmll.com/cartelera/",
+   "img": "img/luchas/o-cmll-lunes-clasico-lunesclasicocmll.jpg",
+   "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
+   "credito_url": "https://cmll.com/cartelera/"
   },
   {
    "nombre": "Martes Populares de Lucha Libre CMLL",
@@ -299,7 +410,10 @@
    "ciudad": "México, CDMX",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-martes-populares-de-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
   },
   {
    "nombre": "Martes de Glamour, Lucha libre CMLL",
@@ -309,7 +423,10 @@
    "ciudad": "Guadalajara, JAL",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-martes-de-glamour-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
   },
   {
    "nombre": "Lucha Libre CMLL",
@@ -319,7 +436,10 @@
    "ciudad": "México, CDMX",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
   },
   {
    "nombre": "Viernes Espectacular de Lucha Libre CMLL",
@@ -329,7 +449,10 @@
    "ciudad": "México, CDMX",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-viernes-espectacular-de-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
   },
   {
    "nombre": "Crown Jewel",
@@ -339,7 +462,10 @@
    "ciudad": "Riyadh, Saudi Arabia",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://khelnow.com/wwe/all-wwe-ples-date-venue-202601"
+   "fuente": "https://khelnow.com/wwe/all-wwe-ples-date-venue-202601",
+   "img": "img/luchas/o-wwe-crown-jewel.jpg",
+   "credito": "Imagen: WWE · khelnow.com (sitio oficial)",
+   "credito_url": "https://khelnow.com/wwe/all-wwe-ples-date-venue-202601"
   },
   {
    "nombre": "Sábados de lucha libre CMLL",
@@ -349,7 +475,10 @@
    "ciudad": "México, CDMX",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-sabados-de-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
   },
   {
    "nombre": "Domingo Familiar de Lucha Libre CMLL",
@@ -359,7 +488,10 @@
    "ciudad": "México, CDMX",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-domingo-familiar-de-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
   },
   {
    "nombre": "Lucha Libre CMLL",
@@ -369,7 +501,10 @@
    "ciudad": "Puebla, PUE",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
   },
   {
    "nombre": "Martes Populares de Lucha Libre CMLL",
@@ -379,7 +514,10 @@
    "ciudad": "México, CDMX",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-martes-populares-de-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
   },
   {
    "nombre": "Martes de Glamour, Lucha libre CMLL",
@@ -389,7 +527,10 @@
    "ciudad": "Guadalajara, JAL",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-martes-de-glamour-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
   },
   {
    "nombre": "Lucha Libre CMLL",
@@ -399,7 +540,10 @@
    "ciudad": "México, CDMX",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
   },
   {
    "nombre": "Viernes Espectacular de Lucha Libre CMLL",
@@ -409,7 +553,10 @@
    "ciudad": "México, CDMX",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-viernes-espectacular-de-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
   },
   {
    "nombre": "Sábados de lucha libre CMLL",
@@ -419,7 +566,10 @@
    "ciudad": "México, CDMX",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-sabados-de-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
   },
   {
    "nombre": "Domingo Familiar de Lucha Libre CMLL",
@@ -429,7 +579,10 @@
    "ciudad": "México, CDMX",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-domingo-familiar-de-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
   },
   {
    "nombre": "FUNCIÓN ESPECIAL LUCHA KINGDOM",
@@ -439,7 +592,10 @@
    "ciudad": "México",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://cmll.com/cartelera/"
+   "fuente": "https://cmll.com/cartelera/",
+   "img": "img/luchas/o-cmll-funcion-especial-lucha-kingdom.jpg",
+   "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
+   "credito_url": "https://cmll.com/cartelera/"
   },
   {
    "nombre": "Lucha Libre CMLL",
@@ -449,7 +605,10 @@
    "ciudad": "Puebla, PUE",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
   },
   {
    "nombre": "Martes Populares de Lucha Libre CMLL",
@@ -459,7 +618,10 @@
    "ciudad": "México, CDMX",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-martes-populares-de-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
   },
   {
    "nombre": "Martes de Glamour, Lucha libre CMLL",
@@ -469,7 +631,10 @@
    "ciudad": "Guadalajara, JAL",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-martes-de-glamour-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
   },
   {
    "nombre": "NFL x CMLL: Noche de cascos y mascaras",
@@ -479,7 +644,10 @@
    "ciudad": "México, CDMX",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-nfl-x-cmll-noche-de-cascos-y-mascaras.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
   },
   {
    "nombre": "Wrestlepalooza",
@@ -489,7 +657,10 @@
    "ciudad": "Perth, Australia",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://khelnow.com/wwe/all-wwe-ples-date-venue-202601"
+   "fuente": "https://khelnow.com/wwe/all-wwe-ples-date-venue-202601",
+   "img": "img/luchas/w-wrestlepalooza.jpg",
+   "credito": "Foto: Johnmaxmena2 · CC BY-SA 3.0 · Wikimedia Commons",
+   "credito_url": "https://commons.wikimedia.org/wiki/File:Familyarenastcharlesmo.jpg"
   },
   {
    "nombre": "NXT TLC",
@@ -499,7 +670,10 @@
    "ciudad": "Orlando, Florida",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://khelnow.com/wwe/all-wwe-ples-date-venue-202601"
+   "fuente": "https://khelnow.com/wwe/all-wwe-ples-date-venue-202601",
+   "img": "img/luchas/o-wwe-nxt-tlc.jpg",
+   "credito": "Imagen: WWE · khelnow.com (sitio oficial)",
+   "credito_url": "https://khelnow.com/wwe/all-wwe-ples-date-venue-202601"
   },
   {
    "nombre": "AEW: Worlds End",
@@ -509,7 +683,10 @@
    "ciudad": "Minneapolis",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.allelitewrestling.com/aew-event/aew-worlds-end-2026"
+   "fuente": "https://www.allelitewrestling.com/aew-event/aew-worlds-end-2026",
+   "img": "img/luchas/o-aew-aew-worlds-end.jpg",
+   "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
+   "credito_url": "https://www.allelitewrestling.com/aew-event/aew-worlds-end-2026"
   }
  ],
  "fuentes": "Campeones: Wikipedia. Funciones: páginas oficiales y de boletos citadas en cada tarjeta."

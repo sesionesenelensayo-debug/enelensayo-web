@@ -189,3 +189,9 @@ img,iframe{max-width:100%}
 
 /* AdSense: oculto hasta que Google entrega un anuncio (la clase .listo la pone anuncios.js) */
 .ad.adsense:not(.listo){max-height:0!important;min-height:0!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0;pointer-events:none}
+
+/* Luchas: imágenes con crédito */
+.lu-conimg{flex-wrap:wrap}
+.lu-foto{margin:0;width:100%;flex:0 0 100%;order:-1}
+.lu-foto img{width:100%;height:170px;object-fit:cover;object-position:50% 20%;border-radius:10px;display:block}
+.lu-foto figcaption{font-size:10.5px;opacity:.65;margin-top:4px;line-height:1.3}.lu-foto figcaption a{color:inherit}

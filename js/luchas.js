@@ -3,6 +3,11 @@
   var esc = function (s) { return String(s == null ? '' : s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); };
   var get = function (u) { return fetch(u + '?_=' + Date.now()).then(function (r) { return r.json(); }); };
   var fecha = function (f) { var d = new Date(f); return isNaN(d) ? '' : d.toLocaleDateString('es-MX', { day: 'numeric', month: 'short' }); };
+  var foto = function (o) {
+    if (!o.img) return '';
+    return '<figure class="lu-foto"><img loading="lazy" src="' + esc(o.img) + '" alt="' + esc(o.campeon || o.nombre || '') + '" onerror="this.parentNode.remove()">' +
+      '<figcaption>' + (o.credito_url ? '<a href="' + esc(o.credito_url) + '" target="_blank" rel="noopener nofollow">' + esc(o.credito) + '</a>' : esc(o.credito)) + '</figcaption></figure>';
+  };
   var chips = function (el, items, activo, fn) {
     el.innerHTML = items.map(function (x) { return '<button type="button" class="lu-chip' + (x === activo ? ' on' : '') + '" data-v="' + esc(x) + '">' + esc(x) + '</button>'; }).join('');
     Array.prototype.forEach.call(el.querySelectorAll('button'), function (b) { b.onclick = function () { fn(b.getAttribute('data-v')); }; });
@@ -17,7 +22,7 @@
         var dt = new Date(e.fecha + 'T12:00:00');
         var precio = e.precio ? 'Boletos ' + esc(e.precio) : 'Precio por confirmar en taquilla o boletera oficial';
         var camps = (e.campeonatos || []).map(function (c) { return '<span class="lu-camp">🏆 ' + esc(c) + '</span>'; }).join('');
-        return '<div class="sx-card sx-ev"><div class="sx-fecha"><b>' + dt.getDate() + '</b><small>' + dt.toLocaleDateString('es-MX', { month: 'short' }) + '</small></div>' +
+        return '<div class="sx-card sx-ev lu-conimg">' + foto(e) + '<div class="sx-fecha"><b>' + dt.getDate() + '</b><small>' + dt.toLocaleDateString('es-MX', { month: 'short' }) + '</small></div>' +
           '<div><h3>' + esc(e.nombre) + '</h3><span class="sx-meta"><span><b>' + esc(e.promocion) + '</b> · ' + esc([e.lugar, e.ciudad].filter(Boolean).join(', ') || 'Sede por confirmar') + '</span><span>' + precio + '</span></span>' +
           (camps ? '<div class="lu-camps">' + camps + '</div>' : '') +
           (e.fuente ? '<a class="lu-fuente" href="' + esc(e.fuente) + '" target="_blank" rel="noopener nofollow">Fuente ↗</a>' : '') + '</div></div>';
@@ -29,7 +34,7 @@
     var pintaC = function (p) {
       chips(document.getElementById('luPromos'), ps, p, pintaC);
       document.getElementById('luCampeones').innerHTML = (c[p] || []).map(function (x) {
-        return '<div class="sx-card sx-ev"><div class="sx-fecha" style="background:#ffd23f;color:#111"><b>🏆</b><small>' + esc(p) + '</small></div><div><h3>' + esc(x.campeon) + '</h3><span class="sx-meta"><span>' + esc(x.titulo) + '</span></span></div></div>';
+        return '<div class="sx-card sx-ev lu-conimg">' + foto(x) + '<div class="sx-fecha" style="background:#ffd23f;color:#111"><b>🏆</b><small>' + esc(p) + '</small></div><div><h3>' + esc(x.campeon) + '</h3><span class="sx-meta"><span>' + esc(x.titulo) + '</span></span></div></div>';
       }).join('') || '<p class="sx-vacio">Sin datos por ahora.</p>';
     };
     if (ps.length) pintaC(ps[0]);
