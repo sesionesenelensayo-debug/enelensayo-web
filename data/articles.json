@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Tupac Shakur - ¿Por qué tardaron casi treinta años en resolver su asesinato? La verdad oculta ",
+    "artista": "Tupac Shakur",
+    "intro": "Una publicación reciente ofrece la crónica íntegra del asesinato de Tupac Shakur ocurrido en Las Vegas en 1996.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/tupac-shakur-por-que-tardaron-casi-treinta-anos-en-resolver-su-asesina-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/tupac-shakur-por-que-tardaron-casi-treinta-anos-en-resolver-su-asesina-1031.jpg",
+    "fecha": "2026-10-31T18:28:30.596603",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Backstreet Boys lanzan Backstreet Gamers y se integran a la Global Gaming League",
     "artista": "Backstreet Boys en Global Gaming League",
     "intro": "El icónico grupo de pop crea un equipo competitivo, con los cinco integrantes como propietarios, para disputar torneos en la GGL y buscar nuevos talentos.",

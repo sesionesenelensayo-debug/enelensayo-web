@@ -3,7 +3,10 @@
 <url><loc>https://enelensayomedia.com/</loc><lastmod>2026-10-31</lastmod><changefreq>hourly</changefreq><priority>1.0</priority></url>
 <url><loc>https://enelensayomedia.com/anunciate.html</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
 <url><loc>https://enelensayomedia.com/contacto.html</loc><changefreq>monthly</changefreq><priority>0.3</priority></url>
+<url><loc>https://enelensayomedia.com/como-trabajamos.html</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
+<url><loc>https://enelensayomedia.com/correcciones.html</loc><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>https://enelensayomedia.com/privacy.html</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
+<url><loc>https://enelensayomedia.com/notas/tupac-shakur-por-que-tardaron-casi-treinta-anos-en-resolver-su-asesina-1031.html</loc><lastmod>2026-10-31</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://enelensayomedia.com/notas/backstreet-boys-lanzan-backstreet-gamers-y-se-integran-a-la-global-gam-1031.html</loc><lastmod>2026-10-31</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://enelensayomedia.com/notas/john-lennon-firmo-su-autografo-para-su-propio-asesino-1031.html</loc><lastmod>2026-10-31</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://enelensayomedia.com/notas/justin-timberlake-todos-pensaban-que-seria-un-musico-callejero-mas-1031.html</loc><lastmod>2026-10-31</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -476,6 +479,7 @@
 <url><loc>https://enelensayomedia.com/artistas/emilia-clarke.html</loc><lastmod>2026-10-31</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/artistas/eminem.html</loc><lastmod>2026-10-31</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/artistas/engelbert-humperdinck.html</loc><lastmod>2026-10-31</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
+<url><loc>https://enelensayomedia.com/artistas/fallece-eddie-low.html</loc><lastmod>2026-10-31</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/artistas/fats-domino.html</loc><lastmod>2026-10-31</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/artistas/fidel-nadal.html</loc><lastmod>2026-10-31</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/artistas/fleetwood-mac.html</loc><lastmod>2026-10-31</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
@@ -614,10 +618,4 @@
 <url><loc>https://enelensayomedia.com/artistas/vinicius-de-moraes.html</loc><lastmod>2026-10-31</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/artistas/walter-koenig.html</loc><lastmod>2026-10-31</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/artistas/zeta-bosio.html</loc><lastmod>2026-10-31</lastmod><changefreq>weekly</changefreq><priority>0.6</priority></url>
-  <url>
-    <loc>https://enelensayomedia.com/notas/tupac-shakur-por-que-tardaron-casi-treinta-anos-en-resolver-su-asesina-1031.html</loc>
-    <lastmod>2026-10-31</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.7</priority>
-  </url>
 </urlset>
