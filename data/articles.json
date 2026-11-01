@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "FRANK SINATRA: El alcohol casi lo mata al nacer",
+    "artista": "Frank Sinatra",
+    "intro": "En una breve reseña de En El Ensayo, se recuerda que el futuro ícono de la canción popular estadounidense estuvo a punto de morir al nacer por una intoxicación alcohólica.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/frank-sinatra-el-alcohol-casi-lo-mata-al-nacer-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/frank-sinatra-el-alcohol-casi-lo-mata-al-nacer-1031.jpg",
+    "fecha": "2026-10-31T21:43:32.626960",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Hiroshi Tsuchida: la voz de Saizo y Grisha Yeager",
     "artista": "Hiroshi Tsuchida",
     "intro": "El actor y seiyu japonés Hiroshi Tsuchida, conocido por interpretar a Saizo en \"Kakuranger\" y a Grisha Yeager en \"Attack on Titan\", falleció el 11 de octubre de 2026 a los 54 años.",
@@ -1833,20 +1847,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Conciertos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "DUNCAN SHEIK: Cambió el pop por la grandeza",
-    "artista": "Duncan Sheik",
-    "intro": "Un nuevo video en YouTube explora la decisión de Duncan Sheik de abandonar la fama del pop para perseguir su verdadera pasión. El artista, fallecido en 2026, dejó un legado que va más allá de su éxito",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/duncan-sheik-cambio-el-pop-por-la-grandeza-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/duncan-sheik-cambio-el-pop-por-la-grandeza-1030.jpg",
-    "fecha": "2026-10-30T14:50:18.636394",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
