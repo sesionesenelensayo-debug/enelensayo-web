@@ -1,6 +1,35 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "El éxito inesperado de Guns N' Roses",
+    "artista": "Guns N' Roses",
+    "intro": "En el video del canal En el Ensayo Media se aborda el inesperado éxito de la icónica banda de rock Guns N' Roses, formada en 1985 en Los Ángeles, California.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-exito-inesperado-de-guns-n-roses-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-exito-inesperado-de-guns-n-roses-1101.jpg",
+    "fecha": "2026-11-01T11:38:02.556549",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "noticia",
+    "titulo": "Daddy Yankee visita Venezuela acompañado de Danny Ocean",
+    "artista": "Daddy Yankee",
+    "intro": "Según Clx Icons, el reguetonero puertorriqueño Daddy Yankee regresó a Venezuela, esta vez viajando junto al cantante Danny Ocean. El anuncio, reportado por varios medios, confirma su presencia en el p",
+    "telegraph_url": "https://telegra.ph/Daddy-Yankee-visita-Venezuela-acompañado-de-Danny-Ocean-10-31",
+    "url": "https://enelensayomedia.com/notas/daddy-yankee-visita-venezuela-acompanado-de-danny-ocean-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/daddy-yankee-visita-venezuela-acompanado-de-danny-ocean-1031.jpg",
+    "fecha": "2026-11-01T11:37:48.463990",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-10-31T07:42:21.531024",
+    "actualizada": true
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Luis 'El Negro' Dura: La verdad oculta tras su último disco",
     "artista": "LUIS EL NEGRO DURA",
     "intro": "En el Ensayo Media revela la historia detrás del último álbum de Luis 'El Negro' Dura, un ícono de la música tropical mexicana.",
@@ -397,21 +426,6 @@
     "views": 0,
     "categoria": "Música",
     "fecha_original": "2026-10-31T23:05:43.058631",
-    "actualizada": true
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Daddy Yankee visita Venezuela acompañado de Danny Ocean",
-    "artista": "Daddy Yankee",
-    "intro": "Según Clx Icons, el reguetonero puertorriqueño Daddy Yankee regresó a Venezuela, esta vez viajando junto al cantante Danny Ocean. El anuncio, reportado por varios medios, confirma su presencia en el p",
-    "telegraph_url": "https://telegra.ph/Daddy-Yankee-visita-Venezuela-acompañado-de-Danny-Ocean-10-31",
-    "url": "https://enelensayomedia.com/notas/daddy-yankee-visita-venezuela-acompanado-de-danny-ocean-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/daddy-yankee-visita-venezuela-acompanado-de-danny-ocean-1031.jpg",
-    "fecha": "2026-11-01T07:07:20.653356",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-10-31T07:42:21.531024",
     "actualizada": true
   },
   {
@@ -2070,19 +2084,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Queens of the Stone Age lanzan «Run Away From the Mob», último adelanto de «Perfecth»",
-    "artista": "Queens of the Stone Age",
-    "intro": "Queens of the Stone Age presentaron «Run Away From the Mob», el cuarto y último adelanto de su nuevo álbum «Perfecth», que saldrá el 30 de octubre. La canción, grabada originalmente en 2013 con Dave G",
-    "telegraph_url": "https://telegra.ph/Queens-of-the-Stone-Age-lanzan-Run-Away-From-the-Mob-último-adelanto-de-Perfecth-10-31",
-    "url": "https://enelensayomedia.com/notas/queens-of-the-stone-age-lanzan-run-away-from-the-mob-ultimo-adelanto-d-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/queens-of-the-stone-age-lanzan-run-away-from-the-mob-ultimo-adelanto-d-1030.jpg",
-    "fecha": "2026-10-30T19:08:30.030161",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   },
   {
     "tipo": "noticia",
