@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "JOHN LENNON: Firmó su autógrafo para su propio asesino",
+    "artista": "John Lennon",
+    "intro": "El 8 de diciembre de 1980, John Lennon, icónico miembro de The Beatles, firmó su último autógrafo para Mark David Chapman horas antes de ser asesinado frente a su residencia en Nueva York. El hecho, r",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/john-lennon-firmo-su-autografo-para-su-propio-asesino-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/john-lennon-firmo-su-autografo-para-su-propio-asesino-1031.jpg",
+    "fecha": "2026-10-31T18:05:47.867593",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "JUSTIN TIMBERLAKE: Todos pensaban que sería un músico callejero más",
     "artista": "Justin Timberlake",
     "intro": "En una sesión en vivo de 'En El Ensayo — Live Sessions' en Azcapotzalco, CDMX, se recordó que Justin Timberlake nació como futuro ídolo pop y miembro de NSYNC, desmintiendo la idea de que sería solo u",
@@ -1778,20 +1792,6 @@
     "archivo": true,
     "fecha_original": "2026-10-28T18:31:07",
     "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "FUD LECLERC: 16 años SIN SU MÚSICA",
-    "artista": "FUD LECLERC",
-    "intro": "El 20 de septiembre de 2010 el silencio se apoderó del escenario cuando falleció Fud Leclerc, el cantante belga que representó a su país en Eurovisión en cuatro ocasiones. Dieciséis años después, su a",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fud-leclerc-16-anos-sin-su-musica-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fud-leclerc-16-anos-sin-su-musica-1030.jpg",
-    "fecha": "2026-10-30T14:11:10.549151",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
