@@ -186,4 +186,6 @@ img,iframe{max-width:100%}
 .lu-camps{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}.lu-camp{background:rgba(255,210,63,.16);border:1px solid rgba(255,210,63,.5);border-radius:8px;padding:3px 8px;font-size:12px}
 .lu-fuente{display:inline-block;margin-top:8px;font-size:12px;opacity:.7}
 
-.ad.espera{min-height:100px;margin:14px auto}
+
+/* AdSense: oculto hasta que Google entrega un anuncio (la clase .listo la pone anuncios.js) */
+.ad.adsense:not(.listo){max-height:0!important;min-height:0!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0;pointer-events:none}

@@ -45,6 +45,21 @@
       if (!localStorage.eem_v) { localStorage.eem_v = '1'; hit('u-nuevos'); } else { hit('u-recurrentes'); }   // visitantes nuevos vs. que regresan
     }
   } catch (e) { }
+  // [e.leo] El espacio de AdSense NO se muestra hasta que Google entrega un anuncio (data-ad-status="filled"); el resultado de las visitas reales
+  // se cuenta (adsense-filled / adsense-vacio) y el Director de Operaciones lo lee para avisar cuando Google active la señal.
+  function senal(el) {
+    var ins = el.querySelector('ins.adsbygoogle'); if (!ins) return;
+    var visto = false;
+    var listo = function () {
+      var st = ins.getAttribute('data-ad-status');
+      if (!st || visto) return;
+      visto = true;
+      if (st === 'filled') { el.classList.add('listo'); if (window.eemTipoVisita === 'real') hit('adsense-filled'); }
+      else if (window.eemTipoVisita === 'real') hit('adsense-vacio');
+    };
+    try { new MutationObserver(listo).observe(ins, { attributes: true, attributeFilter: ['data-ad-status'] }); } catch (e) { }
+    setTimeout(listo, 8000);
+  }
   var slots = document.querySelectorAll('[data-slot]'); if (!slots.length) return;
   fetch('/data/anuncios.json?_=' + Date.now()).then(function (r) { return r.json(); }).catch(function () { return {}; }).then(function (ads) {
     slots.forEach(function (el) {
@@ -56,11 +71,11 @@
         el.className = 'ad adsense';
         el.innerHTML = '<span>Publicidad</span><ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-5230441592261869" data-ad-slot="' + esc(ads._adsense[pos]) + '" data-ad-format="auto" data-full-width-responsive="true"></ins>';
         try { (window.adsbygoogle = window.adsbygoogle || []).push({}); } catch (e) { }
+        senal(el);
       } else if (pos !== 'cabecera' && pos !== 'nota') {   // [e.leo] ranuras extra: solo se muestran con anunciante directo o bloque de AdSense
         el.style.display = 'none';
-      } else {   // [e.leo] sin anunciante directo ni bloque de AdSense todavía: se reserva el espacio VACÍO para el anuncio de Google (sin texto de «Anúnciate»)
-        el.className = 'ad adsense espera';
-        el.innerHTML = '';
+      } else {
+        el.style.display = 'none';
       }
     });
   });
