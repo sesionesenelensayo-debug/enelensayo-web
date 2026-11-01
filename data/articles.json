@@ -1,5 +1,19 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "El fallo histórico de la BBC: la censura a The Beatles en 1964",
+    "artista": "The Beatles",
+    "intro": "En este video del canal En el Ensayo Media se explica qué le pasa a alguien cuando el talento más grande choca con la censura.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-fallo-historico-de-la-bbc-la-censura-a-the-beatles-en-1964-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-fallo-historico-de-la-bbc-la-censura-a-the-beatles-en-1964-1101.jpg",
+    "fecha": "2026-11-01T16:08:15.242856",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
     "tipo": "noticia",
     "titulo": "Bronco anuncia el Inquebrantable Tour 2027",
     "artista": "Bronco",
@@ -2105,20 +2119,6 @@
     "categoria": "Chisme",
     "fecha_original": "2026-10-30T19:13:24.987437",
     "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "José Antonio Calcaño: la historia real",
-    "artista": "José Antonio Calcaño",
-    "intro": "La noticia revela la faceta menos conocida de José Antonio Calcaño: su papel como compositor y miembro fundador de la Orquesta Sinfónica Venezuela. Más allá de su reconocida trayectoria como escritor,",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/jose-antonio-calcano-la-historia-real-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/jose-antonio-calcano-la-historia-real-1030.jpg",
-    "fecha": "2026-10-30T21:07:46.297531",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
