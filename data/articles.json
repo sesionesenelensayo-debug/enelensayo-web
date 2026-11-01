@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Astrid Hadad brilla en el Festival de Día de Muertos de Zacatecas 2026",
+    "artista": "Festival Día de Muertos Zacatecas",
+    "intro": "La cantante y performer Astrid Hadad se presentó en el Festival de Día de Muertos de Zacatecas, consolidándose como una de las figuras centrales del evento 2026.",
+    "telegraph_url": "https://telegra.ph/Astrid-Hadad-brilla-en-el-Festival-de-Día-de-Muertos-de-Zacatecas-2026-11-01",
+    "url": "https://enelensayomedia.com/notas/astrid-hadad-brilla-en-el-festival-de-dia-de-muertos-de-zacatecas-2026-1101.html",
+    "imagen_url": "",
+    "fecha": "2026-11-01T13:03:38.398209",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura",
+    "fecha_original": "2026-11-01T07:09:39.428487",
+    "actualizada": true
+  },
+  {
     "tipo": "reportaje",
     "titulo": "La Maldita Vecindad ofrecerá concierto gratuito en Día de Muertos y homenajeará al Xoloitzcuintle",
     "artista": "La Maldita Vecindad",
@@ -10,7 +25,7 @@
     "fecha": "2026-11-01T13:02:49.734627",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Escena local",
+    "categoria": "Música",
     "fecha_original": "2026-11-01T10:53:24.147068",
     "actualizada": true
   },
@@ -524,21 +539,6 @@
     "views": 0,
     "categoria": "Cine",
     "fecha_original": "2026-11-01T07:11:20.943626",
-    "actualizada": true
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Astrid Hadad brilla en el Festival de Día de Muertos de Zacatecas 2026",
-    "artista": "Festival Día de Muertos Zacatecas",
-    "intro": "La cantante y performer Astrid Hadad se presentó en el Festival de Día de Muertos de Zacatecas, consolidándose como una de las figuras centrales del evento 2026.",
-    "telegraph_url": "https://telegra.ph/Astrid-Hadad-brilla-en-el-Festival-de-Día-de-Muertos-de-Zacatecas-2026-11-01",
-    "url": "https://enelensayomedia.com/notas/astrid-hadad-brilla-en-el-festival-de-dia-de-muertos-de-zacatecas-2026-1101.html",
-    "imagen_url": "",
-    "fecha": "2026-11-01T07:37:58.315646",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura",
-    "fecha_original": "2026-11-01T07:09:39.428487",
     "actualizada": true
   },
   {
