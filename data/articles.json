@@ -1,5 +1,19 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "Alan Wilson: del escenario de Woodstock a la tragedia a los 27 años",
+    "artista": "Alan Wilson",
+    "intro": "El video del canal En el Ensayo Media relata la vida y muerte de Alan Wilson, músico que tocó en Woodstock ante medio millón de personas y falleció a los 27 años.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/alan-wilson-del-escenario-de-woodstock-a-la-tragedia-a-los-27-anos-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/alan-wilson-del-escenario-de-woodstock-a-la-tragedia-a-los-27-anos-1101.jpg",
+    "fecha": "2026-11-01T10:03:05.508035",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
     "tipo": "noticia",
     "titulo": "Festival Xandú reúne artistas en Huatulco para celebrar la memoria",
     "artista": "Festival Xandú",
