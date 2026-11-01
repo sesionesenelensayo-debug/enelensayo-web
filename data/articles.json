@@ -1,6 +1,21 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "La película de Street Fighter triunfa en su primer fin de semana",
+    "artista": "Street Fighter",
+    "intro": "La adaptación cinematográfica de la franquicia Street Fighter ha registrado un éxito de taquilla durante su primer fin de semana, según reportes de varios medios.",
+    "telegraph_url": "https://telegra.ph/La-película-de-Street-Fighter-triunfa-en-su-primer-fin-de-semana-11-01",
+    "url": "https://enelensayomedia.com/notas/la-pelicula-de-street-fighter-triunfa-en-su-primer-fin-de-semana-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-pelicula-de-street-fighter-triunfa-en-su-primer-fin-de-semana-1101.jpg",
+    "fecha": "2026-11-01T12:25:47.519636",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-11-01T09:53:17.513976",
+    "actualizada": true
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Paco de Lucía: el prodigio que revolucionó la guitarra flamenca",
     "artista": "Paco de Lucía",
     "intro": "En el video del canal En el Ensayo Media se narra la vida del guitarrista flamenco Paco de Lucía, nacido el 21 de diciembre de 1947 en Algeciras.",
@@ -313,19 +328,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "La película de Street Fighter triunfa en su primer fin de semana",
-    "artista": "Street Fighter",
-    "intro": "La adaptación cinematográfica de la franquicia Street Fighter ha registrado un éxito de taquilla durante su primer fin de semana, según reportes de varios medios.",
-    "telegraph_url": "https://telegra.ph/La-película-de-Street-Fighter-triunfa-en-su-primer-fin-de-semana-11-01",
-    "url": "https://enelensayomedia.com/notas/la-pelicula-de-street-fighter-triunfa-en-su-primer-fin-de-semana-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-pelicula-de-street-fighter-triunfa-en-su-primer-fin-de-semana-1101.jpg",
-    "fecha": "2026-11-01T09:53:17.513976",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   },
   {
     "tipo": "reportaje",
