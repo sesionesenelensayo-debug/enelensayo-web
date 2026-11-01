@@ -1,6 +1,21 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Fallece el actor Tom Skerritt",
+    "artista": "",
+    "intro": "El actor y director estadounidense Tom Skerritt ha fallecido a los 93 años en su hogar en Seattle, según los registros de defunciones de octubre de 2026. S",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/fallece-el-actor-tom-skerritt-1022.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-el-actor-tom-skerritt-1022.jpg",
+    "fecha": "2026-11-01T00:12:07.368156",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "In memoriam",
+    "fecha_original": "2026-10-22T23:20:06",
+    "actualizada": true
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Fallece el compositor belga Frans Geysen a los 90 años",
     "artista": "Frans Geysen",
     "intro": "Frans Geysen, compositor, profesor académico y escritor musical belga, falleció el 18 de octubre de 2026.",
@@ -314,21 +329,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece el actor Tom Skerritt",
-    "artista": "",
-    "intro": "El actor y director estadounidense Tom Skerritt ha fallecido a los 93 años en su hogar en Seattle, según los registros de defunciones de octubre de 2026. S",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fallece-el-actor-tom-skerritt-1022.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-el-actor-tom-skerritt-1022.jpg",
-    "fecha": "2026-10-31T21:29:01.935000",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam",
-    "fecha_original": "2026-10-22T23:20:06",
-    "actualizada": true
   },
   {
     "tipo": "reportaje",
