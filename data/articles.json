@@ -1,5 +1,19 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "Celine Dion, la reina de las Power Ballads: trayectoria y hitos clave",
+    "artista": "Céline Dion",
+    "intro": "En el video del canal En el Ensayo Media se recorre la vida y carrera de Celine Dion, desde sus humildes orígenes en Charlemania, Quebec, hasta su consolidación como la reina de las power ballads.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/celine-dion-la-reina-de-las-power-ballads-trayectoria-y-hitos-clave-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/celine-dion-la-reina-de-las-power-ballads-trayectoria-y-hitos-clave-1101.jpg",
+    "fecha": "2026-11-01T12:08:32.193536",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
     "tipo": "noticia",
     "titulo": "Nuevo póster de ‘Vengadores: Doomsday’ reúne a héroes y Doctor Doom",
     "artista": "Vengadores: Doomsday",
