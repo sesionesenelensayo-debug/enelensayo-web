@@ -1,6 +1,21 @@
 [
   {
     "tipo": "noticia",
+    "titulo": "Kygo anuncia conciertos en CDMX y Guadalajara para 2027",
+    "artista": "Kygo",
+    "intro": "El DJ noruego Kygo regresa a México en 2027 con presentaciones en Guadalajara y la Ciudad de México, acompañados de preventas exclusivas y nuevos invitados especiales.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/kygo-anuncia-conciertos-en-cdmx-y-guadalajara-para-2027-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/kygo-anuncia-conciertos-en-cdmx-y-guadalajara-para-2027-1031.jpg",
+    "fecha": "2026-11-01T08:58:59.604298",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos",
+    "fecha_original": "2026-10-31T23:58:52.882944",
+    "actualizada": true
+  },
+  {
+    "tipo": "noticia",
     "titulo": "Mara Lezama anuncia el Festival de Cultura del Caribe 2026 del 19 al 22 de noviembre",
     "artista": "Festival de Cultura del Caribe",
     "intro": "Mara Lezama confirmó la realización del Festival de Cultura del Caribe 2026, que se llevará a cabo del 19 al 22 de noviembre en Chetumal.",
@@ -388,19 +403,6 @@
     "url": "https://enelensayomedia.com/notas/u2-anuncia-cuarta-fecha-en-ciudad-de-mexico-para-marzo-de-2027-1101.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/u2-anuncia-cuarta-fecha-en-ciudad-de-mexico-para-marzo-de-2027-1101.jpg",
     "fecha": "2026-11-01T00:01:55.611245",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Kygo anuncia conciertos en CDMX y Guadalajara para 2027",
-    "artista": "Kygo",
-    "intro": "El DJ noruego Kygo regresa a México en 2027 con presentaciones en Guadalajara y la Ciudad de México, acompañados de preventas exclusivas y nuevos invitados especiales.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/kygo-anuncia-conciertos-en-cdmx-y-guadalajara-para-2027-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/kygo-anuncia-conciertos-en-cdmx-y-guadalajara-para-2027-1031.jpg",
-    "fecha": "2026-10-31T23:58:52.882944",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Conciertos"
