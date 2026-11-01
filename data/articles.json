@@ -1,5 +1,34 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "El trágico incendio del Teatro Iroquois de Chicago y su legado en la seguridad",
+    "artista": "¿Por qué una tarde de música terminó en tragedia? La verdad ",
+    "intro": "En el video del canal En el Ensayo Media se narra la historia del Teatro Iroquois, inaugurado en noviembre de 1903 en Chicago.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-tragico-incendio-del-teatro-iroquois-de-chicago-y-su-legado-en-la-s-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-tragico-incendio-del-teatro-iroquois-de-chicago-y-su-legado-en-la-s-1101.jpg",
+    "fecha": "2026-11-01T11:50:55.050341",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Cultura"
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "Fallece Patrick Stewart, ícono de Star Trek y X-Men, a los 86 años",
+    "artista": "",
+    "intro": "El actor británico, conocido por sus roles como Jean-Luc Picard y el Profesor X, murió en Los Ángeles tras enfrentar Alzheimer y demencia.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/fallece-patrick-stewart-icono-de-star-trek-y-x-men-a-los-86-anos-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-patrick-stewart-icono-de-star-trek-y-x-men-a-los-86-anos-1029.jpg",
+    "fecha": "2026-11-01T11:42:35.137937",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "In memoriam",
+    "fecha_original": "2026-10-29T19:19:37",
+    "actualizada": true
+  },
+  {
     "tipo": "noticia",
     "titulo": "Gumayusi y Zeus registran su peor actuación en el Campeonato Mundial tras dejar T1",
     "artista": "League of Legends",
@@ -3058,19 +3087,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece Patrick Stewart, ícono de Star Trek y X-Men, a los 86 años",
-    "artista": "",
-    "intro": "El actor británico, conocido por sus roles como Jean-Luc Picard y el Profesor X, murió en Los Ángeles tras enfrentar Alzheimer y demencia.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fallece-patrick-stewart-icono-de-star-trek-y-x-men-a-los-86-anos-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-patrick-stewart-icono-de-star-trek-y-x-men-a-los-86-anos-1029.jpg",
-    "fecha": "2026-10-29T19:19:37",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
