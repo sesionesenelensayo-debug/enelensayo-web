@@ -1,6 +1,21 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Sergio Arévalo, estilista de Thalía y María José, detenido por ICE en Texas",
+    "artista": "Sergio Arévalo",
+    "intro": "El maquillista guatemalteco Sergio Arévalo, conocido por trabajar con figuras como Thalía y María José, habría sido detenido por el Servicio de Inmigración y Control de Aduanas (ICE) en Texas.",
+    "telegraph_url": "https://telegra.ph/Sergio-Arévalo-estilista-de-Thalía-y-María-José-detenido-por-ICE-en-Texas-11-01",
+    "url": "https://enelensayomedia.com/notas/sergio-arevalo-estilista-de-thalia-y-maria-jose-detenido-por-ice-en-te-1101.html",
+    "imagen_url": "",
+    "fecha": "2026-11-01T14:21:19.098191",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-01T09:00:29.562099",
+    "actualizada": true
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Xelhua gana el Campeonato Rey del Inframundo 2026 en el CMLL",
     "artista": "Xelhua",
     "intro": "En la celebración del Día de Muertos en la Arena México, Xelhua se alzó con el Campeonato Rey del Inframundo 2026 del Consejo Mundial de Lucha Libre (CMLL).",
@@ -10,7 +25,7 @@
     "fecha": "2026-11-01T14:19:24.277773",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Reportaje"
+    "categoria": "Luchas"
   },
   {
     "tipo": "noticia",
@@ -507,19 +522,6 @@
     "url": "https://enelensayomedia.com/notas/jose-luis-el-komander-anuncia-el-fallecimiento-de-su-hijo-menor-1101.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/jose-luis-el-komander-anuncia-el-fallecimiento-de-su-hijo-menor-1101.jpg",
     "fecha": "2026-11-01T09:03:53.274254",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Sergio Arévalo, estilista de Thalía y María José, detenido por ICE en Texas",
-    "artista": "Sergio Arévalo",
-    "intro": "El maquillista guatemalteco Sergio Arévalo, conocido por trabajar con figuras como Thalía y María José, habría sido detenido por el Servicio de Inmigración y Control de Aduanas (ICE) en Texas.",
-    "telegraph_url": "https://telegra.ph/Sergio-Arévalo-estilista-de-Thalía-y-María-José-detenido-por-ICE-en-Texas-11-01",
-    "url": "https://enelensayomedia.com/notas/sergio-arevalo-estilista-de-thalia-y-maria-jose-detenido-por-ice-en-te-1101.html",
-    "imagen_url": "",
-    "fecha": "2026-11-01T09:00:29.562099",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
