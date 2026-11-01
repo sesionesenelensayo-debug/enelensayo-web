@@ -1,6 +1,21 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "La Maldita Vecindad ofrecerá concierto gratuito en Día de Muertos y homenajeará al Xoloitzcuintle",
+    "artista": "La Maldita Vecindad",
+    "intro": "Según el titular publicado, la legendaria banda mexicana La Maldita Vecindad realizará un concierto gratuito durante la celebración del Día de Muertos…",
+    "telegraph_url": "https://telegra.ph/La-Maldita-Vecindad-ofrecerá-concierto-gratuito-en-Día-de-Muertos-y-homenajeará-al-Xoloitzcuintle-11-01",
+    "url": "https://enelensayomedia.com/notas/la-maldita-vecindad-ofrecera-concierto-gratuito-en-dia-de-muertos-y-ho-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-maldita-vecindad-ofrecera-concierto-gratuito-en-dia-de-muertos-y-ho-1101.jpg",
+    "fecha": "2026-11-01T13:02:49.734627",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Escena local",
+    "fecha_original": "2026-11-01T10:53:24.147068",
+    "actualizada": true
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Fallece Juan Atkins, pionero del techno, a los 64 años",
     "artista": "Juan Atkins",
     "intro": "Juan Atkins, reconocido como uno de los padres fundadores del techno y miembro de la influyente Belleville Three, falleció el 31 de octubre de 2026 a los 64 años.",
@@ -260,19 +275,6 @@
     "url": "https://enelensayomedia.com/notas/deepnotika-presentara-sus-nuevos-sencillos-en-tlaquepaque-durante-el-d-1101.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/deepnotika-presentara-sus-nuevos-sencillos-en-tlaquepaque-durante-el-d-1101.jpg",
     "fecha": "2026-11-01T11:03:42.750178",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Escena local"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "La Maldita Vecindad ofrecerá concierto gratuito en Día de Muertos y homenajeará al Xoloitzcuintle",
-    "artista": "La Maldita Vecindad",
-    "intro": "Según el titular publicado, la legendaria banda mexicana La Maldita Vecindad realizará un concierto gratuito durante la celebración del Día de Muertos…",
-    "telegraph_url": "https://telegra.ph/La-Maldita-Vecindad-ofrecerá-concierto-gratuito-en-Día-de-Muertos-y-homenajeará-al-Xoloitzcuintle-11-01",
-    "url": "https://enelensayomedia.com/notas/la-maldita-vecindad-ofrecera-concierto-gratuito-en-dia-de-muertos-y-ho-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-maldita-vecindad-ofrecera-concierto-gratuito-en-dia-de-muertos-y-ho-1101.jpg",
-    "fecha": "2026-11-01T10:53:24.147068",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Escena local"
