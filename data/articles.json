@@ -1,5 +1,19 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "La ascensión y trágico final de Jonathan Meléndez y Camilo Séptimo",
+    "artista": "Jonathan Menéndez y Camilo Séptimo",
+    "intro": "El video publicado por el canal En el Ensayo Media narra la trayectoria musical de Jonathan Meléndez y la banda Camilo Séptimo…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/la-ascension-y-tragico-final-de-jonathan-melendez-y-camilo-septimo-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-ascension-y-tragico-final-de-jonathan-melendez-y-camilo-septimo-1101.jpg",
+    "fecha": "2026-11-01T16:45:16.338059",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
     "tipo": "noticia",
     "titulo": "U2 anuncia tres conciertos en el Estadio GNP Seguros en febrero 2027",
     "artista": "U2",
