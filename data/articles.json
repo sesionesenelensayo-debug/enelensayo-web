@@ -1,5 +1,18 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "Sergio Arévalo, estilista de Thalía y María José, detenido por ICE en Texas",
+    "artista": "Sergio Arévalo",
+    "intro": "El maquillista guatemalteco Sergio Arévalo, conocido por trabajar con figuras como Thalía y María José, habría sido detenido por el Servicio de Inmigración y Control de Aduanas (ICE) en Texas.",
+    "telegraph_url": "https://telegra.ph/Sergio-Arévalo-estilista-de-Thalía-y-María-José-detenido-por-ICE-en-Texas-11-01",
+    "url": "https://enelensayomedia.com/notas/sergio-arevalo-estilista-de-thalia-y-maria-jose-detenido-por-ice-en-te-1101.html",
+    "imagen_url": "",
+    "fecha": "2026-11-01T09:00:29.562099",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
     "tipo": "noticia",
     "titulo": "Kygo anuncia conciertos en CDMX y Guadalajara para 2027",
     "artista": "Kygo",
@@ -2001,19 +2014,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Nuevas fechas para Fuerza Regida en Monterrey",
-    "artista": "Fuerza Regida",
-    "intro": "Fuerza Regida ha abierto nuevas fechas para sus presentaciones en Monterrey tras lograr agotar las entradas disponibles. La noticia fue reportada por Infobae, destacando la alta demanda que el grupo e",
-    "telegraph_url": "https://telegra.ph/Nuevas-fechas-para-Fuerza-Regida-en-Monterrey-10-31",
-    "url": "https://enelensayomedia.com/notas/nuevas-fechas-para-fuerza-regida-en-monterrey-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/nuevas-fechas-para-fuerza-regida-en-monterrey-1030.jpg",
-    "fecha": "2026-10-30T18:10:13.719901",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
