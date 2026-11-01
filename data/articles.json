@@ -1,5 +1,19 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "Alan Wilson: el genio ciego que revivió al blues y murió en el Club de los 27",
+    "artista": "Alan Wilson",
+    "intro": "En el video del canal En el Ensayo Media se narra la vida de Alan Christie Wilson, músico y estudioso del blues nacido en 1943.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/alan-wilson-el-genio-ciego-que-revivio-al-blues-y-murio-en-el-club-de-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/alan-wilson-el-genio-ciego-que-revivio-al-blues-y-murio-en-el-club-de-1101.jpg",
+    "fecha": "2026-11-01T09:50:05.894824",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
     "tipo": "noticia",
     "titulo": "Duna: Parte Tres ya disponible en plataformas de streaming",
     "artista": "Duna: Parte Tres",
