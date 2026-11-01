@@ -1,5 +1,19 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Michael Mann, director de Heat, hospitalizado por disparo accidental",
+    "artista": "Michael Mann",
+    "intro": "El director de cine Michael Mann fue hospitalizado tras dispararse accidentalmente en una pierna durante una visita a un campo de tiro en Los Ángeles.",
+    "telegraph_url": "https://telegra.ph/Michael-Mann-director-de-Heat-hospitalizado-por-disparo-accidental-11-01",
+    "url": "https://enelensayomedia.com/notas/michael-mann-director-de-heat-hospitalizado-por-disparo-accidental-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/michael-mann-director-de-heat-hospitalizado-por-disparo-accidental-1101.jpg",
+    "fecha": "2026-11-01T16:48:11.947667",
+    "author": "Oliver Ken",
+    "views": 0,
+    "nota_dia": true,
+    "categoria": "Cine"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "La ascensión y trágico final de Jonathan Meléndez y Camilo Séptimo",
     "artista": "Jonathan Menéndez y Camilo Séptimo",
