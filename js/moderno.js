@@ -120,3 +120,53 @@
   medir(); addEventListener('load', medir); addEventListener('resize', medir);
   if (document.fonts && document.fonts.ready) document.fonts.ready.then(medir);
 })();
+
+// ── Robot EE-chan: suelta curiosidades «¿Sabías que…?» sin repetirse (por visitante) [e.leo] ──
+(function () {
+  if (/\/(privacy|terms|contacto|como-trabajamos|correcciones|anunciate)\.html$/.test(location.pathname)) return;
+  var ls = { get: function (k) { try { return localStorage.getItem(k); } catch (e) { return null; } }, set: function (k, v) { try { localStorage.setItem(k, v); } catch (e) { } } };
+  try { if (sessionStorage.getItem('eem_robot_x')) return; } catch (e) { }
+  var banco = null, vistas = [], abierto = false, apagado = false, tHabla, tCierra;
+  try { vistas = JSON.parse(ls.get('eem_cur') || '[]'); } catch (e) { vistas = []; }
+  var ICONO = { musica: '🎵 Música', cine: '🎬 Cine', cultura: '🎭 Cultura' };
+  var raiz = document.createElement('div'); raiz.id = 'eem-robot';
+  raiz.innerHTML = '<div class="eem-b" role="status" aria-live="polite" hidden><button type="button" class="x" aria-label="Ocultar al robot">×</button><span class="c"></span><p></p>' +
+    '<div class="a"><button type="button" class="otra">Otra curiosidad</button><a class="fu" target="_blank" rel="noopener">Fuente</a></div></div>' +
+    '<button type="button" class="eem-r" aria-label="El robot de En el Ensayo: toca para una curiosidad"><i class="sp"></i></button>';
+  var burbuja = raiz.querySelector('.eem-b'), rob = raiz.querySelector('.eem-r');
+  function cargar(cb) {
+    if (banco) return cb();
+    fetch('/data/curiosidades.json').then(function (r) { return r.json(); }).then(function (j) { banco = Array.isArray(j) ? j : []; cb(); }).catch(function () { });
+  }
+  function elegir() {
+    var h1 = document.querySelector('h1'), txt = h1 ? h1.textContent.toLowerCase() : '';
+    var libres = banco.filter(function (c) { return vistas.indexOf(c.i) < 0; });
+    if (!libres.length) { vistas = []; libres = banco.slice(); }                       // las vio todas: se reinicia la lista
+    var afines = txt ? libres.filter(function (c) { return c.s && txt.indexOf(c.s.toLowerCase()) > -1; }) : [];
+    var pool = afines.length ? afines : libres, c = pool[Math.floor(Math.random() * pool.length)];
+    vistas.push(c.i); if (vistas.length > 3000) vistas = vistas.slice(-3000);
+    ls.set('eem_cur', JSON.stringify(vistas));
+    return c;
+  }
+  function cerrar() { burbuja.hidden = true; abierto = false; rob.className = 'eem-r'; clearTimeout(tHabla); clearTimeout(tCierra); }
+  function mostrar() {
+    cargar(function () {
+      if (!banco || !banco.length) return;
+      var c = elegir();
+      burbuja.querySelector('.c').textContent = ICONO[c.c] || '💡 Curiosidad';
+      burbuja.querySelector('p').textContent = c.t;
+      var fu = burbuja.querySelector('.fu'); if (c.u) { fu.href = c.u; fu.hidden = false; } else { fu.hidden = true; }
+      burbuja.hidden = false; abierto = true; rob.className = 'eem-r habla';
+      clearTimeout(tHabla); clearTimeout(tCierra);
+      tHabla = setTimeout(function () { rob.className = 'eem-r'; }, 4500);
+      tCierra = setTimeout(cerrar, 20000);
+    });
+  }
+  raiz.querySelector('.x').onclick = function () { apagado = true; try { sessionStorage.setItem('eem_robot_x', '1'); } catch (e) { } raiz.remove(); };
+  raiz.querySelector('.otra').onclick = mostrar;
+  rob.onclick = function () { if (abierto) cerrar(); else mostrar(); };
+  document.body.appendChild(raiz);
+  rob.className = 'eem-r saluda'; setTimeout(function () { if (!abierto) rob.className = 'eem-r'; }, 2600);
+  setTimeout(function () { if (!apagado && document.visibilityState === 'visible') mostrar(); }, 9000);
+  setInterval(function () { if (!apagado && !abierto && document.visibilityState === 'visible') mostrar(); }, 75000);
+})();
