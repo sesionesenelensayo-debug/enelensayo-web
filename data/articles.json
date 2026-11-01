@@ -1,6 +1,33 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Antonio Grimau: el adiós al actor argentino y villano",
+    "artista": "Antonio Grimau",
+    "intro": "El actor argentino Antonio Grimau, reconocido por su interpretación de villanos en telenovelas y su versatilidad en teatro y cine…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/antonio-grimau-el-adios-al-actor-argentino-y-villano-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/antonio-grimau-el-adios-al-actor-argentino-y-villano-1031.jpg",
+    "fecha": "2026-10-31T22:10:07.235261",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "Fallece Fernando Castillo, cantante de Los Yaguarú",
+    "artista": "Fernando Castillo",
+    "intro": "El medio musical mexicano lamenta el fallecimiento de Fernando Castillo, reconocido vocalista de Los Yaguarú de Ángel Venegas.",
+    "telegraph_url": "https://telegra.ph/Fallece-Fernando-Castillo-cantante-de-Los-Yaguarú-11-01",
+    "url": "https://enelensayomedia.com/notas/fallece-fernando-castillo-cantante-de-los-yaguaru-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-fernando-castillo-cantante-de-los-yaguaru-1031.jpg",
+    "fecha": "2026-10-31T22:09:27.002320",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "El Komander anuncia la muerte de su bebé y cancela show",
     "artista": "El Komander",
     "intro": "El cantante regional mexicano El Komander confirmó en sus redes sociales la muerte de su bebé, José Eliseo, a pocos meses de su nacimiento. La tragedia lo llevó a cancelar el concierto que tenía progr",
@@ -1794,20 +1821,6 @@
   },
   {
     "tipo": "reportaje",
-    "titulo": "RAFAEL DEL ESTAD: 13 años SIN SU MÚSICA",
-    "artista": "Rafael del Estad",
-    "intro": "Se conmemoran 13 años sin la música de Rafael del Estad, el recordado cantante y compositor español que renovó las sevillanas. A más de una década de su partida, su voz y sus composiciones siguen vige",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/rafael-del-estad-13-anos-sin-su-musica-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/rafael-del-estad-13-anos-sin-su-musica-1030.jpg",
-    "fecha": "2026-10-30T15:52:42.847414",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
     "titulo": "5 curiosidades que no sabías de Carmencita Lara",
     "artista": "Carmencita Lara",
     "intro": "Se recuerdan cinco curiosidades de la emblemática cantante peruana Carmencita Lara. A través de un repaso por su trayectoria y su legado dentro del estilo tradicional criollo, la figura de la artista ",
@@ -1833,20 +1846,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "JOHNNY LABORIEL: 13 años SIN SU MÚSICA",
-    "artista": "Johnny Laboriel",
-    "intro": "Hoy se recuerdan trece años desde el fallecimiento de Johnny Laboriel, el icónico cantante y actor cómico mexicano cuya carrera marcó el inicio del rock en español en México. Nacido Juan José Laboriel",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/johnny-laboriel-13-anos-sin-su-musica-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/johnny-laboriel-13-anos-sin-su-musica-1030.jpg",
-    "fecha": "2026-10-30T15:15:23.127296",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "noticia",
