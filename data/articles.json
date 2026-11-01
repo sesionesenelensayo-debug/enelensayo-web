@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "MAC MILLER: El secreto que guardó hasta el último día",
+    "artista": "Mac Miller",
+    "intro": "A 26 años de su partida, el fallecimiento del rapero, cantante y productor estadounidense Mac Miller sigue resonando en la escena musical contemporánea.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/mac-miller-el-secreto-que-guardo-hasta-el-ultimo-dia-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/mac-miller-el-secreto-que-guardo-hasta-el-ultimo-dia-1031.jpg",
+    "fecha": "2026-10-31T22:34:29.212399",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "RJ Mitte: su última visita a Albuquerque",
     "artista": "RJ Mitte",
     "intro": "El actor estadounidense y activista RJ Mitte falleció el 12 de octubre de 2026 a los 34 años en Brownsville, Texas.",
@@ -1829,20 +1843,6 @@
     "fecha": "2026-10-30T16:40:16.332361",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "ALFRED REED: 21 años SIN SU MÚSICA",
-    "artista": "Alfred Reed",
-    "intro": "Se recuerdan 21 años sin la música de Alfred Reed, uno de los compositores estadounidenses con mayor repertorio. A lo largo de su trayectoria, dejó más de doscientas obras publicadas para orquesta, ba",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/alfred-reed-21-anos-sin-su-musica-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/alfred-reed-21-anos-sin-su-musica-1030.jpg",
-    "fecha": "2026-10-30T16:19:51.489903",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
     "categoria": "Música"
   },
   {
