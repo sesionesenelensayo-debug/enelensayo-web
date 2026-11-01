@@ -152,3 +152,13 @@ body:has(.cabecera) .ad.libre a{border-radius:14px;border-color:rgba(124,82,204,
 #mx-nl form>button{padding:11px 18px;border-radius:99px;border:0;font-weight:800;color:#111;cursor:pointer;background:linear-gradient(120deg,var(--g4),#ffc247)}
 #mx-nl label{flex:1 0 100%;font-size:.74rem;opacity:.75}#mx-nl label a{color:var(--g2)}#mx-nl .msg{font-size:.78rem;color:var(--g4);font-style:normal}
 #mx-nl .wa{justify-self:start;margin-top:2px;padding:8px 14px;border-radius:99px;background:#25D366;color:#06210f;font-weight:800;font-size:.84rem;text-decoration:none}
+
+/* ── Parte superior en móvil [e.leo]: la barra es fija, así que el contenido arranca debajo de ella (antes la ranura de publicidad y el «← Portada»
+   quedaban TAPADOS por la barra y la cinta de Spotify dejaba un hueco). --nav-h lo mide moderno.js. ── */
+@media(max-width:900px){
+  body{padding-top:var(--nav-h,68px)}
+  .tira-sp{margin-top:0}
+  html{scroll-padding-top:calc(var(--nav-h,68px) + 12px)}
+  [data-slot="cabecera"].ad{margin:12px 12px 0}
+}
+@media(max-width:900px){.pag-cab{padding:14px 16px 0}}

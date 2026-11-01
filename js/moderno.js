@@ -110,3 +110,13 @@
   function al() { var h = document.documentElement; if ((h.scrollTop + innerHeight) / Math.max(h.scrollHeight, 1) > 0.45) disparar(); }
   window.addEventListener('scroll', al, { passive: true });
 })();
+
+// ── Altura de la barra fija → --nav-h (el CSS empuja el contenido debajo de ella) [e.leo] ──
+(function () {
+  function medir() {
+    var n = document.querySelector('.navbar .nav-inner') || document.querySelector('.navbar');
+    if (n) document.documentElement.style.setProperty('--nav-h', Math.ceil(n.getBoundingClientRect().height + 1) + 'px');
+  }
+  medir(); addEventListener('load', medir); addEventListener('resize', medir);
+  if (document.fonts && document.fonts.ready) document.fonts.ready.then(medir);
+})();
