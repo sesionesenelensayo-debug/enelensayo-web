@@ -1,6 +1,21 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Fallece el actor Tom Skerritt",
+    "artista": "",
+    "intro": "El actor y director estadounidense Tom Skerritt ha fallecido a los 93 años en su hogar en Seattle, según los registros de defunciones de octubre de 2026. S",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/fallece-el-actor-tom-skerritt-1022.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-el-actor-tom-skerritt-1022.jpg",
+    "fecha": "2026-11-01T03:48:43.833410",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "In memoriam",
+    "fecha_original": "2026-10-22T23:20:06",
+    "actualizada": true
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "5 curiosidades que no sabías de the doors",
     "artista": "The Doors",
     "intro": "El video de En el Ensayo Media presenta una breve recopilación de datos interesantes sobre la icónica banda de rock The Doors, ofreciendo cinco hechos que muchos fanáticos podrían desconocer…",
@@ -96,21 +111,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece el actor Tom Skerritt",
-    "artista": "",
-    "intro": "El actor y director estadounidense Tom Skerritt ha fallecido a los 93 años en su hogar en Seattle, según los registros de defunciones de octubre de 2026. S",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fallece-el-actor-tom-skerritt-1022.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-el-actor-tom-skerritt-1022.jpg",
-    "fecha": "2026-11-01T00:12:07.368156",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam",
-    "fecha_original": "2026-10-22T23:20:06",
-    "actualizada": true
   },
   {
     "tipo": "reportaje",
