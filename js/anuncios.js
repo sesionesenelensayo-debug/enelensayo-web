@@ -2,24 +2,43 @@
 // libre → invitación a anunciarse. Más un contador de visitas anónimo (sin datos personales) para medir la audiencia.
 (function () {
   var esc = function (s) { return String(s == null ? '' : s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); };
-  var A = 'https://abacus.jasoncameron.dev/hit/enelensayo-mx/';
+  // [e.leo] CONTEO LIMPIO: cada visita se clasifica como real, prueba o bot y va a contadores distintos (namespace enelensayo-mx2).
+  //   prueba = localhost / vista previa / otro dominio que no sea el de producción, dispositivos marcados con ?yo=1 (dueño) o ?prueba=1
+  //   bot    = navegadores automatizados y rastreadores (HeadlessChrome, Lighthouse, vistas previas de redes, etc.)
+  //   El histórico anterior (mezclado, incluye pruebas) quedó en el namespace enelensayo-mx.
+  var A = 'https://abacus.jasoncameron.dev/hit/enelensayo-mx2/';
   function hit(k) { try { fetch(A + k, { mode: 'no-cors', keepalive: true }); } catch (e) { } }
+  function clasificar() {
+    var ua = navigator.userAgent || '', yo = false;
+    try {
+      if (/[?&]yo=1/.test(location.search)) localStorage.eem_yo = '1';
+      if (/[?&]yo=0/.test(location.search)) localStorage.removeItem('eem_yo');
+      yo = !!localStorage.eem_yo;
+    } catch (e) { }
+    if (!/^(www\.)?enelensayomedia\.com$/.test(location.hostname) || yo || /[?&]prueba=1/.test(location.search)) return 'prueba';
+    if (navigator.webdriver || /Headless|Playwright|Puppeteer|Selenium|PhantomJS|Lighthouse|PageSpeed|GTmetrix|\bbot\b|bot\/|crawl|spider|slurp|preview|facebookexternalhit|Bytespider|GPTBot|ClaudeBot|Applebot|Google-InspectionTool/i.test(ua)) return 'bot';
+    return 'real';
+  }
   try {
-    if (/[?&]yo=1/.test(location.search)) localStorage.eem_yo = '1';
-    if (/[?&]yo=0/.test(location.search)) localStorage.removeItem('eem_yo');
-    if (!localStorage.eem_yo) {
-      var d = new Date(), k = 'v-' + d.getFullYear() + String(d.getMonth() + 1).padStart(2, '0') + String(d.getDate()).padStart(2, '0');
+    var tipo = clasificar(), d = new Date();
+    var ymd = d.getFullYear() + String(d.getMonth() + 1).padStart(2, '0') + String(d.getDate()).padStart(2, '0');
+    window.eemTipoVisita = tipo;
+    if (tipo !== 'real') {
+      var pf = tipo === 'bot' ? 'tb' : 'tp';
+      hit(pf + '-total'); hit(pf + '-' + ymd);
+    } else {
+      var k = 'v-' + ymd;
       var pag = (location.pathname.split('/').pop().replace('.html', '') || 'inicio').slice(0, 24).replace(/[^a-z0-9-]/gi, '');
-      // [e.leo] 7 peticiones por visita (antes 11): abacus limita ~30 por 10 s y por IP, y en redes móviles compartidas se perdían contadores
+      // 7 peticiones por visita real: abacus limita ~30 por 10 s y por IP, y en redes móviles compartidas se perdían contadores
       var slug = location.pathname.split('/').pop().replace('.html', ''), hh = 5381, ci;
       for (ci = 0; ci < slug.length; ci++) hh = ((hh << 5) + hh + slug.charCodeAt(ci)) >>> 0;
       hit('v-total'); hit(k);
       hit(/^\/(notas|artistas)\//.test(location.pathname) ? 'n-' + ('00000000' + hh.toString(16)).slice(-8) : 'p-' + pag);       // por nota (hash del slug) o por sección
-      hit('h-' + new Date().toISOString().slice(0, 13).replace(/[-T]/g, ''));      // visitas por hora (UTC) para /vistas [e.leo]
+      hit('h-' + new Date().toISOString().slice(0, 13).replace(/[-T]/g, ''));      // visitas por hora (UTC)
       var ref = (document.referrer || '').toLowerCase(), q = new URLSearchParams(location.search);
       var o = ref.indexOf(location.hostname) > -1 ? 'interna' : !ref ? 'directo' : /google\./.test(ref) ? 'google' : /bing\.|duckduckgo|yahoo|ecosia|brave/.test(ref) ? 'buscadores' :
         /facebook|fb\.|l\.facebook/.test(ref) ? 'facebook' : /instagram/.test(ref) ? 'instagram' : /tiktok/.test(ref) ? 'tiktok' : /youtube|youtu\.be/.test(ref) ? 'youtube' :
-        /t\.me|telegram/.test(ref) ? 'telegram' : /twitter|x\.com|t\.co/.test(ref) ? 'x' : /whatsapp|wa\.me/.test(ref) ? 'whatsapp' : /threads/.test(ref) ? 'threads' : 'otro';
+        /t\.me|telegram/.test(ref) ? 'telegram' : /twitter|x\.com|t\.co/.test(ref) ? 'x' : /whatsapp|wa\.me/.test(ref) ? 'whatsapp' : /bsky\.app|bluesky/.test(ref) ? 'bluesky' : /threads/.test(ref) ? 'threads' : 'otro';
       if (q.get('utm_source')) o = q.get('utm_source').toLowerCase().replace(/[^a-z0-9]/g, '').slice(0, 20) || o;
       if (o !== 'interna') hit('o-' + o);          // de dónde llegan
       hit('d-' + (/Mobi|Android|iPhone/i.test(navigator.userAgent) ? 'movil' : 'escritorio'));
