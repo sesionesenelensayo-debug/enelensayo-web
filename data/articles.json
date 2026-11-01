@@ -1,5 +1,32 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "El álbum 'Trompe le Monde' de Pixies: la ruptura que engañó al mundo en 1991",
+    "artista": "THE PIXIES",
+    "intro": "En el video de En el Ensayo Media se relata cómo, en 1991, el último álbum de Pixies, 'Trompe le Monde', sorprendió al público.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-album-trompe-le-monde-de-pixies-la-ruptura-que-engano-al-mundo-en-1-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-album-trompe-le-monde-de-pixies-la-ruptura-que-engano-al-mundo-en-1-1101.jpg",
+    "fecha": "2026-11-01T07:31:34.633071",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "Estrena documental de Elizabeth Holmes en cines de América Latina",
+    "artista": "Elizabeth Holmes",
+    "intro": "El nuevo documental sobre Elizabeth Holmes llega a las salas de cine latinoamericanas, generando expectativa y reportes de una fuerte recepción económica.",
+    "telegraph_url": "https://telegra.ph/Estrena-documental-de-Elizabeth-Holmes-en-cines-de-América-Latina-11-01",
+    "url": "https://enelensayomedia.com/notas/estrena-documental-de-elizabeth-holmes-en-cines-de-america-latina-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/estrena-documental-de-elizabeth-holmes-en-cines-de-america-latina-1101.jpg",
+    "fecha": "2026-11-01T07:31:12.655876",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
     "tipo": "noticia",
     "titulo": "Pitbull anuncia gira en México para febrero de 2027",
     "artista": "Pitbull",
@@ -2017,34 +2044,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Esports"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "VICTOR JARA: 53 años SIN SU MÚSICA",
-    "artista": "Victor Jara",
-    "intro": "A 53 años sin su música, la memoria de Víctor Jara sigue marcada por los hechos trágicos de su asesinato. La información disponible señala que el músico fue asesinado con más de cuarenta disparos en u",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/victor-jara-53-anos-sin-su-musica-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/victor-jara-53-anos-sin-su-musica-1030.jpg",
-    "fecha": "2026-10-30T17:24:07.783704",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "MARC BOLAN: 49 años SIN SU MÚSICA",
-    "artista": "Marc Bolan",
-    "intro": "Hoy se cumplen 49 años desde que Marc Bolan nos dejó. Mark Feld, conocido artísticamente como Marc Bolan, fue un músico, compositor, actor y cantante británico, y una de las figuras más populares del ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/marc-bolan-49-anos-sin-su-musica-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/marc-bolan-49-anos-sin-su-musica-1030.jpg",
-    "fecha": "2026-10-30T17:11:50.420863",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
