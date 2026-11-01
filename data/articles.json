@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "Fallece Fernando Castillo, cantante de Los Yaguarú",
+    "artista": "Fernando Castillo",
+    "intro": "El medio musical mexicano lamenta el fallecimiento de Fernando Castillo, reconocido vocalista de Los Yaguarú de Ángel Venegas.",
+    "telegraph_url": "https://telegra.ph/Fallece-Fernando-Castillo-cantante-de-Los-Yaguarú-11-01",
+    "url": "https://enelensayomedia.com/notas/fallece-fernando-castillo-cantante-de-los-yaguaru-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-fernando-castillo-cantante-de-los-yaguaru-1031.jpg",
+    "fecha": "2026-10-31T23:03:11.981712",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-10-31T22:09:27.002320",
+    "actualizada": true
+  },
+  {
     "tipo": "noticia",
     "titulo": "Daddy Yankee visita Venezuela acompañado de Danny Ocean",
     "artista": "Daddy Yankee",
@@ -120,19 +135,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "archivo": true,
-    "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece Fernando Castillo, cantante de Los Yaguarú",
-    "artista": "Fernando Castillo",
-    "intro": "El medio musical mexicano lamenta el fallecimiento de Fernando Castillo, reconocido vocalista de Los Yaguarú de Ángel Venegas.",
-    "telegraph_url": "https://telegra.ph/Fallece-Fernando-Castillo-cantante-de-Los-Yaguarú-11-01",
-    "url": "https://enelensayomedia.com/notas/fallece-fernando-castillo-cantante-de-los-yaguaru-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-fernando-castillo-cantante-de-los-yaguaru-1031.jpg",
-    "fecha": "2026-10-31T22:09:27.002320",
-    "author": "Oliver Ken",
-    "views": 0,
     "categoria": "Música"
   },
   {
