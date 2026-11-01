@@ -58,9 +58,9 @@
         try { (window.adsbygoogle = window.adsbygoogle || []).push({}); } catch (e) { }
       } else if (pos !== 'cabecera' && pos !== 'nota') {   // [e.leo] ranuras extra: solo se muestran con anunciante directo o bloque de AdSense
         el.style.display = 'none';
-      } else {
-        el.className = 'ad libre';
-        el.innerHTML = '<a href="/anunciate.html" data-ad="libre-' + esc(pos) + '">Anúnciate aquí desde $49 MXN · tu negocio frente a lectores de música de México →</a>';
+      } else {   // [e.leo] sin anunciante directo ni bloque de AdSense todavía: se reserva el espacio VACÍO para el anuncio de Google (sin texto de «Anúnciate»)
+        el.className = 'ad adsense espera';
+        el.innerHTML = '';
       }
     });
   });

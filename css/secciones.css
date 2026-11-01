@@ -185,3 +185,5 @@ img,iframe{max-width:100%}
 .lu-chip.on{background:#ffd23f;color:#111;border-color:#ffd23f}
 .lu-camps{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}.lu-camp{background:rgba(255,210,63,.16);border:1px solid rgba(255,210,63,.5);border-radius:8px;padding:3px 8px;font-size:12px}
 .lu-fuente{display:inline-block;margin-top:8px;font-size:12px;opacity:.7}
+
+.ad.espera{min-height:100px;margin:14px auto}
