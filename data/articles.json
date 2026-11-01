@@ -1,6 +1,19 @@
 [
   {
     "tipo": "noticia",
+    "titulo": "U2 agrega tercera fecha en la Ciudad de México para febrero de 2027",
+    "artista": "U2",
+    "intro": "La banda irlandesa U2 anunció un tercer concierto en el Estadio GNP Seguros como parte de su gira mundial.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/u2-agrega-tercera-fecha-en-la-ciudad-de-mexico-para-febrero-de-2027-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/u2-agrega-tercera-fecha-en-la-ciudad-de-mexico-para-febrero-de-2027-1031.jpg",
+    "fecha": "2026-10-31T23:09:38.788591",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
+    "tipo": "noticia",
     "titulo": "Pitbull anuncia gira en México para febrero de 2027",
     "artista": "Pitbull",
     "intro": "El cantante estadounidense Pitbull confirmó tres conciertos en México como parte de su gira internacional I’m Back Tour.",
