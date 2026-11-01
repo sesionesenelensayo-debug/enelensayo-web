@@ -1,6 +1,35 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Hiroshi Tsuchida: la voz de Saizo y Grisha Yeager",
+    "artista": "Hiroshi Tsuchida",
+    "intro": "El actor y seiyu japonés Hiroshi Tsuchida, conocido por interpretar a Saizo en \"Kakuranger\" y a Grisha Yeager en \"Attack on Titan\", falleció el 11 de octubre de 2026 a los 54 años.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/hiroshi-tsuchida-la-voz-de-saizo-y-grisha-yeager-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/hiroshi-tsuchida-la-voz-de-saizo-y-grisha-yeager-1031.jpg",
+    "fecha": "2026-10-31T21:30:51.874416",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "Fallece el actor Tom Skerritt",
+    "artista": "",
+    "intro": "El actor y director estadounidense Tom Skerritt ha fallecido a los 93 años en su hogar en Seattle, según los registros de defunciones de octubre de 2026. S",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/fallece-el-actor-tom-skerritt-1022.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-el-actor-tom-skerritt-1022.jpg",
+    "fecha": "2026-10-31T21:29:01.935000",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "In memoriam",
+    "fecha_original": "2026-10-22T23:20:06",
+    "actualizada": true
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Fallece el seiyu Hiroshi Tsuchida a los 54 años",
     "artista": "Hiroshi Tsuchida",
     "intro": "El 11 de octubre de 2026 falleció el reconocido actor de voz japonés Hiroshi Tsuchida, a los 54 años.",
@@ -1821,20 +1850,6 @@
   },
   {
     "tipo": "reportaje",
-    "titulo": "SYLVANO BUSSOTTI: 5 años SIN SU MÚSICA",
-    "artista": "Sylvano Bussotti",
-    "intro": "Hoy se cumplen 5 años desde que Sylvano Bussotti nos dejó. El artista italiano es especialmente conocido como compositor, aunque su labor creativa abarcó múltiples disciplinas. A cinco años de su fall",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/sylvano-bussotti-5-anos-sin-su-musica-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/sylvano-bussotti-5-anos-sin-su-musica-1030.jpg",
-    "fecha": "2026-10-30T14:36:38.682258",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
     "titulo": "Las 10 mayores decepciones cinematográficas de 2026 según la crítica",
     "artista": "las 10 grandes decepciones de 2026 según la crítica (peor calificadas con más expectativa)",
     "intro": "Un ranking basado en la baja aprobación de críticos frente a altas expectativas y presupuestos millonarios.",
@@ -3276,19 +3291,6 @@
     "url": "https://enelensayomedia.com/notas/fallece-a-los-97-anos-el-pintor-argentino-carlos-alonso-1022.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/fallece-a-los-97-anos-el-pintor-argentino-carlos-alonso-1022.jpg",
     "fecha": "2026-10-22T23:27:14",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece el actor Tom Skerritt",
-    "artista": "",
-    "intro": "El actor y director estadounidense Tom Skerritt ha fallecido a los 93 años en su hogar en Seattle, según los registros de defunciones de octubre de 2026. S",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fallece-el-actor-tom-skerritt-1022.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-el-actor-tom-skerritt-1022.jpg",
-    "fecha": "2026-10-22T23:20:06",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
