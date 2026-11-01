@@ -1,6 +1,21 @@
 [
   {
     "tipo": "noticia",
+    "titulo": "Carola Martínez asiste al Gran Premio de México 2026 con vestido rojo",
+    "artista": "Carola Martínez",
+    "intro": "Carola Martínez, esposa del piloto mexicano Checo Pérez, llegó al Gran Premio de México 2026 luciendo un llamativo vestido rojo.",
+    "telegraph_url": "https://telegra.ph/Carola-Martínez-asiste-al-Gran-Premio-de-México-2026-con-vestido-rojo-11-01",
+    "url": "https://enelensayomedia.com/notas/carola-martinez-asiste-al-gran-premio-de-mexico-2026-con-vestido-rojo-1101.html",
+    "imagen_url": "",
+    "fecha": "2026-11-01T13:58:15.687091",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-01T08:03:00.262719",
+    "actualizada": true
+  },
+  {
+    "tipo": "noticia",
     "titulo": "Sound Music Fest presenta la edición 'Golden Years' con Christina Aguilera y otros artistas",
     "artista": "Sound Music Fest",
     "intro": "Sound Music Fest ha revelado su próxima edición, denominada 'Golden Years', que se llevará a cabo el 21 de noviembre en el Estadio Nacional.",
@@ -566,19 +581,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Carola Martínez asiste al Gran Premio de México 2026 con vestido rojo",
-    "artista": "Carola Martínez",
-    "intro": "Carola Martínez, esposa del piloto mexicano Checo Pérez, llegó al Gran Premio de México 2026 luciendo un llamativo vestido rojo.",
-    "telegraph_url": "https://telegra.ph/Carola-Martínez-asiste-al-Gran-Premio-de-México-2026-con-vestido-rojo-11-01",
-    "url": "https://enelensayomedia.com/notas/carola-martinez-asiste-al-gran-premio-de-mexico-2026-con-vestido-rojo-1101.html",
-    "imagen_url": "",
-    "fecha": "2026-11-01T08:03:00.262719",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   },
   {
     "tipo": "reportaje",
