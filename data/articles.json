@@ -1,5 +1,18 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "Diego Rivera compró en 1940 el terreno que hoy alberga el Museo Anahuacalli",
+    "artista": "Diego Rivera",
+    "intro": "En 1940 el pintor Diego Rivera adquirió un terreno de piedra volcánica en Coyoacán.",
+    "telegraph_url": "https://telegra.ph/Diego-Rivera-compró-en-1940-el-terreno-que-hoy-alberga-el-Museo-Anahuacalli-11-01",
+    "url": "https://enelensayomedia.com/notas/diego-rivera-compro-en-1940-el-terreno-que-hoy-alberga-el-museo-anahua-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/diego-rivera-compro-en-1940-el-terreno-que-hoy-alberga-el-museo-anahua-1101.jpg",
+    "fecha": "2026-11-01T13:37:39.393566",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
     "tipo": "noticia",
     "titulo": "Qué ver este fin de semana en streaming: estrenos en Netflix, Disney+, Prime y HBO",
     "artista": "Netflix/Disney+/Prime/HBO",
@@ -2202,20 +2215,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "JORGE VIDAL: HABRÍA CUMPLIDO 16",
-    "artista": "JORGE VIDAL",
-    "intro": "En la plataforma YouTube se publicó el video titulado ‘JORGE VIDAL: HABRÍA CUMPLIDO 16’. El contenido plantea la interrogante: ¿qué habría creado el cantor de tango argentino Jorge Vidal si hubiera pe",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/jorge-vidal-habria-cumplido-16-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/jorge-vidal-habria-cumplido-16-1030.jpg",
-    "fecha": "2026-10-30T19:25:19.049781",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
