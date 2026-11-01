@@ -1,0 +1,516 @@
+{
+ "actualizado": "2026-11-01 14:00",
+ "campeones": {
+  "WWE": [
+   {
+    "titulo": "World Heavyweight Championship",
+    "campeon": "Roman Reigns"
+   },
+   {
+    "titulo": "Women's World Championship",
+    "campeon": "Liv Morgan"
+   },
+   {
+    "titulo": "WWE Intercontinental Championship",
+    "campeon": "Chad Gable"
+   },
+   {
+    "titulo": "WWE Women's Intercontinental Championship",
+    "campeon": "Raquel Rodriguez"
+   },
+   {
+    "titulo": "World Tag Team Championship",
+    "campeon": "The Vision ( Bron Breakker and Austin Theory )"
+   },
+   {
+    "titulo": "Undisputed WWE Championship",
+    "campeon": "Sami Zayn"
+   },
+   {
+    "titulo": "WWE Women's Championship",
+    "campeon": "Chelsea Green"
+   },
+   {
+    "titulo": "WWE United States Championship",
+    "campeon": "Trick Williams"
+   },
+   {
+    "titulo": "WWE Women's United States Championship",
+    "campeon": "Jacy Jayne"
+   },
+   {
+    "titulo": "WWE Tag Team Championship",
+    "campeon": "The MFTs ( Tama Tonga and Talla Tonga )"
+   },
+   {
+    "titulo": "AAA World Cruiserweight Championship",
+    "campeon": "Rey Fénix"
+   },
+   {
+    "titulo": "WWE Women's Tag Team Championship",
+    "campeon": "Michin and B-Fab"
+   },
+   {
+    "titulo": "NXT Championship",
+    "campeon": "Grayson Waller"
+   },
+   {
+    "titulo": "NXT Women's Championship",
+    "campeon": "Kelani Jordan"
+   },
+   {
+    "titulo": "NXT North American Championship",
+    "campeon": "Jackson Drake"
+   },
+   {
+    "titulo": "NXT Women's North American Championship",
+    "campeon": "Zaria"
+   },
+   {
+    "titulo": "NXT Tag Team Championship",
+    "campeon": "The Vanity Project ( Brad Baylor and Ricky Smokes )"
+   },
+   {
+    "titulo": "WWE Evolve Men's Championship",
+    "campeon": "Harlem Lewis"
+   },
+   {
+    "titulo": "WWE Evolve Women's Championship",
+    "campeon": "Nikkita Lyons"
+   },
+   {
+    "titulo": "WWE ID Championship",
+    "campeon": "Max Abrams"
+   },
+   {
+    "titulo": "WWE Women's ID Championship",
+    "campeon": "Monica Monroe"
+   }
+  ],
+  "AAA": [
+   {
+    "titulo": "AAA Mega Championship",
+    "campeon": "El Grande Americano"
+   },
+   {
+    "titulo": "AAA Reina de Reinas Championship",
+    "campeon": "La Catalina"
+   },
+   {
+    "titulo": "AAA Latin American Championship",
+    "campeon": "La Parka"
+   },
+   {
+    "titulo": "AAA World Cruiserweight Championship",
+    "campeon": "Rey Fénix"
+   },
+   {
+    "titulo": "AAA World Tag Team Championship",
+    "campeon": "The Wagner Brothers ( El Hijo de Dr. Wagner Jr. and Galeno )"
+   },
+   {
+    "titulo": "AAA World Mixed Tag Team Championship",
+    "campeon": "La Hiedra and Laredo Kid"
+   },
+   {
+    "titulo": "AAA World Trios Championship",
+    "campeon": "Los Perros del Mal ( Daga , Angel , and Berto ( not pictured )"
+   }
+  ],
+  "NJPW": [
+   {
+    "titulo": "IWGP Heavyweight Championship",
+    "campeon": "Yota Tsuji"
+   },
+   {
+    "titulo": "IWGP Global Heavyweight Championship",
+    "campeon": "Gabe Kidd"
+   },
+   {
+    "titulo": "IWGP Junior Heavyweight Championship",
+    "campeon": "Yoh"
+   },
+   {
+    "titulo": "NEVER Openweight Championship",
+    "campeon": "Aaron Wolf"
+   },
+   {
+    "titulo": "Strong Openweight Championship",
+    "campeon": "Boltin Oleg"
+   },
+   {
+    "titulo": "NJPW World Television Championship",
+    "campeon": "Shun Skywalker"
+   },
+   {
+    "titulo": "IWGP Tag Team Championship",
+    "campeon": "Knock Out Brothers ( Yuto-Ice and Oskar )"
+   },
+   {
+    "titulo": "IWGP Junior Heavyweight Tag Team Championship",
+    "campeon": "El Desperado and Místico"
+   },
+   {
+    "titulo": "Strong Openweight Tag Team Championship",
+    "campeon": "Los Hermanos Chávez ( Ángel de Oro and Niebla Roja )"
+   },
+   {
+    "titulo": "NEVER Openweight 6-Man Tag Team Championship",
+    "campeon": "Unbound Co. ( Yuto-Ice , Oskar , and Jeff Cobb )"
+   },
+   {
+    "titulo": "NJPW TAMASHII Tag Team Championship",
+    "campeon": "Ungrateful 1s (T.J. Illes and Trent Hooper)"
+   },
+   {
+    "titulo": "IWGP Women's Championship",
+    "campeon": "Syuri"
+   },
+   {
+    "titulo": "Strong Women's Championship",
+    "campeon": "Alex Windsor"
+   }
+  ],
+  "CMLL": [
+   {
+    "titulo": "CMLL World Heavyweight Championship",
+    "campeon": "Hechicero"
+   },
+   {
+    "titulo": "CMLL World Light Heavyweight Championship",
+    "campeon": "Místico"
+   },
+   {
+    "titulo": "CMLL World Middleweight Championship",
+    "campeon": "Templario"
+   },
+   {
+    "titulo": "CMLL World Welterweight Championship",
+    "campeon": "Titán"
+   },
+   {
+    "titulo": "CMLL World Lightweight Championship",
+    "campeon": "Stigma"
+   },
+   {
+    "titulo": "CMLL World Mini-Estrellas Championship",
+    "campeon": "Pequeño Volador Jr."
+   },
+   {
+    "titulo": "CMLL World Micro-Estrellas Championship",
+    "campeon": "KeMalito"
+   },
+   {
+    "titulo": "NWA World Historic Light Heavyweight Championship",
+    "campeon": "Averno"
+   },
+   {
+    "titulo": "NWA World Historic Middleweight Championship",
+    "campeon": "Volador Jr."
+   },
+   {
+    "titulo": "NWA World Historic Welterweight Championship",
+    "campeon": "Máscara Dorada"
+   },
+   {
+    "titulo": "CMLL World Tag Team Championship",
+    "campeon": "Los Hermanos Chavez ( Ángel de Oro and Niebla Roja )"
+   },
+   {
+    "titulo": "CMLL World Trios Championship",
+    "campeon": "El Sky Team ( Máscara Dorada , Místico and Neón )"
+   },
+   {
+    "titulo": "CMLL World Women's Championship",
+    "campeon": "Persephone"
+   },
+   {
+    "titulo": "CMLL Japan Women's Championship",
+    "campeon": "India Sioux"
+   },
+   {
+    "titulo": "CMLL World Women's Tag Team Championship",
+    "campeon": "Lluvia and La Jarochita"
+   },
+   {
+    "titulo": "Mexican National Heavyweight Championship",
+    "campeon": "Esfinge"
+   },
+   {
+    "titulo": "Mexican National Light Heavyweight Championship",
+    "campeon": "Vegas Depredador"
+   },
+   {
+    "titulo": "Mexican National Middleweight Championship",
+    "campeon": "Rey Pegasus"
+   },
+   {
+    "titulo": "Mexican National Welterweight Championship",
+    "campeon": "Capitán Suicida"
+   },
+   {
+    "titulo": "Mexican National Lightweight Championship",
+    "campeon": "Calavera Jr. I"
+   },
+   {
+    "titulo": "Mexican National Tag Team Championship",
+    "campeon": "Los Depredadores ( Rugido and Magnus )"
+   },
+   {
+    "titulo": "Mexican National Trios Championship",
+    "campeon": "Los Herederos ( Felino Jr. , Hijo de Stuka Jr. , and El Cobarde)"
+   },
+   {
+    "titulo": "Mexican National Women's Championship",
+    "campeon": "Thunder Rosa"
+   },
+   {
+    "titulo": "Mexican National Women's Tag Team Championship",
+    "campeon": "Las Valientitas ( Olympia and Hera )"
+   }
+  ]
+ },
+ "eventos": [
+  {
+   "nombre": "DOMINGO FAMILIAR TZOMPANTLI DE MÁSCARAS",
+   "promocion": "CMLL",
+   "fecha": "2026-11-01",
+   "lugar": "ARENA MÉXICO",
+   "ciudad": "México",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://cmll.com/cartelera/"
+  },
+  {
+   "nombre": "LUNES CLÁSICO #LunesClásicoCMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-11-02",
+   "lugar": "ARENA PUEBLA",
+   "ciudad": "Puebla",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://cmll.com/cartelera/"
+  },
+  {
+   "nombre": "Martes Populares de Lucha Libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-11-03",
+   "lugar": "Arena México",
+   "ciudad": "México, CDMX",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+  },
+  {
+   "nombre": "Martes de Glamour, Lucha libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-11-03",
+   "lugar": "Arena Coliseo de Guadalajara",
+   "ciudad": "Guadalajara, JAL",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+  },
+  {
+   "nombre": "Lucha Libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-11-05",
+   "lugar": "Arena Coliseo",
+   "ciudad": "México, CDMX",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+  },
+  {
+   "nombre": "Viernes Espectacular de Lucha Libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-11-06",
+   "lugar": "Arena México",
+   "ciudad": "México, CDMX",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+  },
+  {
+   "nombre": "Crown Jewel",
+   "promocion": "WWE",
+   "fecha": "2026-11-07",
+   "lugar": "The Venue (ANB Arena)",
+   "ciudad": "Riyadh, Saudi Arabia",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://khelnow.com/wwe/all-wwe-ples-date-venue-202601"
+  },
+  {
+   "nombre": "Sábados de lucha libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-11-07",
+   "lugar": "Arena Coliseo",
+   "ciudad": "México, CDMX",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+  },
+  {
+   "nombre": "Domingo Familiar de Lucha Libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-11-08",
+   "lugar": "Arena México",
+   "ciudad": "México, CDMX",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+  },
+  {
+   "nombre": "Lucha Libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-11-09",
+   "lugar": "Arena Puebla",
+   "ciudad": "Puebla, PUE",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+  },
+  {
+   "nombre": "Martes Populares de Lucha Libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-11-10",
+   "lugar": "Arena México",
+   "ciudad": "México, CDMX",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+  },
+  {
+   "nombre": "Martes de Glamour, Lucha libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-11-10",
+   "lugar": "Arena Coliseo de Guadalajara",
+   "ciudad": "Guadalajara, JAL",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+  },
+  {
+   "nombre": "Lucha Libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-11-12",
+   "lugar": "Arena Coliseo",
+   "ciudad": "México, CDMX",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+  },
+  {
+   "nombre": "Viernes Espectacular de Lucha Libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-11-13",
+   "lugar": "Arena México",
+   "ciudad": "México, CDMX",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+  },
+  {
+   "nombre": "Sábados de lucha libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-11-14",
+   "lugar": "Arena Coliseo",
+   "ciudad": "México, CDMX",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+  },
+  {
+   "nombre": "Domingo Familiar de Lucha Libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-11-15",
+   "lugar": "Arena México",
+   "ciudad": "México, CDMX",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+  },
+  {
+   "nombre": "FUNCIÓN ESPECIAL LUCHA KINGDOM",
+   "promocion": "CMLL",
+   "fecha": "2026-11-16",
+   "lugar": "ARENA MÉXICO",
+   "ciudad": "México",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://cmll.com/cartelera/"
+  },
+  {
+   "nombre": "Lucha Libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-11-16",
+   "lugar": "Arena Puebla",
+   "ciudad": "Puebla, PUE",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+  },
+  {
+   "nombre": "Martes Populares de Lucha Libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-11-17",
+   "lugar": "Arena México",
+   "ciudad": "México, CDMX",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+  },
+  {
+   "nombre": "Martes de Glamour, Lucha libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-11-17",
+   "lugar": "Arena Coliseo de Guadalajara",
+   "ciudad": "Guadalajara, JAL",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+  },
+  {
+   "nombre": "NFL x CMLL: Noche de cascos y mascaras",
+   "promocion": "CMLL",
+   "fecha": "2026-11-18",
+   "lugar": "Arena México",
+   "ciudad": "México, CDMX",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+  },
+  {
+   "nombre": "Wrestlepalooza",
+   "promocion": "WWE",
+   "fecha": "2026-12-12",
+   "lugar": "RAC Arena",
+   "ciudad": "Perth, Australia",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://khelnow.com/wwe/all-wwe-ples-date-venue-202601"
+  },
+  {
+   "nombre": "NXT TLC",
+   "promocion": "WWE",
+   "fecha": "2026-12-12",
+   "lugar": "WWE Performance Center",
+   "ciudad": "Orlando, Florida",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://khelnow.com/wwe/all-wwe-ples-date-venue-202601"
+  },
+  {
+   "nombre": "AEW: Worlds End",
+   "promocion": "AEW",
+   "fecha": "2026-12-19",
+   "lugar": "Target Center",
+   "ciudad": "Minneapolis",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.allelitewrestling.com/aew-event/aew-worlds-end-2026"
+  }
+ ],
+ "fuentes": "Campeones: Wikipedia. Funciones: páginas oficiales y de boletos citadas en cada tarjeta."
+}
