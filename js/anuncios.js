@@ -10,18 +10,19 @@
     if (!localStorage.eem_yo) {
       var d = new Date(), k = 'v-' + d.getFullYear() + String(d.getMonth() + 1).padStart(2, '0') + String(d.getDate()).padStart(2, '0');
       var pag = (location.pathname.split('/').pop().replace('.html', '') || 'inicio').slice(0, 24).replace(/[^a-z0-9-]/gi, '');
-      hit('v-total'); hit(k); hit('p-' + pag);
+      // [e.leo] 7 peticiones por visita (antes 11): abacus limita ~30 por 10 s y por IP, y en redes móviles compartidas se perdían contadores
+      var slug = location.pathname.split('/').pop().replace('.html', ''), hh = 5381, ci;
+      for (ci = 0; ci < slug.length; ci++) hh = ((hh << 5) + hh + slug.charCodeAt(ci)) >>> 0;
+      hit('v-total'); hit(k);
+      hit(/^\/(notas|artistas)\//.test(location.pathname) ? 'n-' + ('00000000' + hh.toString(16)).slice(-8) : 'p-' + pag);       // por nota (hash del slug) o por sección
       hit('h-' + new Date().toISOString().slice(0, 13).replace(/[-T]/g, ''));      // visitas por hora (UTC) para /vistas [e.leo]
       var ref = (document.referrer || '').toLowerCase(), q = new URLSearchParams(location.search);
       var o = ref.indexOf(location.hostname) > -1 ? 'interna' : !ref ? 'directo' : /google\./.test(ref) ? 'google' : /bing\.|duckduckgo|yahoo|ecosia|brave/.test(ref) ? 'buscadores' :
         /facebook|fb\.|l\.facebook/.test(ref) ? 'facebook' : /instagram/.test(ref) ? 'instagram' : /tiktok/.test(ref) ? 'tiktok' : /youtube|youtu\.be/.test(ref) ? 'youtube' :
         /t\.me|telegram/.test(ref) ? 'telegram' : /twitter|x\.com|t\.co/.test(ref) ? 'x' : /whatsapp|wa\.me/.test(ref) ? 'whatsapp' : /threads/.test(ref) ? 'threads' : 'otro';
       if (q.get('utm_source')) o = q.get('utm_source').toLowerCase().replace(/[^a-z0-9]/g, '').slice(0, 20) || o;
-      if (o !== 'interna') { hit('o-' + o); hit('o-' + o + '-' + k.slice(2)); }          // de dónde llegan
-      var tz = ''; try { tz = Intl.DateTimeFormat().resolvedOptions().timeZone || ''; } catch (e) { }
-      if (tz) hit('z-' + tz.replace(/[^A-Za-z0-9]/g, '_').slice(0, 40));                // región aproximada (zona horaria del navegador; no se guarda la IP)
+      if (o !== 'interna') hit('o-' + o);          // de dónde llegan
       hit('d-' + (/Mobi|Android|iPhone/i.test(navigator.userAgent) ? 'movil' : 'escritorio'));
-      try { if (!sessionStorage.eem_s) { sessionStorage.eem_s = '1'; hit('s-total'); } } catch (e) { }
       if (!localStorage.eem_v) { localStorage.eem_v = '1'; hit('u-nuevos'); } else { hit('u-recurrentes'); }   // visitantes nuevos vs. que regresan
     }
   } catch (e) { }
