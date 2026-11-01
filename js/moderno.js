@@ -130,9 +130,9 @@
   try { vistas = JSON.parse(ls.get('eem_cur') || '[]'); } catch (e) { vistas = []; }
   var ICONO = { musica: '🎵 Música', cine: '🎬 Cine', cultura: '🎭 Cultura' };
   var raiz = document.createElement('div'); raiz.id = 'eem-robot';
-  raiz.innerHTML = '<div class="eem-b" role="status" aria-live="polite" hidden><button type="button" class="x" aria-label="Ocultar al robot">×</button><span class="c"></span><p></p>' +
-    '<div class="a"><button type="button" class="otra">Otra curiosidad</button><a class="fu" target="_blank" rel="noopener">Fuente</a></div></div>' +
-    '<button type="button" class="eem-r" aria-label="El robot de En el Ensayo: toca para una curiosidad"><i class="sp"></i></button>';
+  raiz.innerHTML = '<button type="button" class="eem-r" aria-label="El robot de En el Ensayo: toca para una curiosidad"><i class="sp"></i></button>' +
+    '<div class="eem-b" role="status" aria-live="polite" hidden><button type="button" class="x" aria-label="Ocultar al robot">×</button><span class="c"></span><p></p>' +
+    '<div class="a"><button type="button" class="otra">Otra curiosidad</button><a class="fu" target="_blank" rel="noopener">Fuente</a></div></div>';
   var burbuja = raiz.querySelector('.eem-b'), rob = raiz.querySelector('.eem-r');
   function cargar(cb) {
     if (banco) return cb();
