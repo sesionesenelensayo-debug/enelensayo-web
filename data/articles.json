@@ -1,5 +1,33 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Duna: Parte Tres ya disponible en plataformas de streaming",
+    "artista": "Duna: Parte Tres",
+    "intro": "El nuevo trabajo de Duna, titulado 'Parte Tres', ha sido lanzado y ahora se encuentra accesible en los principales servicios de streaming.",
+    "telegraph_url": "https://telegra.ph/Duna-Parte-Tres-ya-disponible-en-plataformas-de-streaming-11-01",
+    "url": "https://enelensayomedia.com/notas/duna-parte-tres-ya-disponible-en-plataformas-de-streaming-1101.html",
+    "imagen_url": "",
+    "fecha": "2026-11-01T11:04:30.446669",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-11-01T09:19:07.697635",
+    "actualizada": true
+  },
+  {
+    "tipo": "noticia",
+    "titulo": "Deepnotika presentará sus nuevos sencillos en Tlaquepaque durante el Día de Muertos",
+    "artista": "Deepnotika",
+    "intro": "El artista Deepnotika ha anunciado que celebrará el Día de Muertos en Tlaquepaque, donde presentará sus nuevos sencillos.",
+    "telegraph_url": "https://telegra.ph/Deepnotika-presentará-sus-nuevos-sencillos-en-Tlaquepaque-durante-el-Día-de-Muertos-11-01",
+    "url": "https://enelensayomedia.com/notas/deepnotika-presentara-sus-nuevos-sencillos-en-tlaquepaque-durante-el-d-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/deepnotika-presentara-sus-nuevos-sencillos-en-tlaquepaque-durante-el-d-1101.jpg",
+    "fecha": "2026-11-01T11:03:42.750178",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Escena local"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "La Maldita Vecindad ofrecerá concierto gratuito en Día de Muertos y homenajeará al Xoloitzcuintle",
     "artista": "La Maldita Vecindad",
@@ -133,19 +161,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Duna: Parte Tres ya disponible en plataformas de streaming",
-    "artista": "Duna: Parte Tres",
-    "intro": "El nuevo trabajo de Duna, titulado 'Parte Tres', ha sido lanzado y ahora se encuentra accesible en los principales servicios de streaming.",
-    "telegraph_url": "https://telegra.ph/Duna-Parte-Tres-ya-disponible-en-plataformas-de-streaming-11-01",
-    "url": "https://enelensayomedia.com/notas/duna-parte-tres-ya-disponible-en-plataformas-de-streaming-1101.html",
-    "imagen_url": "",
-    "fecha": "2026-11-01T09:19:07.697635",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   },
   {
     "tipo": "reportaje",
