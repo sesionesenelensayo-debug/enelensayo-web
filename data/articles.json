@@ -1,6 +1,19 @@
 [
   {
     "tipo": "noticia",
+    "titulo": "Sound Music Fest presenta la edición 'Golden Years' con Christina Aguilera y otros artistas",
+    "artista": "Sound Music Fest",
+    "intro": "Sound Music Fest ha revelado su próxima edición, denominada 'Golden Years', que se llevará a cabo el 21 de noviembre en el Estadio Nacional.",
+    "telegraph_url": "https://telegra.ph/Sound-Music-Fest-presenta-la-edición-Golden-Years-con-Christina-Aguilera-y-otros-artistas-11-01",
+    "url": "https://enelensayomedia.com/notas/sound-music-fest-presenta-la-edicion-golden-years-con-christina-aguile-1101.html",
+    "imagen_url": "",
+    "fecha": "2026-11-01T13:57:38.828484",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "noticia",
     "titulo": "Blade Runner 2099, The Greatest y Madden se estrenan en noviembre 2026",
     "artista": "Blade Runner",
     "intro": "Tres nuevos lanzamientos musicales marcarán la agenda de noviembre de 2026: Blade Runner 2099 llegará el 8, The Greatest el 12 y Madden el 20.",
@@ -2121,19 +2134,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "María León lanza sencillo 'Villana' tras su paso por Playa Limbo",
-    "artista": "María León",
-    "intro": "María León ha presentado su nuevo sencillo titulado 'Villana'. El lanzamiento llega en el contexto de su reciente participación en el proyecto musical Playa Limbo, donde interpretó el papel de la vill",
-    "telegraph_url": "https://telegra.ph/María-León-lanza-sencillo-Villana-tras-su-paso-por-Playa-Limbo-10-31",
-    "url": "https://enelensayomedia.com/notas/maria-leon-lanza-sencillo-villana-tras-su-paso-por-playa-limbo-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/maria-leon-lanza-sencillo-villana-tras-su-paso-por-playa-limbo-1030.jpg",
-    "fecha": "2026-10-30T20:16:13.347464",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
