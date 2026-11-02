@@ -1,6 +1,35 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "La verdadera historia de la voz del siglo XXI",
+    "artista": "La voz del siglo",
+    "intro": "En el video del canal En el Ensayo Media se explora el fenómeno de la cantante más grande del siglo XXI, catalogada así por la revista Rolling Stone.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/la-verdadera-historia-de-la-voz-del-siglo-xxi-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-verdadera-historia-de-la-voz-del-siglo-xxi-1102.jpg",
+    "fecha": "2026-11-02T12:07:59.799335",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Kygo anuncia conciertos en CDMX y Guadalajara para 2027",
+    "artista": "Kygo",
+    "intro": "El DJ y productor noruego Kygo confirmó su regreso a México con presentaciones programadas en Guadalajara y la Ciudad de México.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/kygo-anuncia-conciertos-en-cdmx-y-guadalajara-para-2027-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/kygo-anuncia-conciertos-en-cdmx-y-guadalajara-para-2027-1102.jpg",
+    "fecha": "2026-11-02T12:06:52.486974",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Cynthia Erivo revela su método para construir personajes",
     "artista": "Cynthia Erivo",
@@ -2095,20 +2124,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Iggy Pop y la influencia de David Bowie en el álbum The Idiot",
-    "artista": "Iggy Pop",
-    "intro": "En el contenido se explica cómo la colaboración de David Bowie transformó su sonido y cómo su trabajo influyó en el surgimiento de nuevos géneros musicales.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/iggy-pop-y-la-influencia-de-david-bowie-en-el-album-the-idiot-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/iggy-pop-y-la-influencia-de-david-bowie-en-el-album-the-idiot-1101.jpg",
-    "fecha": "2026-11-01T01:24:06.207019",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
