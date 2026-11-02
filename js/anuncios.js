@@ -1,6 +1,13 @@
 // Publicidad del portal (método de OKpolítico): espacios «cabecera» y «nota»; vendido → anuncio rotulado «Publicidad»;
 // libre → invitación a anunciarse. Más un contador de visitas anónimo (sin datos personales) para medir la audiencia.
 (function () {
+  // [e.leo 2026-11-02] Un espacio de AdSense SIN anuncio no ocupa lugar: colapsado y sin rótulo hasta que Google lo llena (clase «listo»); y nunca más alto que 340 px.
+  try {
+    var st = document.createElement('style');
+    st.textContent = '.ad.adsense:not(.listo){height:0!important;min-height:0!important;margin:0!important;padding:0!important;overflow:hidden!important;opacity:0}' +
+      '.ad.adsense:not(.listo) .adsbygoogle{min-height:0!important}.ad.adsense .adsbygoogle{max-height:340px;overflow:hidden}';
+    document.head.appendChild(st);
+  } catch (e) { }
   var esc = function (s) { return String(s == null ? '' : s).replace(/[&<>"]/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]; }); };
   // [e.leo] CONTEO LIMPIO: cada visita se clasifica como real, prueba o bot y va a contadores distintos (namespace enelensayo-mx2).
   //   prueba = localhost / vista previa / otro dominio que no sea el de producción, dispositivos marcados con ?yo=1 (dueño) o ?prueba=1
