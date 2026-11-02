@@ -1,5 +1,33 @@
 [
   {
+    "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Kygo anuncia conciertos en CDMX y Guadalajara para 2027",
+    "artista": "Kygo",
+    "intro": "El DJ noruego Kygo confirmó su regreso a México con dos presentaciones programadas para el año 2027, tras sus exitosas actuaciones previas.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/kygo-anuncia-conciertos-en-cdmx-y-guadalajara-para-2027-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/kygo-anuncia-conciertos-en-cdmx-y-guadalajara-para-2027-1102.jpg",
+    "fecha": "2026-11-02T15:04:08.144369",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Sasha Sokol reaparece junto a Alejandro Soberón",
+    "artista": "Sasha Sokol",
+    "intro": "En medio de la polémica reciente en torno a la serie de Timbiriche, Sasha Sokol reapareció públicamente.",
+    "telegraph_url": "https://telegra.ph/Sasha-Sokol-reaparece-junto-a-Alejandro-Soberón-11-02",
+    "url": "https://enelensayomedia.com/notas/sasha-sokol-reaparece-junto-a-alejandro-soberon-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/sasha-sokol-reaparece-junto-a-alejandro-soberon-1102.jpg",
+    "fecha": "2026-11-02T15:02:54.491082",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "José Eduardo Derbez y Paola Dalay anuncian separación",
     "artista": "José Eduardo Derbez",
