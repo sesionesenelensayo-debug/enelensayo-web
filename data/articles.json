@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Raza Hamidmi al-Wazar regresa en el capítulo 6 de VisionQuest",
+    "artista": "VisionQuest",
+    "intro": "Después de 18 años de ausencia, el villano Raza Hamidmi al-Wazar, interpretado por Faran Tahir, reaparece en el sexto episodio de la serie VisionQuest de Disney+.",
+    "telegraph_url": "https://telegra.ph/Raza-Hamidmi-al-Wazar-regresa-en-el-capítulo-6-de-VisionQuest-11-02",
+    "url": "https://enelensayomedia.com/notas/raza-hamidmi-al-wazar-regresa-en-el-capitulo-6-de-visionquest-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/raza-hamidmi-al-wazar-regresa-en-el-capitulo-6-de-visionquest-1102.jpg",
+    "fecha": "2026-11-02T09:32:00.666078",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "Clayface abre con 43 M$ y revela la mala gestión de DC Studios",
@@ -1974,20 +1988,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Agenda woke"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "LUCIANO PAVAROTTI: El secreto que guardó hasta el último día",
-    "artista": "Luciano Pavarotti",
-    "intro": "Años después de su partida, la figura del tenor italiano Luciano Pavarotti continúa generando interés en el ámbito musical.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/luciano-pavarotti-el-secreto-que-guardo-hasta-el-ultimo-dia-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/luciano-pavarotti-el-secreto-que-guardo-hasta-el-ultimo-dia-1031.jpg",
-    "fecha": "2026-10-31T22:59:10.058897",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
