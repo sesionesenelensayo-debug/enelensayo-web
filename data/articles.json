@@ -1,10 +1,24 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Daniela Spalla anuncia concierto en el Teatro Metropólitan de la CDMX el 19 de febrero de 2027",
+    "artista": "Daniela Spalla",
+    "intro": "La cantante argentina presentará su nuevo álbum en un show que marcará el inicio de su gira internacional.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/daniela-spalla-anuncia-concierto-en-el-teatro-metropolitan-de-la-cdmx-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/daniela-spalla-anuncia-concierto-en-el-teatro-metropolitan-de-la-cdmx-1102.jpg",
+    "fecha": "2026-11-02T12:09:40.229809",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
-    "titulo": "La verdadera historia de la voz del siglo XXI",
-    "artista": "La voz del siglo",
-    "intro": "En el video del canal En el Ensayo Media se explora el fenómeno de la cantante más grande del siglo XXI, catalogada así por la revista Rolling Stone.",
+    "titulo": "Adele: la verdadera historia de la voz del siglo XXI",
+    "artista": "Adele",
+    "intro": "En el video del canal En el Ensayo Media se explora el fenómeno de Adele, la cantante más grande del siglo XXI, catalogada así por la revista Rolling Stone.",
     "telegraph_url": "",
     "url": "https://enelensayomedia.com/notas/la-verdadera-historia-de-la-voz-del-siglo-xxi-1102.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/la-verdadera-historia-de-la-voz-del-siglo-xxi-1102.jpg",
