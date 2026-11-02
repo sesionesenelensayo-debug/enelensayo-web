@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "La película 'Klara y el sol' de Jenna Ortega tropieza en Europa",
+    "artista": "Jenna Ortega",
+    "intro": "La película 'Klara y el sol' de Jenna Ortega tropieza en España y Europa, según lo reportado por el Diario de México. La información difundida por los medios señala el paso del estreno en cines a la i",
+    "telegraph_url": "https://telegra.ph/La-película-Klara-y-el-sol-de-Jenna-Ortega-tropieza-en-Europa-10-30",
+    "url": "https://enelensayomedia.com/notas/la-pelicula-klara-y-el-sol-de-jenna-ortega-tropieza-en-europa-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-pelicula-klara-y-el-sol-de-jenna-ortega-tropieza-en-europa-1030.jpg",
+    "fecha": "2026-11-02T17:25:40.577279",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-10-30T16:57:14.893183",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Taylor Swift prepara su regreso al género country",
@@ -929,7 +944,7 @@
     "intro": "El 1 de noviembre de 2026 falleció en Mislata, Valencia, el reconocido artista Miquel Navarro, cuya obra ha marcado la escultura contemporánea española.",
     "telegraph_url": "https://telegra.ph/Fallece-el-escultor-y-pintor-valenciano-Miquel-Navarro-a-los-81-años-11-02",
     "url": "https://enelensayomedia.com/notas/fallece-el-escultor-y-pintor-valenciano-miquel-navarro-a-los-81-anos-1102.html",
-    "imagen_url": "",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-el-escultor-y-pintor-valenciano-miquel-navarro-a-los-81-anos-1102.jpg",
     "fecha": "2026-11-02T00:24:37.859249",
     "author": "Oliver Ken",
     "views": 0,
@@ -1685,21 +1700,6 @@
     "views": 0,
     "categoria": "Música",
     "fecha_original": "2026-11-01T10:53:24.147068",
-    "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "La película 'Klara y el sol' de Jenna Ortega tropieza en Europa",
-    "artista": "Jenna Ortega",
-    "intro": "La película 'Klara y el sol' de Jenna Ortega tropieza en España y Europa, según lo reportado por el Diario de México. La información difundida por los medios señala el paso del estreno en cines a la i",
-    "telegraph_url": "https://telegra.ph/La-película-Klara-y-el-sol-de-Jenna-Ortega-tropieza-en-Europa-10-30",
-    "url": "https://enelensayomedia.com/notas/la-pelicula-klara-y-el-sol-de-jenna-ortega-tropieza-en-europa-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-pelicula-klara-y-el-sol-de-jenna-ortega-tropieza-en-europa-1030.jpg",
-    "fecha": "2026-11-01T12:27:53.409660",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-10-30T16:57:14.893183",
     "actualizada": true
   },
   {
