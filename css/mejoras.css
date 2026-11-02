@@ -9,7 +9,7 @@ body::before{content:"";position:fixed;inset:0;z-index:-1;pointer-events:none;
 .navbar{background:rgba(11,8,18,.66)!important;-webkit-backdrop-filter:blur(18px) saturate(150%);backdrop-filter:blur(18px) saturate(150%);border-bottom:1px solid var(--borde)!important;transition:background .3s,box-shadow .3s}
 .navbar.scrolled{background:rgba(11,8,18,.86)!important;box-shadow:0 8px 30px rgba(0,0,0,.45)}
 @media(min-width:901px){
-  .nav-links{border-top:1px solid rgba(255,255,255,.07)!important;gap:6px!important;padding:7px 0 9px!important;flex-wrap:nowrap!important;overflow-x:auto;scrollbar-width:none;justify-content:flex-start!important}
+  .nav-links{border-top:1px solid rgba(255,255,255,.07)!important;gap:6px!important;padding:7px 0 9px!important;flex-wrap:wrap!important;overflow:visible;justify-content:center!important;row-gap:8px!important}
   .nav-links::-webkit-scrollbar{display:none}
   .nav-links a{background:rgba(255,255,255,.055)!important;color:#e9e6f5!important;border:1px solid rgba(255,255,255,.12)!important;box-shadow:none!important;padding:.4rem .95rem!important;font-size:.84rem!important;font-weight:700!important;white-space:nowrap;transition:all .2s}
   .nav-links a:hover{background:rgba(255,235,59,.14)!important;color:#ffeb3b!important;border-color:rgba(255,235,59,.55)!important;transform:translateY(-1px)}
