@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Cynthia Erivo revela su método para construir personajes",
+    "artista": "Cynthia Erivo",
+    "intro": "Cynthia Erivo habló recientemente sobre su proceso para construir personajes en la gran pantalla y cómo enfrenta las expectativas.",
+    "telegraph_url": "https://telegra.ph/Cynthia-Erivo-revela-su-método-para-construir-personajes-11-02",
+    "url": "https://enelensayomedia.com/notas/cynthia-erivo-revela-su-metodo-para-construir-personajes-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/cynthia-erivo-revela-su-metodo-para-construir-personajes-1102.jpg",
+    "fecha": "2026-11-02T12:03:17.554303",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Toña la Negra, a 114 años de su nacimiento",
     "artista": "Toña la Negra",
