@@ -29,4 +29,45 @@
         esc(a.titulo) + '</h3><span class="sx-meta"><b>' + esc(a.artista || '') + '</b><span>' + fecha(a.fecha) + '</span></span></div></a>';
     }).join('');
   }).catch(function () { });
+
+  // ── Recomendaciones de Oliver Ken: votos (contadores abacus, un voto por persona y serie) + noticias y seguimiento ──
+  var NS = 'https://abacus.jasoncameron.dev', ESP = 'enelensayo-mx2';
+  var guardado = function (k, v) { try { if (v === undefined) return localStorage.getItem(k); localStorage.setItem(k, v); } catch (e) { } return null; };
+  var cuenta = function (k) { return fetch(NS + '/get/' + ESP + '/' + k).then(function (r) { return r.json(); }).then(function (j) { return +j.value || 0; }).catch(function () { return 0; }); };
+  var pinta = function (card, si, no) {
+    var t = si + no, p = t ? Math.round(100 * si / t) : 0;
+    card.querySelector('.tv-si b').textContent = si; card.querySelector('.tv-no b').textContent = no;
+    card.querySelector('.tv-barra i').style.width = (t ? p : 0) + '%';
+    card.querySelector('.tv-pct').textContent = t ? p + '% aprueba · ' + t + ' voto' + (t === 1 ? '' : 's') : 'Sé el primero en votar';
+  };
+  var votos = function (card, slug) {
+    var si = 0, no = 0, previo = guardado('tvv-' + slug);
+    cuenta('tv-' + slug + '-si').then(function (a) { si = a; return cuenta('tv-' + slug + '-no'); }).then(function (b) { no = b; pinta(card, si, no); });
+    if (previo) { card.classList.add('votado', previo === 'si' ? 'v-si' : 'v-no'); }
+    Array.prototype.forEach.call(card.querySelectorAll('.tv-voto'), function (b) {
+      b.onclick = function () {
+        if (guardado('tvv-' + slug)) return;
+        var v = b.getAttribute('data-v'); guardado('tvv-' + slug, v);
+        card.classList.add('votado', v === 'si' ? 'v-si' : 'v-no');
+        if (v === 'si') si++; else no++; pinta(card, si, no);
+        fetch(NS + '/hit/' + ESP + '/tv-' + slug + '-' + v).catch(function () { });
+      };
+    });
+  };
+  Promise.all([get('data/television.json'), get('data/articles.json').catch(function () { return []; })]).then(function (r) {
+    var rec = (r[0].recomendadas || []), arts = r[1] || [], el = document.getElementById('tvReco'); if (!el) return;
+    if (!rec.length) { el.parentNode.removeChild(el.previousElementSibling); el.remove(); return; }
+    el.innerHTML = rec.map(function (s, i) {
+      var re = null; try { re = new RegExp(s.alias, 'i'); } catch (e) { }
+      var propias = re ? arts.filter(function (a) { return re.test((a.titulo || '') + ' ' + (a.artista || '')); }).sort(function (a, b) { return new Date(b.fecha) - new Date(a.fecha); }).slice(0, 2) : [];
+      var li = propias.map(function (a) { return '<li><a href="' + esc(a.url) + '"><b>Nuestra nota</b> · ' + esc(a.titulo) + ' <small>' + fecha(a.fecha) + '</small></a></li>'; }).join('') +
+        (s.noticias || []).map(function (n) { return '<li><a href="' + esc(n.link) + '" target="_blank" rel="noopener nofollow">' + esc(n.titulo) + ' <small>' + esc(n.medio) + ' · ' + fecha(n.fecha) + '</small></a></li>'; }).join('');
+      return '<article class="tv-rc tv-c' + (i % 6) + '" data-slug="' + esc(s.slug) + '"><div class="tv-rc-cab"><span class="tv-pos">#' + (i + 1) + '</span><div><h3>' + esc(s.titulo) + '</h3><span class="tv-meta">' + esc(s.tipo) + ' · recomendada por Oliver Ken</span></div></div>' +
+        '<div class="tv-votos"><button type="button" class="tv-voto tv-si" data-v="si">👍 Apruebo <b>0</b></button><button type="button" class="tv-voto tv-no" data-v="no">👎 No apruebo <b>0</b></button></div>' +
+        '<div class="tv-barra"><i></i></div><div class="tv-pct">Cargando votos…</div>' +
+        '<details class="tv-seg"' + (li ? '' : ' ') + '><summary>Noticias y seguimiento' + (li ? '' : ' · sin novedades esta semana') + '</summary>' + (li ? '<ul>' + li + '</ul>' : '<p>Seguimos al pendiente: apenas haya estreno, renovación o fecha, aparece aquí.</p>') + '</details></article>';
+    }).join('');
+    var obs = 'IntersectionObserver' in window ? new IntersectionObserver(function (es) { es.forEach(function (x) { if (x.isIntersecting) { obs.unobserve(x.target); votos(x.target, x.target.getAttribute('data-slug')); } }); }, { rootMargin: '200px' }) : null;
+    Array.prototype.forEach.call(el.querySelectorAll('.tv-rc'), function (c) { if (obs) obs.observe(c); else votos(c, c.getAttribute('data-slug')); });
+  }).catch(function () { });
 })();

@@ -211,3 +211,30 @@ img,iframe{max-width:100%}
 .tv-nota b{font-size:1.25rem;color:#ffeb3b;text-shadow:0 1px 0 rgba(0,0,0,.4)}
 .tv-nota small{display:block;font-size:.66rem;opacity:.9;margin-top:2px}
 @media(max-width:520px){.tv-grid{grid-template-columns:1fr}}
+
+/* Televisión: recomendaciones de Oliver Ken con votos */
+.tv-reco{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
+.tv-rc{position:relative;border-radius:20px;padding:16px;color:#fff;background:linear-gradient(135deg,var(--c1,#673ab7),var(--c2,#00bcd4));border:1px solid rgba(255,255,255,.2);display:flex;flex-direction:column;gap:10px;overflow:hidden}
+.tv-rc::before{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(11,8,18,.1),rgba(11,8,18,.55));pointer-events:none}
+.tv-rc>*{position:relative;z-index:1}
+.tv-rc-cab{display:flex;gap:12px;align-items:center}
+.tv-rc-cab h3{margin:0 0 2px;font-size:1.08rem;font-weight:800;line-height:1.15}
+.tv-votos{display:flex;gap:8px}
+.tv-voto{flex:1;cursor:pointer;border:2px solid rgba(255,255,255,.85);background:rgba(11,8,18,.35);color:#fff;font-weight:800;font-size:.85rem;padding:.55rem .4rem;border-radius:999px;transition:transform .2s,background .2s}
+.tv-voto:hover{transform:translateY(-2px);background:rgba(255,255,255,.22)}
+.tv-voto b{margin-left:4px;color:#ffeb3b}
+.tv-rc.votado .tv-voto{cursor:default;opacity:.55;transform:none}
+.tv-rc.v-si .tv-si,.tv-rc.v-no .tv-no{opacity:1;background:#ffeb3b;color:#111;border-color:#ffeb3b}
+.tv-rc.v-si .tv-si b,.tv-rc.v-no .tv-no b{color:#111}
+.tv-barra{height:8px;border-radius:99px;background:rgba(0,0,0,.4);overflow:hidden}
+.tv-barra i{display:block;height:100%;width:0;background:#ffeb3b;border-radius:99px;transition:width .5s}
+.tv-pct{font-size:.74rem;opacity:.95}
+.tv-seg summary{cursor:pointer;font-weight:800;font-size:.85rem;list-style:none}
+.tv-seg summary::-webkit-details-marker{display:none}
+.tv-seg summary::before{content:"📰 "}
+.tv-seg ul{margin:8px 0 0;padding:0;list-style:none;display:grid;gap:7px}
+.tv-seg li a{display:block;color:#fff;text-decoration:none;font-size:.8rem;line-height:1.3;background:rgba(11,8,18,.38);border-radius:12px;padding:8px 10px}
+.tv-seg li a:hover{background:rgba(11,8,18,.6)}
+.tv-seg li small{display:block;opacity:.8;margin-top:2px}
+.tv-seg p{font-size:.8rem;margin:8px 0 0;opacity:.95}
+@media(max-width:520px){.tv-reco{grid-template-columns:1fr}}

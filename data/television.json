@@ -1,5 +1,440 @@
 {
- "actualizado": "01/11/2026 23:43",
+ "actualizado": "01/11/2026 23:55",
+ "recomendadas": [
+  {
+   "slug": "spartacus",
+   "titulo": "Spartacus",
+   "tipo": "Serie",
+   "alias": "spartacus",
+   "noticias": []
+  },
+  {
+   "slug": "outlander",
+   "titulo": "Outlander",
+   "tipo": "Serie",
+   "alias": "outlander(?!:? blood)(?!.{0,12}blood of my blood)",
+   "noticias": [
+    {
+     "titulo": "Si extrañas Outlander, esta serie basada en una novela te encantará",
+     "medio": "Diario UNO",
+     "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbmdfdHZyelBrQldRREVLZ2tHeGk4bHR3YXRMZ3kzMkRQMWY4WUJKbEJZc3hLMGlJTFdBSktsZjRfdjdpRUMwY2VnZEFLTVp0REhhdVRpQ2RSbF9JemdiUU5KWENwdnFEWURpbXFpSVRJU2lSUWd5RnRIVWYzd0NEWWFPU2dlT3JVd1FxakItT0ljLVNEQTBFN0djYmltU2NmUjhFcC1Rbk5xaGkwcG45c014QWhSRGlwUDhfSdIBwgFBVV95cUxOdTVsWHlkRkx2MmsxN2FZRGsybTh4elVYZm9LMGljaWI1MFlNRXJ6SlZnT0o0X3FMYlZYbGlpRXlkc3lCTUZWRjgzNGpweHp4aUs4ZGRCR3NZaW9uekNJZnRQNC0tSTZEOEE3RkxuQ3gwTG5vTjdxT2RHUmN0ZVBZbUJzY1dFM3l6S3NUbW92LWFJX0NoTVkzSl9aVjdBRlBFZVVLWUlTc3lFTDRDUkRxcTdvLTFUeHE3V0p1MGplaW1DUQ?oc=5",
+     "fecha": "2026-11-01"
+    },
+    {
+     "titulo": "César Domboy, el Fergus de Outlander que ahora busca su sitio en Francia",
+     "medio": "Martin Cid Magazine",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxON0JXVzdoOU4tNWI1VDBBVjBsSEY3d0NrTVF6LVAzN2g2OXNMNTVCTDNuaE94RzB0ejI5NHVuaGVpelFwWFpnamRwOHJIRGQ3UjZGTDkwZVFLWmJmRDg3SUVUd3NEa2JKOENkYy1nQ2xDYjF4QzJYSkIzQW56VzhBMjdWV3N4YlRWNkswaXdaOV91MXdCUEJOWnBpUkJwNDFiUWN4bkl5RQ?oc=5",
+     "fecha": "2026-10-26"
+    },
+    {
+     "titulo": "Sam Heughan encuentra nueva serie tras \"Outlander\": protagonizará \"Ascent\" junto a Viola Davis",
+     "medio": "Mundoplus.tv",
+     "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSGllbU54eTQzYUtRX21HcjRaLXdQREM4YkRmUmpVMXZ2TU9jS0RKeXliSmdvSFVQS0QzQUdMUnZINnNrdU9nWGM5ZW9RcUNfdl9pWEpXZDVxbHdrMkRWeXdZYzQxTlZMM3o2RkhUREctd2dvZjQ5NG5tTkczbWNRZ1dQYmZENlJxNmx0LWI0X3hHeldETXItMUJmdDJfUGZ1Y01oTDJvM3AwTUpSc3Z3WnRyZzg1dHpYZWNjc0FOMA?oc=5",
+     "fecha": "2026-10-25"
+    }
+   ]
+  },
+  {
+   "slug": "los-soprano",
+   "titulo": "Los Soprano",
+   "tipo": "Serie",
+   "alias": "sopranos?\\b",
+   "noticias": [
+    {
+     "titulo": "La serie de HBO que desafía a The Sopranos y las 8 producciones que reescribieron el estándar de la televisión de prestigio",
+     "medio": "VADER News",
+     "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZFc0NEZlVzh3NUVWVVZ1MURBTXFxMERFWnNLaldISFJSTTJGMFRRMjB3Z3g1Q2REbW1MaVFSTjIxcTZSLXpBY016UTFSX0tyNUIxSHg2QWdUWk9wWHJEbGNmdnFQWE1sRGNqQUJ4dEVvR0tWb0NxdGRvMzRQcWZkeGVpbUdXeTh6VFRTQUhMclhqUEI0VjdZaWxmVlU5LTlocHRSeHVHSk5ZUU1ndnJjMXE0LXhaMWFDMVMtR3k5TTZDZUlwLU5KbmhCN2w2R1U5VnQyeFdhdERMR3ZoLXdCbUpLMzg1djFzSzFES2wtaVNZcHRkTEJjWE0wamI?oc=5",
+     "fecha": "2026-11-02"
+    },
+    {
+     "titulo": "La contradicción de uno de los mejores personajes de ‘Los Soprano’: de violento mafioso a budista reflexivo",
+     "medio": "Diario AS",
+     "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNcDRHVUQ3T0NZaTFnOV9JWFNvVkYxa2pZQXpONzYtRjc1NzVyNWVOaTJabEdCV2U5R2JWT1ZhYUgzYVpWVi1TWlpPVlFOdjhYOVJnS1JfY1RFRk96QU5JTThPOGRFSzdQX3l6YmlZaG9zWDBuM01jVy1QcWcwWE55R0gwdUlpTld5VzBNOTVRd0JRX0ktbXc5Y0JHZGxFaUFXTUZ1V3o3QjR3VFppRl95NW9LNnpkRXdpT0xQSk9VSW9JN21CTVpSQ3ptQ2pOeGxOaHE4eGxEaURTVWtoVDhxdjBoNNIB9wFBVV95cUxOSzh1NTg5bEx6cV9TakNYUGd3bFVwT3RQRUhrVUtuTVJHa05FeFh0V05rNXE3Y0sxTVk2aU5Ub1BjcWNrX3NyS003TWE2dTJDYnBPaWlOZW9DZzJJbkxIaUNNQXYyWlc2VUdHT256OGlrQXB4dTNfdUZ4TnJtUkJfU0ZCUHBFeGxoTlJ2TXdGYXVwLUMxTHVvNHozb0pSN3FjMFQ3SnE2Wnk5R2N2VXB3azFZck5DMTdtYXJGTWhzQmpJdzB2WE5ncmVpbjE2cUh3UDlUNEI3RUVDWkVJbFlIQ3NoS2ljZ2ViM0Q3TXdEVVBhYzUtQWZv?oc=5",
+     "fecha": "2026-10-25"
+    }
+   ]
+  },
+  {
+   "slug": "breaking-bad",
+   "titulo": "Breaking Bad",
+   "tipo": "Serie",
+   "alias": "breaking bad",
+   "noticias": [
+    {
+     "titulo": "Murió otro integrante de la serie Breaking Bad: su rol en uno de los capítulos más recordados",
+     "medio": "Lmneuquen.com",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ3hFUVJGNjNNM3pLNllMRnZmVHVScktITHBraGhrZ0xIRHZPLWQwN25VbDZYRzJXektlaEN3OThUc2FNQUFwNXQtTjNtSWx5NjE3bjlzNUhYTzVQMUJJRFk2bkNZN3FNS0lmT2RwMnJkMUJxSHdPRDNrU1R5YmRXQVo5UF9EVWdmd2l5LWNqNHBodXM1NWdSMW1oSk5ULUlIc2lIR0ZEV0pJdmRWWldiUHJqNHlhQUhSOHVQUHVXdVpnSWJycXpLSTlqZ9IB0AFBVV95cUxNUHdmWVdaVUxrVTM4OXdZTU5CYlJDcnVzWFJRbGRXZVFQQnVJaGJBckZha1BUTHhLVE5pUU1xaWJFSVNTNzdmWUlObFlwT2N6bm9kM212UzdZT3AxdG9JQXR0NWlZNTJoazZDOUxzVzRBNllKTUhKNEJ2Y0w5RmwzOXFYZndDYWNnOWtaZURDVFNpWEJZU2p4MFlwVXk2SW54a1hWUTREUFZvUnpxalBVaTh0emhTbHNaaFEzUTNLMDlwUE0xV1labTdBTnhpMWhk?oc=5",
+     "fecha": "2026-10-31"
+    },
+    {
+     "titulo": "¿Quién era Peter Medak? El director que dejó huella en Breaking Bad",
+     "medio": "Excélsior",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZU55LW9lSGJ3cnRqNVNGcG5Lc2w5QWJ6UmtRZjFvNFUzYmQ0dHZVTW1ZamVOUXY0eXNYTFh2UGVQcDZDcjFtaDhERXlCUmxDeWRCdEp4MldFQ1JVbVRhOEtDWEhyN1hmbncwRGtVanZvVjZ2SnR0SHpCZjhrVEVjUUFuenI0V2pvcFdxeDRhMXI4Wk12cEpOdFpBZHRmSDhkRWRN0gGoAUFVX3lxTE9KQ2FLc3E4UTg5RFdJaGhQbVlWREM2TVAyNzY3Wk9IdFF1dmRPR1k1M21EcUwwYnN3a1VaZ0ZFSjNqUUlVa1pfRFdIdE5jQmZDU2tDUzUzcHJhTTNYLWRiYWdlRjdLLUZHbGRfQi03RFZyTHVLVld5YWVnT1Q1WWgzVkFwSGd3TmcyTWZFc3FRZkd4X3dkT1QyZXZRR3RoelU1dmZhQUF1eg?oc=5",
+     "fecha": "2026-10-31"
+    },
+    {
+     "titulo": "Él era Peter Medak, director de 'Breaking Bad' y 'The Wire': esto se sabe de su muerte a los 88 años",
+     "medio": "Minuto60",
+     "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcHpzV19wOXltanN3YmprR2FNQXQ0THFGdzFmMkViZWxjc0RPemhSejlMVFNBeTN0aG40eEdwdF9tLWl4Zl8wOF9ucGdFU05FcnRUZmNjZG43dmF3bGpIMXdNRDcxclVBWnMzVVNZSFIwVzk5dzFNVVVKd2t4cXE4c29RSG1UeU9jUkJzM2pfRkdWRnlzb2thX3BOaWZqbEE?oc=5",
+     "fecha": "2026-10-31"
+    }
+   ]
+  },
+  {
+   "slug": "better-call-saul",
+   "titulo": "Better Call Saul",
+   "tipo": "Serie",
+   "alias": "better call saul",
+   "noticias": [
+    {
+     "titulo": "Kim Wexler no era la voz de la razón en Better Call Saul",
+     "medio": "Foro3D",
+     "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWJBdGpzcURKMjAwVm5nRWNWSDh3anJjczNEcGJvVFN4bFYtUnhwN1UzbVlubVBJaFNZZkVjblkyUlR4N1ZPWXB4Sk13VThJQ2xDc2tnQ0tTVTdkT014NlFUNnROelRGNi1pM2s5YW81ZWdLa2tFMHFwdjhCcU90VXl5S0lQLTd1VUlaeWJYQ2V2VWMyRzFkUw?oc=5",
+     "fecha": "2026-10-24"
+    },
+    {
+     "titulo": "Better Call Saul? Albuquerque Bans Bitcoin ATMs",
+     "medio": "TradingView",
+     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbXZucGlGVGpJOU0yWE5nNFdBenhsekpFVi1zU0kyUVVQa0pLWXZNT19UQ2ljYlJ0elRWTnQ0a3k0Tng4SkJ3Wmw1NE5QUGNHM3RvMi1RSGFveFowSG03Ri1BVXlZZTZibW1CN25tcmFSWXdTODhrV0I4dkt6S3Jwb1E5WmVOOUtVa0wyTW8zenp4RVRkT21BSnhXY2ZtRHpieHBBd0dB?oc=5",
+     "fecha": "2026-10-22"
+    }
+   ]
+  },
+  {
+   "slug": "scrubs",
+   "titulo": "Scrubs",
+   "tipo": "Serie",
+   "alias": "\\bscrubs\\b",
+   "noticias": [
+    {
+     "titulo": "Scrubs: la temporada 2 del regreso de J.D. y Turk llega a Disney+",
+     "medio": "Sortir à Paris",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOTl0MGJvRDZkNGxjTjBIRGF0dnZoZEFZTG1TRmZucDJKUjRPc2lCbmRiblpOWG5YeDFud3FJQzRWSVVJQnM3YUw3OHc1NkxUR05OaWtBTW55ZVd1OGc4V3RUbTc4b3hTSVBrZnZxekI0OXdfdlhiMEpFWkF2UDY1d3RZQkFTcVNlVEhBOXo4MzEwZ0ZYdEl4aWlXYVBRNnhNTGxvVHJJcjdoN3lDanZRMHlfNklfZFVqV3V3VE1BMHRjWWJ1am5CczUyb1lUejRiNHpFV2ZtUlNZZVk?oc=5",
+     "fecha": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "slug": "game-of-thrones",
+   "titulo": "Game of Thrones",
+   "tipo": "Serie",
+   "alias": "game of thrones|juego de tronos",
+   "noticias": [
+    {
+     "titulo": "Actor de 'Game of Thrones' es captado buscando refugio en Ucrania ante la amenaza de ataques rusos",
+     "medio": "Yahoo en Español Vida y Estilo",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTlVaMkpKRTZBejFNZUtIaHJWMDZyN0JMcEpMcEpGU0ZobnZFR01iR2JILVpsX0tZX01WQWxGQ1lUNzdxQ2Z1akQ1RUIzVklKQ2drRFIzaGtNWi1tZ3cyUlJmMS1QUE1WbHNaVEcwcEVMY1FiTWdGYVk4UlljZzhUbWktWmVDZEU?oc=5",
+     "fecha": "2026-10-29"
+    },
+    {
+     "titulo": "HBO's Westworld Had A Subtle Game Of Thrones 'Crossover' In Season 3",
+     "medio": "IMDb",
+     "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1XNk1lQWlvWGU4R3lmMEM2R2I0d3F1UW1UckhhQVNMUDhkdEp2a2w0TUFUdkxNc1BubWZscUpmcHM3SDBXWHF2c1pRbVF1aTRBNjR6cExn?oc=5",
+     "fecha": "2026-10-26"
+    },
+    {
+     "titulo": "La nueva producción de 'Game of Thrones' traerá de regreso a Arya Stark junto a Daenerys Targaryen y Jon Snow",
+     "medio": "SensaCine.com.mx",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBZN2lvMmhFaUxrUXUtQVJQYlNaTVUzWXBhSi1MWmpXTzQtZmdPNFNZU2ktUE04Tkc3NEFkQkRFR2VpNGJxWnB0Qm0wb2J4TlFnZ250VFpMZVlxdFlrVnF2TS1fdmZtVFV50gFuQVVfeXFMTUNuRXd4QUFxOFpnNzFZdU51VUM0dGtCQlhGYWlJbEQyMkNWd0xXWjZiU2RuZTZQZDBOTlZxVlF1cG1PYlhERFlzU1FiN3ZOTFJ4MllkYTJjeFBSdm1RSXg2MDNjVEctcHNIbDFWX3c?oc=5",
+     "fecha": "2026-10-26"
+    }
+   ]
+  },
+  {
+   "slug": "outlander-blood-of-my-blood",
+   "titulo": "Outlander: Blood of My Blood",
+   "tipo": "Serie",
+   "alias": "blood of my blood",
+   "noticias": [
+    {
+     "titulo": "Outlander: Blood of My Blood replantea uno de sus viajes a través de las piedras",
+     "medio": "https://fomoera.com/",
+     "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1feWhFVVIyR0hOX0Z4dlNYR2hCNklOT0t1YTMyVGZpb2lva2JqRk1yTTI2bFIxaFJxOVFTeElJdVNvMzdkcDU1c3p4VHdUSUc4dWhYX2Y5MTNrcThjZGZYREdjdm8tcm5KRWFJbU43aw?oc=5",
+     "fecha": "2026-10-31"
+    },
+    {
+     "titulo": "‘Outlander: Blood of My Blood’: What Julia’s Time Traveling Revelation Means Moving Forward",
+     "medio": "IMDb",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1OdGo5UUo5R0hNQnNGZ1cwZ2VIZUR5S1VNQ2dFSE1kcnA0bEV5aGhpZW5OcGxGVWpSNXo3Y2VrX3MwWE9yZnFrbWxFMDVlbVQ4YmFPa3lSak9pMnQ5YXRBX0tMaWhpdXF1RnBRbzVR?oc=5",
+     "fecha": "2026-10-31"
+    },
+    {
+     "titulo": "Outlander: Blood of My Blood season 2 episode 6 recap and review: ‘Small Mercies’",
+     "medio": "IMDb",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1MUDBmdXNYdmtFdnlaZnZvTUpEeHk5SVdmcGFQLU45U3pPZ3pGNEVSMFc2WXlyMGpkRGtYSEwtNnEwdlpBRk5vbV9qYnpxTmRzZ21PV0tfeWpmNl9ZSThiRGlTUWVBdjJm?oc=5",
+     "fecha": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "slug": "twisted-metal",
+   "titulo": "Twisted Metal",
+   "tipo": "Serie",
+   "alias": "twisted metal",
+   "noticias": []
+  },
+  {
+   "slug": "demon-slayer",
+   "titulo": "Demon Slayer",
+   "tipo": "Anime",
+   "alias": "demon slayer|kimetsu",
+   "noticias": [
+    {
+     "titulo": "Demon Slayer: Castillo Infinito",
+     "medio": "Infobae",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcXlISzZfNkNsWXhNUk80MTR1X0FxbFlFTml1XzRkUkJYWVliWUNzWXZLZDhLN3Bqd3V1c0p3RTBXRlU0TVMySTNMUDRuU3oyR2dHUDlCWGNjVHNXanJyd1hMNGFJRHZXcWFqVmZXT3JXVDN1WDFUNGw0MW9sMnhUTGJpYzUxZVlibklhUEFtQQ?oc=5",
+     "fecha": "2026-11-01"
+    },
+    {
+     "titulo": "El anime rompe récord en Japón con ganancias de hasta 28 mil mdd; 'Demon Slayer', uno de los factores",
+     "medio": "La Jornada",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPczgzZVJXZkFXazRjWVJ0c0ItRXdDTDhDZDJfYzZFMVdYZnZ3YUd6aEc3Z1Y5QjRFR3lWelJPZjVlbVl6VXZ4TjdzTEE5N1dzdVBhVHpTTFpCWkNoRWhSTVprYkVkRFNleHJmNWZWRE96Q2treWtENE1DZTdrQjhrMm1nckRKTVh4eFdTOVlYMzlncFNhQUc1VURIYlVLVjdTZFhydWlMVThROUx3V3U5T2V2QTlOd2drTG5iSlUtZkpNZTVWMGoxLVVXZHlyc1NRanFmc2hwenpwVGRqblVPaFcwdkc1bWRpWlBVcg?oc=5",
+     "fecha": "2026-10-31"
+    },
+    {
+     "titulo": "'Kimetsu no Yaiba' estrena su aclamada secuela en una nueva plataforma tras su éxito de 6 millones",
+     "medio": "Vandal",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNSF94eHZsbHdkam1JamI1czlZM2xHSHRvOGRvWmdjU3JCbFo2WmU4TFNlZ0JTY3BxcUtRbm9fekxEaTN4VEcwZTRfV0gzeWFGS21pSWRtMWYxQXFCcVdkeUFCSExwalF5cm5QdzRRUnBoZTlvLUhxc0E0aW5MWTZOaXI4SmVRUkVDc0MySV8xcnkzZGxzbmRHNzU1bzI4OE92ZklrWmI2ek5KV0dnY1d5c1p0MnpjTEdZZ0J6c2VvMW5QNUFvUVRiZ3dmTHhaVkd5cWQ3QUhLcmJfYXJjdjZvZmpXWDAyeDZZUGfSAeoBQVVfeXFMTUhfeHh2bGx3ZGptSWpiNXM5WTNsR0h0bzhkb1pnY1NyQmxaNlplOExTZWdCU2NwcXFLUW5vX3pMRGkzeFRHMGU0X1dIM3lhRkttaUlkbTFmMUFxQnFXZHlBQkhMcGpReXJuUHc0UVJwaGU5by1IcXNBNGluTFk2TmlyOEplUVJFQ3NDMklfMXJ5M2Rsc25kRzc1NW8yODhPdmZJa1piNnpOSldHZ2NXeXNadDJ6Y0xHWWdCenNlbzFuUDVBb1FUYmd3Zkx4WlZHeXFkN0FIS3JiX2FyY3Y2b2ZqV1gwMng2WVBn?oc=5",
+     "fecha": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "slug": "ranma",
+   "titulo": "Ranma ½",
+   "tipo": "Anime",
+   "alias": "ranma",
+   "noticias": [
+    {
+     "titulo": "¡Estalla la pelea entre Akane y Kodachi! Episodio 29 del anime Ranma ½: sinopsis e imágenes de avance",
+     "medio": "ABEMA TIMES",
+     "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE56NFhGV3g2eUNPTENFdm9OM1lIaHJmUUplNWdPR1JGS2tKN2RzUFNObi1hYkRaWEVva0ZlSHhiTk9nUmZaemJ3UkdMakRvZHd3M2hzaUhJUzI?oc=5",
+     "fecha": "2026-10-31"
+    },
+    {
+     "titulo": "Ranma 1/2 temporada 3, capítulo 29: a qué hora sale el nuevo episodio, cómo y dónde verlo",
+     "medio": "TierraGamer",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOYWppNWpjWklFaHZ1ejZ1NXVtY1FfT2pSVkhUWjB0UWk3Z0UzSmRzSjdycGRyOWwtd29jYzdNdlJDLXJlT25wbUNmN2t3d29ZUHpEREFXYVJnS2ZhdHJVN3N2M09LQlpIMFZ6dWZOTHJWcGdzQnRVSFlPRTdZZmxPLXo4RlVrLVlDUkx4cnFJeE1RLXVGOGVSUVVGQXQ5a1JMV29keVlTSE9OYkdEOWhoZVdrdzBPVHhlSDJiQ1gzbGdZWmhqUWZ0NGZQQzU?oc=5",
+     "fecha": "2026-10-30"
+    },
+    {
+     "titulo": "He visto el remake de Ranma 1/2 desde el principio, pero su temporada 3 me está dejando sensaciones",
+     "medio": "Areajugones",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbW9qWGZWZmZBWDVMbEN0cWR6NkNTaTJnZ1ljZXZZZnVMY1FtcGxSQ1RFa0VJTzkyQXBjSWJaajRudm5pWmVhV2djOGQ5VHdLNm5KMEJYdFh6WUlHNU9XSTlCRmFkZkVmUG1VSGN5S2k0Vm14bFl2M083aXJVT3hqQnRRQ3lzY1RuUDZBYllic0pjVWJtcHBHT09ic0xiYVY1M09fYUU3cU5iUWZ2VTJDU2UycnI1elhQa1pkYWRveGJGaDBPSUtxeWZvUWZQQzB3SHBLdS01N2g5OU45d0NB0gHkAUFVX3lxTFBGZG5zbUtWUDNQQkRLVmlSbG1qM0hpU2owSERlSS1MM1ZDdVd2WlRUN2tBeTcxcnBXelE2eFBCUVJNWkdmcEh6bENPbzM2SDYzSTBpWUtNVDRraTFNSzlrWXBZX0h5bjR2REl3WGlfalNGNU9lVk1VQmE4SV9ESWF2dnJQNmRRal8yc3lJMjNQX0plbEZhZDF6YklzdDZnUXc3WXRtNWhNQ0oybHRfVEtzR3h6SUcydjIySEpTLW80TzBMSVpKSUViY01ueFk3MG1Kd0hVSS1VYzhpMnJwZ2NIc01MWg?oc=5",
+     "fecha": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "slug": "dragon-ball-super",
+   "titulo": "Dragon Ball Super",
+   "tipo": "Anime",
+   "alias": "dragon ball super",
+   "noticias": [
+    {
+     "titulo": "Crítica del capítulo 4 de Dragon Ball Super Beerus: Goku alcanza el Super Saiyan God más bonito de la serie tras un inicio soso y repetitivo",
+     "medio": "HobbyConsolas",
+     "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxObFJ4MEhqSmk2YVJaVU96NEc5SUFCYXVsQU05SDdGYmJLQk5NQjhENFBxdHpLeUNweFIyV1JFOUJXMWZIdVBkb0x3MFdOUEhFS3hIYXRMQmNvcGpSa0hFbU55QjNsYWxEMEpkNFl4RFQ3RFRmbFVUbXF6Q1FvcHRkV1dESGpkZTZmbjZ4VEt0alY0YkdOQTR0bFl5NjZxLWhXM0hwQ05PdTA2MW8zMENtaVQ5V3c2WGpTbGdKMVhPWExUOUFJRDBXaXZLajZyQ09yNW8xb1Z3QWV1dERZNV9GdjFwNGNKSjF4YUxzS1RiNzB6bU9uM2RVNHJRWE1YNURZVzJMNlhHdw?oc=5",
+     "fecha": "2026-11-01"
+    },
+    {
+     "titulo": "Bills y Oolong definen su apuesta: fecha de estreno, hora y link para ver el Episodio 4 de “Dragon Ball Super: Beerus”",
+     "medio": "El Comercio Perú",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS0xNLUQzNm5hdHNVaTBhbmRwQ3ZMeDd0Z0hodS1KQ1JsUXhCZFJqTHJFODVVSTI5a0RSUFlsdWpQcHotY0tvbDBJQ01fZXc2N0NtV3hQYUlKdUJHWHlPa1Fmdzd6d29hYUNHMmJIRFIwQzNSYlk5SFk1Q3dzUVBpS1BEZHJ2YUUwZzZ6SDZTWlF1ZkhCWThfNDg5alctWGNOUnBuaUVBQ1p1d2dTT0JtTl9LSDcxTHRiYzZIVDFKVHpUSFFpbjhZV2VVNW5JQURITDZGQlYyS1dPbEU0?oc=5",
+     "fecha": "2026-10-31"
+    },
+    {
+     "titulo": "El remake de 'Dragon Ball Super' está poniendo toda la carne en el asador, pero creo que se está olvidando de lo que nos hace amar realmente la obra d",
+     "medio": "Espinof",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNC0wcWpOTFBpb3JhN0RISTJPY2dyZEZlSkJ3QnJzSEk1VjdlTW9zWjVVazFvNEl4enhxNGZpdEk1MDBUcmlBTm1Ka1gyeFhYMFdPMmVhMTF5eUdMd2ptTGhXenJqSmRWMExnN3d6Umc3UDJnMlpYUnpfTGYyOFpvVWgzVmh6cHZvU00xc2JtMzdzb05Jalo4SE52Q0h6cW1FdzkxTmF1MmpHZFQxUVEybXdmOGdTeHhta3RuTlBFR1puUFFWUWx5WWZzN3RDTlVnYnRZeS1LUGl4aTFRODVqb0QyWWNVYTRBQTlsemNZeTdFaU3SAfgBQVVfeXFMUGJvN2V4QTRUdllvT3pTMWd3THllcGtvdGhJSFREaGd2ckE0N2J2cEdTV3dRS29KSEdCSHI4NlNwQXdmZ1FHWkZJQkUyR18zNG5FYXBXOUt2WVgxTnRReTZDbnBjd2dJVDlDQWJ0dl9wVEJ1aFdmSDl3MHFZWU1mbERyd1B1YU1qZVZTc0NVdDZjLUg4cVRmWGRBRE5hdUh3eU8yaE95X2VjeV9ZMEhGUWpLMTdCOG92OWRPQzVJS0U5MWp2OTRPU3Y5ZHRsWjRBd2F5bkdBNXJVOHcwY2NZb1QtX0thRmEtd2VoZUVSUTUxRFJHN0tyUUQ?oc=5",
+     "fecha": "2026-10-29"
+    }
+   ]
+  },
+  {
+   "slug": "black-sails",
+   "titulo": "Black Sails",
+   "tipo": "Serie",
+   "alias": "black sails",
+   "noticias": [
+    {
+     "titulo": "Black Sails, la política pirata que supera a la acción pura",
+     "medio": "Foro3D",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON3JNd2VRUV9qWUZKYnZ4QWVpNEE5aE9PZFd0X3NaMC1OY0pLYTRPMGM3aUFteDhTZ1FoWXZrNnlpd3V2OWhmaFQ4eFpaZEtoVXBxUWFJalRRWmNFS3J6bHQzM21YRG9naUotRUFVenFqNG00OVdJWXJ0QTM0MTM2XzFfV3k5VUZPQlg0S2lBcXEzQl9vY280MlFJTQ?oc=5",
+     "fecha": "2026-10-23"
+    }
+   ]
+  },
+  {
+   "slug": "nathan-for-you",
+   "titulo": "Nathan for You",
+   "tipo": "Serie",
+   "alias": "nathan for you",
+   "noticias": [
+    {
+     "titulo": "Nathan For You: cuando la improvisación ajena sostiene la producción",
+     "medio": "Foro3D",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcVg5aWRPZlZOUFh2QXNqVjZURXlKdWoydHo3R1hEdnI5LUxtM2pfN0Y0eUcwODFucHZfZmVmdGttNGExWDN5RGIzX3cwUllXTVFtX2NhaVJ1OVZPbUZPSUxwcGFhYzFxYWRTWm1tNDdlYmRNWmlfc2NpcXhkeUFSbzdzWmQtdDlrWFBsbW9uRlJtaklvWk53YjlNbE5rbThwUnJENGxrVQ?oc=5",
+     "fecha": "2026-10-26"
+    }
+   ]
+  },
+  {
+   "slug": "the-rehearsal",
+   "titulo": "The Rehearsal",
+   "tipo": "Serie",
+   "alias": "the rehearsal",
+   "noticias": [
+    {
+     "titulo": "The Rehearsal temporada 3: Nathan Fielder prepara nuevas ideas tras el éxito de You Can See Everything, pero HBO aún no confirma fecha",
+     "medio": "VADER News",
+     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNUjlaYlBRcWIwS1VQN1g1OGRjR1QzZnJqWTFwVjhsNERmakh6d1pxT2l4MlBTRzZOSG9hM2YydjBWU3pvdHdFYUhNcHktakRXcWc3Q1k4QjkyZmo0cDQ3TU1oTUJwMzlsVGpEbENXRVZKWUlmbzhRV0hRSlVEcU9OTW9obzg0TzVzY0c2N0syV1U5UUxaWnZzQ2t1cU10N0pjVW9wUXh4M3czcVZmNFRydFdTSGx0YTZ1NVFaZjNtc25aZHE4UFJrSnd1ZjY0YmJOWXRJTWZoeXpkaDR3MEE1Yjh0aXF6SFQxbjBPb1FfZ1huZW13a2EwUGZkYmJGNUkzUElmX294aFI?oc=5",
+     "fecha": "2026-10-30"
+    }
+   ]
+  },
+  {
+   "slug": "succession",
+   "titulo": "Succession",
+   "tipo": "Serie",
+   "alias": "\\bsuccession\\b",
+   "noticias": [
+    {
+     "titulo": "HBO Max sumará otra innecesaria adaptación de un clásico del terror: tendrá a una actriz de Succession",
+     "medio": "Los Andes",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYlNmWEs1QmtTLUIxaFplSmJYSm1vTzF2SFpHYUtWeU9GVHd4MFZyc2VOeFc3ZUZMdE52QWloTlcwQnBJUXM3WWQweXk2NHdIT1NtWTk0YTEzbjgzdVZhV1E0Q0dlWFh0VnhaLVo4X0l0SEZsbXpzc0I4MTZNeTdmaGZlMV9jdXBfdWhwbHpwZkNfUkZvU3Rvb1BIX3VucVhIYU02cEZBVWJhRGcxNlo2X240OXMzS3RkMzFaczJxbXZUbUQ3NHBGd181OXdWQzBtWTNaMkxIV19tTk0?oc=5",
+     "fecha": "2026-10-29"
+    },
+    {
+     "titulo": "HBO recupera \"Los pájaros\" de Hitchcock con Sarah Snook, la protagonista de \"Succession\"",
+     "medio": "Mundoplus.tv",
+     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX0VIOW1Sci1IT19QZk5SMW9lR011T0FuNkxoMDk0bENhWXBFUmZtWjlsWXJ1MC1MRTl1OWlmSHBPV0trYWZLSTlSd2h5OVpMOEc2cWpneFJYb2dCVWktZU1hNHg1WXRqZnJRTkZlTXhqaWpsdTYwRVFYX0EycGdEeGNTVDZFQWVzaGt2cF9LUUFWZnVPYjVmX2xMRGRDSS11LWJNOVV3UTE0YXp3dUZ5V1d0MXhmY00?oc=5",
+     "fecha": "2026-10-29"
+    },
+    {
+     "titulo": "HBO ficha a una estrella de ‘Succession’ para el remake de ‘Los pájaros’, el clásico de culto de Alfred Hitchc",
+     "medio": "Diario AS",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdW1UTTZicHFOZFFJSkJITVlUeG9xcTBnT3IxU3hGT0VmeDhvTHMwSWVWcUE2RWM1empvVjJJTjZiMW81c21sSlVoaG4tbXhkVzUxYkp1a1ZSV3cwcFNtMlJZWTc2dTlxTGhQcHVwOHpJNkNoVWJHZjNINWFNcXhBZk1KU2tNZGxWa29vamc4ZmZrTVRLUXR1Q01zNWtqckNLdVYtSTVnUEFjU3d5UDdKOTdkWnV2ZldXUkFiZVhKd1QxRzc0bFhRTWx0czN3eXhWZG82cDAzejlKdXc4Y05CSV9fSWJ2QlBp0gH8AUFVX3lxTE1nbVNxX1FHdkhDaDdqTDNsTUpNZHBrdkl5ZGh6bkZSTUFfU3E4bE5GaEd3V3BiV3Y0SHREdHBsT2pKSDZscG1jT1FsT1pmZVhKNHk3OXo1Z3lxb3hQRVUxUkxlZ1VNX1ZMMzhFSlRWWmlRQk4wTWhIMWZUeGoybEt0b1lETVg0UGczTzRCUmhLR3g2c1dScmJhZzRId21EZTFfRWhfelZMOTJIeU16Q3l0VnBoWTk0MFpfbU80cXFmclRrR1VYLVpqQlVPemVDZThoUVY0M0x3WTZISHpIVmotVWdIc042Wk1OM2txcHFjVko0VllXZzFrVEJteQ?oc=5",
+     "fecha": "2026-10-28"
+    }
+   ]
+  },
+  {
+   "slug": "parks-and-recreation",
+   "titulo": "Parks and Recreation",
+   "tipo": "Serie",
+   "alias": "parks (and|&) rec",
+   "noticias": []
+  },
+  {
+   "slug": "arrow",
+   "titulo": "Arrow",
+   "tipo": "Serie",
+   "alias": "\\barrow\\b",
+   "noticias": []
+  },
+  {
+   "slug": "legends-of-tomorrow",
+   "titulo": "Legends of Tomorrow",
+   "tipo": "Serie",
+   "alias": "legends of tomorrow",
+   "noticias": []
+  },
+  {
+   "slug": "sherlock",
+   "titulo": "Sherlock",
+   "tipo": "Serie",
+   "alias": "\\bsherlock\\b",
+   "noticias": [
+    {
+     "titulo": "Una tarde con el padre de 'Sherlock'",
+     "medio": "La Vanguardia",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdV8tLThFamoyYmVCQTZyT0U3OUJIYUFWbTR4anZWN0h6dlVmX3ZfMkp1UGtIWXNQbjJzMDVyaHlBcGpFUkczTU5sQjNGZGh5WXY1RF9ITkhwaUpXVmlNUEZBLURBWjNxazI5U1BJbzR4U1d0YjBxOXRXcVJKSEZ5TEo3Q1Z0WDBQRXJFVFVIbTl5akdVeE53c1pjdktDN2tuZGd5aVNiSGdxR1NIZDVTc2ExX0RIcVdFc1F6bUwxX0RnSHcwcjlDUzdkanAwQVF0R3lPZDQ3MNIB3AFBVV95cUxOOXNXQlVpbHpUeWdLZXkxaHVOQ19XNmQzRHVrcjl3OW1vQVMzaXhZckFTU1oxcnd6UVYxeDVHTXFldUVScVhVMXhpQXBMWHV0cl8xNWNPa2lFVVpxU1ExOVhyR0pkTjRrNlQwNWVBNGJTbU5jRGJGOHRRa1RnVDYxTFlQM1duRUl4QnpTQ2ZYOUtPOWxpUXVyc1kySlhTaUFYV24zYk52WDVPQzVOZDNaWnR1Smh0T3lKMWxfOVotQW5SZTlYYjRHbFl5SEo2bzBjRGFkdnJ3UHBYSHZn?oc=5",
+     "fecha": "2026-10-26"
+    },
+    {
+     "titulo": "Steven Moffat, creador de 'Sherlock': \"Que la serie vuelva no es imposible; nunca hemos dicho que se haya acabado\"",
+     "medio": "El Periódico",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGRLWGdQaGdqYlpiNjAyZlpWTEFkU1M1MVN6U3F3aV82c3FwYlluVlpqWV92TURIWEthdFN6Xzd1cFhyWTVJX19HMGVHWkRqSTJZMlZodzlwZ2JiV1M2RFBzZU9TdHpBU255emJXU0dFYXJsTXYwX2RYZ1AtNmdWV3pndkdTUVNrOEpZTG0xRmJDWjU1SXRxQTloeVlURm91eXlkLVFCWFI1WEM0cDJoNURENWpZZ3Jm0gG4AUFVX3lxTE1LaGpCSkFYQlViOTVaempRREJJRzJXTFBnUlNBekY2VDNlODZ1M19vQm9EUEEyQW9rNTg3U21rXzh0Sk93UjFCMHE1cFp1eFZQa1g0RTdjRDFtNkZEQjZKZUFxRkVobVNYSVQzYkZaa09GbDBzNk1rVXhEQ3JQTmlNZVFwUjJpWUNSMXdoS0FOOGtDNV91dmFyQ2dCRENtVkl2bWhMSGhvdWNMZVNJVzJEenFhNUVFc20?oc=5",
+     "fecha": "2026-10-23"
+    },
+    {
+     "titulo": "Evolución de la nota media de \"Sherlock (Serie de TV)\"",
+     "medio": "Filmaffinity",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA2Vk5RMUwtWFVtdko4ZnRZcDBWY0dXV2RJT1dVUFhtdHBFNGxTQk1pMXFWd3VGRG1SZlNlNTNjdUYwZUgydVdiR0lVSnp3eGQ5Nm5acUh3Tk5EMnNnbWo2bzBOZHgzVDRHSURNRWNMNUgtNDBhcWtVX1RB?oc=5",
+     "fecha": "2026-10-20"
+    }
+   ]
+  },
+  {
+   "slug": "six-feet-under",
+   "titulo": "Six Feet Under",
+   "tipo": "Serie",
+   "alias": "six feet under|a dos metros",
+   "noticias": []
+  },
+  {
+   "slug": "narcos-y-narcos-mexico",
+   "titulo": "Narcos y Narcos: México",
+   "tipo": "Serie",
+   "alias": "\\bnarcos\\b",
+   "noticias": [
+    {
+     "titulo": "Asesinos seriales, narcos y refritos",
+     "medio": "vanguardia.com.mx",
+     "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQlBDd2RuRVJJZDVnU1lkS1JMM01vZHJZMDdKQ1g1Rkw0REpMWE5GX0dCNEVnWWxxRlRHMzB1UTBicEk4V19RZEFNbG9xcC1lcVI3Z3dLaWk5R2tRM0xVWnNyVWpZZ0lpdVJEYm10dDVsX0ZHSDBETlJGRHlaVWsyQmJVYw?oc=5",
+     "fecha": "2026-11-01"
+    },
+    {
+     "titulo": "‘Son enemigos, pero hablan’: Negociaciones con narcos sorprendieron a directores de ‘La Caída de El Mayo’",
+     "medio": "El Financiero",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQnIyakN6XzNYT2ROOUdTeTdXU09fSk4zUVBGYjFXMlBpMmRWQ2QwQl90OXlxbnVocnhWOTdoU3dYNHZzNTc4TDZCR2VUR05ZTG9zZzhpTUUwRHp1dWNFV3llekNZOHZyTjVqTjNJNUxrenE5ZzYwYzlpOVpSRjRmUllpQ29XaEtTcEdHUWNqTEFkWGNGVHcxRzNvZVVWYWdUbDNFdzFHOExNcG5YaExfWVpwQjBoZFhzenZISjY3SmFFajAwaTNhVmJVVm1nWENf?oc=5",
+     "fecha": "2026-10-28"
+    },
+    {
+     "titulo": "México extraditó a los principales capos narcos presos a Estados Unidos",
+     "medio": "Perfil",
+     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRDF4MEF4UC1ZOERmbm9NRzRVVk1SUWxhd3VBZ3RpWWhseXRKSnFKcUxsZ1pzeGt0c3F1d1pQRW8tdUZZOFp1dmpfODFaWWV4ZWJCdFd4RkxobW9HanJaaEdVc0ViV1lTQy1BWHFyN29qQVpSUW5iemM0ZEwtM0lTbG1xYldsdjJ1dG1DS2ZhX0U1NUszUDk2MHpFSlZmT25oUzhicTZENmtxM2dPR3RtS0xlZzFqYmtSUzhtNDdHMXY?oc=5",
+     "fecha": "2026-10-20"
+    }
+   ]
+  },
+  {
+   "slug": "mad-men",
+   "titulo": "Mad Men",
+   "tipo": "Serie",
+   "alias": "mad men",
+   "noticias": [
+    {
+     "titulo": "Mad Men y la escena de Zou Bisou Bisou: la grieta en el mundo de Don Draper",
+     "medio": "Culturamas",
+     "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1DNmRmY3BnQlRCT3lQTmRqeWg2a01ienlsWUtHYWlqT280dU0yMHJPcUp3VGZDejlRZW5pOHdWZHk3bndvMVktWGR3OVY1YlJrcVA2U29zVGs0MzM0WWtTcktXd2FZOE9QWFI4d2NCX243M2tERnVRcy1pMA?oc=5",
+     "fecha": "2026-11-01"
+    }
+   ]
+  },
+  {
+   "slug": "dr-house",
+   "titulo": "Dr. House",
+   "tipo": "Serie",
+   "alias": "dr\\.? house|house m\\.?d|hugh laurie",
+   "noticias": [
+    {
+     "titulo": "Un estudio científico reveló 77 errores médicos de la icónica serie “Dr. House”",
+     "medio": "Perfil",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMmNabHJSSE52M3NMMnJSc2NOVW5fMHB6WFRyNE94RHJZTXhzRUhlWmRET240VHBKMHBUbzJkU3MwcUxxNnIxTTBkS0MyZktQYnlLME43dG11YTNGNkR4X2pvd2Z5Y1BxR3FmOVhGZTVxSkt3N2FuemNPc0hqNklrM0pFakxDLWxBTmVvaVpYOVgzdjYxR1JqaGpVV3R4emE3T05sVS15UFdJZS1Mdm1pa3ZBNVZjZGFWYVdraUd3?oc=5",
+     "fecha": "2026-10-19"
+    }
+   ]
+  },
+  {
+   "slug": "arrested-development",
+   "titulo": "Arrested Development",
+   "tipo": "Serie",
+   "alias": "arrested development",
+   "noticias": []
+  }
+ ],
  "calificadas": [
   {
    "pos": 1,
