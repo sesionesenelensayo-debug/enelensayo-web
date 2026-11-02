@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Gloria Trevi anuncia concierto en Auditorio Nacional el 24 de octubre de 2026",
+    "artista": "Gloria Trevi",
+    "intro": "La cantante, catalogada como \"Reina del Pop Mexicano\", iniciará su \"Celebration Tour\" en la capital con dos funciones en octubre y noviembre.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/gloria-trevi-anuncia-concierto-en-auditorio-nacional-el-24-de-octubre-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/gloria-trevi-anuncia-concierto-en-auditorio-nacional-el-24-de-octubre-1031.jpg",
+    "fecha": "2026-11-01T22:04:10.955104",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos",
+    "fecha_original": "2026-10-31T12:03:13.773165",
+    "actualizada": true
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Siddhartha: del baterista de Zoé al indie más grande del México contemporáneo",
     "artista": "Siddhartha",
@@ -2019,19 +2034,6 @@
     "url": "https://enelensayomedia.com/notas/sofi-tukker-anuncia-nueva-gira-en-mexico-y-ee-uu-para-2027-1031.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/sofi-tukker-anuncia-nueva-gira-en-mexico-y-ee-uu-para-2027-1031.jpg",
     "fecha": "2026-10-31T12:06:25.268186",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Gloria Trevi anuncia concierto en Auditorio Nacional el 24 de octubre de 2026",
-    "artista": "Gloria Trevi",
-    "intro": "La cantante, catalogada como \"Reina del Pop Mexicano\", iniciará su \"Celebration Tour\" en la capital con dos funciones en octubre y noviembre.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/gloria-trevi-anuncia-concierto-en-auditorio-nacional-el-24-de-octubre-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/gloria-trevi-anuncia-concierto-en-auditorio-nacional-el-24-de-octubre-1031.jpg",
-    "fecha": "2026-10-31T12:03:13.773165",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Conciertos"
