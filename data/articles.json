@@ -1,5 +1,34 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Carola Martínez asiste al Gran Premio de México 2026 con vestido rojo",
+    "artista": "Carola Martínez",
+    "intro": "Carola Martínez, esposa del piloto mexicano Checo Pérez, llegó al Gran Premio de México 2026 luciendo un llamativo vestido rojo.",
+    "telegraph_url": "https://telegra.ph/Carola-Martínez-asiste-al-Gran-Premio-de-México-2026-con-vestido-rojo-11-01",
+    "url": "https://enelensayomedia.com/notas/carola-martinez-asiste-al-gran-premio-de-mexico-2026-con-vestido-rojo-1101.html",
+    "imagen_url": "",
+    "fecha": "2026-11-01T18:21:58.771240",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-01T08:03:00.262719",
+    "actualizada": true
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "Deep Purple pospone conciertos tras hospitalización de Ian Gillan",
+    "artista": "Deep Purple",
+    "intro": "En el video del canal En el Ensayo Media se informa sobre la reciente hospitalización del vocalista Ian Gillan, situación que obligó a Deep Purple a posponer sus conciertos.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/deep-purple-pospone-conciertos-tras-hospitalizacion-de-ian-gillan-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/deep-purple-pospone-conciertos-tras-hospitalizacion-de-ian-gillan-1101.jpg",
+    "fecha": "2026-11-01T18:19:38.344284",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Román Bravo-Young gana histórica medalla de plata para México en Mundial de Lucha",
     "artista": "Román Bravo-Young",
@@ -351,21 +380,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Carola Martínez asiste al Gran Premio de México 2026 con vestido rojo",
-    "artista": "Carola Martínez",
-    "intro": "Carola Martínez, esposa del piloto mexicano Checo Pérez, llegó al Gran Premio de México 2026 luciendo un llamativo vestido rojo.",
-    "telegraph_url": "https://telegra.ph/Carola-Martínez-asiste-al-Gran-Premio-de-México-2026-con-vestido-rojo-11-01",
-    "url": "https://enelensayomedia.com/notas/carola-martinez-asiste-al-gran-premio-de-mexico-2026-con-vestido-rojo-1101.html",
-    "imagen_url": "",
-    "fecha": "2026-11-01T13:58:15.687091",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-01T08:03:00.262719",
-    "actualizada": true
   },
   {
     "tipo": "noticia",
@@ -2226,19 +2240,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Joss Favela estrena ‘Un Hilo’, su nuevo y desgarrador sencillo",
-    "artista": "Joss Favela",
-    "intro": "Joss Favela, el reconocido cantante y compositor mexicano, ha lanzado su nuevo sencillo ‘Un Hilo’, descrito como desgarrador. Este estreno se suma a su trayectoria como uno de los artistas más destaca",
-    "telegraph_url": "https://telegra.ph/Joss-Favela-estrena-Un-Hilo-su-nuevo-y-desgarrador-sencillo-10-31",
-    "url": "https://enelensayomedia.com/notas/joss-favela-estrena-un-hilo-su-nuevo-y-desgarrador-sencillo-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/joss-favela-estrena-un-hilo-su-nuevo-y-desgarrador-sencillo-1030.jpg",
-    "fecha": "2026-10-30T21:54:19.873015",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
