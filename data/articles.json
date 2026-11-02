@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "El oscuro origen y las letras reales de Tito Double P",
+    "artista": "Tito Double P",
+    "intro": "En este video del canal En el Ensayo Media se aborda la trayectoria de Tito Doboti, cuyo nombre real es Jesús Roberto Laija García, nacido en Culiacán, México.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-oscuro-origen-y-las-letras-reales-de-tito-double-p-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-oscuro-origen-y-las-letras-reales-de-tito-double-p-1101.jpg",
+    "fecha": "2026-11-01T19:57:53.688525",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Andrei Ganelin: música, pánico escénico y códigos secretos",
     "artista": "Andrei Ganelin",
     "intro": "Se detalla su prolífica carrera en Europa Oriental, marcada por la grabación de más de quince álbumes fundamentales para la música clásica experimental durante sus primeros treinta años como artista…",
@@ -1834,20 +1848,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Luis Miguel: el mito de su enfermedad y la verdad",
-    "artista": "Luis Miguel",
-    "intro": "En el aniversario del nacimiento de Luis Miguel, el canal En El Ensayo — Live Sessions publica un video que desmiente el rumor de una enfermedad mortal que nunca ha existido en el cantante. El mismo m",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/luis-miguel-el-mito-de-su-enfermedad-y-la-verdad-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/luis-miguel-el-mito-de-su-enfermedad-y-la-verdad-1031.jpg",
-    "fecha": "2026-10-31T15:14:13.488668",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "noticia",
