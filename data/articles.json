@@ -1,5 +1,19 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "La vida, la música y el trágico final de Chester Bennington",
+    "artista": "Chester Bennington",
+    "intro": "En el video del canal En el Ensayo Media se explora la historia de Chester Bennington, la voz emblemática del nu metal y líder de Linkin Park.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/la-vida-la-musica-y-el-tragico-final-de-chester-bennington-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-vida-la-musica-y-el-tragico-final-de-chester-bennington-1101.jpg",
+    "fecha": "2026-11-01T23:39:32.962203",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
     "tipo": "noticia",
     "titulo": "CDMX prepara exposición gratuita de Godzilla",
     "artista": "Takashi Yamazaki",
@@ -1958,20 +1972,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "José José: el sencillo inédito que salió en Spotify 2024",
-    "artista": "José José",
-    "intro": "A pocos meses de cumplir 75 años desde su nacimiento, el legado de José José vuelve a crecer. En 2024 se publica en Spotify el tema nunca antes escuchado 'Ya no pienso en ti', grabado en 1978. El lanz",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/jose-jose-el-sencillo-inedito-que-salio-en-spotify-2024-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/jose-jose-el-sencillo-inedito-que-salio-en-spotify-2024-1031.jpg",
-    "fecha": "2026-10-31T16:23:16.294917",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "noticia",
