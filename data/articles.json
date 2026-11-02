@@ -1,6 +1,33 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Waverly Hills: La historia detrás del sanatorio embrujado en Kentucky",
+    "artista": "el Hospital Psiquiátrico de Waverly Hills",
+    "intro": "Conoce la historia documentada y las leyendas de fantasmas del antiguo sanatorio de tuberculosis en Estados Unidos.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/waverly-hills-la-historia-detras-del-sanatorio-embrujado-en-kentucky-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/waverly-hills-la-historia-detras-del-sanatorio-embrujado-en-kentucky-1101.jpg",
+    "fecha": "2026-11-01T20:38:31.835561",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Historias de terror"
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "Keith Moon: el caos autodestructivo del baterista de The Who",
+    "artista": "Keith Moon",
+    "intro": "El canal En el Ensayo Media presenta un video de ocho minutos que analiza la vida y carrera de Keith Moon, baterista de The Who.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/keith-moon-el-caos-autodestructivo-del-baterista-de-the-who-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/keith-moon-el-caos-autodestructivo-del-baterista-de-the-who-1101.jpg",
+    "fecha": "2026-11-01T20:35:57.110160",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "5 curiosidades de Anthony Kiedis",
     "artista": "Anthony Kiedis",
     "intro": "En este video del canal En el Ensayo Media se presentan cinco datos curiosos sobre la vida y la carrera de Anthony Kiedis.",
@@ -1849,19 +1876,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "archivo": true,
-    "categoria": "Música"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Rico o Muerto lidera Spotify México; Víctor Mendivil es el artista más escuchado",
-    "artista": "Rico o Muerto",
-    "intro": "Según reportes de Saltillo, la canción \"Rico o Muerto\" encabeza la lista de reproducción de Spotify en México, mientras que el cantante Víctor Mendivil se posiciona como el artista más escuchado del",
-    "telegraph_url": "https://telegra.ph/Rico-o-Muerto-lidera-Spotify-México-Víctor-Mendivil-es-el-artista-más-escuchado-10-31",
-    "url": "https://enelensayomedia.com/notas/rico-o-muerto-lidera-spotify-mexico-victor-mendivil-es-el-artista-mas-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/rico-o-muerto-lidera-spotify-mexico-victor-mendivil-es-el-artista-mas-1031.jpg",
-    "fecha": "2026-10-31T15:25:50.053227",
-    "author": "Oliver Ken",
-    "views": 0,
     "categoria": "Música"
   },
   {
