@@ -1,6 +1,21 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Fallece Juan Atkins, pionero del techno, a los 64 años",
+    "artista": "Juan Atkins",
+    "intro": "Juan Atkins, reconocido como uno de los padres fundadores del techno y miembro de la influyente Belleville Three, falleció el 31 de octubre de 2026 a los 64 años.",
+    "telegraph_url": "https://telegra.ph/Fallece-Juan-Atkins-pionero-del-techno-a-los-64-años-11-01",
+    "url": "https://enelensayomedia.com/notas/fallece-juan-atkins-pionero-del-techno-a-los-64-anos-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-juan-atkins-pionero-del-techno-a-los-64-anos-1101.jpg",
+    "fecha": "2026-11-02T00:20:52.814054",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "In memoriam",
+    "fecha_original": "2026-11-01T13:02:10.983382",
+    "actualizada": true
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Fallece Saúl Blanch, voz emblemática de Rata Blanca, a los 75 años",
     "artista": "Saúl Blanch",
     "intro": "El 20 de octubre de 2026 falleció Saúl Blanch, reconocido cantante de heavy metal argentino y exvocalista de Rata Blanca, a los 75 años.",
@@ -836,19 +851,6 @@
     "categoria": "Música",
     "fecha_original": "2026-11-01T10:53:24.147068",
     "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece Juan Atkins, pionero del techno, a los 64 años",
-    "artista": "Juan Atkins",
-    "intro": "Juan Atkins, reconocido como uno de los padres fundadores del techno y miembro de la influyente Belleville Three, falleció el 31 de octubre de 2026 a los 64 años.",
-    "telegraph_url": "https://telegra.ph/Fallece-Juan-Atkins-pionero-del-techno-a-los-64-años-11-01",
-    "url": "https://enelensayomedia.com/notas/fallece-juan-atkins-pionero-del-techno-a-los-64-anos-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-juan-atkins-pionero-del-techno-a-los-64-anos-1101.jpg",
-    "fecha": "2026-11-01T13:02:10.983382",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   },
   {
     "tipo": "reportaje",
