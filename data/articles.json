@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Miguel Zabaleta y Suéter: la voz del rock argentino que ocultó su lucha contra el cáncer",
+    "artista": "Suéter",
+    "intro": "En el video publicado por el canal En el Ensayo Media, se relata la trayectoria de Miguel Zabaleta, fundador de la banda Suéter…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/miguel-zabaleta-y-sueter-la-voz-del-rock-argentino-que-oculto-su-lucha-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/miguel-zabaleta-y-sueter-la-voz-del-rock-argentino-que-oculto-su-lucha-1102.jpg",
+    "fecha": "2026-11-02T02:26:33.041129",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Miguel Zabaleta y Suéter: la historia del pionero del rock argentino",
     "artista": "Miguel Zavalet y Suéter",
     "intro": "En el video de En el Ensayo Media se narra la vida y obra de Miguel Zabaleta, fundador y líder de la banda Suéter.",
@@ -3563,20 +3577,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Terror",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Sinéad O'Connor: el costo de desafiar al Vaticano y a la industria",
-    "artista": "Sinéad O'Connor",
-    "intro": "En el video del canal En el Ensayo Media se aborda la vida y trayectoria de la cantante Sinéad O'Connor, enfocándose en los momentos que marcaron su carrera artística y su vida personal.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/sinead-o-connor-el-grito-de-la-mujer-que-desafio-al-vaticano-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/sinead-o-connor-el-grito-de-la-mujer-que-desafio-al-vaticano-1029.jpg",
-    "fecha": "2026-10-29T23:53:38.637354",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Biografía",
     "archivo": true
   },
   {
