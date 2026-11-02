@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Fleetwood Mac: la historia de una banda que sobrevivió al caos total",
+    "artista": "Fleetwood Mac",
+    "intro": "En el video del canal En el Ensayo Media se recorre la cronología de Fleetwood Mac, una de las bandas más exitosas del planeta.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/fleetwood-mac-la-historia-de-una-banda-que-sobrevivio-al-caos-total-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fleetwood-mac-la-historia-de-una-banda-que-sobrevivio-al-caos-total-1102.jpg",
+    "fecha": "2026-11-02T03:54:45.648057",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "El secreto detrás del éxito de Elvis: la rebeldía que forjó una leyenda",
     "artista": "Elvis",
     "intro": "En el Ensayo Media revela cómo el icónico baile de 'Jailhouse Rock' de Elvis Presley surgió de su rechazo a la coreografía original, convirtiendo un impulso en un símbolo del rock mundial.",
@@ -3535,20 +3549,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Terror y misterio",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "¿Cómo un hombre que no caminaba vendió 300 millones de discos? Julio Iglesias",
-    "artista": "Julio Iglesias",
-    "intro": "Una nueva recopilación de datos confirma que Julio Iglesias, nacido en Madrid en 1943, ha superado los 300 millones de copias vendidas en todo el mundo, consolidándose como uno de los artistas más exi",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/como-un-hombre-que-no-caminaba-vendio-300-millones-de-discos-julio-igl-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/como-un-hombre-que-no-caminaba-vendio-300-millones-de-discos-julio-igl-1030.jpg",
-    "fecha": "2026-10-30T03:27:05.566276",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Biografía",
     "archivo": true
   },
   {
