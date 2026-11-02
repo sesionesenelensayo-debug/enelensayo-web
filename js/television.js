@@ -71,3 +71,23 @@
     Array.prototype.forEach.call(el.querySelectorAll('.tv-rc'), function (c) { if (obs) obs.observe(c); else votos(c, c.getAttribute('data-slug')); });
   }).catch(function () { });
 })();
+
+(function () {
+  var el = document.getElementById('tvSeguir'); if (!el) return;
+  function esc(t) { return String(t == null ? '' : t).replace(/[&<>"']/g, function (c) { return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c]; }); }
+  function fecha(f) { var m = String(f || '').match(/(\d{4})-(\d\d)-(\d\d)/); return m ? m[3] + '/' + m[2] : ''; }
+  function get(u) { return fetch(u + '?x=' + Date.now()).then(function (r) { return r.json(); }); }
+  Promise.all([get('data/television.json'), get('data/articles.json').catch(function () { return []; })]).then(function (r) {
+    var seg = r[0].seguir || [], arts = r[1] || [];
+    if (!seg.length) { el.previousElementSibling.remove(); el.previousElementSibling.remove(); el.remove(); return; }
+    el.innerHTML = seg.map(function (s, i) {
+      var re = null; try { re = new RegExp(s.alias, 'i'); } catch (e) { }
+      var propias = re ? arts.filter(function (a) { return a.categoria === 'Televisión' && re.test((a.titulo || '') + ' ' + (a.artista || '')); }).sort(function (a, b) { return new Date(b.fecha) - new Date(a.fecha); }).slice(0, 3) : [];
+      var li = propias.map(function (a) { return '<li><a href="' + esc(a.url) + '"><b>Nuestra nota</b> · ' + esc(a.titulo) + ' <small>' + fecha(a.fecha) + '</small></a></li>'; }).join('') +
+        (propias.length ? '' : (s.noticias || []).map(function (n) { return '<li><span class="tv-seg">' + esc(n.titulo) + ' <small>' + fecha(n.fecha) + '</small></span></li>'; }).join(''));
+      return '<article class="tv-rc tv-c' + (i % 6) + '"><div class="tv-rc-cab"><span class="tv-pos">▶</span><div><h3>' + esc(s.titulo) + '</h3><span class="tv-meta">' + esc(s.tipo) + ' · ' +
+        (s.oliver ? 'recomendada por Oliver Ken y en emisión' : 'en seguimiento de En el Ensayo') + '</span></div></div>' +
+        '<details class="tv-seg" open><summary>Noticias y seguimiento</summary>' + (li ? '<ul>' + li + '</ul>' : '<p>Seguimos al pendiente.</p>') + '</details></article>';
+    }).join('');
+  }).catch(function () { });
+})();

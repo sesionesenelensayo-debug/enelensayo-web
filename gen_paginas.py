@@ -14,6 +14,7 @@ PAGINAS = {  # archivo: (etiqueta de menú, título, descripción, [ids de secci
     "newsletter": ("Newsletter", "Newsletter", "Recibe El Periódico de En el Ensayo en tu correo, de lunes a viernes. Gratis.", ["newsletter"]),
     "cine": ("Cine", "Cine", "Una nota al día de cine: las más esperadas, los fracasos y las decepciones. Cuenta regresiva a Avengers: Doomsday.", ["cine"]),
     "television": ("Televisión", "Televisión", "Las 20 series mejor calificadas según IMDb, las más populares del momento y las noticias de la tele y el streaming.", ["television"]),
+    "marveldc": ("Marvel y DCU", "Marvel y DCU", "Marvel Studios y DC Studios: noticias, resultados y opinión sin anestesia.", ["marveldc"]),
     "videojuegos": ("Videojuegos", "Videojuegos", "Estrenos, peor calificados y polémicas. Cuenta regresiva a GTA VI.", ["videojuegos"]),
     "luchas": ("Luchas", "Luchas", "WWE, AAA, CMLL y lucha japonesa: noticias, campeones y próximas funciones con precio, lugar y campeonatos.", ["luchas"]),
     "conciertos": ("Conciertos", "Conciertos", "Boletos y planes: conciertos y eventos.", ["conciertos"]),
@@ -44,7 +45,7 @@ def menu(n, activo):
 
 # portada LIGERA: cabecera + menú + portada (nota del día, lo último, videos) + Top 10 + periódico + botones de sección
 portada = src[src.index("  <!-- ── PORTADA"):src.index("  <!-- ── HERO")]
-ICONOS = {"chisme": "💬", "misterio": "👻", "deporte": "⚽", "exclusivas": "⭐", "top10": "🏆", "periodico": "📰", "newsletter": "✉️", "cine": "🎬", "videojuegos": "🎮", "luchas": "🤼", "television": "📺", "conciertos": "🎟️", "hitos": "🏅", "shorts": "📱", "longs": "📺", "podcast": "🎙️", "sesiones": "🎸", "sobre": "💡"}
+ICONOS = {"marveldc": "🦸", "chisme": "💬", "misterio": "👻", "deporte": "⚽", "exclusivas": "⭐", "top10": "🏆", "periodico": "📰", "newsletter": "✉️", "cine": "🎬", "videojuegos": "🎮", "luchas": "🤼", "television": "📺", "conciertos": "🎟️", "hitos": "🏅", "shorts": "📱", "longs": "📺", "podcast": "🎙️", "sesiones": "🎸", "sobre": "💡"}
 botones = "".join(f'<a href="{k}.html"><span class="ic">{ICONOS.get(k, "🎵")}</span>{et}</a>' for k, (et, *_r) in PAGINAS.items() if k not in ("noticias",))
 extra = f'''  <section class="section" id="top10-mini"><div class="section-inner">
     <div class="section-header"><p class="section-eyebrow"><span class="dot dot--yellow"></span>Cuenta regresiva semanal</p>
