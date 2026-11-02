@@ -1,18 +1,16 @@
 [
   {
     "tipo": "reportaje",
-    "titulo": "Kim Kardashian llega a la CDMX para promocionar la serie “Todo Vale”",
-    "artista": "Kim Kardashian",
-    "intro": "Kim Kardashian arribó a la Ciudad de México acompañada de la actriz Sarah Paulson y el elenco de su nueva serie “Todo Vale”. La visita, que incluye presentaciones y encuentros con fans, tiene como obj",
-    "telegraph_url": "https://telegra.ph/Kim-Kardashian-llega-a-la-CDMX-para-promocionar-la-serie-Todo-Vale-10-30",
-    "url": "https://enelensayomedia.com/notas/kim-kardashian-llega-a-la-cdmx-para-promocionar-la-serie-todo-vale-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/kim-kardashian-llega-a-la-cdmx-para-promocionar-la-serie-todo-vale-1030.jpg",
-    "fecha": "2026-11-01T21:02:51.039303",
+    "titulo": "Julieta Prandi y Emanuel Ortega se separan tras 27 días de matrimonio",
+    "artista": "Julieta Prandi",
+    "intro": "Julieta Prandi, actriz y conductora argentina, anunció su separación de Emanuel Ortega, con quien se había casado el 15 de septiembre de 2026.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/julieta-prandi-y-emanuel-ortega-se-separan-tras-27-dias-de-matrimonio-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/julieta-prandi-y-emanuel-ortega-se-separan-tras-27-dias-de-matrimonio-1101.jpg",
+    "fecha": "2026-11-01T21:01:59.805545",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-10-30T10:31:54.545976",
-    "actualizada": true
+    "categoria": "Chisme"
   },
   {
     "tipo": "reportaje",
@@ -3150,6 +3148,19 @@
     "views": 0,
     "categoria": "Biografía",
     "archivo": true
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "Kim Kardashian llega a la CDMX para promocionar la serie “Todo Vale”",
+    "artista": "Kim Kardashian",
+    "intro": "Kim Kardashian arribó a la Ciudad de México acompañada de la actriz Sarah Paulson y el elenco de su nueva serie “Todo Vale”. La visita, que incluye presentaciones y encuentros con fans, tiene como obj",
+    "telegraph_url": "https://telegra.ph/Kim-Kardashian-llega-a-la-CDMX-para-promocionar-la-serie-Todo-Vale-10-30",
+    "url": "https://enelensayomedia.com/notas/kim-kardashian-llega-a-la-cdmx-para-promocionar-la-serie-todo-vale-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/kim-kardashian-llega-a-la-cdmx-para-promocionar-la-serie-todo-vale-1030.jpg",
+    "fecha": "2026-10-30T10:31:54.545976",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
   },
   {
     "tipo": "reportaje",
