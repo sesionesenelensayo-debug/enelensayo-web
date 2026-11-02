@@ -1,5 +1,19 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "Tupac Shakur: La verdad sobre su asesinato y el fin de la impunidad",
+    "artista": "Tupac Shakur",
+    "intro": "El canal En el Ensayo Media presenta un análisis detallado del asesinato de Tupac Shakur, uno de los raperos más influyentes de la historia.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/tupac-shakur-la-verdad-sobre-su-asesinato-y-el-fin-de-la-impunidad-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/tupac-shakur-la-verdad-sobre-su-asesinato-y-el-fin-de-la-impunidad-1101.jpg",
+    "fecha": "2026-11-01T21:41:24.714737",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
     "tipo": "noticia",
     "titulo": "Kygo anuncia concierto en CDMX para 2027",
     "artista": "Kygo",
@@ -10,7 +24,7 @@
     "fecha": "2026-11-01T21:33:18.811017",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Conciertos",
+    "categoria": "Música",
     "fecha_original": "2026-11-01T15:47:39.017536",
     "actualizada": true
   },
@@ -1030,21 +1044,6 @@
   },
   {
     "tipo": "noticia",
-    "titulo": "Kygo anuncia conciertos en CDMX y Guadalajara para 2027",
-    "artista": "Kygo",
-    "intro": "El DJ noruego Kygo regresa a México en 2027 con presentaciones en Guadalajara y la Ciudad de México, acompañados de preventas exclusivas y nuevos invitados especiales.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/kygo-anuncia-conciertos-en-cdmx-y-guadalajara-para-2027-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/kygo-anuncia-conciertos-en-cdmx-y-guadalajara-para-2027-1031.jpg",
-    "fecha": "2026-11-01T08:58:59.604298",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-10-31T23:58:52.882944",
-    "actualizada": true
-  },
-  {
-    "tipo": "noticia",
     "titulo": "Mara Lezama anuncia el Festival de Cultura del Caribe 2026 del 19 al 22 de noviembre",
     "artista": "Festival de Cultura del Caribe",
     "intro": "Mara Lezama confirmó la realización del Festival de Cultura del Caribe 2026, que se llevará a cabo del 19 al 22 de noviembre en Chetumal.",
@@ -1885,20 +1884,6 @@
     "url": "https://enelensayomedia.com/notas/como-surgio-el-sonido-que-conquisto-al-mundo-el-origen-de-mana-1031.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/como-surgio-el-sonido-que-conquisto-al-mundo-el-origen-de-mana-1031.jpg",
     "fecha": "2026-10-31T16:10:21.911107",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Top 10 semanal: lo más escuchado en México y el mundo 🎵 #shorts",
-    "artista": "Top 10 semanal",
-    "intro": "Esta semana se publicó en el canal de YouTube de En El Ensayo una cuenta regresiva que muestra los diez temas más reproducidos en Spotify, tanto en México como a nivel internacional. El video, bajo el",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/top-10-semanal-lo-mas-escuchado-en-mexico-y-el-mundo-shorts-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/top-10-semanal-lo-mas-escuchado-en-mexico-y-el-mundo-shorts-1031.jpg",
-    "fecha": "2026-10-31T15:39:13.290207",
     "author": "Oliver Ken",
     "views": 0,
     "archivo": true,
