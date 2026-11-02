@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "El álbum homónimo de Metallica casi destruye a la banda,",
+    "artista": "Metallica",
+    "intro": "El video del canal En el Ensayo Media relata que el quinto álbum de Metallica, lanzado en 1991, alcanzó gran éxito comercial…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-album-homonimo-de-metallica-casi-destruye-a-la-banda-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-album-homonimo-de-metallica-casi-destruye-a-la-banda-1102.jpg",
+    "fecha": "2026-11-02T05:49:36.254076",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Jim Morrison: vida, música y legado del rebelde de The Doors",
     "artista": "Jim Morrison",
     "intro": "El video del canal En el Ensayo Media narra la trayectoria de Jim Morrison, desde su nacimiento en 1943 hasta su muerte en 1971.",
@@ -1962,20 +1976,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Hiroshi Tsuchida: la voz de Saizo y Grisha Yeager",
-    "artista": "Hiroshi Tsuchida",
-    "intro": "El actor y seiyu japonés Hiroshi Tsuchida, conocido por interpretar a Saizo en \"Kakuranger\" y a Grisha Yeager en \"Attack on Titan\", falleció el 11 de octubre de 2026 a los 54 años.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/hiroshi-tsuchida-la-voz-de-saizo-y-grisha-yeager-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/hiroshi-tsuchida-la-voz-de-saizo-y-grisha-yeager-1031.jpg",
-    "fecha": "2026-10-31T21:30:51.874416",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
