@@ -1,6 +1,19 @@
 [
   {
     "tipo": "noticia",
+    "titulo": "Carlos Santana y Natalia Lafourcade unen voces en 'Hermano'",
+    "artista": "Carlos Santana y Natalia Lafourcade",
+    "intro": "Carlos Santana y Natalia Lafourcade se han unido para colaborar en el tema titulado 'Hermano'.",
+    "telegraph_url": "https://telegra.ph/Carlos-Santana-y-Natalia-Lafourcade-unen-voces-en-Hermano-11-02",
+    "url": "https://enelensayomedia.com/notas/carlos-santana-y-natalia-lafourcade-unen-voces-en-hermano-1101.html",
+    "imagen_url": "",
+    "fecha": "2026-11-01T18:22:51.653232",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "noticia",
     "titulo": "Carola Martínez asiste al Gran Premio de México 2026 con vestido rojo",
     "artista": "Carola Martínez",
     "intro": "Carola Martínez, esposa del piloto mexicano Checo Pérez, llegó al Gran Premio de México 2026 luciendo un llamativo vestido rojo.",
@@ -2162,19 +2175,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Christian Nodal y Ángela Aguilar presumen su amor en un escenario significativo",
-    "artista": "Christian Nodal y Ángela Aguilar",
-    "intro": "Christian Nodal y Ángela Aguilar confirmaron su relación amorosa al presentarse juntos en un escenario que ambos describen como muy significativo, según informó el medio HOLA. El gesto, realizado dura",
-    "telegraph_url": "https://telegra.ph/Christian-Nodal-y-Ángela-Aguilar-presumen-su-amor-en-un-escenario-significativo-10-31",
-    "url": "https://enelensayomedia.com/notas/christian-nodal-y-angela-aguilar-presumen-su-amor-en-un-escenario-sign-1031.html",
-    "imagen_url": "",
-    "fecha": "2026-10-31T07:47:25.300316",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
