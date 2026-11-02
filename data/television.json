@@ -1,0 +1,423 @@
+{
+ "actualizado": "01/11/2026 23:43",
+ "calificadas": [
+  {
+   "pos": 1,
+   "id": "tt0903747",
+   "titulo": "Breaking Bad",
+   "anio": "2008–2013",
+   "tipo": "Serie",
+   "imdb": "9.5",
+   "votos": "2.7 M",
+   "url": "https://www.imdb.com/es/title/tt0903747/"
+  },
+  {
+   "pos": 2,
+   "id": "tt5491994",
+   "titulo": "Planeta Tierra II",
+   "anio": "2016",
+   "tipo": "Miniserie",
+   "imdb": "9.4",
+   "votos": "178 k",
+   "url": "https://www.imdb.com/es/title/tt5491994/"
+  },
+  {
+   "pos": 3,
+   "id": "tt0795176",
+   "titulo": "Planeta Tierra",
+   "anio": "2006",
+   "tipo": "Miniserie",
+   "imdb": "9.4",
+   "votos": "238 k",
+   "url": "https://www.imdb.com/es/title/tt0795176/"
+  },
+  {
+   "pos": 4,
+   "id": "tt0185906",
+   "titulo": "Banda de hermanos",
+   "anio": "2001",
+   "tipo": "Miniserie",
+   "imdb": "9.4",
+   "votos": "612 k",
+   "url": "https://www.imdb.com/es/title/tt0185906/"
+  },
+  {
+   "pos": 5,
+   "id": "tt7366338",
+   "titulo": "Chernobyl",
+   "anio": "2019",
+   "tipo": "Miniserie",
+   "imdb": "9.3",
+   "votos": "1.1 M",
+   "url": "https://www.imdb.com/es/title/tt7366338/"
+  },
+  {
+   "pos": 6,
+   "id": "tt0417299",
+   "titulo": "Avatar: La leyenda de Aang",
+   "anio": "2005–2008",
+   "tipo": "Serie",
+   "imdb": "9.3",
+   "votos": "460 k",
+   "url": "https://www.imdb.com/es/title/tt0417299/"
+  },
+  {
+   "pos": 7,
+   "id": "tt0306414",
+   "titulo": "The Wire",
+   "anio": "2002–2008",
+   "tipo": "Serie",
+   "imdb": "9.3",
+   "votos": "444 k",
+   "url": "https://www.imdb.com/es/title/tt0306414/"
+  },
+  {
+   "pos": 8,
+   "id": "tt0141842",
+   "titulo": "Los Soprano",
+   "anio": "1999–2007",
+   "tipo": "Serie",
+   "imdb": "9.2",
+   "votos": "605 k",
+   "url": "https://www.imdb.com/es/title/tt0141842/"
+  },
+  {
+   "pos": 9,
+   "id": "tt6769208",
+   "titulo": "Planeta Azul II",
+   "anio": "2017",
+   "tipo": "Miniserie",
+   "imdb": "9.3",
+   "votos": "59 k",
+   "url": "https://www.imdb.com/es/title/tt6769208/"
+  },
+  {
+   "pos": 10,
+   "id": "tt2395695",
+   "titulo": "Cosmos",
+   "anio": "2014",
+   "tipo": "Miniserie",
+   "imdb": "9.2",
+   "votos": "142 k",
+   "url": "https://www.imdb.com/es/title/tt2395695/"
+  },
+  {
+   "pos": 11,
+   "id": "tt0081846",
+   "titulo": "Cosmos: un viaje personal",
+   "anio": "1980",
+   "tipo": "Miniserie",
+   "imdb": "9.3",
+   "votos": "54 k",
+   "url": "https://www.imdb.com/es/title/tt0081846/"
+  },
+  {
+   "pos": 12,
+   "id": "tt9253866",
+   "titulo": "Nuestro planeta",
+   "anio": "2019–2023",
+   "tipo": "Serie",
+   "imdb": "9.2",
+   "votos": "64 k",
+   "url": "https://www.imdb.com/es/title/tt9253866/"
+  },
+  {
+   "pos": 13,
+   "id": "tt0944947",
+   "titulo": "Game of Thrones",
+   "anio": "2011–2019",
+   "tipo": "Serie",
+   "imdb": "9.2",
+   "votos": "2.7 M",
+   "url": "https://www.imdb.com/es/title/tt0944947/"
+  },
+  {
+   "pos": 14,
+   "id": "tt7678620",
+   "titulo": "Bluey",
+   "anio": "2018–",
+   "tipo": "Serie",
+   "imdb": "9.2",
+   "votos": "50 k",
+   "url": "https://www.imdb.com/es/title/tt7678620/"
+  },
+  {
+   "pos": 15,
+   "id": "tt0071075",
+   "titulo": "El Mundo en Guerra",
+   "anio": "1973–1974",
+   "tipo": "Serie",
+   "imdb": "9.2",
+   "votos": "38 k",
+   "url": "https://www.imdb.com/es/title/tt0071075/"
+  },
+  {
+   "pos": 16,
+   "id": "tt2560140",
+   "titulo": "Attack on Titan",
+   "anio": "2013–2023",
+   "tipo": "Serie",
+   "imdb": "9.1",
+   "votos": "757 k",
+   "url": "https://www.imdb.com/es/title/tt2560140/"
+  },
+  {
+   "pos": 17,
+   "id": "tt1355642",
+   "titulo": "Fullmetal Alchemist: Brotherhood",
+   "anio": "2009–2010",
+   "tipo": "Serie",
+   "imdb": "9.1",
+   "votos": "261 k",
+   "url": "https://www.imdb.com/es/title/tt1355642/"
+  },
+  {
+   "pos": 18,
+   "id": "tt1533395",
+   "titulo": "Life",
+   "anio": "2009",
+   "tipo": "Miniserie",
+   "imdb": "9.1",
+   "votos": "51 k",
+   "url": "https://www.imdb.com/es/title/tt1533395/"
+  },
+  {
+   "pos": 19,
+   "id": "tt8420184",
+   "titulo": "El último baile",
+   "anio": "2020",
+   "tipo": "Miniserie",
+   "imdb": "9.0",
+   "votos": "186 k",
+   "url": "https://www.imdb.com/es/title/tt8420184/"
+  },
+  {
+   "pos": 20,
+   "id": "tt0052520",
+   "titulo": "La dimensión desconocida",
+   "anio": "1959–1964",
+   "tipo": "Serie",
+   "imdb": "9.0",
+   "votos": "111 k",
+   "url": "https://www.imdb.com/es/title/tt0052520/"
+  }
+ ],
+ "calificadas_leido": "2026-11-01",
+ "populares": [
+  {
+   "pos": 1,
+   "id": "tt26598805",
+   "titulo": "Nocturne",
+   "anio": "2026–",
+   "tipo": "Serie",
+   "imdb": "7.5",
+   "votos": "1.2 k",
+   "url": "https://www.imdb.com/es/title/tt26598805/"
+  },
+  {
+   "pos": 2,
+   "id": "tt33043892",
+   "titulo": "Dexter: Resurrección",
+   "anio": "2025–",
+   "tipo": "Serie",
+   "imdb": "9.0",
+   "votos": "163 k",
+   "url": "https://www.imdb.com/es/title/tt33043892/"
+  },
+  {
+   "pos": 3,
+   "id": "tt31510819",
+   "titulo": "MobLand",
+   "anio": "2025–",
+   "tipo": "Serie",
+   "imdb": "8.3",
+   "votos": "139 k",
+   "url": "https://www.imdb.com/es/title/tt31510819/"
+  },
+  {
+   "pos": 4,
+   "id": "tt11540908",
+   "titulo": "Carrie",
+   "anio": "2026–",
+   "tipo": "Serie",
+   "imdb": "7.8",
+   "votos": "59 k",
+   "url": "https://www.imdb.com/es/title/tt11540908/"
+  },
+  {
+   "pos": 5,
+   "id": "tt23148340",
+   "titulo": "Crystal Lake",
+   "anio": "2026–",
+   "tipo": "Serie",
+   "imdb": "7.6",
+   "votos": "22 k",
+   "url": "https://www.imdb.com/es/title/tt23148340/"
+  },
+  {
+   "pos": 6,
+   "id": "tt23112594",
+   "titulo": "VisionQuest",
+   "anio": "2026",
+   "tipo": "Miniserie",
+   "imdb": "7.8",
+   "votos": "12 k",
+   "url": "https://www.imdb.com/es/title/tt23112594/"
+  },
+  {
+   "pos": 7,
+   "id": "tt11743610",
+   "titulo": "La lista terminal",
+   "anio": "2022–",
+   "tipo": "Serie",
+   "imdb": "7.9",
+   "votos": "135 k",
+   "url": "https://www.imdb.com/es/title/tt11743610/"
+  },
+  {
+   "pos": 8,
+   "id": "tt5875444",
+   "titulo": "Caballos lentos",
+   "anio": "2022–",
+   "tipo": "Serie",
+   "imdb": "8.4",
+   "votos": "169 k",
+   "url": "https://www.imdb.com/es/title/tt5875444/"
+  },
+  {
+   "pos": 9,
+   "id": "tt19244304",
+   "titulo": "Welcome to Derry",
+   "anio": "2025–",
+   "tipo": "Serie",
+   "imdb": "7.9",
+   "votos": "123 k",
+   "url": "https://www.imdb.com/es/title/tt19244304/"
+  },
+  {
+   "pos": 10,
+   "id": "tt7441658",
+   "titulo": "Black Clover",
+   "anio": "2017–2026",
+   "tipo": "Serie",
+   "imdb": "8.2",
+   "votos": "61 k",
+   "url": "https://www.imdb.com/es/title/tt7441658/"
+  },
+  {
+   "pos": 11,
+   "id": "tt9813792",
+   "titulo": "From",
+   "anio": "2022–",
+   "tipo": "Serie",
+   "imdb": "7.7",
+   "votos": "213 k",
+   "url": "https://www.imdb.com/es/title/tt9813792/"
+  },
+  {
+   "pos": 12,
+   "id": "tt17491088",
+   "titulo": "La diplomática",
+   "anio": "2023–",
+   "tipo": "Serie",
+   "imdb": "8.1",
+   "votos": "108 k",
+   "url": "https://www.imdb.com/es/title/tt17491088/"
+  },
+  {
+   "pos": 13,
+   "id": "tt26933824",
+   "titulo": "Untitled Kristen Bell Netflix Series",
+   "anio": "2024–",
+   "tipo": "Serie",
+   "imdb": "7.7",
+   "votos": "87 k",
+   "url": "https://www.imdb.com/es/title/tt26933824/"
+  },
+  {
+   "pos": 14,
+   "id": "tt35934755",
+   "titulo": "Bajo la superficie",
+   "anio": "2026",
+   "tipo": "Miniserie",
+   "imdb": "6.3",
+   "votos": "32 k",
+   "url": "https://www.imdb.com/es/title/tt35934755/"
+  },
+  {
+   "pos": 15,
+   "id": "tt21097264",
+   "titulo": "East of Eden",
+   "anio": "2026",
+   "tipo": "Miniserie",
+   "imdb": "8.0",
+   "votos": "34 k",
+   "url": "https://www.imdb.com/es/title/tt21097264/"
+  },
+  {
+   "pos": 16,
+   "id": "tt36458668",
+   "titulo": "Ggoolalba",
+   "anio": "2026",
+   "tipo": "Miniserie",
+   "imdb": "7.1",
+   "votos": "1.4 k",
+   "url": "https://www.imdb.com/es/title/tt36458668/"
+  },
+  {
+   "pos": 17,
+   "id": "tt2531336",
+   "titulo": "Lupin",
+   "anio": "2021–",
+   "tipo": "Serie",
+   "imdb": "7.5",
+   "votos": "165 k",
+   "url": "https://www.imdb.com/es/title/tt2531336/"
+  },
+  {
+   "pos": 18,
+   "id": "tt35854736",
+   "titulo": "Avatar: Los siete refugios",
+   "anio": "2026–",
+   "tipo": "Serie",
+   "imdb": "8.1",
+   "votos": "6.6 k",
+   "url": "https://www.imdb.com/es/title/tt35854736/"
+  },
+  {
+   "pos": 19,
+   "id": "tt31438328",
+   "titulo": "This City Is Ours",
+   "anio": "2025–",
+   "tipo": "Serie",
+   "imdb": "7.8",
+   "votos": "12 k",
+   "url": "https://www.imdb.com/es/title/tt31438328/"
+  },
+  {
+   "pos": 20,
+   "id": "tt1844624",
+   "titulo": "American Horror Story",
+   "anio": "2011–",
+   "tipo": "Serie",
+   "imdb": "7.9",
+   "votos": "369 k",
+   "url": "https://www.imdb.com/es/title/tt1844624/"
+  }
+ ],
+ "populares_fuente": "IMDb · series más populares",
+ "populares_leido": "2026-11-01",
+ "radar": [
+  {
+   "pos": 1,
+   "id": "tt18332852",
+   "titulo": "Outlander: Blood of My Blood",
+   "anio": "2025–",
+   "tipo": "Serie",
+   "imdb": "8.1",
+   "votos": "7.9 k",
+   "url": "https://www.imdb.com/es/title/tt18332852/"
+  }
+ ],
+ "fuente": "IMDb (listas públicas «Las 250 mejores series» y «Las series más populares»), leídas el 1 de noviembre de 2026"
+}
