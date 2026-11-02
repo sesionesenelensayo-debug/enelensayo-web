@@ -1,5 +1,19 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "El nacimiento y legado musical de Billy Preston, el quinto Beatle",
+    "artista": "Quinto Beatle",
+    "intro": "Se relata su nacimiento, su talento con los teclados y sus colaboraciones históricas con grandes agrupaciones de la industria musical.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-nacimiento-y-legado-musical-de-billy-preston-el-quinto-beatle-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-nacimiento-y-legado-musical-de-billy-preston-el-quinto-beatle-1101.jpg",
+    "fecha": "2026-11-01T18:44:15.386004",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
     "tipo": "noticia",
     "titulo": "Carlos Santana y Natalia Lafourcade unen voces en 'Hermano'",
     "artista": "Carlos Santana y Natalia Lafourcade",
@@ -1926,19 +1940,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Conciertos"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Pututi & Nesty lanzan remix de 'Los Despechaos' con Nicky Jam",
-    "artista": "Pututi & Nesty",
-    "intro": "Pututi y Nesty han publicado el remix de su tema 'Los Despechaos' con la participación del reguetonero Nicky Jam, según informa Clx Icons. El nuevo arreglo amplía la canción original, incorporando la ",
-    "telegraph_url": "https://telegra.ph/Pututi--Nesty-lanzan-remix-de-Los-Despechaos-con-Nicky-Jam-10-31",
-    "url": "https://enelensayomedia.com/notas/pututi-nesty-lanzan-remix-de-los-despechaos-con-nicky-jam-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/pututi-nesty-lanzan-remix-de-los-despechaos-con-nicky-jam-1031.jpg",
-    "fecha": "2026-10-31T11:58:57.745052",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   },
   {
     "tipo": "noticia",
