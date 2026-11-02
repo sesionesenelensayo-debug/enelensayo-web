@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Stuart Sadcliff: el bajista que abandonó la música por el arte y murió a los 21",
+    "artista": "El Beatle olvidado que murió por amor y arte",
+    "intro": "En el video del canal En el Ensayo Media se relata la breve pero intensa vida de Stuart Sadcliff, bajista original de The Pows…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/stuart-sadcliff-el-bajista-que-abandono-la-musica-por-el-arte-y-murio-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/stuart-sadcliff-el-bajista-que-abandono-la-musica-por-el-arte-y-murio-1102.jpg",
+    "fecha": "2026-11-02T06:40:11.402440",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "El origen del primer videoclip moderno",
     "artista": "El secreto detrás del primer videoclip de la historia",
     "intro": "Se aborda la vida del rey del rock and roll, sus ventas millonarias y la innovadora secuencia que revolucionó la cultura global.",
@@ -3480,20 +3494,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "¿Cómo conquistó el mundo con corbatas y tenis? La verdadera historia de Avril Lavigne",
-    "artista": "Avril Lavigne",
-    "intro": "Avril Lavigne alcanzó la fama mundial en 2002 con su álbum debut Let Go, cuyo éxito incluyó los sencillos \"Complicated\" y \"Sk8er Boi\". Su imagen icónica de principios de los 2000 combinaba pantalones ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/como-conquisto-el-mundo-con-corbatas-y-tenis-la-verdadera-historia-de-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/como-conquisto-el-mundo-con-corbatas-y-tenis-la-verdadera-historia-de-1030.jpg",
-    "fecha": "2026-10-30T08:36:04.571154",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Biografía",
     "archivo": true
   },
   {
