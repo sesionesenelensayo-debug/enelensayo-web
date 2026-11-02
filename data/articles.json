@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "El secreto detrás del éxito de Elvis: la rebeldía que forjó una leyenda",
+    "artista": "Elvis",
+    "intro": "En el Ensayo Media revela cómo el icónico baile de 'Jailhouse Rock' de Elvis Presley surgió de su rechazo a la coreografía original, convirtiendo un impulso en un símbolo del rock mundial.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-secreto-detras-del-exito-de-elvis-la-rebeldia-que-forjo-una-leyenda-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-secreto-detras-del-exito-de-elvis-la-rebeldia-que-forjo-una-leyenda-1102.jpg",
+    "fecha": "2026-11-02T03:42:17.056486",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Laura Branigan: El resurgimiento de 'Gloria' en un estadio de hockey",
     "artista": "Laura Branigan",
     "intro": "Se explica cómo esta canción de los ochenta, originalmente de Umberto Tozzi, se convirtió en un himno de victoria para los St. Louis Blues en su camino hacia la Stanley Cup.",
@@ -1988,20 +2002,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Esports"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "JOHN LENNON: Firmó su autógrafo para su propio asesino",
-    "artista": "John Lennon",
-    "intro": "El 8 de diciembre de 1980, John Lennon, icónico miembro de The Beatles, firmó su último autógrafo para Mark David Chapman horas antes de ser asesinado frente a su residencia en Nueva York. El hecho, r",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/john-lennon-firmo-su-autografo-para-su-propio-asesino-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/john-lennon-firmo-su-autografo-para-su-propio-asesino-1031.jpg",
-    "fecha": "2026-10-31T18:05:47.867593",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
