@@ -1,17 +1,17 @@
 [
   {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Raza Hamidmi al-Wazar regresa en el capítulo 6 de VisionQuest",
-    "artista": "VisionQuest",
-    "intro": "Después de 18 años de ausencia, el villano Raza Hamidmi al-Wazar, interpretado por Faran Tahir, reaparece en el sexto episodio de la serie VisionQuest de Disney+.",
-    "telegraph_url": "https://telegra.ph/Raza-Hamidmi-al-Wazar-regresa-en-el-capítulo-6-de-VisionQuest-11-02",
-    "url": "https://enelensayomedia.com/notas/raza-hamidmi-al-wazar-regresa-en-el-capitulo-6-de-visionquest-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/raza-hamidmi-al-wazar-regresa-en-el-capitulo-6-de-visionquest-1102.jpg",
-    "fecha": "2026-11-02T09:32:00.666078",
+    "tipo": "reportaje",
+    "titulo": "Saúl Blanch: trayectoria del vocalista de Rata Blanca y su paso por Plus",
+    "artista": "Saúl Blanch",
+    "intro": "En el video del canal En el Ensayo Media se repasa la vida musical de Saúl Blanch, desde sus inicios en la banda Plus en los años 70, pasando por su paso por WBC y héroes…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/saul-blanch-trayectoria-del-vocalista-de-rata-blanca-y-su-paso-por-plu-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/saul-blanch-trayectoria-del-vocalista-de-rata-blanca-y-su-paso-por-plu-1102.jpg",
+    "fecha": "2026-11-02T09:25:17.712400",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "archivo": true,
+    "categoria": "Biografía"
   },
   {
     "opinion": true,
@@ -1991,6 +1991,20 @@
   },
   {
     "tipo": "reportaje",
+    "titulo": "LUCIANO PAVAROTTI: El secreto que guardó hasta el último día",
+    "artista": "Luciano Pavarotti",
+    "intro": "Años después de su partida, la figura del tenor italiano Luciano Pavarotti continúa generando interés en el ámbito musical.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/luciano-pavarotti-el-secreto-que-guardo-hasta-el-ultimo-dia-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/luciano-pavarotti-el-secreto-que-guardo-hasta-el-ultimo-dia-1031.jpg",
+    "fecha": "2026-10-31T22:59:10.058897",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Cómo arreglar toda tu vida en un día según Dan Koe",
     "artista": "Como arreglar toda tu vida en 1 dia - Historia Completa",
     "intro": "En el video del canal En el Ensayo Media se presenta un análisis sobre el cambio personal basado en las ideas de Dan Koe.",
@@ -3479,20 +3493,6 @@
     "categoria": "Escena local",
     "fecha_original": "2026-10-30T10:06:33.225736",
     "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Ray Charles - La verdad sobre su adicción ",
-    "artista": "Ray Charles",
-    "intro": "A 93 años de su nacimiento, la historia completa de Ray Charles revela una infancia marcada por la pobreza extrema en el sur segregado, la pérdida de la vista a los siete años y una larga batalla cont",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/ray-charles-la-verdad-sobre-su-adiccion-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/ray-charles-la-verdad-sobre-su-adiccion-1030.jpg",
-    "fecha": "2026-10-30T10:36:52.567378",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Biografía",
-    "archivo": true
   },
   {
     "tipo": "reportaje",
