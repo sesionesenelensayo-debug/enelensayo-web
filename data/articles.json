@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Astrid Hadad brilla en el Festival de Día de Muertos de Zacatecas 2026",
+    "artista": "Festival Día de Muertos Zacatecas",
+    "intro": "La cantante y performer Astrid Hadad se presentó en el Festival de Día de Muertos de Zacatecas, consolidándose como una de las figuras centrales del evento 2026.",
+    "telegraph_url": "https://telegra.ph/Astrid-Hadad-brilla-en-el-Festival-de-Día-de-Muertos-de-Zacatecas-2026-11-01",
+    "url": "https://enelensayomedia.com/notas/astrid-hadad-brilla-en-el-festival-de-dia-de-muertos-de-zacatecas-2026-1101.html",
+    "imagen_url": "",
+    "fecha": "2026-11-02T13:37:37.007373",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura",
+    "fecha_original": "2026-11-01T07:09:39.428487",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Dragon Age: The Veilguard y el debate por su enfoque",
@@ -372,21 +387,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Televisión"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Astrid Hadad brilla en el Festival de Día de Muertos de Zacatecas 2026",
-    "artista": "Festival Día de Muertos Zacatecas",
-    "intro": "La cantante y performer Astrid Hadad se presentó en el Festival de Día de Muertos de Zacatecas, consolidándose como una de las figuras centrales del evento 2026.",
-    "telegraph_url": "https://telegra.ph/Astrid-Hadad-brilla-en-el-Festival-de-Día-de-Muertos-de-Zacatecas-2026-11-01",
-    "url": "https://enelensayomedia.com/notas/astrid-hadad-brilla-en-el-festival-de-dia-de-muertos-de-zacatecas-2026-1101.html",
-    "imagen_url": "",
-    "fecha": "2026-11-02T09:06:27.301618",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura",
-    "fecha_original": "2026-11-01T07:09:39.428487",
-    "actualizada": true
   },
   {
     "tipo": "noticia",
