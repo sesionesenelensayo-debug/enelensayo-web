@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Fallece otro integrante de Breaking Bad y Netflix estrena drama rival de seis temporadas",
+    "artista": "Breaking Bad",
+    "intro": "Se confirmó el fallecimiento de un actor que participó en uno de los capítulos más recordados de Breaking Bad…",
+    "telegraph_url": "https://telegra.ph/Fallece-otro-integrante-de-Breaking-Bad-y-Netflix-estrena-drama-rival-de-seis-temporadas-11-02",
+    "url": "https://enelensayomedia.com/notas/fallece-otro-integrante-de-breaking-bad-y-netflix-estrena-drama-rival-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-otro-integrante-de-breaking-bad-y-netflix-estrena-drama-rival-1102.jpg",
+    "fecha": "2026-11-02T11:09:36.793568",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "In memoriam"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Safe Place Music lanza su disco ‘Te Espero’",
     "artista": "Safe Place Music",
