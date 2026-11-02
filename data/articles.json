@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Taylor Swift prepara su regreso al género country",
+    "artista": "Taylor Swift",
+    "intro": "Taylor Swift se deja de rodeos: su esperado regreso al 'country' está a la vuelta de la esquina.",
+    "telegraph_url": "https://telegra.ph/Taylor-Swift-prepara-su-regreso-al-género-country-11-02",
+    "url": "https://enelensayomedia.com/notas/taylor-swift-prepara-su-regreso-al-genero-country-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/taylor-swift-prepara-su-regreso-al-genero-country-1102.jpg",
+    "fecha": "2026-11-02T17:25:18.904087",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
     "tipo": "noticia",
     "titulo": "Daddy Yankee visita Venezuela acompañado de Danny Ocean",
     "artista": "Daddy Yankee",
@@ -676,7 +690,7 @@
     "intro": "Carlos Santana y Natalia Lafourcade se han unido para colaborar en el tema titulado 'Hermano'.",
     "telegraph_url": "https://telegra.ph/Carlos-Santana-y-Natalia-Lafourcade-unen-voces-en-Hermano-11-02",
     "url": "https://enelensayomedia.com/notas/carlos-santana-y-natalia-lafourcade-unen-voces-en-hermano-1101.html",
-    "imagen_url": "",
+    "imagen_url": "https://enelensayomedia.com/img/notas/carlos-santana-y-natalia-lafourcade-unen-voces-en-hermano-1101.jpg",
     "fecha": "2026-11-02T07:16:49.306156",
     "author": "Oliver Ken",
     "views": 0,
@@ -2085,20 +2099,6 @@
     "categoria": "Cine",
     "fecha_original": "2026-11-01T07:11:20.943626",
     "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El álbum 'Trompe le Monde' de Pixies: la ruptura que engañó al mundo en 1991",
-    "artista": "THE PIXIES",
-    "intro": "En el video de En el Ensayo Media se relata cómo, en 1991, el último álbum de Pixies, 'Trompe le Monde', sorprendió al público.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-album-trompe-le-monde-de-pixies-la-ruptura-que-engano-al-mundo-en-1-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-album-trompe-le-monde-de-pixies-la-ruptura-que-engano-al-mundo-en-1-1101.jpg",
-    "fecha": "2026-11-01T07:31:34.633071",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
