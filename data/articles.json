@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "noticia",
+    "titulo": "HBO Max estrena sorpresa el especial de 'IT: Welcome to Derry' en Halloween",
+    "artista": "IT: Welcome to Derry",
+    "intro": "HBO Max lanzó de forma inesperada un episodio especial de la serie 'IT: Welcome to Derry' para la celebración de Halloween.",
+    "telegraph_url": "https://telegra.ph/HBO-Max-estrena-sorpresa-el-especial-de-IT-Welcome-to-Derry-en-Halloween-11-02",
+    "url": "https://enelensayomedia.com/notas/hbo-max-estrena-sorpresa-el-especial-de-it-welcome-to-derry-en-hallowe-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/hbo-max-estrena-sorpresa-el-especial-de-it-welcome-to-derry-en-hallowe-1102.jpg",
+    "fecha": "2026-11-02T09:34:34.998357",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Saúl Blanch: trayectoria del vocalista de Rata Blanca y su paso por Plus",
     "artista": "Saúl Blanch",
@@ -1988,20 +2002,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Agenda woke"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "LUCIANO PAVAROTTI: El secreto que guardó hasta el último día",
-    "artista": "Luciano Pavarotti",
-    "intro": "Años después de su partida, la figura del tenor italiano Luciano Pavarotti continúa generando interés en el ámbito musical.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/luciano-pavarotti-el-secreto-que-guardo-hasta-el-ultimo-dia-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/luciano-pavarotti-el-secreto-que-guardo-hasta-el-ultimo-dia-1031.jpg",
-    "fecha": "2026-10-31T22:59:10.058897",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
