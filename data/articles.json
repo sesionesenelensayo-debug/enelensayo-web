@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "El origen del primer videoclip moderno",
+    "artista": "El secreto detrás del primer videoclip de la historia",
+    "intro": "Se aborda la vida del rey del rock and roll, sus ventas millonarias y la innovadora secuencia que revolucionó la cultura global.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-origen-del-primer-videoclip-moderno-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-origen-del-primer-videoclip-moderno-1102.jpg",
+    "fecha": "2026-11-02T06:14:31.180100",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "El álbum homónimo de Metallica casi destruye a la banda,",
     "artista": "Metallica",
     "intro": "El video del canal En el Ensayo Media relata que el quinto álbum de Metallica, lanzado en 1991, alcanzó gran éxito comercial…",
@@ -1948,20 +1962,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Los próximos estrenos de videojuegos que no te puedes perder",
-    "artista": "Los próximos estrenos de videojuegos que no te puedes perder",
-    "intro": "Se han dado a conocer las fechas de los próximos lanzamientos de videojuegos. Este calendario de disponibilidad permite conocer los momentos en los que saldrán al mercado los nuevos títulos…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/los-proximos-estrenos-de-videojuegos-que-no-te-puedes-perder-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/los-proximos-estrenos-de-videojuegos-que-no-te-puedes-perder-1031.jpg",
-    "fecha": "2026-10-31T21:56:12.095614",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
