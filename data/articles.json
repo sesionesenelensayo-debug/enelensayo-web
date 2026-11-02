@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "El oscuro secreto del éxito de The Slim Shady LP de Eminem",
+    "artista": "Eminem",
+    "intro": "En el video del canal En el Ensayo Media se relata cómo el alter‑ego de Eminem surgió de la miseria en Detroit…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-oscuro-secreto-del-exito-de-the-slim-shady-lp-de-eminem-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-oscuro-secreto-del-exito-de-the-slim-shady-lp-de-eminem-1102.jpg",
+    "fecha": "2026-11-02T02:39:06.520317",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Miguel Zabaleta y Suéter: la voz del rock argentino que ocultó su lucha contra el cáncer",
     "artista": "Suéter",
     "intro": "En el video publicado por el canal En el Ensayo Media, se relata la trayectoria de Miguel Zabaleta, fundador de la banda Suéter…",
@@ -3549,20 +3563,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Terror",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "¿Quién es Gwen Stefani? El secreto detrás de la reina del pop alternativo",
-    "artista": "Gwen Stefani",
-    "intro": "Gwen Stefani, la cantante y diseñadora estadounidense que se hizo famosa en los noventa con No Doubt, ha lanzado en 2024 su álbum 'Bouquet'. El disco marca un giro del dance‑pop habitual a un sonido m",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/quien-es-gwen-stefani-el-secreto-detras-de-la-reina-del-pop-alternativ-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/quien-es-gwen-stefani-el-secreto-detras-de-la-reina-del-pop-alternativ-1030.jpg",
-    "fecha": "2026-10-30T00:59:32.333416",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Biografía",
     "archivo": true
   },
   {
