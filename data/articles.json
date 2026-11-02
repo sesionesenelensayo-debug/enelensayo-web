@@ -1,5 +1,33 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Gloria Trevi anuncia concierto en Auditorio Nacional el 24 de octubre de 2026",
+    "artista": "Gloria Trevi",
+    "intro": "La cantante, catalogada como \"Reina del Pop Mexicano\", iniciará su \"Celebration Tour\" en la capital con dos funciones en octubre y noviembre.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/gloria-trevi-anuncia-concierto-en-auditorio-nacional-el-24-de-octubre-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/gloria-trevi-anuncia-concierto-en-auditorio-nacional-el-24-de-octubre-1031.jpg",
+    "fecha": "2026-11-02T08:28:01.744990",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-10-31T12:03:13.773165",
+    "actualizada": true
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "El Callejón del Beso: entre historia, leyenda y tradición romántica",
+    "artista": "el Callejón del Beso y otras leyendas de Guanajuato",
+    "intro": "Descubre cómo el estrecho pasaje de Guanajuato mezcla arquitectura del siglo XVIII, una trágica historia de amor y rituales populares que atraen a miles de visitantes.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-callejon-del-beso-entre-historia-leyenda-y-tradicion-romantica-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-callejon-del-beso-entre-historia-leyenda-y-tradicion-romantica-1102.jpg",
+    "fecha": "2026-11-02T08:26:44.735337",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Historias de terror"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "El concierto benéfico de 1985 que enlazó Londres y Filadelfia",
     "artista": "El concierto de rock que unió al mundo en 1985",
@@ -484,21 +512,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Gloria Trevi anuncia concierto en Auditorio Nacional el 24 de octubre de 2026",
-    "artista": "Gloria Trevi",
-    "intro": "La cantante, catalogada como \"Reina del Pop Mexicano\", iniciará su \"Celebration Tour\" en la capital con dos funciones en octubre y noviembre.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/gloria-trevi-anuncia-concierto-en-auditorio-nacional-el-24-de-octubre-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/gloria-trevi-anuncia-concierto-en-auditorio-nacional-el-24-de-octubre-1031.jpg",
-    "fecha": "2026-11-01T22:04:10.955104",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-10-31T12:03:13.773165",
-    "actualizada": true
   },
   {
     "tipo": "reportaje",
