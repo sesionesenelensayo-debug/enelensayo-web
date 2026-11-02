@@ -1,5 +1,35 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Gloria Trevi anuncia concierto en Auditorio Nacional el 24 de octubre de 2026",
+    "artista": "Gloria Trevi",
+    "intro": "La cantante, catalogada como \"Reina del Pop Mexicano\", iniciará su \"Celebration Tour\" en la capital con dos funciones en octubre y noviembre.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/gloria-trevi-anuncia-concierto-en-auditorio-nacional-el-24-de-octubre-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/gloria-trevi-anuncia-concierto-en-auditorio-nacional-el-24-de-octubre-1031.jpg",
+    "fecha": "2026-11-02T11:35:26.903006",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-10-31T12:03:13.773165",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "El último concierto de los Beatles: interrupción y cinta perdida",
+    "artista": "Los Beatles",
+    "intro": "En el video publicado por el canal En el Ensayo Media, se relata que el último concierto oficial de pago de los Beatles tuvo lugar el 29 de agosto de 1966 en el Candlestick Park de San Francisco…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-ultimo-concierto-de-los-beatles-interrupcion-y-cinta-perdida-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-ultimo-concierto-de-los-beatles-interrupcion-y-cinta-perdida-1102.jpg",
+    "fecha": "2026-11-02T11:25:21.043136",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Avengers: Doomsday rompe récords de preventa con más de 125 millones de dólares",
@@ -208,21 +238,6 @@
     "views": 0,
     "categoria": "Chisme",
     "fecha_original": "2026-11-01T08:03:00.262719",
-    "actualizada": true
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Gloria Trevi anuncia concierto en Auditorio Nacional el 24 de octubre de 2026",
-    "artista": "Gloria Trevi",
-    "intro": "La cantante, catalogada como \"Reina del Pop Mexicano\", iniciará su \"Celebration Tour\" en la capital con dos funciones en octubre y noviembre.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/gloria-trevi-anuncia-concierto-en-auditorio-nacional-el-24-de-octubre-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/gloria-trevi-anuncia-concierto-en-auditorio-nacional-el-24-de-octubre-1031.jpg",
-    "fecha": "2026-11-02T08:28:01.744990",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-10-31T12:03:13.773165",
     "actualizada": true
   },
   {
