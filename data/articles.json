@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Tito Double P acompaña a Saúl Canelo Álvarez en el ring",
+    "artista": "Tito Double P",
+    "intro": "¿Qué canciones interpretó Tito Double P durante la entrada del boxeador mexicano Saúl 'Canelo' Álvarez para enfrentar a Christian Mbilli?",
+    "telegraph_url": "https://telegra.ph/Tito-Double-P-acompaña-a-Saúl-Canelo-Álvarez-en-el-ring-11-02",
+    "url": "https://enelensayomedia.com/notas/tito-double-p-acompana-a-saul-canelo-alvarez-en-el-ring-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/tito-double-p-acompana-a-saul-canelo-alvarez-en-el-ring-1102.jpg",
+    "fecha": "2026-11-02T11:59:47.256513",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "A 10 años de su partida: la verdad sobre los últimos días de Juan Gabriel",
     "artista": "Juan Gabriel",
     "intro": "La producción aborda datos sobre su nacimiento, su exitosa trayectoria musical con millones de discos vendidos y los detalles poco conocidos acerca de su muerte y su último concierto en Los Ángeles.",
@@ -2175,21 +2189,6 @@
     "views": 0,
     "categoria": "Cine",
     "fecha_original": "2026-10-31T09:47:34.163501",
-    "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece Fernando Castillo, cantante de Los Yaguarú",
-    "artista": "Fernando Castillo",
-    "intro": "El medio musical mexicano lamenta el fallecimiento de Fernando Castillo, reconocido vocalista de Los Yaguarú de Ángel Venegas.",
-    "telegraph_url": "https://telegra.ph/Fallece-Fernando-Castillo-cantante-de-Los-Yaguarú-11-01",
-    "url": "https://enelensayomedia.com/notas/fallece-fernando-castillo-cantante-de-los-yaguaru-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-fernando-castillo-cantante-de-los-yaguaru-1031.jpg",
-    "fecha": "2026-10-31T23:03:11.981712",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-10-31T22:09:27.002320",
     "actualizada": true
   },
   {
