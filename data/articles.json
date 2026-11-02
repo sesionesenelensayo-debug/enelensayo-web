@@ -1,6 +1,33 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Billie Eilish: Talento y ascenso meteórico en la música",
+    "artista": "BILLIE EILISH",
+    "intro": "Se detallan los inicios de su carrera musical junto a su hermano Finneas O'Connell, su éxito masivo en plataformas y su histórico triunfo en los premios Grammy.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/billie-eilish-talento-y-ascenso-meteorico-en-la-musica-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/billie-eilish-talento-y-ascenso-meteorico-en-la-musica-1101.jpg",
+    "fecha": "2026-11-01T20:10:11.765434",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "Las 10 películas más esperadas de 2026: un año de secuelas, adaptaciones y thrillers",
+    "artista": "las 10 películas más esperadas de 2026",
+    "intro": "El 2026 promete una variedad de estrenos cinematográficos, desde secuelas altamente anticipadas hasta adaptaciones literarias y thrillers intensos.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/las-10-peliculas-mas-esperadas-de-2026-un-ano-de-secuelas-adaptaciones-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/las-10-peliculas-mas-esperadas-de-2026-un-ano-de-secuelas-adaptaciones-1101.jpg",
+    "fecha": "2026-11-01T20:06:09.781624",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "El oscuro origen y las letras reales de Tito Double P",
     "artista": "Tito Double P",
     "intro": "En este video del canal En el Ensayo Media se aborda la trayectoria de Tito Doboti, cuyo nombre real es Jesús Roberto Laija García, nacido en Culiacán, México.",
@@ -1819,19 +1846,6 @@
     "url": "https://enelensayomedia.com/notas/rico-o-muerto-lidera-spotify-mexico-victor-mendivil-es-el-artista-mas-1031.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/rico-o-muerto-lidera-spotify-mexico-victor-mendivil-es-el-artista-mas-1031.jpg",
     "fecha": "2026-10-31T15:25:50.053227",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "YOLAMASCARA reúne a 50 Cent y Sexyy Red en su primer álbum",
-    "artista": "YOLAMASCARA",
-    "intro": "El medio El Generacional informó que el proyecto musical YOLAMASCARA ha incluido a los artistas internacionales 50 Cent y Sexyy Red en su álbum debut. El anuncio sitúa al nuevo disco en el foco de la ",
-    "telegraph_url": "https://telegra.ph/YOLAMASCARA-reúne-a-50-Cent-y-Sexyy-Red-en-su-primer-álbum-10-31",
-    "url": "https://enelensayomedia.com/notas/yolamascara-reune-a-50-cent-y-sexyy-red-en-su-primer-album-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/yolamascara-reune-a-50-cent-y-sexyy-red-en-su-primer-album-1031.jpg",
-    "fecha": "2026-10-31T15:20:14.741330",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
