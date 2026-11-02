@@ -238,3 +238,12 @@ img,iframe{max-width:100%}
 .tv-seg li small{display:block;opacity:.8;margin-top:2px}
 .tv-seg p{font-size:.8rem;margin:8px 0 0;opacity:.95}
 @media(max-width:520px){.tv-reco{grid-template-columns:1fr}}
+
+/* Menú móvil: con 17 secciones era más alto que la pantalla y lo de abajo (Conciertos…Sobre nosotros) quedaba inalcanzable.
+   Ahora son 2 columnas, con scroll propio por si acaso, y la mascota se esconde mientras está abierto. */
+@media(max-width:900px){
+  .nav-mobile{max-height:calc(100vh - var(--nav-h,68px) - 10px);max-height:calc(100dvh - var(--nav-h,68px) - 10px);overflow-y:auto;-webkit-overflow-scrolling:touch;overscroll-behavior:contain}
+  .nav-mobile.open{display:grid!important;grid-template-columns:1fr 1fr;gap:8px;padding:10px 12px 16px}
+  .nav-mobile a{margin:0!important;padding:.8rem .85rem!important;font-size:.95rem;border-radius:12px}
+  body:has(.nav-mobile.open) #eem-robot{display:none!important}
+}
