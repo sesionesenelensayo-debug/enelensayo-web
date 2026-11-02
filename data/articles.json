@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "José Eduardo Derbez y Paola Dalay anuncian separación",
+    "artista": "José Eduardo Derbez",
+    "intro": "El actor mexicano José Eduardo Derbez y Paola Dalay confirmaron el 1 de noviembre de 2026 su separación tras siete años de relación.",
+    "telegraph_url": "https://telegra.ph/José-Eduardo-Derbez-y-Paola-Dalay-anuncian-separación-11-01",
+    "url": "https://enelensayomedia.com/notas/jose-eduardo-derbez-y-paola-dalay-anuncian-separacion-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/jose-eduardo-derbez-y-paola-dalay-anuncian-separacion-1101.jpg",
+    "fecha": "2026-11-01T22:27:08.006386",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-01T16:33:20.695886",
+    "actualizada": true
+  },
+  {
     "tipo": "noticia",
     "titulo": "Carola Martínez asiste al Gran Premio de México 2026 con vestido rojo",
     "artista": "Carola Martínez",
@@ -451,19 +466,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Conciertos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "José Eduardo Derbez y Paola Dalay anuncian separación",
-    "artista": "José Eduardo Derbez",
-    "intro": "El actor mexicano José Eduardo Derbez y Paola Dalay confirmaron el 1 de noviembre de 2026 su separación tras siete años de relación.",
-    "telegraph_url": "https://telegra.ph/José-Eduardo-Derbez-y-Paola-Dalay-anuncian-separación-11-01",
-    "url": "https://enelensayomedia.com/notas/jose-eduardo-derbez-y-paola-dalay-anuncian-separacion-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/jose-eduardo-derbez-y-paola-dalay-anuncian-separacion-1101.jpg",
-    "fecha": "2026-11-01T16:33:20.695886",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   },
   {
     "tipo": "reportaje",
