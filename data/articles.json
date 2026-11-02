@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Tragedia de Cromañón: la noche que el rock argentino se volvió luto",
+    "artista": "Cromañón",
+    "intro": "El video del canal En el Ensayo Media relata la catástrofe ocurrida el 30 de diciembre de 2004 en el local República Cromañón, donde la banda Callejeros se presentaba ante unas 4 000 personas.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/tragedia-de-cromanon-la-noche-que-el-rock-argentino-se-volvio-luto-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/tragedia-de-cromanon-la-noche-que-el-rock-argentino-se-volvio-luto-1102.jpg",
+    "fecha": "2026-11-02T01:10:55.377143",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Cindy Wilson: la historia de su salida de los escenarios y su regreso artístico",
     "artista": "Cindy Wilson",
     "intro": "En el video de En el Ensayo Media se narra la trayectoria de Cindy Wilson, vocalista de los B-52’s, desde sus inicios en Athens, Georgia…",
@@ -1960,20 +1974,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Terror"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "\"Physical Graffiti\" encabeza listas brit: Historia",
-    "artista": "Led Zeppelin",
-    "intro": "El álbum 'Physical Graffiti' de Led Zeppelin, lanzado en 1975, alcanzó el número 1 en la lista de álbumes del Reino Unido. Este éxito reafirma la vigencia del disco, considerado uno de los más influye",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/physical-graffiti-encabeza-listas-brit-historia-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/physical-graffiti-encabeza-listas-brit-historia-1031.jpg",
-    "fecha": "2026-10-31T17:15:19.994970",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
