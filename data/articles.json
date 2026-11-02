@@ -1,5 +1,18 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "Cristian Castro sorprende en Halloween bailando “Thriller” en su concierto",
+    "artista": "Cristian Castro",
+    "intro": "Durante su presentación de Halloween, el cantante mexicano Cristian Castro sorprendió al público al interpretar el icónico “Thriller” de Michael Jackson.",
+    "telegraph_url": "https://telegra.ph/Cristian-Castro-sorprende-en-Halloween-bailando-Thriller-en-su-concierto-11-02",
+    "url": "https://enelensayomedia.com/notas/cristian-castro-sorprende-en-halloween-bailando-thriller-en-su-concier-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/cristian-castro-sorprende-en-halloween-bailando-thriller-en-su-concier-1102.jpg",
+    "fecha": "2026-11-02T07:50:57.522805",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
     "tipo": "noticia",
     "titulo": "Director de Resident Evil sigue frustrado por la polémica de su película",
     "artista": "Director de Resident Evil",
@@ -1963,21 +1976,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El Komander anuncia la muerte de su bebé y cancela show",
-    "artista": "El Komander",
-    "intro": "El cantante regional mexicano El Komander confirmó en sus redes sociales la muerte de su bebé, José Eliseo, a pocos meses de su nacimiento. La tragedia lo llevó a cancelar el concierto que tenía progr",
-    "telegraph_url": "https://telegra.ph/El-Komander-anuncia-la-muerte-de-su-bebé-y-cancela-show-10-31",
-    "url": "https://enelensayomedia.com/notas/el-komander-anuncia-la-muerte-de-su-bebe-y-cancela-show-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-komander-anuncia-la-muerte-de-su-bebe-y-cancela-show-1031.jpg",
-    "fecha": "2026-10-31T22:08:15.207854",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-10-31T09:29:15.024218",
-    "actualizada": true
   },
   {
     "tipo": "reportaje",
