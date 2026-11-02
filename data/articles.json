@@ -1,6 +1,21 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Kim Kardashian llega a la CDMX para promocionar la serie “Todo Vale”",
+    "artista": "Kim Kardashian",
+    "intro": "Kim Kardashian arribó a la Ciudad de México acompañada de la actriz Sarah Paulson y el elenco de su nueva serie “Todo Vale”. La visita, que incluye presentaciones y encuentros con fans, tiene como obj",
+    "telegraph_url": "https://telegra.ph/Kim-Kardashian-llega-a-la-CDMX-para-promocionar-la-serie-Todo-Vale-10-30",
+    "url": "https://enelensayomedia.com/notas/kim-kardashian-llega-a-la-cdmx-para-promocionar-la-serie-todo-vale-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/kim-kardashian-llega-a-la-cdmx-para-promocionar-la-serie-todo-vale-1030.jpg",
+    "fecha": "2026-11-01T21:02:51.039303",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-10-30T10:31:54.545976",
+    "actualizada": true
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Expansión Evercold de Final Fantasy XIV se retrasará y llegará en febrero de 2027",
     "artista": "Final Fantasy XIV",
     "intro": "La expansión Evercold de Final Fantasy XIV ha anunciado un retraso de varias semanas, reprogramando su lanzamiento para febrero de 2027.",
@@ -3135,19 +3150,6 @@
     "views": 0,
     "categoria": "Biografía",
     "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Kim Kardashian llega a la CDMX para promocionar la serie “Todo Vale”",
-    "artista": "Kim Kardashian",
-    "intro": "Kim Kardashian arribó a la Ciudad de México acompañada de la actriz Sarah Paulson y el elenco de su nueva serie “Todo Vale”. La visita, que incluye presentaciones y encuentros con fans, tiene como obj",
-    "telegraph_url": "https://telegra.ph/Kim-Kardashian-llega-a-la-CDMX-para-promocionar-la-serie-Todo-Vale-10-30",
-    "url": "https://enelensayomedia.com/notas/kim-kardashian-llega-a-la-cdmx-para-promocionar-la-serie-todo-vale-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/kim-kardashian-llega-a-la-cdmx-para-promocionar-la-serie-todo-vale-1030.jpg",
-    "fecha": "2026-10-30T10:31:54.545976",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   },
   {
     "tipo": "reportaje",
