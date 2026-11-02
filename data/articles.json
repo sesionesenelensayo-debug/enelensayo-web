@@ -1,27 +1,12 @@
 [
   {
-    "tipo": "reportaje",
-    "titulo": "Outlander: Blood of My Blood replantea viaje a través de las piedras",
-    "artista": "Outlander: Blood of My Blood",
-    "intro": "La serie Outlander: Blood of My Blood ha anunciado que replanteará uno de sus viajes a través de las piedras, un elemento central de la trama que conecta los destinos de los personajes.",
-    "telegraph_url": "https://telegra.ph/Outlander-Blood-of-My-Blood-replantea-viaje-a-través-de-las-piedras-11-02",
-    "url": "https://enelensayomedia.com/notas/outlander-blood-of-my-blood-replantea-viaje-a-traves-de-las-piedras-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/outlander-blood-of-my-blood-replantea-viaje-a-traves-de-las-piedras-1102.jpg",
-    "fecha": "2026-11-02T14:10:54.063643",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Televisión",
-    "fecha_original": "2026-11-02T09:00:45.465926",
-    "actualizada": true
-  },
-  {
     "tipo": "noticia",
     "titulo": "Astrid Hadad brilla en el Festival de Día de Muertos de Zacatecas 2026",
     "artista": "Festival Día de Muertos Zacatecas",
     "intro": "La cantante y performer Astrid Hadad se presentó en el Festival de Día de Muertos de Zacatecas, consolidándose como una de las figuras centrales del evento 2026.",
     "telegraph_url": "https://telegra.ph/Astrid-Hadad-brilla-en-el-Festival-de-Día-de-Muertos-de-Zacatecas-2026-11-01",
     "url": "https://enelensayomedia.com/notas/astrid-hadad-brilla-en-el-festival-de-dia-de-muertos-de-zacatecas-2026-1101.html",
-    "imagen_url": "",
+    "imagen_url": "https://enelensayomedia.com/img/notas/astrid-hadad-brilla-en-el-festival-de-dia-de-muertos-de-zacatecas-2026-1101.jpg",
     "fecha": "2026-11-02T13:37:37.007373",
     "author": "Oliver Ken",
     "views": 0,
@@ -415,6 +400,19 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "Outlander: Blood of My Blood replantea viaje a través de las piedras",
+    "artista": "Outlander: Blood of My Blood",
+    "intro": "La serie Outlander: Blood of My Blood ha anunciado que replanteará uno de sus viajes a través de las piedras, un elemento central de la trama que conecta los destinos de los personajes.",
+    "telegraph_url": "https://telegra.ph/Outlander-Blood-of-My-Blood-replantea-viaje-a-través-de-las-piedras-11-02",
+    "url": "https://enelensayomedia.com/notas/outlander-blood-of-my-blood-replantea-viaje-a-traves-de-las-piedras-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/outlander-blood-of-my-blood-replantea-viaje-a-traves-de-las-piedras-1102.jpg",
+    "fecha": "2026-11-02T09:00:45.465926",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Televisión"
   },
   {
     "opinion": false,
