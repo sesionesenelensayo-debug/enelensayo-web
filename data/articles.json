@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Jim Morrison: vida, música y legado del rebelde de The Doors",
+    "artista": "Jim Morrison",
+    "intro": "El video del canal En el Ensayo Media narra la trayectoria de Jim Morrison, desde su nacimiento en 1943 hasta su muerte en 1971.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/jim-morrison-vida-musica-y-legado-del-rebelde-de-the-doors-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/jim-morrison-vida-musica-y-legado-del-rebelde-de-the-doors-1102.jpg",
+    "fecha": "2026-11-02T04:59:04.111631",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Juan Gabriel: De recluso a leyenda musical mexicana",
     "artista": "Juan Gabriel",
     "intro": "El canal En el Ensayo Media presenta la historia de Juan Gabriel, desde su infancia marcada por la adversidad hasta su consagración como ícono musical.",
@@ -3494,20 +3508,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "La trágica caída de José José: excesos y pérdida de voz",
-    "artista": "José José",
-    "intro": "En el video del canal En el Ensayo Media se explora la vida y la trágica caída de José José, la emblemática voz de América Latina que conquistó estadios y perdió su instrumento musical más preciado.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/por-que-perdio-su-voz-la-tragica-caida-de-jose-jose-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/por-que-perdio-su-voz-la-tragica-caida-de-jose-jose-1030.jpg",
-    "fecha": "2026-10-30T07:40:55.525492",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Biografía",
-    "archivo": true
   },
   {
     "tipo": "reportaje",
