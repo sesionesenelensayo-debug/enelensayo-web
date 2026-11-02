@@ -1,5 +1,12 @@
 [
   {
+    "artista": "Adele",
+    "slug": "adele",
+    "imagen": "artistas_img/adele.jpg",
+    "piezas": 1,
+    "updated": "2026-11-02 12:02"
+  },
+  {
     "artista": "Céline Dion",
     "slug": "c-line-dion",
     "imagen": "",

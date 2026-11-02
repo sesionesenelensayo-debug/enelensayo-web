@@ -1,0 +1,16 @@
+{
+  "artista": "Adele",
+  "slug": "adele",
+  "imagen": "artistas_img/adele.jpg",
+  "shorts": [],
+  "longs": [
+    {
+      "titulo": "¿Cómo conquistó al mundo entero? La verdadera historia de la voz del siglo",
+      "url": "https://www.youtube.com/shorts/jR3_OvIe8dE",
+      "fecha": "2026-11-02",
+      "tipo": "long"
+    }
+  ],
+  "tweets": [],
+  "updated": "2026-11-02 12:02"
+}
