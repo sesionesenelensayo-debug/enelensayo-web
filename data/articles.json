@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Mariah Carey da inicio a la Navidad con su clásico video",
+    "artista": "Mariah Carey",
+    "intro": "Mariah Carey ha anunciado de manera oficial el inicio de la temporada navideña con la publicación de su tradicional video anual.",
+    "telegraph_url": "https://telegra.ph/Mariah-Carey-da-inicio-a-la-Navidad-con-su-clásico-video-11-02",
+    "url": "https://enelensayomedia.com/notas/mariah-carey-da-inicio-a-la-navidad-con-su-clasico-video-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/mariah-carey-da-inicio-a-la-navidad-con-su-clasico-video-1102.jpg",
+    "fecha": "2026-11-02T12:24:19.476449",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Daniela Spalla anuncia concierto en el Teatro Metropólitan de la CDMX el 19 de febrero de 2027",
     "artista": "Daniela Spalla",
@@ -2039,20 +2053,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Luis Miguel dona derechos de \"Cielito Lindo\" a Save the Children y canta \"La Bikina\" en gala 20",
-    "artista": "LA MÚSICA MEXICANA SUENA POR LA NIÑEZ EN",
-    "intro": "En el video del canal En el Ensayo Media se relata cómo Luis Miguel, ícono de la música mexicana, participó en una gala benéfica de Save the Children el 10 de diciembre de 2022…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/luis-miguel-dona-derechos-de-cielito-lindo-a-save-the-children-y-canta-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/luis-miguel-dona-derechos-de-cielito-lindo-a-save-the-children-y-canta-1101.jpg",
-    "fecha": "2026-11-01T05:36:16.837565",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
