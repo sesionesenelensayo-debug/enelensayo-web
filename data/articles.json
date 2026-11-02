@@ -1,5 +1,20 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "A 10 años de su partida: la verdad sobre los últimos días de Juan Gabriel",
+    "artista": "Juan Gabriel",
+    "intro": "La producción aborda datos sobre su nacimiento, su exitosa trayectoria musical con millones de discos vendidos y los detalles poco conocidos acerca de su muerte y su último concierto en Los Ángeles.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/a-10-anos-de-su-partida-la-verdad-sobre-los-ultimos-dias-de-juan-gabri-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/a-10-anos-de-su-partida-la-verdad-sobre-los-ultimos-dias-de-juan-gabri-1102.jpg",
+    "fecha": "2026-11-02T11:55:45.252254",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Mía Rubín responde a rumores de ruptura con Tarik Othón",
     "artista": "Mía Rubín",
@@ -3475,20 +3490,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "¿Qué secretos escondió José Sabre Marroquín? La historia que nadie te contó",
-    "artista": "José Sabre Marroquín",
-    "intro": "A 115 años de su nacimiento, la figura de José Sabre Marroquín vuelve a la palestra. Nacido en San Luis Potosí el 8 de diciembre de 1909 y fallecido el 20 de septiembre de 1995, fue un compositor y di",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/que-secretos-escondio-jose-sabre-marroquin-la-historia-que-nadie-te-co-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/que-secretos-escondio-jose-sabre-marroquin-la-historia-que-nadie-te-co-1030.jpg",
-    "fecha": "2026-10-30T13:33:22.291692",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   },
   {
     "tipo": "noticia",
