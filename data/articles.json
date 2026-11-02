@@ -42,6 +42,20 @@
     "categoria": "Biografía"
   },
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Raza Hamidmi al-Wazar regresa en el capítulo 6 de VisionQuest",
+    "artista": "VisionQuest",
+    "intro": "Después de 18 años de ausencia, el villano Raza Hamidmi al-Wazar, interpretado por Faran Tahir…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/raza-hamidmi-al-wazar-regresa-en-el-capitulo-6-de-visionquest-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/raza-hamidmi-al-wazar-regresa-en-el-capitulo-6-de-visionquest-1102.jpg",
+    "fecha": "2026-11-02T09:20:00",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Televisión"
+  },
+  {
     "tipo": "noticia",
     "titulo": "Astrid Hadad brilla en el Festival de Día de Muertos de Zacatecas 2026",
     "artista": "Festival Día de Muertos Zacatecas",
@@ -78,6 +92,20 @@
     "url": "https://enelensayomedia.com/notas/outlander-blood-of-my-blood-replantea-viaje-a-traves-de-las-piedras-1102.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/outlander-blood-of-my-blood-replantea-viaje-a-traves-de-las-piedras-1102.jpg",
     "fecha": "2026-11-02T09:00:45.465926",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Televisión"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Dragon Ball Super: Beerus – Crítica del capítulo 4 y llegada del doblaje latino",
+    "artista": "Dragon Ball Super",
+    "intro": "El episodio 4 de la versión remasterizada “Dragon Ball Super: Beerus” ha sido objeto de una crítica que lo describe como un inicio soso y repetitivo…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/dragon-ball-super-beerus-critica-del-capitulo-4-y-llegada-del-doblaje-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/dragon-ball-super-beerus-critica-del-capitulo-4-y-llegada-del-doblaje-1102.jpg",
+    "fecha": "2026-11-02T08:58:00",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Televisión"
