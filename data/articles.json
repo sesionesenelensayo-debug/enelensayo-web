@@ -1,31 +1,16 @@
 [
   {
-    "tipo": "reportaje",
-    "titulo": "José Eduardo Derbez y Paola Dalay anuncian separación",
-    "artista": "José Eduardo Derbez",
-    "intro": "El actor mexicano José Eduardo Derbez y Paola Dalay confirmaron el 1 de noviembre de 2026 su separación tras siete años de relación.",
-    "telegraph_url": "https://telegra.ph/José-Eduardo-Derbez-y-Paola-Dalay-anuncian-separación-11-01",
-    "url": "https://enelensayomedia.com/notas/jose-eduardo-derbez-y-paola-dalay-anuncian-separacion-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/jose-eduardo-derbez-y-paola-dalay-anuncian-separacion-1101.jpg",
-    "fecha": "2026-11-02T09:04:00.649756",
+    "tipo": "noticia",
+    "titulo": "El cine latino cruza fronteras en Los Ángeles",
+    "artista": "Cine Latino",
+    "intro": "Se reporta que el cine latino está cruzando fronteras en Los Ángeles, un hecho que destaca la expansión de la producción audiovisual hispana en la capital californiana.",
+    "telegraph_url": "https://telegra.ph/El-cine-latino-cruza-fronteras-en-Los-Ángeles-11-02",
+    "url": "https://enelensayomedia.com/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.jpg",
+    "fecha": "2026-11-02T09:01:26.357011",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-01T16:33:20.695886",
-    "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Dragon Ball Super: Beerus – Crítica del capítulo 4 y llegada del doblaje latino",
-    "artista": "Dragon Ball Super",
-    "intro": "El episodio 4 de la versión remasterizada “Dragon Ball Super: Beerus” ha sido objeto de una crítica que lo describe como un inicio soso y repetitivo…",
-    "telegraph_url": "https://telegra.ph/Dragon-Ball-Super-Beerus--Crítica-del-capítulo-4-y-llegada-del-doblaje-latino-11-02",
-    "url": "https://enelensayomedia.com/notas/dragon-ball-super-beerus-critica-del-capitulo-4-y-llegada-del-doblaje-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/dragon-ball-super-beerus-critica-del-capitulo-4-y-llegada-del-doblaje-1102.jpg",
-    "fecha": "2026-11-02T09:01:52.741393",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Televisión"
+    "categoria": "Cine"
   },
   {
     "tipo": "reportaje",
@@ -525,6 +510,21 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "José Eduardo Derbez y Paola Dalay anuncian separación",
+    "artista": "José Eduardo Derbez",
+    "intro": "El actor mexicano José Eduardo Derbez y Paola Dalay confirmaron el 1 de noviembre de 2026 su separación tras siete años de relación.",
+    "telegraph_url": "https://telegra.ph/José-Eduardo-Derbez-y-Paola-Dalay-anuncian-separación-11-01",
+    "url": "https://enelensayomedia.com/notas/jose-eduardo-derbez-y-paola-dalay-anuncian-separacion-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/jose-eduardo-derbez-y-paola-dalay-anuncian-separacion-1101.jpg",
+    "fecha": "2026-11-01T22:27:08.006386",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-01T16:33:20.695886",
+    "actualizada": true
   },
   {
     "tipo": "noticia",
