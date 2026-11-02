@@ -1,5 +1,18 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "CDMX prepara exposición gratuita de Godzilla",
+    "artista": "Takashi Yamazaki",
+    "intro": "La Ciudad de México alista una exposición gratuita de Godzilla. Este evento se organiza con motivo del estreno de la nueva película dirigida por Takashi Yamazaki.",
+    "telegraph_url": "https://telegra.ph/CDMX-prepara-exposición-gratuita-de-Godzilla-11-02",
+    "url": "https://enelensayomedia.com/notas/cdmx-prepara-exposicion-gratuita-de-godzilla-1101.html",
+    "imagen_url": "",
+    "fecha": "2026-11-01T23:16:04.565427",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "EA prepara la tercera entrega de Star Wars Jedi con Cal Kestis",
     "artista": "Cal Kestis",
