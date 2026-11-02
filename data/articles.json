@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "El oscuro secreto y la teoría conspirativa detrás de Abbey Road",
+    "artista": "The Beatles",
+    "intro": "En el video del canal En el Ensayo Media se explica el origen y las consecuencias de la emblemática portada del álbum Abbey Road de The Beatles, publicado el 26 de septiembre de 1969…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-oscuro-secreto-y-la-teoria-conspirativa-detras-de-abbey-road-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-oscuro-secreto-y-la-teoria-conspirativa-detras-de-abbey-road-1101.jpg",
+    "fecha": "2026-11-01T22:48:51.938011",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "El oscuro secreto detrás del nacimiento de Eminem: infancia, fama y ansiedad",
     "artista": "Eminem",
     "intro": "En el video se plantea la trayectoria de Marshall Mathers, desde su nacimiento el 17 de octubre de 1972 en Saint Joseph, Missouri…",
@@ -1932,20 +1946,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El origen de Maná: del estudio en Guadalajara a la conquista global",
-    "artista": "Maná",
-    "intro": "El video de En el Ensayo Media explora el ascenso de Maná, desde sus inicios en Guadalajara hasta su consolidación como la banda de rock en español más exitosa.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/como-surgio-el-sonido-que-conquisto-al-mundo-el-origen-de-mana-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/como-surgio-el-sonido-que-conquisto-al-mundo-el-origen-de-mana-1031.jpg",
-    "fecha": "2026-10-31T16:10:21.911107",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
