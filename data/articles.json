@@ -1,5 +1,35 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "Mía Rubín responde a rumores de ruptura con Tarik Othón",
+    "artista": "Mía Rubín",
+    "intro": "La cantante Mía Rubín ha reaccionado a los rumores de ruptura con Tarik Othón. Según reportes de medios como HOLA y Panorama Web, la artista emitió un comentario sobre la situación, describiéndola com",
+    "telegraph_url": "https://telegra.ph/Mía-Rubín-responde-a-rumores-de-ruptura-con-Tarik-Othón-10-31",
+    "url": "https://enelensayomedia.com/notas/mia-rubin-responde-a-rumores-de-ruptura-con-tarik-othon-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/mia-rubin-responde-a-rumores-de-ruptura-con-tarik-othon-1030.jpg",
+    "fecha": "2026-11-02T11:43:39.368767",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-10-30T19:13:24.987437",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "El oscuro secreto de la infancia de Michael Jackson",
+    "artista": "Michael Jackson",
+    "intro": "En este video del canal En el Ensayo Media se explora la oscura infancia de Michael Jackson, marcada por la pobreza extrema, un padre estricto y diez hermanos en Gary, Indiana…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-oscuro-secreto-de-la-infancia-de-michael-jackson-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-oscuro-secreto-de-la-infancia-de-michael-jackson-1102.jpg",
+    "fecha": "2026-11-02T11:43:25.360016",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
     "opinion": false,
     "tipo": "noticia",
     "titulo": "Judi Dench recuerda el apoyo silencioso de Robin Williams a su esposo",
@@ -2856,21 +2886,6 @@
   },
   {
     "tipo": "reportaje",
-    "titulo": "Mía Rubín responde a rumores de ruptura con Tarik Othón",
-    "artista": "Mía Rubín",
-    "intro": "La cantante Mía Rubín ha reaccionado a los rumores de ruptura con Tarik Othón. Según reportes de medios como HOLA y Panorama Web, la artista emitió un comentario sobre la situación, describiéndola com",
-    "telegraph_url": "https://telegra.ph/Mía-Rubín-responde-a-rumores-de-ruptura-con-Tarik-Othón-10-31",
-    "url": "https://enelensayomedia.com/notas/mia-rubin-responde-a-rumores-de-ruptura-con-tarik-othon-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/mia-rubin-responde-a-rumores-de-ruptura-con-tarik-othon-1030.jpg",
-    "fecha": "2026-10-30T21:14:38.293960",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-10-30T19:13:24.987437",
-    "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
     "titulo": "Mariana Ochoa no ha recibido premio por ganar La Casa de los Famosos México",
     "artista": "Mariana Ochoa",
     "intro": "Según reportes de El Heraldo de México e Infobae, Mariana Ochoa, ganadora de la cuarta temporada de La Casa de los Famosos México en 2026, no ha recibido el premio en dinero correspondiente a su victo",
@@ -3553,20 +3568,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "¿Qué impulsó a Elton John a reinventarse a los 70 años? – El salto que cambió su historia",
-    "artista": "Elton John",
-    "intro": "El nuevo reportaje de En El Ensayo explora la vida de Elton John, desde sus humildes comienzos en Pinner hasta la gira de despedida más grande de su trayectoria. Con testimonios y datos reales, la pie",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/que-impulso-a-elton-john-a-reinventarse-a-los-70-anos-el-salto-que-cam-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/que-impulso-a-elton-john-a-reinventarse-a-los-70-anos-el-salto-que-cam-1030.jpg",
-    "fecha": "2026-10-30T12:16:29.848887",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   },
   {
     "tipo": "noticia",
