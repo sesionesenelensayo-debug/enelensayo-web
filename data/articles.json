@@ -1,6 +1,21 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "José Eduardo Derbez y Paola Dalay anuncian separación",
+    "artista": "José Eduardo Derbez",
+    "intro": "El actor mexicano José Eduardo Derbez y Paola Dalay confirmaron el 1 de noviembre de 2026 su separación tras siete años de relación.",
+    "telegraph_url": "https://telegra.ph/José-Eduardo-Derbez-y-Paola-Dalay-anuncian-separación-11-01",
+    "url": "https://enelensayomedia.com/notas/jose-eduardo-derbez-y-paola-dalay-anuncian-separacion-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/jose-eduardo-derbez-y-paola-dalay-anuncian-separacion-1101.jpg",
+    "fecha": "2026-11-02T14:26:18.841594",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-01T16:33:20.695886",
+    "actualizada": true
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "‘La bola negra’ de Los Javis supera los 35,7 millones de euros en taquilla",
     "artista": "Los Javis",
     "intro": "La película ‘La bola negra’, dirigida por Los Javis, ha batido un nuevo récord al superar los 35,7 millones de euros en taquilla, destronando a ‘Ocho apellidos catalanes’.",
@@ -10,7 +25,7 @@
     "fecha": "2026-11-02T14:13:18.668716",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Cine",
+    "categoria": "Marvel y DCU",
     "fecha_original": "2026-10-31T22:15:48.481824",
     "actualizada": true
   },
@@ -898,21 +913,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "José Eduardo Derbez y Paola Dalay anuncian separación",
-    "artista": "José Eduardo Derbez",
-    "intro": "El actor mexicano José Eduardo Derbez y Paola Dalay confirmaron el 1 de noviembre de 2026 su separación tras siete años de relación.",
-    "telegraph_url": "https://telegra.ph/José-Eduardo-Derbez-y-Paola-Dalay-anuncian-separación-11-01",
-    "url": "https://enelensayomedia.com/notas/jose-eduardo-derbez-y-paola-dalay-anuncian-separacion-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/jose-eduardo-derbez-y-paola-dalay-anuncian-separacion-1101.jpg",
-    "fecha": "2026-11-01T22:27:08.006386",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-01T16:33:20.695886",
-    "actualizada": true
   },
   {
     "tipo": "noticia",
