@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "noticia",
+    "titulo": "KENDALL estrena \"Dopamina\", sencillo promocional de su nuevo EP",
+    "artista": "KENDALL",
+    "intro": "El artista KENDALL ha lanzado \"Dopamina\", el primer sencillo promocional que anuncia su próximo EP.",
+    "telegraph_url": "https://telegra.ph/KENDALL-estrena-Dopamina-sencillo-promocional-de-su-nuevo-EP-11-02",
+    "url": "https://enelensayomedia.com/notas/kendall-estrena-dopamina-sencillo-promocional-de-su-nuevo-ep-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/kendall-estrena-dopamina-sencillo-promocional-de-su-nuevo-ep-1102.jpg",
+    "fecha": "2026-11-02T10:18:00.037276",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Escena local"
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "Clayface y el DCU: los números le quedan grandes a Gunn y Safran",
