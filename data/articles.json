@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "El concierto benéfico de 1985 que enlazó Londres y Filadelfia",
+    "artista": "El concierto de rock que unió al mundo en 1985",
+    "intro": "En el video de En el Ensayo Media se relata cómo el 13 de julio de 1985 se realizó La Dead, un mega concierto simultáneo en el Estadio Wembley de Londres y el John F.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-concierto-benefico-de-1985-que-enlazo-londres-y-filadelfia-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-concierto-benefico-de-1985-que-enlazo-londres-y-filadelfia-1102.jpg",
+    "fecha": "2026-11-02T08:08:46.701963",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Karol G, Maluma y Justin Bieber aparecen con sus mejores disfraces de Halloween",
     "artista": "Karol G",
     "intro": "En la noche de Halloween, los artistas Karol G, Maluma y Justin Bieber fueron observados luciendo sus mejores disfraces, según reportes de varios medios.",
@@ -1935,20 +1949,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Cultura"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "RJ Mitte: su última visita a Albuquerque",
-    "artista": "RJ Mitte",
-    "intro": "El actor estadounidense y activista RJ Mitte falleció el 12 de octubre de 2026 a los 34 años en Brownsville, Texas.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/rj-mitte-su-ultima-visita-a-albuquerque-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/rj-mitte-su-ultima-visita-a-albuquerque-1031.jpg",
-    "fecha": "2026-10-31T22:22:16.471291",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "noticia",
