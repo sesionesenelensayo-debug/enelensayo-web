@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "El misterioso y silencioso adiós de Ann Reinking, leyenda de Broadway",
+    "artista": "El misterioso y silencioso adiós de una leyenda",
+    "intro": "En el video del canal En el Ensayo Media se relata la vida y muerte de Ann Reinking, destacada estrella de Broadway.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-misterioso-y-silencioso-adios-de-ann-reinking-leyenda-de-broadway-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-misterioso-y-silencioso-adios-de-ann-reinking-leyenda-de-broadway-1102.jpg",
+    "fecha": "2026-11-02T10:37:43.668255",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Daniela Arias conquista el oro en EA FC 26 y vuelve a la escena tras ser madre",
     "artista": "Madre retornada y medalla de oro en Juegos Suramericanos 2026",
     "intro": "La jugadora argentina, única mujer en la delegación, ganó la medalla de oro en Santa Fe 2026 tras retomar el entrenamiento un mes y medio antes de la final.",
@@ -3507,20 +3522,6 @@
     "views": 0,
     "nota_dia": true,
     "categoria": "Internacional"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El trágico secreto de Joey Ramone ¿Por qué guardó silencio durante veinte años?",
-    "artista": "Joey Ramone",
-    "intro": "Jeffrey Ross Hyman, mejor conocido como Joey Ramone, nació el 19 de mayo de 1951 en el barrio de Forest Hills, Queens, Nueva York. Su historia, marcada por una infancia inestable y una carrera que def",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-tragico-secreto-de-joey-ramone-por-que-guardo-silencio-durante-vein-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-tragico-secreto-de-joey-ramone-por-que-guardo-silencio-durante-vein-1030.jpg",
-    "fecha": "2026-10-30T11:48:17.943173",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   },
   {
     "tipo": "reportaje",
