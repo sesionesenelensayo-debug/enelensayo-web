@@ -1,6 +1,21 @@
 [
   {
     "tipo": "noticia",
+    "titulo": "Carola Martínez asiste al Gran Premio de México 2026 con vestido rojo",
+    "artista": "Carola Martínez",
+    "intro": "Carola Martínez, esposa del piloto mexicano Checo Pérez, llegó al Gran Premio de México 2026 luciendo un llamativo vestido rojo.",
+    "telegraph_url": "https://telegra.ph/Carola-Martínez-asiste-al-Gran-Premio-de-México-2026-con-vestido-rojo-11-01",
+    "url": "https://enelensayomedia.com/notas/carola-martinez-asiste-al-gran-premio-de-mexico-2026-con-vestido-rojo-1101.html",
+    "imagen_url": "",
+    "fecha": "2026-11-02T07:18:16.496184",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-01T08:03:00.262719",
+    "actualizada": true
+  },
+  {
+    "tipo": "noticia",
     "titulo": "Carlos Santana y Natalia Lafourcade unen voces en 'Hermano'",
     "artista": "Carlos Santana y Natalia Lafourcade",
     "intro": "Carlos Santana y Natalia Lafourcade se han unido para colaborar en el tema titulado 'Hermano'.",
@@ -387,21 +402,6 @@
     "views": 0,
     "categoria": "Chisme",
     "fecha_original": "2026-11-01T16:33:20.695886",
-    "actualizada": true
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Carola Martínez asiste al Gran Premio de México 2026 con vestido rojo",
-    "artista": "Carola Martínez",
-    "intro": "Carola Martínez, esposa del piloto mexicano Checo Pérez, llegó al Gran Premio de México 2026 luciendo un llamativo vestido rojo.",
-    "telegraph_url": "https://telegra.ph/Carola-Martínez-asiste-al-Gran-Premio-de-México-2026-con-vestido-rojo-11-01",
-    "url": "https://enelensayomedia.com/notas/carola-martinez-asiste-al-gran-premio-de-mexico-2026-con-vestido-rojo-1101.html",
-    "imagen_url": "",
-    "fecha": "2026-11-01T22:26:12.987490",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-01T08:03:00.262719",
     "actualizada": true
   },
   {
