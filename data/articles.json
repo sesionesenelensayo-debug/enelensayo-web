@@ -1,6 +1,20 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Juan Gabriel: De recluso a leyenda musical mexicana",
+    "artista": "Juan Gabriel",
+    "intro": "El canal En el Ensayo Media presenta la historia de Juan Gabriel, desde su infancia marcada por la adversidad hasta su consagración como ícono musical.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/juan-gabriel-de-recluso-a-leyenda-musical-mexicana-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/juan-gabriel-de-recluso-a-leyenda-musical-mexicana-1102.jpg",
+    "fecha": "2026-11-02T04:19:34.725356",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "El último concierto y la muerte de Kurt Cobain",
     "artista": "Kurt Cobain",
     "intro": "El video de En el Ensayo Media relata la vida y fallecimiento de Kurt Cobain, líder de Nirvana.",
@@ -3521,20 +3535,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "¿Qué pasó con Héctor Lavoe tras el concierto cancelado? La voz y el balcón",
-    "artista": "Héctor Lavoe",
-    "intro": "El 5 de junio de 1988 se programó un concierto de Héctor Lavoe en el Coliseo Rubén Rodríguez de Bayamón, Puerto Rico, pero el productor lo canceló tres horas antes por la escasa venta de boletos. Las ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/que-paso-con-hector-lavoe-tras-el-concierto-cancelado-la-voz-y-el-balc-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/que-paso-con-hector-lavoe-tras-el-concierto-cancelado-la-voz-y-el-balc-1030.jpg",
-    "fecha": "2026-10-30T05:41:22.142827",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Biografía",
     "archivo": true
   },
   {
