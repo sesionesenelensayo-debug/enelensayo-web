@@ -1,5 +1,20 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "5 curiosidades de Nelly",
+    "artista": "Nelly",
+    "intro": "El canal En el Ensayo Media presenta un video de un minuto que detalla cinco curiosidades sobre la vida y carrera de Nelly.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-nelly-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-nelly-1102.jpg",
+    "fecha": "2026-11-02T20:36:18.219681",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Datos curiosos"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Mariana Ochoa no ha recibido premio por ganar La Casa de los Famosos México",
     "artista": "Mariana Ochoa",
@@ -2006,20 +2021,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme internacional"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "La historia detrás del último concierto en vivo de The Beatles",
-    "artista": "THE BEATLES",
-    "intro": "El contenido explica los motivos detrás de su decisión de abandonar las giras para concentrarse de manera definitiva en el trabajo de estudio.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-historia-detras-del-ultimo-concierto-en-vivo-de-the-beatles-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-historia-detras-del-ultimo-concierto-en-vivo-de-the-beatles-1101.jpg",
-    "fecha": "2026-11-01T10:29:18.743607",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
