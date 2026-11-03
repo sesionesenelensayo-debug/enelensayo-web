@@ -1,0 +1,84 @@
+{
+ "actualizado": "2026-11-03",
+ "foros": [
+  {
+   "nombre": "Multiforo Cultural Alicia",
+   "ciudad": "Ciudad de México",
+   "estado": "Ciudad de México",
+   "zona": "Santa María la Ribera",
+   "lat": 19.453,
+   "lon": -99.1577,
+   "genero": "Punk, ska, rock y contracultura"
+  },
+  {
+   "nombre": "Foro Cultural Hilvana",
+   "ciudad": "Ciudad de México",
+   "estado": "Ciudad de México",
+   "zona": "Buenavista",
+   "lat": 19.4382,
+   "lon": -99.1498,
+   "genero": "Música alternativa y propuestas emergentes"
+  },
+  {
+   "nombre": "Bajo Circuito Multiforo Urbano",
+   "ciudad": "Ciudad de México",
+   "estado": "Ciudad de México",
+   "zona": "Condesa",
+   "lat": 19.4162,
+   "lon": -99.1794,
+   "genero": "Rock, electrónica y música alternativa"
+  },
+  {
+   "nombre": "Foro Indie Rocks!",
+   "ciudad": "Ciudad de México",
+   "estado": "Ciudad de México",
+   "genero": "Indie, alternativo y propuestas internacionales"
+  },
+  {
+   "nombre": "Multiforo 246",
+   "ciudad": "Ciudad de México",
+   "estado": "Ciudad de México",
+   "genero": "Conciertos independientes"
+  },
+  {
+   "nombre": "316centro",
+   "ciudad": "Ciudad de México",
+   "estado": "Ciudad de México",
+   "genero": "Proyectos experimentales y underground"
+  },
+  {
+   "nombre": "Foro Bizarro",
+   "ciudad": "Ciudad de México",
+   "estado": "Ciudad de México",
+   "genero": "Escena alternativa"
+  },
+  {
+   "nombre": "Central Bélgica",
+   "ciudad": "Naucalpan",
+   "estado": "Estado de México",
+   "genero": "Bandas emergentes y showcases"
+  }
+ ],
+ "agendas": [
+  {
+   "nombre": "Indie Rocks! — agenda",
+   "url": "https://indierocks.mx/",
+   "desc": "Rock alternativo, indie y música emergente, por fechas y recintos"
+  },
+  {
+   "nombre": "Mudisc",
+   "url": "https://mudisc.com/",
+   "desc": "Música en vivo: bandas locales, indie y underground, con filtros por ciudad"
+  },
+  {
+   "nombre": "Songkick",
+   "url": "https://www.songkick.com/",
+   "desc": "Sigue bandas y recibe avisos cuando anuncien conciertos en tu ciudad"
+  },
+  {
+   "nombre": "Bizarro FM",
+   "url": "https://bizarro.fm/",
+   "desc": "Agenda de conciertos en más de 50 recintos"
+  }
+ ]
+}

@@ -11,10 +11,13 @@
 .cx-btn.sec{background:transparent;color:inherit;border:1px solid rgba(255,255,255,.3)}
 .cx-barra{display:flex;gap:10px;flex-wrap:wrap;margin-bottom:12px}
 .cx-barra input,.cx-barra select{flex:1 1 200px;min-width:0;padding:10px 14px;border-radius:12px;border:1px solid rgba(255,255,255,.2);background:rgba(255,255,255,.06);color:inherit;font:inherit}
-#cxMapa{height:460px;border-radius:16px;border:1px solid rgba(255,255,255,.12);margin-bottom:18px;z-index:0}
+.cx-gr{display:grid;grid-template-columns:minmax(0,2fr) minmax(240px,1fr);gap:18px;margin-bottom:8px}@media(max-width:800px){.cx-gr{grid-template-columns:1fr}}
+#cxSvg{width:100%;height:auto;display:block}#cxSvg path{stroke:#0b0812;stroke-width:.6;cursor:pointer;transition:fill .35s}#cxSvg path:hover,#cxSvg path.on{stroke:#ffe53b;stroke-width:1.6}
+#cxSvg circle{stroke:#0b0812;stroke-width:1.2;cursor:pointer}
+.cx-tip{min-height:62px;background:#150f24;border:1px solid rgba(255,255,255,.12);border-radius:12px;padding:10px 14px;margin:0 0 8px}.cx-tip b{color:#ffe53b;font-size:18px;display:block}
+.cx-rk{max-height:520px;overflow:auto;font-size:15px}.cx-rk div{display:flex;justify-content:space-between;gap:8px;padding:7px 4px;border-bottom:1px solid rgba(255,255,255,.1);cursor:pointer}.cx-rk div.on{background:rgba(255,229,59,.12)}.cx-rk div span:last-child{font-weight:800;white-space:nowrap}
+.cx-leyenda{font-size:13px;opacity:.75;margin:8px 0}.cx-leyenda i{display:inline-block;width:10px;height:10px;border-radius:50%;margin:0 4px 0 10px;vertical-align:baseline}.d1{background:#ffe53b}.d2{background:#8b7bff}.d3{background:#fff;border:2px solid #8b7bff}
 .cx-lista{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:12px}
-.cx-ev{border:1px solid rgba(255,255,255,.12);border-radius:14px;padding:14px;background:rgba(255,255,255,.04);cursor:pointer}
-.cx-ev b{display:block;font-size:17px}.cx-ev span{display:block;opacity:.75;font-size:14px;margin-top:2px}
+.cx-ev{border:1px solid rgba(255,255,255,.12);border-radius:14px;padding:14px;background:rgba(255,255,255,.04)}
+.cx-ev b{display:block;font-size:17px}.cx-ev span{display:block;opacity:.75;font-size:14px;margin-top:2px}.cx-ev .cx-btn{margin-top:8px;opacity:1}
 .cx-vacio{opacity:.75;padding:12px 0}
-.leaflet-popup-content{color:#0b0812;font-family:Manrope,sans-serif}.leaflet-popup-content a{color:#4b3fd1;font-weight:800}
-@media(max-width:600px){#cxMapa{height:340px}}
