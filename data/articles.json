@@ -1,5 +1,34 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "Outlander: Blood of My Blood replantea viaje a través de las piedras",
+    "artista": "Outlander: Blood of My Blood",
+    "intro": "La serie Outlander: Blood of My Blood ha anunciado que replanteará uno de sus viajes a través de las piedras, un elemento central de la trama que conecta los destinos de los personajes.",
+    "telegraph_url": "https://telegra.ph/Outlander-Blood-of-My-Blood-replantea-viaje-a-través-de-las-piedras-11-02",
+    "url": "https://enelensayomedia.com/notas/outlander-blood-of-my-blood-replantea-viaje-a-traves-de-las-piedras-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/outlander-blood-of-my-blood-replantea-viaje-a-traves-de-las-piedras-1102.jpg",
+    "fecha": "2026-11-03T11:18:56.342452",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Televisión",
+    "fecha_original": "2026-11-02T09:00:45.465926",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "No Man’s Sky llega a iPhone y iPad el 28 de octubre de 2026",
+    "artista": "No Man’s Sky",
+    "intro": "Hello Games anunció que la versión móvil de No Man’s Sky se lanzará el 28 de octubre 2026 para iPhone y iPad, diez años después de su polémico debut en 2016.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/no-mans-sky-llega-a-iphone-y-ipad-el-28-de-octubre-de-2026-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/no-mans-sky-llega-a-iphone-y-ipad-el-28-de-octubre-de-2026-1103.jpg",
+    "fecha": "2026-11-03T11:18:34.441995",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
     "opinion": false,
     "tipo": "noticia",
     "titulo": "El Charro Negro lidera la taquilla mexicana con 52.6 millones",
@@ -1002,19 +1031,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Outlander: Blood of My Blood replantea viaje a través de las piedras",
-    "artista": "Outlander: Blood of My Blood",
-    "intro": "La serie Outlander: Blood of My Blood ha anunciado que replanteará uno de sus viajes a través de las piedras, un elemento central de la trama que conecta los destinos de los personajes.",
-    "telegraph_url": "https://telegra.ph/Outlander-Blood-of-My-Blood-replantea-viaje-a-través-de-las-piedras-11-02",
-    "url": "https://enelensayomedia.com/notas/outlander-blood-of-my-blood-replantea-viaje-a-traves-de-las-piedras-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/outlander-blood-of-my-blood-replantea-viaje-a-traves-de-las-piedras-1102.jpg",
-    "fecha": "2026-11-02T09:00:45.465926",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Televisión"
   },
   {
     "opinion": false,
