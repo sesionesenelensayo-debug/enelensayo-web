@@ -1,5 +1,21 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Fallece Nicole Taylor, vocalista de Taylor Red, a los 35 años por cáncer de mama",
+    "artista": "Nicole Taylor",
+    "intro": "La cantante Nicole Taylor, principal voz del trío country Taylor Red, murió a los 35 años tras una lucha contra un cáncer agresivo de mama.",
+    "telegraph_url": "https://telegra.ph/Fallece-Nicole-Taylor-vocalista-de-Taylor-Red-a-los-35-años-por-cáncer-de-mama-11-03",
+    "url": "https://enelensayomedia.com/notas/fallece-nicole-taylor-vocalista-de-taylor-red-a-los-35-anos-por-cancer-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-nicole-taylor-vocalista-de-taylor-red-a-los-35-anos-por-cancer-1103.jpg",
+    "fecha": "2026-11-03T12:44:31.674564",
+    "author": "Oliver Ken",
+    "views": 0,
+    "nota_dia": true,
+    "ultima_hora": true,
+    "categoria": "In memoriam"
+  },
+  {
     "tipo": "noticia",
     "titulo": "Billie Eilish y Phoebe Bridgers aparecen en el corto ‘Prelude To The End’ de My Chemical Romance",
     "artista": "Billie Eilish, Phoebe Bridgers y My Chemical Romance",
@@ -2123,19 +2139,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Sound Music Fest presenta la edición 'Golden Years' con Christina Aguilera y otros artistas",
-    "artista": "Sound Music Fest",
-    "intro": "Sound Music Fest ha revelado su próxima edición, denominada 'Golden Years', que se llevará a cabo el 21 de noviembre en el Estadio Nacional.",
-    "telegraph_url": "https://telegra.ph/Sound-Music-Fest-presenta-la-edición-Golden-Years-con-Christina-Aguilera-y-otros-artistas-11-01",
-    "url": "https://enelensayomedia.com/notas/sound-music-fest-presenta-la-edicion-golden-years-con-christina-aguile-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/sound-music-fest-presenta-la-edicion-golden-years-con-christina-aguile-1101.jpg",
-    "fecha": "2026-11-01T13:57:38.828484",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   },
   {
     "tipo": "noticia",
