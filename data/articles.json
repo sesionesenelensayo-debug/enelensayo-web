@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Feid lanza “Paradixe Remix” con Omar Courtz, Myke Towers y más",
+    "artista": "Feid",
+    "intro": "El cantante colombiano Feid ha presentado “Paradixe Remix”, una nueva versión del tema que incorpora a los artistas urbanos Omar Courtz, Myke Towers, El Americano 4KT y Pirlo.",
+    "telegraph_url": "https://telegra.ph/Feid-lanza-Paradixe-Remix-con-Omar-Courtz-Myke-Towers-y-más-11-03",
+    "url": "https://enelensayomedia.com/notas/feid-lanza-paradixe-remix-con-omar-courtz-myke-towers-y-mas-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/feid-lanza-paradixe-remix-con-omar-courtz-myke-towers-y-mas-1103.jpg",
+    "fecha": "2026-11-03T09:17:47.839306",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "José Eduardo Derbez y Paola Dalay anuncian separación",
     "artista": "José Eduardo Derbez",
@@ -2042,20 +2056,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El éxito inesperado de Guns N' Roses",
-    "artista": "Guns N' Roses",
-    "intro": "En el video del canal En el Ensayo Media se aborda el inesperado éxito de la icónica banda de rock Guns N' Roses, formada en 1985 en Los Ángeles, California.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-exito-inesperado-de-guns-n-roses-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-exito-inesperado-de-guns-n-roses-1101.jpg",
-    "fecha": "2026-11-01T11:38:02.556549",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
