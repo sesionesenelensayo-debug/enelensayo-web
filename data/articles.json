@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Thief: The Dark Project Remastered ya tiene fecha de estreno",
+    "artista": "Thief: The Dark Project Remastered",
+    "intro": "Thief: The Dark Project Remastered llegará a consolas y PC el próximo 3 de diciembre. El lanzamiento incluirá una campaña nueva, según se ha reportado recientemente.",
+    "telegraph_url": "https://telegra.ph/Thief-The-Dark-Project-Remastered-ya-tiene-fecha-de-estreno-11-03",
+    "url": "https://enelensayomedia.com/notas/thief-the-dark-project-remastered-ya-tiene-fecha-de-estreno-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/thief-the-dark-project-remastered-ya-tiene-fecha-de-estreno-1103.jpg",
+    "fecha": "2026-11-03T14:09:47.386773",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "El Ratón Vaquero cumple 90 años de historia",
     "artista": "Cri-Cri",
