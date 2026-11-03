@@ -28,7 +28,8 @@
   }).catch(function () { });
 
   // ── Conciertos locales: mapa SVG por estados ──
-  var geo, items = [], foros = [], sel = '', paths = {}, svg = document.getElementById('cxSvg');
+  var geo, items = [], foros = [], sel = '', paths = {}, svg = document.getElementById('cxSvg'), vista = 'zm';
+  var ZM = { lon0: -99.45, lon1: -98.8, lat0: 19.12, lat1: 19.78 };   // zona metropolitana del Valle de México
   var capa = document.getElementById('cxCapa'), buscar = document.getElementById('cxBuscar'), tip = document.getElementById('cxTip'), rk = document.getElementById('cxRk'), lista = document.getElementById('cxLista');
   var clave = function (estado) { var n = norm(estado); return ALIAS[n] || (geo.estados.filter(function (e) { return norm(e.n) === n || norm(e.k) === n; })[0] || {}).k || estado; };
   var proy = function (lon, lat) { return [(lon - geo.lon0) * geo.kx, (geo.lat1 - lat) * geo.ky]; };
@@ -41,15 +42,22 @@
     l.forEach(function (e) { e._k = clave(e.estado); });
     return l.filter(function (e) { return !q || norm(e.banda + ' ' + e.ciudad + ' ' + (e.genero || '') + ' ' + (e.recinto || '')).indexOf(q) >= 0; });
   }
+  function aplicarVista() {
+    if (vista === 'zm') { var a = proy(ZM.lon0, ZM.lat1), b = proy(ZM.lon1, ZM.lat0); svg.setAttribute('viewBox', a[0] + ' ' + a[1] + ' ' + (b[0] - a[0]) + ' ' + (b[1] - a[1])); }
+    else svg.setAttribute('viewBox', '0 0 ' + geo.w + ' ' + geo.h);
+    svg.classList.toggle('zm', vista === 'zm');
+    var bz = document.getElementById('cxZm'); if (bz) { bz.textContent = vista === 'zm' ? '🇲🇽 Ver todo México' : '🔎 Zona metropolitana'; }
+  }
   function dibujar() {
+    aplicarVista();
     var l = datos(), cuenta = {}, max = 0;
     l.forEach(function (e) { cuenta[e._k] = (cuenta[e._k] || 0) + 1; max = Math.max(max, cuenta[e._k]); });
     geo.estados.forEach(function (e) { var n = cuenta[e.k] || 0; paths[e.k].style.fill = n ? rampa(.25 + .75 * n / (max || 1)) : '#1b1430'; paths[e.k].classList.toggle('on', e.k === sel); });
     Array.prototype.slice.call(svg.querySelectorAll('circle')).forEach(function (c) { c.remove(); });
     l.forEach(function (e, i) {
       if (typeof e.lat !== 'number') return;
-      var p = proy(e.lon, e.lat), c = document.createElementNS(NS, 'circle'), j = ((i * 37) % 7 - 3) * 1.4;
-      c.setAttribute('cx', p[0] + j); c.setAttribute('cy', p[1] + (((i * 53) % 7) - 3) * 1.4); c.setAttribute('r', e.tipo === 'show' ? 5 : 4);
+      var k = vista === 'zm' ? .22 : 1, p = proy(e.lon, e.lat), c = document.createElementNS(NS, 'circle'), j = ((i * 37) % 7 - 3) * 1.4 * k;
+      c.setAttribute('cx', p[0] + j); c.setAttribute('cy', p[1] + (((i * 53) % 7) - 3) * 1.4 * k); c.setAttribute('r', (e.tipo === 'show' ? 5 : 4) * (vista === 'zm' ? .45 : 1)); c.setAttribute('vector-effect', 'non-scaling-stroke');
       c.setAttribute('fill', e.tipo === 'show' ? '#ffe53b' : e.tipo === 'banda' ? '#8b7bff' : '#fff');
       if (e.tipo === 'foro') { c.setAttribute('stroke', '#8b7bff'); c.setAttribute('stroke-width', 2); }
       c.addEventListener('mouseenter', function () { tip.innerHTML = '<b>' + esc(e.banda) + '</b>' + esc(e.ciudad) + (e.tipo === 'show' ? ' · ' + esc(fmtFecha(e.fecha)) : ''); });
@@ -74,7 +82,6 @@
     if (!svg) return;
     Promise.all([get('data/mx_paths.json'), get('data/conciertos_locales.json').catch(function () { return { eventos: [] }; }), get('data/foros.json').catch(function () { return { foros: [], agendas: [] }; })]).then(function (r) {
       geo = r[0]; items = r[1].eventos || []; foros = r[2].foros || [];
-      svg.setAttribute('viewBox', '0 0 ' + geo.w + ' ' + geo.h);
       geo.estados.forEach(function (e) {
         var p = document.createElementNS(NS, 'path'); p.setAttribute('d', e.d); p.setAttribute('role', 'button'); p.setAttribute('aria-label', e.n);
         p.addEventListener('mouseenter', function () { var n = datos().filter(function (x) { return x._k === e.k; }).length; tip.innerHTML = '<b>' + esc(e.n) + '</b>' + n + (n === 1 ? ' registro' : ' registros'); });
@@ -85,6 +92,7 @@
       if (ag) ag.innerHTML = (r[2].agendas || []).map(function (a) { return '<a class="sx-chip" href="' + esc(a.url) + '" target="_blank" rel="noopener nofollow"><b>' + esc(a.nombre) + '</b><small> ' + esc(a.desc) + '</small></a>'; }).join('');
       capa.addEventListener('input', function () { sel = ''; dibujar(); }); buscar.addEventListener('input', dibujar);
       document.getElementById('cxTodos').addEventListener('click', function () { sel = ''; buscar.value = ''; dibujar(); });
+      var bz = document.getElementById('cxZm'); if (bz) bz.addEventListener('click', function () { vista = vista === 'zm' ? 'mx' : 'zm'; dibujar(); });
       dibujar();
     }).catch(function () { tip.innerHTML = '<b>Mapa no disponible</b>Intenta de nuevo en unos minutos.'; });
   }

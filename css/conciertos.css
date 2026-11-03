@@ -21,3 +21,5 @@
 .cx-ev{border:1px solid rgba(255,255,255,.12);border-radius:14px;padding:14px;background:rgba(255,255,255,.04)}
 .cx-ev b{display:block;font-size:17px}.cx-ev span{display:block;opacity:.75;font-size:14px;margin-top:2px}.cx-ev .cx-btn{margin-top:8px;opacity:1}
 .cx-vacio{opacity:.75;padding:12px 0}
+
+#cxSvg.zm path{stroke-width:.35}#cxSvg.zm{max-height:620px}
