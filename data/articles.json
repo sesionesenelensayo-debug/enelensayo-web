@@ -1,5 +1,21 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "Clayface y el DCU: los números le quedan grandes a Gunn y Safran",
+    "artista": "Clayface y el DCU",
+    "intro": "Clayface abrió en el primer lugar de la taquilla de Estados Unidos y aun así es una mala noticia para DC Studios…",
+    "telegraph_url": "https://telegra.ph/Clayface-y-el-DCU-los-números-le-quedan-grandes-a-Gunn-y-Safran-11-02-2",
+    "url": "https://enelensayomedia.com/notas/clayface-y-el-dcu-los-numeros-le-quedan-grandes-a-gunn-y-safran-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/clayface-y-el-dcu-los-numeros-le-quedan-grandes-a-gunn-y-safran-1102.jpg",
+    "fecha": "2026-11-03T16:26:12.330897",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU",
+    "fecha_original": "2026-11-02T09:43:51.603932",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "El Ratón Vaquero cumple 90 años de historia",
@@ -45,20 +61,6 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-03T09:41:45.973715",
     "actualizada": true
-  },
-  {
-    "opinion": true,
-    "tipo": "noticia",
-    "titulo": "Clayface arrasa en taquilla: más de 82 millones de dólares",
-    "artista": "Clayface",
-    "intro": "La película 'Clayface' se consolida en la cima de la taquilla mundial tras acumular más de 82 millones de dólares en tan solo dos fines de semana en cartelera.",
-    "telegraph_url": "https://telegra.ph/Clayface-arrasa-en-taquilla-más-de-82-millones-de-dólares-11-03",
-    "url": "https://enelensayomedia.com/notas/clayface-arrasa-en-taquilla-mas-de-82-millones-de-dolares-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/clayface-arrasa-en-taquilla-mas-de-82-millones-de-dolares-1103.jpg",
-    "fecha": "2026-11-03T14:46:38.096003",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU"
   },
   {
     "opinion": false,
@@ -1338,20 +1340,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Escena local"
-  },
-  {
-    "opinion": true,
-    "tipo": "reportaje",
-    "titulo": "Clayface y el DCU: los números le quedan grandes a Gunn y Safran",
-    "artista": "Clayface y el DCU",
-    "intro": "Clayface abrió en el primer lugar de la taquilla de Estados Unidos y aun así es una mala noticia para DC Studios…",
-    "telegraph_url": "https://telegra.ph/Clayface-y-el-DCU-los-números-le-quedan-grandes-a-Gunn-y-Safran-11-02-2",
-    "url": "https://enelensayomedia.com/notas/clayface-y-el-dcu-los-numeros-le-quedan-grandes-a-gunn-y-safran-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/clayface-y-el-dcu-los-numeros-le-quedan-grandes-a-gunn-y-safran-1102.jpg",
-    "fecha": "2026-11-02T09:43:51.603932",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU"
   },
   {
     "opinion": false,
