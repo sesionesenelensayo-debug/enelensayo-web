@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-02 14:53",
+ "actualizado": "2026-11-02 21:01",
  "campeones": {
   "WWE": [
    {
@@ -18,10 +18,10 @@
    },
    {
     "titulo": "WWE Intercontinental Championship",
-    "campeon": "Chad Gable",
-    "img": "img/luchas/w-chad-gable.jpg",
-    "credito": "Foto: Noon Plastic · CC BY 4.0 · Wikimedia Commons",
-    "credito_url": "https://commons.wikimedia.org/wiki/File:WWE_Live_Road_To_WrestleMania,_Toronto,_2022_90_(cropped).jpg"
+    "campeon": "Ethan Page",
+    "img": "img/luchas/w-ethan-page.jpg",
+    "credito": "Foto: Brandon Oliver · CC BY 2.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:Ethan_Page_Josh_Alexander_celebrating_Impact_Tag_Team_Championship_win_(cropped).jpg"
    },
    {
     "titulo": "WWE Women's Intercontinental Championship",
