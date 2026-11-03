@@ -1,6 +1,34 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Pitbull anuncia gira 'I'm Back' en México para febrero de 2027",
+    "artista": "Pitbull",
+    "intro": "El artista ofrecerá tres conciertos en la Ciudad de México, Guadalajara y Monterrey, con preventas iniciando en octubre de 2026.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/pitbull-anuncia-gira-i-m-back-en-mexico-para-febrero-de-2027-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/pitbull-anuncia-gira-i-m-back-en-mexico-para-febrero-de-2027-1103.jpg",
+    "fecha": "2026-11-03T14:25:14.994583",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
+    "opinion": false,
+    "tipo": "noticia",
+    "titulo": "David Guetta confirma concierto en CDMX para 2027",
+    "artista": "David Guetta",
+    "intro": "El DJ francés David Guetta se presentará en la Ciudad de México con su gira internacional The Monolith Tour.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/david-guetta-confirma-concierto-en-cdmx-para-2027-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/david-guetta-confirma-concierto-en-cdmx-para-2027-1103.jpg",
+    "fecha": "2026-11-03T14:24:35.094753",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Las 10 grandes decepciones de 2026 en el cine según la crítica",
     "artista": "las 10 grandes decepciones de 2026 según la crítica (peor calificadas con más expectativa)",
