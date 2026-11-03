@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "Sergio Arévalo, estilista de Thalía y María José, detenido por ICE en Texas",
+    "artista": "Sergio Arévalo",
+    "intro": "El maquillista guatemalteco Sergio Arévalo, conocido por trabajar con figuras como Thalía y María José, habría sido detenido por el Servicio de Inmigración y Control de Aduanas (ICE) en Texas.",
+    "telegraph_url": "https://telegra.ph/Sergio-Arévalo-estilista-de-Thalía-y-María-José-detenido-por-ICE-en-Texas-11-01",
+    "url": "https://enelensayomedia.com/notas/sergio-arevalo-estilista-de-thalia-y-maria-jose-detenido-por-ice-en-te-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/sergio-arevalo-estilista-de-thalia-y-maria-jose-detenido-por-ice-en-te-1101.jpg",
+    "fecha": "2026-11-03T15:14:57.036025",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-11-01T09:00:29.562099",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "GTA VI y Ocarina of Time Remake lideran los lanzamientos de noviembre 2026",
@@ -1444,21 +1459,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Sergio Arévalo, estilista de Thalía y María José, detenido por ICE en Texas",
-    "artista": "Sergio Arévalo",
-    "intro": "El maquillista guatemalteco Sergio Arévalo, conocido por trabajar con figuras como Thalía y María José, habría sido detenido por el Servicio de Inmigración y Control de Aduanas (ICE) en Texas.",
-    "telegraph_url": "https://telegra.ph/Sergio-Arévalo-estilista-de-Thalía-y-María-José-detenido-por-ICE-en-Texas-11-01",
-    "url": "https://enelensayomedia.com/notas/sergio-arevalo-estilista-de-thalia-y-maria-jose-detenido-por-ice-en-te-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/sergio-arevalo-estilista-de-thalia-y-maria-jose-detenido-por-ice-en-te-1101.jpg",
-    "fecha": "2026-11-02T07:52:37.220995",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-01T09:00:29.562099",
-    "actualizada": true
   },
   {
     "tipo": "reportaje",
