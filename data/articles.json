@@ -1,5 +1,20 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Arturo de Córdova, a 53 años de su fallecimiento",
+    "artista": "Arturo de Córdova",
+    "intro": "Se recuerda a Arturo de Córdova, actor icónico del cine mexicano, a 53 años de su muerte.",
+    "telegraph_url": "https://telegra.ph/Arturo-de-Córdova-a-53-años-de-su-fallecimiento-11-03",
+    "url": "https://enelensayomedia.com/notas/arturo-de-cordova-a-53-anos-de-su-fallecimiento-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/arturo-de-cordova-a-53-anos-de-su-fallecimiento-1103.jpg",
+    "fecha": "2026-11-03T12:02:57.513379",
+    "author": "Oliver Ken",
+    "views": 0,
+    "nota_dia": true,
+    "categoria": "Reportaje"
+  },
+  {
     "tipo": "noticia",
     "titulo": "Festival Internacional del Globo 2026 revela su canción oficial",
     "artista": "Festival Internacional del Globo",
