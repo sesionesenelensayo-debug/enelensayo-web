@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Esperan 200 mil asistentes al próximo concierto de Los Tigres del Norte",
+    "artista": "Los Tigres del Norte",
+    "intro": "Se reporta una expectativa de 200 mil asistentes para el próximo concierto de Los Tigres del Norte, cifra que dimensiona la vigencia masiva de la agrupación sinaloense.",
+    "telegraph_url": "https://telegra.ph/Esperan-200-mil-asistentes-al-próximo-concierto-de-Los-Tigres-del-Norte-11-03",
+    "url": "https://enelensayomedia.com/notas/esperan-200-mil-asistentes-al-proximo-concierto-de-los-tigres-del-nort-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/esperan-200-mil-asistentes-al-proximo-concierto-de-los-tigres-del-nort-1102.jpg",
+    "fecha": "2026-11-02T18:37:15.418291",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "David Guetta anuncia concierto en la CDMX para el 8 de mayo de 2027",
     "artista": "David Guetta",
@@ -2072,19 +2086,6 @@
     "categoria": "Cultura",
     "fecha_original": "2026-11-01T07:08:39.958614",
     "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Santa Sabina regresa y anuncia nueva música",
-    "artista": "Santa Sabina",
-    "intro": "La banda mexicana de rock gótico Santa Sabina ha anunciado su regreso y la preparación de nuevo material.",
-    "telegraph_url": "https://telegra.ph/Santa-Sabina-regresa-y-anuncia-nueva-música-11-01",
-    "url": "https://enelensayomedia.com/notas/santa-sabina-regresa-y-anuncia-nueva-musica-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/santa-sabina-regresa-y-anuncia-nueva-musica-1101.jpg",
-    "fecha": "2026-11-01T08:37:05.728281",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
