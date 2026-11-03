@@ -1,6 +1,21 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Román Bravo-Young gana histórica medalla de plata para México en Mundial de Lucha",
+    "artista": "Román Bravo-Young",
+    "intro": "Román Bravo-Young ha hecho historia al conquistar la primera medalla de México en un Campeonato Mundial de Lucha.",
+    "telegraph_url": "https://telegra.ph/Román-Bravo-Young-gana-histórica-medalla-de-plata-para-México-en-Mundial-de-Lucha-11-01",
+    "url": "https://enelensayomedia.com/notas/roman-bravo-young-gana-historica-medalla-de-plata-para-mexico-en-mundi-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/roman-bravo-young-gana-historica-medalla-de-plata-para-mexico-en-mundi-1101.jpg",
+    "fecha": "2026-11-03T10:12:20.149952",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Luchas",
+    "fecha_original": "2026-11-01T17:48:08.149632",
+    "actualizada": true
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "La Maldita Vecindad ofrecerá concierto gratuito en Día de Muertos y homenajeará al Xoloitzcuintle",
     "artista": "La Maldita Vecindad",
     "intro": "Según el titular publicado, la legendaria banda mexicana La Maldita Vecindad realizará un concierto gratuito durante la celebración del Día de Muertos…",
@@ -1641,19 +1656,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Román Bravo-Young gana histórica medalla de plata para México en Mundial de Lucha",
-    "artista": "Román Bravo-Young",
-    "intro": "Román Bravo-Young ha hecho historia al conquistar la primera medalla de México en un Campeonato Mundial de Lucha.",
-    "telegraph_url": "https://telegra.ph/Román-Bravo-Young-gana-histórica-medalla-de-plata-para-México-en-Mundial-de-Lucha-11-01",
-    "url": "https://enelensayomedia.com/notas/roman-bravo-young-gana-historica-medalla-de-plata-para-mexico-en-mundi-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/roman-bravo-young-gana-historica-medalla-de-plata-para-mexico-en-mundi-1101.jpg",
-    "fecha": "2026-11-01T17:48:08.149632",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Luchas"
   },
   {
     "tipo": "reportaje",
