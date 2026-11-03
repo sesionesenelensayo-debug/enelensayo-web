@@ -113,8 +113,9 @@
         <div class="cx-barra">
           <select id="cxCapa" aria-label="Elige una capa"><option value="show">📅 Shows con fecha</option><option value="banda">🎸 Bandas locales</option><option value="foro">🏟 Foros independientes</option><option value="todo">Todo junto</option></select>
           <input id="cxBuscar" type="search" placeholder="Busca banda, ciudad o foro…" aria-label="Buscar">
-          <select id="cxVista" aria-label="Zoom del mapa"><option value="zm">🔎 Valle de México</option><option value="gdl">🔎 Guadalajara</option><option value="mty">🔎 Monterrey</option><option value="mx">🇲🇽 Todo México</option></select><button class="cx-btn sec" id="cxTodos" type="button">Limpiar filtros</button>
+          <button class="cx-btn sec" id="cxTodos" type="button">Limpiar filtros</button>
         </div>
+        <div class="cx-vistas" id="cxVista" role="group" aria-label="Zoom del mapa"><button type="button" data-v="mx">🇲🇽 Nacional</button><button type="button" data-v="zm">Valle de México</button><button type="button" data-v="gdl">Guadalajara</button><button type="button" data-v="mty">Monterrey</button></div>
         <div class="cx-gr">
           <div><div id="cxTip" class="cx-tip"></div><svg id="cxSvg" viewBox="0 0 587 368" role="img" aria-label="Mapa de México por estados"></svg>
             <p class="cx-leyenda"><i class="d1"></i>Show con fecha <i class="d2"></i>Banda local <i class="d3"></i>Foro · el color del estado marca cuánta actividad hay</p></div>

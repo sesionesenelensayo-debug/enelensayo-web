@@ -23,3 +23,8 @@
 .cx-vacio{opacity:.75;padding:12px 0}
 
 #cxSvg.zm path{stroke-width:.35}#cxSvg.zm{max-height:620px}
+#cxSvg path{vector-effect:non-scaling-stroke}#cxSvg.zm path{stroke-width:.8}
+.cx-vistas{display:flex;gap:6px;margin:0 0 10px;overflow-x:auto;-webkit-overflow-scrolling:touch}
+.cx-vistas button{flex:1 0 auto;cursor:pointer;border:1px solid rgba(255,255,255,.2);background:transparent;color:inherit;font:800 14px/1 Manrope,system-ui,sans-serif;padding:11px 14px;border-radius:99px;white-space:nowrap}
+.cx-vistas button[aria-pressed="true"]{background:#ffe53b;color:#0b0812;border-color:#ffe53b}
+#cxSvg.zm{max-height:none;height:auto}

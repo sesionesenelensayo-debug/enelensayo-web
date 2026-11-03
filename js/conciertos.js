@@ -14,6 +14,7 @@
     tabs.forEach(function (t) { t.setAttribute('aria-selected', String(t.dataset.t === id)); });
     paneles.forEach(function (p) { p.hidden = p.id !== 'cx-' + id; });
     try { history.replaceState(null, '', '#' + id); } catch (e) { }
+    if (id === 'locales' && window.__cxRedibujar) setTimeout(window.__cxRedibujar, 30);
   }
   tabs.forEach(function (t) { t.addEventListener('click', function () { activar(t.dataset.t); }); });
 
@@ -47,23 +48,30 @@
     if (vista !== 'mx') { var a = proy(v.lon0, v.lat1), b = proy(v.lon1, v.lat0); svg.setAttribute('viewBox', a[0] + ' ' + a[1] + ' ' + (b[0] - a[0]) + ' ' + (b[1] - a[1])); }
     else svg.setAttribute('viewBox', '0 0 ' + geo.w + ' ' + geo.h);
     svg.classList.toggle('zm', vista !== 'mx');
-    var sv = document.getElementById('cxVista'); if (sv) sv.value = vista;
+    Array.prototype.forEach.call(document.querySelectorAll('#cxVista button'), function (b) { b.setAttribute('aria-pressed', String(b.dataset.v === vista)); });
   }
   function dibujar() {
     aplicarVista();
     var l = datos(), cuenta = {}, max = 0;
     l.forEach(function (e) { cuenta[e._k] = (cuenta[e._k] || 0) + 1; max = Math.max(max, cuenta[e._k]); });
-    geo.estados.forEach(function (e) { var n = cuenta[e.k] || 0; paths[e.k].style.fill = n ? rampa(.25 + .75 * n / (max || 1)) : '#1b1430'; paths[e.k].classList.toggle('on', e.k === sel); });
+    geo.estados.forEach(function (e) { var n = cuenta[e.k] || 0; paths[e.k].style.fill = vista === 'mx' ? (n ? rampa(.25 + .75 * n / (max || 1)) : '#1b1430') : (n ? '#2a1d50' : '#1b1430'); paths[e.k].classList.toggle('on', e.k === sel); });
     Array.prototype.slice.call(svg.querySelectorAll('circle')).forEach(function (c) { c.remove(); });
-    l.forEach(function (e, i) {
+    var vb = svg.getAttribute('viewBox').split(' ').map(Number), wpx = svg.clientWidth || 340, u = vb[2] / wpx, grupos = {};    // u = unidades del mapa por píxel
+    l.forEach(function (e) {
       if (typeof e.lat !== 'number') return;
-      var k = vista !== 'mx' ? .22 : 1, p = proy(e.lon, e.lat), c = document.createElementNS(NS, 'circle'), j = ((i * 37) % 7 - 3) * 1.4 * k;
-      c.setAttribute('cx', p[0] + j); c.setAttribute('cy', p[1] + (((i * 53) % 7) - 3) * 1.4 * k); c.setAttribute('r', (e.tipo === 'show' ? 5 : 4) * (vista !== 'mx' ? .45 : 1)); c.setAttribute('vector-effect', 'non-scaling-stroke');
-      c.setAttribute('fill', e.tipo === 'show' ? '#ffe53b' : e.tipo === 'banda' ? '#8b7bff' : '#fff');
-      if (e.tipo === 'foro') { c.setAttribute('stroke', '#8b7bff'); c.setAttribute('stroke-width', 2); }
-      c.addEventListener('mouseenter', function () { tip.innerHTML = '<b>' + esc(e.banda) + '</b>' + esc(e.ciudad) + (e.tipo === 'show' ? ' · ' + esc(fmtFecha(e.fecha)) : ''); });
-      c.addEventListener('click', function () { sel = e._k; dibujar(); });
-      svg.appendChild(c);
+      var p = proy(e.lon, e.lat), k = Math.round(p[0] / (6 * u)) + ',' + Math.round(p[1] / (6 * u)); (grupos[k] = grupos[k] || []).push({ e: e, p: p });
+    });
+    Object.keys(grupos).forEach(function (k) {
+      grupos[k].forEach(function (g, i) {
+        var e = g.e, ang = i * 2.4, rad = i ? 8 * Math.sqrt(i) : 0, c = document.createElementNS(NS, 'circle');   // espiral: nunca se encimen
+        c.setAttribute('cx', g.p[0] + Math.cos(ang) * rad * u); c.setAttribute('cy', g.p[1] + Math.sin(ang) * rad * u);
+        c.setAttribute('r', (e.tipo === 'show' ? 5.5 : 4.5) * u); c.setAttribute('vector-effect', 'non-scaling-stroke');
+        c.setAttribute('fill', e.tipo === 'show' ? '#ffe53b' : e.tipo === 'banda' ? '#8b7bff' : '#fff');
+        if (e.tipo === 'foro') { c.setAttribute('stroke', '#8b7bff'); c.setAttribute('stroke-width', 2); }
+        c.addEventListener('mouseenter', function () { tip.innerHTML = '<b>' + esc(e.banda) + '</b>' + esc(e.ciudad) + (e.tipo === 'show' ? ' · ' + esc(fmtFecha(e.fecha)) : ''); });
+        c.addEventListener('click', function () { tip.innerHTML = '<b>' + esc(e.banda) + '</b>' + esc(e.recinto || e.ciudad) + (e.tipo === 'show' ? ' · ' + esc(fmtFecha(e.fecha)) : ''); sel = e._k; dibujar(); });
+        svg.appendChild(c);
+      });
     });
     var ks = Object.keys(cuenta).sort(function (a, b) { return cuenta[b] - cuenta[a]; });
     rk.innerHTML = ks.length ? ks.map(function (k) { return '<div data-k="' + esc(k) + '" class="' + (k === sel ? 'on' : '') + '"><span>' + esc((geo.estados.filter(function (e) { return e.k === k; })[0] || { n: k }).n) + '</span><span>' + cuenta[k] + '</span></div>'; }).join('') : '<p class="cx-vacio">Aún no hay registros en esta capa.</p>';
@@ -94,8 +102,9 @@
       if (ag) ag.innerHTML = (r[2].agendas || []).map(function (a) { return '<a class="sx-chip" href="' + esc(a.url) + '" target="_blank" rel="noopener nofollow"><b>' + esc(a.nombre) + '</b><small> ' + esc(a.desc) + '</small></a>'; }).join('');
       capa.addEventListener('input', function () { sel = ''; dibujar(); }); buscar.addEventListener('input', dibujar);
       document.getElementById('cxTodos').addEventListener('click', function () { sel = ''; buscar.value = ''; dibujar(); });
-      var sv = document.getElementById('cxVista'); if (sv) sv.addEventListener('input', function () { vista = sv.value; dibujar(); });
-      dibujar();
+      Array.prototype.forEach.call(document.querySelectorAll('#cxVista button'), function (b) { b.addEventListener('click', function () { vista = b.dataset.v; sel = ''; dibujar(); }); });
+      var rt; window.addEventListener('resize', function () { clearTimeout(rt); rt = setTimeout(dibujar, 150); });
+      window.__cxRedibujar = dibujar; dibujar();
     }).catch(function () { tip.innerHTML = '<b>Mapa no disponible</b>Intenta de nuevo en unos minutos.'; });
   }
   iniciar();
