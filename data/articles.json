@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Julieta Venegas abre el Festival Miquixtli con desfile en Cuernavaca",
+    "artista": "Julieta Venegas",
+    "intro": "Julieta Venegas encabezó la inauguración del Festival Miquixtli en Cuernavaca, ofreciendo un desfile y una presentación estelar, según informó El Sol de México. El evento marca el inicio de la program",
+    "telegraph_url": "https://telegra.ph/Julieta-Venegas-abre-el-Festival-Miquixtli-con-desfile-en-Cuernavaca-10-31",
+    "url": "https://enelensayomedia.com/notas/julieta-venegas-abre-el-festival-miquixtli-con-desfile-en-cuernavaca-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/julieta-venegas-abre-el-festival-miquixtli-con-desfile-en-cuernavaca-1031.jpg",
+    "fecha": "2026-11-03T08:10:11.198657",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura",
+    "fecha_original": "2026-10-31T11:38:10.696270",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Petit Planet de HoYoverse confirma fecha para móviles y Switch 2",
@@ -2831,19 +2846,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Conciertos"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Julieta Venegas abre el Festival Miquixtli con desfile en Cuernavaca",
-    "artista": "Julieta Venegas",
-    "intro": "Julieta Venegas encabezó la inauguración del Festival Miquixtli en Cuernavaca, ofreciendo un desfile y una presentación estelar, según informó El Sol de México. El evento marca el inicio de la program",
-    "telegraph_url": "https://telegra.ph/Julieta-Venegas-abre-el-Festival-Miquixtli-con-desfile-en-Cuernavaca-10-31",
-    "url": "https://enelensayomedia.com/notas/julieta-venegas-abre-el-festival-miquixtli-con-desfile-en-cuernavaca-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/julieta-venegas-abre-el-festival-miquixtli-con-desfile-en-cuernavaca-1031.jpg",
-    "fecha": "2026-10-31T11:38:10.696270",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   },
   {
     "tipo": "reportaje",
