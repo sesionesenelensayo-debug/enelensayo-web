@@ -4,26 +4,26 @@
 import re, os
 AQUI = os.path.dirname(os.path.abspath(__file__))
 PAGINAS = {  # archivo: (etiqueta de menú, título, descripción, [ids de sección])
-    "noticias": ("Noticias", "Noticias", "Las últimas noticias de música y cultura de México.", ["notas", "noticias", "reportajes", "entrevistas"]),
-    "chisme": ("Chisme", "Chisme", "El chisme del espectáculo, con rigor.", ["chisme"]),
-    "misterio": ("Misterio", "Misterio", "Terror, misterio y leyendas documentadas.", ["misterio"]),
-    "deporte": ("Deporte", "Deporte", "Lo que pasa en el deporte.", ["deporte"]),
+    "noticias": ("Noticias", "Noticias de música y cultura de México", "Las últimas noticias de música y cultura de México: reportajes, entrevistas y notas propias con fuentes verificadas, publicadas todos los días.", ["notas", "noticias", "reportajes", "entrevistas"]),
+    "chisme": ("Chisme", "Chisme", "Chisme del espectáculo en México con rigor: lo que pasa con los famosos, contado con datos verificados y sin inventar nada.", ["chisme"]),
+    "misterio": ("Misterio", "Misterio", "Terror, misterio y leyendas documentadas: historias reales y casos inexplicables investigados con fuentes y contados en video y texto.", ["misterio"]),
+    "deporte": ("Deporte", "Deporte", "Lo que pasa en el deporte y en la música: noticias, resultados y análisis para seguir lo más importante del día.", ["deporte"]),
     "exclusivas": ("Exclusivas", "Notas exclusivas", "Lecturas largas diarias: esports, agenda woke, chismes internacionales y terror.", ["exclusivas"]),
     "top10": ("Top 10", "Top 10 semanal", "La cuenta regresiva semanal: lo más escuchado en México y en el mundo.", ["top10"]),
     "periodico": ("Periódico", "El Periódico", "La edición descargable de En el Ensayo Media, con publicidad y lo mejor de la semana.", ["periodico"]),
     "newsletter": ("Newsletter", "Newsletter", "Recibe El Periódico de En el Ensayo en tu correo, de lunes a viernes. Gratis.", ["newsletter"]),
     "cine": ("Cine", "Cine", "Una nota al día de cine: las más esperadas, los fracasos y las decepciones. Cuenta regresiva a Avengers: Doomsday.", ["cine"]),
     "television": ("Televisión", "Televisión", "Las 20 series mejor calificadas según IMDb, las más populares del momento y las noticias de la tele y el streaming.", ["television"]),
-    "marveldc": ("Marvel y DCU", "Marvel y DCU", "Marvel Studios y DC Studios: noticias, resultados y opinión sin anestesia.", ["marveldc"]),
-    "videojuegos": ("Videojuegos", "Videojuegos", "Estrenos, peor calificados y polémicas. Cuenta regresiva a GTA VI.", ["videojuegos"]),
+    "marveldc": ("Marvel y DCU", "Marvel y DCU", "Marvel Studios y DC Studios: noticias, taquilla, resultados y opinión sin anestesia sobre lo último del cine de superhéroes.", ["marveldc"]),
+    "videojuegos": ("Videojuegos", "Videojuegos", "Videojuegos: estrenos, los peor calificados y las polémicas de la industria, con cuenta regresiva a GTA VI.", ["videojuegos"]),
     "luchas": ("Luchas", "Luchas", "WWE, AAA, CMLL y lucha japonesa: noticias, campeones y próximas funciones con precio, lugar y campeonatos.", ["luchas"]),
-    "conciertos": ("Conciertos", "Conciertos", "Boletos y planes: conciertos y eventos.", ["conciertos"]),
-    "hitos": ("Hitos", "Hitos", "Los momentos que marcaron la música.", ["hitos"]),
-    "shorts": ("Shorts", "Shorts", "Nuestros videos cortos.", ["shorts"]),
-    "longs": ("Longs", "Videos largos", "Los videos largos del canal.", ["longs"]),
-    "podcast": ("Podcast", "Podcast", "El podcast de En el Ensayo Media.", ["podcast"]),
-    "sesiones": ("Sesiones en vivo", "Sesiones en vivo", "Sesiones, conciertos e improvisaciones en vivo de En el Ensayo Media.", ["sesiones"]),
-    "sobre": ("Sobre nosotros", "Sobre nosotros", "Quiénes somos y cómo trabajamos.", ["estudio", "sobre"]),
+    "conciertos": ("Conciertos", "Conciertos", "Conciertos y festivales en México: Vive Latino, Corona Capital, Tecate y más, con fechas, cartel y boletos, más el mapa de conciertos locales y foros independientes.", ["conciertos"]),
+    "hitos": ("Hitos", "Hitos", "Los hitos que marcaron la música: fechas, discos y momentos históricos que cambiaron la historia del rock y la música popular.", ["hitos"]),
+    "shorts": ("Shorts", "Shorts", "Nuestros videos cortos de música, historia y curiosidades: shorts nuevos del canal de En el Ensayo Media en YouTube.", ["shorts"]),
+    "longs": ("Longs", "Videos largos", "Los videos largos del canal: documentales y biografías de bandas, músicos y pintores, narrados con fuentes verificadas.", ["longs"]),
+    "podcast": ("Podcast", "Podcast", "El podcast de En el Ensayo Media: conversaciones y análisis sobre música, cultura y la escena de México.", ["podcast"]),
+    "sesiones": ("Sesiones en vivo", "Sesiones en vivo", "Sesiones en vivo de En el Ensayo Media: conciertos, improvisaciones y presentaciones de bandas grabadas en el estudio.", ["sesiones"]),
+    "sobre": ("Sobre nosotros", "Sobre nosotros", "Quiénes somos y cómo trabajamos en En el Ensayo Media: equipo, método de verificación de datos y política de correcciones.", ["estudio", "sobre"]),
 }
 src = open(os.path.join(AQUI, "fuente.html"), encoding="utf-8").read()
 
@@ -98,6 +98,15 @@ for k, (et, tit, desc, ids) in PAGINAS.items():
     h = re.sub(r'(<meta name="description" content=")[^"]*', r"\g<1>" + desc, h)
     h = h.replace('content="https://enelensayomedia.com" />', f'content="https://enelensayomedia.com/{k}.html" />')
     h = re.sub(r'<script type="application/ld\+json">.*?</script>', "", h, flags=re.S)
+    # [.leon 2026-11-03] guía SEO de Google: migas de pan (BreadcrumbList) + CollectionPage por sección
+    import json as _json
+    _u = f"https://enelensayomedia.com/{k}.html"
+    _ld = [{"@context": "https://schema.org", "@type": "CollectionPage", "name": f"{tit} — En El Ensayo Media", "description": desc, "url": _u,
+            "isPartOf": {"@type": "WebSite", "name": "En El Ensayo Media", "url": "https://enelensayomedia.com/"}},
+           {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
+               {"@type": "ListItem", "position": 1, "name": "En El Ensayo Media", "item": "https://enelensayomedia.com/"},
+               {"@type": "ListItem", "position": 2, "name": tit, "item": _u}]}]
+    h = h.replace("</head>", "".join('<script type="application/ld+json">' + _json.dumps(x, ensure_ascii=False) + "</script>" for x in _ld) + "</head>", 1)
     cuerpo = "".join(seccion(i) for i in ids)
     cuerpo = cuerpo.replace('class="section section--dark', 'class="section section--dark', 1)
     pag = h + "<body>\n\n" + menu(nav, k) + f'  <header class="pag-cab"><div class="section-inner"><a class="pag-volver" href="/">← Portada</a></div></header>\n  <div class="section-inner" data-slot="cabecera"></div>\n' + cuerpo + "\n" + footer + scripts
