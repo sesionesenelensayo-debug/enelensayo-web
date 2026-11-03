@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Arte Club abre sus puertas en CDMX con Arturo Sosa y Gerardo Morris",
+    "artista": "Arte Club",
+    "intro": "¿Qué evento marcó la apertura de Arte Club en la Ciudad de México? El club se inauguró con la presencia de los promotores Arturo Sosa y Gerardo Morris, acompañados por la cantante Victoria Justice.",
+    "telegraph_url": "https://telegra.ph/Arte-Club-abre-sus-puertas-en-CDMX-con-Arturo-Sosa-y-Gerardo-Morris-11-03",
+    "url": "https://enelensayomedia.com/notas/arte-club-abre-sus-puertas-en-cdmx-con-arturo-sosa-y-gerardo-morris-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/arte-club-abre-sus-puertas-en-cdmx-con-arturo-sosa-y-gerardo-morris-1102.jpg",
+    "fecha": "2026-11-02T19:37:48.242876",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Esperan 200 mil asistentes al próximo concierto de Los Tigres del Norte",
     "artista": "Los Tigres del Norte",
