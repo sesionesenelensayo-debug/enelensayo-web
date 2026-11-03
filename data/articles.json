@@ -1,5 +1,21 @@
 [
   {
+    "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Estrenos de noviembre 2026: de Los Juegos del Hambre a Godzilla llegan al cine",
+    "artista": "Estrenos de noviembre 2026",
+    "intro": "Este noviembre se abrirán las puertas de los cines a una serie de estrenos que incluyen la nueva entrega de Los Juegos del Hambre y la última película de Godzilla.",
+    "telegraph_url": "https://telegra.ph/Estrenos-de-noviembre-2026-de-Los-Juegos-del-Hambre-a-Godzilla-llegan-al-cine-11-03",
+    "url": "https://enelensayomedia.com/notas/estrenos-de-noviembre-2026-de-los-juegos-del-hambre-a-godzilla-llegan-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/estrenos-de-noviembre-2026-de-los-juegos-del-hambre-a-godzilla-llegan-1103.jpg",
+    "fecha": "2026-11-03T10:27:23.961291",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-11-03T09:22:27.591581",
+    "actualizada": true
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Nuevos lanzamientos y cifras para Nintendo Switch y Switch 2",
     "artista": "Nintendo Switch",
@@ -117,20 +133,6 @@
     "categoria": "Cine",
     "fecha_original": "2026-11-02T21:46:02.279322",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Estrenos de noviembre 2026: de Los Juegos del Hambre a Godzilla llegan al cine",
-    "artista": "Estrenos de noviembre 2026",
-    "intro": "Este noviembre se abrirán las puertas de los cines a una serie de estrenos que incluyen la nueva entrega de Los Juegos del Hambre y la última película de Godzilla.",
-    "telegraph_url": "https://telegra.ph/Estrenos-de-noviembre-2026-de-Los-Juegos-del-Hambre-a-Godzilla-llegan-al-cine-11-03",
-    "url": "https://enelensayomedia.com/notas/estrenos-de-noviembre-2026-de-los-juegos-del-hambre-a-godzilla-llegan-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/estrenos-de-noviembre-2026-de-los-juegos-del-hambre-a-godzilla-llegan-1103.jpg",
-    "fecha": "2026-11-03T09:22:27.591581",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   },
   {
     "tipo": "noticia",
