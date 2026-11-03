@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Pluribus arranca rodaje de su segunda temporada en Albuquerque",
+    "artista": "Pluribus",
+    "intro": "La serie creada por Vince Gilligan, Pluribus, ha iniciado oficialmente el rodaje de su esperada segunda temporada en Albuquerque.",
+    "telegraph_url": "https://telegra.ph/Pluribus-arranca-rodaje-de-su-segunda-temporada-en-Albuquerque-11-03",
+    "url": "https://enelensayomedia.com/notas/pluribus-arranca-rodaje-de-su-segunda-temporada-en-albuquerque-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/pluribus-arranca-rodaje-de-su-segunda-temporada-en-albuquerque-1103.jpg",
+    "fecha": "2026-11-03T17:50:45.892739",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "James Acaster desmiente reporte sobre peleas en The Celebrity Traitors",
     "artista": "James Acaster",
