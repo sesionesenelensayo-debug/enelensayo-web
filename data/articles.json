@@ -1,5 +1,21 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Raúl Sandoval regresa a Mazatlán con concierto benéfico “México en el Corazón”",
+    "artista": "Raúl Mora",
+    "intro": "El sábado 14 de noviembre de 2026, el cantante y actor Raúl Sandoval, conocido por su paso por la primera generación de La Academia…",
+    "telegraph_url": "https://telegra.ph/Raúl-Sandoval-regresa-a-Mazatlán-con-concierto-benéfico-México-en-el-Corazón-11-03",
+    "url": "https://enelensayomedia.com/notas/raul-sandoval-regresa-a-mazatlan-con-concierto-benefico-mexico-en-el-c-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/raul-sandoval-regresa-a-mazatlan-con-concierto-benefico-mexico-en-el-c-1103.jpg",
+    "fecha": "2026-11-03T10:48:41.501520",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura",
+    "fecha_original": "2026-11-03T10:24:51.246371",
+    "actualizada": true
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Lng/SHT y Javier Blake: Más Joven Que Hoy",
     "artista": "Lng/SHT con Javier Blake",
@@ -44,20 +60,6 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-10-30T18:14:48.601392",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Raúl Sandoval regresa a Mazatlán con concierto benéfico “México en el Corazón”",
-    "artista": "Raúl Mora",
-    "intro": "El sábado 14 de noviembre de 2026, el cantante y actor Raúl Sandoval, conocido por su paso por la primera generación de La Academia…",
-    "telegraph_url": "https://telegra.ph/Raúl-Sandoval-regresa-a-Mazatlán-con-concierto-benéfico-México-en-el-Corazón-11-03",
-    "url": "https://enelensayomedia.com/notas/raul-sandoval-regresa-a-mazatlan-con-concierto-benefico-mexico-en-el-c-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/raul-sandoval-regresa-a-mazatlan-con-concierto-benefico-mexico-en-el-c-1103.jpg",
-    "fecha": "2026-11-03T10:24:51.246371",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   },
   {
     "opinion": false,
