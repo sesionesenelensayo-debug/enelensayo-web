@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Gracie Abrams anuncia su nuevo álbum 'Daughter From Hell'",
+    "artista": "Gracie Abrams",
+    "intro": "El 11 de mayo de 2026, la cantante y compositora estadounidense Gracie Abrams anunció oficialmente su tercer álbum de estudio titulado 'Daughter From Hell'…",
+    "telegraph_url": "https://telegra.ph/Gracie-Abrams-anuncia-su-nuevo-álbum-Daughter-From-Hell-11-03",
+    "url": "https://enelensayomedia.com/notas/gracie-abrams-anuncia-su-nuevo-album-daughter-from-hell-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/gracie-abrams-anuncia-su-nuevo-album-daughter-from-hell-1103.jpg",
+    "fecha": "2026-11-03T13:02:38.899715",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "JK Rowling: del ícono literario a la controversia cultural",
     "artista": "J.K. Rowling",
     "intro": "La escritora británica atraviesa una década de disputas online, reacciones del sector y acciones legales que polarizan a lectores y activistas.",
@@ -2101,19 +2115,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Morat anuncia entradas para la YEM World Tour en CDMX",
-    "artista": "Morat",
-    "intro": "Se ha reportado que la banda colombiana Morat ha anunciado las entradas para su YEM World Tour en la Ciudad de México.",
-    "telegraph_url": "https://telegra.ph/Morat-anuncia-entradas-para-la-YEM-World-Tour-en-CDMX-11-01",
-    "url": "https://enelensayomedia.com/notas/morat-anuncia-entradas-para-la-yem-world-tour-en-cdmx-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/morat-anuncia-entradas-para-la-yem-world-tour-en-cdmx-1101.jpg",
-    "fecha": "2026-11-01T15:43:26.098947",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
