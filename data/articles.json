@@ -1,6 +1,21 @@
 [
   {
     "tipo": "noticia",
+    "titulo": "Ecatepec vibra con rap y hip hop en el Festival Cultural “El Viento nos Une”",
+    "artista": "Ecatepec",
+    "intro": "El municipio de Ecatepec de Morelos se convirtió este fin de semana en un escenario de rap y hip hop gracias al Festival Cultural “El Viento nos Une”. El evento, reportado por varios medios, marcó una",
+    "telegraph_url": "https://telegra.ph/Ecatepec-vibra-con-rap-y-hip-hop-en-el-Festival-Cultural-El-Viento-nos-Une-10-31",
+    "url": "https://enelensayomedia.com/notas/ecatepec-vibra-con-rap-y-hip-hop-en-el-festival-cultural-el-viento-nos-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/ecatepec-vibra-con-rap-y-hip-hop-en-el-festival-cultural-el-viento-nos-1031.jpg",
+    "fecha": "2026-11-03T09:19:53.522385",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura",
+    "fecha_original": "2026-10-31T16:20:36.470750",
+    "actualizada": true
+  },
+  {
+    "tipo": "noticia",
     "titulo": "Carola Martínez asiste al Gran Premio de México 2026 con vestido rojo",
     "artista": "Carola Martínez",
     "intro": "Carola Martínez, esposa del piloto mexicano Checo Pérez, llegó al Gran Premio de México 2026 luciendo un llamativo vestido rojo.",
@@ -2726,19 +2741,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Ecatepec vibra con rap y hip hop en el Festival Cultural “El Viento nos Une”",
-    "artista": "Ecatepec",
-    "intro": "El municipio de Ecatepec de Morelos se convirtió este fin de semana en un escenario de rap y hip hop gracias al Festival Cultural “El Viento nos Une”. El evento, reportado por varios medios, marcó una",
-    "telegraph_url": "https://telegra.ph/Ecatepec-vibra-con-rap-y-hip-hop-en-el-Festival-Cultural-El-Viento-nos-Une-10-31",
-    "url": "https://enelensayomedia.com/notas/ecatepec-vibra-con-rap-y-hip-hop-en-el-festival-cultural-el-viento-nos-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/ecatepec-vibra-con-rap-y-hip-hop-en-el-festival-cultural-el-viento-nos-1031.jpg",
-    "fecha": "2026-10-31T16:20:36.470750",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   },
   {
     "tipo": "reportaje",
