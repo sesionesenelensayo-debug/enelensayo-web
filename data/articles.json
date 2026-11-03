@@ -1,5 +1,19 @@
 [
   {
+    "opinion": true,
+    "tipo": "noticia",
+    "titulo": "Clayface arrasa en taquilla: más de 82 millones de dólares",
+    "artista": "Clayface",
+    "intro": "La película 'Clayface' se consolida en la cima de la taquilla mundial tras acumular más de 82 millones de dólares en tan solo dos fines de semana en cartelera.",
+    "telegraph_url": "https://telegra.ph/Clayface-arrasa-en-taquilla-más-de-82-millones-de-dólares-11-03",
+    "url": "https://enelensayomedia.com/notas/clayface-arrasa-en-taquilla-mas-de-82-millones-de-dolares-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/clayface-arrasa-en-taquilla-mas-de-82-millones-de-dolares-1103.jpg",
+    "fecha": "2026-11-03T14:46:38.096003",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
     "opinion": false,
     "tipo": "noticia",
     "titulo": "Kygo revela precios de boletos y paquetes VIP para su regreso a México en 2027",
