@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "noticia",
+    "titulo": "Estrenos de noviembre 2026: de Los Juegos del Hambre a Godzilla llegan al cine",
+    "artista": "Estrenos de noviembre 2026",
+    "intro": "Este noviembre se abrirán las puertas de los cines a una serie de estrenos que incluyen la nueva entrega de Los Juegos del Hambre y la última película de Godzilla.",
+    "telegraph_url": "https://telegra.ph/Estrenos-de-noviembre-2026-de-Los-Juegos-del-Hambre-a-Godzilla-llegan-al-cine-11-03",
+    "url": "https://enelensayomedia.com/notas/estrenos-de-noviembre-2026-de-los-juegos-del-hambre-a-godzilla-llegan-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/estrenos-de-noviembre-2026-de-los-juegos-del-hambre-a-godzilla-llegan-1103.jpg",
+    "fecha": "2026-11-03T17:52:02.161795",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-11-03T09:22:27.591581",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "noticia",
     "titulo": "Pluribus arranca rodaje de su segunda temporada en Albuquerque",
     "artista": "Pluribus",
     "intro": "La serie creada por Vince Gilligan, Pluribus, ha iniciado oficialmente el rodaje de su esperada segunda temporada en Albuquerque.",
@@ -11,7 +27,7 @@
     "fecha": "2026-11-03T17:50:45.892739",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Televisión"
   },
   {
     "opinion": false,
@@ -571,22 +587,6 @@
     "views": 0,
     "categoria": "Escena local",
     "fecha_original": "2026-10-30T10:06:33.225736",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Estrenos de noviembre 2026: de Los Juegos del Hambre a Godzilla llegan al cine",
-    "artista": "Estrenos de noviembre 2026",
-    "intro": "Este noviembre se abrirán las puertas de los cines a una serie de estrenos que incluyen la nueva entrega de Los Juegos del Hambre y la última película de Godzilla.",
-    "telegraph_url": "https://telegra.ph/Estrenos-de-noviembre-2026-de-Los-Juegos-del-Hambre-a-Godzilla-llegan-al-cine-11-03",
-    "url": "https://enelensayomedia.com/notas/estrenos-de-noviembre-2026-de-los-juegos-del-hambre-a-godzilla-llegan-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/estrenos-de-noviembre-2026-de-los-juegos-del-hambre-a-godzilla-llegan-1103.jpg",
-    "fecha": "2026-11-03T10:27:23.961291",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-03T09:22:27.591581",
     "actualizada": true
   },
   {
