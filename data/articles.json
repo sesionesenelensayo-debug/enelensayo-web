@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Pablo Montero en la mira",
+    "artista": "Pablo Montero",
+    "intro": "Se reporta que el cantante y actor Pablo Montero enfrenta diversas polémicas en medio de su trayectoria artística y su participación en proyectos televisivos.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/pablo-montero-en-la-mira-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/pablo-montero-en-la-mira-1103.jpg",
+    "fecha": "2026-11-03T16:46:42.629288",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-03T14:15:09.100846",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "GTA VI y Ocarina of Time Remake lideran los lanzamientos de noviembre 2026",
     "artista": "GTA 6 y Ocarina of Time Remake",
     "intro": "Este noviembre 2026 se anunciará la llegada de dos de los títulos más esperados del año: Grand Theft Auto VI, programado para el 19 de noviembre en PlayStation 5 y Xbox Series X/S…",
@@ -117,20 +133,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Pablo Montero en la mira",
-    "artista": "Pablo Montero",
-    "intro": "Se reporta que el cantante y actor Pablo Montero enfrenta diversas polémicas en medio de su trayectoria artística y su participación en proyectos televisivos.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/pablo-montero-en-la-mira-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/pablo-montero-en-la-mira-1103.jpg",
-    "fecha": "2026-11-03T14:15:09.100846",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   },
   {
     "opinion": false,
