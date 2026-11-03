@@ -57,6 +57,188 @@
    "ciudad": "Naucalpan",
    "estado": "Estado de México",
    "genero": "Bandas emergentes y showcases"
+  },
+  {
+   "nombre": "Jazzatlán Capital",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "Roma Norte",
+   "lat": 19.4158966,
+   "lon": -99.1649284,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "Parker & Lenox",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "Juárez",
+   "lat": 19.4308352,
+   "lon": -99.1564936,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "Foro Shakespeare",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "Condesa",
+   "lat": 19.4194539,
+   "lon": -99.176597,
+   "genero": "Foro con música en vivo",
+   "url": "https://foroshakespeare.com/",
+   "auto": true
+  },
+  {
+   "nombre": "El Breve Espacio",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "Nápoles",
+   "lat": 19.4879292,
+   "lon": -99.1250946,
+   "genero": "Foro con música en vivo",
+   "url": "http://www.elbreveespacio.mx/",
+   "auto": true
+  },
+  {
+   "nombre": "Centro de Salud",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "Roma Norte",
+   "lat": 19.416197,
+   "lon": -99.1637262,
+   "genero": "Foro con música en vivo",
+   "url": "https://dondemevacuno.salud.gob.mx/",
+   "auto": true
+  },
+  {
+   "nombre": "Bajo Circuito",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "Hipódromo Condesa",
+   "lat": 19.4162316,
+   "lon": -99.1794169,
+   "genero": "Foro con música en vivo",
+   "url": "https://www.bajocircuito.com/",
+   "auto": true
+  },
+  {
+   "nombre": "Zinco Jazz Club",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "Centro",
+   "lat": 19.4338751,
+   "lon": -99.1371396,
+   "genero": "Foro con música en vivo",
+   "url": "https://zincojazz.com/",
+   "auto": true
+  },
+  {
+   "nombre": "El Gato Azul",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "",
+   "lat": 19.3641442,
+   "lon": -99.146979,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "Rebel Rebel",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "Roma Norte",
+   "lat": 19.4109282,
+   "lon": -99.155084,
+   "genero": "Foro con música en vivo",
+   "url": "https://www.rebelrebel.mx/",
+   "auto": true
+  },
+  {
+   "nombre": "Mambocafé Insurgentes",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "Del Valle Norte",
+   "lat": 19.3954916,
+   "lon": -99.1717324,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "Foro 1869",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "Guadalupe Inn",
+   "lat": 19.3529757,
+   "lon": -99.1893785,
+   "genero": "Foro con música en vivo",
+   "url": "https://foro1869.com/",
+   "auto": true
+  },
+  {
+   "nombre": "Gato Calavera",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "Piedad Narvarte",
+   "lat": 19.4035063,
+   "lon": -99.1507191,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "Cracovia 32",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "Florida",
+   "lat": 19.3487086,
+   "lon": -99.1886839,
+   "genero": "Foro con música en vivo",
+   "url": "https://cracovia32.com/",
+   "auto": true
+  },
+  {
+   "nombre": "Barba Negra",
+   "ciudad": "Guadalajara",
+   "estado": "Jalisco",
+   "zona": "",
+   "lat": 20.6777669,
+   "lon": -103.372397,
+   "genero": "Foro con música en vivo",
+   "url": "https://www.barbanegra1988.com/",
+   "auto": true
+  },
+  {
+   "nombre": "Teatro Diana",
+   "ciudad": "Guadalajara",
+   "estado": "Jalisco",
+   "zona": "",
+   "lat": 20.6654707,
+   "lon": -103.3492921,
+   "genero": "Foro con música en vivo",
+   "url": "https://teatrodiana.com/",
+   "auto": true
+  },
+  {
+   "nombre": "Foro Independencia",
+   "ciudad": "Guadalajara",
+   "estado": "Jalisco",
+   "zona": "",
+   "lat": 20.66631,
+   "lon": -103.347693,
+   "genero": "Foro con música en vivo",
+   "url": "https://foroindependencia.com.mx/",
+   "auto": true
+  },
+  {
+   "nombre": "Café Iguana",
+   "ciudad": "Monterrey",
+   "estado": "Nuevo León",
+   "zona": "",
+   "lat": 25.6661519,
+   "lon": -100.3075348,
+   "genero": "Foro con música en vivo",
+   "url": "http://www.cafeiguana.com.mx/",
+   "auto": true
   }
  ],
  "agendas": [
