@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Alfonso Herrera en la película animada El Gato con Sombrero",
+    "artista": "Alfonso Herrera",
+    "intro": "Se reporta la participación del artista mexicano Alfonso Herrera en la nueva adaptación cinematográfica animada de la obra de Dr. Seuss, 'El Gato con Sombrero'.",
+    "telegraph_url": "https://telegra.ph/Alfonso-Herrera-en-la-película-animada-El-Gato-con-Sombrero-11-03",
+    "url": "https://enelensayomedia.com/notas/alfonso-herrera-en-la-pelicula-animada-el-gato-con-sombrero-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/alfonso-herrera-en-la-pelicula-animada-el-gato-con-sombrero-1103.jpg",
+    "fecha": "2026-11-03T16:47:20.239598",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Pablo Montero en la mira",
     "artista": "Pablo Montero",
     "intro": "Se reporta que el cantante y actor Pablo Montero enfrenta diversas polémicas en medio de su trayectoria artística y su participación en proyectos televisivos.",
@@ -4569,19 +4583,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Conciertos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Las 10 películas más esperadas de 2026: El ranking definitivo",
-    "artista": "",
-    "intro": "Descubre cuáles son los estrenos más esperados del cine para este año según los principales medios especializados de la industria.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/las-10-peliculas-mas-esperadas-de-2026-el-ranking-definitivo-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/las-10-peliculas-mas-esperadas-de-2026-el-ranking-definitivo-1029.jpg",
-    "fecha": "2026-10-29T16:39:51",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   },
   {
     "tipo": "reportaje",
