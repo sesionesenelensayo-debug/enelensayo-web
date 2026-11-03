@@ -1,5 +1,21 @@
 [
   {
+    "opinion": false,
+    "tipo": "noticia",
+    "titulo": "El Charro Negro lidera la taquilla mexicana con 52.6 millones",
+    "artista": "El Charro Negro",
+    "intro": "La película mexicana El Charro Negro ha superado a la franquicia internacional BTS en la recaudación de taquilla en México, alcanzando 52.6 millones de pesos.",
+    "telegraph_url": "https://telegra.ph/El-Charro-Negro-lidera-la-taquilla-mexicana-con-526-millones-11-03",
+    "url": "https://enelensayomedia.com/notas/el-charro-negro-lidera-la-taquilla-mexicana-con-52-6-millones-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-charro-negro-lidera-la-taquilla-mexicana-con-52-6-millones-1102.jpg",
+    "fecha": "2026-11-03T09:21:14.825660",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-11-02T21:46:02.279322",
+    "actualizada": true
+  },
+  {
     "tipo": "noticia",
     "titulo": "Ecatepec vibra con rap y hip hop en el Festival Cultural “El Viento nos Une”",
     "artista": "Ecatepec",
@@ -175,20 +191,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "El Charro Negro lidera la taquilla mexicana con 52.6 millones",
-    "artista": "El Charro Negro",
-    "intro": "La película mexicana El Charro Negro ha superado a la franquicia internacional BTS en la recaudación de taquilla en México, alcanzando 52.6 millones de pesos.",
-    "telegraph_url": "https://telegra.ph/El-Charro-Negro-lidera-la-taquilla-mexicana-con-526-millones-11-03",
-    "url": "https://enelensayomedia.com/notas/el-charro-negro-lidera-la-taquilla-mexicana-con-52-6-millones-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-charro-negro-lidera-la-taquilla-mexicana-con-52-6-millones-1102.jpg",
-    "fecha": "2026-11-02T21:46:02.279322",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   },
   {
     "opinion": false,
