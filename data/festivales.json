@@ -1,0 +1,14 @@
+{
+ "actualizado": "2026-11-03",
+ "nota": "Solo fechas confirmadas por fuentes publicadas; lo demás dice «Por confirmar». Cartel y boletos: sitios oficiales y Ticketmaster.",
+ "festivales": [
+  {"nombre": "Corona Capital 2026", "ciudad": "CDMX", "recinto": "Autódromo Hermanos Rodríguez", "fecha": "20–22 de noviembre de 2026", "inicio": "2026-11-20", "lat": 19.4042, "lon": -99.0907,
+   "cartel": "The Strokes, Twenty One Pilots, Gorillaz, The xx", "estado": "Próximo", "boletos": "https://www.ticketmaster.com.mx/search?q=Corona%20Capital", "oficial": "https://www.coronacapital.com.mx/"},
+  {"nombre": "Vive Latino 2027", "ciudad": "CDMX", "recinto": "Estadio GNP Seguros", "fecha": "13 y 14 de marzo de 2027", "inicio": "2027-03-13", "lat": 19.4045, "lon": -99.0905,
+   "cartel": "Por anunciar", "estado": "Fechas confirmadas · cartel por anunciar", "boletos": "https://www.ticketmaster.com.mx/search?q=Vive%20Latino", "oficial": "https://vivelatino.com.mx/"},
+  {"nombre": "Tecate Pa'l Norte", "ciudad": "Monterrey", "recinto": "Parque Fundidora", "fecha": "Por confirmar", "inicio": "", "lat": 25.6788, "lon": -100.2851,
+   "cartel": "Por anunciar", "estado": "Esperando fechas oficiales", "boletos": "https://www.ticketmaster.com.mx/search?q=Tecate%20Pal%20Norte", "oficial": "https://www.tecatepalnorte.com/"},
+  {"nombre": "Tecate Emblema", "ciudad": "CDMX", "recinto": "Por confirmar", "fecha": "Por confirmar", "inicio": "", "lat": 19.4326, "lon": -99.1332,
+   "cartel": "Por anunciar", "estado": "Esperando fechas oficiales", "boletos": "https://www.ticketmaster.com.mx/search?q=Tecate%20Emblema", "oficial": "https://www.tecateemblema.com/"}
+ ]
+}

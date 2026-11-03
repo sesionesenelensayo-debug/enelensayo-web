@@ -93,14 +93,38 @@
         <h2 class="section-title">Próximos <span class="text-accent">conciertos</span></h2>
         <p class="section-desc">Notas propias de cada gira y concierto anunciado, con fechas, sedes y dónde comprar tus boletos.</p>
       </div>
+      <div class="cx-tabs" role="tablist">
+        <button class="cx-tab" role="tab" data-t="grandes" aria-selected="true">Festivales y grandes</button>
+        <button class="cx-tab" role="tab" data-t="locales" aria-selected="false">Conciertos locales</button>
+      </div>
+      <div class="cx-panel" id="cx-grandes" role="tabpanel">
+        <h3 class="sx-sub" style="margin-top:0">Los festivales del año</h3>
+        <p class="section-desc">Vive Latino, Corona Capital, Tecate y los grandes: fechas confirmadas, cartel y dónde comprar.</p>
+        <div class="cx-fest" id="cxFest"></div>
       <div class="sx-grid sx-notas" id="sxConNotas"><p class="sx-vacio">Preparando las notas de conciertos…</p></div>
       <div class="sx-grid" id="sxEventos"></div>
       <h3 class="sx-sub">Ticketmaster México</h3>
       <div class="sx-chips" id="sxTm"></div>
       <h3 class="sx-sub">Lugares y planes en Fever</h3>
       <div class="sx-chips" id="sxFever"></div>
+      </div>
+      <div class="cx-panel" id="cx-locales" role="tabpanel" hidden>
+        <p class="section-desc">Mapa de la escena en vivo: dónde y cuándo tocan las bandas locales y dónde comprar boletos. Se alimenta con las bandas que descubrimos en En el Ensayo.</p>
+        <div class="cx-barra">
+          <input id="cxBuscar" type="search" placeholder="Busca banda, ciudad o género…" aria-label="Buscar banda o ciudad">
+          <select id="cxEstado" aria-label="Estado"><option value="">Todos los estados</option></select>
+          <label style="display:flex;align-items:center;gap:6px"><input type="checkbox" id="cxSolo"> Solo con fecha</label>
+        </div>
+        <div id="cxMapa" role="application" aria-label="Mapa de conciertos locales"></div>
+        <div class="cx-lista" id="cxLista"></div>
+        <p class="sx-aviso">🟡 Show con fecha · 🟣 Banda local sin fecha confirmada. ¿Tocas o conoces un toquín? Escríbenos desde Contacto.</p>
+      </div>
       <p class="sx-aviso">Enlaces externos: precios, fechas y disponibilidad dependen de Ticketmaster y Fever.</p>
     </div>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+    <link rel="stylesheet" href="css/conciertos.css?v=20261103a" />
+    <script defer src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+    <script defer src="js/conciertos.js?v=20261103a"></script>
   </section>
 
   <!-- ── NEWSLETTER CTA ── -->
