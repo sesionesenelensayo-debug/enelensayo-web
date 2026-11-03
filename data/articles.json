@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "Nuevos lanzamientos y cifras para Nintendo Switch y Switch 2",
+    "artista": "Nintendo Switch",
+    "intro": "El panorama actual de las consolas de Nintendo se mueve con anuncios recientes en el mercado de los videojuegos. Según la información reportada por diferentes medios, se han confirmado nuevos títulos ",
+    "telegraph_url": "https://telegra.ph/Nuevos-lanzamientos-y-cifras-para-Nintendo-Switch-y-Switch-2-10-31",
+    "url": "https://enelensayomedia.com/notas/nuevos-lanzamientos-y-cifras-para-nintendo-switch-y-switch-2-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/nuevos-lanzamientos-y-cifras-para-nintendo-switch-y-switch-2-1030.jpg",
+    "fecha": "2026-11-03T10:26:05.415603",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos",
+    "fecha_original": "2026-10-30T18:14:48.601392",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Raúl Sandoval regresa a Mazatlán con concierto benéfico “México en el Corazón”",
@@ -189,21 +204,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Nuevos lanzamientos y cifras para Nintendo Switch y Switch 2",
-    "artista": "Nintendo Switch",
-    "intro": "El panorama actual de las consolas de Nintendo se mueve con anuncios recientes en el mercado de los videojuegos. Según la información reportada por diferentes medios, se han confirmado nuevos títulos ",
-    "telegraph_url": "https://telegra.ph/Nuevos-lanzamientos-y-cifras-para-Nintendo-Switch-y-Switch-2-10-31",
-    "url": "https://enelensayomedia.com/notas/nuevos-lanzamientos-y-cifras-para-nintendo-switch-y-switch-2-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/nuevos-lanzamientos-y-cifras-para-nintendo-switch-y-switch-2-1030.jpg",
-    "fecha": "2026-11-03T08:55:41.246678",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-10-30T18:14:48.601392",
-    "actualizada": true
   },
   {
     "tipo": "noticia",
