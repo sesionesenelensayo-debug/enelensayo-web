@@ -84,8 +84,7 @@
       return '<div class="cx-ev"><b>' + esc(e.banda) + '</b><span>' + esc(e.ciudad) + (e.recinto ? ' · ' + esc(e.recinto) : '') + '</span><span>' + (e.tipo === 'show' ? '📅 ' + esc(fmtFecha(e.fecha)) + (e.hora ? ' · ' + esc(e.hora) : '') + (e.precio ? ' · 🎟 ' + esc(e.precio) : '') + (typeof e.lat !== 'number' && e.tipo === 'show' ? ' · 📍 ubicación por confirmar' : '') : e.tipo === 'foro' ? '🏟 ' + esc(e.genero || 'Foro independiente') : '🎸 Banda local · sigue su agenda') + '</span>' +
         (seguro(e.boletos) ? '<a class="cx-btn" href="' + esc(e.boletos) + '" target="_blank" rel="noopener nofollow">Comprar boletos</a>' : '') +
         (seguro(e.sitio) ? '<a class="cx-btn sec" href="' + esc(e.sitio) + '" target="_blank" rel="noopener nofollow">Sitio del foro</a>' : '') +
-        (seguro(e.fuente_url) ? '<a class="cx-btn sec" href="' + esc(e.fuente_url) + '" target="_blank" rel="noopener nofollow">Ver publicación original</a>' : '') +
-+ '</div>';
+        (seguro(e.fuente_url) ? '<a class="cx-btn sec" href="' + esc(e.fuente_url) + '" target="_blank" rel="noopener nofollow">Ver publicación original</a>' : '') + '</div>';
     }).join('') : '<p class="cx-vacio">Nada con estos filtros todavía.</p>';
   }
   function iniciar() {
