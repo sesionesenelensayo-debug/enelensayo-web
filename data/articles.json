@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "La película 'Karateka' lleva la historia de Sandra Sánchez a los cines",
+    "artista": "Sandra Sánchez",
+    "intro": "La historia de Sandra Sánchez llega a las salas de cine con el estreno de la película ‘Karateka’. Así se reportó recientemente, marcando el salto a la gran pantalla de la trayectoria de la artista.",
+    "telegraph_url": "https://telegra.ph/La-película-Karateka-lleva-la-historia-de-Sandra-Sánchez-a-los-cines-11-03",
+    "url": "https://enelensayomedia.com/notas/la-pelicula-karateka-lleva-la-historia-de-sandra-sanchez-a-los-cines-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-pelicula-karateka-lleva-la-historia-de-sandra-sanchez-a-los-cines-1103.jpg",
+    "fecha": "2026-11-03T13:23:51.670009",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Pimpinela llevará su historia al cine con película en 2027",
     "artista": "Pimpinela",
