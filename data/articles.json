@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "David Byrne destaca a la nueva generación argentina en playlist",
+    "artista": "David Byrne",
+    "intro": "David Byrne, figura central del rock y cofundador de Talking Heads, ha sorprendido al incluir a la nueva generación de artistas argentinos en una de sus playlists.",
+    "telegraph_url": "https://telegra.ph/David-Byrne-destaca-a-la-nueva-generación-argentina-en-playlist-11-03",
+    "url": "https://enelensayomedia.com/notas/david-byrne-destaca-a-la-nueva-generacion-argentina-en-playlist-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/david-byrne-destaca-a-la-nueva-generacion-argentina-en-playlist-1102.jpg",
+    "fecha": "2026-11-02T22:09:04.488389",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "El Charro Negro lidera la taquilla mexicana con 52.6 millones",
     "artista": "El Charro Negro",
