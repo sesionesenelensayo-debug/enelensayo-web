@@ -1,5 +1,12 @@
 [
   {
+    "artista": "Rata Blanca",
+    "slug": "rata-blanca",
+    "imagen": "",
+    "piezas": 1,
+    "updated": "2026-11-03 12:03"
+  },
+  {
     "artista": "Adele",
     "slug": "adele",
     "imagen": "artistas_img/adele.jpg",

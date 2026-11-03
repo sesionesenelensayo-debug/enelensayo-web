@@ -63,6 +63,11 @@
   ],
   "longs": [
     {
+      "id": "EzMvNZnU4cc",
+      "titulo": "¿Cómo nació el monstruo del metal? Rata Blanca en la cima",
+      "fecha": "2026-11-03"
+    },
+    {
       "id": "jR3_OvIe8dE",
       "titulo": "¿Cómo conquistó al mundo entero? La verdadera historia de la voz del siglo",
       "fecha": "2026-11-02"
@@ -86,11 +91,6 @@
       "id": "LR1wy0ECOME",
       "titulo": "¿Quién fue el camaleón del rock? La vida secreta de un genio musical",
       "fecha": "2026-10-29"
-    },
-    {
-      "id": "66FfK2si07I",
-      "titulo": "John Bonham: la historia detrás de su obra",
-      "fecha": "2026-10-28"
     }
   ],
   "podcast": []
