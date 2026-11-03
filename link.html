@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<!-- [.leon 2026-11-03] Página del «link de la bio» de Instagram/TikTok: Instagram NO vuelve clicable ningún enlace dentro de una publicación,
+     solo el de la bio. Esta página lista las últimas notas (se alimenta sola de data/articles.json) para que cada post de IG lleve
+     a la nota con un toque: bio → /link → nota. -->
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Links — En el Ensayo Media</title>
+<meta name="description" content="Las últimas notas de En el Ensayo Media, el boletín y nuestras redes, en un solo lugar.">
+<link rel="canonical" href="https://enelensayomedia.com/link">
+<style>
+:root{--fondo:#0B0812;--tarjeta:#1a1426;--borde:#2c2340;--texto:#f4f1fa;--tenue:#b9b2cc;--amarillo:#FFEB3B;--morado:#673AB7;--cian:#00BCD4}
+*{box-sizing:border-box}
+body{margin:0;background:var(--fondo);color:var(--texto);font-family:system-ui,-apple-system,"Segoe UI",sans-serif;line-height:1.35}
+main{max-width:520px;margin:0 auto;padding:28px 16px 48px}
+header{text-align:center;margin-bottom:22px}
+header h1{font-size:1.35rem;margin:0 0 4px;color:var(--amarillo);letter-spacing:.04em}
+header p{margin:0;color:var(--tenue);font-size:.95rem}
+h2{font-size:.8rem;text-transform:uppercase;letter-spacing:.12em;color:var(--cian);margin:26px 0 10px}
+a.nota,a.btn{display:flex;gap:12px;align-items:center;text-decoration:none;color:var(--texto);background:var(--tarjeta);border:1px solid var(--borde);border-radius:14px;padding:10px;margin-bottom:10px}
+a.nota:active,a.btn:active{transform:scale(.98)}
+a.nota img{width:76px;height:76px;object-fit:cover;border-radius:10px;flex:none;background:#000}
+a.nota .cat{display:inline-block;font-size:.68rem;font-weight:700;letter-spacing:.08em;color:#fff;background:var(--morado);border-radius:20px;padding:2px 9px;margin-bottom:4px}
+a.nota .tit{display:block;font-weight:650;font-size:.98rem}
+a.btn{justify-content:center;font-weight:700;padding:14px}
+a.btn.pri{background:var(--amarillo);color:#0B0812;border-color:var(--amarillo)}
+#estado{color:var(--tenue);text-align:center;padding:18px 0}
+</style>
+</head>
+<body>
+<main>
+<header>
+  <h1>EN EL ENSAYO MEDIA</h1>
+  <p>Música, cultura y espectáculos de México</p>
+</header>
+
+<a class="btn pri" href="/">Ir al sitio · enelensayomedia.com</a>
+
+<h2>Últimas notas</h2>
+<div id="notas"><div id="estado">Cargando…</div></div>
+
+<h2>Más</h2>
+<a class="btn" href="/periodico.html">El Periódico de la semana</a>
+<a class="btn" href="/newsletter.html">Suscríbete al boletín</a>
+<a class="btn" href="https://www.youtube.com/@EnelEnsayoMedia">YouTube</a>
+<a class="btn" href="https://www.tiktok.com/@enelensayomedia">TikTok</a>
+</main>
+<script>
+(function(){
+  var cont=document.getElementById('notas');
+  function crear(a){
+    var e=document.createElement('a');e.className='nota';e.href=a.url;
+    if(a.imagen_url){var i=document.createElement('img');i.loading='lazy';i.alt='';i.src=a.imagen_url;e.appendChild(i);}
+    var d=document.createElement('div');
+    var c=document.createElement('span');c.className='cat';c.textContent=(a.categoria||'Nota').toUpperCase();
+    var t=document.createElement('span');t.className='tit';t.textContent=a.titulo;
+    d.appendChild(c);d.appendChild(t);e.appendChild(d);return e;
+  }
+  fetch('/data/articles.json',{cache:'no-store'}).then(function(r){return r.json()}).then(function(arr){
+    arr=arr.filter(function(a){return a.url&&a.titulo&&!a.archivo&&a.url.indexOf('enelensayomedia.com')>-1});
+    arr.sort(function(x,y){return (y.fecha||'')<(x.fecha||'')?-1:1});
+    cont.textContent='';
+    arr.slice(0,8).forEach(function(a){cont.appendChild(crear(a))});
+  }).catch(function(){cont.innerHTML='<a class="btn" href="/noticias.html">Ver todas las notas</a>'});
+})();
+</script>
+</body>
+</html>
