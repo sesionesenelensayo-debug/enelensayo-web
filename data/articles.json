@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Samsung Play Cup 2026 reúne a la comunidad de Call of Duty en Santiago",
+    "artista": "Samsung Play Cup 2026 Chile",
+    "intro": "Torneo presencial con cuatro clasificatorias y gran final, premios tecnológicos y actividades para fans en GameClub Mallplaza Vespucio.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/samsung-play-cup-2026-reune-a-la-comunidad-de-call-of-duty-en-santiago-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/samsung-play-cup-2026-reune-a-la-comunidad-de-call-of-duty-en-santiago-1103.jpg",
+    "fecha": "2026-11-03T11:52:43.793889",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "El Charro Negro lidera la taquilla mexicana con 52.6 millones",
     "artista": "El Charro Negro",
