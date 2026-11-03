@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Pablo Montero en la mira",
+    "artista": "Pablo Montero",
+    "intro": "Se reporta que el cantante y actor Pablo Montero enfrenta diversas polémicas en medio de su trayectoria artística y su participación en proyectos televisivos.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/pablo-montero-en-la-mira-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/pablo-montero-en-la-mira-1103.jpg",
+    "fecha": "2026-11-03T14:15:09.100846",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Thief: The Dark Project Remastered ya tiene fecha de estreno",
     "artista": "Thief: The Dark Project Remastered",
