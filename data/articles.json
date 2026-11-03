@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Recomiendan “Campeón Gabacho” en la cartelera de cine",
+    "artista": "Campeón Gabacho",
+    "intro": "Hoy la cartelera de cine destaca la recomendación “Campeón Gabacho”. La mención surge en un artículo del Informador publicado el 2 de noviembre de 2023…",
+    "telegraph_url": "https://telegra.ph/Recomiendan-Campeón-Gabacho-en-la-cartelera-de-cine-11-03",
+    "url": "https://enelensayomedia.com/notas/recomiendan-campeon-gabacho-en-la-cartelera-de-cine-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/recomiendan-campeon-gabacho-en-la-cartelera-de-cine-1103.jpg",
+    "fecha": "2026-11-03T08:56:41.984977",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Nuevos lanzamientos y cifras para Nintendo Switch y Switch 2",
     "artista": "Nintendo Switch",
@@ -2038,20 +2052,6 @@
     "url": "https://enelensayomedia.com/notas/el-exito-inesperado-de-guns-n-roses-1101.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/el-exito-inesperado-de-guns-n-roses-1101.jpg",
     "fecha": "2026-11-01T11:38:02.556549",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Luis 'El Negro' Dura: La verdad oculta tras su último disco",
-    "artista": "LUIS EL NEGRO DURA",
-    "intro": "En el Ensayo Media revela la historia detrás del último álbum de Luis 'El Negro' Dura, un ícono de la música tropical mexicana.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/luis-el-negro-dura-la-verdad-oculta-tras-su-ultimo-disco-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/luis-el-negro-dura-la-verdad-oculta-tras-su-ultimo-disco-1101.jpg",
-    "fecha": "2026-11-01T11:11:54.232616",
     "author": "Oliver Ken",
     "views": 0,
     "archivo": true,
