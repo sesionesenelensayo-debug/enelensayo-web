@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "No Man’s Sky llega a iPhone y iPad el 28 de octubre de 2026",
+    "artista": "No Man’s Sky",
+    "intro": "Hello Games anunció que la versión móvil de No Man’s Sky se lanzará el 28 de octubre 2026 para iPhone y iPad, diez años después de su polémico debut en 2016.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/no-mans-sky-llega-a-iphone-y-ipad-el-28-de-octubre-de-2026-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/no-mans-sky-llega-a-iphone-y-ipad-el-28-de-octubre-de-2026-1103.jpg",
+    "fecha": "2026-11-03T22:29:45.926887",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos",
+    "fecha_original": "2026-11-03T11:18:34.441995",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Oli presenta su Museo Imaginario en el Grand Palais",
     "artista": "Oli",
     "intro": "El rapero Oli, integrante del dúo francés Bigflo & Oli, llega al Grand Palais de París con «El Museo Imaginario», una exposición inmersiva y sensorial.",
@@ -763,20 +779,6 @@
     "categoria": "Televisión",
     "fecha_original": "2026-11-02T09:00:45.465926",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "No Man’s Sky llega a iPhone y iPad el 28 de octubre de 2026",
-    "artista": "No Man’s Sky",
-    "intro": "Hello Games anunció que la versión móvil de No Man’s Sky se lanzará el 28 de octubre 2026 para iPhone y iPad, diez años después de su polémico debut en 2016.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/no-mans-sky-llega-a-iphone-y-ipad-el-28-de-octubre-de-2026-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/no-mans-sky-llega-a-iphone-y-ipad-el-28-de-octubre-de-2026-1103.jpg",
-    "fecha": "2026-11-03T11:18:34.441995",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos"
   },
   {
     "tipo": "reportaje",
