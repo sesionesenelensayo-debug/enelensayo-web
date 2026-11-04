@@ -1,6 +1,21 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Thomas Markle bajo investigación por presunto material de abuso infantil",
+    "artista": "Thomas Markle",
+    "intro": "En el video del canal En el Ensayo Media se informa que Thomas Markel, padre de Megan y exdirector de iluminación, está siendo investigado por presunto material de abuso infantil…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/thomas-markle-bajo-investigacion-por-presunto-material-de-abuso-infant-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/thomas-markle-bajo-investigacion-por-presunto-material-de-abuso-infant-1104.jpg",
+    "fecha": "2026-11-04T15:00:49.970703",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "David Guetta anuncia concierto en la CDMX para el 8 de mayo de 2027",
     "artista": "David Guetta",
@@ -11,7 +26,7 @@
     "fecha": "2026-11-04T14:53:29.909398",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Conciertos",
+    "categoria": "Música",
     "fecha_original": "2026-11-02T17:32:41.991221",
     "actualizada": true
   },
@@ -2539,21 +2554,6 @@
     "categoria": "Biografía"
   },
   {
-    "tipo": "noticia",
-    "titulo": "Kygo anuncia concierto en CDMX para 2027",
-    "artista": "Kygo",
-    "intro": "El DJ noruego Kygo regresa a México con presentaciones en Guadalajara y la Ciudad de México programadas para el año 2027.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/kygo-anuncia-concierto-en-cdmx-para-2027-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/kygo-anuncia-concierto-en-cdmx-para-2027-1101.jpg",
-    "fecha": "2026-11-01T21:33:18.811017",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-01T15:47:39.017536",
-    "actualizada": true
-  },
-  {
     "tipo": "reportaje",
     "titulo": "Polémica en redes por la expansión global de altares de Día de Muertos",
     "artista": "Apropiación cultural del Día de Muertos",
@@ -2740,20 +2740,6 @@
     "url": "https://enelensayomedia.com/notas/deep-purple-pospone-conciertos-tras-hospitalizacion-de-ian-gillan-1101.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/deep-purple-pospone-conciertos-tras-hospitalizacion-de-ian-gillan-1101.jpg",
     "fecha": "2026-11-01T18:19:38.344284",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "La tragedia del tecladista de Camilo Séptimo",
-    "artista": "Camilo Séptimo",
-    "intro": "En este video del canal En el Ensayo Media se aborda la tragedia que involucra a Jonathan Samuel Meléndez Ochoa, tecladista de la banda mexicana Camilo Séptimo.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-tragedia-del-tecladista-de-camilo-septimo-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-tragedia-del-tecladista-de-camilo-septimo-1101.jpg",
-    "fecha": "2026-11-01T17:42:23.906404",
     "author": "Oliver Ken",
     "views": 0,
     "archivo": true,
