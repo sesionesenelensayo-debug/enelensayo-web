@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "UCAM Esports presenta su nueva plantilla de VALORANT para 2027 y mantiene la élite nacional",
+    "artista": "UCAM Esports VALORANT 2027",
+    "intro": "El club universitario anuncia entrenadores, jugadores y su continuidad en torneos internacionales bajo el nuevo formato del VCT.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/ucam-esports-presenta-su-nueva-plantilla-de-valorant-para-2027-y-manti-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/ucam-esports-presenta-su-nueva-plantilla-de-valorant-para-2027-y-manti-1104.jpg",
+    "fecha": "2026-11-04T10:18:59.008664",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports"
+  },
+  {
     "tipo": "noticia",
     "titulo": "A Perfect Circle llega a CDMX con Dogstar, banda de Keanu Reeves",
     "artista": "A Perfect Circle",
@@ -4237,19 +4251,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Esports"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Guitarricadelafuente habla sobre Penélope Cruz",
-    "artista": "Guitarricadelafuente",
-    "intro": "El artista Guitarricadelafuente, de 29 años, ha hablado recientemente sobre su experiencia al trabajar con Penélope Cruz en el proyecto 'La bola negra'. Según los medios citados, el músico se refirió ",
-    "telegraph_url": "https://telegra.ph/Guitarricadelafuente-habla-sobre-Penélope-Cruz-10-30",
-    "url": "https://enelensayomedia.com/notas/guitarricadelafuente-habla-sobre-penelope-cruz-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/guitarricadelafuente-habla-sobre-penelope-cruz-1030.jpg",
-    "fecha": "2026-10-30T17:06:29.640326",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   },
   {
     "tipo": "reportaje",
