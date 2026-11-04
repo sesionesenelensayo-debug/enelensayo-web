@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Samsung Play Cup 2026 reúne a la comunidad de Call of Duty en Santiago",
+    "artista": "Samsung Play Cup 2026 Chile",
+    "intro": "Torneo presencial con cuatro clasificatorias y gran final, premios tecnológicos y actividades para fans en GameClub Mallplaza Vespucio.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/samsung-play-cup-2026-reune-a-la-comunidad-de-call-of-duty-en-santiago-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/samsung-play-cup-2026-reune-a-la-comunidad-de-call-of-duty-en-santiago-1103.jpg",
+    "fecha": "2026-11-04T07:26:22.282773",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports",
+    "fecha_original": "2026-11-03T11:52:43.793889",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Paris Jackson solicita $600 millones del patrimonio de su padre",
     "artista": "Paris Jackson",
     "intro": "Paris Jackson ha presentado una petición para recibir 600 millones de dólares de la fortuna de Michael Jackson, destinándolos a ella y a sus hermanos.",
@@ -749,20 +765,6 @@
     "categoria": "Cine",
     "fecha_original": "2026-10-31T14:00:06.032992",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Samsung Play Cup 2026 reúne a la comunidad de Call of Duty en Santiago",
-    "artista": "Samsung Play Cup 2026 Chile",
-    "intro": "Torneo presencial con cuatro clasificatorias y gran final, premios tecnológicos y actividades para fans en GameClub Mallplaza Vespucio.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/samsung-play-cup-2026-reune-a-la-comunidad-de-call-of-duty-en-santiago-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/samsung-play-cup-2026-reune-a-la-comunidad-de-call-of-duty-en-santiago-1103.jpg",
-    "fecha": "2026-11-03T11:52:43.793889",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Esports"
   },
   {
     "opinion": false,
