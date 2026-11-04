@@ -197,6 +197,46 @@
    "auto": true
   },
   {
+   "nombre": "Bar Oriente",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "Roma Norte",
+   "lat": 19.419961,
+   "lon": -99.1653304,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "California Dancing Club",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "Tlalpan, Portales",
+   "lat": 19.3739488,
+   "lon": -99.1412791,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "Mamá Rumba Roma",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "Roma Norte",
+   "lat": 19.4138369,
+   "lon": -99.1649618,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "Querétaro 230, Roma Norte, CDMX",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "",
+   "lat": 19.4149085,
+   "lon": -99.1598905,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
    "nombre": "Barba Negra",
    "ciudad": "Guadalajara",
    "estado": "Jalisco",
@@ -238,6 +278,26 @@
    "lon": -100.3075348,
    "genero": "Foro con música en vivo",
    "url": "http://www.cafeiguana.com.mx/",
+   "auto": true
+  },
+  {
+   "nombre": "Amberes 61, Zona Rosa, CDMX",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "",
+   "lat": 19.4245611,
+   "lon": -99.1650597,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "Planta Baja",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "",
+   "lat": 19.3495302,
+   "lon": -99.187938,
+   "genero": "Foro con música en vivo",
    "auto": true
   }
  ],
