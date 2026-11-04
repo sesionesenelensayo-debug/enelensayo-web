@@ -1,5 +1,20 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "El misterio de la muerte de Janis Joplin en el Landmark Hotel",
+    "artista": "Janis Joplin",
+    "intro": "En el video del canal En el Ensayo Media se relata la muerte de Janis Joplin en una habitación del Landmark Motor Hotel de Los Ángeles…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-misterio-de-la-muerte-de-janis-joplin-en-el-landmark-hotel-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-misterio-de-la-muerte-de-janis-joplin-en-el-landmark-hotel-1104.jpg",
+    "fecha": "2026-11-04T13:35:58.898033",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Misterio"
+  },
+  {
     "tipo": "noticia",
     "titulo": "A Perfect Circle llega a CDMX con Dogstar, banda de Keanu Reeves",
     "artista": "A Perfect Circle",
@@ -5535,18 +5550,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reportaje"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece la actriz francesa Marina Vlady a los 88 años",
-    "artista": "",
-    "intro": "La actriz francesa Marina Vlady falleció el jueves 24 de septiembre. Su partida deja un profundo vacío en el panorama cinematográfico internacional y en la",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fallece-la-actriz-francesa-marina-vlady-a-los-88-anos-1023.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-la-actriz-francesa-marina-vlady-a-los-88-anos-1023.jpg",
-    "fecha": "2026-10-23T06:08:02",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
