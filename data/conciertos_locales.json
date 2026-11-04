@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04 09:04",
+ "actualizado": "2026-11-04 09:05",
  "eventos": [
   {
    "id": "variete-muerte-y-circo|ciudad-de-mexico|cracovia-32|2026-11-05",
@@ -1716,6 +1716,54 @@
   {
    "id": "barra-de-piedra-tlaquepaque|cuernavaca||x",
    "banda": "Barra de Piedra Tlaquepaque",
+   "ciudad": "Cuernavaca",
+   "estado": "Morelos",
+   "lat": 18.9242,
+   "lon": -99.2216,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
+  },
+  {
+   "id": "unigodspawn|cuernavaca||x",
+   "banda": "Unigodspawn",
+   "ciudad": "Cuernavaca",
+   "estado": "Morelos",
+   "lat": 18.9242,
+   "lon": -99.2216,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
+  },
+  {
+   "id": "acidez-official|cuernavaca||x",
+   "banda": "Acidez Official",
+   "ciudad": "Cuernavaca",
+   "estado": "Morelos",
+   "lat": 18.9242,
+   "lon": -99.2216,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
+  },
+  {
+   "id": "painkiller---lado-b|cuernavaca||x",
+   "banda": "Painkiller | LADO B",
    "ciudad": "Cuernavaca",
    "estado": "Morelos",
    "lat": 18.9242,
