@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Modern Warfare 4 lanza la Temporada 1 con nuevos mapas y novedades para DMZ",
+    "artista": "Modern Warfare 4",
+    "intro": "Modern Warfare 4 ha anunciado la llegada de su Temporada 1, que incluye nuevos mapas y novedades para el modo DMZ, además de la fecha de estreno.",
+    "telegraph_url": "https://telegra.ph/Modern-Warfare-4-lanza-la-Temporada-1-con-nuevos-mapas-y-novedades-para-DMZ-11-04",
+    "url": "https://enelensayomedia.com/notas/modern-warfare-4-lanza-la-temporada-1-con-nuevos-mapas-y-novedades-par-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/modern-warfare-4-lanza-la-temporada-1-con-nuevos-mapas-y-novedades-par-1104.jpg",
+    "fecha": "2026-11-04T15:58:23.817212",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Thomas Markle bajo investigación por presunto material de abuso infantil",
     "artista": "Thomas Markle",
