@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Bobby Pulido, cantante de música tejana, gana el escaño del 15.º distrito de Texas",
+    "artista": "Bobby Pulido",
+    "intro": "El cantante de música tejana Bobby Pulido, candidato demócrata, se impuso en el 15.º distrito congresional de Texas en las elecciones del 3 de noviembre de 2026…",
+    "telegraph_url": "https://telegra.ph/Bobby-Pulido-cantante-de-música-tejana-gana-el-escaño-del-15º-distrito-de-Texas-11-04",
+    "url": "https://enelensayomedia.com/notas/bobby-pulido-cantante-de-musica-tejana-gana-el-escano-del-15-o-distrit-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/bobby-pulido-cantante-de-musica-tejana-gana-el-escano-del-15-o-distrit-1104.jpg",
+    "fecha": "2026-11-04T13:24:01.911777",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Janis Joplin muere en el Landmark Motor Hotel el 4 de octubre de 1970",
     "artista": "Janis Joplin: el misterio de su muerte en el Landmark Hotel",
     "intro": "El domingo 4 de octubre de 1970, la cantante Janis Joplin fue encontrada sin vida en la habitación 105 del Landmark Motor Hotel de Los Ángeles.",
@@ -2744,20 +2758,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme internacional"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Celine Dion y el impacto de My Heart Will Go On en el Titanic",
-    "artista": "Céline Dion",
-    "intro": "A través de un breve recorrido, el material detalla los hitos de la exitosa carrera de la artista y los acontecimientos clave detrás de su célebre tema musical cinematográfico.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/celine-dion-y-el-impacto-de-my-heart-will-go-on-en-el-titanic-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/celine-dion-y-el-impacto-de-my-heart-will-go-on-en-el-titanic-1101.jpg",
-    "fecha": "2026-11-01T16:20:48.561687",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "noticia",
