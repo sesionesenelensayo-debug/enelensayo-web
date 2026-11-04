@@ -1,5 +1,19 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "Mason Thames confirmado como Robin/Dick Grayson en la película animada \"Dynamic Duo\"",
+    "artista": "Mason Thames como Robin",
+    "intro": "DC Studios ha anunciado oficialmente que el actor Mason Thames interpretará a Robin, también conocido como Dick Grayson, en la próxima película de animación \"Dynamic Duo\".",
+    "telegraph_url": "https://telegra.ph/Mason-Thames-confirmado-como-RobinDick-Grayson-en-la-película-animada-Dynamic-Duo-11-04",
+    "url": "https://enelensayomedia.com/notas/mason-thames-confirmado-como-robin-dick-grayson-en-la-pelicula-animada-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/mason-thames-confirmado-como-robin-dick-grayson-en-la-pelicula-animada-1104.jpg",
+    "fecha": "2026-11-04T14:34:04.294362",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
     "opinion": false,
     "tipo": "noticia",
     "titulo": "El Cascanueces se presenta gratis en un museo del Centro Histórico de CDMX",
@@ -5551,18 +5565,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Los Ángeles Azules no aparecen entre los ganadores de los Premios Billboard de la Música Latina 2026",
-    "artista": "",
-    "intro": "En la ceremonia de los Premios Billboard de la Música Latina 2026, celebrada el 22 de octubre en el James L. Knight Center de Miami y transmitida por Telem",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/los-angeles-azules-no-aparecen-entre-los-ganadores-de-los-premios-bill-1024.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/los-angeles-azules-no-aparecen-entre-los-ganadores-de-los-premios-bill-1024.jpg",
-    "fecha": "2026-10-24T12:04:08",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reportaje"
   }
 ]
