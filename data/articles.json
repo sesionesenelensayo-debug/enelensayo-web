@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "El Fausto encabezará el festival FISCUM",
+    "artista": "El Fausto",
+    "intro": "Según el titular publicado, la agrupación El Fausto será la cabeza de cartel del festival FISCUM.",
+    "telegraph_url": "https://telegra.ph/El-Fausto-encabezará-el-festival-FISCUM-11-01",
+    "url": "https://enelensayomedia.com/notas/el-fausto-encabezara-el-festival-fiscum-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-fausto-encabezara-el-festival-fiscum-1101.jpg",
+    "fecha": "2026-11-04T10:35:24.726983",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Escena local",
+    "fecha_original": "2026-11-01T10:04:08.866496",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "UCAM Esports presenta su nueva plantilla de VALORANT para 2027 y mantiene la élite nacional",
@@ -2929,19 +2944,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Esports"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El Fausto encabezará el festival FISCUM",
-    "artista": "El Fausto",
-    "intro": "Según el titular publicado, la agrupación El Fausto será la cabeza de cartel del festival FISCUM.",
-    "telegraph_url": "https://telegra.ph/El-Fausto-encabezará-el-festival-FISCUM-11-01",
-    "url": "https://enelensayomedia.com/notas/el-fausto-encabezara-el-festival-fiscum-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-fausto-encabezara-el-festival-fiscum-1101.jpg",
-    "fecha": "2026-11-01T10:04:08.866496",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Escena local"
   },
   {
     "tipo": "reportaje",
