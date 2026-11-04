@@ -1,5 +1,21 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Blue Panther regresa con máscara a la Arena México",
+    "artista": "Blue Panther",
+    "intro": "Blue Panther volvió a luchar con máscara en la Arena México, despertando la curiosidad de los aficionados.",
+    "telegraph_url": "https://telegra.ph/Blue-Panther-regresa-con-máscara-a-la-Arena-México-11-02",
+    "url": "https://enelensayomedia.com/notas/blue-panther-regresa-con-mascara-a-la-arena-mexico-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/blue-panther-regresa-con-mascara-a-la-arena-mexico-1102.jpg",
+    "fecha": "2026-11-04T10:39:41.191630",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Luchas",
+    "fecha_original": "2026-11-02T10:20:39.913036",
+    "actualizada": true
+  },
+  {
     "tipo": "reportaje",
     "titulo": "El Fausto encabezará el festival FISCUM",
     "artista": "El Fausto",
@@ -1711,20 +1727,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Esports"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Blue Panther regresa con máscara a la Arena México",
-    "artista": "Blue Panther",
-    "intro": "Blue Panther volvió a luchar con máscara en la Arena México, despertando la curiosidad de los aficionados.",
-    "telegraph_url": "https://telegra.ph/Blue-Panther-regresa-con-máscara-a-la-Arena-México-11-02",
-    "url": "https://enelensayomedia.com/notas/blue-panther-regresa-con-mascara-a-la-arena-mexico-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/blue-panther-regresa-con-mascara-a-la-arena-mexico-1102.jpg",
-    "fecha": "2026-11-02T10:20:39.913036",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Luchas"
   },
   {
     "opinion": false,
