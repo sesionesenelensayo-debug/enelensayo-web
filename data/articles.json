@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "El Panteón de San Fernando: historia, figuras y leyendas del siglo XIX",
+    "artista": "el Panteón de San Fernando y sus leyendas",
+    "intro": "Un recorrido por su origen, personajes ilustres, actividades actuales y los rumores que envuelven sus pasillos nocturnos.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-panteon-de-san-fernando-historia-figuras-y-leyendas-del-siglo-xix-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-panteon-de-san-fernando-historia-figuras-y-leyendas-del-siglo-xix-1104.jpg",
+    "fecha": "2026-11-04T08:06:12.412428",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Historias de terror"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Callum Turner lidera las apuestas para el próximo James Bond",
     "artista": "Callum Turner",
     "intro": "Los pronósticos de apuestas sitúan a Callum Turner como favorito para encarnar al icónico 007, mientras que Pierce Brosnan, antiguo Bond, sigue sin descartar un papel de mentor en la próxima entrega.",
@@ -5509,19 +5523,6 @@
     "url": "https://enelensayomedia.com/notas/fallece-el-artista-valenciano-manuel-boix-a-los-83-anos-1023.html",
     "imagen_url": "",
     "fecha": "2026-10-23T00:03:25",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece a los 43 años el actor y director Arnaud Denis",
-    "artista": "",
-    "intro": "El actor y director de escena francés Arnaud Denis falleció el 22 de septiembre de 2026 a los 43 años tras recibir eutanasia en Namur, Bélgica. La noticia ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fallece-a-los-43-anos-el-actor-y-director-arnaud-denis-1022.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-a-los-43-anos-el-actor-y-director-arnaud-denis-1022.jpg",
-    "fecha": "2026-10-22T23:35:50",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
