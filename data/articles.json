@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Fallece Luis Rico, baluarte de la canción social boliviana",
+    "artista": "Luis Rico",
+    "intro": "Se reporta el fallecimiento de Luis Rico Arancibia a la edad de 81 años. La noticia fue comunicada a la prensa boliviana y a las redes sociales por la familia del reconocido cantautor boliviano.",
+    "telegraph_url": "https://telegra.ph/Fallece-Luis-Rico-baluarte-de-la-canción-social-boliviana-11-04",
+    "url": "https://enelensayomedia.com/notas/fallece-luis-rico-baluarte-de-la-cancion-social-boliviana-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-luis-rico-baluarte-de-la-cancion-social-boliviana-1103.jpg",
+    "fecha": "2026-11-03T20:04:34.669288",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "In memoriam"
+  },
+  {
     "tipo": "noticia",
     "titulo": "Director de Resident Evil sigue frustrado por la polémica de su película",
     "artista": "Director de Resident Evil",
