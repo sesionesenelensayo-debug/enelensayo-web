@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-03T23:54",
+ "actualizado": "2026-11-04T05:54",
  "peores": [
   {
    "titulo": "Code Violet",
@@ -135,42 +135,6 @@
   }
  ],
  "estrenos": [
-  {
-   "titulo": "ArcheAge Chronicles",
-   "fecha": "2026-11-03",
-   "fecha_txt": "3 de noviembre",
-   "plataformas": [
-    "PC"
-   ],
-   "genero": "MMORPG",
-   "desarrolla": "XL Games",
-   "publica": ""
-  },
-  {
-   "titulo": "Dungeon Rampage Remastered",
-   "fecha": "2026-11-03",
-   "fecha_txt": "3 de noviembre",
-   "plataformas": [
-    "PC"
-   ],
-   "genero": "Action RPG, Dungeon crawl",
-   "desarrolla": "Gamebreaking Studios",
-   "publica": ""
-  },
-  {
-   "titulo": "Godzilla: Destroy All Monsters Melee Remastered",
-   "fecha": "2026-11-03",
-   "fecha_txt": "3 de noviembre",
-   "plataformas": [
-    "PC",
-    "Switch 2",
-    "PS5",
-    "Xbox Series"
-   ],
-   "genero": "Fighting",
-   "desarrolla": "Pipeworks Software",
-   "publica": "Atari"
-  },
   {
    "titulo": "Void/Breaker",
    "fecha": "2026-11-04",
@@ -456,6 +420,46 @@
    "genero": "Action RPG",
    "desarrolla": "Midgar Studio",
    "publica": "Nacon"
+  },
+  {
+   "titulo": "Rayman Legends Retold",
+   "fecha": "2026-12-03",
+   "fecha_txt": "3 de diciembre",
+   "plataformas": [
+    "PC",
+    "Switch 2",
+    "PS5",
+    "Xbox Series"
+   ],
+   "genero": "Platformer",
+   "desarrolla": "Ubisoft Montpellier, Ubisoft Milan",
+   "publica": "Ubisoft"
+  },
+  {
+   "titulo": "Thief: The Dark Project Remastered",
+   "fecha": "2026-12-03",
+   "fecha_txt": "3 de diciembre",
+   "plataformas": [
+    "PC",
+    "Switch",
+    "Switch 2",
+    "PS4",
+    "PS5"
+   ],
+   "genero": "Stealth",
+   "desarrolla": "Nightdive Studios, Eidos-Montréal",
+   "publica": "Atari"
+  },
+  {
+   "titulo": "Warhammer 40,000: Dawn of War IV",
+   "fecha": "2026-12-03",
+   "fecha_txt": "3 de diciembre",
+   "plataformas": [
+    "PC"
+   ],
+   "genero": "RTS",
+   "desarrolla": "King Art Games",
+   "publica": "Deep Silver"
   }
  ]
 }
