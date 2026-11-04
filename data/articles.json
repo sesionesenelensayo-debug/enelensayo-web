@@ -1,5 +1,20 @@
 [
   {
+    "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Harry Styles impulsa ingresos de Madison Square Garden en 37 %",
+    "artista": "Harry Styles",
+    "intro": "Harry Styles ha generado un aumento del 37 % en los ingresos de Madison Square Garden, según reportes.",
+    "telegraph_url": "https://telegra.ph/Harry-Styles-impulsa-ingresos-de-Madison-Square-Garden-en-37-11-04",
+    "url": "https://enelensayomedia.com/notas/harry-styles-impulsa-ingresos-de-madison-square-garden-en-37-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/harry-styles-impulsa-ingresos-de-madison-square-garden-en-37-1104.jpg",
+    "fecha": "2026-11-04T14:02:05.901663",
+    "author": "Oliver Ken",
+    "views": 0,
+    "nota_dia": true,
+    "categoria": "Internacional"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Xelhua gana el Campeonato Rey del Inframundo 2026 en el CMLL",
     "artista": "Xelhua",
@@ -5539,18 +5554,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fuerza Regida vence a Bad Bunny en los Premios Billboard 2026",
-    "artista": "",
-    "intro": "Fuerza Regida se consagró como el mayor ganador de los Premios Billboard de la Música Latina 2026 al obtener 8 premios, superando a Bad Bunny, quien obtuvo",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fuerza-regida-vence-a-bad-bunny-en-los-premios-billboard-2026-1023.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fuerza-regida-vence-a-bad-bunny-en-los-premios-billboard-2026-1023.jpg",
-    "fecha": "2026-10-23T12:01:52",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reportaje"
   }
 ]

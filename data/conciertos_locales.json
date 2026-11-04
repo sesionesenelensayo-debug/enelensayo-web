@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04 14:01",
+ "actualizado": "2026-11-04 14:02",
  "eventos": [
   {
    "id": "variete-muerte-y-circo|ciudad-de-mexico|cracovia-32|2026-11-05",
@@ -1860,6 +1860,38 @@
   {
    "id": "oceanss|ciudad-de-mexico||x",
    "banda": "OCEANSS",
+   "ciudad": "Ciudad de México",
+   "estado": "CDMX",
+   "lat": 19.4326,
+   "lon": -99.1332,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
+  },
+  {
+   "id": "nemesis|ciudad-de-mexico||x",
+   "banda": "Nemesis",
+   "ciudad": "Ciudad de México",
+   "estado": "CDMX",
+   "lat": 19.4326,
+   "lon": -99.1332,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
+  },
+  {
+   "id": "baytor|ciudad-de-mexico||x",
+   "banda": "Baytor",
    "ciudad": "Ciudad de México",
    "estado": "CDMX",
    "lat": 19.4326,
