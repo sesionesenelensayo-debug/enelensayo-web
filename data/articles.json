@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Sony cancela estreno internacional de 'Klara y el Sol' por baja recaudación",
+    "artista": "Klara y el Sol",
+    "intro": "Sony Pictures ha suspendido indefinidamente el estreno en cines de 'Klara y el Sol' en España, previsto para el 30 de octubre de 2026, tras un debut en EE. UU.",
+    "telegraph_url": "https://telegra.ph/Sony-cancela-estreno-internacional-de-Klara-y-el-Sol-por-baja-recaudación-11-04",
+    "url": "https://enelensayomedia.com/notas/sony-cancela-estreno-internacional-de-klara-y-el-sol-por-baja-recaudac-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/sony-cancela-estreno-internacional-de-klara-y-el-sol-por-baja-recaudac-1104.jpg",
+    "fecha": "2026-11-04T09:00:33.212916",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Nuevos lanzamientos y cifras para Nintendo Switch y Switch 2",
     "artista": "Nintendo Switch",
@@ -4327,19 +4341,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Conciertos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Las 10 mayores decepciones cinematográficas de 2026 según la crítica",
-    "artista": "las 10 grandes decepciones de 2026 según la crítica (peor calificadas con más expectativa)",
-    "intro": "Un ranking basado en la baja aprobación de críticos frente a altas expectativas y presupuestos millonarios.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/las-10-mayores-decepciones-cinematograficas-de-2026-segun-la-critica-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/las-10-mayores-decepciones-cinematograficas-de-2026-segun-la-critica-1030.jpg",
-    "fecha": "2026-10-30T14:21:31.977898",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   },
   {
     "tipo": "reportaje",
