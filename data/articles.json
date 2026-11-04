@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "Detienen a Inés Gómez Mont en Florida",
+    "artista": "Inés Gómez Mont",
+    "intro": "La presentadora de televisión Inés Gómez Mont fue detenida en Florida, Estados Unidos, de acuerdo con reportes de diversos medios de comunicación. La conductora mexicana llevaba años prófuga de la jus",
+    "telegraph_url": "https://telegra.ph/Detienen-a-Inés-Gómez-Mont-en-Florida-10-30",
+    "url": "https://enelensayomedia.com/notas/detienen-a-ines-gomez-mont-en-florida-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/detienen-a-ines-gomez-mont-en-florida-1030.jpg",
+    "fecha": "2026-11-04T13:28:52.157805",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-10-30T15:55:18.749711",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Bobby Pulido, cantante de música tejana, gana el escaño del 15.º distrito de Texas",
@@ -222,21 +237,6 @@
     "views": 0,
     "categoria": "Marvel y DCU",
     "fecha_original": "2026-11-03T20:26:34.381559",
-    "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Detienen a Inés Gómez Mont en Florida",
-    "artista": "Inés Gómez Mont",
-    "intro": "La presentadora de televisión Inés Gómez Mont fue detenida en Florida, Estados Unidos, de acuerdo con reportes de diversos medios de comunicación. La conductora mexicana llevaba años prófuga de la jus",
-    "telegraph_url": "https://telegra.ph/Detienen-a-Inés-Gómez-Mont-en-Florida-10-30",
-    "url": "https://enelensayomedia.com/notas/detienen-a-ines-gomez-mont-en-florida-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/detienen-a-ines-gomez-mont-en-florida-1030.jpg",
-    "fecha": "2026-11-04T09:05:00.914854",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-10-30T15:55:18.749711",
     "actualizada": true
   },
   {
