@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Netflix anuncia estreno en enero 2027 de la temporada 2 de 'Samurái de ojos azules'",
+    "artista": "Samurái de ojos azules",
+    "intro": "Tras cuatro años de ausencia, Netflix reveló el nuevo tráiler de la segunda temporada de 'Samurái de ojos azules' y confirmó su estreno para enero de 2027.",
+    "telegraph_url": "https://telegra.ph/Netflix-anuncia-estreno-en-enero-2027-de-la-temporada-2-de-Samurái-de-ojos-azules-11-04",
+    "url": "https://enelensayomedia.com/notas/netflix-anuncia-estreno-en-enero-2027-de-la-temporada-2-de-samurai-de-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/netflix-anuncia-estreno-en-enero-2027-de-la-temporada-2-de-samurai-de-1104.jpg",
+    "fecha": "2026-11-04T11:29:15.047237",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Blue Panther regresa con máscara a la Arena México",
     "artista": "Blue Panther",
     "intro": "Blue Panther volvió a luchar con máscara en la Arena México, despertando la curiosidad de los aficionados.",
@@ -5518,19 +5532,6 @@
     "url": "https://enelensayomedia.com/notas/fallece-amel-baccouche-la-actriz-de-choufli-hal-1023.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/fallece-amel-baccouche-la-actriz-de-choufli-hal-1023.jpg",
     "fecha": "2026-10-23T00:11:30",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece el artista valenciano Manuel Boix a los 83 años",
-    "artista": "",
-    "intro": "El pintor, escultor y grabador Manuel Boix, una de las figuras clave del nuevo realismo español, falleció el 23 de septiembre de 2026 en su pueblo natal, L",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fallece-el-artista-valenciano-manuel-boix-a-los-83-anos-1023.html",
-    "imagen_url": "",
-    "fecha": "2026-10-23T00:03:25",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
