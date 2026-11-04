@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "C. Tangana rompe su silencio musical con el freestyle “Milko Freestyle”",
+    "artista": "C. Tangana",
+    "intro": "C. Tangana vuelve a sonar en la escena con el lanzamiento del freestyle “Milko Freestyle”.",
+    "telegraph_url": "https://telegra.ph/C-Tangana-rompe-su-silencio-musical-con-el-freestyle-Milko-Freestyle-11-04",
+    "url": "https://enelensayomedia.com/notas/c-tangana-rompe-su-silencio-musical-con-el-freestyle-milko-freestyle-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/c-tangana-rompe-su-silencio-musical-con-el-freestyle-milko-freestyle-1104.jpg",
+    "fecha": "2026-11-04T14:30:27.397556",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Las 10 películas que más dinero perdieron en taquilla recientemente",
     "artista": "las 10 películas que más dinero perdieron (mayores fracasos de taquilla recientes)",
@@ -2835,21 +2849,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Escena local"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Óscar Ortiz estrena el sencillo 'Break Pa’ Llorar'",
-    "artista": "Óscar Ortiz",
-    "intro": "El artista Óscar Ortiz presenta de manera oficial su nuevo sencillo titulado 'Break Pa’ Llorar'. Se reporta que este lanzamiento funciona como el primer sencillo de su próximo álbum de estudio.",
-    "telegraph_url": "https://telegra.ph/Óscar-Ortiz-estrena-el-sencillo-Break-Pa-Llorar-11-01",
-    "url": "https://enelensayomedia.com/notas/oscar-ortiz-estrena-el-sencillo-break-pa-llorar-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/oscar-ortiz-estrena-el-sencillo-break-pa-llorar-1101.jpg",
-    "fecha": "2026-11-01T16:32:24.435510",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-01T15:38:07.472956",
-    "actualizada": true
   },
   {
     "tipo": "reportaje",
