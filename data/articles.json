@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Renate Reinsve y el posible papel de Moira MacTaggert en el reboot de X‑Men",
+    "artista": "Renate Reinsve",
+    "intro": "La actriz noruega ha destacado en cine independiente, se reunió con Marvel y su nombre circula entre los candidatos para la icónica científica mutante.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/renate-reinsve-y-el-posible-papel-de-moira-mactaggert-en-el-reboot-de-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/renate-reinsve-y-el-posible-papel-de-moira-mactaggert-en-el-reboot-de-1104.jpg",
+    "fecha": "2026-11-04T16:37:06.408837",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme internacional"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Modern Warfare 4 lanza la Temporada 1 con nuevos mapas y novedades para DMZ",
     "artista": "Modern Warfare 4",
@@ -5554,18 +5568,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reportaje"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece el cineasta español José Luis García Sánchez a los 85 años",
-    "artista": "",
-    "intro": "El cineasta, guionista, productor y actor español José Luis García Sánchez falleció el domingo 25 de octubre de 2026 en Madrid a los 85 años. La Academia d",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fallece-el-cineasta-espanol-jose-luis-garcia-sanchez-a-los-85-anos-1025.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-el-cineasta-espanol-jose-luis-garcia-sanchez-a-los-85-anos-1025.jpg",
-    "fecha": "2026-10-25T05:48:44",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
