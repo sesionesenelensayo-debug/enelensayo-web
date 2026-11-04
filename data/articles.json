@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "Nuevas películas y exposiciones llegan a la cartelera de noviembre en la Cineteca Nacional",
+    "artista": "Cineteca Nacional",
+    "intro": "La Cineteca Nacional Chapultepec anunció su programación de noviembre, incorporando una serie de películas y exposiciones que ampliarán la oferta cultural del recinto. Según Edomex Al Día, la actualiz",
+    "telegraph_url": "https://telegra.ph/Nuevas-películas-y-exposiciones-llegan-a-la-cartelera-de-noviembre-en-la-Cineteca-Nacional-10-31",
+    "url": "https://enelensayomedia.com/notas/nuevas-peliculas-y-exposiciones-llegan-a-la-cartelera-de-noviembre-en-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/nuevas-peliculas-y-exposiciones-llegan-a-la-cartelera-de-noviembre-en-1031.jpg",
+    "fecha": "2026-11-03T18:35:08.991382",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-10-31T07:05:46.742759",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Jude Bellingham es el nuevo embajador de Calvin Klein",
@@ -3562,19 +3577,6 @@
     "url": "https://enelensayomedia.com/notas/cine-mexicano-recomienda-peliculas-esenciales-para-el-dia-de-muertos-1031.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/cine-mexicano-recomienda-peliculas-esenciales-para-el-dia-de-muertos-1031.jpg",
     "fecha": "2026-10-31T07:19:30.008982",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Nuevas películas y exposiciones llegan a la cartelera de noviembre en la Cineteca Nacional",
-    "artista": "Cineteca Nacional",
-    "intro": "La Cineteca Nacional Chapultepec anunció su programación de noviembre, incorporando una serie de películas y exposiciones que ampliarán la oferta cultural del recinto. Según Edomex Al Día, la actualiz",
-    "telegraph_url": "https://telegra.ph/Nuevas-películas-y-exposiciones-llegan-a-la-cartelera-de-noviembre-en-la-Cineteca-Nacional-10-31",
-    "url": "https://enelensayomedia.com/notas/nuevas-peliculas-y-exposiciones-llegan-a-la-cartelera-de-noviembre-en-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/nuevas-peliculas-y-exposiciones-llegan-a-la-cartelera-de-noviembre-en-1031.jpg",
-    "fecha": "2026-10-31T07:05:46.742759",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
