@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "noticia",
+    "titulo": "El Cascanueces se presenta gratis en un museo del Centro Histórico de CDMX",
+    "artista": "El Cascanueces",
+    "intro": "El ballet clásico El Cascanueces ofrecerá una función sin costo en un museo del Centro Histórico de la Ciudad de México.",
+    "telegraph_url": "https://telegra.ph/El-Cascanueces-se-presenta-gratis-en-un-museo-del-Centro-Histórico-de-CDMX-11-04",
+    "url": "https://enelensayomedia.com/notas/el-cascanueces-se-presenta-gratis-en-un-museo-del-centro-historico-de-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-cascanueces-se-presenta-gratis-en-un-museo-del-centro-historico-de-1104.jpg",
+    "fecha": "2026-11-04T14:32:32.020353",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "José Eduardo Derbez y Paola Dalay anuncian separación",
     "artista": "José Eduardo Derbez",
@@ -4268,19 +4282,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Gael García Bernal: 'Sin libertad, no vale la pena hacer cine'",
-    "artista": "Gael García Bernal",
-    "intro": "Gael García Bernal, actor y director mexicano, reflexiona sobre la importancia de la libertad en el cine. En una reciente declaración, el artista afirmó que prefiere dedicarse a plantar árboles antes ",
-    "telegraph_url": "https://telegra.ph/Gael-García-Bernal-Sin-libertad-no-vale-la-pena-hacer-cine-10-31",
-    "url": "https://enelensayomedia.com/notas/gael-garcia-bernal-sin-libertad-no-vale-la-pena-hacer-cine-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/gael-garcia-bernal-sin-libertad-no-vale-la-pena-hacer-cine-1030.jpg",
-    "fecha": "2026-10-30T18:28:55.319899",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   },
   {
     "tipo": "reportaje",
