@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Gen.G Esports asegura a Karon hasta 2026 en el VCT Pacífico",
+    "artista": "Karon (Gen.G Esports)",
+    "intro": "Gen.G Esports anuncia la renovación de Kim Karon Won-tae para la temporada 2026 del VCT Pacífico tras confirmar previamente su salida.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/gen-g-esports-asegura-a-karon-hasta-2026-en-el-vct-pacifico-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/gen-g-esports-asegura-a-karon-hasta-2026-en-el-vct-pacifico-1103.jpg",
+    "fecha": "2026-11-03T18:01:02.560186",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports"
+  },
+  {
     "tipo": "noticia",
     "titulo": "A Perfect Circle llega a CDMX con Dogstar, banda de Keanu Reeves",
     "artista": "A Perfect Circle",
