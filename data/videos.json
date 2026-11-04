@@ -63,6 +63,11 @@
   ],
   "longs": [
     {
+      "id": "gSDSIzbZW2I",
+      "titulo": "¿Genio incomprendido o su propia ruina? La historia de Kanye West",
+      "fecha": "2026-11-04"
+    },
+    {
       "id": "EzMvNZnU4cc",
       "titulo": "¿Cómo nació el monstruo del metal? Rata Blanca en la cima",
       "fecha": "2026-11-03"
@@ -86,11 +91,6 @@
       "id": "x9957JlZgJk",
       "titulo": "¿Qué impulsó a Elton John a reinventarse a los 70 años? – El salto que cambió su historia",
       "fecha": "2026-10-30"
-    },
-    {
-      "id": "LR1wy0ECOME",
-      "titulo": "¿Quién fue el camaleón del rock? La vida secreta de un genio musical",
-      "fecha": "2026-10-29"
     }
   ],
   "podcast": []

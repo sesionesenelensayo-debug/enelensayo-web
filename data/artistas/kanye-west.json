@@ -1,0 +1,16 @@
+{
+  "artista": "Kanye West",
+  "slug": "kanye-west",
+  "imagen": "",
+  "shorts": [],
+  "longs": [
+    {
+      "titulo": "¿Genio incomprendido o su propia ruina? La historia de Kanye West",
+      "url": "https://www.youtube.com/shorts/gSDSIzbZW2I",
+      "fecha": "2026-11-04",
+      "tipo": "long"
+    }
+  ],
+  "tweets": [],
+  "updated": "2026-11-04 12:03"
+}
