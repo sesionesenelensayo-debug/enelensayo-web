@@ -1,5 +1,21 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "El mito de James Gunn: cinco hechos que desmienten que sea el salvador de DC",
+    "artista": "¿James Gunn es un éxito en DC?",
+    "intro": "Se repite que James Gunn y Peter Safran salvaron a DC. Las cifras de taquilla, las pérdidas reportadas y las decisiones creativas de los primeros años de su gestión cuentan otra historia.",
+    "telegraph_url": "https://telegra.ph/El-mito-de-James-Gunn-cinco-hechos-que-desmienten-que-sea-el-salvador-de-DC-11-04",
+    "url": "https://enelensayomedia.com/notas/el-mito-de-james-gunn-cinco-hechos-que-desmienten-que-sea-el-salvador-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-mito-de-james-gunn-cinco-hechos-que-desmienten-que-sea-el-salvador-1103.jpg",
+    "fecha": "2026-11-04T09:15:15.961557",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU",
+    "fecha_original": "2026-11-03T20:26:34.381559",
+    "actualizada": true
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Detienen a Inés Gómez Mont en Florida",
     "artista": "Inés Gómez Mont",
@@ -249,20 +265,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "opinion": true,
-    "tipo": "reportaje",
-    "titulo": "El mito de James Gunn: cinco hechos que desmienten que sea el salvador de DC",
-    "artista": "¿James Gunn es un éxito en DC?",
-    "intro": "Se repite que James Gunn y Peter Safran salvaron a DC. Las cifras de taquilla, las pérdidas reportadas y las decisiones creativas de los primeros años de su gestión cuentan otra historia.",
-    "telegraph_url": "https://telegra.ph/El-mito-de-James-Gunn-cinco-hechos-que-desmienten-que-sea-el-salvador-de-DC-11-04",
-    "url": "https://enelensayomedia.com/notas/el-mito-de-james-gunn-cinco-hechos-que-desmienten-que-sea-el-salvador-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-mito-de-james-gunn-cinco-hechos-que-desmienten-que-sea-el-salvador-1103.jpg",
-    "fecha": "2026-11-03T20:26:34.381559",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU"
   },
   {
     "opinion": false,
