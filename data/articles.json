@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Callum Turner lidera las apuestas para el próximo James Bond",
+    "artista": "Callum Turner",
+    "intro": "Los pronósticos de apuestas sitúan a Callum Turner como favorito para encarnar al icónico 007, mientras que Pierce Brosnan, antiguo Bond, sigue sin descartar un papel de mentor en la próxima entrega.",
+    "telegraph_url": "https://telegra.ph/Callum-Turner-lidera-las-apuestas-para-el-próximo-James-Bond-11-04",
+    "url": "https://enelensayomedia.com/notas/callum-turner-lidera-las-apuestas-para-el-proximo-james-bond-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/callum-turner-lidera-las-apuestas-para-el-proximo-james-bond-1104.jpg",
+    "fecha": "2026-11-04T07:51:10.553336",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-11-04T07:31:42.138758",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Natanael Cano lidera la música mexicana más escuchada en 2026 pese a quedar tercero en ranking global",
     "artista": "Natanael Cano",
     "intro": "Natanael Cano se consolida como el artista mexicano más escuchado en 2026, según reportes de varios medios.",
@@ -26,20 +42,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Callum Turner lidera las apuestas para el próximo James Bond",
-    "artista": "Callum Turner",
-    "intro": "Los pronósticos de apuestas sitúan a Callum Turner como favorito para encarnar al icónico 007, mientras que Pierce Brosnan, antiguo Bond, sigue sin descartar un papel de mentor en la próxima entrega.",
-    "telegraph_url": "https://telegra.ph/Callum-Turner-lidera-las-apuestas-para-el-próximo-James-Bond-11-04",
-    "url": "https://enelensayomedia.com/notas/callum-turner-lidera-las-apuestas-para-el-proximo-james-bond-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/callum-turner-lidera-las-apuestas-para-el-proximo-james-bond-1104.jpg",
-    "fecha": "2026-11-04T07:31:42.138758",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   },
   {
     "opinion": false,
