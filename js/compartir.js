@@ -42,8 +42,10 @@
       var W = 1080, H = 1920, cv = document.createElement('canvas'); cv.width = W; cv.height = H; var c = cv.getContext('2d');
       var g = c.createLinearGradient(0, 0, 0, H); g.addColorStop(0, '#0b0812'); g.addColorStop(1, '#2a1650'); c.fillStyle = g; c.fillRect(0, 0, W, H);
       c.fillStyle = '#ffe53b'; c.font = '800 44px Manrope,Arial,sans-serif'; c.fillText('EN EL ENSAYO MEDIA', 60, 120);
-      if (img) { var r = Math.max(960 / img.width, 800 / img.height), w = img.width * r, h = img.height * r; c.save(); c.beginPath(); c.roundRect ? c.roundRect(60, 170, 960, 800, 36) : c.rect(60, 170, 960, 800); c.clip(); c.drawImage(img, 60 + (960 - w) / 2, 170 + (800 - h) / 2, w, h); c.restore(); }
-      c.fillStyle = '#fff'; c.font = '900 68px Manrope,Arial,sans-serif'; var y = envolver(c, titulo.trim(), 60, 1100, 960, 82, 6);
+      // [.leon 2026-11-04] La portada ya trae su texto: se dibuja COMPLETA (sin recortar). Ancho 960 y alto proporcional (tope 980).
+      var ih = 0;
+      if (img) { var r = Math.min(960 / img.width, 980 / img.height), w = img.width * r, h = img.height * r; ih = h; var x0 = 60 + (960 - w) / 2; c.save(); c.beginPath(); c.roundRect ? c.roundRect(x0, 170, w, h, 36) : c.rect(x0, 170, w, h); c.clip(); c.drawImage(img, x0, 170, w, h); c.restore(); }
+      c.fillStyle = '#fff'; c.font = '900 68px Manrope,Arial,sans-serif'; var y = envolver(c, titulo.trim(), 60, 170 + (ih || 800) + 100, 960, 82, 5);
       c.fillStyle = '#ffe53b'; var by = Math.max(y + 50, 1560); c.beginPath(); c.roundRect ? c.roundRect(60, by, 960, 110, 55) : c.rect(60, by, 960, 110); c.fill();
       c.fillStyle = '#0b0812'; c.font = '800 44px Manrope,Arial,sans-serif'; c.textAlign = 'center'; c.fillText('LEE LA NOTA · enelensayomedia.com', 540, by + 70); c.textAlign = 'left';
       cv.toBlob(function (blob) {
