@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Thomas Markle bajo investigación por presunto material de abuso infantil",
+    "artista": "Thomas Markle",
+    "intro": "El padre de Meghan Markle, Thomas Markle, de 82 años, está siendo investigado tras la supuesta detección de material de abuso sexual infantil en dispositivos electrónicos incautados en su vivienda…",
+    "telegraph_url": "https://telegra.ph/Thomas-Markle-bajo-investigación-por-presunto-material-de-abuso-infantil-11-04",
+    "url": "https://enelensayomedia.com/notas/thomas-markle-bajo-investigacion-por-presunto-material-de-abuso-infant-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/thomas-markle-bajo-investigacion-por-presunto-material-de-abuso-infant-1104.jpg",
+    "fecha": "2026-11-04T14:21:29.342827",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Ariadna Gutiérrez es homenajeada mientras Karol G llega a México",
     "artista": "Ariadna Gutiérrez",
     "intro": "Ariadna Gutiérrez recibió un homenaje público en México coincidiendo con la llegada de la cantante Karol G al país. El mismo acto incluyó un mensaje para la actriz Aylín Mujica.",
@@ -5544,18 +5558,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reportaje"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece Derrick Harriott, pionero del ska, rocksteady y reggae a los 87 años",
-    "artista": "",
-    "intro": "El 24 de octubre de 2026 murió Derrick Clifton Harriott, reconocido cantante y productor jamaicano, a los 87 años. Su fallecimiento, anunciado por The Glea",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fallece-derrick-harriott-pionero-del-ska-rocksteady-y-reggae-a-los-87-1024.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-derrick-harriott-pionero-del-ska-rocksteady-y-reggae-a-los-87-1024.jpg",
-    "fecha": "2026-10-24T11:09:57",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
