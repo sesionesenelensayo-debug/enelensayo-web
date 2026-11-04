@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "A Perfect Circle llega a CDMX con Dogstar, banda de Keanu Reeves",
+    "artista": "A Perfect Circle",
+    "intro": "Según Time Out México, la banda estadounidense A Perfect Circle tocará en la Ciudad de México acompañada por Dogstar, el grupo liderado por el actor Keanu Reeves. El anuncio confirma la presencia de a",
+    "telegraph_url": "https://telegra.ph/A-Perfect-Circle-llega-a-CDMX-con-Dogstar-banda-de-Keanu-Reeves-10-31",
+    "url": "https://enelensayomedia.com/notas/a-perfect-circle-llega-a-cdmx-con-dogstar-banda-de-keanu-reeves-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/a-perfect-circle-llega-a-cdmx-con-dogstar-banda-de-keanu-reeves-1031.jpg",
+    "fecha": "2026-11-04T09:21:38.892611",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos",
+    "fecha_original": "2026-10-31T09:47:34.163501",
+    "actualizada": true
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "El mito de James Gunn: cinco hechos que desmienten que sea el salvador de DC",
@@ -397,21 +412,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Esports"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "A Perfect Circle llega a CDMX con Dogstar, banda de Keanu Reeves",
-    "artista": "A Perfect Circle",
-    "intro": "Según Time Out México, la banda estadounidense A Perfect Circle tocará en la Ciudad de México acompañada por Dogstar, el grupo liderado por el actor Keanu Reeves. El anuncio confirma la presencia de a",
-    "telegraph_url": "https://telegra.ph/A-Perfect-Circle-llega-a-CDMX-con-Dogstar-banda-de-Keanu-Reeves-10-31",
-    "url": "https://enelensayomedia.com/notas/a-perfect-circle-llega-a-cdmx-con-dogstar-banda-de-keanu-reeves-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/a-perfect-circle-llega-a-cdmx-con-dogstar-banda-de-keanu-reeves-1031.jpg",
-    "fecha": "2026-11-03T17:52:16.277252",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-10-31T09:47:34.163501",
-    "actualizada": true
   },
   {
     "opinion": false,
