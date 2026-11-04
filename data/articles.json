@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "A Perfect Circle llega a CDMX con Dogstar, banda de Keanu Reeves",
+    "artista": "A Perfect Circle",
+    "intro": "Según Time Out México, la banda estadounidense A Perfect Circle tocará en la Ciudad de México acompañada por Dogstar, el grupo liderado por el actor Keanu Reeves. El anuncio confirma la presencia de a",
+    "telegraph_url": "https://telegra.ph/A-Perfect-Circle-llega-a-CDMX-con-Dogstar-banda-de-Keanu-Reeves-10-31",
+    "url": "https://enelensayomedia.com/notas/a-perfect-circle-llega-a-cdmx-con-dogstar-banda-de-keanu-reeves-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/a-perfect-circle-llega-a-cdmx-con-dogstar-banda-de-keanu-reeves-1031.jpg",
+    "fecha": "2026-11-04T13:30:30.916693",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-10-31T09:47:34.163501",
+    "actualizada": true
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Detienen a Inés Gómez Mont en Florida",
     "artista": "Inés Gómez Mont",
@@ -207,21 +222,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Esports"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "A Perfect Circle llega a CDMX con Dogstar, banda de Keanu Reeves",
-    "artista": "A Perfect Circle",
-    "intro": "Según Time Out México, la banda estadounidense A Perfect Circle tocará en la Ciudad de México acompañada por Dogstar, el grupo liderado por el actor Keanu Reeves. El anuncio confirma la presencia de a",
-    "telegraph_url": "https://telegra.ph/A-Perfect-Circle-llega-a-CDMX-con-Dogstar-banda-de-Keanu-Reeves-10-31",
-    "url": "https://enelensayomedia.com/notas/a-perfect-circle-llega-a-cdmx-con-dogstar-banda-de-keanu-reeves-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/a-perfect-circle-llega-a-cdmx-con-dogstar-banda-de-keanu-reeves-1031.jpg",
-    "fecha": "2026-11-04T09:21:38.892611",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-10-31T09:47:34.163501",
-    "actualizada": true
   },
   {
     "opinion": true,
