@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Kanye West: del genio musical a la caída de su imperio",
+    "artista": "Kanye West",
+    "intro": "En el video de En el Ensayo Media se recorre la vida de Kanye West, desde su infancia en Chicago hasta su ascenso como productor y rapero…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/kanye-west-del-genio-musical-a-la-caida-de-su-imperio-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/kanye-west-del-genio-musical-a-la-caida-de-su-imperio-1104.jpg",
+    "fecha": "2026-11-04T12:11:04.030611",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Vivienne Jolie oficializa la solicitud para eliminar el apellido Pitt",
     "artista": "Vivienne",
     "intro": "Vivienne, la hija de Angelina Jolie y Brad Pitt, presentó una solicitud legal ante la Corte Superior del Condado de Los Ángeles para eliminar el apellido 'Pitt' de su nombre.",
@@ -4233,20 +4248,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Victor Jara ¿Por qué le temían tanto a su guitarra? El trágico final",
-    "artista": "Victor Jara",
-    "intro": "Víctor Lidio Jara Martínez nació el 28 de septiembre de 1932 en la provincia de Ñuble, Chile, en un entorno rural donde la vida se mide con el sudor del campo. Hijo de Manuel Jara y de Amanda Martínez",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/victor-jara-por-que-le-temian-tanto-a-su-guitarra-el-tragico-final-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/victor-jara-por-que-le-temian-tanto-a-su-guitarra-el-tragico-final-1030.jpg",
-    "fecha": "2026-10-30T17:36:22.241973",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   },
   {
     "tipo": "reportaje",
