@@ -1,5 +1,21 @@
 [
   {
+    "opinion": false,
+    "tipo": "noticia",
+    "titulo": "David Guetta anuncia concierto en la CDMX para el 8 de mayo de 2027",
+    "artista": "David Guetta",
+    "intro": "El DJ francés regresará a la Ciudad de México con The Monolith Tour, cuya preventa inicia el 5 de noviembre de 2026.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/david-guetta-anuncia-concierto-en-la-cdmx-para-el-8-de-mayo-de-2027-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/david-guetta-anuncia-concierto-en-la-cdmx-para-el-8-de-mayo-de-2027-1102.jpg",
+    "fecha": "2026-11-04T14:53:29.909398",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos",
+    "fecha_original": "2026-11-02T17:32:41.991221",
+    "actualizada": true
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "Mason Thames confirmado como Robin/Dick Grayson en la película animada \"Dynamic Duo\"",
@@ -1521,20 +1537,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "David Guetta anuncia concierto en la CDMX para el 8 de mayo de 2027",
-    "artista": "David Guetta",
-    "intro": "El DJ francés regresará a la Ciudad de México con The Monolith Tour, cuya preventa inicia el 5 de noviembre de 2026.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/david-guetta-anuncia-concierto-en-la-cdmx-para-el-8-de-mayo-de-2027-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/david-guetta-anuncia-concierto-en-la-cdmx-para-el-8-de-mayo-de-2027-1102.jpg",
-    "fecha": "2026-11-02T17:32:41.991221",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
   },
   {
     "opinion": false,
