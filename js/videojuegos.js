@@ -25,10 +25,10 @@
 
   get('data/articles.json').then(function (arts) {
     var el = document.getElementById('sxVjNotas'); if (!el) return;
-    var l = arts.filter(function (a) { return (a.categoria || '') === 'Videojuegos'; }).sort(function (a, b) { return new Date(b.fecha) - new Date(a.fecha); }).slice(0, 12);
+    var l = arts.filter(function (a) { return (a.categoria || '') === 'Videojuegos' || (a.categoria || '') === 'Esports'; }).sort(function (a, b) { return new Date(b.fecha) - new Date(a.fecha); }).slice(0, 18);   // [.leon 2026-11-05] Esports integrado a Videojuegos
     if (!l.length) { el.innerHTML = '<p class="sx-vacio">Pronto: las polémicas del mundo gamer, con datos.</p>'; return; }
     el.innerHTML = l.map(function (a) {
-      return '<a class="sx-card" href="' + esc(a.url) + '"><div class="foto">' + (a.imagen_url ? '<img loading="lazy" src="' + esc(a.imagen_url) + '" alt="" onerror="this.remove()">' : '') + '</div><div class="cuerpo"><span class="sx-tag">Videojuegos</span><h3>' +
+      return '<a class="sx-card" href="' + esc(a.url) + '"><div class="foto">' + (a.imagen_url ? '<img loading="lazy" src="' + esc(a.imagen_url) + '" alt="" onerror="this.remove()">' : '') + '</div><div class="cuerpo"><span class="sx-tag">' + esc(a.categoria === 'Esports' ? 'Esports' : 'Videojuegos') + '</span><h3>' +
         esc(a.titulo) + '</h3><span class="sx-meta"><b>' + esc(a.artista || '') + '</b><span>' + fecha(a.fecha) + '</span></span></div></a>';
     }).join('');
   }).catch(function () { });
