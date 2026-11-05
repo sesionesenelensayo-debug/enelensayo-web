@@ -1,6 +1,22 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Kanye West: ¿Nuevo concierto en CDMX?",
+    "artista": "Kanye West",
+    "intro": "¿Regresa Kanye West a México? Trascendió de manera viral un anuncio sobre un posible concierto del rapero en el Estadio Banorte de la Ciudad de México.",
+    "telegraph_url": "https://telegra.ph/Kanye-West-Nuevo-concierto-en-CDMX-11-04",
+    "url": "https://enelensayomedia.com/notas/kanye-west-nuevo-concierto-en-cdmx-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/kanye-west-nuevo-concierto-en-cdmx-1103.jpg",
+    "fecha": "2026-11-04T19:29:41.617635",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-11-03T19:17:28.974086",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Daniela Spalla anuncia concierto en el Teatro Metropólitan de la CDMX el 19 de febrero de 2027",
     "artista": "Daniela Spalla",
@@ -104,22 +120,6 @@
     "views": 0,
     "categoria": "Conciertos",
     "fecha_original": "2026-11-03T13:32:45.214509",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Kanye West: ¿Nuevo concierto en CDMX?",
-    "artista": "Kanye West",
-    "intro": "¿Regresa Kanye West a México? Trascendió de manera viral un anuncio sobre un posible concierto del rapero en el Estadio Banorte de la Ciudad de México.",
-    "telegraph_url": "https://telegra.ph/Kanye-West-Nuevo-concierto-en-CDMX-11-04",
-    "url": "https://enelensayomedia.com/notas/kanye-west-nuevo-concierto-en-cdmx-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/kanye-west-nuevo-concierto-en-cdmx-1103.jpg",
-    "fecha": "2026-11-04T18:40:12.942511",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-03T19:17:28.974086",
     "actualizada": true
   },
   {
