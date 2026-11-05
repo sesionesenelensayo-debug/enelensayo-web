@@ -97,6 +97,7 @@ for k, (et, tit, desc, ids) in PAGINAS.items():
     h = re.sub(r"<title>.*?</title>", f"<title>{tit} — En El Ensayo Media</title>", head, flags=re.S)
     h = re.sub(r'(<meta name="description" content=")[^"]*', r"\g<1>" + desc, h)
     h = h.replace('content="https://enelensayomedia.com" />', f'content="https://enelensayomedia.com/{k}.html" />')
+    h = h.replace('<link rel="canonical" href="https://enelensayomedia.com" />', f'<link rel="canonical" href="https://enelensayomedia.com/{k}.html" />')   # [.leon 2026-11-05] antes apuntaba a la portada en TODAS las secciones
     h = re.sub(r'<script type="application/ld\+json">.*?</script>', "", h, flags=re.S)
     # [.leon 2026-11-03] guía SEO de Google: migas de pan (BreadcrumbList) + CollectionPage por sección
     import json as _json
@@ -109,6 +110,7 @@ for k, (et, tit, desc, ids) in PAGINAS.items():
     h = h.replace("</head>", "".join('<script type="application/ld+json">' + _json.dumps(x, ensure_ascii=False) + "</script>" for x in _ld) + "</head>", 1)
     cuerpo = "".join(seccion(i) for i in ids)
     cuerpo = cuerpo.replace('class="section section--dark', 'class="section section--dark', 1)
+    cuerpo = re.sub(r'<h2 class="section-title">(.*?)</h2>', r'<h1 class="section-title">\1</h1>', cuerpo, count=1, flags=re.S)   # [.leon 2026-11-05] un h1 por página (guía SEO)
     pag = h + "<body>\n\n" + menu(nav, k) + f'  <header class="pag-cab"><div class="section-inner"><a class="pag-volver" href="/">← Portada</a></div></header>\n  <div class="section-inner" data-slot="cabecera"></div>\n' + cuerpo + "\n" + footer + scripts
     open(os.path.join(AQUI, f"{k}.html"), "w", encoding="utf-8").write(pag)
 print("páginas:", len(PAGINAS))
