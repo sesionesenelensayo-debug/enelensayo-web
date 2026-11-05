@@ -1,6 +1,22 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Russell Brand hallado culpable de violación y tres agresiones sexuales en Londres",
+    "artista": "Russell Brand",
+    "intro": "El 5 de noviembre de 2026 un jurado del Tribunal de la Corona de Southwark declaró a Russell Brand culpable de un cargo de violación y tres cargos de agresión sexual, tras dos días de deliberaciones.",
+    "telegraph_url": "https://telegra.ph/Russell-Brand-hallado-culpable-de-violación-y-tres-agresiones-sexuales-en-Londres-11-05",
+    "url": "https://enelensayomedia.com/notas/russell-brand-hallado-culpable-de-violacion-y-tres-agresiones-sexuales-1105.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/russell-brand-hallado-culpable-de-violacion-y-tres-agresiones-sexuales-1105.jpg",
+    "fecha": "2026-11-05T15:28:10.989406",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje",
+    "fecha_original": "2026-11-05T10:39:18.204544",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Pitbull anuncia gira 'I'm Back' en México para febrero de 2027",
     "artista": "Pitbull",
@@ -256,20 +272,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Russell Brand hallado culpable de violación y tres agresiones sexuales en Londres",
-    "artista": "Russell Brand",
-    "intro": "El 5 de noviembre de 2026 un jurado del Tribunal de la Corona de Southwark declaró a Russell Brand culpable de un cargo de violación y tres cargos de agresión sexual, tras dos días de deliberaciones.",
-    "telegraph_url": "https://telegra.ph/Russell-Brand-hallado-culpable-de-violación-y-tres-agresiones-sexuales-en-Londres-11-05",
-    "url": "https://enelensayomedia.com/notas/russell-brand-hallado-culpable-de-violacion-y-tres-agresiones-sexuales-1105.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/russell-brand-hallado-culpable-de-violacion-y-tres-agresiones-sexuales-1105.jpg",
-    "fecha": "2026-11-05T10:39:18.204544",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reportaje"
   },
   {
     "opinion": false,
