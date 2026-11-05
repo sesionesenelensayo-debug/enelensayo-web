@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "El Fausto encabezará el festival FISCUM",
+    "artista": "El Fausto",
+    "intro": "Según el titular publicado, la agrupación El Fausto será la cabeza de cartel del festival FISCUM.",
+    "telegraph_url": "https://telegra.ph/El-Fausto-encabezará-el-festival-FISCUM-11-01",
+    "url": "https://enelensayomedia.com/notas/el-fausto-encabezara-el-festival-fiscum-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-fausto-encabezara-el-festival-fiscum-1101.jpg",
+    "fecha": "2026-11-05T11:02:29.975920",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Escena local",
+    "fecha_original": "2026-11-01T10:04:08.866496",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Becky G será invitada especial de Karol G en su regreso a México",
@@ -904,21 +919,6 @@
     "views": 0,
     "categoria": "Luchas",
     "fecha_original": "2026-11-02T10:20:39.913036",
-    "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El Fausto encabezará el festival FISCUM",
-    "artista": "El Fausto",
-    "intro": "Según el titular publicado, la agrupación El Fausto será la cabeza de cartel del festival FISCUM.",
-    "telegraph_url": "https://telegra.ph/El-Fausto-encabezará-el-festival-FISCUM-11-01",
-    "url": "https://enelensayomedia.com/notas/el-fausto-encabezara-el-festival-fiscum-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-fausto-encabezara-el-festival-fiscum-1101.jpg",
-    "fecha": "2026-11-04T10:35:24.726983",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Escena local",
-    "fecha_original": "2026-11-01T10:04:08.866496",
     "actualizada": true
   },
   {
@@ -4187,6 +4187,19 @@
   },
   {
     "tipo": "reportaje",
+    "titulo": "Viralizan ofrendas de Día de Muertos en el extranjero y desata debate cultural",
+    "artista": "Polémica por ofrendas de Día de Muertos fuera de México",
+    "intro": "Imágenes de altares para mascotas en el exterior generaron críticas por apropiación cultural y defensas de la tradición.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/viralizan-ofrendas-de-dia-de-muertos-en-el-extranjero-y-desata-debate-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/viralizan-ofrendas-de-dia-de-muertos-en-el-extranjero-y-desata-debate-1030.jpg",
+    "fecha": "2026-10-30T20:08:06.009269",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Agenda woke"
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "JOAQUÍN CARBONELL: Murió el día de su cumpleaños",
     "artista": "JOAQUÍN CARBONELL",
     "intro": "El cantautor, narrador, poeta y periodista español Joaquín Carbonell falleció el 12 de septiembre de 2020, el mismo día de su cumpleaños. Su muerte ocurrió en un hospital de Zaragoza, mientras luchaba",
@@ -5221,18 +5234,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Viralizan ofrendas de Día de Muertos en el extranjero y desata debate cultural",
-    "artista": "Polémica por ofrendas de Día de Muertos fuera de México",
-    "intro": "Imágenes de altares para mascotas en el exterior generaron críticas por apropiación cultural y defensas de la tradición.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/viralizan-ofrendas-de-dia-de-muertos-en-el-extranjero-y-desata-debate-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/viralizan-ofrendas-de-dia-de-muertos-en-el-extranjero-y-desata-debate-1030.jpg",
-    "fecha": "2026-10-30T20:08:06.009269",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Agenda woke"
   }
 ]
