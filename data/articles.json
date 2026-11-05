@@ -1,5 +1,21 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Netflix anuncia estreno en enero 2027 de la temporada 2 de 'Samurái de ojos azules'",
+    "artista": "Samurái de ojos azules",
+    "intro": "Tras cuatro años de ausencia, Netflix reveló el nuevo tráiler de la segunda temporada de 'Samurái de ojos azules' y confirmó su estreno para enero de 2027.",
+    "telegraph_url": "https://telegra.ph/Netflix-anuncia-estreno-en-enero-2027-de-la-temporada-2-de-Samurái-de-ojos-azules-11-04",
+    "url": "https://enelensayomedia.com/notas/netflix-anuncia-estreno-en-enero-2027-de-la-temporada-2-de-samurai-de-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/netflix-anuncia-estreno-en-enero-2027-de-la-temporada-2-de-samurai-de-1104.jpg",
+    "fecha": "2026-11-05T14:21:50.503665",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Televisión",
+    "fecha_original": "2026-11-04T11:29:15.047237",
+    "actualizada": true
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Las 10 mayores pérdidas de taquilla entre 2025 y 2026",
     "artista": "las 10 películas que más dinero perdieron (mayores fracasos de taquilla recientes)",
@@ -1010,20 +1026,6 @@
     "categoria": "Marvel y DCU",
     "fecha_original": "2026-11-02T09:20:00",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Netflix anuncia estreno en enero 2027 de la temporada 2 de 'Samurái de ojos azules'",
-    "artista": "Samurái de ojos azules",
-    "intro": "Tras cuatro años de ausencia, Netflix reveló el nuevo tráiler de la segunda temporada de 'Samurái de ojos azules' y confirmó su estreno para enero de 2027.",
-    "telegraph_url": "https://telegra.ph/Netflix-anuncia-estreno-en-enero-2027-de-la-temporada-2-de-Samurái-de-ojos-azules-11-04",
-    "url": "https://enelensayomedia.com/notas/netflix-anuncia-estreno-en-enero-2027-de-la-temporada-2-de-samurai-de-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/netflix-anuncia-estreno-en-enero-2027-de-la-temporada-2-de-samurai-de-1104.jpg",
-    "fecha": "2026-11-04T11:29:15.047237",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Televisión"
   },
   {
     "opinion": false,
