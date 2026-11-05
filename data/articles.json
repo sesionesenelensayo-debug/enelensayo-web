@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "CM Punk desafía a Grayson Waller por el título de NXT y aparecerá en el John Cena Classic",
+    "artista": "CM Punk",
+    "intro": "El miércoles 4 de noviembre de 2026, CM Punk volverá a la pantalla de WWE NXT para retar a Grayson Waller por el Campeonato de NXT. El combate se emitirá a las 8 p.m.",
+    "telegraph_url": "https://telegra.ph/CM-Punk-desafía-a-Grayson-Waller-por-el-título-de-NXT-y-aparecerá-en-el-John-Cena-Classic-11-05",
+    "url": "https://enelensayomedia.com/notas/cm-punk-desafia-a-grayson-waller-por-el-titulo-de-nxt-y-aparecera-en-e-1105.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/cm-punk-desafia-a-grayson-waller-por-el-titulo-de-nxt-y-aparecera-en-e-1105.jpg",
+    "fecha": "2026-11-05T10:23:29.562000",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Pitbull anuncia gira 'I'm Back' en México para febrero de 2027",
     "artista": "Pitbull",
@@ -5594,19 +5608,6 @@
     "url": "https://enelensayomedia.com/notas/crisis-emocional-de-natalia-alcocer-en-reality-show-1028.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/crisis-emocional-de-natalia-alcocer-en-reality-show-1028.jpg",
     "fecha": "2026-10-28T17:38:22",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Jesús Ochoa sufre accidente en el musical Perfume de Gardenia",
-    "artista": "",
-    "intro": "El reconocido actor y director mexicano Jesús Ochoa sufrió un accidente la noche del viernes 23 de octubre de 2026 durante una función especial del musical",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/jesus-ochoa-sufre-accidente-en-el-musical-perfume-de-gardenia-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/jesus-ochoa-sufre-accidente-en-el-musical-perfume-de-gardenia-1028.jpg",
-    "fecha": "2026-10-28T17:36:17",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
