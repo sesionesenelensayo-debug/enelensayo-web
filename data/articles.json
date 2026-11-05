@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "El misterio del Castillo de Houska: la fortaleza sobre el infierno",
+    "artista": "el Castillo de Houska",
+    "intro": "Una formación rocosa atraviesa el edificio del castillo de Houska, justo debajo de una capilla dedicada a san Miguel.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-misterio-del-castillo-de-houska-la-fortaleza-sobre-el-infierno-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-misterio-del-castillo-de-houska-la-fortaleza-sobre-el-infierno-1104.jpg",
+    "fecha": "2026-11-04T22:02:17.166991",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Historias de terror"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "El Papa León XIV recibe a Bob Dylan en el Vaticano",
     "artista": "Bob Dylan",
     "intro": "El miércoles 4 de noviembre de 2026, el Papa León XIV, de 71 años y el primer pontífice estadounidense, recibió al legendario cantautor estadounidense Bob Dylan, de 85 años…",
@@ -5583,18 +5597,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Peso Pluma y Fuerza Regida triunfan en los Billboard 2026",
-    "artista": "",
-    "intro": "En la edición 2026 de los Billboard, Peso Pluma y Fuerza Regida fueron destacados como los principales ganadores, resaltando el orgullo mexicano en el even",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/peso-pluma-y-fuerza-regida-triunfan-en-los-billboard-2026-1027.html",
-    "imagen_url": "",
-    "fecha": "2026-10-27T12:01:42",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reportaje"
   }
 ]
