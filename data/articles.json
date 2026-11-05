@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "El Papa León XIV recibe a Bob Dylan en el Vaticano",
+    "artista": "Bob Dylan",
+    "intro": "El miércoles 4 de noviembre de 2026, el Papa León XIV, de 71 años y el primer pontífice estadounidense, recibió al legendario cantautor estadounidense Bob Dylan, de 85 años…",
+    "telegraph_url": "https://telegra.ph/El-Papa-León-XIV-recibe-a-Bob-Dylan-en-el-Vaticano-11-05",
+    "url": "https://enelensayomedia.com/notas/el-papa-leon-xiv-recibe-a-bob-dylan-en-el-vaticano-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-papa-leon-xiv-recibe-a-bob-dylan-en-el-vaticano-1104.jpg",
+    "fecha": "2026-11-05T08:38:58.174917",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura",
+    "fecha_original": "2026-11-04T21:33:10.493136",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Alexis Ayala y su novia Marietta Garza aparecen en Cancún con señal de \"Luna de Miel\"",
     "artista": "Alexis Ayala",
     "intro": "El actor Alexis Ayala compartió en Instagram fotos y videos de un viaje a Cancún con su novia, la emprendedora Marietta Garza.",
@@ -114,20 +130,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "El Papa León XIV recibe a Bob Dylan en el Vaticano",
-    "artista": "Bob Dylan",
-    "intro": "El miércoles 4 de noviembre de 2026, el Papa León XIV, de 71 años y el primer pontífice estadounidense, recibió al legendario cantautor estadounidense Bob Dylan, de 85 años…",
-    "telegraph_url": "https://telegra.ph/El-Papa-León-XIV-recibe-a-Bob-Dylan-en-el-Vaticano-11-05",
-    "url": "https://enelensayomedia.com/notas/el-papa-leon-xiv-recibe-a-bob-dylan-en-el-vaticano-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-papa-leon-xiv-recibe-a-bob-dylan-en-el-vaticano-1104.jpg",
-    "fecha": "2026-11-04T21:33:10.493136",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   },
   {
     "tipo": "reportaje",
