@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "El Papa León XIV recibe a Bob Dylan en el Vaticano",
+    "artista": "Bob Dylan",
+    "intro": "El miércoles 4 de noviembre de 2026, el Papa León XIV, de 71 años y el primer pontífice estadounidense, recibió al legendario cantautor estadounidense Bob Dylan, de 85 años…",
+    "telegraph_url": "https://telegra.ph/El-Papa-León-XIV-recibe-a-Bob-Dylan-en-el-Vaticano-11-05",
+    "url": "https://enelensayomedia.com/notas/el-papa-leon-xiv-recibe-a-bob-dylan-en-el-vaticano-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-papa-leon-xiv-recibe-a-bob-dylan-en-el-vaticano-1104.jpg",
+    "fecha": "2026-11-04T21:33:10.493136",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Familiares de víctimas de Itaewon exigen a Activision retirar imágenes reales de Call of Duty: ",
     "artista": "Call of Duty",
@@ -5582,18 +5596,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reportaje"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece la escultora Ursula von Rydingsvard",
-    "artista": "",
-    "intro": "El mundo del arte despide a la reconocida escultora Ursula von Rydingsvard, quien falleció el 27 de octubre de 2026 a la edad de 84 años. Su partida deja u",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fallece-la-escultora-ursula-von-rydingsvard-1027.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-la-escultora-ursula-von-rydingsvard-1027.jpg",
-    "fecha": "2026-10-27T07:57:16",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
