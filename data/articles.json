@@ -1,6 +1,22 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Fallece la actriz y comediante mexicana María Alicia Delgado a los 77 años",
+    "artista": "María Alicia Delgado",
+    "intro": "El 4 de noviembre de 2026 falleció la actriz y locutora mexicana María Alicia Delgado, conocida por su larga trayectoria en la televisión y el cine.",
+    "telegraph_url": "https://telegra.ph/Fallece-la-actriz-y-comediante-mexicana-María-Alicia-Delgado-a-los-77-años-11-04",
+    "url": "https://enelensayomedia.com/notas/fallece-la-actriz-y-comediante-mexicana-maria-alicia-delgado-a-los-77-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-la-actriz-y-comediante-mexicana-maria-alicia-delgado-a-los-77-1104.jpg",
+    "fecha": "2026-11-04T18:50:19.725314",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "In memoriam",
+    "fecha_original": "2026-11-04T17:59:31.575419",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Estrenos de noviembre 2026: de Los Juegos del Hambre a Godzilla llegan al cine",
     "artista": "Estrenos de noviembre 2026",
@@ -120,22 +136,6 @@
     "views": 0,
     "categoria": "Videojuegos",
     "fecha_original": "2026-10-31T09:33:41.980255",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Fallece la actriz y comediante mexicana María Alicia Delgado a los 77 años",
-    "artista": "María Alicia Delgado",
-    "intro": "El 4 de noviembre de 2026 falleció la actriz y locutora mexicana María Alicia Delgado, conocida por su larga trayectoria en la televisión y el cine.",
-    "telegraph_url": "https://telegra.ph/Fallece-la-actriz-y-comediante-mexicana-María-Alicia-Delgado-a-los-77-años-11-04",
-    "url": "https://enelensayomedia.com/notas/fallece-la-actriz-y-comediante-mexicana-maria-alicia-delgado-a-los-77-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-la-actriz-y-comediante-mexicana-maria-alicia-delgado-a-los-77-1104.jpg",
-    "fecha": "2026-11-04T18:22:57.513385",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam",
-    "fecha_original": "2026-11-04T17:59:31.575419",
     "actualizada": true
   },
   {
