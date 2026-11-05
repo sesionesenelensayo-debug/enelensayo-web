@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-04T17:59",
+ "actualizado": "2026-11-05T00:01",
  "peores": [
   {
    "titulo": "Code Violet",
@@ -135,31 +135,6 @@
   }
  ],
  "estrenos": [
-  {
-   "titulo": "Void/Breaker",
-   "fecha": "2026-11-04",
-   "fecha_txt": "4 de noviembre",
-   "plataformas": [
-    "PC",
-    "PS5",
-    "Xbox Series"
-   ],
-   "genero": "FPS, Roguelite",
-   "desarrolla": "Stubby Games",
-   "publica": "Playstack"
-  },
-  {
-   "titulo": "World of Warcraft: Forever",
-   "fecha": "2026-11-04",
-   "fecha_txt": "4 de noviembre",
-   "plataformas": [
-    "PC",
-    "Mac"
-   ],
-   "genero": "MMO, RPG",
-   "desarrolla": "Blizzard Entertainment",
-   "publica": ""
-  },
   {
    "titulo": "Escape Academy 2: Back 2 School",
    "fecha": "2026-11-05",
@@ -460,6 +435,30 @@
    "genero": "RTS",
    "desarrolla": "King Art Games",
    "publica": "Deep Silver"
+  },
+  {
+   "titulo": "Xenoblade Chronicles 3 – Nintendo Switch 2 Edition",
+   "fecha": "2026-12-03",
+   "fecha_txt": "3 de diciembre",
+   "plataformas": [
+    "Switch 2"
+   ],
+   "genero": "Action RPG",
+   "desarrolla": "Monolith Soft",
+   "publica": "Nintendo"
+  },
+  {
+   "titulo": "Petit Planet",
+   "fecha": "2026-12-04",
+   "fecha_txt": "4 de diciembre",
+   "plataformas": [
+    "PC",
+    "iOS",
+    "Android"
+   ],
+   "genero": "Life sim",
+   "desarrolla": "miHoYo",
+   "publica": ""
   }
  ]
 }
