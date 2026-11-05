@@ -1,6 +1,22 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "David Guetta anuncia concierto en Ciudad de México para 2027",
+    "artista": "David Guetta",
+    "intro": "El DJ francés presentará su gira The Monolith Tour en el Estadio GNP Seguros el 8 de mayo de 2027.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/david-guetta-anuncia-concierto-en-ciudad-de-mexico-para-2027-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/david-guetta-anuncia-concierto-en-ciudad-de-mexico-para-2027-1103.jpg",
+    "fecha": "2026-11-04T19:30:09.387311",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos",
+    "fecha_original": "2026-11-03T13:32:45.214509",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Kanye West: ¿Nuevo concierto en CDMX?",
     "artista": "Kanye West",
@@ -105,22 +121,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reportaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "David Guetta anuncia concierto en Ciudad de México para 2027",
-    "artista": "David Guetta",
-    "intro": "El DJ francés presentará su gira The Monolith Tour en el Estadio GNP Seguros el 8 de mayo de 2027.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/david-guetta-anuncia-concierto-en-ciudad-de-mexico-para-2027-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/david-guetta-anuncia-concierto-en-ciudad-de-mexico-para-2027-1103.jpg",
-    "fecha": "2026-11-04T18:43:29.475415",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos",
-    "fecha_original": "2026-11-03T13:32:45.214509",
-    "actualizada": true
   },
   {
     "opinion": false,
