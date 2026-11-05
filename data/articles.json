@@ -1,6 +1,22 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Sasha Sokol reaparece junto a Alejandro Soberón",
+    "artista": "Sasha Sokol",
+    "intro": "En medio de la polémica reciente en torno a la serie de Timbiriche, Sasha Sokol reapareció públicamente.",
+    "telegraph_url": "https://telegra.ph/Sasha-Sokol-reaparece-junto-a-Alejandro-Soberón-11-02",
+    "url": "https://enelensayomedia.com/notas/sasha-sokol-reaparece-junto-a-alejandro-soberon-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/sasha-sokol-reaparece-junto-a-alejandro-soberon-1102.jpg",
+    "fecha": "2026-11-05T11:17:42.017607",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-02T15:02:54.491082",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Prime Video anuncia su calendario completo de estrenos para noviembre 2026",
     "artista": "Prime Video",
@@ -11,7 +27,7 @@
     "fecha": "2026-11-05T11:15:41.670311",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música"
+    "categoria": "Televisión"
   },
   {
     "tipo": "reportaje",
@@ -2035,20 +2051,6 @@
     "url": "https://enelensayomedia.com/notas/emma-coronel-genera-revuelo-con-su-disfraz-de-halloween-1102.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/emma-coronel-genera-revuelo-con-su-disfraz-de-halloween-1102.jpg",
     "fecha": "2026-11-02T15:24:28.511544",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Sasha Sokol reaparece junto a Alejandro Soberón",
-    "artista": "Sasha Sokol",
-    "intro": "En medio de la polémica reciente en torno a la serie de Timbiriche, Sasha Sokol reapareció públicamente.",
-    "telegraph_url": "https://telegra.ph/Sasha-Sokol-reaparece-junto-a-Alejandro-Soberón-11-02",
-    "url": "https://enelensayomedia.com/notas/sasha-sokol-reaparece-junto-a-alejandro-soberon-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/sasha-sokol-reaparece-junto-a-alejandro-soberon-1102.jpg",
-    "fecha": "2026-11-02T15:02:54.491082",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
