@@ -1,6 +1,22 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Fallece la actriz y comediante mexicana María Alicia Delgado a los 77 años",
+    "artista": "María Alicia Delgado",
+    "intro": "El 4 de noviembre de 2026 falleció la actriz y locutora mexicana María Alicia Delgado, conocida por su larga trayectoria en la televisión y el cine.",
+    "telegraph_url": "https://telegra.ph/Fallece-la-actriz-y-comediante-mexicana-María-Alicia-Delgado-a-los-77-años-11-04",
+    "url": "https://enelensayomedia.com/notas/fallece-la-actriz-y-comediante-mexicana-maria-alicia-delgado-a-los-77-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-la-actriz-y-comediante-mexicana-maria-alicia-delgado-a-los-77-1104.jpg",
+    "fecha": "2026-11-04T19:36:04.988435",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "In memoriam",
+    "fecha_original": "2026-11-04T17:59:31.575419",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Thief: The Dark Project Remastered ya tiene fecha de estreno",
     "artista": "Thief: The Dark Project Remastered",
@@ -91,22 +107,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Fallece la actriz y comediante mexicana María Alicia Delgado a los 77 años",
-    "artista": "María Alicia Delgado",
-    "intro": "El 4 de noviembre de 2026 falleció la actriz y locutora mexicana María Alicia Delgado, conocida por su larga trayectoria en la televisión y el cine.",
-    "telegraph_url": "https://telegra.ph/Fallece-la-actriz-y-comediante-mexicana-María-Alicia-Delgado-a-los-77-años-11-04",
-    "url": "https://enelensayomedia.com/notas/fallece-la-actriz-y-comediante-mexicana-maria-alicia-delgado-a-los-77-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-la-actriz-y-comediante-mexicana-maria-alicia-delgado-a-los-77-1104.jpg",
-    "fecha": "2026-11-04T18:50:19.725314",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam",
-    "fecha_original": "2026-11-04T17:59:31.575419",
-    "actualizada": true
   },
   {
     "opinion": false,
