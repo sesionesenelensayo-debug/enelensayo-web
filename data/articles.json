@@ -1,6 +1,22 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Daniela Spalla anuncia concierto en el Teatro Metropólitan de la CDMX el 19 de febrero de 2027",
+    "artista": "Daniela Spalla",
+    "intro": "La cantante argentina presentará su nuevo álbum en un show que marcará el inicio de su gira internacional.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/daniela-spalla-anuncia-concierto-en-el-teatro-metropolitan-de-la-cdmx-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/daniela-spalla-anuncia-concierto-en-el-teatro-metropolitan-de-la-cdmx-1102.jpg",
+    "fecha": "2026-11-05T12:46:49.294322",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos",
+    "fecha_original": "2026-11-02T12:09:40.229809",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Jay-Z: De la venta de crack a la cumbre de Wall Street: la travesía de Jay‑Z",
     "artista": "Jay-Z",
@@ -518,22 +534,6 @@
     "views": 0,
     "categoria": "Música",
     "fecha_original": "2026-11-03T19:17:28.974086",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Daniela Spalla anuncia concierto en el Teatro Metropólitan de la CDMX el 19 de febrero de 2027",
-    "artista": "Daniela Spalla",
-    "intro": "La cantante argentina presentará su nuevo álbum en un show que marcará el inicio de su gira internacional.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/daniela-spalla-anuncia-concierto-en-el-teatro-metropolitan-de-la-cdmx-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/daniela-spalla-anuncia-concierto-en-el-teatro-metropolitan-de-la-cdmx-1102.jpg",
-    "fecha": "2026-11-04T19:29:13.420313",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos",
-    "fecha_original": "2026-11-02T12:09:40.229809",
     "actualizada": true
   },
   {
