@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "Karol G, Maluma y Justin Bieber aparecen con sus mejores disfraces de Halloween",
+    "artista": "Karol G",
+    "intro": "En la noche de Halloween, los artistas Karol G, Maluma y Justin Bieber fueron observados luciendo sus mejores disfraces, según reportes de varios medios.",
+    "telegraph_url": "https://telegra.ph/Karol-G-Maluma-y-Justin-Bieber-aparecen-con-sus-mejores-disfraces-de-Halloween-11-02",
+    "url": "https://enelensayomedia.com/notas/karol-g-maluma-y-justin-bieber-aparecen-con-sus-mejores-disfraces-de-h-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/karol-g-maluma-y-justin-bieber-aparecen-con-sus-mejores-disfraces-de-h-1102.jpg",
+    "fecha": "2026-11-04T21:31:08.382591",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-02T07:55:12.487794",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Fallece la actriz y comediante mexicana María Alicia Delgado a los 77 años",
@@ -11,7 +26,7 @@
     "fecha": "2026-11-04T21:29:50.433916",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "In memoriam",
+    "categoria": "Cultura",
     "fecha_original": "2026-11-04T17:59:31.575419",
     "actualizada": true
   },
@@ -2322,19 +2337,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Karol G, Maluma y Justin Bieber aparecen con sus mejores disfraces de Halloween",
-    "artista": "Karol G",
-    "intro": "En la noche de Halloween, los artistas Karol G, Maluma y Justin Bieber fueron observados luciendo sus mejores disfraces, según reportes de varios medios.",
-    "telegraph_url": "https://telegra.ph/Karol-G-Maluma-y-Justin-Bieber-aparecen-con-sus-mejores-disfraces-de-Halloween-11-02",
-    "url": "https://enelensayomedia.com/notas/karol-g-maluma-y-justin-bieber-aparecen-con-sus-mejores-disfraces-de-h-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/karol-g-maluma-y-justin-bieber-aparecen-con-sus-mejores-disfraces-de-h-1102.jpg",
-    "fecha": "2026-11-02T07:55:12.487794",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   },
   {
     "tipo": "reportaje",
