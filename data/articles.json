@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "noticia",
+    "titulo": "Pitbull anuncia gira 'I'm Back' en México para febrero de 2027",
+    "artista": "Pitbull",
+    "intro": "El artista ofrecerá tres conciertos en la Ciudad de México, Guadalajara y Monterrey, con preventas iniciando en octubre de 2026.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/pitbull-anuncia-gira-i-m-back-en-mexico-para-febrero-de-2027-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/pitbull-anuncia-gira-i-m-back-en-mexico-para-febrero-de-2027-1103.jpg",
+    "fecha": "2026-11-05T14:32:00.383711",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos",
+    "fecha_original": "2026-11-03T14:25:14.994583",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "noticia",
     "titulo": "David Guetta anuncia concierto en Ciudad de México para 2027",
     "artista": "David Guetta",
     "intro": "El DJ francés presentará su gira The Monolith Tour en el Estadio GNP Seguros el 8 de mayo de 2027.",
@@ -268,22 +284,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Luchas"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Pitbull anuncia gira 'I'm Back' en México para febrero de 2027",
-    "artista": "Pitbull",
-    "intro": "El artista ofrecerá tres conciertos en la Ciudad de México, Guadalajara y Monterrey, con preventas iniciando en octubre de 2026.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/pitbull-anuncia-gira-i-m-back-en-mexico-para-febrero-de-2027-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/pitbull-anuncia-gira-i-m-back-en-mexico-para-febrero-de-2027-1103.jpg",
-    "fecha": "2026-11-05T10:21:36.788827",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos",
-    "fecha_original": "2026-11-03T14:25:14.994583",
-    "actualizada": true
   },
   {
     "opinion": false,
