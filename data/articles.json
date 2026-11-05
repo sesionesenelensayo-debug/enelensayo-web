@@ -1,6 +1,23 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Harry Styles impulsa ingresos de Madison Square Garden en 37 %",
+    "artista": "Harry Styles",
+    "intro": "Harry Styles ha generado un aumento del 37 % en los ingresos de Madison Square Garden, según reportes.",
+    "telegraph_url": "https://telegra.ph/Harry-Styles-impulsa-ingresos-de-Madison-Square-Garden-en-37-11-04",
+    "url": "https://enelensayomedia.com/notas/harry-styles-impulsa-ingresos-de-madison-square-garden-en-37-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/harry-styles-impulsa-ingresos-de-madison-square-garden-en-37-1104.jpg",
+    "fecha": "2026-11-04T18:11:34.627412",
+    "author": "Oliver Ken",
+    "views": 0,
+    "nota_dia": true,
+    "categoria": "Internacional",
+    "fecha_original": "2026-11-04T14:02:05.901663",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Mckenna Grace y Joseph Zada responden a rumores",
     "artista": "Mckenna Grace",
@@ -247,21 +264,6 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-10-30T11:18:46.127306",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Harry Styles impulsa ingresos de Madison Square Garden en 37 %",
-    "artista": "Harry Styles",
-    "intro": "Harry Styles ha generado un aumento del 37 % en los ingresos de Madison Square Garden, según reportes.",
-    "telegraph_url": "https://telegra.ph/Harry-Styles-impulsa-ingresos-de-Madison-Square-Garden-en-37-11-04",
-    "url": "https://enelensayomedia.com/notas/harry-styles-impulsa-ingresos-de-madison-square-garden-en-37-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/harry-styles-impulsa-ingresos-de-madison-square-garden-en-37-1104.jpg",
-    "fecha": "2026-11-04T14:02:05.901663",
-    "author": "Oliver Ken",
-    "views": 0,
-    "nota_dia": true,
-    "categoria": "Internacional"
   },
   {
     "tipo": "reportaje",
