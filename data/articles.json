@@ -1,6 +1,21 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Aleks Syntek y su situación actual",
+    "artista": "",
+    "intro": "El cantautor mexicano Aleks Syntek enfrenta un periodo de cambios y ajustes en su carrera. Reportes de medios señalan situaciones médicas y personales reci",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/aleks-syntek-y-su-situacion-actual-1029.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/aleks-syntek-y-su-situacion-actual-1029.jpg",
+    "fecha": "2026-11-04T18:28:37.664155",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-10-29T14:15:37",
+    "actualizada": true
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Xbox Game Pass anuncia 7 nuevos títulos para noviembre de 2026",
     "artista": "Xbox Game Pass",
     "intro": "Xbox Game Pass confirmó la incorporación de siete juegos al catálogo para noviembre de 2026, según reportes de Kotaku en Español y Vandal. La noticia incluye fechas de lanzamiento y los títulos que es",
@@ -5045,19 +5060,6 @@
     "views": 0,
     "categoria": "Terror y misterio",
     "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Aleks Syntek y su situación actual",
-    "artista": "",
-    "intro": "El cantautor mexicano Aleks Syntek enfrenta un periodo de cambios y ajustes en su carrera. Reportes de medios señalan situaciones médicas y personales reci",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/aleks-syntek-y-su-situacion-actual-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/aleks-syntek-y-su-situacion-actual-1029.jpg",
-    "fecha": "2026-10-29T14:15:37",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   },
   {
     "tipo": "reportaje",
