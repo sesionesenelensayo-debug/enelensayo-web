@@ -1,5 +1,5 @@
 {
- "actualizado": "05/11/2026 11:47",
+ "actualizado": "05/11/2026 17:51",
  "recomendadas": [
   {
    "slug": "spartacus",
@@ -61,16 +61,16 @@
    "alias": "breaking bad",
    "noticias": [
     {
+     "titulo": "Revelan manera en la que murió RJ Mitte, protagonista de ‘Breaking Bad’ que se quitó la vida",
+     "medio": "Univision",
+     "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9iWmlvSlVrQXJHenpENFVjNE1rbnM2U09FSGJBWjFZRk1oRDJfZ2xDTEkyVEhmMGRzNHFrMkYxYXdQcnhJU09QNFp1b2ozQVQyRVBuNWdTR0F2LU5US2lyTVQzZmJPc2c5UnZqcUlYdGJFNEE?oc=5",
+     "fecha": "2026-11-05"
+    },
+    {
      "titulo": "Dean Norris, de “Breaking Bad”, se divorcia tras años casado",
      "medio": "AhoraMismo.com",
      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOelY2SkNWWEp2eFg0b2NBaklVTjR1c3U4bFFjemJFQVVmTTlfeUtqdHItaDd1UHpxT0FTZXVyRmhqQUwwZGg0VmFYejM5LXd5TnJkb084ZHg1MkcyS3RHNVlUNXZlbmVYLU9xR0NmcTFRbUR6amdfekoyNlgxQ3F1TE9hX2IzdjVBcWowMlJUamhaLTFEVWxDX1Y3MnNXRExpZmVFZFJpejk1QQ?oc=5",
      "fecha": "2026-11-05"
-    },
-    {
-     "titulo": "Murió otro integrante de la serie Breaking Bad: su rol en uno de los capítulos más recordados",
-     "medio": "Lmneuquen.com",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ3hFUVJGNjNNM3pLNllMRnZmVHVScktITHBraGhrZ0xIRHZPLWQwN25VbDZYRzJXektlaEN3OThUc2FNQUFwNXQtTjNtSWx5NjE3bjlzNUhYTzVQMUJJRFk2bkNZN3FNS0lmT2RwMnJkMUJxSHdPRDNrU1R5YmRXQVo5UF9EVWdmd2l5LWNqNHBodXM1NWdSMW1oSk5ULUlIc2lIR0ZEV0pJdmRWWldiUHJqNHlhQUhSOHVQUHVXdVpnSWJycXpLSTlqZ9IB0AFBVV95cUxNUHdmWVdaVUxrVTM4OXdZTU5CYlJDcnVzWFJRbGRXZVFQQnVJaGJBckZha1BUTHhLVE5pUU1xaWJFSVNTNzdmWUlObFlwT2N6bm9kM212UzdZT3AxdG9JQXR0NWlZNTJoazZDOUxzVzRBNllKTUhKNEJ2Y0w5RmwzOXFYZndDYWNnOWtaZURDVFNpWEJZU2p4MFlwVXk2SW54a1hWUTREUFZvUnpxalBVaTh0emhTbHNaaFEzUTNLMDlwUE0xV1labTdBTnhpMWhk?oc=5",
-     "fecha": "2026-10-31"
     },
     {
      "titulo": "¿Quién era Peter Medak? El director que dejó huella en Breaking Bad",
@@ -171,7 +171,14 @@
    "titulo": "Twisted Metal",
    "tipo": "Serie",
    "alias": "twisted metal",
-   "noticias": []
+   "noticias": [
+    {
+     "titulo": "“Twisted Metal” prepara su temporada más desatada: Anthony Mackie adelanta el regreso de Calypso",
+     "medio": "aBaNDoMoVieZ",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwY0pndl93dlVKaF9FYnJOU1FYd3dOa0NhUXo5eGZQbmN3ZF9tM2d2UGtLLVItQ2xwN0JZNFNzOVdBWTV1aXk5cTJfdVJTNE9KeXZWUTNEaS0yNEdTUmhrZw?oc=5",
+     "fecha": "2026-11-05"
+    }
+   ]
   },
   {
    "slug": "demon-slayer",
@@ -179,6 +186,12 @@
    "tipo": "Anime",
    "alias": "demon slayer|kimetsu",
    "noticias": [
+    {
+     "titulo": "demon slayer fighting scene",
+     "medio": "白鲸出海",
+     "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wZnZKcEMwZnpHbDNxS0laRkdrNFRRWlNpcDZNdnItRi1XS1ZaR3B6YVYtTHV5RndDSW90WVdLVWI3ZVpELUxvR2tHZGdnWTJfc3FBUlFxRWtjQWM?oc=5",
+     "fecha": "2026-11-04"
+    },
     {
      "titulo": "Tengen protagoniza la nueva imagen de Demon Slayer",
      "medio": "Atomix",
@@ -190,12 +203,6 @@
      "medio": "El Comercio Perú",
      "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQQzNObmJHZ1ktTWNqcU01LVhzV2U1UVlfN1pSR0xHeFdmWTNxLXNvZjRjUVdxYlZBeEYxby1sUmxyZGZ2SnJCX1QycVhGWHhnZDI0UlBWTDAydWh2YnpJUG42Qkpua0F0OUdGWEJKMkhUcVcxdUVwUWw1a2ktNGhwRE5wQkpzd2lETmo2OS1tNEtDMHFudXV2VE5BMzg1d21MTDFjaEw3M1g1ZjdOYzVZZkMwc2lLcWVRdjZqajI4NURwQ09lZkVHaEc0MnBTV09GTm1xb0tUY2V0cGV2ZllkZXlMV2w4U3lJVFRaaV9kNVA5OENpRGhZdkdGTFZqMXhqanlFYzF4Z2xwZVMy?oc=5",
      "fecha": "2026-11-02"
-    },
-    {
-     "titulo": "El anime rompe récord en Japón con ganancias de hasta 28 mil mdd; 'Demon Slayer', uno de los factores",
-     "medio": "La Jornada",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPczgzZVJXZkFXazRjWVJ0c0ItRXdDTDhDZDJfYzZFMVdYZnZ3YUd6aEc3Z1Y5QjRFR3lWelJPZjVlbVl6VXZ4TjdzTEE5N1dzdVBhVHpTTFpCWkNoRWhSTVprYkVkRFNleHJmNWZWRE96Q2treWtENE1DZTdrQjhrMm1nckRKTVh4eFdTOVlYMzlncFNhQUc1VURIYlVLVjdTZFhydWlMVThROUx3V3U5T2V2QTlOd2drTG5iSlUtZkpNZTVWMGoxLVVXZHlyc1NRanFmc2hwenpwVGRqblVPaFcwdkc1bWRpWlBVcg?oc=5",
-     "fecha": "2026-10-31"
     }
    ]
   },
@@ -232,22 +239,22 @@
    "alias": "dragon ball super",
    "noticias": [
     {
-     "titulo": "Bills y Oolong definen su apuesta: fecha de estreno, hora y link para ver el Episodio 4 de “Dragon Ball Super: Beerus”",
-     "medio": "El Comercio Perú",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS0xNLUQzNm5hdHNVaTBhbmRwQ3ZMeDd0Z0hodS1KQ1JsUXhCZFJqTHJFODVVSTI5a0RSUFlsdWpQcHotY0tvbDBJQ01fZXc2N0NtV3hQYUlKdUJHWHlPa1Fmdzd6d29hYUNHMmJIRFIwQzNSYlk5SFk1Q3dzUVBpS1BEZHJ2YUUwZzZ6SDZTWlF1ZkhCWThfNDg5alctWGNOUnBuaUVBQ1p1d2dTT0JtTl9LSDcxTHRiYzZIVDFKVHpUSFFpbjhZV2VVNW5JQURITDZGQlYyS1dPbEU0?oc=5",
-     "fecha": "2026-11-02"
+     "titulo": "Dragon Ball Super: Beerus tendrá doblaje latino y llegará a Crunchyroll",
+     "medio": "TierraGamer",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeTFrN2RXb0ZuQm5iaUJDVFNsclVfNldiUmRISDlGWHh2SDg0aFRlekp6TWQzVDByVFZrc3VBODljV3p0aURNR0M2SEs2aEpER2d1Tk9xOVRQaGZhQW9td2tqTVBXN1VoblVDSFZYX3pzaThZYU9KcmVxLXJGeHRUdDY5RHBzUQ?oc=5",
+     "fecha": "2026-11-05"
+    },
+    {
+     "titulo": "Dragon Ball Super: Beerus tendrá doblaje al español latino en Crunchyroll desde el 12 de noviembre",
+     "medio": "Crunchyroll",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQlBuSGpMUmlSU0xLRV9ISFpoemVXSC1jT09vdlhkLTV5TXBxS0ozc3FQSWZyeElQNmdFMGZHMXUzcGptYktZbkE2a3dGbjFqd2tGVDByUlVYeGlEbFdrTTVxZGpqbC1Fdk5ab3lxbkQwWFdEeGFyMWdaVkVZYS1lUmtqVUNCZ1g5azNLcDNNRV94MmhUdXlpMmxuV1l3ZlE3V3J5YjQteWJGSFAtN3c?oc=5",
+     "fecha": "2026-11-05"
     },
     {
      "titulo": "Dragon Ball Super con doblaje latino llega por primera vez a un popular servicio de streaming, y ya puedes ver todos los capítulos con las voces en es",
      "medio": "Yahoo",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNnJ0TkpydUpHX1FqbktBRUQ5RW54VGdqaHF2cHBmWHlvdmVGdVRhNHpTZzN0UVdNaFl6U2NtUlhaenMzQWpFam9keVl2MTRRUy1aaldVMm1ZYThTVy1JbUpmX1I5UzRXeHZ3SlQtYjJzb01BMUd6TXVEeGhLNHoxRFNqVW1TNE0?oc=5",
      "fecha": "2026-11-01"
-    },
-    {
-     "titulo": "El remake de 'Dragon Ball Super' está poniendo toda la carne en el asador, pero creo que se está olvidando de lo que nos hace amar realmente la obra d",
-     "medio": "Espinof",
-     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNC0wcWpOTFBpb3JhN0RISTJPY2dyZEZlSkJ3QnJzSEk1VjdlTW9zWjVVazFvNEl4enhxNGZpdEk1MDBUcmlBTm1Ka1gyeFhYMFdPMmVhMTF5eUdMd2ptTGhXenJqSmRWMExnN3d6Umc3UDJnMlpYUnpfTGYyOFpvVWgzVmh6cHZvU00xc2JtMzdzb05Jalo4SE52Q0h6cW1FdzkxTmF1MmpHZFQxUVEybXdmOGdTeHhta3RuTlBFR1puUFFWUWx5WWZzN3RDTlVnYnRZeS1LUGl4aTFRODVqb0QyWWNVYTRBQTlsemNZeTdFaU3SAfgBQVVfeXFMUGJvN2V4QTRUdllvT3pTMWd3THllcGtvdGhJSFREaGd2ckE0N2J2cEdTV3dRS29KSEdCSHI4NlNwQXdmZ1FHWkZJQkUyR18zNG5FYXBXOUt2WVgxTnRReTZDbnBjd2dJVDlDQWJ0dl9wVEJ1aFdmSDl3MHFZWU1mbERyd1B1YU1qZVZTc0NVdDZjLUg4cVRmWGRBRE5hdUh3eU8yaE95X2VjeV9ZMEhGUWpLMTdCOG92OWRPQzVJS0U5MWp2OTRPU3Y5ZHRsWjRBd2F5bkdBNXJVOHcwY2NZb1QtX0thRmEtd2VoZUVSUTUxRFJHN0tyUUQ?oc=5",
-     "fecha": "2026-10-29"
     }
    ]
   },
@@ -256,14 +263,7 @@
    "titulo": "Black Sails",
    "tipo": "Serie",
    "alias": "black sails",
-   "noticias": [
-    {
-     "titulo": "Black Sails, la política pirata que supera a la acción pura",
-     "medio": "Foro3D",
-     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON3JNd2VRUV9qWUZKYnZ4QWVpNEE5aE9PZFd0X3NaMC1OY0pLYTRPMGM3aUFteDhTZ1FoWXZrNnlpd3V2OWhmaFQ4eFpaZEtoVXBxUWFJalRRWmNFS3J6bHQzM21YRG9naUotRUFVenFqNG00OVdJWXJ0QTM0MTM2XzFfV3k5VUZPQlg0S2lBcXEzQl9vY280MlFJTQ?oc=5",
-     "fecha": "2026-10-23"
-    }
-   ]
+   "noticias": []
   },
   {
    "slug": "nathan-for-you",
@@ -380,6 +380,12 @@
    "alias": "\\bnarcos\\b",
    "noticias": [
     {
+     "titulo": "‘¿La DEA en hotel con narcos? Es traición’: ‘El Vicentillo’ y su reunión con agentes de EU en el Sheraton",
+     "medio": "El Financiero",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOc0tCdUQ4TW9XT05RYTFqenZDSFlFWmtDenRmNnVmNHpuWG5HMEZNUzcza2JFbjlxVjg1dVJBYUR1NkVZaU9xZjZVdFpGSG9WR08wODJZV2ZXaWxKX0gtV0txQUxNcFlWdFFvcEZvTGZtS0NScEo4aDg5SU90VVBoVmsxSHp2dG1ISmlIV01KMlFmQWdPZ2hiZnlBaUo1NGt2NWx3Ykx6QUJ4MV9KWk9nenprSHZhQmNPckpGUXRKX2Jic0w2U1B6TDZyTmJtZS1FcnFLUzJ1XzRqTFFXMzBz?oc=5",
+     "fecha": "2026-11-05"
+    },
+    {
      "titulo": "Hoy en Netflix: la miniserie mexicana sobre narcos que tiene solo tres episodios y es top 1 en streaming",
      "medio": "Xataka México",
      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSmxHdVc4dTdsSDluV2JpS2ZMbWF2a1NmRlloeTVfNThYUjB2eElRUEd1b3VjQ3ROLUJ0b2ZzYXowMWM5LXpQR05UM2lBR1FDR21NVmFPa0FoOEN4UnZOSHJnMlRnMzFBYm5CZUZqanc5NHU3SlhwMUotQmpBMVJBSGY0Q2V3cVdtdmh2X0lWVEZwZlZMVnJ0VXhQMmIxelU1aFVnaC1vazJRcVNzVEF6V25GendUb0htUXdv0gHAAUFVX3lxTE5taExUNkZGVURXc2RnRHd3WFA3Zm13T2ZPVWhXYmc2OWNKRDMyd2pmb2NvVGRvNW4tN2wzNFM1N3hrT3lhcHpWN0JlZnZ6SFVtdVJzOTJuekVWWlhJazNSbGhqZ0JiMzNVVXpoTU5HX3hxWmRDeVdfZW5fWXIzRHpxaXNlLVI2TnpnS0lBdEw1NDRQaGxBclFCYWk3S1Q2ay1EcDhna3A2N3VPOV94THJjUGs2bkoyZGpxcUhHSmd5SA?oc=5",
@@ -390,12 +396,6 @@
      "medio": "vanguardia.com.mx",
      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQlBDd2RuRVJJZDVnU1lkS1JMM01vZHJZMDdKQ1g1Rkw0REpMWE5GX0dCNEVnWWxxRlRHMzB1UTBicEk4V19RZEFNbG9xcC1lcVI3Z3dLaWk5R2tRM0xVWnNyVWpZZ0lpdVJEYm10dDVsX0ZHSDBETlJGRHlaVWsyQmJVYw?oc=5",
      "fecha": "2026-11-01"
-    },
-    {
-     "titulo": "A Mariana Seoane no le preocupa participar en series de narcos",
-     "medio": "LaPrensa.hn",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQVdmV1FOWFVCS0NhRWZYWnVpUXlMQTNlX1ZhMDRET1RsN2tTRzB3ZGJXNUJnbzgybVhydEFqeTR3WDVqcmVDV3dsZUhxZ1dJa0RzcG5MeGxnU19QZkV2ZFZvaEJ3REliekQtcHRpTkphMG1XMU9XT203M1Rwd2FWVTdzLXhvUUpPVHlORmRvaDdiQm5EZ0JCdE92RldOZ0N0VnNqLVozcWNWU0ZWVHlyWlN6a1U?oc=5",
-     "fecha": "2026-10-31"
     }
    ]
   },
@@ -457,22 +457,22 @@
    "oliver": true,
    "noticias": [
     {
-     "titulo": "Bills y Oolong definen su apuesta: fecha de estreno, hora y link para ver el Episodio 4 de “Dragon Ball Super: Beerus”",
-     "medio": "El Comercio Perú",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNS0xNLUQzNm5hdHNVaTBhbmRwQ3ZMeDd0Z0hodS1KQ1JsUXhCZFJqTHJFODVVSTI5a0RSUFlsdWpQcHotY0tvbDBJQ01fZXc2N0NtV3hQYUlKdUJHWHlPa1Fmdzd6d29hYUNHMmJIRFIwQzNSYlk5SFk1Q3dzUVBpS1BEZHJ2YUUwZzZ6SDZTWlF1ZkhCWThfNDg5alctWGNOUnBuaUVBQ1p1d2dTT0JtTl9LSDcxTHRiYzZIVDFKVHpUSFFpbjhZV2VVNW5JQURITDZGQlYyS1dPbEU0?oc=5",
-     "fecha": "2026-11-02"
+     "titulo": "Dragon Ball Super: Beerus tendrá doblaje latino y llegará a Crunchyroll",
+     "medio": "TierraGamer",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeTFrN2RXb0ZuQm5iaUJDVFNsclVfNldiUmRISDlGWHh2SDg0aFRlekp6TWQzVDByVFZrc3VBODljV3p0aURNR0M2SEs2aEpER2d1Tk9xOVRQaGZhQW9td2tqTVBXN1VoblVDSFZYX3pzaThZYU9KcmVxLXJGeHRUdDY5RHBzUQ?oc=5",
+     "fecha": "2026-11-05"
+    },
+    {
+     "titulo": "Dragon Ball Super: Beerus tendrá doblaje al español latino en Crunchyroll desde el 12 de noviembre",
+     "medio": "Crunchyroll",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQlBuSGpMUmlSU0xLRV9ISFpoemVXSC1jT09vdlhkLTV5TXBxS0ozc3FQSWZyeElQNmdFMGZHMXUzcGptYktZbkE2a3dGbjFqd2tGVDByUlVYeGlEbFdrTTVxZGpqbC1Fdk5ab3lxbkQwWFdEeGFyMWdaVkVZYS1lUmtqVUNCZ1g5azNLcDNNRV94MmhUdXlpMmxuV1l3ZlE3V3J5YjQteWJGSFAtN3c?oc=5",
+     "fecha": "2026-11-05"
     },
     {
      "titulo": "Dragon Ball Super con doblaje latino llega por primera vez a un popular servicio de streaming, y ya puedes ver todos los capítulos con las voces en es",
      "medio": "Yahoo",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNnJ0TkpydUpHX1FqbktBRUQ5RW54VGdqaHF2cHBmWHlvdmVGdVRhNHpTZzN0UVdNaFl6U2NtUlhaenMzQWpFam9keVl2MTRRUy1aaldVMm1ZYThTVy1JbUpmX1I5UzRXeHZ3SlQtYjJzb01BMUd6TXVEeGhLNHoxRFNqVW1TNE0?oc=5",
      "fecha": "2026-11-01"
-    },
-    {
-     "titulo": "El remake de 'Dragon Ball Super' está poniendo toda la carne en el asador, pero creo que se está olvidando de lo que nos hace amar realmente la obra d",
-     "medio": "Espinof",
-     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNC0wcWpOTFBpb3JhN0RISTJPY2dyZEZlSkJ3QnJzSEk1VjdlTW9zWjVVazFvNEl4enhxNGZpdEk1MDBUcmlBTm1Ka1gyeFhYMFdPMmVhMTF5eUdMd2ptTGhXenJqSmRWMExnN3d6Umc3UDJnMlpYUnpfTGYyOFpvVWgzVmh6cHZvU00xc2JtMzdzb05Jalo4SE52Q0h6cW1FdzkxTmF1MmpHZFQxUVEybXdmOGdTeHhta3RuTlBFR1puUFFWUWx5WWZzN3RDTlVnYnRZeS1LUGl4aTFRODVqb0QyWWNVYTRBQTlsemNZeTdFaU3SAfgBQVVfeXFMUGJvN2V4QTRUdllvT3pTMWd3THllcGtvdGhJSFREaGd2ckE0N2J2cEdTV3dRS29KSEdCSHI4NlNwQXdmZ1FHWkZJQkUyR18zNG5FYXBXOUt2WVgxTnRReTZDbnBjd2dJVDlDQWJ0dl9wVEJ1aFdmSDl3MHFZWU1mbERyd1B1YU1qZVZTc0NVdDZjLUg4cVRmWGRBRE5hdUh3eU8yaE95X2VjeV9ZMEhGUWpLMTdCOG92OWRPQzVJS0U5MWp2OTRPU3Y5ZHRsWjRBd2F5bkdBNXJVOHcwY2NZb1QtX0thRmEtd2VoZUVSUTUxRFJHN0tyUUQ?oc=5",
-     "fecha": "2026-10-29"
     }
    ]
   },
