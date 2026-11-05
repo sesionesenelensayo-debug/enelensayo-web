@@ -46,7 +46,7 @@ def menu(n, activo):
 # portada LIGERA: cabecera + menú + portada (nota del día, lo último, videos) + Top 10 + periódico + botones de sección
 portada = src[src.index("  <!-- ── PORTADA"):src.index("  <!-- ── HERO")]
 ICONOS = {"marveldc": "🦸", "chisme": "💬", "misterio": "👻", "deporte": "⚽", "exclusivas": "⭐", "top10": "🏆", "periodico": "📰", "newsletter": "✉️", "cine": "🎬", "videojuegos": "🎮", "luchas": "🤼", "television": "📺", "conciertos": "🎟️", "hitos": "🏅", "shorts": "📱", "longs": "📺", "podcast": "🎙️", "sesiones": "🎸", "sobre": "💡"}
-botones = "".join(f'<a href="{k}.html"><span class="ic">{ICONOS.get(k, "🎵")}</span>{et}</a>' for k, (et, *_r) in PAGINAS.items() if k not in ("noticias",))
+botones = "".join(f'<a href="{k}.html"><span class="ic">{ICONOS.get(k, "🎵")}</span>{et}</a>' for k, (et, *_r) in PAGINAS.items() if k not in ("noticias",)) + "".join(f'<a href="{k}.html"><span class="ic">{ic}</span>{et}</a>' for k, et, ic in (("musica", "Música", "🎵"), ("memoriam", "In memoriam", "🕯️"), ("cultura", "Cultura", "🎭"), ("escena-local", "Escena local", "🎤"), ("esports", "Esports", "🏆")))
 extra = f'''  <section class="section" id="top10-mini"><div class="section-inner">
     <div class="section-header"><p class="section-eyebrow"><span class="dot dot--yellow"></span>Cuenta regresiva semanal</p>
       <h2 class="section-title">Top <span class="text-accent">10</span></h2></div>
@@ -113,4 +113,46 @@ for k, (et, tit, desc, ids) in PAGINAS.items():
     cuerpo = re.sub(r'<h2 class="section-title">(.*?)</h2>', r'<h1 class="section-title">\1</h1>', cuerpo, count=1, flags=re.S)   # [.leon 2026-11-05] un h1 por página (guía SEO)
     pag = h + "<body>\n\n" + menu(nav, k) + f'  <header class="pag-cab"><div class="section-inner"><a class="pag-volver" href="/">← Portada</a></div></header>\n  <div class="section-inner" data-slot="cabecera"></div>\n' + cuerpo + "\n" + footer + scripts
     open(os.path.join(AQUI, f"{k}.html"), "w", encoding="utf-8").write(pag)
+
+# [.leon 2026-11-05] Landing propias de las secciones que no tenían página (notas por categoría + shorts y longs incrustados de esa sección)
+NUEVAS = {
+    "musica": ("Música", "Música", "Lo que pasa en la música: lanzamientos, noticias, biografías y datos curiosos de bandas y artistas, con los videos y documentales del canal.", "Música actual", "Música", ["Música", "Internacional", "Biografía", "Datos curiosos"]),
+    "memoriam": ("In memoriam", "In memoriam", "Despedidas verificadas: la vida y el legado de quienes fallecen, contados con datos confirmados, respeto y los videos del canal.", "Homenajes", "In <span class=\"text-accent\">memoriam</span>", ["In memoriam"]),
+    "cultura": ("Cultura", "Cultura pop y memoria", "Cultura pop, historia y memoria: notas propias, curiosidades y reportajes con sus videos y documentales.", "Cultura pop", "<span class=\"text-accent\">Cultura</span> y memoria", ["Cultura"]),
+    "escena-local": ("Escena local", "Escena local de México", "La música en vivo de México: bandas, festivales y fechas cerca de ti. Mira también el mapa de conciertos locales.", "Música en vivo", "Escena <span class=\"text-accent\">local</span>", ["Escena local"]),
+    "esports": ("Esports", "Esports", "Esports y competitivo: resultados, rosters y torneos explicados, con los videos del canal.", "Competitivo", "<span class=\"text-accent\">Esports</span>", ["Esports"]),
+}
+for k, (et, tit, desc, eyebrow, h1, cats) in NUEVAS.items():
+    h = re.sub(r"<title>.*?</title>", f"<title>{tit} — En El Ensayo Media</title>", head, flags=re.S)
+    h = re.sub(r'(<meta name="description" content=")[^"]*', r"\g<1>" + desc, h)
+    h = h.replace('content="https://enelensayomedia.com" />', f'content="https://enelensayomedia.com/{k}.html" />')
+    h = h.replace('<link rel="canonical" href="https://enelensayomedia.com" />', f'<link rel="canonical" href="https://enelensayomedia.com/{k}.html" />')
+    h = re.sub(r'<script type="application/ld\+json">.*?</script>', "", h, flags=re.S)
+    import json as _json
+    _u = f"https://enelensayomedia.com/{k}.html"
+    _ld = [{"@context": "https://schema.org", "@type": "CollectionPage", "name": f"{tit} — En El Ensayo Media", "description": desc, "url": _u,
+            "isPartOf": {"@type": "WebSite", "name": "En El Ensayo Media", "url": "https://enelensayomedia.com/"}},
+           {"@context": "https://schema.org", "@type": "BreadcrumbList", "itemListElement": [
+               {"@type": "ListItem", "position": 1, "name": "En El Ensayo Media", "item": "https://enelensayomedia.com/"},
+               {"@type": "ListItem", "position": 2, "name": tit, "item": _u}]}]
+    h = h.replace("</head>", "".join('<script type="application/ld+json">' + _json.dumps(x, ensure_ascii=False) + "</script>" for x in _ld) + '<link rel="stylesheet" href="css/seccion.css?v=20261105"></head>', 1)
+    cuerpo = f'''  <section class="section" id="secLanding" data-cats="{'|'.join(cats)}" data-max="24">
+    <div class="section-inner">
+      <div class="section-header">
+        <p class="section-eyebrow"><span class="dot dot--yellow"></span>{eyebrow}</p>
+        <h1 class="section-title">{h1}</h1>
+        <p class="section-desc">{desc}</p>
+      </div>
+      <h2 class="sx-sub">Últimas notas</h2>
+      <div class="sx-grid sx-notas" id="secNotas"><p class="sx-vacio">Cargando notas…</p></div>
+      <h2 class="sx-sub" id="secLongsT">Videos largos y documentales</h2>
+      <div class="sec-vids" id="secLongs"></div>
+      <h2 class="sx-sub" id="secShortsT">Shorts</h2>
+      <div class="sec-vids cortos" id="secShorts"></div>
+    </div>
+  </section>
+'''
+    pag = h + "<body>\n\n" + menu(nav, k) + '  <header class="pag-cab"><div class="section-inner"><a class="pag-volver" href="/">← Portada</a></div></header>\n  <div class="section-inner" data-slot="cabecera"></div>\n' + cuerpo + "\n" + footer + scripts.replace('  <script src="js/main.js"', '  <script src="js/seccion.js?v=20261105"></script>\n  <script src="js/main.js"', 1)
+    open(os.path.join(AQUI, f"{k}.html"), "w", encoding="utf-8").write(pag)
+print("páginas nuevas:", len(NUEVAS))
 print("páginas:", len(PAGINAS))
