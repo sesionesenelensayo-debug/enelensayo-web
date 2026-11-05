@@ -1,5 +1,21 @@
 [
   {
+    "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Daniela Spalla anuncia concierto en el Teatro Metropólitan de la CDMX el 19 de febrero de 2027",
+    "artista": "Daniela Spalla",
+    "intro": "La cantante argentina presentará su nuevo álbum en un show que marcará el inicio de su gira internacional.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/daniela-spalla-anuncia-concierto-en-el-teatro-metropolitan-de-la-cdmx-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/daniela-spalla-anuncia-concierto-en-el-teatro-metropolitan-de-la-cdmx-1102.jpg",
+    "fecha": "2026-11-05T14:27:38.532649",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos",
+    "fecha_original": "2026-11-02T12:09:40.229809",
+    "actualizada": true
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "DC Studios y el nuevo proyecto de Constantine",
@@ -105,22 +121,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Agenda woke"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Daniela Spalla anuncia concierto en el Teatro Metropólitan de la CDMX el 19 de febrero de 2027",
-    "artista": "Daniela Spalla",
-    "intro": "La cantante argentina presentará su nuevo álbum en un show que marcará el inicio de su gira internacional.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/daniela-spalla-anuncia-concierto-en-el-teatro-metropolitan-de-la-cdmx-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/daniela-spalla-anuncia-concierto-en-el-teatro-metropolitan-de-la-cdmx-1102.jpg",
-    "fecha": "2026-11-05T12:46:49.294322",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos",
-    "fecha_original": "2026-11-02T12:09:40.229809",
-    "actualizada": true
   },
   {
     "opinion": false,
