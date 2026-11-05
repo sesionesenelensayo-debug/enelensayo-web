@@ -1,18 +1,17 @@
 [
   {
-    "tipo": "reportaje",
-    "titulo": "Bad Bunny genera debate en redes tras rumor de nacionalidad mexicana",
-    "artista": "Bad Bunny",
-    "intro": "Un rumor difundido por Cultura Colectiva afirma que Bad Bunny sería mexicano, provocando una ola de comentarios y confusión en redes sociales. La noticia menciona que la actriz Victoria Justice habría",
-    "telegraph_url": "https://telegra.ph/Bad-Bunny-genera-debate-en-redes-tras-rumor-de-nacionalidad-mexicana-10-31",
-    "url": "https://enelensayomedia.com/notas/bad-bunny-genera-debate-en-redes-tras-rumor-de-nacionalidad-mexicana-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/bad-bunny-genera-debate-en-redes-tras-rumor-de-nacionalidad-mexicana-1031.jpg",
-    "fecha": "2026-11-05T11:16:24.420907",
+    "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Prime Video anuncia su calendario completo de estrenos para noviembre 2026",
+    "artista": "Prime Video",
+    "intro": "Prime Video ha publicado la lista de todos los títulos que llegará a la plataforma en noviembre de 2026, incluyendo series originales, documentales, películas y eventos deportivos.",
+    "telegraph_url": "https://telegra.ph/Prime-Video-anuncia-su-calendario-completo-de-estrenos-para-noviembre-2026-11-05",
+    "url": "https://enelensayomedia.com/notas/prime-video-anuncia-su-calendario-completo-de-estrenos-para-noviembre-1105.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/prime-video-anuncia-su-calendario-completo-de-estrenos-para-noviembre-1105.jpg",
+    "fecha": "2026-11-05T11:15:41.670311",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Cultura",
-    "fecha_original": "2026-10-31T09:42:30.829512",
-    "actualizada": true
+    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
@@ -3959,6 +3958,19 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Esports"
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "Bad Bunny genera debate en redes tras rumor de nacionalidad mexicana",
+    "artista": "Bad Bunny",
+    "intro": "Un rumor difundido por Cultura Colectiva afirma que Bad Bunny sería mexicano, provocando una ola de comentarios y confusión en redes sociales. La noticia menciona que la actriz Victoria Justice habría",
+    "telegraph_url": "https://telegra.ph/Bad-Bunny-genera-debate-en-redes-tras-rumor-de-nacionalidad-mexicana-10-31",
+    "url": "https://enelensayomedia.com/notas/bad-bunny-genera-debate-en-redes-tras-rumor-de-nacionalidad-mexicana-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/bad-bunny-genera-debate-en-redes-tras-rumor-de-nacionalidad-mexicana-1031.jpg",
+    "fecha": "2026-10-31T09:42:30.829512",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
   },
   {
     "tipo": "reportaje",
