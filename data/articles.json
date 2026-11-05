@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Mckenna Grace y Joseph Zada responden a rumores",
+    "artista": "Mckenna Grace",
+    "intro": "Mckenna Grace y Joseph Zada respondieron a los rumores durante una aparición pública.",
+    "telegraph_url": "https://telegra.ph/Mckenna-Grace-y-Joseph-Zada-responden-a-rumores-11-05",
+    "url": "https://enelensayomedia.com/notas/mckenna-grace-y-joseph-zada-responden-a-rumores-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/mckenna-grace-y-joseph-zada-responden-a-rumores-1104.jpg",
+    "fecha": "2026-11-04T18:08:36.467354",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "KRÜ Esports reestructura su roster y apunta a la temporada 2027",
     "artista": "KRÜ Esports roster changes",
     "intro": "Cambios de jugadores, resultados recientes y nuevos fichajes marcan la estrategia de KRÜ de cara al próximo año.",
@@ -4262,19 +4276,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Serie de Harry Potter confirma fecha de estreno y muestra afiche oficial",
-    "artista": "Harry Potter",
-    "intro": "La adaptación en serie de la saga Harry Potter ha confirmado su fecha de estreno y ha revelado su afiche oficial. El anuncio, reportado por medios internacionales, marca un paso concreto en la producc",
-    "telegraph_url": "https://telegra.ph/Serie-de-Harry-Potter-confirma-fecha-de-estreno-y-muestra-afiche-oficial-10-31",
-    "url": "https://enelensayomedia.com/notas/serie-de-harry-potter-confirma-fecha-de-estreno-y-muestra-afiche-ofici-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/serie-de-harry-potter-confirma-fecha-de-estreno-y-muestra-afiche-ofici-1030.jpg",
-    "fecha": "2026-10-30T19:31:35.405916",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   },
   {
     "tipo": "reportaje",
