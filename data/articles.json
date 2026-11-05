@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Russell Brand hallado culpable de violación y tres agresiones sexuales en Londres",
+    "artista": "Russell Brand",
+    "intro": "El 5 de noviembre de 2026 un jurado del Tribunal de la Corona de Southwark declaró a Russell Brand culpable de un cargo de violación y tres cargos de agresión sexual, tras dos días de deliberaciones.",
+    "telegraph_url": "https://telegra.ph/Russell-Brand-hallado-culpable-de-violación-y-tres-agresiones-sexuales-en-Londres-11-05",
+    "url": "https://enelensayomedia.com/notas/russell-brand-hallado-culpable-de-violacion-y-tres-agresiones-sexuales-1105.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/russell-brand-hallado-culpable-de-violacion-y-tres-agresiones-sexuales-1105.jpg",
+    "fecha": "2026-11-05T10:39:18.204544",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "CM Punk desafía a Grayson Waller por el título de NXT y aparecerá en el John Cena Classic",
     "artista": "CM Punk",
     "intro": "El miércoles 4 de noviembre de 2026, CM Punk volverá a la pantalla de WWE NXT para retar a Grayson Waller por el Campeonato de NXT. El combate se emitirá a las 8 p.m.",
@@ -5598,18 +5612,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Crisis emocional de Natalia Alcocer en reality show",
-    "artista": "",
-    "intro": "La actriz y conductora Natalia Alcocer, conocida como 'La Vikinga', sufrió un colapso emocional y una fuerte crisis de ansiedad dentro de la habitación de ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/crisis-emocional-de-natalia-alcocer-en-reality-show-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/crisis-emocional-de-natalia-alcocer-en-reality-show-1028.jpg",
-    "fecha": "2026-10-28T17:38:22",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   }
 ]
