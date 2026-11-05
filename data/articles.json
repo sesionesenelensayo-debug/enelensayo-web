@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Alexis Ayala y su novia Marietta Garza aparecen en Cancún con señal de \"Luna de Miel\"",
+    "artista": "Alexis Ayala",
+    "intro": "El actor Alexis Ayala compartió en Instagram fotos y videos de un viaje a Cancún con su novia, la emprendedora Marietta Garza.",
+    "telegraph_url": "https://telegra.ph/Alexis-Ayala-y-su-novia-Marietta-Garza-aparecen-en-Cancún-con-señal-de-Luna-de-Miel-11-05",
+    "url": "https://enelensayomedia.com/notas/alexis-ayala-y-su-novia-marietta-garza-aparecen-en-cancun-con-senal-de-1105.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/alexis-ayala-y-su-novia-marietta-garza-aparecen-en-cancun-con-senal-de-1105.jpg",
+    "fecha": "2026-11-05T08:35:28.979705",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Estrenos de noviembre 2026: de Los Juegos del Hambre a Godzilla llegan al cine",
     "artista": "Estrenos de noviembre 2026",
@@ -5589,19 +5603,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "La Llorona: el grito que obligó a la Ciudad de México a esconderse",
-    "artista": "",
-    "intro": "La Llorona es una figura del folclore hispanoamericano que aparece en relatos nocturnos de mujeres que buscan a sus hijos cerca de ríos y cuerpos de agua. ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-llorona-el-grito-que-obligo-a-la-ciudad-de-mexico-a-esconderse-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-llorona-el-grito-que-obligo-a-la-ciudad-de-mexico-a-esconderse-1028.jpg",
-    "fecha": "2026-10-28T16:55:33",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Terror y misterio",
-    "archivo": true
   }
 ]
