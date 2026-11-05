@@ -214,6 +214,7 @@
    "lat": 19.3739488,
    "lon": -99.1412791,
    "genero": "Foro con música en vivo",
+   "url": "https://saloncaliforniadancingclub.blogspot.com/",
    "auto": true
   },
   {
@@ -291,12 +292,62 @@
    "auto": true
   },
   {
+   "nombre": "Japan CDMX",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "Roma Norte",
+   "lat": 19.4134217,
+   "lon": -99.1634278,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
    "nombre": "Planta Baja",
    "ciudad": "Ciudad de México",
    "estado": "Distrito Federal",
    "zona": "",
    "lat": 19.3495302,
    "lon": -99.187938,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "LONDRES 77. ZONA ROSA",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "",
+   "lat": 19.4266977,
+   "lon": -99.1620942,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "CHICO",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "",
+   "lat": 19.2107827,
+   "lon": -99.1689379,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "Donceles 12, Col. Centro, CDMX",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "",
+   "lat": 19.4369059,
+   "lon": -99.1397219,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "Londres 195, Col. Juárez, Mexico City",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "",
+   "lat": 19.4242929,
+   "lon": -99.1673655,
    "genero": "Foro con música en vivo",
    "auto": true
   }
