@@ -1,6 +1,21 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Bad Bunny genera debate en redes tras rumor de nacionalidad mexicana",
+    "artista": "Bad Bunny",
+    "intro": "Un rumor difundido por Cultura Colectiva afirma que Bad Bunny sería mexicano, provocando una ola de comentarios y confusión en redes sociales. La noticia menciona que la actriz Victoria Justice habría",
+    "telegraph_url": "https://telegra.ph/Bad-Bunny-genera-debate-en-redes-tras-rumor-de-nacionalidad-mexicana-10-31",
+    "url": "https://enelensayomedia.com/notas/bad-bunny-genera-debate-en-redes-tras-rumor-de-nacionalidad-mexicana-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/bad-bunny-genera-debate-en-redes-tras-rumor-de-nacionalidad-mexicana-1031.jpg",
+    "fecha": "2026-11-05T11:16:24.420907",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura",
+    "fecha_original": "2026-10-31T09:42:30.829512",
+    "actualizada": true
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "El Fausto encabezará el festival FISCUM",
     "artista": "El Fausto",
     "intro": "Según el titular publicado, la agrupación El Fausto será la cabeza de cartel del festival FISCUM.",
@@ -3944,19 +3959,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Esports"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Bad Bunny genera debate en redes tras rumor de nacionalidad mexicana",
-    "artista": "Bad Bunny",
-    "intro": "Un rumor difundido por Cultura Colectiva afirma que Bad Bunny sería mexicano, provocando una ola de comentarios y confusión en redes sociales. La noticia menciona que la actriz Victoria Justice habría",
-    "telegraph_url": "https://telegra.ph/Bad-Bunny-genera-debate-en-redes-tras-rumor-de-nacionalidad-mexicana-10-31",
-    "url": "https://enelensayomedia.com/notas/bad-bunny-genera-debate-en-redes-tras-rumor-de-nacionalidad-mexicana-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/bad-bunny-genera-debate-en-redes-tras-rumor-de-nacionalidad-mexicana-1031.jpg",
-    "fecha": "2026-10-31T09:42:30.829512",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   },
   {
     "tipo": "reportaje",
