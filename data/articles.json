@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "KRÜ Esports reestructura su roster y apunta a la temporada 2027",
+    "artista": "KRÜ Esports roster changes",
+    "intro": "Cambios de jugadores, resultados recientes y nuevos fichajes marcan la estrategia de KRÜ de cara al próximo año.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/kru-esports-reestructura-su-roster-y-apunta-a-la-temporada-2027-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/kru-esports-reestructura-su-roster-y-apunta-a-la-temporada-2027-1104.jpg",
+    "fecha": "2026-11-04T18:02:15.190766",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Fallece la actriz y comediante mexicana María Alicia Delgado a los 77 años",
     "artista": "María Alicia Delgado",
     "intro": "El 4 de noviembre de 2026 falleció la actriz y locutora mexicana María Alicia Delgado, conocida por su larga trayectoria en la televisión y el cine.",
@@ -5558,18 +5572,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reportaje"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece Walter Koenig a los 90 años",
-    "artista": "",
-    "intro": "El actor y guionista estadounidense Walter Koenig ha fallecido el 26 de octubre de 2026. Conocido principalmente por su trayectoria en la televisión y el c",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fallece-walter-koenig-a-los-90-anos-1026.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-walter-koenig-a-los-90-anos-1026.jpg",
-    "fecha": "2026-10-26T10:39:35",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
