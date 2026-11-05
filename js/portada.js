@@ -68,7 +68,27 @@
     var uh = recientes.find(function (a) { return a.ultima_hora && a.imagen_url && (Date.now() - new Date(a.fecha).getTime()) < 24 * 3600 * 1000; });   // [e.leo] última hora (radar, gravedad ≥ 9) abre la portada 24 h
     var nd = uh || recientes.find(function (a) { return MUS.indexOf(a.categoria) >= 0 && a.imagen_url && a.categoria !== 'Discos de la semana'; }) || TODAS.find(esNotaDia) || TODAS[0];
     var w = $('notaDiaPortada');
-    var slides = nd ? [nd].concat(TODAS.filter(function (a) { return a !== nd; }).slice(0, 3)) : [];
+    // [e.leo 2026-11-05] PORTADA DINÁMICA: un solo destacado por GRUPO (chisme, videojuegos, cine/TV, opinión, música…), sin repetir tema/artista; el orden de los grupos rota cada hora
+    var GRP = { 'Conciertos': 'musica', 'Música': 'musica', 'Escena local': 'musica', 'Internacional': 'musica', 'Discos de la semana': 'musica', 'Chisme': 'chisme', 'Chisme internacional': 'chisme',
+      'Videojuegos': 'juegos', 'Esports': 'juegos', 'Cine': 'cine', 'Televisión': 'cine', 'Series': 'cine', 'Marvel y DCU': 'opinion', 'Agenda woke': 'opinion', 'Cultura': 'cultura', 'In memoriam': 'cultura',
+      'Reportaje': 'cultura', 'Biografía': 'cultura', 'Terror': 'terror', 'Terror y misterio': 'terror', 'Historias de terror': 'terror', 'Luchas': 'luchas' };
+    var grp = function (a) { return GRP[a.categoria] || 'otros'; };
+    var norm = function (t) { return String(t || '').toLowerCase().replace(/[^a-z0-9áéíóúñ ]/g, '').split(' ').filter(function (w) { return w.length > 3; }).slice(0, 4).join(' '); };
+    var slides = [];
+    if (nd) {
+      slides = [nd];
+      var usadosG = {}; usadosG[grp(nd)] = 1;
+      var vistos = {}; vistos[norm(nd.titulo)] = 1; vistos[norm(nd.artista)] = 1;
+      var ORDEN = ['chisme', 'juegos', 'cine', 'opinion', 'cultura', 'terror', 'luchas', 'musica'];
+      var rot = Math.floor(Date.now() / 3600000) % ORDEN.length;
+      ORDEN = ORDEN.slice(rot).concat(ORDEN.slice(0, rot));
+      ORDEN.forEach(function (g) {
+        if (slides.length >= 5 || usadosG[g]) return;
+        var c = TODAS.find(function (a) { return grp(a) === g && a.imagen_url && (Date.now() - new Date(a.fecha).getTime()) < 72 * 3600 * 1000 && !vistos[norm(a.titulo)] && !vistos[norm(a.artista)]; });
+        if (c) { slides.push(c); usadosG[g] = 1; vistos[norm(c.titulo)] = 1; vistos[norm(c.artista)] = 1; }
+      });
+      if (slides.length < 4) TODAS.forEach(function (a) { if (slides.length < 4 && slides.indexOf(a) < 0 && a.imagen_url && !vistos[norm(a.titulo)]) { slides.push(a); vistos[norm(a.titulo)] = 1; } });
+    }
     if (nd && w) {
       w.innerHTML = '<div class="carrusel">' + slides.map(function (a, i) {
         var hoy = new Date(a.fecha).toDateString() === new Date().toDateString();
