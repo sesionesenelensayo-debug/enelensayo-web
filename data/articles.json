@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Ale Capetillo celebra sus 27 años tras emotiva visita a México",
+    "artista": "Ale Capetillo",
+    "intro": "Ale Capetillo cumplió 27 años el 4 de noviembre de 2026, tras una visita a México donde celebró el Día de Muertos con su familia.",
+    "telegraph_url": "https://telegra.ph/Ale-Capetillo-celebra-sus-27-años-tras-emotiva-visita-a-México-11-05",
+    "url": "https://enelensayomedia.com/notas/ale-capetillo-celebra-sus-27-anos-tras-emotiva-visita-a-mexico-1105.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/ale-capetillo-celebra-sus-27-anos-tras-emotiva-visita-a-mexico-1105.jpg",
+    "fecha": "2026-11-05T07:08:45.066609",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Godzilla Minus Zero llega a cines mexicanos el 5 de noviembre de 2026",
     "artista": "Godzilla",
     "intro": "El icónico monstruo Godzilla vuelve a la gran pantalla con 'Godzilla Minus Zero', programado para estrenarse en México el jueves 5 de noviembre de 2026.",
@@ -5589,18 +5603,5 @@
     "views": 0,
     "categoria": "Terror y misterio",
     "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Explosión de lanzamientos: Víctor Mendivil y LISA entre los nuevos discos",
-    "artista": "",
-    "intro": "Octubre de 2026 se llenó de novedades discográficas: seis proyectos llegan a la escena, cubriendo géneros que van de la música latina al pop y la alternati",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/explosion-de-lanzamientos-victor-mendivil-y-lisa-entre-los-nuevos-disc-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/explosion-de-lanzamientos-victor-mendivil-y-lisa-entre-los-nuevos-disc-1028.jpg",
-    "fecha": "2026-10-28T16:42:44",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Discos de la semana"
   }
 ]
