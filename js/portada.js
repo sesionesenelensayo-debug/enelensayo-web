@@ -61,6 +61,7 @@
   var mas = $('masNotas'); if (mas) mas.onclick = function () { SHOWN += 12; pintaNotas(); };
 
   get('data/articles.json').then(function (arts) {
+    arts.forEach(function (a) { if (a.actualizada && a.fecha_original) a.fecha = a.fecha_original; });   // [e.leo 2026-11-05] en la PORTADA no hay «actualizaciones»: una nota ampliada cuenta con su fecha ORIGINAL
     TODAS = arts.filter(function (a) { return !a.archivo; }).sort(function (a, b) { return new Date(b.fecha) - new Date(a.fecha); });
     var MUS = ['Música', 'Escena local', 'Internacional', 'Conciertos', 'Discos de la semana'];
     var recientes = TODAS.filter(function (a) { return (Date.now() - new Date(a.fecha).getTime()) < 48 * 3600 * 1000; });
