@@ -1,5 +1,35 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Festival Internacional del Globo 2026 revela su canción oficial",
+    "artista": "Festival Internacional del Globo",
+    "intro": "El Festival Internacional del Globo 2026 cuenta con una canción oficial, según informó El Sol de México. El medio confirmó la existencia de la pieza musical que acompañará a la edición 2026 del evento",
+    "telegraph_url": "https://telegra.ph/Festival-Internacional-del-Globo-2026-revela-su-canción-oficial-10-31",
+    "url": "https://enelensayomedia.com/notas/festival-internacional-del-globo-2026-revela-su-cancion-oficial-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/festival-internacional-del-globo-2026-revela-su-cancion-oficial-1031.jpg",
+    "fecha": "2026-11-04T20:42:08.267219",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-10-31T14:04:47.188642",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Los últimos momentos de Amy Winehouse",
+    "artista": "Amy Winehouse",
+    "intro": "El video del canal En el Ensayo Media relata los últimos momentos de Amy Jade Winhouse, la cantante británica que falleció en su departamento tras una llamada de emergencia.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/los-ultimos-momentos-de-amy-winehouse-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/los-ultimos-momentos-de-amy-winehouse-1104.jpg",
+    "fecha": "2026-11-04T20:40:40.517248",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Jennifer Lopez y la reacción a su disfraz",
@@ -1365,21 +1395,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Festival Internacional del Globo 2026 revela su canción oficial",
-    "artista": "Festival Internacional del Globo",
-    "intro": "El Festival Internacional del Globo 2026 cuenta con una canción oficial, según informó El Sol de México. El medio confirmó la existencia de la pieza musical que acompañará a la edición 2026 del evento",
-    "telegraph_url": "https://telegra.ph/Festival-Internacional-del-Globo-2026-revela-su-canción-oficial-10-31",
-    "url": "https://enelensayomedia.com/notas/festival-internacional-del-globo-2026-revela-su-cancion-oficial-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/festival-internacional-del-globo-2026-revela-su-cancion-oficial-1031.jpg",
-    "fecha": "2026-11-03T12:17:30.063931",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-10-31T14:04:47.188642",
-    "actualizada": true
   },
   {
     "tipo": "noticia",
@@ -4425,20 +4440,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Patrick Swayze: Del ballet a Hollywood, la vida del galán definitivo",
-    "artista": "Patrick Swayze",
-    "intro": "El canal En el Ensayo Media presenta la historia de Patrick Swayze, un artista que combinó la gracia del ballet con la dureza del cine de acción.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/patrick-swayze-la-historia-completa-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/patrick-swayze-la-historia-completa-1030.jpg",
-    "fecha": "2026-10-30T18:30:52.146058",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   },
   {
     "tipo": "reportaje",
