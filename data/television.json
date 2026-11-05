@@ -1,12 +1,19 @@
 {
- "actualizado": "04/11/2026 23:05",
+ "actualizado": "05/11/2026 05:26",
  "recomendadas": [
   {
    "slug": "spartacus",
    "titulo": "Spartacus",
    "tipo": "Serie",
    "alias": "spartacus",
-   "noticias": []
+   "noticias": [
+    {
+     "titulo": "Marcador en directo, H2H y alineaciones del Újpest – Nyiregyháza Spartacus",
+     "medio": "Sofascore",
+     "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPZDVfLU00dkZfaTRHRGlJTU9QMG5MTmZxUGtXdmNsSUpNUVpLVU83T3ItSGZvY3NvVU43WW9HM2xud28xYVBwU05MY2VCaDBidW9naUJNM1FVTU0xWEF1YlYzdG5KU1NrLWtKTnR1dkViNDJDV21NWmZxb3dtMnA1S1J4QTFSQQ?oc=5",
+     "fecha": "2026-11-01"
+    }
+   ]
   },
   {
    "slug": "outlander",
@@ -51,12 +58,6 @@
      "medio": "VADER News",
      "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQZFc0NEZlVzh3NUVWVVZ1MURBTXFxMERFWnNLaldISFJSTTJGMFRRMjB3Z3g1Q2REbW1MaVFSTjIxcTZSLXpBY016UTFSX0tyNUIxSHg2QWdUWk9wWHJEbGNmdnFQWE1sRGNqQUJ4dEVvR0tWb0NxdGRvMzRQcWZkeGVpbUdXeTh6VFRTQUhMclhqUEI0VjdZaWxmVlU5LTlocHRSeHVHSk5ZUU1ndnJjMXE0LXhaMWFDMVMtR3k5TTZDZUlwLU5KbmhCN2w2R1U5VnQyeFdhdERMR3ZoLXdCbUpLMzg1djFzSzFES2wtaVNZcHRkTEJjWE0wamI?oc=5",
      "fecha": "2026-11-02"
-    },
-    {
-     "titulo": "Evolución de la nota media de \"Los Soprano (Serie de TV)\"",
-     "medio": "Filmaffinity",
-     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBIU1BHTnNvRmxIZWpLRzhCNFNWWFRTQ3NiQ2RfWEZKRFBSWi1fQ25WSnZrNGlyUm1ra0JmWnl6aXBQcTdBdC1pT2VGV004aGhpV0lHeHdJV3Z5OXBWY2t2ZGZ2d09Ea1AyLXdNNVN6WjEwQV8zRjcweGdn?oc=5",
-     "fecha": "2026-10-30"
     }
    ]
   },
@@ -103,12 +104,6 @@
      "medio": "Foro3D",
      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWJBdGpzcURKMjAwVm5nRWNWSDh3anJjczNEcGJvVFN4bFYtUnhwN1UzbVlubVBJaFNZZkVjblkyUlR4N1ZPWXB4Sk13VThJQ2xDc2tnQ0tTVTdkT014NlFUNnROelRGNi1pM2s5YW81ZWdLa2tFMHFwdjhCcU90VXl5S0lQLTd1VUlaeWJYQ2V2VWMyRzFkUw?oc=5",
      "fecha": "2026-10-24"
-    },
-    {
-     "titulo": "Better Call Saul: cómo la serie ocultó a su verdadero villano durante 6 temporadas y qué revela el final sobre Jimmy McGill",
-     "medio": "VADER News",
-     "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNUS1GLUZiT2VOeXR5R1FxdzQyeVpoN1JHd0duWndtQkhOTGU0cVJ3aG9yRjRiaF9CSjFaMUlFN3hsX19UTExOanl4ZWRVYTF0LUw2YkRhU0U1anQxR3hyY0FSSHBmVzhiWjVQNW8yN0hHY3BlbzVELTd0bk9KelBrNGNVaUM3dmd1MFUxeWotLW1yLWNLZWwtaEtrejV3dkwzVk1JR0hYT0JjaUczLTBMb25XcFFoLTJsZThfRlRMX3pvNEltRTA5ZDV2czZoMVVCNjQwVHV5bUw0bThzUk1xRlQ1TDl5WGV5UVcxUzBOMWZuWkJuaEpjZFQwOA?oc=5",
-     "fecha": "2026-10-22"
     }
    ]
   },
@@ -250,16 +245,16 @@
      "fecha": "2026-11-02"
     },
     {
-     "titulo": "Crítica del capítulo 4 de Dragon Ball Super Beerus: Goku alcanza el Super Saiyan God más bonito de la serie tras un inicio soso y repetitivo",
-     "medio": "HobbyConsolas",
-     "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxObFJ4MEhqSmk2YVJaVU96NEc5SUFCYXVsQU05SDdGYmJLQk5NQjhENFBxdHpLeUNweFIyV1JFOUJXMWZIdVBkb0x3MFdOUEhFS3hIYXRMQmNvcGpSa0hFbU55QjNsYWxEMEpkNFl4RFQ3RFRmbFVUbXF6Q1FvcHRkV1dESGpkZTZmbjZ4VEt0alY0YkdOQTR0bFl5NjZxLWhXM0hwQ05PdTA2MW8zMENtaVQ5V3c2WGpTbGdKMVhPWExUOUFJRDBXaXZLajZyQ09yNW8xb1Z3QWV1dERZNV9GdjFwNGNKSjF4YUxzS1RiNzB6bU9uM2RVNHJRWE1YNURZVzJMNlhHdw?oc=5",
-     "fecha": "2026-11-01"
-    },
-    {
      "titulo": "Dragon Ball Super con doblaje latino llega por primera vez a un popular servicio de streaming, y ya puedes ver todos los capítulos con las voces en es",
      "medio": "Yahoo",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNnJ0TkpydUpHX1FqbktBRUQ5RW54VGdqaHF2cHBmWHlvdmVGdVRhNHpTZzN0UVdNaFl6U2NtUlhaenMzQWpFam9keVl2MTRRUy1aaldVMm1ZYThTVy1JbUpmX1I5UzRXeHZ3SlQtYjJzb01BMUd6TXVEeGhLNHoxRFNqVW1TNE0?oc=5",
      "fecha": "2026-11-01"
+    },
+    {
+     "titulo": "El remake de 'Dragon Ball Super' está poniendo toda la carne en el asador, pero creo que se está olvidando de lo que nos hace amar realmente la obra d",
+     "medio": "Espinof",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNC0wcWpOTFBpb3JhN0RISTJPY2dyZEZlSkJ3QnJzSEk1VjdlTW9zWjVVazFvNEl4enhxNGZpdEk1MDBUcmlBTm1Ka1gyeFhYMFdPMmVhMTF5eUdMd2ptTGhXenJqSmRWMExnN3d6Umc3UDJnMlpYUnpfTGYyOFpvVWgzVmh6cHZvU00xc2JtMzdzb05Jalo4SE52Q0h6cW1FdzkxTmF1MmpHZFQxUVEybXdmOGdTeHhta3RuTlBFR1puUFFWUWx5WWZzN3RDTlVnYnRZeS1LUGl4aTFRODVqb0QyWWNVYTRBQTlsemNZeTdFaU3SAfgBQVVfeXFMUGJvN2V4QTRUdllvT3pTMWd3THllcGtvdGhJSFREaGd2ckE0N2J2cEdTV3dRS29KSEdCSHI4NlNwQXdmZ1FHWkZJQkUyR18zNG5FYXBXOUt2WVgxTnRReTZDbnBjd2dJVDlDQWJ0dl9wVEJ1aFdmSDl3MHFZWU1mbERyd1B1YU1qZVZTc0NVdDZjLUg4cVRmWGRBRE5hdUh3eU8yaE95X2VjeV9ZMEhGUWpLMTdCOG92OWRPQzVJS0U5MWp2OTRPU3Y5ZHRsWjRBd2F5bkdBNXJVOHcwY2NZb1QtX0thRmEtd2VoZUVSUTUxRFJHN0tyUUQ?oc=5",
+     "fecha": "2026-10-29"
     }
    ]
   },
@@ -324,10 +319,10 @@
      "fecha": "2026-10-29"
     },
     {
-     "titulo": "HBO recupera \"Los pájaros\" de Hitchcock con Sarah Snook, la protagonista de \"Succession\"",
-     "medio": "Mundoplus.tv",
-     "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQX0VIOW1Sci1IT19QZk5SMW9lR011T0FuNkxoMDk0bENhWXBFUmZtWjlsWXJ1MC1MRTl1OWlmSHBPV0trYWZLSTlSd2h5OVpMOEc2cWpneFJYb2dCVWktZU1hNHg1WXRqZnJRTkZlTXhqaWpsdTYwRVFYX0EycGdEeGNTVDZFQWVzaGt2cF9LUUFWZnVPYjVmX2xMRGRDSS11LWJNOVV3UTE0YXp3dUZ5V1d0MXhmY00?oc=5",
-     "fecha": "2026-10-29"
+     "titulo": "HBO ficha a una estrella de ‘Succession’ para el remake de ‘Los pájaros’, el clásico de culto de Alfred Hitchc",
+     "medio": "Diario AS",
+     "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQdW1UTTZicHFOZFFJSkJITVlUeG9xcTBnT3IxU3hGT0VmeDhvTHMwSWVWcUE2RWM1empvVjJJTjZiMW81c21sSlVoaG4tbXhkVzUxYkp1a1ZSV3cwcFNtMlJZWTc2dTlxTGhQcHVwOHpJNkNoVWJHZjNINWFNcXhBZk1KU2tNZGxWa29vamc4ZmZrTVRLUXR1Q01zNWtqckNLdVYtSTVnUEFjU3d5UDdKOTdkWnV2ZldXUkFiZVhKd1QxRzc0bFhRTWx0czN3eXhWZG82cDAzejlKdXc4Y05CSV9fSWJ2QlBp0gH8AUFVX3lxTE1nbVNxX1FHdkhDaDdqTDNsTUpNZHBrdkl5ZGh6bkZSTUFfU3E4bE5GaEd3V3BiV3Y0SHREdHBsT2pKSDZscG1jT1FsT1pmZVhKNHk3OXo1Z3lxb3hQRVUxUkxlZ1VNX1ZMMzhFSlRWWmlRQk4wTWhIMWZUeGoybEt0b1lETVg0UGczTzRCUmhLR3g2c1dScmJhZzRId21EZTFfRWhfelZMOTJIeU16Q3l0VnBoWTk0MFpfbU80cXFmclRrR1VYLVpqQlVPemVDZThoUVY0M0x3WTZISHpIVmotVWdIc042Wk1OM2txcHFjVko0VllXZzFrVEJteQ?oc=5",
+     "fecha": "2026-10-28"
     }
    ]
   },
@@ -365,16 +360,16 @@
      "fecha": "2026-11-03"
     },
     {
-     "titulo": "8 capítulos para ver: la serie de aventuras de Sherlock Holmes en Amazon Prime Video",
-     "medio": "El Intransigente",
-     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPWTRGeFU0T1pWbERZT1AxM1liSFlhdE04dFpla29RY3Q2OFQxTWhBU29zVEJuT0l3ZVdDWEQyNVoxT2VhQk5fVS1OMzVqNl9OcF9DR2JzQ3hZN2NiaUVybXV0ZXJNeGVESlFNREpuVkRSbk5yczZBTzMyOS02Z0ZmaG9xUGp1Xzc0N0V6TmlFLUV6d1F1NTE5ZFVzWHhRZw?oc=5",
-     "fecha": "2026-10-27"
-    },
-    {
      "titulo": "Una tarde con el padre de 'Sherlock'",
      "medio": "La Vanguardia",
      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOdV8tLThFamoyYmVCQTZyT0U3OUJIYUFWbTR4anZWN0h6dlVmX3ZfMkp1UGtIWXNQbjJzMDVyaHlBcGpFUkczTU5sQjNGZGh5WXY1RF9ITkhwaUpXVmlNUEZBLURBWjNxazI5U1BJbzR4U1d0YjBxOXRXcVJKSEZ5TEo3Q1Z0WDBQRXJFVFVIbTl5akdVeE53c1pjdktDN2tuZGd5aVNiSGdxR1NIZDVTc2ExX0RIcVdFc1F6bUwxX0RnSHcwcjlDUzdkanAwQVF0R3lPZDQ3MNIB3AFBVV95cUxOOXNXQlVpbHpUeWdLZXkxaHVOQ19XNmQzRHVrcjl3OW1vQVMzaXhZckFTU1oxcnd6UVYxeDVHTXFldUVScVhVMXhpQXBMWHV0cl8xNWNPa2lFVVpxU1ExOVhyR0pkTjRrNlQwNWVBNGJTbU5jRGJGOHRRa1RnVDYxTFlQM1duRUl4QnpTQ2ZYOUtPOWxpUXVyc1kySlhTaUFYV24zYk52WDVPQzVOZDNaWnR1Smh0T3lKMWxfOVotQW5SZTlYYjRHbFl5SEo2bzBjRGFkdnJ3UHBYSHZn?oc=5",
      "fecha": "2026-10-26"
+    },
+    {
+     "titulo": "Steven Moffat, creador de 'Sherlock': \"Que la serie vuelva no es imposible; nunca hemos dicho que se haya acabado\"",
+     "medio": "El Periódico",
+     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGRLWGdQaGdqYlpiNjAyZlpWTEFkU1M1MVN6U3F3aV82c3FwYlluVlpqWV92TURIWEthdFN6Xzd1cFhyWTVJX19HMGVHWkRqSTJZMlZodzlwZ2JiV1M2RFBzZU9TdHpBU255emJXU0dFYXJsTXYwX2RYZ1AtNmdWV3pndkdTUVNrOEpZTG0xRmJDWjU1SXRxQTloeVlURm91eXlkLVFCWFI1WEM0cDJoNURENWpZZ3Jm0gG4AUFVX3lxTE1LaGpCSkFYQlViOTVaempRREJJRzJXTFBnUlNBekY2VDNlODZ1M19vQm9EUEEyQW9rNTg3U21rXzh0Sk93UjFCMHE1cFp1eFZQa1g0RTdjRDFtNkZEQjZKZUFxRkVobVNYSVQzYkZaa09GbDBzNk1rVXhEQ3JQTmlNZVFwUjJpWUNSMXdoS0FOOGtDNV91dmFyQ2dCRENtVkl2bWhMSGhvdWNMZVNJVzJEenFhNUVFc20?oc=5",
+     "fecha": "2026-10-23"
     }
    ]
   },
@@ -475,16 +470,16 @@
      "fecha": "2026-11-02"
     },
     {
-     "titulo": "Crítica del capítulo 4 de Dragon Ball Super Beerus: Goku alcanza el Super Saiyan God más bonito de la serie tras un inicio soso y repetitivo",
-     "medio": "HobbyConsolas",
-     "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxObFJ4MEhqSmk2YVJaVU96NEc5SUFCYXVsQU05SDdGYmJLQk5NQjhENFBxdHpLeUNweFIyV1JFOUJXMWZIdVBkb0x3MFdOUEhFS3hIYXRMQmNvcGpSa0hFbU55QjNsYWxEMEpkNFl4RFQ3RFRmbFVUbXF6Q1FvcHRkV1dESGpkZTZmbjZ4VEt0alY0YkdOQTR0bFl5NjZxLWhXM0hwQ05PdTA2MW8zMENtaVQ5V3c2WGpTbGdKMVhPWExUOUFJRDBXaXZLajZyQ09yNW8xb1Z3QWV1dERZNV9GdjFwNGNKSjF4YUxzS1RiNzB6bU9uM2RVNHJRWE1YNURZVzJMNlhHdw?oc=5",
-     "fecha": "2026-11-01"
-    },
-    {
      "titulo": "Dragon Ball Super con doblaje latino llega por primera vez a un popular servicio de streaming, y ya puedes ver todos los capítulos con las voces en es",
      "medio": "Yahoo",
      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNnJ0TkpydUpHX1FqbktBRUQ5RW54VGdqaHF2cHBmWHlvdmVGdVRhNHpTZzN0UVdNaFl6U2NtUlhaenMzQWpFam9keVl2MTRRUy1aaldVMm1ZYThTVy1JbUpmX1I5UzRXeHZ3SlQtYjJzb01BMUd6TXVEeGhLNHoxRFNqVW1TNE0?oc=5",
      "fecha": "2026-11-01"
+    },
+    {
+     "titulo": "El remake de 'Dragon Ball Super' está poniendo toda la carne en el asador, pero creo que se está olvidando de lo que nos hace amar realmente la obra d",
+     "medio": "Espinof",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQNC0wcWpOTFBpb3JhN0RISTJPY2dyZEZlSkJ3QnJzSEk1VjdlTW9zWjVVazFvNEl4enhxNGZpdEk1MDBUcmlBTm1Ka1gyeFhYMFdPMmVhMTF5eUdMd2ptTGhXenJqSmRWMExnN3d6Umc3UDJnMlpYUnpfTGYyOFpvVWgzVmh6cHZvU00xc2JtMzdzb05Jalo4SE52Q0h6cW1FdzkxTmF1MmpHZFQxUVEybXdmOGdTeHhta3RuTlBFR1puUFFWUWx5WWZzN3RDTlVnYnRZeS1LUGl4aTFRODVqb0QyWWNVYTRBQTlsemNZeTdFaU3SAfgBQVVfeXFMUGJvN2V4QTRUdllvT3pTMWd3THllcGtvdGhJSFREaGd2ckE0N2J2cEdTV3dRS29KSEdCSHI4NlNwQXdmZ1FHWkZJQkUyR18zNG5FYXBXOUt2WVgxTnRReTZDbnBjd2dJVDlDQWJ0dl9wVEJ1aFdmSDl3MHFZWU1mbERyd1B1YU1qZVZTc0NVdDZjLUg4cVRmWGRBRE5hdUh3eU8yaE95X2VjeV9ZMEhGUWpLMTdCOG92OWRPQzVJS0U5MWp2OTRPU3Y5ZHRsWjRBd2F5bkdBNXJVOHcwY2NZb1QtX0thRmEtd2VoZUVSUTUxRFJHN0tyUUQ?oc=5",
+     "fecha": "2026-10-29"
     }
    ]
   },
@@ -496,6 +491,12 @@
    "oliver": false,
    "noticias": [
     {
+     "titulo": "VisionQuest acaba de estrenar en Disney+ uno de los episodios mejor valorados de todo el Universo Marvel",
+     "medio": "HobbyConsolas",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeDMtbGZKeWl0bDBfVHF0R1RIYlpVM0tXS3RscEE3cEtGSk4wbnNnTUVVanJKSkgybDI4WFEzQU9oOFQ3WnFibUpLNnQ1cWR1MUtQUkFKVEtxM3AtRS1BRHdvUl9DT3RObGdCZkRaTEtLajR1Q1NMa0dYQk41T19TQWt3ZXdRR1g0WVZBN1ZMb0VHN3BWS3pFb0VkbnpBTG96U19MOEVTZENrN3FKRGtWNzZIUkxaMVE4R09wY0N0MmJUQlNRT3VoczlteG9tcWdDTldGVHlyNE5uZWM?oc=5",
+     "fecha": "2026-11-05"
+    },
+    {
      "titulo": "¿Quién es Jim Hammond en los cómics de Marvel?; su sorpresiva llegada a Vision Quest emociona a los fans",
      "medio": "El Universal",
      "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQWlNmbFI4RkNYZkdfNlVMR19mbHlBYlJwOVBtSk5LMEY3REkwR2dia1VpeDdJQzg0dDlTYnF4aHl2ZXhZekNGbGFiblI0NTNzemxkclZyMkg1VHFRWHZIbWFFN2FNTlVJMk41dTZ0TUJad3huVXJfdl9ibk80eGd2MmNuc2toeWdOUzc1dWRxaUFkRktObWRzQlBuLUx0Rk1qY1hVNTVDVHBuLUlUYUI0cXEyMU96SGd6UlQ3b0tvOHExZ2d3UkFrcm1rTG1vOXcwRS0zWjZ6Z185MERi?oc=5",
@@ -505,12 +506,6 @@
      "titulo": "¿Tengo que ver \"VisionQuest\" para poder ver Avengers: Doomsday?",
      "medio": "El Informador",
      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRlFVRmNjVWVnMzViZlRZdFlTVF9ibWRhdjJKUC1vZDlMMS1fdndfSDJXOWJFdmVWeXBZYTVXVVBFU2dRN1c3YTFROGJTSW40SzR0bW5TMTh6MXhhc3YwQzN4ZXFWZmRYdWFnM2pKUDJSV1VMS3JtY0dXM1E0blItWkFBLV9qMTVPOGp3blhvTmZleHA5aGhLa1BpVFdfMzZaUWlNNmJOXzZNR0pkRVd4NWsyemRJSjhYR2YzeGQ2N3R6Tmlsdkg40gHMAUFVX3lxTE01YlVoUHJTNmZ1cjgwVU9sSlhRM3hjNVhPVDdoVkJ6N1hFeGhpQ0lqTnpnRnd3b2lKYS1IM3cyY19oWTNrWVJ2dWgybUtuZTJ0TjIxenNSRlAxdVJOTnFZZ19XRUNicGNpVkdWTkRkVXBzUnpEbndZTXRQbFZqZmlqaHB0TzlKSGJqc21uZUNYWVBVdWc2MWdRcXhuRC1hc1h3VUx3R1JRVDNMejI1MDQ1TlY0dFZLeGhPTDN2ckNPZ3dHblpyZGtRUGxvag?oc=5",
-     "fecha": "2026-11-04"
-    },
-    {
-     "titulo": "VisionQuest | ¿Cuándo estrena el episodio final en Disney+? Te contamos",
-     "medio": "Omelete Mexico",
-     "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPX0tUSGMzQ1ZkMVE1YmhMLVd3dGVJSDdMQkZjME9kYm9LdmpKOHg4aDM5bnR2a3ZiX3hrT2t3c3VPUnFPUlc4NkI1dmRPZDFSOVF2Nzl4S2k4ZlE5a0ZhMUh4NGxaWEhDa3dnQk1jSXhfY05ra0c3Zi1vdDhDaTU4dUtMVENlcy1EdExZR0pMemI0cmJyMXZqWGRxVU1EVGs1WjMycU53?oc=5",
      "fecha": "2026-11-04"
     }
    ]
