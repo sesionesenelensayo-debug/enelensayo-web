@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "God of War Laufey se retrasa hasta el 20 de mayo de 2027",
+    "artista": "God of War Laufey",
+    "intro": "El próximo título de Santa Monica Studio, God of War Laufey, ha sido pospuesto. El lanzamiento pasa del 16 de febrero al 20 de mayo de 2027…",
+    "telegraph_url": "https://telegra.ph/God-of-War-Laufey-se-retrasa-hasta-el-20-de-mayo-de-2027-11-05",
+    "url": "https://enelensayomedia.com/notas/god-of-war-laufey-se-retrasa-hasta-el-20-de-mayo-de-2027-1105.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/god-of-war-laufey-se-retrasa-hasta-el-20-de-mayo-de-2027-1105.jpg",
+    "fecha": "2026-11-05T07:05:33.347081",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "El horror del garrote: la sirvienta que incendió una viuda en 1888",
     "artista": "Crimen de la calle Fuencarral, 1888, Madrid, España: Luciana Borcino, una viuda prestamista, fue hallada muerta y con el cuerpo parcialmente quemado en su casa. Se acusó a su criada Higinia Balaguer, que fue condenada, y a Vicenta Verdier, la hija de la víctima. El caso, con sospechas de fraude y torturas durante el proceso, se convirtió en un escándalo mediático que dividió a la opinión pública y a la prensa de la época.",
@@ -5586,18 +5600,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Discos de la semana"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece la actriz Barbara Barrie a los 95 años",
-    "artista": "",
-    "intro": "La actriz y autora estadounidense Barbara Barrie, conocida por su papel en \"Breaking Away\" y su premio en Cannes, falleció el 28 de octubre de 2026. Su mue",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fallece-la-actriz-barbara-barrie-a-los-95-anos-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-la-actriz-barbara-barrie-a-los-95-anos-1028.jpg",
-    "fecha": "2026-10-28T14:08:01",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
