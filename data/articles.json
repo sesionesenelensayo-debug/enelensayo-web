@@ -1471,20 +1471,6 @@
   },
   {
     "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Pitbull anuncia gira en México para 2027: fechas, sedes y precios",
-    "artista": "Pitbull",
-    "intro": "El cantante estadounidense Pitbull regresará a México en febrero de 2027 con tres conciertos confirmados en la Ciudad de México, Guadalajara y Monterrey.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/pitbull-anuncia-gira-en-mexico-para-2027-fechas-sedes-y-precios-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/pitbull-anuncia-gira-en-mexico-para-2027-fechas-sedes-y-precios-1103.jpg",
-    "fecha": "2026-11-03T13:33:12.926640",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
-  },
-  {
-    "opinion": false,
     "tipo": "reportaje",
     "titulo": "La película 'Karateka' lleva la historia de Sandra Sánchez a los cines",
     "artista": "Sandra Sánchez",
@@ -2083,21 +2069,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Conciertos"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Pitbull anuncia conciertos en México para febrero de 2027",
-    "artista": "Pitbull",
-    "intro": "El cantante estadounidense Pitbull confirmó su regreso a México con tres presentaciones en la Ciudad de México, Guadalajara y Monterrey dentro de su gira.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/pitbull-anuncia-conciertos-en-mexico-para-febrero-de-2027-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/pitbull-anuncia-conciertos-en-mexico-para-febrero-de-2027-1101.jpg",
-    "fecha": "2026-11-02T15:45:35.189296",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-01T17:35:55.117986",
-    "actualizada": true
   },
   {
     "opinion": false,
@@ -3172,19 +3143,6 @@
     "url": "https://enelensayomedia.com/notas/u2-anuncia-tres-conciertos-en-el-estadio-gnp-seguros-en-febrero-2027-1101.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/u2-anuncia-tres-conciertos-en-el-estadio-gnp-seguros-en-febrero-2027-1101.jpg",
     "fecha": "2026-11-01T16:36:52.567321",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Pitbull confirma gira en México para 2027: fechas, sedes y boletos",
-    "artista": "Pitbull",
-    "intro": "El rapero estadounidense Pitbull regresa a México con la gira I'm Back Tour para ofrecer tres conciertos en febrero de 2027.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/pitbull-confirma-gira-en-mexico-para-2027-fechas-sedes-y-boletos-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/pitbull-confirma-gira-en-mexico-para-2027-fechas-sedes-y-boletos-1101.jpg",
-    "fecha": "2026-11-01T16:35:19.580832",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Conciertos"
@@ -4568,19 +4526,6 @@
     "categoria": "Conciertos"
   },
   {
-    "tipo": "noticia",
-    "titulo": "Pitbull anuncia fechas de su gira 'I'm Back' en México para febrero de 2027",
-    "artista": "Pitbull",
-    "intro": "El artista estadounidense confirmará su regreso a la región con tres conciertos programados en la Ciudad de México, Guadalajara y Monterrey.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/pitbull-anuncia-fechas-de-su-gira-i-m-back-en-mexico-para-febrero-de-2-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/pitbull-anuncia-fechas-de-su-gira-i-m-back-en-mexico-para-febrero-de-2-1030.jpg",
-    "fecha": "2026-10-30T18:36:45.646141",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
-  },
-  {
     "tipo": "reportaje",
     "titulo": "Toluca logra Récord Guinness con el alfeñique más largo del mundo",
     "artista": "Toluca",
@@ -5223,19 +5168,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Esports"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Pitbull en México 2027: fechas, sedes y boletos",
-    "artista": "",
-    "intro": "El rapero estadounidense Pitbull regresa a México con tres conciertos confirmados en la Ciudad de México, Guadalajara y Monterrey para febrero de 2027.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/pitbull-en-mexico-2027-fechas-sedes-y-boletos-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/pitbull-en-mexico-2027-fechas-sedes-y-boletos-1029.jpg",
-    "fecha": "2026-10-29T16:56:24",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
   },
   {
     "tipo": "reportaje",
