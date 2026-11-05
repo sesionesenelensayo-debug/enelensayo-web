@@ -1,6 +1,22 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Estrenos de noviembre 2026: de Los Juegos del Hambre a Godzilla llegan al cine",
+    "artista": "Estrenos de noviembre 2026",
+    "intro": "Este noviembre se abrirán las puertas de los cines a una serie de estrenos que incluyen la nueva entrega de Los Juegos del Hambre y la última película de Godzilla.",
+    "telegraph_url": "https://telegra.ph/Estrenos-de-noviembre-2026-de-Los-Juegos-del-Hambre-a-Godzilla-llegan-al-cine-11-03",
+    "url": "https://enelensayomedia.com/notas/estrenos-de-noviembre-2026-de-los-juegos-del-hambre-a-godzilla-llegan-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/estrenos-de-noviembre-2026-de-los-juegos-del-hambre-a-godzilla-llegan-1103.jpg",
+    "fecha": "2026-11-04T18:50:09.232105",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-11-03T09:22:27.591581",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Amy Winehouse: el día de su muerte en Camden Square",
     "artista": "Amy Winehouse: el día de su muerte en Camden Square",
@@ -954,22 +970,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Esports"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Estrenos de noviembre 2026: de Los Juegos del Hambre a Godzilla llegan al cine",
-    "artista": "Estrenos de noviembre 2026",
-    "intro": "Este noviembre se abrirán las puertas de los cines a una serie de estrenos que incluyen la nueva entrega de Los Juegos del Hambre y la última película de Godzilla.",
-    "telegraph_url": "https://telegra.ph/Estrenos-de-noviembre-2026-de-Los-Juegos-del-Hambre-a-Godzilla-llegan-al-cine-11-03",
-    "url": "https://enelensayomedia.com/notas/estrenos-de-noviembre-2026-de-los-juegos-del-hambre-a-godzilla-llegan-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/estrenos-de-noviembre-2026-de-los-juegos-del-hambre-a-godzilla-llegan-1103.jpg",
-    "fecha": "2026-11-03T17:52:02.161795",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-03T09:22:27.591581",
-    "actualizada": true
   },
   {
     "opinion": false,
