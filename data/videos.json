@@ -63,6 +63,11 @@
   ],
   "longs": [
     {
+      "id": "_agfPWD7sbc",
+      "titulo": "¿Cómo un vendedor de crack dominó el imperio de Wall Street? La historia de Jay-Z",
+      "fecha": "2026-11-05"
+    },
+    {
       "id": "gSDSIzbZW2I",
       "titulo": "¿Genio incomprendido o su propia ruina? La historia de Kanye West",
       "fecha": "2026-11-04"
@@ -86,11 +91,6 @@
       "id": "CTboLS8OEoE",
       "titulo": "¿Cómo surgió el sonido que conquistó al mundo? – El origen de Maná",
       "fecha": "2026-10-31"
-    },
-    {
-      "id": "x9957JlZgJk",
-      "titulo": "¿Qué impulsó a Elton John a reinventarse a los 70 años? – El salto que cambió su historia",
-      "fecha": "2026-10-30"
     }
   ],
   "podcast": []

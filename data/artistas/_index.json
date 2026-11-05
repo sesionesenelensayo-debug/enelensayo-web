@@ -1,5 +1,12 @@
 [
   {
+    "artista": "Jay-Z",
+    "slug": "jay-z",
+    "imagen": "",
+    "piezas": 1,
+    "updated": "2026-11-05 12:02"
+  },
+  {
     "artista": "Kanye West",
     "slug": "kanye-west",
     "imagen": "",

@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Jay-Z: De la venta de crack a la cumbre de Wall Street: la travesía de Jay‑Z",
+    "artista": "Jay-Z",
+    "intro": "En el video de En el Ensayo Media se narra la vida de Sean \"Jay‑Z\" Carter, desde su infancia en el proyecto Marcy Houses de Brooklyn hasta convertirse en el primer rapero billonario del mundo.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/jay-z-de-la-venta-de-crack-a-la-cumbre-de-wall-street-la-travesia-de-j-1105.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/jay-z-de-la-venta-de-crack-a-la-cumbre-de-wall-street-la-travesia-de-j-1105.jpg",
+    "fecha": "2026-11-05T12:04:25.431880",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Leonardo Favio, a 14 años de su muerte, se recuerda en la cultura argentina",
     "artista": "Leonardo Favio",
     "intro": "El 5 de noviembre de 2026 se cumplen catorce años del fallecimiento de Leonardo Favio, el icónico cantante…",
@@ -4258,20 +4273,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Celia Cruz - Por qué jamás volvió a pisar su tierra? La historia verdadera ",
-    "artista": "Celia Cruz",
-    "intro": "Celia Cruz, la Reina de la Salsa, nació en La Habana en 1925. Tras el triunfo de la Revolución cubana en 1960, decidió no regresar a su país natal, estableciéndose primero en México y luego en Estados",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/celia-cruz-por-que-jamas-volvio-a-pisar-su-tierra-la-historia-verdader-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/celia-cruz-por-que-jamas-volvio-a-pisar-su-tierra-la-historia-verdader-1030.jpg",
-    "fecha": "2026-10-30T19:37:57.652472",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   },
   {
     "tipo": "reportaje",
