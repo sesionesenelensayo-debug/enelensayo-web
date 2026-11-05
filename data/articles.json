@@ -1,6 +1,22 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Kanye West: ¿Nuevo concierto en CDMX?",
+    "artista": "Kanye West",
+    "intro": "¿Regresa Kanye West a México? Trascendió de manera viral un anuncio sobre un posible concierto del rapero en el Estadio Banorte de la Ciudad de México.",
+    "telegraph_url": "https://telegra.ph/Kanye-West-Nuevo-concierto-en-CDMX-11-04",
+    "url": "https://enelensayomedia.com/notas/kanye-west-nuevo-concierto-en-cdmx-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/kanye-west-nuevo-concierto-en-cdmx-1103.jpg",
+    "fecha": "2026-11-05T12:53:08.120307",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-11-03T19:17:28.974086",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "David Guetta anuncia concierto en Ciudad de México para 2027",
     "artista": "David Guetta",
@@ -532,22 +548,6 @@
     "views": 0,
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-03T14:09:47.386773",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Kanye West: ¿Nuevo concierto en CDMX?",
-    "artista": "Kanye West",
-    "intro": "¿Regresa Kanye West a México? Trascendió de manera viral un anuncio sobre un posible concierto del rapero en el Estadio Banorte de la Ciudad de México.",
-    "telegraph_url": "https://telegra.ph/Kanye-West-Nuevo-concierto-en-CDMX-11-04",
-    "url": "https://enelensayomedia.com/notas/kanye-west-nuevo-concierto-en-cdmx-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/kanye-west-nuevo-concierto-en-cdmx-1103.jpg",
-    "fecha": "2026-11-04T19:29:41.617635",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-03T19:17:28.974086",
     "actualizada": true
   },
   {
