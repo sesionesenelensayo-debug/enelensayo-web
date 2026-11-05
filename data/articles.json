@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Grand Theft Auto 6 tendrá descarga del 12 al 19 de noviembre en PS5 y Xbox",
+    "artista": "Grand Theft Auto 6",
+    "intro": "Rockstar Games confirmó que la precarga de Grand Theft Auto 6 comenzará el 12 de noviembre de 2026 para PlayStation 5 y Xbox Series X|S, una semana antes de su lanzamiento oficial el 19 de noviembre.",
+    "telegraph_url": "https://telegra.ph/Grand-Theft-Auto-6-tendrá-descarga-del-12-al-19-de-noviembre-en-PS5-y-Xbox-11-05",
+    "url": "https://enelensayomedia.com/notas/grand-theft-auto-6-tendra-descarga-del-12-al-19-de-noviembre-en-ps5-y-1105.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/grand-theft-auto-6-tendra-descarga-del-12-al-19-de-noviembre-en-ps5-y-1105.jpg",
+    "fecha": "2026-11-05T16:39:09.287304",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Russell Brand hallado culpable de violación y tres agresiones sexuales en Londres",
     "artista": "Russell Brand",
