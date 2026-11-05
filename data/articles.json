@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Amy Winehouse: el día de su muerte en Camden Square",
+    "artista": "Amy Winehouse: el día de su muerte en Camden Square",
+    "intro": "El 23 de julio de 2011, la música perdió a una de sus figuras más icónicas tras confirmarse el fallecimiento de Amy Winehouse en su departamento de Camden Square, en Londres.",
+    "telegraph_url": "https://telegra.ph/Amy-Winehouse-el-día-de-su-muerte-en-Camden-Square-11-05",
+    "url": "https://enelensayomedia.com/notas/amy-winehouse-el-dia-de-su-muerte-en-camden-square-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/amy-winehouse-el-dia-de-su-muerte-en-camden-square-1104.jpg",
+    "fecha": "2026-11-04T18:46:25.792872",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "David Guetta anuncia concierto en Ciudad de México para 2027",
     "artista": "David Guetta",
@@ -5571,19 +5585,6 @@
     "url": "https://enelensayomedia.com/notas/fallece-la-actriz-susan-saint-james-a-los-80-anos-1027.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/fallece-la-actriz-susan-saint-james-a-los-80-anos-1027.jpg",
     "fecha": "2026-10-27T07:48:03",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece Donnie Iris, pionero del rock de Ohio y Pennsylvania",
-    "artista": "",
-    "intro": "Donnie Iris, nacido Dominic Ierace el 28 de febrero de 1943, falleció el 26 de octubre de 2026. Conocido por su paso por The Jaggerz y Wild Cherry en los s",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fallece-donnie-iris-pionero-del-rock-de-ohio-y-pennsylvania-1026.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-donnie-iris-pionero-del-rock-de-ohio-y-pennsylvania-1026.jpg",
-    "fecha": "2026-10-26T17:11:04",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
