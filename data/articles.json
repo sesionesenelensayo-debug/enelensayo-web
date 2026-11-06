@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Psycho Clown lidera el regreso de AAA a Ecatepec",
+    "artista": "Psycho Clown",
+    "intro": "Psycho Clown encabeza el regreso triunfal de AAA a Ecatepec, según reportes de varios medios.",
+    "telegraph_url": "https://telegra.ph/Psycho-Clown-lidera-el-regreso-de-AAA-a-Ecatepec-11-06",
+    "url": "https://enelensayomedia.com/notas/psycho-clown-lidera-el-regreso-de-aaa-a-ecatepec-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/psycho-clown-lidera-el-regreso-de-aaa-a-ecatepec-1106.jpg",
+    "fecha": "2026-11-06T10:08:05.001751",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Kygo en México 2027: fechas, sedes y boletos",
     "artista": "Kygo",
