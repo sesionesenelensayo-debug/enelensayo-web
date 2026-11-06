@@ -1,4 +1,76 @@
 {
+ "Terror y misterio": {
+  "shorts": [
+   {
+    "id": "cG6u5QKK7Xo",
+    "titulo": "Los niños que se esfumaron en Navidad | El caso Sodder",
+    "fecha": "2026-11-05",
+    "nota": "https://enelensayomedia.com/notas/los-ninos-que-se-esfumaron-en-navidad-el-caso-sodder-1105.html"
+   },
+   {
+    "id": "fQXnuHWMIkQ",
+    "titulo": "Jimmy Hoffa: El sindicalista que borraron del mapa | Historia Real",
+    "fecha": "2026-11-04",
+    "nota": "https://enelensayomedia.com/notas/jimmy-hoffa-el-sindicalista-que-borraron-del-mapa-historia-real-1104.html"
+   },
+   {
+    "id": "IabNdYctmZw",
+    "titulo": "La Isla de las Muñecas: la muerte de Don Julián Santana",
+    "fecha": "2026-10-30",
+    "nota": "https://enelensayomedia.com/notas/la-isla-de-las-munecas-la-muerte-de-don-julian-santana-1030.html"
+   },
+   {
+    "id": "s9mWM-wo2_U",
+    "titulo": "El científico mexicano que desapareció sin dejar rastro · Jacobo Grinberg",
+    "fecha": "2026-10-29",
+    "nota": "https://enelensayomedia.com/notas/el-cientifico-mexicano-que-desaparecio-sin-dejar-rastro-jacobo-grinber-1029.html"
+   },
+   {
+    "id": "qHlPH_lR00E",
+    "titulo": "La Isla de las Muñecas: muerte sin explicación",
+    "fecha": "2026-10-28",
+    "nota": "https://enelensayomedia.com/notas/la-isla-de-las-munecas-muerte-sin-explicacion-1028.html"
+   }
+  ],
+  "longs": [
+   {
+    "id": "G_TZ7BXk6tU",
+    "titulo": "El horror del garrote: la sirvienta que incendió una viuda en 1888",
+    "fecha": "2026-11-04",
+    "nota": "https://enelensayomedia.com/notas/el-horror-del-garrote-la-sirvienta-que-incendio-una-viuda-en-1888-1104.html"
+   },
+   {
+    "id": "YXmCyyi-r58",
+    "titulo": "El Nahual: Brujo que se transforma en bestia y controla la muerte",
+    "fecha": "2026-10-30",
+    "nota": "https://enelensayomedia.com/notas/el-nahual-brujo-que-se-transforma-en-bestia-y-controla-la-muerte-1030.html"
+   },
+   {
+    "id": "qNlg2vJXyRE",
+    "titulo": "Isla de las Muñecas: la niña que nadie pudo probar que existió",
+    "fecha": "2026-10-29",
+    "nota": "https://enelensayomedia.com/notas/isla-de-las-munecas-la-nina-que-nadie-pudo-probar-que-existio-1029.html"
+   },
+   {
+    "id": "J8H_rfnahWQ",
+    "titulo": "Chupacabras: La bestia sin sangre que aterrorizó Texas y Puerto Rico",
+    "fecha": "2026-10-29",
+    "nota": "https://enelensayomedia.com/notas/chupacabras-la-bestia-sin-sangre-que-aterrorizo-texas-y-puerto-rico-1029.html"
+   },
+   {
+    "id": "0CX93C3NzgE",
+    "titulo": "El Charro Negro: El jinete maldito que cobra almas en la noche",
+    "fecha": "2026-10-29",
+    "nota": "https://enelensayomedia.com/notas/el-charro-negro-el-jinete-maldito-que-cobra-almas-en-la-noche-1029.html"
+   },
+   {
+    "id": "WIiOttznNpE",
+    "titulo": "¿Se extinguió su legado o vive en cada nota? La verdad detrás de una leyenda",
+    "fecha": "2026-10-28",
+    "nota": "https://enelensayomedia.com/notas/se-extinguio-su-legado-o-vive-en-cada-nota-la-verdad-detras-de-una-ley-1028.html"
+   }
+  ]
+ },
  "Reportaje": {
   "shorts": [
    {
@@ -215,72 +287,6 @@
     "titulo": "Cómo arreglar toda tu vida en un día según Dan Koe",
     "fecha": "2026-10-31",
     "nota": "https://enelensayomedia.com/notas/como-arreglar-toda-tu-vida-en-1-dia-historia-completa-1031.html"
-   }
-  ]
- },
- "Terror y misterio": {
-  "shorts": [
-   {
-    "id": "fQXnuHWMIkQ",
-    "titulo": "Jimmy Hoffa: El sindicalista que borraron del mapa | Historia Real",
-    "fecha": "2026-11-04",
-    "nota": "https://enelensayomedia.com/notas/jimmy-hoffa-el-sindicalista-que-borraron-del-mapa-historia-real-1104.html"
-   },
-   {
-    "id": "IabNdYctmZw",
-    "titulo": "La Isla de las Muñecas: la muerte de Don Julián Santana",
-    "fecha": "2026-10-30",
-    "nota": "https://enelensayomedia.com/notas/la-isla-de-las-munecas-la-muerte-de-don-julian-santana-1030.html"
-   },
-   {
-    "id": "s9mWM-wo2_U",
-    "titulo": "El científico mexicano que desapareció sin dejar rastro · Jacobo Grinberg",
-    "fecha": "2026-10-29",
-    "nota": "https://enelensayomedia.com/notas/el-cientifico-mexicano-que-desaparecio-sin-dejar-rastro-jacobo-grinber-1029.html"
-   },
-   {
-    "id": "qHlPH_lR00E",
-    "titulo": "La Isla de las Muñecas: muerte sin explicación",
-    "fecha": "2026-10-28",
-    "nota": "https://enelensayomedia.com/notas/la-isla-de-las-munecas-muerte-sin-explicacion-1028.html"
-   }
-  ],
-  "longs": [
-   {
-    "id": "G_TZ7BXk6tU",
-    "titulo": "El horror del garrote: la sirvienta que incendió una viuda en 1888",
-    "fecha": "2026-11-04",
-    "nota": "https://enelensayomedia.com/notas/el-horror-del-garrote-la-sirvienta-que-incendio-una-viuda-en-1888-1104.html"
-   },
-   {
-    "id": "YXmCyyi-r58",
-    "titulo": "El Nahual: Brujo que se transforma en bestia y controla la muerte",
-    "fecha": "2026-10-30",
-    "nota": "https://enelensayomedia.com/notas/el-nahual-brujo-que-se-transforma-en-bestia-y-controla-la-muerte-1030.html"
-   },
-   {
-    "id": "qNlg2vJXyRE",
-    "titulo": "Isla de las Muñecas: la niña que nadie pudo probar que existió",
-    "fecha": "2026-10-29",
-    "nota": "https://enelensayomedia.com/notas/isla-de-las-munecas-la-nina-que-nadie-pudo-probar-que-existio-1029.html"
-   },
-   {
-    "id": "J8H_rfnahWQ",
-    "titulo": "Chupacabras: La bestia sin sangre que aterrorizó Texas y Puerto Rico",
-    "fecha": "2026-10-29",
-    "nota": "https://enelensayomedia.com/notas/chupacabras-la-bestia-sin-sangre-que-aterrorizo-texas-y-puerto-rico-1029.html"
-   },
-   {
-    "id": "0CX93C3NzgE",
-    "titulo": "El Charro Negro: El jinete maldito que cobra almas en la noche",
-    "fecha": "2026-10-29",
-    "nota": "https://enelensayomedia.com/notas/el-charro-negro-el-jinete-maldito-que-cobra-almas-en-la-noche-1029.html"
-   },
-   {
-    "id": "WIiOttznNpE",
-    "titulo": "¿Se extinguió su legado o vive en cada nota? La verdad detrás de una leyenda",
-    "fecha": "2026-10-28",
-    "nota": "https://enelensayomedia.com/notas/se-extinguio-su-legado-o-vive-en-cada-nota-la-verdad-detras-de-una-ley-1028.html"
    }
   ]
  },
