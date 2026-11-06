@@ -1,6 +1,12 @@
 {
  "chisme": [
   {
+   "titulo": "Estos son los conciertos y espectáculos que habrá en Monterrey este fin de semana",
+   "fuente": "ABC Noticias",
+   "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQNjFPMS1RUVBFMDdRb2U3c0pZUHM2bXlzMmY3bDhENmRIZXBpZkJrN2ZJelhhcWNMWGZjcVpYOHdJWnc0MW1kMzlDSV9sTUpXT2l1bHdRQnZpNmo3X2lvdkcwejFqbkcxRlBLbldRU3ZTWUxmMXlSMXEwTGNqUnZYaW15b3QxMUhLeldBYlo3VW5wS0tfVEE1ZDA2R05mdS13X3VCN21zWkRzOUxGNjEydk1leGRwWWJlOFd5M0g1NW1UQTFINzN1SWFSOA?oc=5",
+   "fecha": "2026-11-06 12:53"
+  },
+  {
    "titulo": "Brunella Torpoco recibe el premio a Mejor Artista Salsa en los Premios HEAT",
    "fuente": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQalR6RHVFY3ZQWmM0dEp1RWhwdDBLVUtXOTlHamFWWFROWE1kb0Zvdll1bGRfd0gwOUpvS2hRcFpwUFB6d2VlOHlpV1luMFM0a2l5WFQ0anZlWXEyMFVSOVQxNnZSOGhZdngzbjhmZFIxMlNhdHhQUl9aLU9JUXBTV19PYnBNRTY3SFZfY0dJUmZlRHJxdmg5T2NvSU9XaDlMWFJVOXdjTmUzS3ExVno0dDNkSEJPZEZuQllVc2pWVndlM1lfbkQ1Q1FDcw?oc=5",
@@ -47,12 +53,6 @@
    "fuente": "Revista Semana",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPejB0cDJyd244OVZET0dqUjUwX2pYb2V3U2d0MkhKZEttN2RxS29leldIbm5EVUNGdjJweDBLRXdrVGg4QUdLWThYbHJfNUljN3lmSENsTkluRmNINVJWeGt5UkJ6ZGF3eFV2RUo0VnFGWHdHUEJpM1VJdWFWRHR6SUloa1VsZ2FOdDRONmMyTVk3VG9hOVE5OGFkNFhzaEZGVDc3a2t3bGNSN05jSlF0cUd0VVAxVkhFUktSMzZIZ0p1SUtIZ3N0SV9RTVQ1WnJtMFJwemdEZHhiaWpDazFtSmNYM1F3QdIB6wFBVV95cUxQSXphLUo2QmVQTmloQXpVeTlkTEhzZ1haT0RGWTVLRnJwVVg0M0hoZjdNSV9fclZSU0Q4R2Ffd2VPNzRoT0hNSHEyaVFuZ2oyTy04WTdhQ0w1QW90eV9PNnR4M0FCWkhVUUhCSUpwUWhZWnRaRE4yUm9yWUROSHhHWkJSa1d6NW1pYjNtMVFqN01LblRjV2NaNGZtMUZNY3B3dGRsVFEtcE0zdUM1a0FYdlJtTURwNEhxSnppQUdpcVlZQk53N19hS1k4aXo2cVBCYkJHb0lmd3FXV0tXMzdtS2ZMUk1UcERyS1RN?oc=5",
    "fecha": "2026-11-05 17:41"
-  },
-  {
-   "titulo": "Luis de Llano ofrece disculpas públicas a Sasha Sokol; la cantante afirma que no así debía disculparse",
-   "fuente": "Diario de Yucatán",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQZDRLQXpXTzJmclNSTHBFVmlhSERmZTI2MlRpRk55aTZsdWpPYlB6QTZ3bXRZbjZqaUp2TVRMd1FNb3pVR2wybld0UllOVEQzbGlmcTNXMVJvMEJUSFdCZDZmcy1pYW1QZEZEVWdnODRjdTVzREVYQzNxZDE5bmlyc3NKVE4tR21VY1NZQkIxb19JU3ZBdU5tSUFmMHFpcHowNlYyd1ZZSG1lUjhkVFpsUmZHc214ZlpZcWM1UkhzanZXZGhaQjMzeUZFYi1yZzJ3SThhZUpSeG42SWNkTnNBaVVKamh5RFU3M3BMWlR6RFhiR243QnM1QzJLYw?oc=5",
-   "fecha": "2026-11-05 15:26"
   },
   {
    "titulo": "Cantante cubanoamericano Pitbull está de regreso: Ahora en España",
@@ -115,6 +115,12 @@
    "fuente": "Univision",
    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxORWdmQUc3Uzl4ZHJrV3YzWVBPZjdIU1B4VVY5cG0yd3JpSnBhWmpJM3p1cWlHblM4SzB6c21ITW9EQmZlb0k2LVJuY1QtS0k0c3JhaGk1VEl2Y2ZTRFU1TEp5WmhDT25uRVB5bHFzamxrSXdNUy0zaEp4WVE5NmNTcDBBeFBjLUlHV20wSXdtOW5jTDQxWW5fZktKZTJobTJNcjhWcGZsZEQ4aW0tTGdxUFBGNENyNGRUNnN4WDJMRW1YWDhheFlPZQ?oc=5",
    "fecha": "2026-11-04 16:29"
+  },
+  {
+   "titulo": "Antes de los estadios, U2 llenó cuatro noches el Palacio de los Deportes: la primera visita de la banda a México en 1992",
+   "fuente": "www.adn40.mx",
+   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQSEk0NjZMeDdVWDljREFZMEZocmprNTFlZGFLZlN5TFJJVWsxX1YzbHotNlczT1JVSEpvS0Ywb1dkZ25iWlJYeEpGRXpxNWZFVDYwNWFQclduaGVzYkwyUkJHLW1hMWJROWZBQklTZXhSUFU3TXd1c25DYUxFVWJEUnhJRTlCR09vTFJqQUhITFNuQU41R1Rya2tIWklYVHFOS05JWUdoRHZRY05kc1J4aUFUOHBpaWYzT21KUXlHVzhxUWlLcUZwZW4yM0tuYzFKV0xxSkJLai15b2VDamZNbjI0Uk5jY0Vrd0ZONXl6eERJVk14VkRUM2cxYw?oc=5",
+   "fecha": "2026-11-02 23:30"
   },
   {
    "titulo": "30 años después, U2 vuelve al estadio donde grabó “PopMart Live From Mexico City”, un concierto completo que se convirtió en DVD",
@@ -246,5 +252,5 @@
   }
  ],
  "misterio_propio": [],
- "actualizado": "2026-11-06 05:22"
+ "actualizado": "2026-11-06 07:27"
 }
