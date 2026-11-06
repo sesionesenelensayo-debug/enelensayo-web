@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Frida Sofía niega reconciliación con Alejandra Guzmán",
+    "artista": "Frida Sofía",
+    "intro": "En este video del canal En el Ensayo Media se aborda la negativa de la cantante e influencer mexicana Frida Sofía sobre una presunta reconciliación con su madre, Alejandra Guzmán.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/frida-sofia-niega-reconciliacion-con-alejandra-guzman-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/frida-sofia-niega-reconciliacion-con-alejandra-guzman-1106.jpg",
+    "fecha": "2026-11-06T14:15:37.638583",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
     "artista": "Alejandra Guzmán y Frida Sofía",
     "intro": "Tras años de distanciamiento mediático, la relación entre Alejandra Guzmán y Frida Sofía vuelve al centro de la conversación pública.",
@@ -5208,20 +5223,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Terror",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Romance (1991): 5 datos de Luis Miguel y el bolero",
-    "artista": "Luis Miguel",
-    "intro": "El álbum Romance, lanzado el 19 de noviembre de 1991 bajo WEA Latina, se consolidó como el octavo disco de estudio de Luis Miguel y una apuesta que redefinió el bolero en la radio. Grabado en Ocean Wa",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/romance-1991-5-datos-de-luis-miguel-y-el-bolero-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/romance-1991-5-datos-de-luis-miguel-y-el-bolero-1030.jpg",
-    "fecha": "2026-10-30T05:55:33.775393",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
     "archivo": true
   },
   {
