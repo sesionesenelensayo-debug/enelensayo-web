@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
+    "artista": "Alejandra Guzmán y Frida Sofía",
+    "intro": "Tras años de distanciamiento mediático, la relación entre Alejandra Guzmán y Frida Sofía vuelve al centro de la conversación pública.",
+    "telegraph_url": "https://telegra.ph/Alejandra-Guzmán-confirma-encuentro-con-Frida-Sofía-11-06",
+    "url": "https://enelensayomedia.com/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.jpg",
+    "fecha": "2026-11-06T14:14:21.776635",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-06T11:37:52.319357",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Colas masivas y caída de sistemas por el nuevo Zelda",
     "artista": "Zelda",
     "intro": "El 5 de noviembre de 2026 salió a la venta 'The Legend of Zelda: Ocarina of Time', el remake del clásico de Nintendo 64 de 1998, en exclusiva para Nintendo Switch 2.",
@@ -266,20 +282,6 @@
     "categoria": "Música",
     "fecha_original": "2026-11-03T09:17:47.839306",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
-    "artista": "Alejandra Guzmán y Frida Sofía",
-    "intro": "Tras años de distanciamiento mediático, la relación entre Alejandra Guzmán y Frida Sofía vuelve al centro de la conversación pública.",
-    "telegraph_url": "https://telegra.ph/Alejandra-Guzmán-confirma-encuentro-con-Frida-Sofía-11-06",
-    "url": "https://enelensayomedia.com/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.jpg",
-    "fecha": "2026-11-06T11:37:52.319357",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   },
   {
     "opinion": false,
