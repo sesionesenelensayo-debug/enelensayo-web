@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "G2 Esports alista cambios radicales: SkewMond saldría y llegaría Lyncas",
+    "artista": "G2 Esports y SkewMond (LEC offseason)",
+    "intro": "La eliminación en los Worlds 2026 impulsa una reestructuración total en G2 Esports, con la salida de SkewMond y la llegada de Lyncas para la temporada 2027.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/g2-esports-alista-cambios-radicales-skewmond-saldria-y-llegaria-lyncas-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/g2-esports-alista-cambios-radicales-skewmond-saldria-y-llegaria-lyncas-1106.jpg",
+    "fecha": "2026-11-06T17:12:19.909128",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Las cuentas y datos del cartel del Vive Latino 2027",
     "artista": "Vive Latino",
     "intro": "Se presentan datos detallados sobre los cincuenta y cinco artistas confirmados, ofreciendo una perspectiva numérica que ningún otro medio comparte acerca de esta edición del festival.",
@@ -5658,19 +5672,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "La Isla de las Muñecas: muerte sin explicación",
-    "artista": "",
-    "intro": "La Isla de las Muñecas es una chinampa situada en la Laguna de Teshuilo, dentro del sistema de canales de Xochimilco, al sur de la Ciudad de México. Fue cr",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-isla-de-las-munecas-muerte-sin-explicacion-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-isla-de-las-munecas-muerte-sin-explicacion-1028.jpg",
-    "fecha": "2026-10-28T19:41:38",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Terror y misterio",
-    "archivo": true
   }
 ]
