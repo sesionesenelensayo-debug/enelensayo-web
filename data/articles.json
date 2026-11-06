@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Sanatorio Durán: del refugio de tuberculosis al escenario turístico de leyendas",
+    "artista": "el Hospital Abandonado de Sanatorio Duran",
+    "intro": "Recorrido histórico y logístico del antiguo hospital que hoy atrae a miles de visitantes entre su arquitectura abandonada y misteriosas narrativas.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/sanatorio-duran-del-refugio-de-tuberculosis-al-escenario-turistico-de-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/sanatorio-duran-del-refugio-de-tuberculosis-al-escenario-turistico-de-1106.jpg",
+    "fecha": "2026-11-06T09:48:29.220913",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Historias de terror"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "‘La bola negra’ de Los Javis supera los 35,7 millones de euros en taquilla",
     "artista": "Los Javis",
@@ -10,7 +24,7 @@
     "fecha": "2026-11-06T09:47:34.270691",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Marvel y DCU",
+    "categoria": "Cultura",
     "fecha_original": "2026-10-31T22:15:48.481824",
     "actualizada": true
   },
