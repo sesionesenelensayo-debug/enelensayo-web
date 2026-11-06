@@ -1,6 +1,23 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Leonardo Favio, a 14 años de su muerte, se recuerda en la cultura argentina",
+    "artista": "Leonardo Favio",
+    "intro": "El 5 de noviembre de 2026 se cumplen catorce años del fallecimiento de Leonardo Favio, el icónico cantante…",
+    "telegraph_url": "https://telegra.ph/Leonardo-Favio-a-14-años-de-su-muerte-se-recuerda-en-la-cultura-argentina-11-05",
+    "url": "https://enelensayomedia.com/notas/leonardo-favio-a-14-anos-de-su-muerte-se-recuerda-en-la-cultura-argent-1105.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/leonardo-favio-a-14-anos-de-su-muerte-se-recuerda-en-la-cultura-argent-1105.jpg",
+    "fecha": "2026-11-05T18:13:21.390769",
+    "author": "Oliver Ken",
+    "views": 0,
+    "nota_dia": true,
+    "categoria": "Reportaje",
+    "fecha_original": "2026-11-05T12:02:49.908111",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Grand Theft Auto 6 tendrá descarga del 12 al 19 de noviembre en PS5 y Xbox",
     "artista": "Grand Theft Auto 6",
@@ -182,21 +199,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Leonardo Favio, a 14 años de su muerte, se recuerda en la cultura argentina",
-    "artista": "Leonardo Favio",
-    "intro": "El 5 de noviembre de 2026 se cumplen catorce años del fallecimiento de Leonardo Favio, el icónico cantante…",
-    "telegraph_url": "https://telegra.ph/Leonardo-Favio-a-14-años-de-su-muerte-se-recuerda-en-la-cultura-argentina-11-05",
-    "url": "https://enelensayomedia.com/notas/leonardo-favio-a-14-anos-de-su-muerte-se-recuerda-en-la-cultura-argent-1105.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/leonardo-favio-a-14-anos-de-su-muerte-se-recuerda-en-la-cultura-argent-1105.jpg",
-    "fecha": "2026-11-05T12:02:49.908111",
-    "author": "Oliver Ken",
-    "views": 0,
-    "nota_dia": true,
-    "categoria": "Reportaje"
   },
   {
     "tipo": "reportaje",
