@@ -1,6 +1,22 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Kygo en México 2027: fechas, sedes y boletos",
+    "artista": "Kygo",
+    "intro": "El productor noruego Kygo regresará a México en 2027 con dos conciertos que incluirán música electrónica y un cartel con invitados especiales.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/kygo-en-mexico-2027-fechas-sedes-y-boletos-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/kygo-en-mexico-2027-fechas-sedes-y-boletos-1103.jpg",
+    "fecha": "2026-11-06T10:05:16.621615",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos",
+    "fecha_original": "2026-11-03T13:34:06.725879",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Sanatorio Durán: del refugio de tuberculosis al escenario turístico de leyendas",
     "artista": "el Hospital Abandonado de Sanatorio Duran",
@@ -1807,20 +1823,6 @@
     "categoria": "Luchas",
     "fecha_original": "2026-11-01T20:44:33.446789",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Kygo en México 2027: fechas, sedes y boletos",
-    "artista": "Kygo",
-    "intro": "El productor noruego Kygo regresará a México en 2027 con dos conciertos que incluirán música electrónica y un cartel con invitados especiales.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/kygo-en-mexico-2027-fechas-sedes-y-boletos-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/kygo-en-mexico-2027-fechas-sedes-y-boletos-1103.jpg",
-    "fecha": "2026-11-03T13:34:06.725879",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
   },
   {
     "opinion": false,
