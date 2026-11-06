@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Daisy Edgar-Jones protagoniza Sense and Sensibility",
+    "artista": "Daisy Edgar-Jones",
+    "intro": "La película «Sense and Sensibility», protagonizada por Daisy Edgar-Jones como Elinor Dashwood, se encuentra conquistando a los amantes del cine en su estreno reciente.",
+    "telegraph_url": "https://telegra.ph/Daisy-Edgar-Jones-protagoniza-Sense-and-Sensibility-11-06",
+    "url": "https://enelensayomedia.com/notas/daisy-edgar-jones-protagoniza-sense-and-sensibility-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/daisy-edgar-jones-protagoniza-sense-and-sensibility-1106.jpg",
+    "fecha": "2026-11-06T14:58:47.920921",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Las 10 mayores pérdidas de taquilla entre 2025 y 2026",
     "artista": "las 10 películas que más dinero perdieron (mayores fracasos de taquilla recientes)",
@@ -4526,19 +4540,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Mórbido Film Fest regresa a CDMX priorizando calidad sobre cantidad",
-    "artista": "Mórbido Film Fest",
-    "intro": "El Festival Internacional de Cine Fantástico y de Terror Mórbido vuelve a la Ciudad de México con la estrategia de ofrecer una selección más cuidada de propuestas, según informó Milenio. La decisión d",
-    "telegraph_url": "https://telegra.ph/Mórbido-Film-Fest-regresa-a-CDMX-priorizando-calidad-sobre-cantidad-10-31",
-    "url": "https://enelensayomedia.com/notas/morbido-film-fest-regresa-a-cdmx-priorizando-calidad-sobre-cantidad-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/morbido-film-fest-regresa-a-cdmx-priorizando-calidad-sobre-cantidad-1031.jpg",
-    "fecha": "2026-10-31T09:38:00.596970",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   },
   {
     "tipo": "reportaje",
