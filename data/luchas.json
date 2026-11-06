@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-05 17:28",
+ "actualizado": "2026-11-05 23:51",
  "campeones": {
   "WWE": [
    {
@@ -381,7 +381,7 @@
    "promocion": "CMLL",
    "fecha": "2026-11-05",
    "lugar": "ARENA COLISEO",
-   "ciudad": "Ciudad de México",
+   "ciudad": "CDMX",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://cmll.com/cartelera/",
@@ -390,51 +390,17 @@
    "credito_url": "https://cmll.com/cartelera/"
   },
   {
-   "nombre": "Road to Survivor Series: WarGames",
-   "promocion": "WWE",
-   "fecha": "2026-11-05",
-   "lugar": "Cross Insurance Arena",
-   "ciudad": "Portland, ME",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.wwe.com/events"
-  },
-  {
-   "nombre": "SmackDown",
-   "promocion": "WWE",
-   "fecha": "2026-11-05",
-   "lugar": "capital del país",
-   "ciudad": "Ciudad de México",
-   "precio": "desde $12,920",
-   "campeonatos": [],
-   "fuente": "https://www.milenio.com/deportes/lucha-libre/boletos-de-wwe-raw-arena-cdmx-precio-donde-comprar",
-   "precio_fuente": "https://www.milenio.com/deportes/lucha-libre/boletos-de-wwe-smackdown-arena-cdmx-precio-donde-comprar",
-   "img": "img/luchas/o-wwe-smackdown.jpg",
-   "credito": "Imagen: WWE · milenio.com (sitio oficial)",
-   "credito_url": "https://www.milenio.com/deportes/lucha-libre/boletos-de-wwe-raw-arena-cdmx-precio-donde-comprar"
-  },
-  {
    "nombre": "VIERNES ESPECTACULAR",
    "promocion": "CMLL",
    "fecha": "2026-11-06",
    "lugar": "ARENA MÉXICO",
-   "ciudad": "Ciudad de México",
+   "ciudad": "CDMX",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://cmll.com/cartelera/",
    "img": "img/luchas/o-cmll-viernes-espectacular.jpg",
    "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
    "credito_url": "https://cmll.com/cartelera/"
-  },
-  {
-   "nombre": "Road to Survivor Series: WarGames",
-   "promocion": "WWE",
-   "fecha": "2026-11-06",
-   "lugar": "Cross Insurance Center",
-   "ciudad": "Bangor, ME",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.wwe.com/events"
   },
   {
    "nombre": "Yuri",
@@ -454,27 +420,13 @@
    "promocion": "CMLL",
    "fecha": "2026-11-07",
    "lugar": "ARENA COLISEO",
-   "ciudad": "Ciudad de México",
+   "ciudad": "CDMX",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://cmll.com/cartelera/",
    "img": "img/luchas/o-cmll-sabado-de-arena-coliseo.jpg",
    "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
    "credito_url": "https://cmll.com/cartelera/"
-  },
-  {
-   "nombre": "Crown Jewel",
-   "promocion": "WWE",
-   "fecha": "2026-11-07",
-   "lugar": "The Venue",
-   "ciudad": "Riyadh, Saudi Arabia",
-   "precio": "desde $268",
-   "campeonatos": [],
-   "fuente": "https://www.wwe.com/events",
-   "precio_fuente": "https://gerweck.net/2026/10/30/crown-jewel-2026-tickets-at-the-venue-now-on-sale/",
-   "img": "img/luchas/o-wwe-crown-jewel.jpg",
-   "credito": "Imagen: WWE · khelnow.com (sitio oficial)",
-   "credito_url": "https://khelnow.com/wwe/all-wwe-ples-date-venue-202601"
   },
   {
    "nombre": "Crown Jewel 2026",
@@ -488,19 +440,6 @@
    "img": "img/luchas/o-wwe-crown-jewel-2026.jpg",
    "credito": "Imagen: WWE · wrestleseek.com (sitio oficial)",
    "credito_url": "https://wrestleseek.com/upcoming-ples/"
-  },
-  {
-   "nombre": "AEW Collision: Chris Jericho's Rock N' Wrestling Rager",
-   "promocion": "AEW",
-   "fecha": "2026-11-07",
-   "lugar": "Norwegian Jewel",
-   "ciudad": "Miami, FL",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.allelitewrestling.com/aew-events?lang=es",
-   "img": "img/luchas/o-aew-aew-collision-chris-jericho-s-rock-n-wrestling.jpg",
-   "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
-   "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
   },
   {
    "nombre": "Los Tucanes de Tijuana",
@@ -517,11 +456,24 @@
    "credito_url": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026"
   },
   {
+   "nombre": "AEW Collision: Chris Jericho's Rock N' Wrestling Rager",
+   "promocion": "AEW",
+   "fecha": "2026-11-07",
+   "lugar": "Norwegian Jewel",
+   "ciudad": "Miami, FL",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.allelitewrestling.com/aew-events?lang=es",
+   "img": "img/luchas/o-aew-aew-collision-chris-jericho-s-rock-n-wrestling.jpg",
+   "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
+   "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
+  },
+  {
    "nombre": "DOMINGO FAMILIAR",
    "promocion": "CMLL",
    "fecha": "2026-11-08",
    "lugar": "ARENA MÉXICO",
-   "ciudad": "Ciudad de México",
+   "ciudad": "CDMX",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://cmll.com/cartelera/",
@@ -535,9 +487,10 @@
    "fecha": "2026-11-08",
    "lugar": "Arena Monterrey",
    "ciudad": "Monterrey",
-   "precio": "",
+   "precio": "desde $565",
    "campeonatos": [],
    "fuente": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026",
+   "precio_fuente": "https://conciertosenmonterrey.com/cartelera/fede-vigevani-arena-monterrey-2026",
    "img": "img/luchas/o-otras-el-mundo-de-fede-vigevani.jpg",
    "credito": "Imagen: Otras · conciertosenmonterrey.com (sitio oficial)",
    "credito_url": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026"
@@ -556,21 +509,11 @@
    "credito_url": "https://cmll.com/cartelera/"
   },
   {
-   "nombre": "Monday Night RAW",
-   "promocion": "WWE",
-   "fecha": "2026-11-09",
-   "lugar": "Bon Secours Wellness Arena",
-   "ciudad": "Greenville, SC",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.wwe.com/events"
-  },
-  {
    "nombre": "Martes Populares de Lucha Libre CMLL",
    "promocion": "CMLL",
    "fecha": "2026-11-10",
    "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
+   "ciudad": "CDMX",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
@@ -605,21 +548,11 @@
    "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
   },
   {
-   "nombre": "Road to Survivor Series: WarGames",
-   "promocion": "WWE",
-   "fecha": "2026-11-12",
-   "lugar": "Hertz Arena",
-   "ciudad": "Fort Myers, FL",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.wwe.com/events"
-  },
-  {
    "nombre": "Lucha Libre CMLL",
    "promocion": "CMLL",
    "fecha": "2026-11-12",
    "lugar": "Arena Coliseo",
-   "ciudad": "Ciudad de México",
+   "ciudad": "CDMX",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
@@ -628,31 +561,11 @@
    "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
   },
   {
-   "nombre": "Friday Night SmackDown",
-   "promocion": "WWE",
-   "fecha": "2026-11-13",
-   "lugar": "Amerant Bank Arena",
-   "ciudad": "Fort Lauderdale, FL",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.wwe.com/events"
-  },
-  {
-   "nombre": "NXT Holiday Live Tour",
-   "promocion": "WWE",
-   "fecha": "2026-11-13",
-   "lugar": "Agora Theatre",
-   "ciudad": "Cleveland, OH",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.wwe.com/events"
-  },
-  {
    "nombre": "Viernes Espectacular de Lucha Libre CMLL",
    "promocion": "CMLL",
    "fecha": "2026-11-13",
    "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
+   "ciudad": "CDMX",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
@@ -661,34 +574,11 @@
    "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
   },
   {
-   "nombre": "AAA Lucha Libre Worldwide",
-   "promocion": "AAA",
-   "fecha": "2026-11-14",
-   "lugar": "Gimnasio Olimpico",
-   "ciudad": "Mexico City, Mexico, CMX",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.wwe.com/events",
-   "img": "img/luchas/o-promo-aaa.jpg",
-   "credito": "Imagen: AAA · luchalibreaaa.com (sitio oficial)",
-   "credito_url": "https://luchalibreaaa.com/"
-  },
-  {
-   "nombre": "NXT Holiday Live Tour",
-   "promocion": "WWE",
-   "fecha": "2026-11-14",
-   "lugar": "Fox Theater",
-   "ciudad": "Detroit, MI",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.wwe.com/events"
-  },
-  {
    "nombre": "Sábados de lucha libre CMLL",
    "promocion": "CMLL",
    "fecha": "2026-11-14",
    "lugar": "Arena Coliseo",
-   "ciudad": "Ciudad de México",
+   "ciudad": "CDMX",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
@@ -710,21 +600,11 @@
    "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
   },
   {
-   "nombre": "NXT Holiday Live Tour",
-   "promocion": "WWE",
-   "fecha": "2026-11-15",
-   "lugar": "Byline Bank Aragon Ballroom",
-   "ciudad": "Chicago, IL",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.wwe.com/events"
-  },
-  {
    "nombre": "Domingo Familiar de Lucha Libre CMLL",
    "promocion": "CMLL",
    "fecha": "2026-11-15",
    "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
+   "ciudad": "CDMX",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
@@ -737,23 +617,13 @@
    "promocion": "CMLL",
    "fecha": "2026-11-16",
    "lugar": "ARENA MÉXICO",
-   "ciudad": "Ciudad de México",
+   "ciudad": "CDMX",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://cmll.com/cartelera/",
    "img": "img/luchas/o-cmll-funcion-especial-lucha-kingdom.jpg",
    "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
    "credito_url": "https://cmll.com/cartelera/"
-  },
-  {
-   "nombre": "Monday Night RAW",
-   "promocion": "WWE",
-   "fecha": "2026-11-16",
-   "lugar": "Lenovo Center",
-   "ciudad": "Raleigh, NC",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.wwe.com/events"
   },
   {
    "nombre": "Lucha Libre CMLL",
@@ -773,7 +643,7 @@
    "promocion": "CMLL",
    "fecha": "2026-11-17",
    "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
+   "ciudad": "CDMX",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
@@ -799,7 +669,7 @@
    "promocion": "CMLL",
    "fecha": "2026-11-18",
    "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
+   "ciudad": "CDMX",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
@@ -821,21 +691,11 @@
    "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
   },
   {
-   "nombre": "Road to Survivor Series: WarGames",
-   "promocion": "WWE",
-   "fecha": "2026-11-19",
-   "lugar": "Von Braun Civic Center",
-   "ciudad": "Huntsville, AL",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.wwe.com/events"
-  },
-  {
    "nombre": "Lucha Libre CMLL",
    "promocion": "CMLL",
    "fecha": "2026-11-19",
    "lugar": "Arena Coliseo",
-   "ciudad": "Ciudad de México",
+   "ciudad": "CDMX",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
@@ -844,31 +704,11 @@
    "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
   },
   {
-   "nombre": "Friday Night SmackDown",
-   "promocion": "WWE",
-   "fecha": "2026-11-20",
-   "lugar": "Ford Center Evansville",
-   "ciudad": "Evansville, IN",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.wwe.com/events"
-  },
-  {
-   "nombre": "Road to Survivor Series: WarGames",
-   "promocion": "WWE",
-   "fecha": "2026-11-20",
-   "lugar": "Ole Miss (SJB Pavilion)",
-   "ciudad": "Oxford, MS",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.wwe.com/events"
-  },
-  {
    "nombre": "Viernes Espectacular de Lucha Libre CMLL",
    "promocion": "CMLL",
    "fecha": "2026-11-20",
    "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
+   "ciudad": "CDMX",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
@@ -881,7 +721,7 @@
    "promocion": "CMLL",
    "fecha": "2026-11-21",
    "lugar": "Arena Coliseo",
-   "ciudad": "Ciudad de México",
+   "ciudad": "CDMX",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
@@ -907,23 +747,13 @@
    "promocion": "CMLL",
    "fecha": "2026-11-22",
    "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
+   "ciudad": "CDMX",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
    "img": "img/luchas/o-cmll-domingo-familiar-de-lucha-libre-cmll.jpg",
    "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
    "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
-  },
-  {
-   "nombre": "Two Shows, One Night: RAW & SmackDown",
-   "promocion": "WWE",
-   "fecha": "2026-11-23",
-   "lugar": "Intrust Bank Arena",
-   "ciudad": "Wichita, KS",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.wwe.com/events"
   },
   {
    "nombre": "AEW Dynamite/Collision: Omaha",
@@ -939,63 +769,17 @@
    "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
   },
   {
-   "nombre": "Road to Survivor Series: WarGames",
-   "promocion": "WWE",
-   "fecha": "2026-11-27",
-   "lugar": "Akins Ford Arena",
-   "ciudad": "Athens, GA",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.wwe.com/events"
-  },
-  {
-   "nombre": "AAA Live Tour",
-   "promocion": "AAA",
-   "fecha": "2026-11-27",
-   "lugar": "713 Music Hall",
-   "ciudad": "Houston, TX",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.wwe.com/events",
-   "img": "img/luchas/o-promo-aaa.jpg",
-   "credito": "Imagen: AAA · luchalibreaaa.com (sitio oficial)",
-   "credito_url": "https://luchalibreaaa.com/"
-  },
-  {
-   "nombre": "Survivor Series: WarGames",
+   "nombre": "Survivor Series: WarGames 2026",
    "promocion": "WWE",
    "fecha": "2026-11-28",
    "lugar": "Daikin Park",
    "ciudad": "Houston, TX",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.wwe.com/events",
-   "img": "img/luchas/o-wwe-survivor-series-wargames.jpg",
-   "credito": "Imagen: WWE · sportsbrackets.net (sitio oficial)",
-   "credito_url": "https://sportsbrackets.net/2026/07/29/2026-wwe-ppv-schedule/"
-  },
-  {
-   "nombre": "AAA Live Tour",
-   "promocion": "AAA",
-   "fecha": "2026-11-29",
-   "lugar": "Ector County Coliseum",
-   "ciudad": "Odessa, TX",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.wwe.com/events",
-   "img": "img/luchas/o-promo-aaa.jpg",
-   "credito": "Imagen: AAA · luchalibreaaa.com (sitio oficial)",
-   "credito_url": "https://luchalibreaaa.com/"
-  },
-  {
-   "nombre": "Monday Night RAW",
-   "promocion": "WWE",
-   "fecha": "2026-11-30",
-   "lugar": "Simmons Bank Arena",
-   "ciudad": "North Little Rock, AR",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.wwe.com/events"
+   "fuente": "https://wrestleseek.com/upcoming-ples/",
+   "img": "img/luchas/o-wwe-survivor-series-wargames-2026.jpg",
+   "credito": "Imagen: WWE · wrestleseek.com (sitio oficial)",
+   "credito_url": "https://wrestleseek.com/upcoming-ples/"
   },
   {
    "nombre": "Últimas noches de 2026",
@@ -1024,36 +808,6 @@
    "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
   },
   {
-   "nombre": "Holiday Live Tour",
-   "promocion": "WWE",
-   "fecha": "2026-12-03",
-   "lugar": "BMO Center",
-   "ciudad": "Rockford, IL",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.wwe.com/events"
-  },
-  {
-   "nombre": "Friday Night SmackDown",
-   "promocion": "WWE",
-   "fecha": "2026-12-04",
-   "lugar": "Van Andel Arena",
-   "ciudad": "Grand Rapids, MI",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.wwe.com/events"
-  },
-  {
-   "nombre": "NXT Holiday Live Tour",
-   "promocion": "WWE",
-   "fecha": "2026-12-04",
-   "lugar": "Frontwave Arena",
-   "ciudad": "Oceanside, CA",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.wwe.com/events"
-  },
-  {
    "nombre": "ROH: Final Battle",
    "promocion": "ROH",
    "fecha": "2026-12-04",
@@ -1067,37 +821,170 @@
    "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
   },
   {
-   "nombre": "AAA Lucha Libre Worldwide",
-   "promocion": "AAA",
+   "nombre": "AEW Collision: San Antonio",
+   "promocion": "AEW",
    "fecha": "2026-12-05",
-   "lugar": "Auditorio GNP",
-   "ciudad": "Puebla, PUE",
+   "lugar": "Boeing Center at Tech Port",
+   "ciudad": "San Antonio, TX",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.wwe.com/events",
-   "img": "img/luchas/o-promo-aaa.jpg",
-   "credito": "Imagen: AAA · luchalibreaaa.com (sitio oficial)",
-   "credito_url": "https://luchalibreaaa.com/"
+   "fuente": "https://www.allelitewrestling.com/aew-events?lang=es",
+   "img": "img/luchas/o-aew-aew-collision-san-antonio.jpg",
+   "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
+   "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
   },
   {
-   "nombre": "NXT Holiday Live Tour",
-   "promocion": "WWE",
-   "fecha": "2026-12-05",
-   "lugar": "Riverside Municipal Auditorium",
-   "ciudad": "Riverside, CA",
+   "nombre": "Últimas noches de 2026",
+   "promocion": "CMLL",
+   "fecha": "2026-12-06",
+   "lugar": "Arena México",
+   "ciudad": "Ciudad de México",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.wwe.com/events"
+   "fuente": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/",
+   "img": "img/luchas/o-cmll-ultimas-noches-de-2026.jpg",
+   "credito": "Imagen: CMLL · luchamexicoexperience.com (sitio oficial)",
+   "credito_url": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/"
   },
   {
-   "nombre": "Holiday Live Tour",
+   "nombre": "AEW Dynamite & Collision",
+   "promocion": "AEW",
+   "fecha": "2026-12-09",
+   "lugar": "Arena Monterrey",
+   "ciudad": "Monterrey",
+   "precio": "Desde $502 pesos",
+   "campeonatos": [],
+   "fuente": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026",
+   "img": "img/luchas/o-aew-aew-dynamite-collision.jpg",
+   "credito": "Imagen: AEW · conciertosenmonterrey.com (sitio oficial)",
+   "credito_url": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026"
+  },
+  {
+   "nombre": "Wrestlepalooza: Perth",
    "promocion": "WWE",
-   "fecha": "2026-12-05",
-   "lugar": "KFC Yum! Center",
-   "ciudad": "Louisville, KY",
+   "fecha": "2026-12-12",
+   "lugar": "RAC Arena",
+   "ciudad": "Perth, Australia",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.wwe.com/events"
+   "fuente": "https://wrestleseek.com/upcoming-ples/"
+  },
+  {
+   "nombre": "AEW Dynamite/Collision: Oklahoma City",
+   "promocion": "AEW",
+   "fecha": "2026-12-16",
+   "lugar": "OG&E Coliseum",
+   "ciudad": "Oklahoma City, OK",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.allelitewrestling.com/aew-events?lang=es",
+   "img": "img/luchas/o-aew-aew-dynamite-collision-oklahoma-city.jpg",
+   "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
+   "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
+  },
+  {
+   "nombre": "AEW: Worlds End",
+   "promocion": "AEW",
+   "fecha": "2026-12-19",
+   "lugar": "Target Center",
+   "ciudad": "Minneapolis, MN",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.allelitewrestling.com/aew-events?lang=es",
+   "img": "img/luchas/o-aew-aew-worlds-end.jpg",
+   "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
+   "credito_url": "https://www.allelitewrestling.com/aew-event/aew-worlds-end-2026"
+  },
+  {
+   "nombre": "AEW Dynamite/Collision: Holiday Bash",
+   "promocion": "AEW",
+   "fecha": "2026-12-23",
+   "lugar": "Wintrust Arena",
+   "ciudad": "Chicago, IL",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.allelitewrestling.com/aew-events?lang=es",
+   "img": "img/luchas/o-aew-aew-dynamite-collision-holiday-bash.jpg",
+   "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
+   "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
+  },
+  {
+   "nombre": "AEW Dynamite: New Year's Smash",
+   "promocion": "AEW",
+   "fecha": "2027-01-01",
+   "lugar": "Gateway Arena",
+   "ciudad": "Atlanta, GA",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.allelitewrestling.com/aew-events?lang=es",
+   "img": "img/luchas/o-aew-aew-dynamite-new-year-s-smash.jpg",
+   "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
+   "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
+  },
+  {
+   "nombre": "AEW Collision: New Year's Smash",
+   "promocion": "AEW",
+   "fecha": "2027-01-02",
+   "lugar": "Gateway Arena",
+   "ciudad": "Atlanta, GA",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.allelitewrestling.com/aew-events?lang=es",
+   "img": "img/luchas/o-aew-aew-collision-new-year-s-smash.jpg",
+   "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
+   "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
+  },
+  {
+   "nombre": "WRESTLE KINGDOM 21 in TOKYO DOME",
+   "promocion": "NJPW",
+   "fecha": "2027-01-04",
+   "lugar": "TOKYO DOME",
+   "ciudad": "Tokyo",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://wrestlekingdom.njpw.co.jp/en/",
+   "img": "img/luchas/o-njpw-wrestle-kingdom-21-in-tokyo-dome.jpg",
+   "credito": "Imagen: NJPW · wrestlekingdom.njpw.co.jp (sitio oficial)",
+   "credito_url": "https://wrestlekingdom.njpw.co.jp/en/"
+  },
+  {
+   "nombre": "AEW: Dynasty",
+   "promocion": "AEW",
+   "fecha": "2027-02-07",
+   "lugar": "M&S Bank Arena",
+   "ciudad": "Liverpool, UK",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.allelitewrestling.com/aew-events?lang=es",
+   "img": "img/luchas/o-aew-aew-dynasty.jpg",
+   "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
+   "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
+  },
+  {
+   "nombre": "AEW Dynamite/Collision: London",
+   "promocion": "AEW",
+   "fecha": "2027-02-10",
+   "lugar": "The O2",
+   "ciudad": "London, UK",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.allelitewrestling.com/aew-events?lang=es",
+   "img": "img/luchas/o-aew-aew-dynamite-collision-london.jpg",
+   "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
+   "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
+  },
+  {
+   "nombre": "Hot Wheels Monster Trucks Live",
+   "promocion": "Otras",
+   "fecha": "2027-07-03",
+   "lugar": "Arena Monterrey",
+   "ciudad": "Monterrey",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026",
+   "img": "img/luchas/o-otras-hot-wheels-monster-trucks-live.jpg",
+   "credito": "Imagen: Otras · conciertosenmonterrey.com (sitio oficial)",
+   "credito_url": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026"
   }
  ],
  "fuentes": "Campeones: Wikipedia. Funciones: páginas oficiales y de boletos citadas en cada tarjeta. Fotos: Wikimedia Commons (licencias libres) y sitios oficiales, con crédito en cada imagen."
