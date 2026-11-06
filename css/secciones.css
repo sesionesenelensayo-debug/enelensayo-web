@@ -247,3 +247,4 @@ img,iframe{max-width:100%}
   .nav-mobile a{margin:0!important;padding:.8rem .85rem!important;font-size:.95rem;border-radius:12px}
   body:has(.nav-mobile.open) #eem-robot{display:none!important}
 }
+.conc-lista{max-height:1100px;overflow-y:auto;scrollbar-width:thin}

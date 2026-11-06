@@ -142,25 +142,18 @@
   function cargaSp() { get('data/spotify.json').then(function (d) { SP = d; pintaSp(); }).catch(function () { }); }
   cargaSp(); setInterval(cargaSp, 600000);
 
-  // ── Conciertos ──
+  // ── Notas recientes (antes «Próximos conciertos») [.leon 2026-11-05]: lista cronológica de TODAS las notas para encontrar la que enlaza Instagram ──
   function cargaConc() {
-    Promise.all([get('data/conciertos.json'), get('data/articles.json').catch(function () { return []; })]).then(function (r) {
-      var c = r[0], propias = (r[1] || []).filter(function (a) { return a.categoria === 'Conciertos'; }).sort(function (a, b) { return new Date(b.fecha) - new Date(a.fecha); });
+    get('data/articles.json').then(function (arts) {
       var l = $('concLista'); if (!l) return;
-      var h = '';
-      if (propias.length) {
-        h = propias.slice(0, 10).map(function (a) { return '<li><a href="' + esc(a.url) + '">' + esc(a.titulo) + '</a><small>En el Ensayo · ' + fc(a.fecha) + '</small></li>'; }).join('');
-      } else if (c.eventos && c.eventos.length) {
-        h = c.eventos.slice(0, 10).map(function (e) {
-          var d = new Date(e.fecha + 'T12:00:00');
-          return '<li><a href="' + esc(e.url) + '" target="_blank" rel="noopener nofollow"><span class="f">' + d.getDate() + ' ' + d.toLocaleDateString('es-MX', { month: 'short' }) + '</span>' + esc(e.nombre) + '</a><small>' + esc(e.recinto) + ' · ' + esc(e.ciudad) + '</small></li>';
-        }).join('');
-      } else {
-        h = (c.noticias || []).slice(0, 10).map(function (n) {
-          return '<li><a href="' + esc(n.url) + '" target="_blank" rel="noopener nofollow">' + esc(n.titulo) + '</a><small>' + esc(n.fuente) + ' · ' + fc(n.fecha) + '</small></li>';
-        }).join('');
-      }
-      l.innerHTML = h || '<li class="sx-vacio">Sin conciertos por ahora.</li>';
+      arts = (arts || []).filter(function (a) { return !a.archivo; });
+      arts.forEach(function (a) { if (a.actualizada && a.fecha_original) a.fecha = a.fecha_original; });
+      arts.sort(function (a, b) { return new Date(b.fecha) - new Date(a.fecha); });
+      var h = arts.slice(0, 40).map(function (a) {
+        var d = new Date(a.fecha), hh = ('0' + d.getHours()).slice(-2) + ':' + ('0' + d.getMinutes()).slice(-2);
+        return '<li><a href="' + esc(href(a)) + '"><span class="sx-tag" style="margin-right:6px">' + esc(cat(a)) + '</span>' + esc(a.titulo) + '</a><small>' + fc(a.fecha) + ' · ' + hh + '</small></li>';
+      }).join('');
+      l.innerHTML = h || '<li class="sx-vacio">Sin notas por ahora.</li>';
     }).catch(function () { });
   }
   cargaConc(); setInterval(cargaConc, 600000);
