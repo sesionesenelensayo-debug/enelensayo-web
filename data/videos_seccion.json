@@ -1,4 +1,27 @@
 {
+ "Chisme": {
+  "shorts": [
+   {
+    "id": "6wivIUQ6Sv8",
+    "titulo": "Frida Sofía niega reconciliación con Alejandra Guzmán",
+    "fecha": "2026-11-06",
+    "nota": "https://enelensayomedia.com/notas/frida-sofia-niega-reconciliacion-con-alejandra-guzman-1106.html"
+   },
+   {
+    "id": "fVwyGebmjOc",
+    "titulo": "Thomas Markle bajo investigación por presunto material de abuso infantil",
+    "fecha": "2026-11-04",
+    "nota": "https://enelensayomedia.com/notas/thomas-markle-bajo-investigacion-por-presunto-material-de-abuso-infant-1104.html"
+   },
+   {
+    "id": "RC99UEiGxg0",
+    "titulo": "Chisme de pasillo: Ernesto Chavana y el dron que golpeó a Isabella Rojas",
+    "fecha": "2026-10-30",
+    "nota": "https://enelensayomedia.com/notas/chisme-de-pasillo-ernesto-chavana-y-el-dron-que-golpeo-a-isabella-roja-1028.html"
+   }
+  ],
+  "longs": []
+ },
  "Música": {
   "shorts": [
    {
@@ -404,29 +427,6 @@
    }
   ]
  },
- "Chisme": {
-  "shorts": [
-   {
-    "id": "fVwyGebmjOc",
-    "titulo": "Thomas Markle bajo investigación por presunto material de abuso infantil",
-    "fecha": "2026-11-04",
-    "nota": "https://enelensayomedia.com/notas/thomas-markle-bajo-investigacion-por-presunto-material-de-abuso-infant-1104.html"
-   },
-   {
-    "id": "RC99UEiGxg0",
-    "titulo": "Chisme de pasillo: Ernesto Chavana y el dron que golpeó a Isabella Rojas",
-    "fecha": "2026-10-30",
-    "nota": "https://enelensayomedia.com/notas/chisme-de-pasillo-ernesto-chavana-y-el-dron-que-golpeo-a-isabella-roja-1028.html"
-   },
-   {
-    "id": "08zV8YdheaM",
-    "titulo": "Romance (1991): 5 datos de Luis Miguel y el bolero",
-    "fecha": "2026-10-30",
-    "nota": "https://enelensayomedia.com/notas/romance-1991-5-datos-de-luis-miguel-y-el-bolero-1030.html"
-   }
-  ],
-  "longs": []
- },
  "Misterio": {
   "shorts": [
    {
@@ -615,12 +615,6 @@
     "titulo": "Manuel Boix: el artista que falleció el 23 de septiembre de",
     "fecha": "2026-10-29",
     "nota": "https://enelensayomedia.com/notas/manuel-boix-el-artista-que-fallecio-el-23-de-septiembre-de-1029.html"
-   },
-   {
-    "id": "N0CObLyA__I",
-    "titulo": "Jim Morrison: el día que murió sin autopsia en París",
-    "fecha": "2026-10-28",
-    "nota": "https://enelensayomedia.com/notas/jim-morrison-el-dia-que-murio-sin-autopsia-en-paris-1028.html"
    }
   ],
   "longs": []
