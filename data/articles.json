@@ -1,6 +1,36 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Prime Video anuncia su calendario completo de estrenos para noviembre 2026",
+    "artista": "Prime Video",
+    "intro": "Prime Video ha publicado la lista de todos los títulos que llegará a la plataforma en noviembre de 2026, incluyendo series originales, documentales, películas y eventos deportivos.",
+    "telegraph_url": "https://telegra.ph/Prime-Video-anuncia-su-calendario-completo-de-estrenos-para-noviembre-2026-11-05",
+    "url": "https://enelensayomedia.com/notas/prime-video-anuncia-su-calendario-completo-de-estrenos-para-noviembre-1105.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/prime-video-anuncia-su-calendario-completo-de-estrenos-para-noviembre-1105.jpg",
+    "fecha": "2026-11-06T11:07:31.441784",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Televisión",
+    "fecha_original": "2026-11-05T11:15:41.670311",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Leon Bridges llega a la CDMX el 24 de marzo de 2027 para presentar su nueva gira",
+    "artista": "Leon Bridges",
+    "intro": "El artista estadounidense ofrecerá un concierto en solitario en el Teatro Metropólitan como parte de su gira internacional.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/leon-bridges-llega-a-la-cdmx-el-24-de-marzo-de-2027-para-presentar-su-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/leon-bridges-llega-a-la-cdmx-el-24-de-marzo-de-2027-para-presentar-su-1106.jpg",
+    "fecha": "2026-11-06T11:06:43.287865",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Nicky Jam estrena “Tesoriiito” y anuncia concierto en Cali para el 21 de noviembre",
     "artista": "Nicky Jam",
@@ -637,20 +667,6 @@
     "categoria": "Marvel y DCU",
     "fecha_original": "2026-10-31T09:47:34.163501",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Prime Video anuncia su calendario completo de estrenos para noviembre 2026",
-    "artista": "Prime Video",
-    "intro": "Prime Video ha publicado la lista de todos los títulos que llegará a la plataforma en noviembre de 2026, incluyendo series originales, documentales, películas y eventos deportivos.",
-    "telegraph_url": "https://telegra.ph/Prime-Video-anuncia-su-calendario-completo-de-estrenos-para-noviembre-2026-11-05",
-    "url": "https://enelensayomedia.com/notas/prime-video-anuncia-su-calendario-completo-de-estrenos-para-noviembre-1105.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/prime-video-anuncia-su-calendario-completo-de-estrenos-para-noviembre-1105.jpg",
-    "fecha": "2026-11-05T11:15:41.670311",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Televisión"
   },
   {
     "tipo": "reportaje",
