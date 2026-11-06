@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Majo Aguilar recibe la Estrella Maya en Lynwood, California",
+    "artista": "Majo Aguilar",
+    "intro": "Majo Aguilar fue honrada con la “Estrella Maya” en la nueva etapa del Paseo de las Estrellas de Plaza México, en Lynwood, California, el 30 de octubre.",
+    "telegraph_url": "https://telegra.ph/Majo-Aguilar-recibe-la-Estrella-Maya-en-Lynwood-California-11-06",
+    "url": "https://enelensayomedia.com/notas/majo-aguilar-recibe-la-estrella-maya-en-lynwood-california-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/majo-aguilar-recibe-la-estrella-maya-en-lynwood-california-1106.jpg",
+    "fecha": "2026-11-06T08:16:07.253180",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Tiresias III en Sesiones En el Ensayo: la sesión en vivo, en sus palabras",
     "artista": "Tiresias III",
