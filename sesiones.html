@@ -105,6 +105,7 @@
         <p class="section-desc">Episodios, clips y shorts del canal principal de En el Ensayo: entrevistas y conversaciones con la escena.</p>
       </div>
       <div class="pod-barra"><input id="podBuscar" type="search" placeholder="Buscar sesión o artista…" aria-label="Buscar en las sesiones"><span id="podCuenta"></span></div>
+      <div id="sesNotas" class="sx-grid sx-notas" style="margin:0 0 24px" hidden></div>
       <div class="pod-visor" id="podVisor" hidden></div>
       <div class="pod-grid" id="podGrid" data-lista="sesiones" ><p class="sx-vacio">Cargando sesiones…</p></div>
       <button class="sx-mas pod-mas" id="podMas" hidden>Ver más sesiones</button>
@@ -179,5 +180,15 @@
   <script src="js/portada.js?v=20261102b"></script>
   <script src="js/dinamismo.js?v=20261028c"></script>
   <script src="js/podcast.js"></script>
+<script>
+/* [.leon 2026-11-06] Notas de los estrenos de bandas: aparecen arriba de las sesiones */
+(function(){fetch('data/articles.json').then(function(r){return r.json()}).then(function(a){
+  var l=a.filter(function(x){return x.categoria==='Sesiones en vivo'}).sort(function(x,y){return new Date(y.fecha)-new Date(x.fecha)}).slice(0,6);
+  var c=document.getElementById('sesNotas'); if(!c||!l.length) return;
+  var e=function(t){var d=document.createElement('div');d.textContent=t||'';return d.innerHTML};
+  c.innerHTML=l.map(function(x){return '<a class="sx-card" href="'+e(x.url)+'"><div class="foto">'+(x.imagen_url?'<img src="'+e(x.imagen_url)+'" alt="" loading="lazy">':'🎤')+'</div><div class="cuerpo"><span class="sx-tag">Sesión en vivo</span><h3>'+e(x.titulo)+'</h3></div></a>'}).join('');
+  c.hidden=false;}).catch(function(){});})();
+</script>
+
 <script defer src="/js/moderno.js?v=20261101c"></script></body>
 </html>
