@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Las cuentas y datos del cartel del Vive Latino 2027",
+    "artista": "Vive Latino",
+    "intro": "Se presentan datos detallados sobre los cincuenta y cinco artistas confirmados, ofreciendo una perspectiva numérica que ningún otro medio comparte acerca de esta edición del festival.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/las-cuentas-y-datos-del-cartel-del-vive-latino-2027-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/las-cuentas-y-datos-del-cartel-del-vive-latino-2027-1106.jpg",
+    "fecha": "2026-11-06T17:00:31.359183",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Sylvester Stallone recuerda su vieja rivalidad con Arnold Schwarzenegger",
     "artista": "Sylvester Stallone",
     "intro": "Sylvester Stallone abordó su histórica y tensa relación con Arnold Schwarzenegger durante su participación en el PaleyFest NY 2026.",
@@ -3563,20 +3578,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Keith Moon: el caos autodestructivo del baterista de The Who",
-    "artista": "Keith Moon",
-    "intro": "El canal En el Ensayo Media presenta un video de ocho minutos que analiza la vida y carrera de Keith Moon, baterista de The Who.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/keith-moon-el-caos-autodestructivo-del-baterista-de-the-who-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/keith-moon-el-caos-autodestructivo-del-baterista-de-the-who-1101.jpg",
-    "fecha": "2026-11-01T20:35:57.110160",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
