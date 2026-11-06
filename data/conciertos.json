@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06 09:28",
+ "actualizado": "2026-11-06 11:36",
  "eventos": [],
  "api": false,
  "ticketmaster": {
@@ -109,6 +109,42 @@
  ],
  "noticias": [
   {
+   "titulo": "Feid anuncia conciertos en México para 2027: fechas, ciudades y cuándo será la preventa de boletos",
+   "fuente": "Milenio",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTFR5Wkh3amwwc3VlQkhESlozZ1doR0d1eDFnQVdrWi0zZ1NROFpBX1VDaFBrd3RSTXNJcVQwaEJCZHE5aVdmX0E2cjZtVHZnN1RpdEt1aFQ5RFpJQ0F4RE8yZVR2Uy11VmNVanRGNXl0Z2hPNTZXOEhsZXZtM3lZSU1YajlCQUxYU0RsOXMxSV9kWE5LV3Eyb0NkUdIBmwFBVV95cUxQdmtCYS1EMExoRUFOcWF1LWg2RC02RWpzd0hGQUxqSkRRdWp1djFYUXVQUUUtMXVjeEx2dGZVZ18tU05fcF9XUUttakx4YmM2a05yaFExd2xwTUhzRDd6Z2FSQXlOTnN1UktEWmstcUpwX0x3d09YNmFqU0daUW9wZWtBZ3Y5bkthNWhGdkF4YXJnTWxmMWNJR09qTQ?oc=5",
+   "fecha": "2026-11-06 17:16"
+  },
+  {
+   "titulo": "Feid regresa a México con 'FERXXO The Green Star 2027'",
+   "fuente": "EXA FM",
+   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdnRlQXl3MmJDdnFBaTZpdEpVeHhPbG15UkV6SWYzcHJpVmNGS1RnNER5N2t5cWE0TGxWUnliNXVObDVDN0RTSGYwOHdrbUVGTUxBTzY3T2NqV285T2IzT0RQaDZkb0ZncFRvbHlac2lnWGtLeGMwTm5mYmV3WHE4c25CeG1taVB3SGUtVWJnYldDbDVKbG9LUHkyMDc?oc=5",
+   "fecha": "2026-11-06 17:14"
+  },
+  {
+   "titulo": "Maluma anuncia gira Loco X Volver en México: estas son las siete ciudades",
+   "fuente": "sdpnoticias",
+   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQkY0ZUhfYm96RVNBVjFMaDFKSERWTnd1OXJlNE5wenN3cmJGNnBCQjVKLUlQTE9MSG5qWjREb1luYWhCX0hYSGc2Z25zWjhKRmtHM0t1bnZJcHF1OVdtcG1pYm10WGhPLU5DWmRjUU9ERExQNERYbmdiQkZXRzk0TXMyLUlreXk3MWh6TkVkVlBDTkRhdGsydzdUcDNnYlB4bks5OWdtTGttVGRLVXdIeFQtUEtWWDdfMk10Q1VR?oc=5",
+   "fecha": "2026-11-06 16:59"
+  },
+  {
+   "titulo": "Vive Latino 2027: precios de boletos y dónde comprarlos",
+   "fuente": "Monterrey Rock",
+   "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA5cE1TS1EwVGpBSUxrbGRpS0JiNEpCeXpYTkFJZXZhcHd5MHBNSWJxR3M2NlZhdWxEa01PTGNGY3lpcGpteVVMZUJFSEZCTDd6dnN2SmJxSERJS1lFbVY3YXA2MzVGYUs3MFAxVU9XS1dfUEJkb3c?oc=5",
+   "fecha": "2026-11-06 16:36"
+  },
+  {
+   "titulo": "Feid en CDMX 2027: fecha, precio de boletos y link de preventa para su concierto en el Palacio de los Deportes",
+   "fuente": "Sonica",
+   "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPN3BzTmt6OXJ4bkJUZ1ZVSzNtb0U0WWN3Rk4yUFowb2tHT1p3RTNINFVKTFNxak9zTFNkN01hbHdWT3lmUVBqMVQzbm9yWi1wQV9wM0pVcXFqZnAxVkJldXpndlJTdWxoMXU2LTExYVQ2OUtqalBXZVBTTE9pZHZZOVNLWEh3TFVjbHdQMnRvM0trTWlhUUdkVjZzZDhSaFplRFBlZ1djQkV0U3dCWS1XR05nbFVVa0pCenhSVWcwVnFiVVhTZVB4b2p5ZlVJMGI3QVRiaTFmRTE3ZEw4MENBM2IycFlTQ0wwREpURXln?oc=5",
+   "fecha": "2026-11-06 15:46"
+  },
+  {
+   "titulo": "Ozzfest 2027 llega por primera vez a México: fecha, boletos, preventa y cartel del festival",
+   "fuente": "Eje Central",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNc0pQSGNyaEZYa29MUWpJS2ZkMjNlWWxZaUtrR2JUYU5zY1BzRDFBcGJadGNzQ0g3U3dZM0ktX0sxNTZDNldHQUliX3ZPNkd4OVYtWGpzUU9SUGdmOEVMRWEycnlabnR0TDl0dnNuaFMwZ0x6MXdOejZ4dHRKWnJsRmkwMjVVdFF0d3REaGp3eEtKeGVSTUN4SmM5YnpoX0JBV2pVUm9ibDZXNFN3MGpoazBHb3RuVTQyOVVuS2xJNGNPWmFuWWdZX2FR?oc=5",
+   "fecha": "2026-11-06 14:51"
+  },
+  {
    "titulo": "Rush llega a Sphere en 2027 y prepara 2112 y Moving Pictures completos",
    "fuente": "LifeBoxset",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HY2Etak9iakswZ1QwWEhKX1YwcFBEWWxZYXN3dDRuUkFEZE81SkpjRzM4VDB5N2FPOVl0M2VjeWJsX2FDUDFubkpPYUpwR1Q1dXViTzJVRk56SWk3aHN6Zg?oc=5",
@@ -133,18 +169,6 @@
    "fecha": "2026-11-05 19:09"
   },
   {
-   "titulo": "Ozzfest México 2027: fecha, sede y cuándo comprar boletos para el festival de metal",
-   "fuente": "La Crónica de Hoy",
-   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMG1pSV8wbVZucktqZmpidGllcF9nUmd5bWs0T0U2WFEzVzh0T012QktpZFp0bk1MMWpBRXpqbE1yWHEwNWpVVUdyWnJYYTVQVUZGZG1oeEhGYVhkdWZfbUZiQlFRUEMwNWpabWRLWk11MzZJQjU2cFBoeXo4UWpzcXAwTzlSYnozUUp2TnVaTDYyci1hR0h1VUlPcWt0UWJpU25MY0hUankxNWo3enBHLWppVzVFeER2MERBMjVrZGM3blNfTjR5bk1B?oc=5",
-   "fecha": "2026-11-05 19:09"
-  },
-  {
-   "titulo": "Rush anuncia residencia en el Sphere de Las Vegas: fechas y boletos",
-   "fuente": "Monterrey Rock",
-   "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9VMUR2dlhtZmlWX2IxVS1KYXpET05OOVZ6MzJUZjdPakRfYzZlcHY4SHJzZ3hyaFd1SGdTOGpFUlZidXI4R2M5UW5JVE13WEVBck9VaWdCaERCTW9EemRDZ0JMZ0U1WXZ4Q1dob1Zn?oc=5",
-   "fecha": "2026-11-05 16:45"
-  },
-  {
    "titulo": "Leon Bridges viene al Metropólitan: estas son las fechas para comprar boletos",
    "fuente": "LifeBoxset",
    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZMXJFdEpLcWNpUDlZaFRHNEluUEZzMWlwVS1zVHRrdU5yN0RtdWRha2NoSWRGME9EWV93dFlxMzNzc3BrUm43dmhjTk1RSmtSaUhRLThEc2J3MnplNHlZaWVUWS0yQnVn?oc=5",
@@ -157,18 +181,6 @@
    "fecha": "2026-11-05 16:33"
   },
   {
-   "titulo": "Ozzfest llega a México por primera vez en 2027 ¡Preventa y cartel!",
-   "fuente": "Dónde Ir",
-   "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMnB6QlQ1dmpRTkVfMlN3c3IteHVwZ000ODZXT1hNaE8xTEVxNzdqUmJHY3VURWstS1pyczlHQWRrWU45S1lFaTRDZDJuWktVYk4tSUtyX2lZZk5NTHdKQzg3SnNNQkIxQWFQTzl3OUpwcS1wT1l5WDRTbWpVaE1TQXU1bXZXWkplWUhnelNFM3VPNWJhTFo4ZVhSNzVOWEZwV3c?oc=5",
-   "fecha": "2026-11-05 16:31"
-  },
-  {
-   "titulo": "David Guetta en CDMX 2027: precios confirmados y venta de boletos para \"The Monolith Tour\"",
-   "fuente": "Ambito",
-   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOE9aLTNlamRDeDVPd1ZUbEJHdGF3d1JYamIzZlZfbGJWTlQwc3NiMlRoWVBDOHZpdzZnUEFvMmNJV0FicHVrdjdjVjJLcDJaOTd4Tll2ZmM2SE9fNURQNU8xT1VzbVdib3FYX0l5TUtNS2FIZUdDVjYzdDVGN0NWbzRqSml5WlBUSlJPNWxTYzJBYUZjUDcwZkxsMzNqVGhKTk1mVWtkWmRiZGt3VElWMDA4dFd0R0lMMldTenozcXrSAcYBQVVfeXFMTVJrR1pieDk4dDVwV25UaWNtUlBsVzBQVlNlbDZJaXg3NjQ4eXlWUHZCeHhIRUU0MnBrenJxWkNPNUphM1gxMVBlY2FxYXVxSmFrRV9jNW8xSGkzRHRUbUNVMlZXNnd6bHVkbXhsZXJhdldJb2RZUVZLc2NRcmcxQlNUSnRFQ1cxZ0pBcmUtaHZCRGF6MHBEaWtUenpmdnZyN2RlYXNKNVdacnRJaHdaVVp6WXZoTFFtNXVlRXRhSmJTWlE2VE5n?oc=5",
-   "fecha": "2026-11-05 16:05"
-  },
-  {
    "titulo": "Jueves 2x1 Ticketmaster para HOY 5 de noviembre: Estos son los conciertos válidos en la promoción",
    "fuente": "Reporte Indigo",
    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxONlh4N3hqTVQtVXpvQ0k2RllVeTB0cTZhcEhGeUd2X3M0d21DLTRmSUpBNEo4a2o3MF9iS3R3LW1Xaml3OHBQTU5Hb0ZvbXFBZ19WaF9ldTR2SHdTb0dDN1dZYmVVRUFoM1o4TW5PT3hoQjlXVWNjaHpUM2dKcEUwRER4NU9laFU1bXVqTnZuWmpFUjVCVmtEWjd3V2hSbVJSWGlrcnoxSkJmbFZQZEVyenV3WmdyR3kwRzZvRld2OG1vc2xlWWlTaVB4VmF6aWlkdVQ4OEFUSnByX0VicHI2TExLZG5BQQ?oc=5",
@@ -179,18 +191,6 @@
    "fuente": "Tele Urban",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaG1pbkQ0MlJlcEVUNFhabEhxd0RyQi0xd0xQX05OTUlkZzRPZG81S0dVRldzYk1LbFdSdzZGREJPRHhfcElIcXhQbmF4QmowVVNFS1h4NUVSOFhEeTJEbTRJQXU2ZWJTdTBOaDZaMi00RFh3U2ctbmpreENhSEJmVTNOTVhJTE1vS3lFTVZILU16UQ?oc=5",
    "fecha": "2026-11-04 22:22"
-  },
-  {
-   "titulo": "¡Pitbull llega a Guadalajara! Anuncian fechas de preventa y venta de boletos para su concierto",
-   "fuente": "El Sol de México",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcng1NF9BbWlRWW1rLTliV0txSkJGb1ZiUENjZThBUXNCb0hRbnE4SFNXU2J3Sm5aZVFNQ3FhTXd2UGxBYVRIQ1FsbUxWVTRYeGh6c25sX2U0VnB2QVBhVVFGMXlxYWtHNXdrQXF5NVFUeVFJSTFvdDJjUW1CWndYcThMN2VCRllLMkRXZlYydU1DOXN1N3UxR3pacGVuRnlPMEp3d2dkb0ZFTHpEUVRQV210YmtRVTBVMjItdW0tWW41TkIzS0pNNWRfRG83VGlsY2tMQng3MA?oc=5",
-   "fecha": "2026-11-04 17:15"
-  },
-  {
-   "titulo": "Ye Live in Mexico 2027: Kanye West anuncia concierto en CDMX; fecha, sede y cómo registrarte para la venta anticipada de BOLETOS",
-   "fuente": "Eje Central",
-   "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPeVRHNmxjZHBYWG9rTEd0QXV6ZWI0ZHJ2T212ZXBZYjYwSWVMU1o2eWxQblpnSmxISHpETU9obDM4eXEzMF9paFVqcWpCdUdLb1cwV0t1U3kzMHZMb1Fld0FQNGFxdjhLUzJqR1h6NGlaMmsxcE5XdGNselM3UWZ1U2pWbTRuS3d0eDlWWVg2TVFldWFHQWNyQ1pnamh0UkNrR1RINl9rV1JzNVFvQkJpc1VUXzFwY2xqM1JZMEpsNDVmd3FKME03UkJmbHF3Zk9oc1RIRTAtOUFnTWc0dXU2U0ZPdElES2I1ODJPS3JmMGVONGQ4VzVTVDZTUQ?oc=5",
-   "fecha": "2026-11-04 16:09"
   }
  ]
 }
