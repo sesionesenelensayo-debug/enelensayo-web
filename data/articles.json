@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Sasha Sokol reaparece junto a Alejandro Soberón",
+    "artista": "Sasha Sokol",
+    "intro": "En medio de la polémica reciente en torno a la serie de Timbiriche, Sasha Sokol reapareció públicamente.",
+    "telegraph_url": "https://telegra.ph/Sasha-Sokol-reaparece-junto-a-Alejandro-Soberón-11-02",
+    "url": "https://enelensayomedia.com/notas/sasha-sokol-reaparece-junto-a-alejandro-soberon-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/sasha-sokol-reaparece-junto-a-alejandro-soberon-1102.jpg",
+    "fecha": "2026-11-06T09:05:38.214821",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-02T15:02:54.491082",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Majo Aguilar recibe la Estrella Maya en Lynwood, California",
     "artista": "Majo Aguilar",
     "intro": "Majo Aguilar fue honrada con la “Estrella Maya” en la nueva etapa del Paseo de las Estrellas de Plaza México, en Lynwood, California, el 30 de octubre.",
@@ -486,22 +502,6 @@
     "views": 0,
     "categoria": "Marvel y DCU",
     "fecha_original": "2026-10-31T09:47:34.163501",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Sasha Sokol reaparece junto a Alejandro Soberón",
-    "artista": "Sasha Sokol",
-    "intro": "En medio de la polémica reciente en torno a la serie de Timbiriche, Sasha Sokol reapareció públicamente.",
-    "telegraph_url": "https://telegra.ph/Sasha-Sokol-reaparece-junto-a-Alejandro-Soberón-11-02",
-    "url": "https://enelensayomedia.com/notas/sasha-sokol-reaparece-junto-a-alejandro-soberon-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/sasha-sokol-reaparece-junto-a-alejandro-soberon-1102.jpg",
-    "fecha": "2026-11-05T11:17:42.017607",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-02T15:02:54.491082",
     "actualizada": true
   },
   {
