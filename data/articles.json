@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "noticia",
+    "titulo": "Leon Bridges llega a la CDMX el 24 de marzo de 2027 para presentar su nueva gira",
+    "artista": "Leon Bridges",
+    "intro": "El artista estadounidense ofrecerá un concierto en solitario en el Teatro Metropólitan como parte de su gira internacional.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/leon-bridges-llega-a-la-cdmx-el-24-de-marzo-de-2027-para-presentar-su-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/leon-bridges-llega-a-la-cdmx-el-24-de-marzo-de-2027-para-presentar-su-1106.jpg",
+    "fecha": "2026-11-06T11:56:15.990639",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos",
+    "fecha_original": "2026-11-06T11:06:43.287865",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "noticia",
     "titulo": "Pitbull anuncia gira 'I'm Back' en México para febrero de 2027",
     "artista": "Pitbull",
     "intro": "El artista ofrecerá tres conciertos en la Ciudad de México, Guadalajara y Monterrey, con preventas iniciando en octubre de 2026.",
@@ -150,20 +166,6 @@
     "categoria": "Televisión",
     "fecha_original": "2026-11-05T11:15:41.670311",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Leon Bridges llega a la CDMX el 24 de marzo de 2027 para presentar su nueva gira",
-    "artista": "Leon Bridges",
-    "intro": "El artista estadounidense ofrecerá un concierto en solitario en el Teatro Metropólitan como parte de su gira internacional.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/leon-bridges-llega-a-la-cdmx-el-24-de-marzo-de-2027-para-presentar-su-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/leon-bridges-llega-a-la-cdmx-el-24-de-marzo-de-2027-para-presentar-su-1106.jpg",
-    "fecha": "2026-11-06T11:06:43.287865",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
   },
   {
     "opinion": false,
