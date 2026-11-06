@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Colas masivas y caída de sistemas por el nuevo Zelda",
+    "artista": "Zelda",
+    "intro": "El 5 de noviembre de 2026 salió a la venta 'The Legend of Zelda: Ocarina of Time', el remake del clásico de Nintendo 64 de 1998, en exclusiva para Nintendo Switch 2.",
+    "telegraph_url": "https://telegra.ph/Colas-masivas-y-caída-de-sistemas-por-el-nuevo-Zelda-11-06",
+    "url": "https://enelensayomedia.com/notas/colas-masivas-y-caida-de-sistemas-por-el-nuevo-zelda-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/colas-masivas-y-caida-de-sistemas-por-el-nuevo-zelda-1106.jpg",
+    "fecha": "2026-11-06T14:10:48.180163",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "Snape con rastas y chamarra de cuero: HBO impone su agenda en Harry Potter",
@@ -5646,20 +5660,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Terror y misterio",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Jim Morrison: el día que murió sin autopsia en París",
-    "artista": "",
-    "intro": "El 3 de julio de 1971 Jim Morrison murió en París bajo circunstancias misteriosas. La ausencia de una autopsia ha alimentado décadas de especulación entre ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/jim-morrison-el-dia-que-murio-sin-autopsia-en-paris-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/jim-morrison-el-dia-que-murio-sin-autopsia-en-paris-1028.jpg",
-    "fecha": "2026-10-28T18:43:38",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam",
     "archivo": true
   }
 ]
