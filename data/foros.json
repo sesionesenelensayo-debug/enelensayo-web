@@ -329,6 +329,7 @@
    "lat": 19.2107827,
    "lon": -99.1689379,
    "genero": "Foro con música en vivo",
+   "url": "https://chicoca.gov/",
    "auto": true
   },
   {
@@ -348,6 +349,16 @@
    "zona": "",
    "lat": 19.4242929,
    "lon": -99.1673655,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "FORO",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "",
+   "lat": 19.3552493,
+   "lon": -99.1424578,
    "genero": "Foro con música en vivo",
    "auto": true
   }
