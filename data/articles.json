@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Soberano Jr y Bandido chocan de nuevo en la Arena México",
+    "artista": "CMLL",
+    "intro": "El viernes 6 de noviembre de 2026, el Consejo Mundial de Lucha Libre programó su tradicional Viernes Espectacular en la Arena México, ubicada en la colonia Doctores de la Ciudad de México.",
+    "telegraph_url": "https://telegra.ph/Soberano-Jr-y-Bandido-chocan-de-nuevo-en-la-Arena-México-11-06",
+    "url": "https://enelensayomedia.com/notas/soberano-jr-y-bandido-chocan-de-nuevo-en-la-arena-mexico-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/soberano-jr-y-bandido-chocan-de-nuevo-en-la-arena-mexico-1106.jpg",
+    "fecha": "2026-11-06T13:33:07.597601",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Kendall Jenner genera críticas por supuesto uso de base de maquillaje",
     "artista": "Kendall Jenner",
     "intro": "Lo confirmado hasta el momento es que Kendall Jenner protagonizó un video promocional para L'Oréal Paris en TikTok el 1 de noviembre de 2026…",
@@ -5645,18 +5659,5 @@
     "views": 0,
     "categoria": "In memoriam",
     "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece Komanche, streamer salvadoreño de 30 años, en Monterrey",
-    "artista": "",
-    "intro": "El streamer e influencer salvadoreño Carlos Mauricio Gómez, conocido como Komanche, murió a los 30 años en Monterrey, México. Su representante Byron Reyes ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fallece-komanche-streamer-salvadoreno-de-30-anos-en-monterrey-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-komanche-streamer-salvadoreno-de-30-anos-en-monterrey-1028.jpg",
-    "fecha": "2026-10-28T18:29:22",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
