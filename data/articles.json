@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "José Eduardo Derbez y Paola Dalay anuncian separación",
+    "artista": "José Eduardo Derbez",
+    "intro": "El actor mexicano José Eduardo Derbez y Paola Dalay confirmaron el 1 de noviembre de 2026 su separación tras siete años de relación.",
+    "telegraph_url": "https://telegra.ph/José-Eduardo-Derbez-y-Paola-Dalay-anuncian-separación-11-01",
+    "url": "https://enelensayomedia.com/notas/jose-eduardo-derbez-y-paola-dalay-anuncian-separacion-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/jose-eduardo-derbez-y-paola-dalay-anuncian-separacion-1101.jpg",
+    "fecha": "2026-11-06T07:07:19.916712",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-01T16:33:20.695886",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "noticia",
     "titulo": "God of War Laufey se retrasa hasta el 20 de mayo de 2027",
@@ -919,21 +934,6 @@
     "views": 0,
     "categoria": "In memoriam",
     "fecha_original": "2026-10-29T03:16:14",
-    "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "José Eduardo Derbez y Paola Dalay anuncian separación",
-    "artista": "José Eduardo Derbez",
-    "intro": "El actor mexicano José Eduardo Derbez y Paola Dalay confirmaron el 1 de noviembre de 2026 su separación tras siete años de relación.",
-    "telegraph_url": "https://telegra.ph/José-Eduardo-Derbez-y-Paola-Dalay-anuncian-separación-11-01",
-    "url": "https://enelensayomedia.com/notas/jose-eduardo-derbez-y-paola-dalay-anuncian-separacion-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/jose-eduardo-derbez-y-paola-dalay-anuncian-separacion-1101.jpg",
-    "fecha": "2026-11-04T17:02:03.136879",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-01T16:33:20.695886",
     "actualizada": true
   },
   {
