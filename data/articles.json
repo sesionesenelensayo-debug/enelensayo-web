@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "De Duki a Daddy Yankee: los nuevos lanzamientos",
+    "artista": "Discos de la semana",
+    "intro": "",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/de-duki-a-daddy-yankee-los-nuevos-lanzamientos-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/de-duki-a-daddy-yankee-los-nuevos-lanzamientos-1106.jpg",
+    "fecha": "2026-11-06T13:08:40.274466",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Maluma anuncia siete conciertos en México",
     "artista": "Maluma",
     "intro": "Maluma confirma su regreso a los escenarios mexicanos con el anuncio de siete conciertos en el país como parte de su gira «Loco por Volver World Tour 2027».",
@@ -3427,20 +3441,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Billie Eilish: Talento y ascenso meteórico en la música",
-    "artista": "BILLIE EILISH",
-    "intro": "Se detallan los inicios de su carrera musical junto a su hermano Finneas O'Connell, su éxito masivo en plataformas y su histórico triunfo en los premios Grammy.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/billie-eilish-talento-y-ascenso-meteorico-en-la-musica-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/billie-eilish-talento-y-ascenso-meteorico-en-la-musica-1101.jpg",
-    "fecha": "2026-11-01T20:10:11.765434",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
