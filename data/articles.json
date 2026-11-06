@@ -1,6 +1,21 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "‘La bola negra’ de Los Javis supera los 35,7 millones de euros en taquilla",
+    "artista": "Los Javis",
+    "intro": "La película ‘La bola negra’, dirigida por Los Javis, ha batido un nuevo récord al superar los 35,7 millones de euros en taquilla, destronando a ‘Ocho apellidos catalanes’.",
+    "telegraph_url": "https://telegra.ph/La-bola-negra-de-Los-Javis-supera-los-357-millones-de-euros-en-taquilla-11-01",
+    "url": "https://enelensayomedia.com/notas/la-bola-negra-de-los-javis-supera-los-35-7-millones-de-euros-en-taquil-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-bola-negra-de-los-javis-supera-los-35-7-millones-de-euros-en-taquil-1031.jpg",
+    "fecha": "2026-11-06T09:47:34.270691",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU",
+    "fecha_original": "2026-10-31T22:15:48.481824",
+    "actualizada": true
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Conan Exiles prepara actualización para PS5 y Xbox Series",
     "artista": "Conan Exiles",
     "intro": "Conan Exiles, el videojuego de supervivencia ambientado en el mundo de Conan el Bárbaro, está a punto de recibir una transformación para PlayStation 5 y Xbox Series. Según reporta Kotaku en Español, e",
@@ -2349,21 +2364,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "‘La bola negra’ de Los Javis supera los 35,7 millones de euros en taquilla",
-    "artista": "Los Javis",
-    "intro": "La película ‘La bola negra’, dirigida por Los Javis, ha batido un nuevo récord al superar los 35,7 millones de euros en taquilla, destronando a ‘Ocho apellidos catalanes’.",
-    "telegraph_url": "https://telegra.ph/La-bola-negra-de-Los-Javis-supera-los-357-millones-de-euros-en-taquilla-11-01",
-    "url": "https://enelensayomedia.com/notas/la-bola-negra-de-los-javis-supera-los-35-7-millones-de-euros-en-taquil-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-bola-negra-de-los-javis-supera-los-35-7-millones-de-euros-en-taquil-1031.jpg",
-    "fecha": "2026-11-02T14:13:18.668716",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU",
-    "fecha_original": "2026-10-31T22:15:48.481824",
-    "actualizada": true
   },
   {
     "opinion": false,
