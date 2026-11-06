@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Detalles y polémicas sobre la separación de Pampita y Martín Pepa",
+    "artista": "Pampita",
+    "intro": "La separación entre la modelo y conductora Carolina 'Pampita' Ardohain y el polista Martín Pepa genera gran atención mediática tras revelarse nuevos detalles sobre la ruptura.",
+    "telegraph_url": "https://telegra.ph/Detalles-y-polémicas-sobre-la-separación-de-Pampita-y-Martín-Pepa-11-06",
+    "url": "https://enelensayomedia.com/notas/detalles-y-polemicas-sobre-la-separacion-de-pampita-y-martin-pepa-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/detalles-y-polemicas-sobre-la-separacion-de-pampita-y-martin-pepa-1106.jpg",
+    "fecha": "2026-11-06T12:23:14.392071",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Maluma anuncia siete conciertos en México",
     "artista": "Maluma",
     "intro": "Maluma confirma su regreso a los escenarios mexicanos con el anuncio de siete conciertos en el país como parte de su gira «Loco por Volver World Tour 2027».",
@@ -5545,20 +5559,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Chisme de pasillo: ¡Kimberly la Más Preciosa llora!",
-    "artista": "",
-    "intro": "Medios de espectáculos como TVyNovelas y Milenio han reportado un chisme de pasillo sobre Kimberly la Más Preciosa. La información se centra en rumores no ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/chisme-de-pasillo-kimberly-la-mas-preciosa-llora-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/chisme-de-pasillo-kimberly-la-mas-preciosa-llora-1028.jpg",
-    "fecha": "2026-10-28T23:08:13",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "archivo": true
   },
   {
     "tipo": "reportaje",
