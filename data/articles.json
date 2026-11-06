@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Hwang In Yeop anuncia gira To You en México para noviembre de 2026",
+    "artista": "Hwang In Youp",
+    "intro": "El actor surcoreano Hwang In Yeop regresará a México en noviembre de 2026 con su gira de fanmeetings To You.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/hwang-in-yeop-anuncia-gira-to-you-en-mexico-para-noviembre-de-2026-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/hwang-in-yeop-anuncia-gira-to-you-en-mexico-para-noviembre-de-2026-1106.jpg",
+    "fecha": "2026-11-06T11:12:19.596725",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Raza Hamidmi al-Wazar regresa en el capítulo 6 de VisionQuest",
     "artista": "VisionQuest",
