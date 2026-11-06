@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "El cine latino cruza fronteras en Los Ángeles",
+    "artista": "Cine Latino",
+    "intro": "Se reporta que el cine latino está cruzando fronteras en Los Ángeles, un hecho que destaca la expansión de la producción audiovisual hispana en la capital californiana.",
+    "telegraph_url": "https://telegra.ph/El-cine-latino-cruza-fronteras-en-Los-Ángeles-11-02",
+    "url": "https://enelensayomedia.com/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.jpg",
+    "fecha": "2026-11-05T20:27:28.708156",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-11-02T09:01:26.357011",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "noticia",
     "titulo": "Pitbull anuncia gira 'I'm Back' en México para febrero de 2027",
@@ -359,21 +374,6 @@
     "views": 0,
     "categoria": "Cultura",
     "fecha_original": "2026-11-04T17:59:31.575419",
-    "actualizada": true
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "El cine latino cruza fronteras en Los Ángeles",
-    "artista": "Cine Latino",
-    "intro": "Se reporta que el cine latino está cruzando fronteras en Los Ángeles, un hecho que destaca la expansión de la producción audiovisual hispana en la capital californiana.",
-    "telegraph_url": "https://telegra.ph/El-cine-latino-cruza-fronteras-en-Los-Ángeles-11-02",
-    "url": "https://enelensayomedia.com/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.jpg",
-    "fecha": "2026-11-05T08:59:15.883856",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-02T09:01:26.357011",
     "actualizada": true
   },
   {
