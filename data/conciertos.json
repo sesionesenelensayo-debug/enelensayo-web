@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06 07:27",
+ "actualizado": "2026-11-06 09:28",
  "eventos": [],
  "api": false,
  "ticketmaster": {
@@ -109,6 +109,12 @@
  ],
  "noticias": [
   {
+   "titulo": "Rush llega a Sphere en 2027 y prepara 2112 y Moving Pictures completos",
+   "fuente": "LifeBoxset",
+   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HY2Etak9iakswZ1QwWEhKX1YwcFBEWWxZYXN3dDRuUkFEZE81SkpjRzM4VDB5N2FPOVl0M2VjeWJsX2FDUDFubkpPYUpwR1Q1dXViTzJVRk56SWk3aHN6Zg?oc=5",
+   "fecha": "2026-11-06 13:40"
+  },
+  {
    "titulo": "¿Gorillaz en México? Un error desata rumores sobre su llegada al Palacio de los Deportes",
    "fuente": "Reporte Indigo",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeHhpMlJxTjJUVE96WW1MSXVQV2JXU1RaZGxwOUw5TDRfOWpydndBLWo2SXBiQjVja0Y1OWhza2QtUkw3NVpvWldpQWRCQUozbDE0M1hTYktDTnd3UEhnMkRidmhaLXU4cE45SWQ4RWFyWTgyZHBNdGV3NEdaYTRmODVZLThVM0htblRtY1o3WkNBS2U2OGRLeXphdTdoTkltbHRhVWdad0FzWDRkdE54SmdLZ1R2TEE3d0tUa01VOVNBU0NLMUM2QllhU2FlckJZZkpUclVRU2FyVlZYdUE?oc=5",
@@ -169,28 +175,22 @@
    "fecha": "2026-11-05 13:25"
   },
   {
-   "titulo": "¡Pitbull llega a Guadalajara! Anuncian fechas de preventa y venta de boletos para su concierto",
-   "fuente": "El Sol de México",
-   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcng1NF9BbWlRWW1rLTliV0txSkJGb1ZiUENjZThBUXNCb0hRbnE4SFNXU2J3Sm5aZVFNQ3FhTXd2UGxBYVRIQ1FsbUxWVTRYeGh6c25sX2U0VnB2QVBhVVFGMXlxYWtHNXdrQXF5NVFUeVFJSTFvdDJjUW1CWndYcThMN2VCRllLMkRXZlYydU1DOXN1N3UxR3pacGVuRnlPMEp3d2dkb0ZFTHpEUVRQV210YmtRVTBVMjItdW0tWW41TkIzS0pNNWRfRG83VGlsY2tMQng3MA?oc=5",
-   "fecha": "2026-11-05 00:53"
-  },
-  {
    "titulo": "Gran Premio de México 2027: Costos de boletos, fases de venta y guía del Derecho de Primera Opción",
    "fuente": "Tele Urban",
    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaG1pbkQ0MlJlcEVUNFhabEhxd0RyQi0xd0xQX05OTUlkZzRPZG81S0dVRldzYk1LbFdSdzZGREJPRHhfcElIcXhQbmF4QmowVVNFS1h4NUVSOFhEeTJEbTRJQXU2ZWJTdTBOaDZaMi00RFh3U2ctbmpreENhSEJmVTNOTVhJTE1vS3lFTVZILU16UQ?oc=5",
    "fecha": "2026-11-04 22:22"
   },
   {
+   "titulo": "¡Pitbull llega a Guadalajara! Anuncian fechas de preventa y venta de boletos para su concierto",
+   "fuente": "El Sol de México",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQcng1NF9BbWlRWW1rLTliV0txSkJGb1ZiUENjZThBUXNCb0hRbnE4SFNXU2J3Sm5aZVFNQ3FhTXd2UGxBYVRIQ1FsbUxWVTRYeGh6c25sX2U0VnB2QVBhVVFGMXlxYWtHNXdrQXF5NVFUeVFJSTFvdDJjUW1CWndYcThMN2VCRllLMkRXZlYydU1DOXN1N3UxR3pacGVuRnlPMEp3d2dkb0ZFTHpEUVRQV210YmtRVTBVMjItdW0tWW41TkIzS0pNNWRfRG83VGlsY2tMQng3MA?oc=5",
+   "fecha": "2026-11-04 17:15"
+  },
+  {
    "titulo": "Ye Live in Mexico 2027: Kanye West anuncia concierto en CDMX; fecha, sede y cómo registrarte para la venta anticipada de BOLETOS",
    "fuente": "Eje Central",
    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPeVRHNmxjZHBYWG9rTEd0QXV6ZWI0ZHJ2T212ZXBZYjYwSWVMU1o2eWxQblpnSmxISHpETU9obDM4eXEzMF9paFVqcWpCdUdLb1cwV0t1U3kzMHZMb1Fld0FQNGFxdjhLUzJqR1h6NGlaMmsxcE5XdGNselM3UWZ1U2pWbTRuS3d0eDlWWVg2TVFldWFHQWNyQ1pnamh0UkNrR1RINl9rV1JzNVFvQkJpc1VUXzFwY2xqM1JZMEpsNDVmd3FKME03UkJmbHF3Zk9oc1RIRTAtOUFnTWc0dXU2U0ZPdElES2I1ODJPS3JmMGVONGQ4VzVTVDZTUQ?oc=5",
    "fecha": "2026-11-04 16:09"
-  },
-  {
-   "titulo": "GP de México 2027: Fechas oficiales, precios de boletos y cuándo empieza la preventa",
-   "fuente": "W Radio México",
-   "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYnByaUtGMUZYbFpYZ0luaTlpVHBJbXBKYTNpbWpyZjE4TXZZSF84ZmFIYWpOS29na003Y21QbGRXTnFYMDZQbkNMZnFmT2xhaDBnaTFMbXczUHZKOHRaSlp2TTRTaEVGS1NjS3RTWVVJYUV1TDBKdkxzSERMTzlQWlZQNEFTTmliUmZXbUVJSnZRXzVqOTYxaGJLZF83RW5IOGo3RGxZeDFUWTlQM3N6NVZodmxCOU0?oc=5",
-   "fecha": "2026-11-03 19:38"
   }
  ]
 }
