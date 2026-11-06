@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "La historia detrás de Jorge Negrete, el Charro Cantor",
+    "artista": "Jorge Negrete",
+    "intro": "En este video del canal En el Ensayo Media se explora la vida y trayectoria de Jorge Negrete…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/la-historia-detras-de-jorge-negrete-el-charro-cantor-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-historia-detras-de-jorge-negrete-el-charro-cantor-1106.jpg",
+    "fecha": "2026-11-06T12:18:45.008613",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Cine"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Top 10 semanal: lo más escuchado en México y en el mundo (6 de noviembre)",
     "artista": "Top 10 semanal",
     "intro": "Como en los viejos conteos de MTV, aquí está la cuenta regresiva de la semana. En México manda «Suzuki (from GTAVI: The Album)» de Fuerza Regida; en el mundo, «Housewife» de Tate McRae.",
@@ -4467,19 +4482,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Cine Mexicano recomienda películas esenciales para el Día de Muertos",
-    "artista": "Cine Mexicano",
-    "intro": "El Diario de México señala que el canal Cine Mexicano ofrece una selección de películas indispensables que abordan temas de vida y memoria, recomendadas para ver durante la celebración del Día de Muer",
-    "telegraph_url": "https://telegra.ph/Cine-Mexicano-recomienda-películas-esenciales-para-el-Día-de-Muertos-10-31",
-    "url": "https://enelensayomedia.com/notas/cine-mexicano-recomienda-peliculas-esenciales-para-el-dia-de-muertos-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/cine-mexicano-recomienda-peliculas-esenciales-para-el-dia-de-muertos-1031.jpg",
-    "fecha": "2026-10-31T07:19:30.008982",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   },
   {
     "tipo": "reportaje",
