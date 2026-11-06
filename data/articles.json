@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "Mariana Ochoa no ha recibido premio por ganar La Casa de los Famosos México",
+    "artista": "Mariana Ochoa",
+    "intro": "Según reportes de El Heraldo de México e Infobae, Mariana Ochoa, ganadora de la cuarta temporada de La Casa de los Famosos México en 2026, no ha recibido el premio en dinero correspondiente a su victo",
+    "telegraph_url": "https://telegra.ph/Mariana-Ochoa-no-ha-recibido-premio-por-ganar-La-Casa-de-los-Famosos-México-10-31",
+    "url": "https://enelensayomedia.com/notas/mariana-ochoa-no-ha-recibido-premio-por-ganar-la-casa-de-los-famosos-m-1030.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/mariana-ochoa-no-ha-recibido-premio-por-ganar-la-casa-de-los-famosos-m-1030.jpg",
+    "fecha": "2026-11-06T12:00:35.520656",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-10-30T20:58:50.074904",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "noticia",
     "titulo": "Leon Bridges llega a la CDMX el 24 de marzo de 2027 para presentar su nueva gira",
@@ -2355,21 +2370,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Mariana Ochoa no ha recibido premio por ganar La Casa de los Famosos México",
-    "artista": "Mariana Ochoa",
-    "intro": "Según reportes de El Heraldo de México e Infobae, Mariana Ochoa, ganadora de la cuarta temporada de La Casa de los Famosos México en 2026, no ha recibido el premio en dinero correspondiente a su victo",
-    "telegraph_url": "https://telegra.ph/Mariana-Ochoa-no-ha-recibido-premio-por-ganar-La-Casa-de-los-Famosos-México-10-31",
-    "url": "https://enelensayomedia.com/notas/mariana-ochoa-no-ha-recibido-premio-por-ganar-la-casa-de-los-famosos-m-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/mariana-ochoa-no-ha-recibido-premio-por-ganar-la-casa-de-los-famosos-m-1030.jpg",
-    "fecha": "2026-11-02T20:20:07.268151",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-10-30T20:58:50.074904",
-    "actualizada": true
   },
   {
     "opinion": false,
