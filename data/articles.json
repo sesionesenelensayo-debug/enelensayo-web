@@ -1,5 +1,20 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "A 14 años del fallecimiento de Leonardo Favio",
+    "artista": "Leonardo Favio",
+    "intro": "Se detalla la fecha y el lugar de su muerte, ocurrida en Buenos Aires, así como su destacada trayectoria artística y su relevancia cultural en toda América Latina.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/a-14-anos-del-fallecimiento-de-leonardo-favio-1105.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/a-14-anos-del-fallecimiento-de-leonardo-favio-1105.jpg",
+    "fecha": "2026-11-05T20:35:50.491704",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Cine"
+  },
+  {
     "tipo": "noticia",
     "titulo": "El cine latino cruza fronteras en Los Ángeles",
     "artista": "Cine Latino",
