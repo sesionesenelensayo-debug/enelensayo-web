@@ -2,6 +2,12 @@
  "Biografía": {
   "shorts": [
    {
+    "id": "SBaKb0dpk8Q",
+    "titulo": "Jim Croce: la verdad sobre el accidente aéreo de 1973",
+    "fecha": "2026-11-07",
+    "nota": "https://enelensayomedia.com/notas/jim-croce-la-verdad-sobre-el-accidente-aereo-de-1973-1107.html"
+   },
+   {
     "id": "ZmcGV2_3eOI",
     "titulo": "Pedro Infante: el fatal accidente aéreo en Mérida de 1957",
     "fecha": "2026-11-07",
@@ -66,12 +72,6 @@
     "titulo": "El oscuro secreto del éxito de The Slim Shady LP de Eminem",
     "fecha": "2026-11-02",
     "nota": "https://enelensayomedia.com/notas/el-oscuro-secreto-del-exito-de-the-slim-shady-lp-de-eminem-1102.html"
-   },
-   {
-    "id": "TuIWnR9UE1A",
-    "titulo": "Miguel Zabaleta y Suéter: la voz del rock argentino que ocultó su lucha contra el cáncer",
-    "fecha": "2026-11-02",
-    "nota": "https://enelensayomedia.com/notas/miguel-zabaleta-y-sueter-la-voz-del-rock-argentino-que-oculto-su-lucha-1102.html"
    }
   ],
   "longs": [
