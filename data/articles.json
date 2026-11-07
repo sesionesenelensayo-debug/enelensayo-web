@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "El enigmático abandono del Mary Celeste: hechos y misterios del bergantín fantasma",
+    "artista": "el naufragio del Mary Celeste",
+    "intro": "Una crónica que recorre la construcción, la travesía, el hallazgo y la investigación del caso que sigue sin explicación definitiva.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-enigmatico-abandono-del-mary-celeste-hechos-y-misterios-del-bergant-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-enigmatico-abandono-del-mary-celeste-hechos-y-misterios-del-bergant-1107.jpg",
+    "fecha": "2026-11-07T08:27:25.396247",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Historias de terror"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Penélope Cruz revela cómo Salma Hayek la acogió al llegar a México",
     "artista": "Penélope Cruz",
     "intro": "Penélope Cruz contó que Salma Hayek la recibió en el aeropuerto mexicano y la invitó a quedarse en su casa, subrayando la dificultad que supone el inicio de una visita al país.",
@@ -5665,20 +5679,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Terror y misterio",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Manuel Boix: el artista que falleció el 23 de septiembre de",
-    "artista": "",
-    "intro": "El artista español Manuel Boix, reconocido por sus grabados, ilustraciones y por diseñar casi todas las portadas de Al Tall, murió el 23 de septiembre de 2",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/manuel-boix-el-artista-que-fallecio-el-23-de-septiembre-de-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/manuel-boix-el-artista-que-fallecio-el-23-de-septiembre-de-1029.jpg",
-    "fecha": "2026-10-29T02:44:46",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam",
     "archivo": true
   }
 ]
