@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06T18:50",
+ "actualizado": "2026-11-07T01:07",
  "peores": [
   {
    "titulo": "Code Violet",
@@ -101,17 +101,6 @@
    "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1763100018.jpg"
   },
   {
-   "titulo": "Sacred 2 Remaster",
-   "score": 54,
-   "resenas": 16,
-   "fecha": "2025-11-11",
-   "plataforma": "PC",
-   "genero": "Action RPG",
-   "sentimiento": "Mixed or average",
-   "slug": "sacred-2-remaster",
-   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1762882599.jpg"
-  },
-  {
    "titulo": "Sonic Frontiers: Definitive Edition",
    "score": 56,
    "resenas": 12,
@@ -132,24 +121,20 @@
    "sentimiento": "Mixed or average",
    "slug": "of-ash-and-steel",
    "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1764047447.jpg"
+  },
+  {
+   "titulo": "Project Motor Racing",
+   "score": 58,
+   "resenas": 14,
+   "fecha": "2025-11-25",
+   "plataforma": "PlayStation 5",
+   "genero": "Auto Racing Sim",
+   "sentimiento": "Mixed or average",
+   "slug": "project-motor-racing",
+   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1764040218.jpg"
   }
  ],
  "estrenos": [
-  {
-   "titulo": "Hasbro Games Junior Collection",
-   "fecha": "2026-11-06",
-   "fecha_txt": "6 de noviembre",
-   "plataformas": [
-    "PC",
-    "Switch",
-    "Switch 2",
-    "PS4",
-    "PS5"
-   ],
-   "genero": "Digital tabletop, Party",
-   "desarrolla": "Casual Brothers",
-   "publica": "Outright Games"
-  },
   {
    "titulo": "DreamWorks Shrek 2 Remastered",
    "fecha": "2026-11-10",
@@ -460,6 +445,17 @@
    "genero": "FPS, Soulslike",
    "desarrolla": "Eschatology Entertainment",
    "publica": "4Divinity"
+  },
+  {
+   "titulo": "A-Train 9 Prime Line",
+   "fecha": "2026-12-09",
+   "fecha_txt": "9 de diciembre",
+   "plataformas": [
+    "PC"
+   ],
+   "genero": "Simulation",
+   "desarrolla": "Artdink",
+   "publica": "Artdink, Komodo"
   }
  ]
 }
