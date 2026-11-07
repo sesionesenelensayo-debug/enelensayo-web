@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Vadhir Derbez enfrenta investigación legal",
+    "artista": "Vadhir Derbez",
+    "intro": "Vadhir Derbez enfrenta una denuncia por el presunto delito de violación interpuesta por una modelo estadounidense de 19 años.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/vadhir-derbez-enfrenta-investigacion-legal-1105.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/vadhir-derbez-enfrenta-investigacion-legal-1105.jpg",
+    "fecha": "2026-11-07T15:11:14.549633",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-05T21:03:36.562818",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Avengers: Doomsday rompe récords de preventa con más de 125 millones de dólares",
     "artista": "Avengers: Doomsday",
     "intro": "La nueva entrega de Marvel, Avengers: Doomsday, ha superado en preventas la recaudación total de la película Supergirl, alcanzando ya más de 125 millones de dólares antes de su estreno.",
@@ -1355,20 +1371,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Vadhir Derbez enfrenta investigación legal",
-    "artista": "Vadhir Derbez",
-    "intro": "Vadhir Derbez enfrenta una denuncia por el presunto delito de violación interpuesta por una modelo estadounidense de 19 años.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/vadhir-derbez-enfrenta-investigacion-legal-1105.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/vadhir-derbez-enfrenta-investigacion-legal-1105.jpg",
-    "fecha": "2026-11-05T21:03:36.562818",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   },
   {
     "opinion": false,

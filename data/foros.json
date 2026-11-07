@@ -353,12 +353,32 @@
    "auto": true
   },
   {
+   "nombre": "Ex Fábrica MX",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "",
+   "lat": 19.4145386,
+   "lon": -99.1256739,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
    "nombre": "FORO",
    "ciudad": "Ciudad de México",
    "estado": "Distrito Federal",
    "zona": "",
    "lat": 19.3552493,
    "lon": -99.1424578,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "Cracovia 32, San Ángel, CDMX",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "",
+   "lat": 19.3487086,
+   "lon": -99.1886839,
    "genero": "Foro con música en vivo",
    "auto": true
   }
