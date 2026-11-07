@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Super Mario Galaxy: La película llega a HBO Max",
+    "artista": "Super Mario Galaxy",
+    "intro": "HBO Max ha anunciado de manera oficial la fecha de estreno para Latinoamérica de ‘Super Mario Galaxy: La película’, uno de los grandes éxitos cinematográficos de este año.",
+    "telegraph_url": "https://telegra.ph/Super-Mario-Galaxy-La-película-llega-a-HBO-Max-11-07",
+    "url": "https://enelensayomedia.com/notas/super-mario-galaxy-la-pelicula-llega-a-hbo-max-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/super-mario-galaxy-la-pelicula-llega-a-hbo-max-1107.jpg",
+    "fecha": "2026-11-07T13:19:05.516522",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "¿Arruinó el doblaje de Wildwood a los star talents Macarena García y Javier Ibarreche?",
     "artista": "Wildwood: Petición de redoblaje",
     "intro": "El doblaje latino de la película «Wildwood» de LAIKA Studios generó una intensa polémica en redes sociales como TikTok, Instagram y X.",
@@ -5681,18 +5695,5 @@
     "views": 0,
     "categoria": "Terror y misterio",
     "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "The Witcher 4 sustituye a Geralt por Ciri: debate sobre la decisión editorial",
-    "artista": "",
-    "intro": "CD Projekt RED ha confirmado que Ciri será la protagonista de The Witcher 4, sustituyendo a Geralt de Rivia. La medida ha generado controversia en redes, d",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/the-witcher-4-sustituye-a-geralt-por-ciri-debate-sobre-la-decision-edi-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/the-witcher-4-sustituye-a-geralt-por-ciri-debate-sobre-la-decision-edi-1029.jpg",
-    "fecha": "2026-10-29T11:35:45",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos"
   }
 ]
