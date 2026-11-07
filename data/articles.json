@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Sigourney Weaver revela su vínculo con Dian Fossey y el legado de 'Gorilas en la niebla'",
+    "artista": "Sigourney Weaver confesión sobre ‘Gorilas en la niebla’",
+    "intro": "La actriz comenta su papel, la película y la situación actual de los gorilas de montaña, entre datos confirmados y rumores persistentes.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/sigourney-weaver-revela-su-vinculo-con-dian-fossey-y-el-legado-de-gori-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/sigourney-weaver-revela-su-vinculo-con-dian-fossey-y-el-legado-de-gori-1107.jpg",
+    "fecha": "2026-11-07T09:36:48.718354",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme internacional"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "José Eduardo Derbez y Paola Dalay anuncian separación",
     "artista": "José Eduardo Derbez",
@@ -5666,19 +5680,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El Charro Negro: El jinete maldito que cobra almas en la noche",
-    "artista": "",
-    "intro": "La figura que aparece se asocia con la leyenda del Charro Negro, un personaje del folclore mexicano cuya historia se remonta a relatos tradicionales y a su",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-charro-negro-el-jinete-maldito-que-cobra-almas-en-la-noche-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-charro-negro-el-jinete-maldito-que-cobra-almas-en-la-noche-1029.jpg",
-    "fecha": "2026-10-29T09:00:16",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Terror y misterio",
-    "archivo": true
   }
 ]
