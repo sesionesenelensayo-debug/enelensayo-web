@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "La Mansión VIP 2 de HotSpanish: fe y detalles",
+    "artista": "HotSpanish",
+    "intro": "La segunda temporada del reality de HotSpanish, La Mansión VIP 2, se estrena el domingo 8 de noviembre de 2026 a las 20:00 (hora del centro de México).",
+    "telegraph_url": "https://telegra.ph/La-Mansión-VIP-2-de-HotSpanish-fe-y-detalles-11-07",
+    "url": "https://enelensayomedia.com/notas/la-mansion-vip-2-de-hotspanish-fe-y-detalles-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-mansion-vip-2-de-hotspanish-fe-y-detalles-1107.jpg",
+    "fecha": "2026-11-07T17:52:25.331869",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Thalía rompe con Gaby Herrera",
     "artista": "Thalía",
     "intro": "Se reporta la ruptura definitiva entre Chávarri y Thalía Bentín tras una polémica que involucró a Gaby Herrera.",
@@ -5699,18 +5713,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Franco Escamilla lleva su show 'El Juicio' al Auditorio Nacional el 6 de febrero de 2027",
-    "artista": "",
-    "intro": "El comediante mexicano regresa a CDMX con su nuevo espectáculo de stand up en el Auditorio Nacional.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/franco-escamilla-lleva-su-show-el-juicio-al-auditorio-nacional-el-6-de-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/franco-escamilla-lleva-su-show-el-juicio-al-auditorio-nacional-el-6-de-1029.jpg",
-    "fecha": "2026-10-29T18:34:04",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
   }
 ]
