@@ -1,5 +1,5 @@
 {
- "Cultura": {
+ "Música": {
   "shorts": [
    {
     "id": "5XBpySl_-QA",
@@ -8,30 +8,84 @@
     "nota": "https://enelensayomedia.com/notas/cartel-del-vive-latino-2027-edad-media-paises-y-quienes-estan-en-el-to-1106.html"
    },
    {
-    "id": "P6ueUCN25xI",
-    "titulo": "Fallece la actriz y comediante mexicana María Alicia Delgado a los 77 años",
-    "fecha": "2026-11-05",
-    "nota": "https://enelensayomedia.com/notas/fallece-la-actriz-y-comediante-mexicana-maria-alicia-delgado-a-los-77-1104.html"
+    "id": "kyY4lQuk2ew",
+    "titulo": "Maluma anuncia su gira mundial Loco X Volver para 2027 y 2028",
+    "fecha": "2026-11-06",
+    "nota": "https://enelensayomedia.com/notas/maluma-anuncia-su-gira-mundial-loco-x-volver-para-2027-y-2028-1106.html"
    },
    {
-    "id": "x4tM34vViHg",
-    "titulo": "Jardín Escénico ofrece concierto mexicano gratuito el 15 de septiembre en Chapultepec",
+    "id": "solKyBER0ZI",
+    "titulo": "Harry Styles: 37 por ciento de incremento en Madison Square",
+    "fecha": "2026-11-04",
+    "nota": "https://enelensayomedia.com/notas/harry-styles-37-por-ciento-de-incremento-en-madison-square-1104.html"
+   },
+   {
+    "id": "wMJx4ig3tIk",
+    "titulo": "El último concierto de los Beatles: interrupción y cinta perdida",
+    "fecha": "2026-11-02",
+    "nota": "https://enelensayomedia.com/notas/el-ultimo-concierto-de-los-beatles-interrupcion-y-cinta-perdida-1102.html"
+   },
+   {
+    "id": "c_vKnKXsVJI",
+    "titulo": "El concierto benéfico de 1985 que enlazó Londres y Filadelfia",
+    "fecha": "2026-11-02",
+    "nota": "https://enelensayomedia.com/notas/el-concierto-benefico-de-1985-que-enlazo-londres-y-filadelfia-1102.html"
+   },
+   {
+    "id": "ZoVKCyzD-ws",
+    "titulo": "El origen del primer videoclip moderno",
+    "fecha": "2026-11-02",
+    "nota": "https://enelensayomedia.com/notas/el-origen-del-primer-videoclip-moderno-1102.html"
+   },
+   {
+    "id": "5kJXNbhUP5M",
+    "titulo": "El álbum homónimo de Metallica casi destruye a la banda,",
+    "fecha": "2026-11-02",
+    "nota": "https://enelensayomedia.com/notas/el-album-homonimo-de-metallica-casi-destruye-a-la-banda-1102.html"
+   },
+   {
+    "id": "6_60VDpnofM",
+    "titulo": "El secreto detrás del éxito de Elvis: la rebeldía que forjó una leyenda",
+    "fecha": "2026-11-02",
+    "nota": "https://enelensayomedia.com/notas/el-secreto-detras-del-exito-de-elvis-la-rebeldia-que-forjo-una-leyenda-1102.html"
+   },
+   {
+    "id": "W7zo8yUqIYM",
+    "titulo": "El secreto detrás del éxito de Linkin Park y su álbum Hybrid Theory",
     "fecha": "2026-11-01",
-    "nota": "https://enelensayomedia.com/notas/jardin-escenico-ofrece-concierto-mexicano-gratuito-el-15-de-septiembre-1101.html"
+    "nota": "https://enelensayomedia.com/notas/el-secreto-detras-del-exito-de-linkin-park-y-su-album-hybrid-theory-1101.html"
    }
   ],
   "longs": [
    {
-    "id": "84V85h2hpXg",
-    "titulo": "El trágico incendio del Teatro Iroquois de Chicago y su legado en la seguridad",
-    "fecha": "2026-11-01",
-    "nota": "https://enelensayomedia.com/notas/el-tragico-incendio-del-teatro-iroquois-de-chicago-y-su-legado-en-la-s-1101.html"
+    "id": "EzMvNZnU4cc",
+    "titulo": "Rata Blanca: del demo independiente al estandarte del metal en español",
+    "fecha": "2026-11-03",
+    "nota": "https://enelensayomedia.com/notas/rata-blanca-del-demo-independiente-al-estandarte-del-metal-en-espanol-1103.html"
    },
    {
-    "id": "5WHj8dHRsk4",
-    "titulo": "Cómo arreglar toda tu vida en un día según Dan Koe",
-    "fecha": "2026-10-31",
-    "nota": "https://enelensayomedia.com/notas/como-arreglar-toda-tu-vida-en-1-dia-historia-completa-1031.html"
+    "id": "jR3_OvIe8dE",
+    "titulo": "Adele: la verdadera historia de la voz del siglo XXI",
+    "fecha": "2026-11-02",
+    "nota": "https://enelensayomedia.com/notas/la-verdadera-historia-de-la-voz-del-siglo-xxi-1102.html"
+   },
+   {
+    "id": "u-UOhlaEy9E",
+    "titulo": "Laura Branigan: El resurgimiento de 'Gloria' en un estadio de hockey",
+    "fecha": "2026-11-02",
+    "nota": "https://enelensayomedia.com/notas/laura-branigan-el-resurgimiento-de-gloria-en-un-estadio-de-hockey-1102.html"
+   },
+   {
+    "id": "plT7Wy4rtUc",
+    "titulo": "Tragedia de Cromañón: la noche que el rock argentino se volvió luto",
+    "fecha": "2026-11-02",
+    "nota": "https://enelensayomedia.com/notas/tragedia-de-cromanon-la-noche-que-el-rock-argentino-se-volvio-luto-1102.html"
+   },
+   {
+    "id": "OSrC_LP4TCw",
+    "titulo": "La vida, la música y el trágico final de Chester Bennington",
+    "fecha": "2026-11-01",
+    "nota": "https://enelensayomedia.com/notas/la-vida-la-musica-y-el-tragico-final-de-chester-bennington-1101.html"
    }
   ]
  },
@@ -112,96 +166,6 @@
   ],
   "longs": []
  },
- "Música": {
-  "shorts": [
-   {
-    "id": "kyY4lQuk2ew",
-    "titulo": "Maluma anuncia su gira mundial Loco X Volver para 2027 y 2028",
-    "fecha": "2026-11-06",
-    "nota": "https://enelensayomedia.com/notas/maluma-anuncia-su-gira-mundial-loco-x-volver-para-2027-y-2028-1106.html"
-   },
-   {
-    "id": "okNPyx0cFEQ",
-    "titulo": "Las cuentas y datos del cartel del Vive Latino 2027",
-    "fecha": "2026-11-06",
-    "nota": "https://enelensayomedia.com/notas/las-cuentas-y-datos-del-cartel-del-vive-latino-2027-1106.html"
-   },
-   {
-    "id": "solKyBER0ZI",
-    "titulo": "Harry Styles: 37 por ciento de incremento en Madison Square",
-    "fecha": "2026-11-04",
-    "nota": "https://enelensayomedia.com/notas/harry-styles-37-por-ciento-de-incremento-en-madison-square-1104.html"
-   },
-   {
-    "id": "wMJx4ig3tIk",
-    "titulo": "El último concierto de los Beatles: interrupción y cinta perdida",
-    "fecha": "2026-11-02",
-    "nota": "https://enelensayomedia.com/notas/el-ultimo-concierto-de-los-beatles-interrupcion-y-cinta-perdida-1102.html"
-   },
-   {
-    "id": "c_vKnKXsVJI",
-    "titulo": "El concierto benéfico de 1985 que enlazó Londres y Filadelfia",
-    "fecha": "2026-11-02",
-    "nota": "https://enelensayomedia.com/notas/el-concierto-benefico-de-1985-que-enlazo-londres-y-filadelfia-1102.html"
-   },
-   {
-    "id": "ZoVKCyzD-ws",
-    "titulo": "El origen del primer videoclip moderno",
-    "fecha": "2026-11-02",
-    "nota": "https://enelensayomedia.com/notas/el-origen-del-primer-videoclip-moderno-1102.html"
-   },
-   {
-    "id": "5kJXNbhUP5M",
-    "titulo": "El álbum homónimo de Metallica casi destruye a la banda,",
-    "fecha": "2026-11-02",
-    "nota": "https://enelensayomedia.com/notas/el-album-homonimo-de-metallica-casi-destruye-a-la-banda-1102.html"
-   },
-   {
-    "id": "6_60VDpnofM",
-    "titulo": "El secreto detrás del éxito de Elvis: la rebeldía que forjó una leyenda",
-    "fecha": "2026-11-02",
-    "nota": "https://enelensayomedia.com/notas/el-secreto-detras-del-exito-de-elvis-la-rebeldia-que-forjo-una-leyenda-1102.html"
-   },
-   {
-    "id": "W7zo8yUqIYM",
-    "titulo": "El secreto detrás del éxito de Linkin Park y su álbum Hybrid Theory",
-    "fecha": "2026-11-01",
-    "nota": "https://enelensayomedia.com/notas/el-secreto-detras-del-exito-de-linkin-park-y-su-album-hybrid-theory-1101.html"
-   }
-  ],
-  "longs": [
-   {
-    "id": "EzMvNZnU4cc",
-    "titulo": "Rata Blanca: del demo independiente al estandarte del metal en español",
-    "fecha": "2026-11-03",
-    "nota": "https://enelensayomedia.com/notas/rata-blanca-del-demo-independiente-al-estandarte-del-metal-en-espanol-1103.html"
-   },
-   {
-    "id": "jR3_OvIe8dE",
-    "titulo": "Adele: la verdadera historia de la voz del siglo XXI",
-    "fecha": "2026-11-02",
-    "nota": "https://enelensayomedia.com/notas/la-verdadera-historia-de-la-voz-del-siglo-xxi-1102.html"
-   },
-   {
-    "id": "u-UOhlaEy9E",
-    "titulo": "Laura Branigan: El resurgimiento de 'Gloria' en un estadio de hockey",
-    "fecha": "2026-11-02",
-    "nota": "https://enelensayomedia.com/notas/laura-branigan-el-resurgimiento-de-gloria-en-un-estadio-de-hockey-1102.html"
-   },
-   {
-    "id": "plT7Wy4rtUc",
-    "titulo": "Tragedia de Cromañón: la noche que el rock argentino se volvió luto",
-    "fecha": "2026-11-02",
-    "nota": "https://enelensayomedia.com/notas/tragedia-de-cromanon-la-noche-que-el-rock-argentino-se-volvio-luto-1102.html"
-   },
-   {
-    "id": "OSrC_LP4TCw",
-    "titulo": "La vida, la música y el trágico final de Chester Bennington",
-    "fecha": "2026-11-01",
-    "nota": "https://enelensayomedia.com/notas/la-vida-la-musica-y-el-tragico-final-de-chester-bennington-1101.html"
-   }
-  ]
- },
  "Cine": {
   "shorts": [
    {
@@ -244,17 +208,6 @@
     "titulo": "Café Tacvba lanzó su disco de versiones «Avalancha de Éxitos»",
     "fecha": "2026-11-05",
     "nota": "https://enelensayomedia.com/notas/cafe-tacvba-lanzo-su-disco-de-versiones-avalancha-de-exitos-1105.html"
-   }
-  ],
-  "longs": []
- },
- "Marvel y DCU": {
-  "shorts": [
-   {
-    "id": "zM9GZ5uo_L8",
-    "titulo": "DC Studios y el nuevo proyecto de Constantine",
-    "fecha": "2026-11-05",
-    "nota": "https://enelensayomedia.com/notas/dc-studios-y-el-nuevo-proyecto-de-constantine-1105.html"
    }
   ],
   "longs": []
@@ -406,6 +359,36 @@
     "titulo": "Alan Wilson: el genio ciego que revivió al blues y murió en el Club de los 27",
     "fecha": "2026-11-01",
     "nota": "https://enelensayomedia.com/notas/alan-wilson-el-genio-ciego-que-revivio-al-blues-y-murio-en-el-club-de-1101.html"
+   }
+  ]
+ },
+ "Cultura": {
+  "shorts": [
+   {
+    "id": "P6ueUCN25xI",
+    "titulo": "Fallece la actriz y comediante mexicana María Alicia Delgado a los 77 años",
+    "fecha": "2026-11-05",
+    "nota": "https://enelensayomedia.com/notas/fallece-la-actriz-y-comediante-mexicana-maria-alicia-delgado-a-los-77-1104.html"
+   },
+   {
+    "id": "x4tM34vViHg",
+    "titulo": "Jardín Escénico ofrece concierto mexicano gratuito el 15 de septiembre en Chapultepec",
+    "fecha": "2026-11-01",
+    "nota": "https://enelensayomedia.com/notas/jardin-escenico-ofrece-concierto-mexicano-gratuito-el-15-de-septiembre-1101.html"
+   }
+  ],
+  "longs": [
+   {
+    "id": "84V85h2hpXg",
+    "titulo": "El trágico incendio del Teatro Iroquois de Chicago y su legado en la seguridad",
+    "fecha": "2026-11-01",
+    "nota": "https://enelensayomedia.com/notas/el-tragico-incendio-del-teatro-iroquois-de-chicago-y-su-legado-en-la-s-1101.html"
+   },
+   {
+    "id": "5WHj8dHRsk4",
+    "titulo": "Cómo arreglar toda tu vida en un día según Dan Koe",
+    "fecha": "2026-10-31",
+    "nota": "https://enelensayomedia.com/notas/como-arreglar-toda-tu-vida-en-1-dia-historia-completa-1031.html"
    }
   ]
  },
