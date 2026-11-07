@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "La noche que intentaron matar a Rasputín en San Petersburgo",
+    "artista": "Caso de Rasputín, 1916, San Petersburgo (Rusia): el místico de la corte del zar Nicolás II fue asesinado por nobles que lo envenenaron, le dispararon y lo arrojaron al río Nevá; los informes de la autopsia y los relatos de los autores alimentaron la leyenda de que era casi imposible matarlo.",
+    "intro": "El 29 de diciembre de 1916 por la mañana, Grigori Rasputín recibió una llamada con una amenaza de muerte y, a las 11 p.m.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/la-noche-que-intentaron-matar-a-rasputin-en-san-petersburgo-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-noche-que-intentaron-matar-a-rasputin-en-san-petersburgo-1106.jpg",
+    "fecha": "2026-11-06T23:01:13.791832",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Terror y misterio"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "JK Rowling: del ícono literario a la controversia cultural",
     "artista": "J.K. Rowling",
     "intro": "La escritora británica atraviesa una década de disputas online, reacciones del sector y acciones legales que polarizan a lectores y activistas.",
@@ -5668,18 +5682,5 @@
     "views": 0,
     "categoria": "In memoriam",
     "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece Eric Bauza, la voz moderna de los Looney Tunes, a los 46 años",
-    "artista": "",
-    "intro": "El actor de doblaje canadiense murió el 25 de octubre en Los Ángeles; su familia confirmó la noticia y la causa fue una enfermedad cardiovascular hipertensiva.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fallece-eric-bauza-la-voz-moderna-de-los-looney-tunes-a-los-46-anos-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-eric-bauza-la-voz-moderna-de-los-looney-tunes-a-los-46-anos-1029.jpg",
-    "fecha": "2026-10-29T00:31:31",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]

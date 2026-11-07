@@ -26,11 +26,24 @@
 
   get('data/streaming.json').then(function (d) {
     var ss = d.streamers || [];
-    var hero = document.getElementById('stHero');
-    var kai = ss.filter(function (s) { return /kai-cenat|ishowspeed|ibai/.test(s.slug); });
-    hero.innerHTML = kai.map(function (s) {
-      return '<a class="st-big" href="' + esc((s.plataformas[0] || {}).url) + '" target="_blank" rel="noopener nofollow"><span class="st-big-t">' + esc(s.bandera) + ' ' + esc(s.pais) + '</span><b>' + esc(s.nombre) + '</b><small>' + esc(s.dato) + '</small></a>';
+    var bySlug = {}; ss.forEach(function (x) { bySlug[x.slug] = x; });
+    var M = function (n) { return n ? (n >= 1e6 ? (n / 1e6).toFixed(n >= 1e7 ? 1 : 2).replace(/\.?0+$/, '') + ' M' : Math.round(n / 1e3) + ' mil') : '—'; };
+    var dest = d.destacados || {};
+    var tarj = function (slug, i, cls) {
+      var s = bySlug[slug]; if (!s) return '';
+      var fila = (d.comparativa || []).filter(function (f) { return f.slug === slug; })[0] || {};
+      return '<a class="st-big st-b' + (i % 5) + '" href="' + esc((s.plataformas[0] || {}).url) + '" target="_blank" rel="noopener nofollow"><span class="st-big-t">' + esc(s.bandera) + ' ' + esc(s.pais) + '</span><b>' + esc(s.nombre) + '</b>' +
+        '<span class="st-big-n">' + M(fila.total) + '</span><small>seguidores · ' + esc((s.plataformas || []).map(function (p) { return p.nombre; }).join(' · ')) + '</small><span class="st-big-ir">Ir a su canal →</span></a>';
+    };
+    document.getElementById('stHeroMx').innerHTML = (dest.mexico || []).map(tarj).join('');
+    document.getElementById('stHeroEx').innerHTML = (dest.extranjeros || []).map(tarj).join('');
+    var comp = d.comparativa || [], max = Math.max.apply(null, comp.map(function (f) { return f.total; }).concat([1]));
+    document.getElementById('stTabla').innerHTML = comp.map(function (f, i) {
+      return '<tr><td>' + (i + 1) + '</td><td><a href="' + esc(f.url) + '" target="_blank" rel="noopener nofollow"><b>' + esc(f.nombre) + '</b></a><small>' + esc(f.bandera) + ' ' + esc(f.pais) + '</small></td>' +
+        '<td>' + M(f.twitch) + '</td><td>' + M(f.kick) + '</td><td>' + M(f.youtube) + '</td>' +
+        '<td class="st-tot"><b>' + M(f.total) + '</b><span class="st-barra"><i class="' + (f.mexicano ? 'mx' : 'ex') + '" style="width:' + Math.max(2, Math.round(f.total / max * 100)) + '%"></i></span></td></tr>';
     }).join('');
+    document.getElementById('stTablaAviso').textContent = 'Seguidores en Twitch, Kick y YouTube (verde: mexicanos · morado: extranjeros). El total suma las plataformas, así que hay audiencia repetida; “—” = no transmite ahí o no tenemos la cifra verificada. ' + (d.fuente_seguidores || '') + ', ' + (d.actualizado || '') + '.';
     var pinta = function (id) {
       var g = GRUPOS.filter(function (x) { return x.id === id; })[0];
       var el = document.getElementById('stFiltros');

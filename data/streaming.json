@@ -1,212 +1,7 @@
 {
- "actualizado": "2026-11-06 22:44",
+ "actualizado": "2026-11-06 22:56",
  "fuente": "Rankings de Streams Charts (vía Infobae, Movistar eSports, Dexerto y El Universal, 2026)",
  "streamers": [
-  {
-   "slug": "maestro-shifu",
-   "nombre": "Maestro Shifu",
-   "pais": "México",
-   "bandera": "🇲🇽",
-   "grupo": "mexico",
-   "plataformas": [
-    {
-     "nombre": "Kick",
-     "url": "https://kick.com/adrianozendejas32"
-    }
-   ],
-   "dato": "El mexicano más visto de Kick: #5 entre los hispanohablantes de 2026 (21 M de horas vistas, ene–sep) y más de 11 millones de seguidores en TikTok.",
-   "noticias": [
-    {
-     "titulo": "Adriano Zendejas 'Maestro Shifu' en antro Ambia por afterparty de Karol G en Monterrey",
-     "medio": "Reporte Indigo",
-     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNazVjc0QyZmVKWkpuMk0tem9hUlFJMHBpTFlmN29SUkxDS1Fyb3BFVUNabUtpNjRHTlBvcE9qQldPNEs0UURKTUJ1Q1pTYlBxLTZIY2lKWFJiWk5Hb29Za2V2S1VRaGY0bWRjLUdkOFBDWEhKVWhRWV9nZE9qTGZVTVRtY25aeF9La0ZjYUxWZk80bmUya1pzaDVjMFp1WE1ha1dPRHRnRGEzQV9aR3BYVTNab0VYdE9vU0NEUHFqOUJISGVWcmdiVzhDUkZXekhHV1liVlBQQlhXUFU?oc=5",
-     "fecha": "2026-11-06"
-    },
-    {
-     "titulo": "Lencho estrena “Shifu”, homenaje global al streamer Maestro Shifu",
-     "medio": "www.metrolibre.com",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYTQwNnJtUFEyNVExQlBXRThHanJHU2pkUWlIOHpOd3ZBY0RGcDRCV1VqWDdpa29pMUY3cUxJQkxUb3M5UVFlTmFTa0ItMXozNnctRHAyMzJmaFhqLWhTUU5hZDYwMWFfcHRJMGI3S2FkRzRyVTJMNDM2SWF3TWFTWUMyMG92RlA2VTJOVy01LUZzR3hPdkl4dC10c3ZqN28zaHB1cmQ1TFc3My1X?oc=5",
-     "fecha": "2026-11-03"
-    },
-    {
-     "titulo": "Adriano Zendejas Maestro Shifu sobre la muerte El Komanche",
-     "medio": "Infobae",
-     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRHMzOXNpMTc3S1FYaXYycDFMcFJlbWg3cFdHOUt5OUVZVnR3ZmV6aDA3NG5nNU0xMzd3Qk9oWUViWjBXSWJNQWZPOExOZUp0Y2NmUjB0Rko0RElkN08xS3pWa0o0OVRYRU1pSUJzZWJNSVE0WUUyS1c5ZC1abFQ3SFowcEZRby1sbXF5RjBmVnNHUUVmMmF6bHRpXzJPSEpBRjlvSFBPT3RVUmtwcnd4YVJydGpHZzl2cXRwS3F3?oc=5",
-     "fecha": "2026-10-26"
-    }
-   ]
-  },
-  {
-   "slug": "lonche",
-   "nombre": "Lonche de Huevito",
-   "pais": "México",
-   "bandera": "🇲🇽",
-   "grupo": "mexico",
-   "plataformas": [
-    {
-     "nombre": "Kick",
-     "url": "https://kick.com/lonche"
-    }
-   ],
-   "dato": "Con 1.2 millones de seguidores es de los canales con más seguidores de Kick (Streams Charts); Víctor Ordóñez tiene 24 años.",
-   "noticias": [
-    {
-     "titulo": "Sin apoyo del Ayuntamiento, Lonche de Huevito arranca bacheo en Los Mochis",
-     "medio": "Debate",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdTM2R3B4ZEI1SnRGcERKTTdUSnk4VEt2UnhkVWxtYjRwVjFOSmREcTJqcXc4amp5dlplNnMwT0VUQWtlOTMyM2ptbW9ieEFtVzNXdjFtSGhjVEhMZ183SkhoeDhtRlVxUHNSNmx3d2lJSEQteU5uZkJHd3YzcEhJWFVoaFdibkxoZ2lxaW16M1I3T0swejNjZUNMdmdBdHYwX1V3SjlFZ2hvVHZTSTJEZ2llTTdqYWd6YWhOT1FWVWZ2Qk5hSEhPamRKeEh5bDhRZXc?oc=5",
-     "fecha": "2026-11-06"
-    },
-    {
-     "titulo": "Lonche de Huevito anuncia sus planes para construir una plaza en Los Mochis | VIDEO",
-     "medio": "Luz Noticias",
-     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeEFVMW1QNkN6dEU2UXhRcGxnUUxxU2dTMVUwOHVtSGZQY29kT2hHbHQxR3B2TnBWTC1jT2FIU0dIMUNDZVc3LU1uQ0xvb3pGV2JiT3ZaUi1MLUFfYTlzVE10ejVET0pGVW5DVXBsTUxTNUZZV0tZbFVkQVhoVHVLblR3S2h0eGdubEFzUHgwQUFJZHpvbk9fWTdISnhqbmJtZ1poNnJrT1oxTl9LUFZyZnl6YUJ4RXEzakdUTFRndTNtMWs0aDhWVzFROHlDS1kxSnJnSzlTUdIB3AFBVV95cUxQdTdSMHozSjZLbEVBdHhzWFdMMHZ6ZklNLXU4VnBTaHg5R0owLVpPc3I1OGxpU3U3Q2ZfcW5xdkdTVkpoby1Rcl9fZzZYMmVieFB5bHZFTDdFdG1EVFpJWTZ1Ml8xZmhIaU8xMEgzZVJUdVpQNzZoSjhURWhvXzZtVkgwX3FsZloyVy1oRlZYbDdxNjRvSC1rZVF4UE1nMXFMSXBjSmc5cmR0T2xoVVluTFEwT2RNdjduUVZnSWc5MWNYbEhuM2tBVEdlVF90TU51bFNQbml6TGw0TlNE?oc=5",
-     "fecha": "2026-11-03"
-    }
-   ]
-  },
-  {
-   "slug": "aldo-geo",
-   "nombre": "aldo_geo",
-   "pais": "México",
-   "bandera": "🇲🇽",
-   "grupo": "mexico",
-   "plataformas": [
-    {
-     "nombre": "Twitch",
-     "url": "https://www.twitch.tv/aldo_geo"
-    }
-   ],
-   "dato": "El mexicano más visto de Twitch: 1.47 M de horas vistas en mayo de 2026, #7 entre los hispanohablantes de ese mes.",
-   "noticias": []
-  },
-  {
-   "slug": "kingteka",
-   "nombre": "KingTeka",
-   "pais": "México",
-   "bandera": "🇲🇽",
-   "grupo": "mexico",
-   "plataformas": [
-    {
-     "nombre": "Kick",
-     "url": "https://kick.com/kingteka"
-    }
-   ],
-   "dato": "#10 entre los hispanohablantes más vistos de 2026 (15.6 M de horas, ene–sep).",
-   "noticias": []
-  },
-  {
-   "slug": "elabrahaham",
-   "nombre": "ElAbrahaham",
-   "pais": "México",
-   "bandera": "🇲🇽",
-   "grupo": "mexico",
-   "plataformas": [
-    {
-     "nombre": "YouTube",
-     "url": "https://www.youtube.com/@ElAbrahaham"
-    },
-    {
-     "nombre": "Twitch",
-     "url": "https://www.twitch.tv/elabrahaham"
-    }
-   ],
-   "dato": "#7 de LATAM en 2025 por horas vistas (28 M) en YouTube y Twitch.",
-   "noticias": []
-  },
-  {
-   "slug": "arigameplays",
-   "nombre": "AriGameplays",
-   "pais": "México",
-   "bandera": "🇲🇽",
-   "grupo": "mexico",
-   "plataformas": [
-    {
-     "nombre": "Twitch",
-     "url": "https://www.twitch.tv/arigameplays"
-    },
-    {
-     "nombre": "YouTube",
-     "url": "https://www.youtube.com/@ArigameplaysYT"
-    }
-   ],
-   "dato": "",
-   "noticias": [
-    {
-     "titulo": "“Nadie me preparó para este dolor”: la desgarradora despedida de AriGameplays a El Komanche",
-     "medio": "Excélsior",
-     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcDVFMDE0VWJ0STFmekVveFBUY2VqeHY4TkRkSVd5aXNoaG5DRk5vSFRjYVNteWQ5a0h2OV9fQXUwNy1uS0FJd1NwNmpPdVkwUVNUZzZ0dzZScDFnUVV2b0NHMTBxQjdzNDlueE5zdjUyMDlZei12dnFWaEUzaUZMMGdlNkoxalMybVBDNmsxVUJJWHVSblZJbmNFNjZMU2xKOTRYekNvLTFDR1l2NjE0cS0tN2PSAboBQVVfeXFMTWJpV3lYUURBeXVDWGFCM3lCVTVQUm1Pd0xVdlFYc2FkRzhzbDdoRE5ZQ3VzMnlKUFBXRFBPTnNpaHBCWVFCNGxFckU4WDBZUDBmMTBJLVZKYWdfb0RWTHo0Z2swZUMzbjRyV3ZJWTViV3hGS0MxaWJRc2FMdWR5Zk1GaXNaSkxSbFNpbUd0NWJZekREc05CRXV2M0cySUhEc1prRExRTHNXUlZUWjctS2JrenpqSmlObllR?oc=5",
-     "fecha": "2026-10-27"
-    },
-    {
-     "titulo": "Arigameplays rompe el silencio tras la muerte de 'El Komanche': “nadie me preparó para vivir con el dolor de ya no tenerte”",
-     "medio": "El Heraldo de México",
-     "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNT0hUR3doUE9DaExGQnZqUlFCUGRmOFQtYkZsU29PNmtjRmphX051SngtSnF0NmtHRkRoNlQ2RkVPZ0dYZENSNHhIMm93TThrRmlDX2RrQlp1SEhVWTZSdk15Y3ZlemdZWUw0QXVLV18wM21fTEJQS0RDWlc5ODRzVm1ZLWxjSTd4eDVVN3pOd0hhQndZWjdINVFVQ2xVUF9VLTVWUFlYeC1hUW1GYU5DRUtNemN2VnB0eFprcnV0MC1DUmFQTmFjeWlMazJMVUpFa1A3SkhQN1hucGtMWHZKZUphaHhuaGRnQWZHbTNtMXZ3Z2ktQkZUTTdFVWsxdkR4cXgweS1wemFNQTI2cmpVR1BSVQ?oc=5",
-     "fecha": "2026-10-27"
-    },
-    {
-     "titulo": "Despide AriGameplays a Komanche con emotivo mensaje",
-     "medio": "Netnoticias",
-     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSHR6dWQ2T290cU1zdC1kZUk5Y2J1S29lcDhFeWtxQlpvSkxCY3lpRHc5WWRoa2RDZ0h6LW9IOWpXNVlGWUhiVUN5RlVzMWJEakc0ZlVTQ2hBRENLMzdnMThCbkRJbWUxaUUzUkNkRG1mQUhwZ3BHNHp1bVBUZE5uYlBkR0NvMEVBVjQxQ2JOQWQ?oc=5",
-     "fecha": "2026-10-27"
-    }
-   ]
-  },
-  {
-   "slug": "domelipa",
-   "nombre": "Domelipa",
-   "pais": "México",
-   "bandera": "🇲🇽",
-   "grupo": "mexico",
-   "plataformas": [
-    {
-     "nombre": "Twitch",
-     "url": "https://www.twitch.tv/domelipa"
-    }
-   ],
-   "dato": "",
-   "noticias": []
-  },
-  {
-   "slug": "el-mariana",
-   "nombre": "El Mariana",
-   "pais": "México",
-   "bandera": "🇲🇽",
-   "grupo": "mexico",
-   "plataformas": [
-    {
-     "nombre": "Twitch",
-     "url": "https://www.twitch.tv/elmariana"
-    }
-   ],
-   "dato": "",
-   "noticias": [
-    {
-     "titulo": "El mensaje de El Mariana tras la muerte de Komanche que conmueve a sus seguidores",
-     "medio": "Infobae",
-     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPXzdoYTZlLWhVRXRaR3MtZnNlZEo4d2hFbjM2a3FUa3JFSkZuNWNnU285STZSNDZUY082SjFmRm05UUcwSWxJaHEtd2JZeEduRVFFbmt5OEpFU240TzJGOVVNRDJqRGNtUXZGVldvWTM5YlJkeDJieGhoSHJTTlV6T2lMVTE4dkktQTFWZlcxRzluMUkyNUNWUk12MF9zMzlYd3VGTlQwb2ZqNGxCbDNqTHo2NXNhdkd4MUZvZHlIUkxkZ9IB3AFBVV95cUxObDZCcGM1d3JseFc0Y2VQNVhUODV0MUgxWkJEbFo4OWd4VG1XeVpFcGhTYjVpYjFQblRiT1FZRGJSTjdZTEx4S0hpY1FTNnpfOGZ2WFRHSDZmVS1qXzRydEpkajBHYmdPOVJ1SXdlc3FfTDhiZzRWeFBEbWdnMkhzRkFnUkw0czB4dzZXYkV4ZkVzTllFQkZtRm1STzZmcmhzY2NuZ0V4TTJoM19vWG5qVUN3Ni1fTllVbnNURVpLRl93aW9JWmdoem96X0FBZkFyMmlURUl6RkpsT09R?oc=5",
-     "fecha": "2026-10-27"
-    }
-   ]
-  },
-  {
-   "slug": "werevertumorro",
-   "nombre": "Werevertumorro",
-   "pais": "México",
-   "bandera": "🇲🇽",
-   "grupo": "mexico",
-   "plataformas": [
-    {
-     "nombre": "YouTube",
-     "url": "https://www.youtube.com/@werevertumorro"
-    },
-    {
-     "nombre": "Twitch",
-     "url": "https://www.twitch.tv/werevertumorro"
-    }
-   ],
-   "dato": "",
-   "noticias": []
-  },
   {
    "slug": "luisito-comunica",
    "nombre": "Luisito Comunica",
@@ -216,7 +11,8 @@
    "plataformas": [
     {
      "nombre": "YouTube",
-     "url": "https://www.youtube.com/@Luisitocomunica"
+     "url": "https://www.youtube.com/@Luisitocomunica",
+     "seguidores": 46000000
     }
    ],
    "dato": "",
@@ -242,6 +38,311 @@
    ]
   },
   {
+   "slug": "werevertumorro",
+   "nombre": "Werevertumorro",
+   "pais": "México",
+   "bandera": "🇲🇽",
+   "grupo": "mexico",
+   "plataformas": [
+    {
+     "nombre": "YouTube",
+     "url": "https://www.youtube.com/@werevertumorro",
+     "seguidores": 16500000
+    },
+    {
+     "nombre": "Twitch",
+     "url": "https://www.twitch.tv/werevertumorro",
+     "seguidores": 360549
+    }
+   ],
+   "dato": "",
+   "noticias": []
+  },
+  {
+   "slug": "elabrahaham",
+   "nombre": "ElAbrahaham",
+   "pais": "México",
+   "bandera": "🇲🇽",
+   "grupo": "mexico",
+   "plataformas": [
+    {
+     "nombre": "YouTube",
+     "url": "https://www.youtube.com/@ElAbrahaham",
+     "seguidores": 14100000
+    },
+    {
+     "nombre": "Twitch",
+     "url": "https://www.twitch.tv/elabrahaham",
+     "seguidores": 1740786
+    }
+   ],
+   "dato": "#7 de LATAM en 2025 por horas vistas (28 M) en YouTube y Twitch.",
+   "noticias": []
+  },
+  {
+   "slug": "el-mariana",
+   "nombre": "El Mariana",
+   "pais": "México",
+   "bandera": "🇲🇽",
+   "grupo": "mexico",
+   "plataformas": [
+    {
+     "nombre": "Twitch",
+     "url": "https://www.twitch.tv/elmariana",
+     "seguidores": 11202552
+    },
+    {
+     "nombre": "YouTube",
+     "url": "https://www.youtube.com/@ElMariana",
+     "seguidores": 1610000
+    }
+   ],
+   "dato": "",
+   "noticias": [
+    {
+     "titulo": "El mensaje de El Mariana tras la muerte de Komanche que conmueve a sus seguidores",
+     "medio": "Infobae",
+     "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPXzdoYTZlLWhVRXRaR3MtZnNlZEo4d2hFbjM2a3FUa3JFSkZuNWNnU285STZSNDZUY082SjFmRm05UUcwSWxJaHEtd2JZeEduRVFFbmt5OEpFU240TzJGOVVNRDJqRGNtUXZGVldvWTM5YlJkeDJieGhoSHJTTlV6T2lMVTE4dkktQTFWZlcxRzluMUkyNUNWUk12MF9zMzlYd3VGTlQwb2ZqNGxCbDNqTHo2NXNhdkd4MUZvZHlIUkxkZ9IB3AFBVV95cUxObDZCcGM1d3JseFc0Y2VQNVhUODV0MUgxWkJEbFo4OWd4VG1XeVpFcGhTYjVpYjFQblRiT1FZRGJSTjdZTEx4S0hpY1FTNnpfOGZ2WFRHSDZmVS1qXzRydEpkajBHYmdPOVJ1SXdlc3FfTDhiZzRWeFBEbWdnMkhzRkFnUkw0czB4dzZXYkV4ZkVzTllFQkZtRm1STzZmcmhzY2NuZ0V4TTJoM19vWG5qVUN3Ni1fTllVbnNURVpLRl93aW9JWmdoem96X0FBZkFyMmlURUl6RkpsT09R?oc=5",
+     "fecha": "2026-10-27"
+    }
+   ]
+  },
+  {
+   "slug": "arigameplays",
+   "nombre": "AriGameplays",
+   "pais": "México",
+   "bandera": "🇲🇽",
+   "grupo": "mexico",
+   "plataformas": [
+    {
+     "nombre": "Twitch",
+     "url": "https://www.twitch.tv/arigameplays",
+     "seguidores": 7239805
+    },
+    {
+     "nombre": "YouTube",
+     "url": "https://www.youtube.com/@Arigameplays",
+     "seguidores": 4040000
+    }
+   ],
+   "dato": "",
+   "noticias": [
+    {
+     "titulo": "“Nadie me preparó para este dolor”: la desgarradora despedida de AriGameplays a El Komanche",
+     "medio": "Excélsior",
+     "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcDVFMDE0VWJ0STFmekVveFBUY2VqeHY4TkRkSVd5aXNoaG5DRk5vSFRjYVNteWQ5a0h2OV9fQXUwNy1uS0FJd1NwNmpPdVkwUVNUZzZ0dzZScDFnUVV2b0NHMTBxQjdzNDlueE5zdjUyMDlZei12dnFWaEUzaUZMMGdlNkoxalMybVBDNmsxVUJJWHVSblZJbmNFNjZMU2xKOTRYekNvLTFDR1l2NjE0cS0tN2PSAboBQVVfeXFMTWJpV3lYUURBeXVDWGFCM3lCVTVQUm1Pd0xVdlFYc2FkRzhzbDdoRE5ZQ3VzMnlKUFBXRFBPTnNpaHBCWVFCNGxFckU4WDBZUDBmMTBJLVZKYWdfb0RWTHo0Z2swZUMzbjRyV3ZJWTViV3hGS0MxaWJRc2FMdWR5Zk1GaXNaSkxSbFNpbUd0NWJZekREc05CRXV2M0cySUhEc1prRExRTHNXUlZUWjctS2JrenpqSmlObllR?oc=5",
+     "fecha": "2026-10-27"
+    },
+    {
+     "titulo": "Arigameplays rompe el silencio tras la muerte de 'El Komanche': “nadie me preparó para vivir con el dolor de ya no tenerte”",
+     "medio": "El Heraldo de México",
+     "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNT0hUR3doUE9DaExGQnZqUlFCUGRmOFQtYkZsU29PNmtjRmphX051SngtSnF0NmtHRkRoNlQ2RkVPZ0dYZENSNHhIMm93TThrRmlDX2RrQlp1SEhVWTZSdk15Y3ZlemdZWUw0QXVLV18wM21fTEJQS0RDWlc5ODRzVm1ZLWxjSTd4eDVVN3pOd0hhQndZWjdINVFVQ2xVUF9VLTVWUFlYeC1hUW1GYU5DRUtNemN2VnB0eFprcnV0MC1DUmFQTmFjeWlMazJMVUpFa1A3SkhQN1hucGtMWHZKZUphaHhuaGRnQWZHbTNtMXZ3Z2ktQkZUTTdFVWsxdkR4cXgweS1wemFNQTI2cmpVR1BSVQ?oc=5",
+     "fecha": "2026-10-27"
+    },
+    {
+     "titulo": "Despide AriGameplays a Komanche con emotivo mensaje",
+     "medio": "Netnoticias",
+     "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSHR6dWQ2T290cU1zdC1kZUk5Y2J1S29lcDhFeWtxQlpvSkxCY3lpRHc5WWRoa2RDZ0h6LW9IOWpXNVlGWUhiVUN5RlVzMWJEakc0ZlVTQ2hBRENLMzdnMThCbkRJbWUxaUUzUkNkRG1mQUhwZ3BHNHp1bVBUZE5uYlBkR0NvMEVBVjQxQ2JOQWQ?oc=5",
+     "fecha": "2026-10-27"
+    }
+   ]
+  },
+  {
+   "slug": "rivers-gg",
+   "nombre": "Rivers_gg",
+   "pais": "México",
+   "bandera": "🇲🇽",
+   "grupo": "mexico",
+   "plataformas": [
+    {
+     "nombre": "Twitch",
+     "url": "https://www.twitch.tv/rivers_gg",
+     "seguidores": 7118870
+    },
+    {
+     "nombre": "YouTube",
+     "url": "https://www.youtube.com/@Rivers_gg",
+     "seguidores": 4670000
+    }
+   ],
+   "dato": "Samy Rivera: uno de los mexicanos más seguidos de Twitch.",
+   "noticias": []
+  },
+  {
+   "slug": "quackity",
+   "nombre": "Quackity",
+   "pais": "México",
+   "bandera": "🇲🇽",
+   "grupo": "mexico",
+   "plataformas": [
+    {
+     "nombre": "Twitch",
+     "url": "https://www.twitch.tv/quackity",
+     "seguidores": 6644062
+    },
+    {
+     "nombre": "YouTube",
+     "url": "https://www.youtube.com/@Quackity",
+     "seguidores": 6170000
+    }
+   ],
+   "dato": "Mexicano con millones de seguidores en Twitch y YouTube; creador del servidor de Minecraft QSMP.",
+   "noticias": [
+    {
+     "titulo": "Influencer Queen Buenrostro es señalada de haber “acosado” al youtuber Quackity",
+     "medio": "Baja News",
+     "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSjBkcWZpaFFCM2xQS0FRb0VaVkZoSDljT3l1NnpvT0RYNjRxUlNZMGp0eFZ1TWl1U1pSSW8xNXJJYW9JalV6WFE4TW9nVjBHSk84WDV5aU1DS3RKSVVFZFJKbHJ5a1pBUWptRHpITzVldENSblVoN2NiWW5RTlgwRWlScXlqSUE1c0xRMjZlOFNXWkNCVl81Y2ZPQ054SjNMVDh5UUdKd0lvQlBqYmFYdDVoT25OenRMSnc?oc=5",
+     "fecha": "2026-11-01"
+    }
+   ],
+   "img": "img/luchas/w-quackity.jpg",
+   "credito": "Foto: Leon Lush · CC BY 3.0 · Wikimedia Commons",
+   "credito_url": "https://commons.wikimedia.org/wiki/File:Quackity_2.jpg"
+  },
+  {
+   "slug": "aldo-geo",
+   "nombre": "aldo_geo",
+   "pais": "México",
+   "bandera": "🇲🇽",
+   "grupo": "mexico",
+   "plataformas": [
+    {
+     "nombre": "Twitch",
+     "url": "https://www.twitch.tv/aldo_geo",
+     "seguidores": 2189527
+    },
+    {
+     "nombre": "YouTube",
+     "url": "https://www.youtube.com/@aldo_geo",
+     "seguidores": 789000
+    }
+   ],
+   "dato": "El mexicano más visto de Twitch: 1.47 M de horas vistas en mayo de 2026, #7 entre los hispanohablantes de ese mes.",
+   "noticias": []
+  },
+  {
+   "slug": "lonche",
+   "nombre": "Lonche de Huevito",
+   "pais": "México",
+   "bandera": "🇲🇽",
+   "grupo": "mexico",
+   "plataformas": [
+    {
+     "nombre": "Kick",
+     "url": "https://kick.com/lonche",
+     "seguidores": 1338279
+    }
+   ],
+   "dato": "Con 1.2 millones de seguidores es de los canales con más seguidores de Kick (Streams Charts); Víctor Ordóñez tiene 24 años.",
+   "noticias": [
+    {
+     "titulo": "Sin apoyo del Ayuntamiento, Lonche de Huevito arranca bacheo en Los Mochis",
+     "medio": "Debate",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQdTM2R3B4ZEI1SnRGcERKTTdUSnk4VEt2UnhkVWxtYjRwVjFOSmREcTJqcXc4amp5dlplNnMwT0VUQWtlOTMyM2ptbW9ieEFtVzNXdjFtSGhjVEhMZ183SkhoeDhtRlVxUHNSNmx3d2lJSEQteU5uZkJHd3YzcEhJWFVoaFdibkxoZ2lxaW16M1I3T0swejNjZUNMdmdBdHYwX1V3SjlFZ2hvVHZTSTJEZ2llTTdqYWd6YWhOT1FWVWZ2Qk5hSEhPamRKeEh5bDhRZXc?oc=5",
+     "fecha": "2026-11-06"
+    },
+    {
+     "titulo": "Lonche de Huevito anuncia sus planes para construir una plaza en Los Mochis | VIDEO",
+     "medio": "Luz Noticias",
+     "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNeEFVMW1QNkN6dEU2UXhRcGxnUUxxU2dTMVUwOHVtSGZQY29kT2hHbHQxR3B2TnBWTC1jT2FIU0dIMUNDZVc3LU1uQ0xvb3pGV2JiT3ZaUi1MLUFfYTlzVE10ejVET0pGVW5DVXBsTUxTNUZZV0tZbFVkQVhoVHVLblR3S2h0eGdubEFzUHgwQUFJZHpvbk9fWTdISnhqbmJtZ1poNnJrT1oxTl9LUFZyZnl6YUJ4RXEzakdUTFRndTNtMWs0aDhWVzFROHlDS1kxSnJnSzlTUdIB3AFBVV95cUxQdTdSMHozSjZLbEVBdHhzWFdMMHZ6ZklNLXU4VnBTaHg5R0owLVpPc3I1OGxpU3U3Q2ZfcW5xdkdTVkpoby1Rcl9fZzZYMmVieFB5bHZFTDdFdG1EVFpJWTZ1Ml8xZmhIaU8xMEgzZVJUdVpQNzZoSjhURWhvXzZtVkgwX3FsZloyVy1oRlZYbDdxNjRvSC1rZVF4UE1nMXFMSXBjSmc5cmR0T2xoVVluTFEwT2RNdjduUVZnSWc5MWNYbEhuM2tBVEdlVF90TU51bFNQbml6TGw0TlNE?oc=5",
+     "fecha": "2026-11-03"
+    }
+   ]
+  },
+  {
+   "slug": "maestro-shifu",
+   "nombre": "Maestro Shifu",
+   "pais": "México",
+   "bandera": "🇲🇽",
+   "grupo": "mexico",
+   "plataformas": [
+    {
+     "nombre": "Kick",
+     "url": "https://kick.com/adrianozendejas32",
+     "seguidores": 1080180
+    }
+   ],
+   "dato": "El mexicano más visto de Kick: #5 entre los hispanohablantes de 2026 (21 M de horas vistas, ene–sep) y más de 11 millones de seguidores en TikTok.",
+   "noticias": [
+    {
+     "titulo": "Adriano Zendejas 'Maestro Shifu' en antro Ambia por afterparty de Karol G en Monterrey",
+     "medio": "Reporte Indigo",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNazVjc0QyZmVKWkpuMk0tem9hUlFJMHBpTFlmN29SUkxDS1Fyb3BFVUNabUtpNjRHTlBvcE9qQldPNEs0UURKTUJ1Q1pTYlBxLTZIY2lKWFJiWk5Hb29Za2V2S1VRaGY0bWRjLUdkOFBDWEhKVWhRWV9nZE9qTGZVTVRtY25aeF9La0ZjYUxWZk80bmUya1pzaDVjMFp1WE1ha1dPRHRnRGEzQV9aR3BYVTNab0VYdE9vU0NEUHFqOUJISGVWcmdiVzhDUkZXekhHV1liVlBQQlhXUFU?oc=5",
+     "fecha": "2026-11-06"
+    },
+    {
+     "titulo": "Lencho estrena “Shifu”, homenaje global al streamer Maestro Shifu",
+     "medio": "www.metrolibre.com",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYTQwNnJtUFEyNVExQlBXRThHanJHU2pkUWlIOHpOd3ZBY0RGcDRCV1VqWDdpa29pMUY3cUxJQkxUb3M5UVFlTmFTa0ItMXozNnctRHAyMzJmaFhqLWhTUU5hZDYwMWFfcHRJMGI3S2FkRzRyVTJMNDM2SWF3TWFTWUMyMG92RlA2VTJOVy01LUZzR3hPdkl4dC10c3ZqN28zaHB1cmQ1TFc3My1X?oc=5",
+     "fecha": "2026-11-03"
+    },
+    {
+     "titulo": "Adriano Zendejas Maestro Shifu sobre la muerte El Komanche",
+     "medio": "Infobae",
+     "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRHMzOXNpMTc3S1FYaXYycDFMcFJlbWg3cFdHOUt5OUVZVnR3ZmV6aDA3NG5nNU0xMzd3Qk9oWUViWjBXSWJNQWZPOExOZUp0Y2NmUjB0Rko0RElkN08xS3pWa0o0OVRYRU1pSUJzZWJNSVE0WUUyS1c5ZC1abFQ3SFowcEZRby1sbXF5RjBmVnNHUUVmMmF6bHRpXzJPSEpBRjlvSFBPT3RVUmtwcnd4YVJydGpHZzl2cXRwS3F3?oc=5",
+     "fecha": "2026-10-26"
+    }
+   ]
+  },
+  {
+   "slug": "mrstiventc",
+   "nombre": "MrStivenTC",
+   "pais": "Colombia",
+   "bandera": "🇨🇴",
+   "grupo": "latam",
+   "plataformas": [
+    {
+     "nombre": "Kick",
+     "url": "https://kick.com/mrstiventc",
+     "seguidores": 1933029
+    },
+    {
+     "nombre": "YouTube",
+     "url": "https://www.youtube.com/@MrStivenTC",
+     "seguidores": 12800000
+    }
+   ],
+   "dato": "1.9 M de seguidores en Kick; #7 del año hasta septiembre de 2026 (19.7 M de horas vistas).",
+   "noticias": []
+  },
+  {
+   "slug": "juan-guarnizo",
+   "nombre": "Juan Guarnizo",
+   "pais": "Colombia",
+   "bandera": "🇨🇴",
+   "grupo": "latam",
+   "plataformas": [
+    {
+     "nombre": "Twitch",
+     "url": "https://www.twitch.tv/juansguarnizo",
+     "seguidores": 11690608
+    }
+   ],
+   "dato": "Referente de Twitch en español: 1.2 M de horas vistas en mayo de 2026, #10 de ese mes.",
+   "noticias": []
+  },
+  {
+   "slug": "rdjavi",
+   "nombre": "RDJavi",
+   "pais": "República Dominicana",
+   "bandera": "🇩🇴",
+   "grupo": "latam",
+   "plataformas": [
+    {
+     "nombre": "Kick",
+     "url": "https://kick.com/rdjavi",
+     "seguidores": 1210235
+    },
+    {
+     "nombre": "YouTube",
+     "url": "https://www.youtube.com/@RDJavi",
+     "seguidores": 6650000
+    }
+   ],
+   "dato": "#9 de los hispanohablantes de 2026 (15.8 M de horas, ene–sep); 1.16 M de seguidores en Kick.",
+   "noticias": []
+  },
+  {
    "slug": "westcol",
    "nombre": "WestCOL",
    "pais": "Colombia",
@@ -250,7 +351,8 @@
    "plataformas": [
     {
      "nombre": "Kick",
-     "url": "https://kick.com/westcol"
+     "url": "https://kick.com/westcol",
+     "seguidores": 4687503
     }
    ],
    "dato": "El canal más seguido de Kick (4.5 M) y #2 de los hispanohablantes de 2026 (46 M de horas vistas, ene–sep).",
@@ -287,7 +389,8 @@
    "plataformas": [
     {
      "nombre": "Kick",
-     "url": "https://kick.com/davooxeneize"
+     "url": "https://kick.com/davooxeneize",
+     "seguidores": 2596678
     }
    ],
    "dato": "2.5 M de seguidores en Kick; #1 de mayo de 2026 (4.3 M de horas vistas) y #3 del año hasta septiembre (34 M).",
@@ -321,29 +424,11 @@
    "plataformas": [
     {
      "nombre": "Kick",
-     "url": "https://kick.com/lacobraaa"
+     "url": "https://kick.com/lacobraaa",
+     "seguidores": 2509561
     }
    ],
    "dato": "2.4 M de seguidores en Kick y #4 de los hispanohablantes de 2026 (27 M de horas vistas, ene–sep).",
-   "noticias": []
-  },
-  {
-   "slug": "mrstiventc",
-   "nombre": "MrStivenTC",
-   "pais": "Colombia",
-   "bandera": "🇨🇴",
-   "grupo": "latam",
-   "plataformas": [
-    {
-     "nombre": "Kick",
-     "url": "https://kick.com/mrstiventc"
-    },
-    {
-     "nombre": "YouTube",
-     "url": "https://www.youtube.com/@MrStivenTC"
-    }
-   ],
-   "dato": "1.9 M de seguidores en Kick; #7 del año hasta septiembre de 2026 (19.7 M de horas vistas).",
    "noticias": []
   },
   {
@@ -355,7 +440,8 @@
    "plataformas": [
     {
      "nombre": "Kick",
-     "url": "https://kick.com/spreen"
+     "url": "https://kick.com/spreen",
+     "seguidores": 2067236
     }
    ],
    "dato": "2 M de seguidores en Kick; #8 de los hispanohablantes de 2026 (17 M de horas, ene–sep).",
@@ -377,29 +463,11 @@
    "plataformas": [
     {
      "nombre": "Kick",
-     "url": "https://kick.com/elzeein"
+     "url": "https://kick.com/elzeein",
+     "seguidores": 2060646
     }
    ],
    "dato": "2 M de seguidores en Kick y #3 de LATAM en 2025 (40.8 M de horas vistas).",
-   "noticias": []
-  },
-  {
-   "slug": "rdjavi",
-   "nombre": "RDJavi",
-   "pais": "República Dominicana",
-   "bandera": "🇩🇴",
-   "grupo": "latam",
-   "plataformas": [
-    {
-     "nombre": "Kick",
-     "url": "https://kick.com/rdjavi"
-    },
-    {
-     "nombre": "YouTube",
-     "url": "https://www.youtube.com/@RDJavi"
-    }
-   ],
-   "dato": "#9 de los hispanohablantes de 2026 (15.8 M de horas, ene–sep); 1.16 M de seguidores en Kick.",
    "noticias": []
   },
   {
@@ -411,7 +479,8 @@
    "plataformas": [
     {
      "nombre": "Kick",
-     "url": "https://kick.com/robleis"
+     "url": "https://kick.com/robleis",
+     "seguidores": 1156927
     }
    ],
    "dato": "Más de 1 M de seguidores en Kick, entre los 20 canales más seguidos de la plataforma.",
@@ -426,51 +495,12 @@
    "plataformas": [
     {
      "nombre": "Kick",
-     "url": "https://kick.com/benjaz"
+     "url": "https://kick.com/benjaz",
+     "seguidores": 117662
     }
    ],
    "dato": "#9 de los hispanohablantes de mayo de 2026 (1.29 M de horas vistas en Kick).",
    "noticias": []
-  },
-  {
-   "slug": "juan-guarnizo",
-   "nombre": "Juan Guarnizo",
-   "pais": "Colombia",
-   "bandera": "🇨🇴",
-   "grupo": "latam",
-   "plataformas": [
-    {
-     "nombre": "Twitch",
-     "url": "https://www.twitch.tv/juansguarnizo"
-    }
-   ],
-   "dato": "Referente de Twitch en español: 1.2 M de horas vistas en mayo de 2026, #10 de ese mes.",
-   "noticias": []
-  },
-  {
-   "slug": "kai-cenat",
-   "nombre": "Kai Cenat",
-   "pais": "Estados Unidos",
-   "bandera": "🇺🇸",
-   "grupo": "internacional",
-   "plataformas": [
-    {
-     "nombre": "Twitch",
-     "url": "https://www.twitch.tv/kaicenat"
-    }
-   ],
-   "dato": "El rey de Twitch en EE. UU.: maratones de suscriptores récord y más de 20 millones de seguidores.",
-   "noticias": [
-    {
-     "titulo": "In 2022, AMP built its streaming base in Georgia; four years later, Kai Cenat's creator collective report",
-     "medio": "The Times of India",
-     "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQTXZGOWJVbDM5NDZ6TE9ScGM0WWdpQ0ZrUVJuc0JMdnE3V0VHakZwMWoxMHdhSUJYYXJxT3pzWnlnVUlsMlA5QmNFeGtwcDZmSDdZSzNUYTVjblZuTXE2YUZjSmo2aElMTERwbHN5T3pDU2tGMEZGVVNDbjdCY1VQYU1DZlZ6UFBzanRmOWpadXVkZjk5d3dxeDFPWFhpVV9TaGlXRmFnZFFJTWZoa0dHVTdodE5ZVGs3RXpubDU5WmtYb3UxT1lnQWFKQU1kU3hfcDZoSjFGQklRNHp6bmc5TFA0dmJoTEJFX3NLUVhsMFlfa0ZxOEsxMEdSY2R5anFQLVFFTTdvSzRZZFROeDVfWHpMNnQ0dDhEWmVDcGNNcGxKd2tnYmExY0NhZm1UajI4c2tKZGRpYTJpblhONHJQWXd6VnpieXBDY25pTXlYdy1NZFhZWndPMURUeDF2Z9IB4wJBVV95cUxQNFg2dzV0Sjd1cUpiaGxyZFIxbTc0eDN3bEU4VFRMMFhOSURBbWxRS0dnRzlQYmFBaFotWFhBbTlBandKcUVLZVFpaFZhMVZ6Z09iQU5YenEtak9lUFh0TUpJVl8xamU3c1dBWkM4MUp1M2Fwamc2NEFDUml2SmtzeFVEVndRaWNHWjM4cU1pLWJfUnFRU3lkS3dlNEQ2SV9MemZ4QURHRlBld0NZRUNrVldBVmtxU3BpTlVOWklFemJFdlg5NTM5UE9tVnBWWWY5aEQtRHhfYjFZRzhKaFQ1OGQwUVpSVDN0bWlXY2N5UlpaU1ZvVnB1Q2FFclFteXc2RkFZR1JhSVNWZThrT3RfWW1mY0paX3VpZHluMlM5dHlnWkFzTExqMnBrQnVpc3VZOWVsQ1J5SmQ4aHlZQkNWTTR4ZlZQdWY0NUpBVUxvTlloWkQ3SkRaemptaEFETkVYaHhn?oc=5",
-     "fecha": "2026-10-30"
-    }
-   ],
-   "img": "img/luchas/w-kai-cenat.jpg",
-   "credito": "Foto: ImDavisss Live · CC BY 3.0 · Wikimedia Commons",
-   "credito_url": "https://commons.wikimedia.org/wiki/File:Kai_Cenat_July_2025.jpg"
   },
   {
    "slug": "ishowspeed",
@@ -481,7 +511,8 @@
    "plataformas": [
     {
      "nombre": "YouTube",
-     "url": "https://www.youtube.com/@IShowSpeed"
+     "url": "https://www.youtube.com/@IShowSpeed",
+     "seguidores": 62200000
     }
    ],
    "dato": "Streamer del Año en los Esports Awards 2025; en 2026 vuelve a estar nominado.",
@@ -489,7 +520,7 @@
     {
      "titulo": "IShowSpeed conmueve al mundo con sus palabras y llanto por despedida de Cristiano",
      "medio": "Emisoras Unidas",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY1dJUUVVdlFPc3lKSWJxMlZQUVNlTkhRUl9SN0FzcVNpQlo2enJla0xkMTJENHp0UjRtSFhadWNKZ2NWcWlvUF9QSXJnU2RkRnF0Wkt2dWdVeFJ3M0s3cWNPem1ISHh3eXlsZklrZk9KMGlJWDZjVUdSam9lSUpLQnV0YVhpbHBtaDhZZGo4dUFybE1LMlhzdExjcDQwTld4Y1NtNFhpQ2F1UnVR0gG0AUFVX3lxTFBNYnlQbGsxVzBKMHVMN01RY0FDOUQyeU5kVVR0OFVFRXh6NTBoUTJsd19WTVpaandEWTVxUEx0eGsyX1FPeEFDMC1XX3VsREpLMjEwUVB1RXVNajNfTGlUQ25ubmRIY0ZRSUU1X0pYR2h6czRkVUliTmlfT0dNZmJpNDBmY1d4eTRTeDQ0a052Qy1hdUtUTGR1ejBtZy1lVzJXOENpanowLWN2MGUzaW5yeHJnbQ?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNY1dJUUVVdlFPc3lKSWJxMlZQUVNlTkhRUl9SN0FzcVNpQlo2enJla0xkMTJENHp0UjRtSFhadWNKZ2NWcWlvUF9QSXJnU2RkRnF0Wkt2dWdVeFJ3M0s3cWNPem1ISHh3eXlsZklrZk9KMGlJWDZjVUdSam9lSUpLQnV0YVhpbHBtaDhZZGo4dUFybE1LMlhzdExjcDQwTld4Y1NtNFhpQ2F1UnVR?oc=5",
      "fecha": "2026-11-06"
     },
     {
@@ -510,65 +541,6 @@
    "credito_url": "https://commons.wikimedia.org/wiki/File:IShowSpeed_at_Chinatown_(Portrait)_04.jpg"
   },
   {
-   "slug": "ibai",
-   "nombre": "Ibai",
-   "pais": "España",
-   "bandera": "🇪🇸",
-   "grupo": "internacional",
-   "plataformas": [
-    {
-     "nombre": "Twitch",
-     "url": "https://www.twitch.tv/ibai"
-    },
-    {
-     "nombre": "YouTube",
-     "url": "https://www.youtube.com/@IbaiLlanos"
-    }
-   ],
-   "dato": "#1 de los hispanohablantes de 2026 con 60 M de horas vistas (ene–sep); también muy seguido en México y toda LATAM.",
-   "noticias": [
-    {
-     "titulo": "Ibai Llanos quiere reventar el mercado con Movistar KOI: \"Si hace falta me 'peto' el límite salarial\"",
-     "medio": "MARCA",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNelRNRXFldXN2VWVXTUR0TjlRUWlzbHltejh6cTI3Tm5GY3M5UmhJUEg0dFBpWEtyN2EtOUo3MVlSQUpxXzBENG1LaUZIUUprWWxnVXl4NWJWbThtUkFiSFdNdHZjWlF4RFZWLThub3VLNklBSHloOS14MmRUbXdCTGVYVlpFZzV5LTYydDJTVC16aGtqdHhybU9ETjZXQnhUa2RIdWxvZzh3WGZIUWdJeG1aQXhVejRLMXdLT0lBODBUY3ZLWDdod0tSWkdqVFptWXfSAdIBQVVfeXFMT211Q2VmS1NLbllBNlZUbkJHQ1hqRl95V0p0ZFpPR0ExVWtEaTlFOG1RMUFiS2tOVllMcFdUM3p5S3RBa0tvREVROE5rcHBfMUNpelhEd2FaSkpNc2NfMFlERzA2eGgxLU85UGhDSzFEdl9YU1RpTXJRNzJOTEpUd2xrUzIzV0E2TmZWZXNYRmdvckpub0lVdThHZy12YlRscUVWa0UxRTZMWGVscS1uNWNNdWpqN3F5MXN0djRXa3g2Tll6Y2h2bWFwUjFUb0lub3ZB?oc=5",
-     "fecha": "2026-11-06"
-    },
-    {
-     "titulo": "Se llama Miguel, es español, y tiene más seguidores que Ibai Llanos, Auronplay y El Rubius: \"Paso desapercibido, puedo ir a hacer la compra tranquilo\"",
-     "medio": "El HuffPost",
-     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdzdDTWRVVXZKNHI5RWRneHNPR2pTRTNBaUdjbXl1M1I0LXRKaGlNaXk2Nzl5XzIzWHNYVVdCVU1XWmVYLW95V0ZJTU5OdzlrLUNCV2VEdVpPV1psWlUtMUJVcTc3NTFfZlNCZzJrd2VPQ3lGUTZ1dkp4NG9nZXFhOTNCbFpIX2ZsRTliVW5ObjdFZlNxQmNPakZuRVIyYXg5a2RtSzRhb9IBuwFBVV95cUxPNU80cTEtRXphdXNvb1gybmdEQnRId29EWDdibWpOODhHandtMFhpQVVaNkl5Y0lJMlE5dUtGZW1KcGx5aG9OVEx0djdEc2lOU2d6LVVRclpJSFZCMVZxbW1vT1BwZTNoWUZpSy14a0xnUjVabGFzaFpHdGVfTlNqS2FZMGI0OVJWRU4tdGdWc0lCVUtGNnpZdDZ6OW5NXy05SWFKWXhSSHVvNVhRb09reXc1cEFoUmdUdWQ0?oc=5",
-     "fecha": "2026-11-03"
-    },
-    {
-     "titulo": "La reliquia de Cristiano Ronaldo que Ibai Llanos compró por 30 mil euros",
-     "medio": "TyC Sports",
-     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYTJKeXgzWFItMkNDcENXZ1RZTm5QeUtzVXhZR0xPUm54UzV3Ym9fYlJTY3AzM0hiUERfU3hRb180SXFPRnhOMURaQzRtWlQ0Ql8yZXk0UmJyLWpvQ2h3cVhTVl9zUlVQdmloSktIemZSOVM1Q081Q0l1Qkp2U3R6bTlkOGdka2ZFdkNiLXV6bm55cDdzTzg3V1BFYmxmRnQydWZqN2tlbHhaWWR1TEdaN2lfSjl1WUJOakRZ?oc=5",
-     "fecha": "2026-11-02"
-    }
-   ],
-   "img": "img/luchas/w-ibai-llanos.jpg",
-   "credito": "Foto: Suzyroxx · CC BY 3.0 · Wikimedia Commons",
-   "credito_url": "https://commons.wikimedia.org/wiki/File:As%C3%AD_fue_la_Presentaci%C3%B3n_de_la_Velada_del_A%C3%B1o_5_24.jpg"
-  },
-  {
-   "slug": "rubius",
-   "nombre": "Rubius",
-   "pais": "España",
-   "bandera": "🇪🇸",
-   "grupo": "internacional",
-   "plataformas": [
-    {
-     "nombre": "Twitch",
-     "url": "https://www.twitch.tv/rubius"
-    }
-   ],
-   "dato": "#6 de los hispanohablantes de 2026 (19.9 M de horas, ene–sep) y gran audiencia latinoamericana.",
-   "noticias": [],
-   "img": "img/luchas/w-rubius.jpg",
-   "credito": "Foto: Moritz Barcelona from Barcelona, Catalunya · CC BY 2.0 · Wikimedia Commons",
-   "credito_url": "https://commons.wikimedia.org/wiki/File:El_Rubius_en_el_Festival_de_cinema_de_Sitges_2018_(recorte).jpg"
-  },
-  {
    "slug": "auronplay",
    "nombre": "AuronPlay",
    "pais": "España",
@@ -577,11 +549,13 @@
    "plataformas": [
     {
      "nombre": "Twitch",
-     "url": "https://www.twitch.tv/auronplay"
+     "url": "https://www.twitch.tv/auronplay",
+     "seguidores": 17157895
     },
     {
      "nombre": "YouTube",
-     "url": "https://www.youtube.com/@AuronPlay"
+     "url": "https://www.youtube.com/@AuronPlay",
+     "seguidores": 29100000
     }
    ],
    "dato": "Uno de los grandes de Twitch en español; Streams Charts lo ve subiendo en 2026.",
@@ -610,6 +584,80 @@
    "credito_url": "https://commons.wikimedia.org/wiki/File:AuronPlay_(2014).jpg"
   },
   {
+   "slug": "kai-cenat",
+   "nombre": "Kai Cenat",
+   "pais": "Estados Unidos",
+   "bandera": "🇺🇸",
+   "grupo": "internacional",
+   "plataformas": [
+    {
+     "nombre": "Twitch",
+     "url": "https://www.twitch.tv/kaicenat",
+     "seguidores": 21935029
+    },
+    {
+     "nombre": "YouTube",
+     "url": "https://www.youtube.com/@KaiCenat",
+     "seguidores": 8260000
+    }
+   ],
+   "dato": "El rey de Twitch en EE. UU.: maratones de suscriptores récord y más de 20 millones de seguidores.",
+   "noticias": [
+    {
+     "titulo": "In 2022, AMP built its streaming base in Georgia; four years later, Kai Cenat's creator collective report",
+     "medio": "The Times of India",
+     "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxQTXZGOWJVbDM5NDZ6TE9ScGM0WWdpQ0ZrUVJuc0JMdnE3V0VHakZwMWoxMHdhSUJYYXJxT3pzWnlnVUlsMlA5QmNFeGtwcDZmSDdZSzNUYTVjblZuTXE2YUZjSmo2aElMTERwbHN5T3pDU2tGMEZGVVNDbjdCY1VQYU1DZlZ6UFBzanRmOWpadXVkZjk5d3dxeDFPWFhpVV9TaGlXRmFnZFFJTWZoa0dHVTdodE5ZVGs3RXpubDU5WmtYb3UxT1lnQWFKQU1kU3hfcDZoSjFGQklRNHp6bmc5TFA0dmJoTEJFX3NLUVhsMFlfa0ZxOEsxMEdSY2R5anFQLVFFTTdvSzRZZFROeDVfWHpMNnQ0dDhEWmVDcGNNcGxKd2tnYmExY0NhZm1UajI4c2tKZGRpYTJpblhONHJQWXd6VnpieXBDY25pTXlYdy1NZFhZWndPMURUeDF2Z9IB4wJBVV95cUxQNFg2dzV0Sjd1cUpiaGxyZFIxbTc0eDN3bEU4VFRMMFhOSURBbWxRS0dnRzlQYmFBaFotWFhBbTlBandKcUVLZVFpaFZhMVZ6Z09iQU5YenEtak9lUFh0TUpJVl8xamU3c1dBWkM4MUp1M2Fwamc2NEFDUml2SmtzeFVEVndRaWNHWjM4cU1pLWJfUnFRU3lkS3dlNEQ2SV9MemZ4QURHRlBld0NZRUNrVldBVmtxU3BpTlVOWklFemJFdlg5NTM5UE9tVnBWWWY5aEQtRHhfYjFZRzhKaFQ1OGQwUVpSVDN0bWlXY2N5UlpaU1ZvVnB1Q2FFclFteXc2RkFZR1JhSVNWZThrT3RfWW1mY0paX3VpZHluMlM5dHlnWkFzTExqMnBrQnVpc3VZOWVsQ1J5SmQ4aHlZQkNWTTR4ZlZQdWY0NUpBVUxvTlloWkQ3SkRaemptaEFETkVYaHhn?oc=5",
+     "fecha": "2026-10-30"
+    }
+   ],
+   "img": "img/luchas/w-kai-cenat.jpg",
+   "credito": "Foto: ImDavisss Live · CC BY 3.0 · Wikimedia Commons",
+   "credito_url": "https://commons.wikimedia.org/wiki/File:Kai_Cenat_July_2025.jpg"
+  },
+  {
+   "slug": "ibai",
+   "nombre": "Ibai",
+   "pais": "España",
+   "bandera": "🇪🇸",
+   "grupo": "internacional",
+   "plataformas": [
+    {
+     "nombre": "Twitch",
+     "url": "https://www.twitch.tv/ibai",
+     "seguidores": 20332427
+    },
+    {
+     "nombre": "YouTube",
+     "url": "https://www.youtube.com/@IbaiLlanos",
+     "seguidores": 17400000
+    }
+   ],
+   "dato": "#1 de los hispanohablantes de 2026 con 60 M de horas vistas (ene–sep); también muy seguido en México y toda LATAM.",
+   "noticias": [
+    {
+     "titulo": "Ibai Llanos quiere reventar el mercado con Movistar KOI: \"Si hace falta me 'peto' el límite salarial\"",
+     "medio": "MARCA",
+     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNelRNRXFldXN2VWVXTUR0TjlRUWlzbHltejh6cTI3Tm5GY3M5UmhJUEg0dFBpWEtyN2EtOUo3MVlSQUpxXzBENG1LaUZIUUprWWxnVXl4NWJWbThtUkFiSFdNdHZjWlF4RFZWLThub3VLNklBSHloOS14MmRUbXdCTGVYVlpFZzV5LTYydDJTVC16aGtqdHhybU9ETjZXQnhUa2RIdWxvZzh3WGZIUWdJeG1aQXhVejRLMXdLT0lBODBUY3ZLWDdod0tSWkdqVFptWXfSAdIBQVVfeXFMT211Q2VmS1NLbllBNlZUbkJHQ1hqRl95V0p0ZFpPR0ExVWtEaTlFOG1RMUFiS2tOVllMcFdUM3p5S3RBa0tvREVROE5rcHBfMUNpelhEd2FaSkpNc2NfMFlERzA2eGgxLU85UGhDSzFEdl9YU1RpTXJRNzJOTEpUd2xrUzIzV0E2TmZWZXNYRmdvckpub0lVdThHZy12YlRscUVWa0UxRTZMWGVscS1uNWNNdWpqN3F5MXN0djRXa3g2Tll6Y2h2bWFwUjFUb0lub3ZB?oc=5",
+     "fecha": "2026-11-06"
+    },
+    {
+     "titulo": "Se llama Miguel, es español, y tiene más seguidores que Ibai Llanos, Auronplay y El Rubius: \"Paso desapercibido, puedo ir a hacer la compra tranquilo\"",
+     "medio": "El HuffPost",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdzdDTWRVVXZKNHI5RWRneHNPR2pTRTNBaUdjbXl1M1I0LXRKaGlNaXk2Nzl5XzIzWHNYVVdCVU1XWmVYLW95V0ZJTU5OdzlrLUNCV2VEdVpPV1psWlUtMUJVcTc3NTFfZlNCZzJrd2VPQ3lGUTZ1dkp4NG9nZXFhOTNCbFpIX2ZsRTliVW5ObjdFZlNxQmNPakZuRVIyYXg5a2RtSzRhb9IBuwFBVV95cUxPNU80cTEtRXphdXNvb1gybmdEQnRId29EWDdibWpOODhHandtMFhpQVVaNkl5Y0lJMlE5dUtGZW1KcGx5aG9OVEx0djdEc2lOU2d6LVVRclpJSFZCMVZxbW1vT1BwZTNoWUZpSy14a0xnUjVabGFzaFpHdGVfTlNqS2FZMGI0OVJWRU4tdGdWc0lCVUtGNnpZdDZ6OW5NXy05SWFKWXhSSHVvNVhRb09reXc1cEFoUmdUdWQ0?oc=5",
+     "fecha": "2026-11-03"
+    },
+    {
+     "titulo": "La reliquia de Cristiano Ronaldo que Ibai Llanos compró por 30 mil euros",
+     "medio": "TyC Sports",
+     "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYTJKeXgzWFItMkNDcENXZ1RZTm5QeUtzVXhZR0xPUm54UzV3Ym9fYlJTY3AzM0hiUERfU3hRb180SXFPRnhOMURaQzRtWlQ0Ql8yZXk0UmJyLWpvQ2h3cVhTVl9zUlVQdmloSktIemZSOVM1Q081Q0l1Qkp2U3R6bTlkOGdka2ZFdkNiLXV6bm55cDdzTzg3V1BFYmxmRnQydWZqN2tlbHhaWWR1TEdaN2lfSjl1WUJOakRZ?oc=5",
+     "fecha": "2026-11-02"
+    }
+   ],
+   "img": "img/luchas/w-ibai-llanos.jpg",
+   "credito": "Foto: Suzyroxx · CC BY 3.0 · Wikimedia Commons",
+   "credito_url": "https://commons.wikimedia.org/wiki/File:As%C3%AD_fue_la_Presentaci%C3%B3n_de_la_Velada_del_A%C3%B1o_5_24.jpg"
+  },
+  {
    "slug": "thegrefg",
    "nombre": "TheGrefg",
    "pais": "España",
@@ -618,11 +666,13 @@
    "plataformas": [
     {
      "nombre": "Twitch",
-     "url": "https://www.twitch.tv/thegrefg"
+     "url": "https://www.twitch.tv/thegrefg",
+     "seguidores": 12297898
     },
     {
      "nombre": "YouTube",
-     "url": "https://www.youtube.com/@TheGrefg"
+     "url": "https://www.youtube.com/@TheGrefg",
+     "seguidores": 19900000
     }
    ],
    "dato": "Dueño de uno de los récords históricos de audiencia en Twitch.",
@@ -651,6 +701,25 @@
    "credito_url": "https://commons.wikimedia.org/wiki/File:TheGrefg_en_el_torneo_de_p%C3%A1del_de_Ibai_(2021).png"
   },
   {
+   "slug": "rubius",
+   "nombre": "Rubius",
+   "pais": "España",
+   "bandera": "🇪🇸",
+   "grupo": "internacional",
+   "plataformas": [
+    {
+     "nombre": "Twitch",
+     "url": "https://www.twitch.tv/rubius",
+     "seguidores": 16627774
+    }
+   ],
+   "dato": "#6 de los hispanohablantes de 2026 (19.9 M de horas, ene–sep) y gran audiencia latinoamericana.",
+   "noticias": [],
+   "img": "img/luchas/w-rubius.jpg",
+   "credito": "Foto: Moritz Barcelona from Barcelona, Catalunya · CC BY 2.0 · Wikimedia Commons",
+   "credito_url": "https://commons.wikimedia.org/wiki/File:El_Rubius_en_el_Festival_de_cinema_de_Sitges_2018_(recorte).jpg"
+  },
+  {
    "slug": "xqc",
    "nombre": "xQc",
    "pais": "Canadá",
@@ -659,11 +728,13 @@
    "plataformas": [
     {
      "nombre": "Kick",
-     "url": "https://kick.com/xqc"
+     "url": "https://kick.com/xqc",
+     "seguidores": 1523139
     },
     {
      "nombre": "Twitch",
-     "url": "https://www.twitch.tv/xqc"
+     "url": "https://www.twitch.tv/xqc",
+     "seguidores": 12648414
     }
    ],
    "dato": "1.4 M de seguidores en Kick, entre los 15 más seguidos.",
@@ -681,7 +752,8 @@
    "plataformas": [
     {
      "nombre": "Kick",
-     "url": "https://kick.com/adinross"
+     "url": "https://kick.com/adinross",
+     "seguidores": 2898789
     }
    ],
    "dato": "El segundo canal más seguido de Kick (2.8 M) y la cara de la plataforma en EE. UU.",
@@ -728,5 +800,154 @@
    "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRS1UeDY0TzFBUC1xWUlWX2lodFNKX2ZLbFhWejZXTDRxS1JtYXZPX1pDeC13NlZWWnVrR2RwbUZPRWZUS3RqMHVuUFdBeWlHTVZVaXJZTzBYWkQtc3dNUGhEQ0czak96SUdSWFc4TXlDZVNPUV9lSENYalp6NDZkOHRkdVg3WjFiRFN0SXpsMzIxTzVCbktHQjJ3T2ZrbU9TMm1XU0djWHI3YTZxLVBESU16ZXZlVGVOQkE?oc=5",
    "fecha": "2026-11-01"
   }
- ]
+ ],
+ "destacados": {
+  "mexico": [
+   "el-mariana",
+   "arigameplays",
+   "rivers-gg",
+   "quackity",
+   "aldo-geo"
+  ],
+  "extranjeros": [
+   "kai-cenat",
+   "ishowspeed",
+   "ibai",
+   "auronplay",
+   "rubius"
+  ]
+ },
+ "comparativa": [
+  {
+   "slug": "ishowspeed",
+   "nombre": "IShowSpeed",
+   "pais": "Estados Unidos",
+   "bandera": "🇺🇸",
+   "mexicano": false,
+   "twitch": 0,
+   "kick": 0,
+   "youtube": 62200000,
+   "total": 62200000,
+   "url": "https://www.youtube.com/@IShowSpeed",
+   "img": "img/luchas/w-ishowspeed.jpg"
+  },
+  {
+   "slug": "auronplay",
+   "nombre": "AuronPlay",
+   "pais": "España",
+   "bandera": "🇪🇸",
+   "mexicano": false,
+   "twitch": 17157895,
+   "kick": 0,
+   "youtube": 29100000,
+   "total": 46257895,
+   "url": "https://www.twitch.tv/auronplay",
+   "img": "img/luchas/w-auronplay.jpg"
+  },
+  {
+   "slug": "ibai",
+   "nombre": "Ibai",
+   "pais": "España",
+   "bandera": "🇪🇸",
+   "mexicano": false,
+   "twitch": 20332427,
+   "kick": 0,
+   "youtube": 17400000,
+   "total": 37732427,
+   "url": "https://www.twitch.tv/ibai",
+   "img": "img/luchas/w-ibai-llanos.jpg"
+  },
+  {
+   "slug": "kai-cenat",
+   "nombre": "Kai Cenat",
+   "pais": "Estados Unidos",
+   "bandera": "🇺🇸",
+   "mexicano": false,
+   "twitch": 21935029,
+   "kick": 0,
+   "youtube": 8260000,
+   "total": 30195029,
+   "url": "https://www.twitch.tv/kaicenat",
+   "img": "img/luchas/w-kai-cenat.jpg"
+  },
+  {
+   "slug": "rubius",
+   "nombre": "Rubius",
+   "pais": "España",
+   "bandera": "🇪🇸",
+   "mexicano": false,
+   "twitch": 16627774,
+   "kick": 0,
+   "youtube": 0,
+   "total": 16627774,
+   "url": "https://www.twitch.tv/rubius",
+   "img": "img/luchas/w-rubius.jpg"
+  },
+  {
+   "slug": "quackity",
+   "nombre": "Quackity",
+   "pais": "México",
+   "bandera": "🇲🇽",
+   "mexicano": true,
+   "twitch": 6644062,
+   "kick": 0,
+   "youtube": 6170000,
+   "total": 12814062,
+   "url": "https://www.twitch.tv/quackity",
+   "img": "img/luchas/w-quackity.jpg"
+  },
+  {
+   "slug": "el-mariana",
+   "nombre": "El Mariana",
+   "pais": "México",
+   "bandera": "🇲🇽",
+   "mexicano": true,
+   "twitch": 11202552,
+   "kick": 0,
+   "youtube": 1610000,
+   "total": 12812552,
+   "url": "https://www.twitch.tv/elmariana",
+   "img": ""
+  },
+  {
+   "slug": "rivers-gg",
+   "nombre": "Rivers_gg",
+   "pais": "México",
+   "bandera": "🇲🇽",
+   "mexicano": true,
+   "twitch": 7118870,
+   "kick": 0,
+   "youtube": 4670000,
+   "total": 11788870,
+   "url": "https://www.twitch.tv/rivers_gg",
+   "img": ""
+  },
+  {
+   "slug": "arigameplays",
+   "nombre": "AriGameplays",
+   "pais": "México",
+   "bandera": "🇲🇽",
+   "mexicano": true,
+   "twitch": 7239805,
+   "kick": 0,
+   "youtube": 4040000,
+   "total": 11279805,
+   "url": "https://www.twitch.tv/arigameplays",
+   "img": ""
+  },
+  {
+   "slug": "aldo-geo",
+   "nombre": "aldo_geo",
+   "pais": "México",
+   "bandera": "🇲🇽",
+   "mexicano": true,
+   "twitch": 2189527,
+   "kick": 0,
+   "youtube": 789000,
+   "total": 2978527,
+   "url": "https://www.twitch.tv/aldo_geo",
+   "img": ""
+  }
+ ],
+ "fuente_seguidores": "Seguidores en vivo de las páginas públicas de Twitch, Kick y YouTube"
 }
