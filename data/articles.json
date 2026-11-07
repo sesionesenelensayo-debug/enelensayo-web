@@ -1,5 +1,19 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "La Sirenita (2023): ¿Qué implica el casting de Halle Bailey en la historia original?",
+    "artista": "la polémica por el reparto de La Sirenita (2023)",
+    "intro": "El live‑action de Disney generó polémica al reemplazar a la Ariel azul‑rubia por una actriz afro‑americana, provocando críticas sobre fidelidad al canon y resultados financieros.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/la-sirenita-2023-que-implica-el-casting-de-halle-bailey-en-la-historia-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-sirenita-2023-que-implica-el-casting-de-halle-bailey-en-la-historia-1106.jpg",
+    "fecha": "2026-11-06T19:58:24.084707",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Agenda woke"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Las 10 mayores pérdidas de taquilla entre 2025 y 2026",
     "artista": "las 10 películas que más dinero perdieron (mayores fracasos de taquilla recientes)",
@@ -5662,18 +5676,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Agenda woke"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "G2 vs Karmine Corp: la batalla europea que define su paso en Worlds 2026",
-    "artista": "",
-    "intro": "Los dos representantes de la LEC luchan por sobrevivir en una fase suiza implacable mientras los rivales asiáticos presionan su margen de error.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/g2-vs-karmine-corp-la-batalla-europea-que-define-su-paso-en-worlds-202-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/g2-vs-karmine-corp-la-batalla-europea-que-define-su-paso-en-worlds-202-1029.jpg",
-    "fecha": "2026-10-29T00:24:10",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Esports"
   }
 ]
