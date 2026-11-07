@@ -44,6 +44,19 @@
         '<td class="st-tot"><b>' + M(f.total) + '</b><span class="st-barra"><i class="' + (f.mexicano ? 'mx' : 'ex') + '" style="width:' + Math.max(2, Math.round(f.total / max * 100)) + '%"></i></span></td></tr>';
     }).join('');
     document.getElementById('stTablaAviso').textContent = 'Seguidores en Twitch, Kick y YouTube (verde: mexicanos · morado: extranjeros). El total suma las plataformas, así que hay audiencia repetida; “—” = no transmite ahí o no tenemos la cifra verificada. ' + (d.fuente_seguidores || '') + ', ' + (d.actualizado || '') + '.';
+    var tops = d.tops || {}, TN = [['twitch', 'Twitch'], ['kick', 'Kick'], ['youtube', 'YouTube']];
+    var pintaTop = function (id) {
+      var l = tops[id] || [], mx = Math.max.apply(null, l.map(function (x) { return x.seguidores; }).concat([1]));
+      var f = document.getElementById('stTopsFiltros');
+      f.innerHTML = TN.map(function (t) { return '<button type="button" class="lu-chip' + (t[0] === id ? ' on' : '') + '" data-v="' + t[0] + '">' + t[1] + '</button>'; }).join('');
+      Array.prototype.forEach.call(f.querySelectorAll('button'), function (b) { b.onclick = function () { pintaTop(b.getAttribute('data-v')); }; });
+      document.getElementById('stTops').innerHTML = l.map(function (x, i) {
+        return '<tr><td>' + (i + 1) + '</td><td><a href="' + esc(x.url) + '" target="_blank" rel="noopener nofollow"><b>' + esc(x.nombre) + '</b></a><small>' + esc(x.bandera) + ' ' + esc(x.pais) + '</small></td>' +
+          '<td class="st-tot"><b>' + M(x.seguidores) + '</b><span class="st-barra"><i class="' + (x.mexicano ? 'mx' : 'ex') + '" style="width:' + Math.max(2, Math.round(x.seguidores / mx * 100)) + '%"></i></span></td></tr>';
+      }).join('') || '<tr><td colspan="3">Sin datos por ahora.</td></tr>';
+    };
+    pintaTop('twitch');
+    document.getElementById('stTopsAviso').textContent = 'Los 10 canales más grandes de cada plataforma entre los streamers de México y toda Latinoamérica (sin España ni EE. UU.), ordenados por seguidores o suscriptores en vivo. Verde: mexicanos. En YouTube entran también creadores de gaming que transmiten en vivo. Selección entre los canales que seguimos; ' + (d.actualizado || '') + '.';
     var pinta = function (id) {
       var g = GRUPOS.filter(function (x) { return x.id === id; })[0];
       var el = document.getElementById('stFiltros');

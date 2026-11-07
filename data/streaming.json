@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06 22:56",
+ "actualizado": "2026-11-06 23:18",
  "fuente": "Rankings de Streams Charts (vía Infobae, Movistar eSports, Dexerto y El Universal, 2026)",
  "streamers": [
   {
@@ -52,7 +52,7 @@
     {
      "nombre": "Twitch",
      "url": "https://www.twitch.tv/werevertumorro",
-     "seguidores": 360549
+     "seguidores": 360548
     }
    ],
    "dato": "",
@@ -73,7 +73,7 @@
     {
      "nombre": "Twitch",
      "url": "https://www.twitch.tv/elabrahaham",
-     "seguidores": 1740786
+     "seguidores": 1740790
     }
    ],
    "dato": "#7 de LATAM en 2025 por horas vistas (28 M) en YouTube y Twitch.",
@@ -89,7 +89,7 @@
     {
      "nombre": "Twitch",
      "url": "https://www.twitch.tv/elmariana",
-     "seguidores": 11202552
+     "seguidores": 11202557
     },
     {
      "nombre": "YouTube",
@@ -117,7 +117,7 @@
     {
      "nombre": "Twitch",
      "url": "https://www.twitch.tv/arigameplays",
-     "seguidores": 7239805
+     "seguidores": 7239823
     },
     {
      "nombre": "YouTube",
@@ -157,7 +157,7 @@
     {
      "nombre": "Twitch",
      "url": "https://www.twitch.tv/rivers_gg",
-     "seguidores": 7118870
+     "seguidores": 7118890
     },
     {
      "nombre": "YouTube",
@@ -178,7 +178,7 @@
     {
      "nombre": "Twitch",
      "url": "https://www.twitch.tv/quackity",
-     "seguidores": 6644062
+     "seguidores": 6644065
     },
     {
      "nombre": "YouTube",
@@ -209,7 +209,7 @@
     {
      "nombre": "Twitch",
      "url": "https://www.twitch.tv/aldo_geo",
-     "seguidores": 2189527
+     "seguidores": 2189540
     },
     {
      "nombre": "YouTube",
@@ -230,7 +230,7 @@
     {
      "nombre": "Kick",
      "url": "https://kick.com/lonche",
-     "seguidores": 1338279
+     "seguidores": 1338359
     }
    ],
    "dato": "Con 1.2 millones de seguidores es de los canales con más seguidores de Kick (Streams Charts); Víctor Ordóñez tiene 24 años.",
@@ -259,7 +259,7 @@
     {
      "nombre": "Kick",
      "url": "https://kick.com/adrianozendejas32",
-     "seguidores": 1080180
+     "seguidores": 1080252
     }
    ],
    "dato": "El mexicano más visto de Kick: #5 entre los hispanohablantes de 2026 (21 M de horas vistas, ene–sep) y más de 11 millones de seguidores en TikTok.",
@@ -294,7 +294,7 @@
     {
      "nombre": "Kick",
      "url": "https://kick.com/mrstiventc",
-     "seguidores": 1933029
+     "seguidores": 1933196
     },
     {
      "nombre": "YouTube",
@@ -315,11 +315,18 @@
     {
      "nombre": "Twitch",
      "url": "https://www.twitch.tv/juansguarnizo",
-     "seguidores": 11690608
+     "seguidores": 11690609
     }
    ],
    "dato": "Referente de Twitch en español: 1.2 M de horas vistas en mayo de 2026, #10 de ese mes.",
-   "noticias": []
+   "noticias": [
+    {
+     "titulo": "El 'streamer' Juan Guarnizo pide respeto tras la muerte de su amigo Komanche: \"Dejen en paz a la gente con sus duelos\"",
+     "medio": "20Minutos",
+     "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNRFlrQzk2ekhETHBaWXd2N01wWFNSd3ZzbmU1NnViZy1UdGlMcllZSzd0Q1F6eWt2eDlZNVFzMC1qQUJrUFZJdGx3Qnk0c1M5Ry13VC1FSThPaEdiWEkwUm9ZMTM0dDlta2V3UG9xNV8wQW1teW1jalpVdFllSU9NbVZvdERFenljSUVPUk9ERENXc01SZlNVb25ZNm1CM3YwQXBRc2VSY2RmSEI5OGp6RjJJeE9GUzhWNkRmSkdVODFyTWlwUFpPS0Q1TFNORjJJYXBzZDJFdExNUQ?oc=5",
+     "fecha": "2026-11-06"
+    }
+   ]
   },
   {
    "slug": "rdjavi",
@@ -331,7 +338,7 @@
     {
      "nombre": "Kick",
      "url": "https://kick.com/rdjavi",
-     "seguidores": 1210235
+     "seguidores": 1210372
     },
     {
      "nombre": "YouTube",
@@ -352,7 +359,7 @@
     {
      "nombre": "Kick",
      "url": "https://kick.com/westcol",
-     "seguidores": 4687503
+     "seguidores": 4687623
     }
    ],
    "dato": "El canal más seguido de Kick (4.5 M) y #2 de los hispanohablantes de 2026 (46 M de horas vistas, ene–sep).",
@@ -390,7 +397,7 @@
     {
      "nombre": "Kick",
      "url": "https://kick.com/davooxeneize",
-     "seguidores": 2596678
+     "seguidores": 2596758
     }
    ],
    "dato": "2.5 M de seguidores en Kick; #1 de mayo de 2026 (4.3 M de horas vistas) y #3 del año hasta septiembre (34 M).",
@@ -425,7 +432,7 @@
     {
      "nombre": "Kick",
      "url": "https://kick.com/lacobraaa",
-     "seguidores": 2509561
+     "seguidores": 2509904
     }
    ],
    "dato": "2.4 M de seguidores en Kick y #4 de los hispanohablantes de 2026 (27 M de horas vistas, ene–sep).",
@@ -441,7 +448,7 @@
     {
      "nombre": "Kick",
      "url": "https://kick.com/spreen",
-     "seguidores": 2067236
+     "seguidores": 2067340
     }
    ],
    "dato": "2 M de seguidores en Kick; #8 de los hispanohablantes de 2026 (17 M de horas, ene–sep).",
@@ -464,7 +471,7 @@
     {
      "nombre": "Kick",
      "url": "https://kick.com/elzeein",
-     "seguidores": 2060646
+     "seguidores": 2060809
     }
    ],
    "dato": "2 M de seguidores en Kick y #3 de LATAM en 2025 (40.8 M de horas vistas).",
@@ -480,7 +487,7 @@
     {
      "nombre": "Kick",
      "url": "https://kick.com/robleis",
-     "seguidores": 1156927
+     "seguidores": 1156985
     }
    ],
    "dato": "Más de 1 M de seguidores en Kick, entre los 20 canales más seguidos de la plataforma.",
@@ -550,7 +557,7 @@
     {
      "nombre": "Twitch",
      "url": "https://www.twitch.tv/auronplay",
-     "seguidores": 17157895
+     "seguidores": 17157900
     },
     {
      "nombre": "YouTube",
@@ -593,7 +600,7 @@
     {
      "nombre": "Twitch",
      "url": "https://www.twitch.tv/kaicenat",
-     "seguidores": 21935029
+     "seguidores": 21935223
     },
     {
      "nombre": "YouTube",
@@ -624,7 +631,7 @@
     {
      "nombre": "Twitch",
      "url": "https://www.twitch.tv/ibai",
-     "seguidores": 20332427
+     "seguidores": 20332421
     },
     {
      "nombre": "YouTube",
@@ -710,7 +717,7 @@
     {
      "nombre": "Twitch",
      "url": "https://www.twitch.tv/rubius",
-     "seguidores": 16627774
+     "seguidores": 16627779
     }
    ],
    "dato": "#6 de los hispanohablantes de 2026 (19.9 M de horas, ene–sep) y gran audiencia latinoamericana.",
@@ -729,12 +736,12 @@
     {
      "nombre": "Kick",
      "url": "https://kick.com/xqc",
-     "seguidores": 1523139
+     "seguidores": 1523291
     },
     {
      "nombre": "Twitch",
      "url": "https://www.twitch.tv/xqc",
-     "seguidores": 12648414
+     "seguidores": 12648424
     }
    ],
    "dato": "1.4 M de seguidores en Kick, entre los 15 más seguidos.",
@@ -753,7 +760,7 @@
     {
      "nombre": "Kick",
      "url": "https://kick.com/adinross",
-     "seguidores": 2898789
+     "seguidores": 2898900
     }
    ],
    "dato": "El segundo canal más seguido de Kick (2.8 M) y la cara de la plataforma en EE. UU.",
@@ -837,10 +844,10 @@
    "pais": "España",
    "bandera": "🇪🇸",
    "mexicano": false,
-   "twitch": 17157895,
+   "twitch": 17157900,
    "kick": 0,
    "youtube": 29100000,
-   "total": 46257895,
+   "total": 46257900,
    "url": "https://www.twitch.tv/auronplay",
    "img": "img/luchas/w-auronplay.jpg"
   },
@@ -850,10 +857,10 @@
    "pais": "España",
    "bandera": "🇪🇸",
    "mexicano": false,
-   "twitch": 20332427,
+   "twitch": 20332421,
    "kick": 0,
    "youtube": 17400000,
-   "total": 37732427,
+   "total": 37732421,
    "url": "https://www.twitch.tv/ibai",
    "img": "img/luchas/w-ibai-llanos.jpg"
   },
@@ -863,10 +870,10 @@
    "pais": "Estados Unidos",
    "bandera": "🇺🇸",
    "mexicano": false,
-   "twitch": 21935029,
+   "twitch": 21935223,
    "kick": 0,
    "youtube": 8260000,
-   "total": 30195029,
+   "total": 30195223,
    "url": "https://www.twitch.tv/kaicenat",
    "img": "img/luchas/w-kai-cenat.jpg"
   },
@@ -876,10 +883,10 @@
    "pais": "España",
    "bandera": "🇪🇸",
    "mexicano": false,
-   "twitch": 16627774,
+   "twitch": 16627779,
    "kick": 0,
    "youtube": 0,
-   "total": 16627774,
+   "total": 16627779,
    "url": "https://www.twitch.tv/rubius",
    "img": "img/luchas/w-rubius.jpg"
   },
@@ -889,10 +896,10 @@
    "pais": "México",
    "bandera": "🇲🇽",
    "mexicano": true,
-   "twitch": 6644062,
+   "twitch": 6644065,
    "kick": 0,
    "youtube": 6170000,
-   "total": 12814062,
+   "total": 12814065,
    "url": "https://www.twitch.tv/quackity",
    "img": "img/luchas/w-quackity.jpg"
   },
@@ -902,10 +909,10 @@
    "pais": "México",
    "bandera": "🇲🇽",
    "mexicano": true,
-   "twitch": 11202552,
+   "twitch": 11202557,
    "kick": 0,
    "youtube": 1610000,
-   "total": 12812552,
+   "total": 12812557,
    "url": "https://www.twitch.tv/elmariana",
    "img": ""
   },
@@ -915,10 +922,10 @@
    "pais": "México",
    "bandera": "🇲🇽",
    "mexicano": true,
-   "twitch": 7118870,
+   "twitch": 7118890,
    "kick": 0,
    "youtube": 4670000,
-   "total": 11788870,
+   "total": 11788890,
    "url": "https://www.twitch.tv/rivers_gg",
    "img": ""
   },
@@ -928,10 +935,10 @@
    "pais": "México",
    "bandera": "🇲🇽",
    "mexicano": true,
-   "twitch": 7239805,
+   "twitch": 7239823,
    "kick": 0,
    "youtube": 4040000,
-   "total": 11279805,
+   "total": 11279823,
    "url": "https://www.twitch.tv/arigameplays",
    "img": ""
   },
@@ -941,13 +948,261 @@
    "pais": "México",
    "bandera": "🇲🇽",
    "mexicano": true,
-   "twitch": 2189527,
+   "twitch": 2189540,
    "kick": 0,
    "youtube": 789000,
-   "total": 2978527,
+   "total": 2978540,
    "url": "https://www.twitch.tv/aldo_geo",
    "img": ""
   }
  ],
+ "tops": {
+  "twitch": [
+   {
+    "nombre": "Juan Guarnizo",
+    "pais": "Colombia",
+    "bandera": "🇨🇴",
+    "mexicano": false,
+    "seguidores": 11690609,
+    "url": "https://www.twitch.tv/juansguarnizo"
+   },
+   {
+    "nombre": "El Mariana",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "mexicano": true,
+    "seguidores": 11202557,
+    "url": "https://www.twitch.tv/elmariana"
+   },
+   {
+    "nombre": "AriGameplays",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "mexicano": true,
+    "seguidores": 7239825,
+    "url": "https://www.twitch.tv/arigameplays"
+   },
+   {
+    "nombre": "Rivers_gg",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "mexicano": true,
+    "seguidores": 7118891,
+    "url": "https://www.twitch.tv/rivers_gg"
+   },
+   {
+    "nombre": "Quackity",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "mexicano": true,
+    "seguidores": 6644065,
+    "url": "https://www.twitch.tv/quackity"
+   },
+   {
+    "nombre": "Robleis",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "mexicano": false,
+    "seguidores": 5935965,
+    "url": "https://www.twitch.tv/robleis"
+   },
+   {
+    "nombre": "Coscu",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "mexicano": false,
+    "seguidores": 3834151,
+    "url": "https://www.twitch.tv/coscu"
+   },
+   {
+    "nombre": "Fernanfloo",
+    "pais": "El Salvador",
+    "bandera": "🇸🇻",
+    "mexicano": false,
+    "seguidores": 3459758,
+    "url": "https://www.twitch.tv/fernanfloo"
+   },
+   {
+    "nombre": "aldo_geo",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "mexicano": true,
+    "seguidores": 2189541,
+    "url": "https://www.twitch.tv/aldo_geo"
+   },
+   {
+    "nombre": "Davoo Xeneize",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "mexicano": false,
+    "seguidores": 2053626,
+    "url": "https://www.twitch.tv/davooxeneize"
+   }
+  ],
+  "kick": [
+   {
+    "nombre": "WestCOL",
+    "pais": "Colombia",
+    "bandera": "🇨🇴",
+    "mexicano": false,
+    "seguidores": 4687626,
+    "url": "https://kick.com/westcol"
+   },
+   {
+    "nombre": "Davoo Xeneize",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "mexicano": false,
+    "seguidores": 2596758,
+    "url": "https://kick.com/davooxeneize"
+   },
+   {
+    "nombre": "LaCobraaa",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "mexicano": false,
+    "seguidores": 2509919,
+    "url": "https://kick.com/lacobraaa"
+   },
+   {
+    "nombre": "Spreen",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "mexicano": false,
+    "seguidores": 2067341,
+    "url": "https://kick.com/spreen"
+   },
+   {
+    "nombre": "ElZeein",
+    "pais": "Perú",
+    "bandera": "🇵🇪",
+    "mexicano": false,
+    "seguidores": 2060814,
+    "url": "https://kick.com/elzeein"
+   },
+   {
+    "nombre": "MrStivenTC",
+    "pais": "Colombia",
+    "bandera": "🇨🇴",
+    "mexicano": false,
+    "seguidores": 1933202,
+    "url": "https://kick.com/mrstiventc"
+   },
+   {
+    "nombre": "Lonche de Huevito",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "mexicano": true,
+    "seguidores": 1338364,
+    "url": "https://kick.com/lonche"
+   },
+   {
+    "nombre": "RDJavi",
+    "pais": "República Dominicana",
+    "bandera": "🇩🇴",
+    "mexicano": false,
+    "seguidores": 1210377,
+    "url": "https://kick.com/rdjavi"
+   },
+   {
+    "nombre": "Robleis",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "mexicano": false,
+    "seguidores": 1156985,
+    "url": "https://kick.com/robleis"
+   },
+   {
+    "nombre": "Maestro Shifu",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "mexicano": true,
+    "seguidores": 1080257,
+    "url": "https://kick.com/adrianozendejas32"
+   }
+  ],
+  "youtube": [
+   {
+    "nombre": "JuegaGerman",
+    "pais": "Chile",
+    "bandera": "🇨🇱",
+    "mexicano": false,
+    "seguidores": 56900000,
+    "url": "https://www.youtube.com/@JuegaGerman"
+   },
+   {
+    "nombre": "Fernanfloo",
+    "pais": "El Salvador",
+    "bandera": "🇸🇻",
+    "mexicano": false,
+    "seguidores": 50800000,
+    "url": "https://www.youtube.com/@Fernanfloo"
+   },
+   {
+    "nombre": "Luisito Comunica",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "mexicano": true,
+    "seguidores": 46000000,
+    "url": "https://www.youtube.com/@Luisitocomunica"
+   },
+   {
+    "nombre": "DrossRotzank",
+    "pais": "Venezuela",
+    "bandera": "🇻🇪",
+    "mexicano": false,
+    "seguidores": 24200000,
+    "url": "https://www.youtube.com/@DrossRotzank"
+   },
+   {
+    "nombre": "Werevertumorro",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "mexicano": true,
+    "seguidores": 16500000,
+    "url": "https://www.youtube.com/@Werevertumorro"
+   },
+   {
+    "nombre": "ElAbrahaham",
+    "pais": "México",
+    "bandera": "🇲🇽",
+    "mexicano": true,
+    "seguidores": 14100000,
+    "url": "https://www.youtube.com/@ElAbrahaham"
+   },
+   {
+    "nombre": "MrStivenTC",
+    "pais": "Colombia",
+    "bandera": "🇨🇴",
+    "mexicano": false,
+    "seguidores": 12800000,
+    "url": "https://www.youtube.com/@MrStivenTC"
+   },
+   {
+    "nombre": "Spreen",
+    "pais": "Argentina",
+    "bandera": "🇦🇷",
+    "mexicano": false,
+    "seguidores": 8500000,
+    "url": "https://www.youtube.com/@Spreen"
+   },
+   {
+    "nombre": "RDJavi",
+    "pais": "República Dominicana",
+    "bandera": "🇩🇴",
+    "mexicano": false,
+    "seguidores": 6650000,
+    "url": "https://www.youtube.com/@RDJavi"
+   },
+   {
+    "nombre": "Juan Guarnizo",
+    "pais": "Colombia",
+    "bandera": "🇨🇴",
+    "mexicano": false,
+    "seguidores": 6220000,
+    "url": "https://www.youtube.com/@juansguarnizo"
+   }
+  ]
+ },
  "fuente_seguidores": "Seguidores en vivo de las páginas públicas de Twitch, Kick y YouTube"
 }
