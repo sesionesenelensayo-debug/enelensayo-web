@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Jim Croce: la verdad sobre el accidente de 1973",
+    "artista": "Jim Croce: la verdad sobre el accidente aéreo de 1973",
+    "intro": "El 20 de septiembre de 1973, el cantautor estadounidense Jim Croce perdió la vida en un accidente aéreo ocurrido en Natchitoches, Luisiana.",
+    "telegraph_url": "https://telegra.ph/Jim-Croce-la-verdad-sobre-el-accidente-de-1973-11-07",
+    "url": "https://enelensayomedia.com/notas/jim-croce-la-verdad-sobre-el-accidente-de-1973-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/jim-croce-la-verdad-sobre-el-accidente-de-1973-1107.jpg",
+    "fecha": "2026-11-07T14:11:58.023268",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Jim Croce: la verdad sobre el accidente aéreo de 1973",
     "artista": "Jim Croce",
     "intro": "En este video del canal En el Ensayo Media se aborda la vida y la trágica muerte del músico folk Jim Croche, quien perdió la vida en un accidente de aviación.",
@@ -5685,19 +5699,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme internacional"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El científico mexicano que desapareció sin dejar rastro · Jacobo Grinberg",
-    "artista": "",
-    "intro": "El científico mexicano Jacobo Grinberg desapareció misteriosamente el 8 de diciembre de 1994, tras investigar la conciencia y el chamanismo. Años después d",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-cientifico-mexicano-que-desaparecio-sin-dejar-rastro-jacobo-grinber-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-cientifico-mexicano-que-desaparecio-sin-dejar-rastro-jacobo-grinber-1029.jpg",
-    "fecha": "2026-10-29T16:04:26",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Terror y misterio",
-    "archivo": true
   }
 ]
