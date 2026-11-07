@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "¿Arruinó el 'star talent' el doblaje de Wildwood?",
+    "artista": "Wildwood",
+    "intro": "Lo que está confirmado es la intensa controversia generada en redes sociales y foros especializados debido al uso de 'star talents' en el doblaje latino de 'Wildwood'.",
+    "telegraph_url": "https://telegra.ph/Arruinó-el-star-talent-el-doblaje-de-Wildwood-11-07",
+    "url": "https://enelensayomedia.com/notas/arruino-el-star-talent-el-doblaje-de-wildwood-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/arruino-el-star-talent-el-doblaje-de-wildwood-1107.jpg",
+    "fecha": "2026-11-07T12:43:40.730915",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
     "tipo": "noticia",
     "titulo": "El cine latino cruza fronteras en Los Ángeles",
     "artista": "Cine Latino",
@@ -5678,18 +5692,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Escena local"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece Lauri “Cyanide” Happonen, leyenda del Mundial 2011",
-    "artista": "",
-    "intro": "El exjugador finlandés de Fnatic, campeón mundial a los 16 años, murió a los 31 años; su partida deja un vacío en la historia de los esports.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fallece-lauri-cyanide-happonen-leyenda-del-mundial-2011-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-lauri-cyanide-happonen-leyenda-del-mundial-2011-1029.jpg",
-    "fecha": "2026-10-29T10:09:27",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]

@@ -67,6 +67,8 @@
       ['Facebook', 'fb_fans', 'https://www.facebook.com/enelensayomedia', '#1877F2', 'f', 'seguidores'],
       ['Instagram', 'ig_seguidores', 'https://www.instagram.com/enelensayomedia', '#E1306C', 'IG', 'seguidores'],
       ['Telegram', 'telegram_miembros', 'https://t.me/enelensayomedia', '#229ED9', '✈', 'suscriptores'],
+      ['TikTok', 'tiktok_seguidores', 'https://www.tiktok.com/@enelensayomedia', '#25F4EE', '♪', 'seguidores'],
+      ['Vistas TikTok (30 días)', 'tiktok_vistas_30d', 'https://www.tiktok.com/@enelensayomedia', '#FE2C55', '🎵', 'vistas'],
       ['X', 'x_seguidores', 'https://x.com/Enelensayomedia', '#8b87a0', '𝕏', 'seguidores'],
       ['Reproducciones Shorts', 'yt_views_shorts', 'https://www.youtube.com/@EnelEnsayoMedia/shorts', '#FFB300', '👁', 'vistas'],
       ['Reproducciones Longs', 'yt_views_longs', 'https://www.youtube.com/@EnelEnsayoMedia/videos', '#673AB7', '🎬', 'vistas'],
@@ -77,6 +79,8 @@
       return '<a class="hito" href="' + r[2] + '" target="_blank" rel="noopener" style="--c:' + r[3] + '"><span class="ic">' + r[4] + '</span><span><b>' + r[0] + '</b>' +
         '<span class="n" data-n="' + v + '">0</span> <em>' + r[5] + '</em><span class="bar"><i style="width:' + h[1].toFixed(0) + '%"></i></span><small>Próximo hito: ' + h[0].toLocaleString('es-MX') + '</small></span></a>';
     }).join('');
+    var act = document.getElementById('sxHitosAct');
+    if (act) act.textContent = 'Datos de las redes actualizados ' + (s.updated || '') + ' (se renuevan varias veces al día). Visitas: contador del sitio en tiempo real.';
     el.querySelectorAll('.n').forEach(function (x) {
       var n = +x.dataset.n, t0 = null; (function p(t) { if (!t0) t0 = t; var k = Math.min(1, (t - t0) / 1600); x.textContent = Math.round(n * (1 - Math.pow(1 - k, 3))).toLocaleString('es-MX'); if (k < 1) requestAnimationFrame(p); })(performance.now());
     });
