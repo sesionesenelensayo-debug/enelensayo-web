@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "María Becerra estrena 'Tú sin Yo' y arranca su nueva era",
+    "artista": "María Becerra",
+    "intro": "María Becerra estrenó el sencillo 'Tú sin Yo', marcando el inicio de su nueva era musical denominada LURE. El tema introduce una etapa con un enfoque más conceptual y orientado hacia el R&B.",
+    "telegraph_url": "https://telegra.ph/María-Becerra-estrena-Tú-sin-Yo-y-arranca-su-nueva-era-11-07",
+    "url": "https://enelensayomedia.com/notas/maria-becerra-estrena-tu-sin-yo-y-arranca-su-nueva-era-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/maria-becerra-estrena-tu-sin-yo-y-arranca-su-nueva-era-1107.jpg",
+    "fecha": "2026-11-07T13:43:24.462688",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Penta Zero Miedo y Je’Von Evans ganan los Campeonatos de Parejas de WWE",
     "artista": "Penta Zero Miedo",
     "intro": "Penta Zero Miedo y Je’Von Evans conquistaron los Campeonatos Mundiales de Parejas de WWE en el evento Crown Jewel 2026, celebrado en Riad el 7 de noviembre de 2026.",
@@ -5683,18 +5697,5 @@
     "views": 0,
     "categoria": "Terror y misterio",
     "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "La Odisea por Inteligencia Artificial desata polémica en redes",
-    "artista": "",
-    "intro": "El estreno de la versión de La Odisea generada por inteligencia artificial desata un intenso debate cultural sobre la tradición y la tecnología actual.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-odisea-por-inteligencia-artificial-desata-polemica-en-redes-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-odisea-por-inteligencia-artificial-desata-polemica-en-redes-1029.jpg",
-    "fecha": "2026-10-29T12:37:41",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Agenda woke"
   }
 ]
