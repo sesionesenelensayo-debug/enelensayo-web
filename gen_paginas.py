@@ -48,7 +48,10 @@ def menu(n, activo):
 # portada LIGERA: cabecera + menú + portada (nota del día, lo último, videos) + Top 10 + periódico + botones de sección
 portada = src[src.index("  <!-- ── PORTADA"):src.index("  <!-- ── HERO")]
 ICONOS = {"marveldc": "🦸", "chisme": "💬", "misterio": "👻", "deporte": "⚽", "exclusivas": "⭐", "top10": "🏆", "periodico": "📰", "newsletter": "✉️", "cine": "🎬", "videojuegos": "🎮", "luchas": "🤼", "streaming": "📡", "doblaje": "🗣️", "television": "📺", "conciertos": "🎟️", "hitos": "🏅", "shorts": "📱", "longs": "📺", "podcast": "🎙️", "sesiones": "🎸", "sobre": "💡"}
-botones = "".join(f'<a href="{k}.html"><span class="ic">{ICONOS.get(k, "🎵")}</span>{et}</a>' for k, (et, *_r) in PAGINAS.items() if k not in ("noticias",)) + "".join(f'<a href="{k}.html"><span class="ic">{ic}</span>{et}</a>' for k, et, ic in (("musica", "Música", "🎵"), ("memoriam", "In memoriam", "🕯️"), ("cultura", "Cultura", "🎭"), ("escena-local", "Escena local", "🎤")))
+import unicodedata as _ud
+_btn = [(et, f'<a href="{k}.html"><span class="ic">{ICONOS.get(k, "🎵")}</span>{et}</a>') for k, (et, *_r) in PAGINAS.items() if k not in ("noticias",)] + \
+       [(et, f'<a href="{k}.html"><span class="ic">{ic}</span>{et}</a>') for k, et, ic in (("musica", "Música", "🎵"), ("memoriam", "In memoriam", "🕯️"), ("cultura", "Cultura", "🎭"), ("escena-local", "Escena local", "🎤"))]
+botones = "".join(h for _et, h in sorted(_btn, key=lambda t: _ud.normalize("NFKD", t[0].lower()).encode("ascii", "ignore").decode()))   # [.leon 2026-11-07] orden alfabético
 extra = f'''  <section class="section" id="top10-mini"><div class="section-inner">
     <div class="section-header"><p class="section-eyebrow"><span class="dot dot--yellow"></span>Cuenta regresiva semanal</p>
       <h2 class="section-title">Top <span class="text-accent">10</span></h2></div>
