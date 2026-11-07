@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Rey Mysterio propone duelo México vs. USA en Survivor Series",
+    "artista": "Rey Mysterio",
+    "intro": "Rey Mysterio ha puesto sobre la mesa una propuesta directa para el evento Survivor Series: WarGames 2026.",
+    "telegraph_url": "https://telegra.ph/Rey-Mysterio-propone-duelo-México-vs-USA-en-Survivor-Series-11-07",
+    "url": "https://enelensayomedia.com/notas/rey-mysterio-propone-duelo-mexico-vs-usa-en-survivor-series-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/rey-mysterio-propone-duelo-mexico-vs-usa-en-survivor-series-1107.jpg",
+    "fecha": "2026-11-07T16:43:01.519522",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Tyler Kolek tildó de 'falsa' a Taylor Swift en transmisión de TikTok",
     "artista": "Tyler Kolek y Taylor Swift",
     "intro": "Jugador de los Knicks cuestionó la autenticidad de la cantante durante una partida en vivo, generando críticas de sus seguidores.",
@@ -5696,18 +5710,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Esports"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Kim Basinger revela cómo Robert Redford la ayudó en el estreno de 'El mejor'",
-    "artista": "",
-    "intro": "La actriz recordó el apoyo de Redford durante el estreno de la película de 1984, basada en la novela de Bernard Malamud.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/kim-basinger-revela-como-robert-redford-la-ayudo-en-el-estreno-de-el-m-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/kim-basinger-revela-como-robert-redford-la-ayudo-en-el-estreno-de-el-m-1029.jpg",
-    "fecha": "2026-10-29T16:10:08",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme internacional"
   }
 ]
