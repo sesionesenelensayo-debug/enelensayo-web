@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Xipto Esports incursiona en Dota 2 con un roster estelar",
+    "artista": "Xipto Esports",
+    "intro": "La organización de Singapur consolida su presencia en el circuito competitivo de Dota 2 tras fichar a experimentados jugadores de la región.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/xipto-esports-incursiona-en-dota-2-con-un-roster-estelar-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/xipto-esports-incursiona-en-dota-2-con-un-roster-estelar-1107.jpg",
+    "fecha": "2026-11-07T17:18:06.029890",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports"
+  },
+  {
     "tipo": "noticia",
     "titulo": "CDMX prepara exposición gratuita de Godzilla",
     "artista": "Takashi Yamazaki",
@@ -5699,18 +5713,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Conciertos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "T1 y Movistar KOI chocan en Worlds 2026",
-    "artista": "",
-    "intro": "La Ronda 4 de los Worlds 2026 de League of Legends enfrenta a T1 y Movistar KOI en Allen, Texas, en busca del pase a playoffs.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/t1-y-movistar-koi-chocan-en-worlds-2026-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/t1-y-movistar-koi-chocan-en-worlds-2026-1029.jpg",
-    "fecha": "2026-10-29T18:22:42",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Esports"
   }
 ]
