@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Lanzan la expansión Pokémon TCG Megaevolución-Dominio Delta",
+    "artista": "Pokémon TCG",
+    "intro": "Tras años de ausencia en formato físico, la mecánica de las Megaevoluciones regresa al juego de cartas coleccionables.",
+    "telegraph_url": "https://telegra.ph/Lanzan-la-expansión-Pokémon-TCG-Megaevolución-Dominio-Delta-11-07",
+    "url": "https://enelensayomedia.com/notas/lanzan-la-expansion-pokemon-tcg-megaevolucion-dominio-delta-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/lanzan-la-expansion-pokemon-tcg-megaevolucion-dominio-delta-1107.jpg",
+    "fecha": "2026-11-07T16:14:04.430892",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos",
+    "fecha_original": "2026-11-07T13:44:24.219371",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Mariana Echeverría estalla contra elenco de 'Me Caigo de Risa'",
     "artista": "Mariana Echeverría",
     "intro": "Mientras ensaya para un nuevo proyecto televisivo en los foros de Televisa, Mariana Echeverría descubrió que integrantes de 'La Familia Disfuncional' pidieron a la producción cambiar de área…",
@@ -180,20 +196,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Lanzan la expansión Pokémon TCG Megaevolución-Dominio Delta",
-    "artista": "Pokémon TCG",
-    "intro": "Tras años de ausencia en formato físico, la mecánica de las Megaevoluciones regresa al juego de cartas coleccionables.",
-    "telegraph_url": "https://telegra.ph/Lanzan-la-expansión-Pokémon-TCG-Megaevolución-Dominio-Delta-11-07",
-    "url": "https://enelensayomedia.com/notas/lanzan-la-expansion-pokemon-tcg-megaevolucion-dominio-delta-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/lanzan-la-expansion-pokemon-tcg-megaevolucion-dominio-delta-1107.jpg",
-    "fecha": "2026-11-07T13:44:24.219371",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos"
   },
   {
     "opinion": false,
