@@ -1,6 +1,22 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Leon Bridges llega a la CDMX el 24 de marzo de 2027 para presentar su nueva gira",
+    "artista": "Leon Bridges",
+    "intro": "El artista estadounidense ofrecerá un concierto en solitario en el Teatro Metropólitan como parte de su gira internacional.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/leon-bridges-llega-a-la-cdmx-el-24-de-marzo-de-2027-para-presentar-su-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/leon-bridges-llega-a-la-cdmx-el-24-de-marzo-de-2027-para-presentar-su-1106.jpg",
+    "fecha": "2026-11-07T11:08:43.653190",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos",
+    "fecha_original": "2026-11-06T11:06:43.287865",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Feid lanza “Paradixe Remix” con Omar Courtz, Myke Towers y más",
     "artista": "Feid",
@@ -646,22 +662,6 @@
     "views": 0,
     "categoria": "Chisme",
     "fecha_original": "2026-10-30T20:58:50.074904",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Leon Bridges llega a la CDMX el 24 de marzo de 2027 para presentar su nueva gira",
-    "artista": "Leon Bridges",
-    "intro": "El artista estadounidense ofrecerá un concierto en solitario en el Teatro Metropólitan como parte de su gira internacional.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/leon-bridges-llega-a-la-cdmx-el-24-de-marzo-de-2027-para-presentar-su-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/leon-bridges-llega-a-la-cdmx-el-24-de-marzo-de-2027-para-presentar-su-1106.jpg",
-    "fecha": "2026-11-06T11:56:15.990639",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos",
-    "fecha_original": "2026-11-06T11:06:43.287865",
     "actualizada": true
   },
   {
