@@ -1,77 +1,12 @@
 {
- "In memoriam": {
+ "Biografía": {
   "shorts": [
    {
     "id": "ZmcGV2_3eOI",
-    "titulo": "Pedro Infante muere en accidente aéreo de Mérida en 1957",
+    "titulo": "Pedro Infante: el fatal accidente aéreo en Mérida de 1957",
     "fecha": "2026-11-07",
-    "nota": "https://enelensayomedia.com/notas/pedro-infante-muere-en-accidente-aereo-de-merida-en-1957-1107.html"
+    "nota": "https://enelensayomedia.com/notas/pedro-infante-el-fatal-accidente-aereo-en-merida-de-1957-1107.html"
    },
-   {
-    "id": "bNQVbCmLexI",
-    "titulo": "El oscuro secreto detrás de la muerte de Kurt Cobain",
-    "fecha": "2026-10-31",
-    "nota": "https://enelensayomedia.com/notas/el-oscuro-secreto-detras-de-la-muerte-de-kurt-cobain-1031.html"
-   },
-   {
-    "id": "KsetdIqOi_0",
-    "titulo": "JOAQUÍN CARBONELL: Murió el día de su cumpleaños",
-    "fecha": "2026-10-30",
-    "nota": "https://enelensayomedia.com/notas/joaquin-carbonell-murio-el-dia-de-su-cumpleanos-1030.html"
-   },
-   {
-    "id": "kA21nwKSUDU",
-    "titulo": "5 curiosidades que no sabías de Fallece Eddie Low",
-    "fecha": "2026-10-30",
-    "nota": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-fallece-eddie-low-1030.html"
-   },
-   {
-    "id": "LPqjHSJvvPk",
-    "titulo": "El compositor de Hänsel y Gretel murió hace 105 años",
-    "fecha": "2026-10-30",
-    "nota": "https://enelensayomedia.com/notas/el-compositor-de-hansel-y-gretel-murio-hace-105-anos-1030.html"
-   },
-   {
-    "id": "5ab2iCeZFRk",
-    "titulo": "Murió el mismo día que Rasputin, 94 años después",
-    "fecha": "2026-10-29",
-    "nota": "https://enelensayomedia.com/notas/murio-el-mismo-dia-que-rasputin-94-anos-despues-1029.html"
-   }
-  ],
-  "longs": []
- },
- "Cine": {
-  "shorts": [
-   {
-    "id": "ebvgOHqQRGs",
-    "titulo": "El cine latino cruza fronteras en Los Ángeles",
-    "fecha": "2026-11-07",
-    "nota": "https://enelensayomedia.com/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.html"
-   },
-   {
-    "id": "Vn053n5Jkms",
-    "titulo": "A 14 años del fallecimiento de Leonardo Favio",
-    "fecha": "2026-11-05",
-    "nota": "https://enelensayomedia.com/notas/a-14-anos-del-fallecimiento-de-leonardo-favio-1105.html"
-   },
-   {
-    "id": "MDQfrbn4mRc",
-    "titulo": "Mito vs Realidad: ¿James Gunn es un éxito en el universo de DC?",
-    "fecha": "2026-11-03",
-    "nota": "https://enelensayomedia.com/notas/mito-vs-realidad-james-gunn-es-un-exito-en-el-universo-de-dc-1103.html"
-   }
-  ],
-  "longs": [
-   {
-    "id": "26wn_wAKm5U",
-    "titulo": "La historia detrás de Jorge Negrete, el Charro Cantor",
-    "fecha": "2026-11-06",
-    "nota": "https://enelensayomedia.com/notas/la-historia-detras-de-jorge-negrete-el-charro-cantor-1106.html"
-   }
-  ]
- },
- "Biografía": {
-  "shorts": [
    {
     "id": "U9wtNjcwEUU",
     "titulo": "Los últimos momentos de Amy Winehouse",
@@ -137,12 +72,6 @@
     "titulo": "Miguel Zabaleta y Suéter: la voz del rock argentino que ocultó su lucha contra el cáncer",
     "fecha": "2026-11-02",
     "nota": "https://enelensayomedia.com/notas/miguel-zabaleta-y-sueter-la-voz-del-rock-argentino-que-oculto-su-lucha-1102.html"
-   },
-   {
-    "id": "jbjdlYFpti4",
-    "titulo": "El oscuro secreto detrás del nacimiento de Eminem: infancia, fama y ansiedad",
-    "fecha": "2026-11-01",
-    "nota": "https://enelensayomedia.com/notas/el-oscuro-secreto-detras-del-nacimiento-de-eminem-infancia-fama-y-ansi-1101.html"
    }
   ],
   "longs": [
@@ -217,6 +146,36 @@
     "titulo": "Celine Dion, la reina de las Power Ballads: trayectoria y hitos clave",
     "fecha": "2026-11-01",
     "nota": "https://enelensayomedia.com/notas/celine-dion-la-reina-de-las-power-ballads-trayectoria-y-hitos-clave-1101.html"
+   }
+  ]
+ },
+ "Cine": {
+  "shorts": [
+   {
+    "id": "ebvgOHqQRGs",
+    "titulo": "El cine latino cruza fronteras en Los Ángeles",
+    "fecha": "2026-11-07",
+    "nota": "https://enelensayomedia.com/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.html"
+   },
+   {
+    "id": "Vn053n5Jkms",
+    "titulo": "A 14 años del fallecimiento de Leonardo Favio",
+    "fecha": "2026-11-05",
+    "nota": "https://enelensayomedia.com/notas/a-14-anos-del-fallecimiento-de-leonardo-favio-1105.html"
+   },
+   {
+    "id": "MDQfrbn4mRc",
+    "titulo": "Mito vs Realidad: ¿James Gunn es un éxito en el universo de DC?",
+    "fecha": "2026-11-03",
+    "nota": "https://enelensayomedia.com/notas/mito-vs-realidad-james-gunn-es-un-exito-en-el-universo-de-dc-1103.html"
+   }
+  ],
+  "longs": [
+   {
+    "id": "26wn_wAKm5U",
+    "titulo": "La historia detrás de Jorge Negrete, el Charro Cantor",
+    "fecha": "2026-11-06",
+    "nota": "https://enelensayomedia.com/notas/la-historia-detras-de-jorge-negrete-el-charro-cantor-1106.html"
    }
   ]
  },
@@ -355,12 +314,6 @@
     "titulo": "El Nahual: Brujo que se transforma en bestia y controla la muerte",
     "fecha": "2026-10-30",
     "nota": "https://enelensayomedia.com/notas/el-nahual-brujo-que-se-transforma-en-bestia-y-controla-la-muerte-1030.html"
-   },
-   {
-    "id": "qNlg2vJXyRE",
-    "titulo": "Isla de las Muñecas: la niña que nadie pudo probar que existió",
-    "fecha": "2026-10-29",
-    "nota": "https://enelensayomedia.com/notas/isla-de-las-munecas-la-nina-que-nadie-pudo-probar-que-existio-1029.html"
    }
   ]
  },
@@ -580,6 +533,41 @@
     "titulo": "El soldado teletransportado de 1593 | Leyenda de Gil Pérez",
     "fecha": "2026-10-30",
     "nota": "https://enelensayomedia.com/notas/el-soldado-teletransportado-de-1593-leyenda-de-gil-perez-1030.html"
+   }
+  ],
+  "longs": []
+ },
+ "In memoriam": {
+  "shorts": [
+   {
+    "id": "bNQVbCmLexI",
+    "titulo": "El oscuro secreto detrás de la muerte de Kurt Cobain",
+    "fecha": "2026-10-31",
+    "nota": "https://enelensayomedia.com/notas/el-oscuro-secreto-detras-de-la-muerte-de-kurt-cobain-1031.html"
+   },
+   {
+    "id": "KsetdIqOi_0",
+    "titulo": "JOAQUÍN CARBONELL: Murió el día de su cumpleaños",
+    "fecha": "2026-10-30",
+    "nota": "https://enelensayomedia.com/notas/joaquin-carbonell-murio-el-dia-de-su-cumpleanos-1030.html"
+   },
+   {
+    "id": "kA21nwKSUDU",
+    "titulo": "5 curiosidades que no sabías de Fallece Eddie Low",
+    "fecha": "2026-10-30",
+    "nota": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-fallece-eddie-low-1030.html"
+   },
+   {
+    "id": "LPqjHSJvvPk",
+    "titulo": "El compositor de Hänsel y Gretel murió hace 105 años",
+    "fecha": "2026-10-30",
+    "nota": "https://enelensayomedia.com/notas/el-compositor-de-hansel-y-gretel-murio-hace-105-anos-1030.html"
+   },
+   {
+    "id": "5ab2iCeZFRk",
+    "titulo": "Murió el mismo día que Rasputin, 94 años después",
+    "fecha": "2026-10-29",
+    "nota": "https://enelensayomedia.com/notas/murio-el-mismo-dia-que-rasputin-94-anos-despues-1029.html"
    }
   ],
   "longs": []

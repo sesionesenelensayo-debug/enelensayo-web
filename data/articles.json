@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Pedro Infante: el fatal accidente aéreo en Mérida de 1957",
+    "artista": "Pedro Infante",
+    "intro": "En el video del canal En el Ensayo Media se aborda el trágico accidente aéreo ocurrido en Mérida el 15 de abril de 1957, en el cual perdió la vida el célebre actor y cantante mexicano Pedro Infante.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/pedro-infante-el-fatal-accidente-aereo-en-merida-de-1957-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/pedro-infante-el-fatal-accidente-aereo-en-merida-de-1957-1107.jpg",
+    "fecha": "2026-11-07T13:54:34.703741",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Lanzan la expansión Pokémon TCG Megaevolución-Dominio Delta",
     "artista": "Pokémon TCG",
     "intro": "Tras años de ausencia en formato físico, la mecánica de las Megaevoluciones regresa al juego de cartas coleccionables.",
@@ -4985,20 +5000,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Terror y misterio"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Kurt Cobain, ¿Courtney estuvo detrás de lo que pasó? La historia completa ",
-    "artista": "Kurt Cobain, ¿Courtney estuvo detrás de lo que pasó? La hist",
-    "intro": "La noticia aborda la historia completa de Kurt Donald Cobain. El artículo detalla su nacimiento el 20 de febrero de 1967 en Aberdeen, Washington. Se destaca que su infancia fue marcada por el divorcio",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/kurt-cobain-courtney-estuvo-detras-de-lo-que-paso-la-historia-completa-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/kurt-cobain-courtney-estuvo-detras-de-lo-que-paso-la-historia-completa-1030.jpg",
-    "fecha": "2026-10-30T21:50:59.107386",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   },
   {
     "tipo": "reportaje",
