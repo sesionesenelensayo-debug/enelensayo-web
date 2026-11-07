@@ -38,9 +38,3 @@
 .st-tot{min-width:170px}.st-barra{display:block;height:8px;border-radius:99px;background:rgba(255,255,255,.1);margin-top:5px;overflow:hidden}
 .st-barra i{display:block;height:100%;border-radius:99px}.st-barra i.mx{background:#2ecc71}.st-barra i.ex{background:#9146ff}
 @media(max-width:900px){.st-hero{grid-template-columns:repeat(2,1fr)}}@media(max-width:520px){.st-hero{grid-template-columns:1fr}}
-
-/* Panel de visitas en hitos */
-.vis-panel{margin:18px 0}.vis-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:12px;margin:10px 0}
-.vis-k{padding:14px;border-radius:14px;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.12)}.vis-k b{display:block;font-size:1.7rem;color:var(--yellow)}.vis-k small{opacity:.75}
-.vis-bars{display:flex;align-items:flex-end;gap:8px;height:110px;margin:12px 0}.vis-bars span{flex:1;display:flex;flex-direction:column;align-items:center;justify-content:flex-end;height:100%;gap:4px}
-.vis-bars i{display:block;width:100%;background:linear-gradient(#00c9a7,#673ab7);border-radius:6px 6px 2px 2px;min-height:4px}.vis-bars small{font-size:.65rem;opacity:.7}.vis-reg{margin:6px 0;font-size:.88rem;opacity:.9}
