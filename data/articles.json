@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Pedro Infante muere en accidente aéreo de Mérida en 1957",
+    "artista": "Pedro Infante: el fatal accidente aéreo en Mérida de 1957",
+    "intro": "El 15 de abril de 1957 el icónico actor y cantante mexicano Pedro Infante perdió la vida cuando el C‑87 Liberator Express que pilotaba se estrelló en Mérida.",
+    "telegraph_url": "https://telegra.ph/Pedro-Infante-muere-en-accidente-aéreo-de-Mérida-en-1957-11-07",
+    "url": "https://enelensayomedia.com/notas/pedro-infante-muere-en-accidente-aereo-de-merida-en-1957-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/pedro-infante-muere-en-accidente-aereo-de-merida-en-1957-1107.jpg",
+    "fecha": "2026-11-07T13:20:25.368314",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "In memoriam"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Super Mario Galaxy: La película llega a HBO Max",
     "artista": "Super Mario Galaxy",
     "intro": "HBO Max ha anunciado de manera oficial la fecha de estreno para Latinoamérica de ‘Super Mario Galaxy: La película’, uno de los grandes éxitos cinematográficos de este año.",
@@ -5681,19 +5695,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Escena local"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Chupacabras: La bestia sin sangre que aterrorizó Texas y Puerto Rico",
-    "artista": "",
-    "intro": "El nuevo video de En El Ensayo recorre en diez minutos el mito del chupacabras, partiendo de su origen en Puerto Rico y siguiendo su expansión hasta los ex",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/chupacabras-la-bestia-sin-sangre-que-aterrorizo-texas-y-puerto-rico-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/chupacabras-la-bestia-sin-sangre-que-aterrorizo-texas-y-puerto-rico-1029.jpg",
-    "fecha": "2026-10-29T11:43:32",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Terror y misterio",
-    "archivo": true
   }
 ]
