@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Bizarrap confirma su concierto en Ciudad de México dentro del BZRP Live Tour 2024",
+    "artista": "Bizarrap",
+    "intro": "El productor argentino Bizarrap anunció el 20 de febrero de 2024 un show en la Ciudad de México como parte de su gira BZRP Live Tour 2024.",
+    "telegraph_url": "https://telegra.ph/Bizarrap-confirma-su-concierto-en-Ciudad-de-México-dentro-del-BZRP-Live-Tour-2024-11-07",
+    "url": "https://enelensayomedia.com/notas/bizarrap-confirma-su-concierto-en-ciudad-de-mexico-dentro-del-bzrp-liv-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/bizarrap-confirma-su-concierto-en-ciudad-de-mexico-dentro-del-bzrp-liv-1107.jpg",
+    "fecha": "2026-11-07T08:31:15.628717",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "El enigmático abandono del Mary Celeste: hechos y misterios del bergantín fantasma",
     "artista": "el naufragio del Mary Celeste",
     "intro": "Una crónica que recorre la construcción, la travesía, el hallazgo y la investigación del caso que sigue sin explicación definitiva.",
@@ -3584,20 +3598,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El oscuro secreto y la teoría conspirativa detrás de Abbey Road",
-    "artista": "The Beatles",
-    "intro": "En el video del canal En el Ensayo Media se explica el origen y las consecuencias de la emblemática portada del álbum Abbey Road de The Beatles, publicado el 26 de septiembre de 1969…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-oscuro-secreto-y-la-teoria-conspirativa-detras-de-abbey-road-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-oscuro-secreto-y-la-teoria-conspirativa-detras-de-abbey-road-1101.jpg",
-    "fecha": "2026-11-01T22:48:51.938011",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
