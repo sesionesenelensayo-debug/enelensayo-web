@@ -1,6 +1,22 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "KENDALL estrena \"Dopamina\", sencillo promocional de su nuevo EP",
+    "artista": "KENDALL",
+    "intro": "El artista KENDALL ha lanzado \"Dopamina\", el primer sencillo promocional que anuncia su próximo EP.",
+    "telegraph_url": "https://telegra.ph/KENDALL-estrena-Dopamina-sencillo-promocional-de-su-nuevo-EP-11-02",
+    "url": "https://enelensayomedia.com/notas/kendall-estrena-dopamina-sencillo-promocional-de-su-nuevo-ep-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/kendall-estrena-dopamina-sencillo-promocional-de-su-nuevo-ep-1102.jpg",
+    "fecha": "2026-11-07T11:30:31.549747",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Escena local",
+    "fecha_original": "2026-11-02T10:18:00.037276",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Dragon Ball Super: Beerus – Crítica del capítulo 4 y llegada del doblaje latino",
     "artista": "Dragon Ball Super",
@@ -11,7 +27,7 @@
     "fecha": "2026-11-07T11:30:23.866428",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Televisión",
+    "categoria": "Cultura",
     "fecha_original": "2026-11-02T08:58:00",
     "actualizada": true
   },
@@ -3212,20 +3228,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Esports"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "KENDALL estrena \"Dopamina\", sencillo promocional de su nuevo EP",
-    "artista": "KENDALL",
-    "intro": "El artista KENDALL ha lanzado \"Dopamina\", el primer sencillo promocional que anuncia su próximo EP.",
-    "telegraph_url": "https://telegra.ph/KENDALL-estrena-Dopamina-sencillo-promocional-de-su-nuevo-EP-11-02",
-    "url": "https://enelensayomedia.com/notas/kendall-estrena-dopamina-sencillo-promocional-de-su-nuevo-ep-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/kendall-estrena-dopamina-sencillo-promocional-de-su-nuevo-ep-1102.jpg",
-    "fecha": "2026-11-02T10:18:00.037276",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Escena local"
   },
   {
     "opinion": false,
