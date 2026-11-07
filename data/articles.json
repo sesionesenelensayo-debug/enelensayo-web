@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Catacumbas de los Capuchinos: ocho mil cuerpos bajo Palermo",
+    "artista": "la Catacumba de los Capuchinos de Palermo",
+    "intro": "Un recorrido histórico por el cementerio siciliano donde la muerte se exhibe como archivo social y fenómeno de masas.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/catacumbas-de-los-capuchinos-ocho-mil-cuerpos-bajo-palermo-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/catacumbas-de-los-capuchinos-ocho-mil-cuerpos-bajo-palermo-1106.jpg",
+    "fecha": "2026-11-06T20:38:08.644613",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Historias de terror"
+  },
+  {
     "tipo": "noticia",
     "titulo": "Festival Internacional del Globo 2026 revela su canción oficial",
     "artista": "Festival Internacional del Globo",
@@ -5665,18 +5679,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Mbappé y el meme de Mao: polémica, boicot y disculpas en China",
-    "artista": "",
-    "intro": "El delantero francés provocó una crisis comercial y mediática tras un chiste sobre un meme que lo vinculaba al líder chino.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/mbappe-y-el-meme-de-mao-polemica-boicot-y-disculpas-en-china-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/mbappe-y-el-meme-de-mao-polemica-boicot-y-disculpas-en-china-1029.jpg",
-    "fecha": "2026-10-29T00:28:13",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Agenda woke"
   }
 ]
