@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "CDMX prepara exposición gratuita de Godzilla",
+    "artista": "Takashi Yamazaki",
+    "intro": "La Ciudad de México alista una exposición gratuita de Godzilla. Este evento se organiza con motivo del estreno de la nueva película dirigida por Takashi Yamazaki.",
+    "telegraph_url": "https://telegra.ph/CDMX-prepara-exposición-gratuita-de-Godzilla-11-02",
+    "url": "https://enelensayomedia.com/notas/cdmx-prepara-exposicion-gratuita-de-godzilla-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/cdmx-prepara-exposicion-gratuita-de-godzilla-1101.jpg",
+    "fecha": "2026-11-07T17:17:25.341061",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-11-01T23:16:04.565427",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Rey Mysterio propone duelo México vs. USA en Survivor Series",
@@ -3871,19 +3886,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Música"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "CDMX prepara exposición gratuita de Godzilla",
-    "artista": "Takashi Yamazaki",
-    "intro": "La Ciudad de México alista una exposición gratuita de Godzilla. Este evento se organiza con motivo del estreno de la nueva película dirigida por Takashi Yamazaki.",
-    "telegraph_url": "https://telegra.ph/CDMX-prepara-exposición-gratuita-de-Godzilla-11-02",
-    "url": "https://enelensayomedia.com/notas/cdmx-prepara-exposicion-gratuita-de-godzilla-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/cdmx-prepara-exposicion-gratuita-de-godzilla-1101.jpg",
-    "fecha": "2026-11-01T23:16:04.565427",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   },
   {
     "tipo": "reportaje",
