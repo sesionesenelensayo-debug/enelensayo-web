@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "¿Lalo Garza contra los star talents en el doblaje de Wildwood?",
+    "artista": "Lalo Garza",
+    "intro": "Lalo Garza, voz icónica de Krilin en 'Dragon Ball Z', reaccionó con un contundente «Qué triste» a las críticas generadas por el doblaje latino de 'Wildwood…",
+    "telegraph_url": "https://telegra.ph/Lalo-Garza-contra-los-star-talents-en-el-doblaje-de-Wildwood-11-07",
+    "url": "https://enelensayomedia.com/notas/lalo-garza-contra-los-star-talents-en-el-doblaje-de-wildwood-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/lalo-garza-contra-los-star-talents-en-el-doblaje-de-wildwood-1107.jpg",
+    "fecha": "2026-11-07T17:45:16.501386",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
     "tipo": "noticia",
     "titulo": "Festival Internacional del Globo 2026 revela su canción oficial",
     "artista": "Festival Internacional del Globo",
@@ -5700,18 +5714,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Franco Escamilla lleva su show 'El Juicio' al Auditorio Nacional el 6 de febrero de 2027",
-    "artista": "",
-    "intro": "El comediante mexicano regresa a CDMX con su nuevo espectáculo de stand up en el Auditorio Nacional.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/franco-escamilla-lleva-su-show-el-juicio-al-auditorio-nacional-el-6-de-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/franco-escamilla-lleva-su-show-el-juicio-al-auditorio-nacional-el-6-de-1029.jpg",
-    "fecha": "2026-10-29T18:34:04",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
   }
 ]
