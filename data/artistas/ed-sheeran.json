@@ -1,0 +1,16 @@
+{
+  "artista": "Ed Sheeran",
+  "slug": "ed-sheeran",
+  "imagen": "",
+  "shorts": [],
+  "longs": [
+    {
+      "titulo": "¿Cómo un pelirrojo sin techo conquistó la música mundial? La historia de Ed Sheeran",
+      "url": "https://www.youtube.com/shorts/aNc_vKsURoM",
+      "fecha": "2026-11-07",
+      "tipo": "long"
+    }
+  ],
+  "tweets": [],
+  "updated": "2026-11-07 12:03"
+}

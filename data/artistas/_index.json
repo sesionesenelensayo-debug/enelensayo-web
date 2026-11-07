@@ -1,5 +1,12 @@
 [
   {
+    "artista": "Ed Sheeran",
+    "slug": "ed-sheeran",
+    "imagen": "",
+    "piezas": 1,
+    "updated": "2026-11-07 12:03"
+  },
+  {
     "artista": "Jorge Negrete",
     "slug": "jorge-negrete",
     "imagen": "",
