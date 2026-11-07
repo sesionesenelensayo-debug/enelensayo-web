@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
+    "artista": "Alejandra Guzmán y Frida Sofía",
+    "intro": "Tras años de distanciamiento mediático, la relación entre Alejandra Guzmán y Frida Sofía vuelve al centro de la conversación pública.",
+    "telegraph_url": "https://telegra.ph/Alejandra-Guzmán-confirma-encuentro-con-Frida-Sofía-11-06",
+    "url": "https://enelensayomedia.com/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.jpg",
+    "fecha": "2026-11-06T18:21:18.222347",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-06T11:37:52.319357",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Muere a los 52 años el cineasta chileno Sebastián Lelio",
     "artista": "Sebastián Lelio",
     "intro": "¿De qué murió Sebastián Lelio, director de 'Una mujer fantástica' y ganador de un Oscar? El cineasta chileno Sebastián Lelio murió este viernes a los 52 años de edad.",
@@ -280,22 +296,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Chisme"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
-    "artista": "Alejandra Guzmán y Frida Sofía",
-    "intro": "Tras años de distanciamiento mediático, la relación entre Alejandra Guzmán y Frida Sofía vuelve al centro de la conversación pública.",
-    "telegraph_url": "https://telegra.ph/Alejandra-Guzmán-confirma-encuentro-con-Frida-Sofía-11-06",
-    "url": "https://enelensayomedia.com/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.jpg",
-    "fecha": "2026-11-06T14:15:25.371544",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-06T11:37:52.319357",
-    "actualizada": true
   },
   {
     "opinion": false,

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-06 12:12",
+ "actualizado": "2026-11-06 18:21",
  "campeones": {
   "WWE": [
    {
@@ -429,6 +429,19 @@
    "credito_url": "https://wrestleseek.com/upcoming-ples/"
   },
   {
+   "nombre": "AEW Collision: Chris Jericho's Rock N' Wrestling Rager",
+   "promocion": "AEW",
+   "fecha": "2026-11-07",
+   "lugar": "Norwegian Jewel",
+   "ciudad": "Miami, FL",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.allelitewrestling.com/aew-events?lang=es",
+   "img": "img/luchas/o-aew-aew-collision-chris-jericho-s-rock-n-wrestling.jpg",
+   "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
+   "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
+  },
+  {
    "nombre": "Los Tucanes de Tijuana",
    "promocion": "Otras",
    "fecha": "2026-11-07",
@@ -441,19 +454,6 @@
    "img": "img/luchas/o-otras-los-tucanes-de-tijuana.jpg",
    "credito": "Imagen: Otras · conciertosenmonterrey.com (sitio oficial)",
    "credito_url": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026"
-  },
-  {
-   "nombre": "AEW Collision: Chris Jericho's Rock N' Wrestling Rager",
-   "promocion": "AEW",
-   "fecha": "2026-11-07",
-   "lugar": "Norwegian Jewel",
-   "ciudad": "Miami, FL",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.allelitewrestling.com/aew-events/all-in",
-   "img": "img/luchas/o-aew-aew-collision-chris-jericho-s-rock-n-wrestling.jpg",
-   "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
-   "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
   },
   {
    "nombre": "DOMINGO FAMILIAR",
@@ -487,7 +487,7 @@
    "promocion": "CMLL",
    "fecha": "2026-11-09",
    "lugar": "ARENA PUEBLA",
-   "ciudad": "Puebla",
+   "ciudad": "",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://cmll.com/cartelera/",
@@ -516,7 +516,7 @@
    "ciudad": "West Valley City, UT",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.allelitewrestling.com/aew-events/all-in",
+   "fuente": "https://www.allelitewrestling.com/aew-events?lang=es",
    "img": "img/luchas/o-aew-aew-dynamite-collision-west-valley-city.jpg",
    "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
    "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
@@ -529,7 +529,7 @@
    "ciudad": "Phoenix, AZ",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.allelitewrestling.com/aew-events/all-in",
+   "fuente": "https://www.allelitewrestling.com/aew-events?lang=es",
    "img": "img/luchas/o-aew-aew-full-gear.jpg",
    "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
    "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
@@ -555,7 +555,7 @@
    "ciudad": "Denver, CO",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.allelitewrestling.com/aew-events/all-in",
+   "fuente": "https://www.allelitewrestling.com/aew-events?lang=es",
    "img": "img/luchas/o-aew-aew-dynamite-denver.jpg",
    "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
    "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
@@ -568,7 +568,7 @@
    "ciudad": "Green Bay, WI",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.allelitewrestling.com/aew-events/all-in",
+   "fuente": "https://www.allelitewrestling.com/aew-events?lang=es",
    "img": "img/luchas/o-aew-aew-collision-green-bay.jpg",
    "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
    "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
@@ -581,7 +581,7 @@
    "ciudad": "Omaha, NE",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.allelitewrestling.com/aew-events/all-in",
+   "fuente": "https://www.allelitewrestling.com/aew-events?lang=es",
    "img": "img/luchas/o-aew-aew-dynamite-collision-omaha.jpg",
    "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
    "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
@@ -620,7 +620,7 @@
    "ciudad": "Laredo, TX",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.allelitewrestling.com/aew-events/all-in",
+   "fuente": "https://www.allelitewrestling.com/aew-events?lang=es",
    "img": "img/luchas/o-aew-aew-dynamite-laredo.jpg",
    "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
    "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
@@ -633,7 +633,7 @@
    "ciudad": "San Antonio, TX",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.allelitewrestling.com/aew-events/all-in",
+   "fuente": "https://www.allelitewrestling.com/aew-events?lang=es",
    "img": "img/luchas/o-roh-roh-final-battle.jpg",
    "credito": "Imagen: ROH · allelitewrestling.com (sitio oficial)",
    "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
@@ -646,7 +646,7 @@
    "ciudad": "San Antonio, TX",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.allelitewrestling.com/aew-events/all-in",
+   "fuente": "https://www.allelitewrestling.com/aew-events?lang=es",
    "img": "img/luchas/o-aew-aew-collision-san-antonio.jpg",
    "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
    "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
@@ -695,7 +695,7 @@
    "ciudad": "Oklahoma City, OK",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.allelitewrestling.com/aew-events/all-in",
+   "fuente": "https://www.allelitewrestling.com/aew-events?lang=es",
    "img": "img/luchas/o-aew-aew-dynamite-collision-oklahoma-city.jpg",
    "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
    "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
@@ -708,7 +708,7 @@
    "ciudad": "Minneapolis, MN",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.allelitewrestling.com/aew-events/all-in",
+   "fuente": "https://www.allelitewrestling.com/aew-events?lang=es",
    "img": "img/luchas/o-aew-aew-worlds-end.jpg",
    "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
    "credito_url": "https://www.allelitewrestling.com/aew-event/aew-worlds-end-2026"
@@ -721,7 +721,7 @@
    "ciudad": "Chicago, IL",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.allelitewrestling.com/aew-events/all-in",
+   "fuente": "https://www.allelitewrestling.com/aew-events?lang=es",
    "img": "img/luchas/o-aew-aew-dynamite-collision-holiday-bash.jpg",
    "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
    "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
@@ -734,7 +734,7 @@
    "ciudad": "Atlanta, GA",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.allelitewrestling.com/aew-events/all-in",
+   "fuente": "https://www.allelitewrestling.com/aew-events?lang=es",
    "img": "img/luchas/o-aew-aew-dynamite-new-year-s-smash.jpg",
    "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
    "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
@@ -747,7 +747,7 @@
    "ciudad": "Atlanta, GA",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.allelitewrestling.com/aew-events/all-in",
+   "fuente": "https://www.allelitewrestling.com/aew-events?lang=es",
    "img": "img/luchas/o-aew-aew-collision-new-year-s-smash.jpg",
    "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
    "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
@@ -760,7 +760,7 @@
    "ciudad": "Liverpool, UK",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.allelitewrestling.com/aew-events/all-in",
+   "fuente": "https://www.allelitewrestling.com/aew-events?lang=es",
    "img": "img/luchas/o-aew-aew-dynasty.jpg",
    "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
    "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
@@ -773,7 +773,7 @@
    "ciudad": "London, UK",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.allelitewrestling.com/aew-events/all-in",
+   "fuente": "https://www.allelitewrestling.com/aew-events?lang=es",
    "img": "img/luchas/o-aew-aew-dynamite-collision-london.jpg",
    "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
    "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
