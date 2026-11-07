@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Olivia Rodrigo lanza su primera canción navideña original, \"Take Me Home (4 Christmas)\"",
+    "artista": "Olivia Rodrigo",
+    "intro": "Olivia Rodrigo estrena \"Take Me Home (4 Christmas)\", su primer tema navideño original. Coescrita con Dan Nigro y Amy Allen, y producida por Nigro, la canción sale bajo Interscope Records.",
+    "telegraph_url": "https://telegra.ph/Olivia-Rodrigo-lanza-su-primera-canción-navideña-original-Take-Me-Home-4-Christmas-11-07",
+    "url": "https://enelensayomedia.com/notas/olivia-rodrigo-lanza-su-primera-cancion-navidena-original-take-me-home-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/olivia-rodrigo-lanza-su-primera-cancion-navidena-original-take-me-home-1107.jpg",
+    "fecha": "2026-11-07T12:07:03.420711",
+    "author": "Oliver Ken",
+    "views": 0,
+    "nota_dia": true,
+    "categoria": "Internacional"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "G2 Esports alista cambios radicales: SkewMond saldría y llegaría Lyncas",
     "artista": "G2 Esports y SkewMond (LEC offseason)",
     "intro": "La eliminación en los Worlds 2026 impulsa una reestructuración total en G2 Esports, con la salida de SkewMond y la llegada de Lyncas para la temporada 2027.",
@@ -5673,18 +5688,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Banda El Recodo lanza nuevo sencillo “Todo Pasa Por Algo” tras renovar visas en Hermosillo",
-    "artista": "",
-    "intro": "La icónica Banda El Recodo de Don Cruz Lizárraga volvió a la capital sonorense, Hermosillo, para tramitar la renovación de sus visas de trabajo. En la mism",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/banda-el-recodo-lanza-nuevo-sencillo-todo-pasa-por-algo-tras-renovar-v-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/banda-el-recodo-lanza-nuevo-sencillo-todo-pasa-por-algo-tras-renovar-v-1029.jpg",
-    "fecha": "2026-10-29T10:06:05",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Escena local"
   }
 ]
