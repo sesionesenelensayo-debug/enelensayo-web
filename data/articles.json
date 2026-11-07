@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Jim Croce: la verdad sobre el accidente aéreo de 1973",
+    "artista": "Jim Croce",
+    "intro": "En este video del canal En el Ensayo Media se aborda la vida y la trágica muerte del músico folk Jim Croche, quien perdió la vida en un accidente de aviación.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/jim-croce-la-verdad-sobre-el-accidente-aereo-de-1973-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/jim-croce-la-verdad-sobre-el-accidente-aereo-de-1973-1107.jpg",
+    "fecha": "2026-11-07T14:06:47.442836",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Pedro Infante: el fatal accidente aéreo en Mérida de 1957",
     "artista": "Pedro Infante",
     "intro": "En el video del canal En el Ensayo Media se aborda el trágico accidente aéreo ocurrido en Mérida el 15 de abril de 1957, en el cual perdió la vida el célebre actor y cantante mexicano Pedro Infante.",
@@ -4720,20 +4735,6 @@
     "categoria": "Chisme",
     "fecha_original": "2026-10-30T21:06:15.081026",
     "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Tupac Shakur - ¿Por qué tardaron casi treinta años en resolver su asesinato? La verdad oculta ",
-    "artista": "Tupac Shakur",
-    "intro": "Una publicación reciente ofrece la crónica íntegra del asesinato de Tupac Shakur ocurrido en Las Vegas en 1996.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/tupac-shakur-por-que-tardaron-casi-treinta-anos-en-resolver-su-asesina-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/tupac-shakur-por-que-tardaron-casi-treinta-anos-en-resolver-su-asesina-1031.jpg",
-    "fecha": "2026-10-31T18:28:30.596603",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   },
   {
     "tipo": "reportaje",
