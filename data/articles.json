@@ -1,6 +1,22 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Avengers: Doomsday rompe récords de preventa con más de 125 millones de dólares",
+    "artista": "Avengers: Doomsday",
+    "intro": "La nueva entrega de Marvel, Avengers: Doomsday, ha superado en preventas la recaudación total de la película Supergirl, alcanzando ya más de 125 millones de dólares antes de su estreno.",
+    "telegraph_url": "https://telegra.ph/Avengers-Doomsday-rompe-récords-de-preventa-con-más-de-125-millones-de-dólares-11-02",
+    "url": "https://enelensayomedia.com/notas/avengers-doomsday-rompe-records-de-preventa-con-mas-de-125-millones-de-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/avengers-doomsday-rompe-records-de-preventa-con-mas-de-125-millones-de-1102.jpg",
+    "fecha": "2026-11-07T14:52:18.860809",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU",
+    "fecha_original": "2026-11-02T11:10:31.180970",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Prime Video anuncia su calendario completo de estrenos para noviembre 2026",
     "artista": "Prime Video",
@@ -843,22 +859,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Avengers: Doomsday rompe récords de preventa con más de 125 millones de dólares",
-    "artista": "Avengers: Doomsday",
-    "intro": "La nueva entrega de Marvel, Avengers: Doomsday, ha superado en preventas la recaudación total de la película Supergirl, alcanzando ya más de 125 millones de dólares antes de su estreno.",
-    "telegraph_url": "https://telegra.ph/Avengers-Doomsday-rompe-récords-de-preventa-con-más-de-125-millones-de-dólares-11-02",
-    "url": "https://enelensayomedia.com/notas/avengers-doomsday-rompe-records-de-preventa-con-mas-de-125-millones-de-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/avengers-doomsday-rompe-records-de-preventa-con-mas-de-125-millones-de-1102.jpg",
-    "fecha": "2026-11-06T14:35:59.191437",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU",
-    "fecha_original": "2026-11-02T11:10:31.180970",
-    "actualizada": true
   },
   {
     "opinion": false,
