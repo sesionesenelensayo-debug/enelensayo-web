@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Cynthia Klitbo asegura que Ese Pérez es su 'hijo'",
+    "artista": "Cynthia Klitbo",
+    "intro": "La actriz mexicana Cynthia Klitbo ha asegurado que Ese Pérez es su 'hijo', de acuerdo con reportes del medio del espectáculo dados a conocer recientemente.",
+    "telegraph_url": "https://telegra.ph/Cynthia-Klitbo-asegura-que-Ese-Pérez-es-su-hijo-11-07",
+    "url": "https://enelensayomedia.com/notas/cynthia-klitbo-asegura-que-ese-perez-es-su-hijo-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/cynthia-klitbo-asegura-que-ese-perez-es-su-hijo-1107.jpg",
+    "fecha": "2026-11-07T14:25:32.915033",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Mon Laferte sufre agresión con celular en Las Vegas",
     "artista": "Mon Laferte",
     "intro": "Una agresión en pleno concierto interrumpió la presentación de Mon Laferte en Las Vegas, Estados Unidos.",
@@ -5272,19 +5286,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Halle Berry pierde custodia de su hijo",
-    "artista": "Halle Berry",
-    "intro": "La actriz enfrenta un revés legal tras perder la custodia física de su hijo en el proceso que mantiene con su exesposo Olivier Martinez. Medios como HOLA y Debate han reportado la información sobre la",
-    "telegraph_url": "https://telegra.ph/Halle-Berry-pierde-custodia-de-su-hijo-10-30",
-    "url": "https://enelensayomedia.com/notas/halle-berry-pierde-custodia-de-su-hijo-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/halle-berry-pierde-custodia-de-su-hijo-1030.jpg",
-    "fecha": "2026-10-30T16:45:41.251300",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   },
   {
     "tipo": "reportaje",
