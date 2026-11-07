@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Mon Laferte sufre agresión con celular en Las Vegas",
+    "artista": "Mon Laferte",
+    "intro": "Una agresión en pleno concierto interrumpió la presentación de Mon Laferte en Las Vegas, Estados Unidos.",
+    "telegraph_url": "https://telegra.ph/Mon-Laferte-sufre-agresión-con-celular-en-Las-Vegas-11-06",
+    "url": "https://enelensayomedia.com/notas/mon-laferte-sufre-agresion-con-celular-en-las-vegas-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/mon-laferte-sufre-agresion-con-celular-en-las-vegas-1106.jpg",
+    "fecha": "2026-11-07T14:14:26.959964",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-11-06T16:06:55.618703",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Jim Croce: la verdad sobre el accidente de 1973",
     "artista": "Jim Croce: la verdad sobre el accidente aéreo de 1973",
     "intro": "El 20 de septiembre de 1973, el cantautor estadounidense Jim Croce perdió la vida en un accidente aéreo ocurrido en Natchitoches, Luisiana.",
@@ -781,20 +797,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Mon Laferte sufre agresión con celular en Las Vegas",
-    "artista": "Mon Laferte",
-    "intro": "Una agresión en pleno concierto interrumpió la presentación de Mon Laferte en Las Vegas, Estados Unidos.",
-    "telegraph_url": "https://telegra.ph/Mon-Laferte-sufre-agresión-con-celular-en-Las-Vegas-11-06",
-    "url": "https://enelensayomedia.com/notas/mon-laferte-sufre-agresion-con-celular-en-las-vegas-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/mon-laferte-sufre-agresion-con-celular-en-las-vegas-1106.jpg",
-    "fecha": "2026-11-06T16:06:55.618703",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
