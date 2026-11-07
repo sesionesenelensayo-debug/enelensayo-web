@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Belén Ruiz lanza “Reencuentro”, primer adelanto de su próximo álbum Crisálida",
+    "artista": "Belén Ruiz",
+    "intro": "La cantautora Belén Ruiz ha presentado su nuevo sencillo “Reencuentro”, una pieza que fusiona el sonido del chelo con música electrónica.",
+    "telegraph_url": "https://telegra.ph/Belén-Ruiz-lanza-Reencuentro-primer-adelanto-de-su-próximo-álbum-Crisálida-11-07",
+    "url": "https://enelensayomedia.com/notas/belen-ruiz-lanza-reencuentro-primer-adelanto-de-su-proximo-album-crisa-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/belen-ruiz-lanza-reencuentro-primer-adelanto-de-su-proximo-album-crisa-1107.jpg",
+    "fecha": "2026-11-07T10:06:34.607089",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Escena local"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Sigourney Weaver revela su vínculo con Dian Fossey y el legado de 'Gorilas en la niebla'",
     "artista": "Sigourney Weaver confesión sobre ‘Gorilas en la niebla’",
@@ -5667,18 +5681,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Escena local"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece Cuauhtémoc Cárdenas a los 92 años, figura clave de la izquierda mexicana",
-    "artista": "",
-    "intro": "El ingeniero y político Cuauhtémoc Cárdenas Solórzano murió el 28 de octubre de 2026 a los 92 años en la Ciudad de México. Su fallecimiento, confirmado por",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fallece-cuauhtemoc-cardenas-a-los-92-anos-figura-clave-de-la-izquierda-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-cuauhtemoc-cardenas-a-los-92-anos-figura-clave-de-la-izquierda-1029.jpg",
-    "fecha": "2026-10-29T09:05:51",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
