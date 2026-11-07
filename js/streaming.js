@@ -12,15 +12,11 @@
   var ini = function (n) { return n.replace(/[^A-Za-z0-9 ]/g, '').split(' ').slice(0, 2).map(function (w) { return w.charAt(0); }).join('').toUpperCase() || '?'; };
   var tarjeta = function (s, i) {
     var foto = s.img ? '<img loading="lazy" src="' + esc(s.img) + '" alt="' + esc(s.nombre) + '" onerror="this.parentNode.classList.add(\'sinfoto\');this.remove()">' : '';
-    var nts = (s.noticias || []).slice(0, 2).map(function (n) {
-      return '<li><a href="' + esc(n.link) + '" target="_blank" rel="noopener nofollow">' + esc(n.titulo) + '</a> <small>' + esc(n.medio) + ' · ' + fecha(n.fecha) + '</small></li>';
-    }).join('');
     return '<article class="st-card st-c' + (i % 5) + '"><div class="st-top"><div class="st-av' + (s.img ? '' : ' sinfoto') + '" data-ini="' + esc(ini(s.nombre)) + '">' + foto + '</div>' +
       '<span class="st-pos">#' + (i + 1) + '</span></div>' +
       '<h3>' + esc(s.nombre) + '</h3><p class="st-pais">' + esc(s.bandera || '') + ' ' + esc(s.pais) + '</p>' +
       '<div class="st-plats">' + (s.plataformas || []).map(plat).join('') + '</div>' +
       (s.dato ? '<p class="st-dato">' + esc(s.dato) + '</p>' : '') +
-      (nts ? '<ul class="st-nts">' + nts + '</ul>' : '<p class="st-sin">Sin titulares recientes.</p>') +
       (s.credito ? '<small class="st-cred"><a href="' + esc(s.credito_url || '#') + '" target="_blank" rel="noopener nofollow">' + esc(s.credito) + '</a></small>' : '') + '</article>';
   };
 
@@ -67,10 +63,6 @@
       document.getElementById('stGrid').innerHTML = ss.filter(function (s) { return s.grupo === id; }).map(tarjeta).join('');
     };
     pinta('mexico');
-    var ch = d.chisme || [];
-    document.getElementById('stChisme').innerHTML = ch.length ? ch.map(function (n) {
-      return '<a class="st-ch" href="' + esc(n.link) + '" target="_blank" rel="noopener nofollow"><span>' + esc(n.titulo) + '</span><small>' + esc(n.medio) + ' · ' + fecha(n.fecha) + '</small></a>';
-    }).join('') : '<p class="sx-vacio">Sin titulares nuevos por ahora.</p>';
     var av = document.getElementById('stAviso');
     av.textContent += ' Datos: ' + (d.fuente || '') + '. Actualizado ' + (d.actualizado || '') + '.';
   }).catch(function () { });
