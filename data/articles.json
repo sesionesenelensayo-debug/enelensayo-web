@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Penélope Cruz revela cómo Salma Hayek la acogió al llegar a México",
+    "artista": "Penélope Cruz",
+    "intro": "Penélope Cruz contó que Salma Hayek la recibió en el aeropuerto mexicano y la invitó a quedarse en su casa, subrayando la dificultad que supone el inicio de una visita al país.",
+    "telegraph_url": "https://telegra.ph/Penélope-Cruz-revela-cómo-Salma-Hayek-la-acogió-al-llegar-a-México-11-07",
+    "url": "https://enelensayomedia.com/notas/penelope-cruz-revela-como-salma-hayek-la-acogio-al-llegar-a-mexico-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/penelope-cruz-revela-como-salma-hayek-la-acogio-al-llegar-a-mexico-1107.jpg",
+    "fecha": "2026-11-07T07:29:23.469587",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
     "tipo": "noticia",
     "titulo": "Festival Internacional del Globo 2026 revela su canción oficial",
     "artista": "Festival Internacional del Globo",
@@ -5103,22 +5117,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Conciertos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Chisme de pasillo: Ernesto Chavana y el dron que golpeó a Isabella Rojas",
-    "artista": "",
-    "intro": "Circulan en medios de espectáculos rumores de que un dron operado por Ernesto Chavana impactó a la cantante Isabella Rojas. La información proviene de ABCn",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/chisme-de-pasillo-ernesto-chavana-y-el-dron-que-golpeo-a-isabella-roja-1028.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/chisme-de-pasillo-ernesto-chavana-y-el-dron-que-golpeo-a-isabella-roja-1028.jpg",
-    "fecha": "2026-10-30T14:14:24.540727",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "archivo": true,
-    "fecha_original": "2026-10-28T18:31:07",
-    "actualizada": true
   },
   {
     "tipo": "reportaje",
