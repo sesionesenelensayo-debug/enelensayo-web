@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Muere a los 52 años el cineasta chileno Sebastián Lelio",
+    "artista": "Sebastián Lelio",
+    "intro": "¿De qué murió Sebastián Lelio, director de 'Una mujer fantástica' y ganador de un Oscar? El cineasta chileno Sebastián Lelio murió este viernes a los 52 años de edad.",
+    "telegraph_url": "https://telegra.ph/Muere-a-los-52-años-el-cineasta-chileno-Sebastián-Lelio-11-07",
+    "url": "https://enelensayomedia.com/notas/muere-a-los-52-anos-el-cineasta-chileno-sebastian-lelio-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/muere-a-los-52-anos-el-cineasta-chileno-sebastian-lelio-1106.jpg",
+    "fecha": "2026-11-06T18:20:33.944556",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Nuevos lanzamientos y cifras para Nintendo Switch y Switch 2",
     "artista": "Nintendo Switch",
@@ -4110,19 +4124,6 @@
     "categoria": "Cine",
     "fecha_original": "2026-11-01T07:11:20.943626",
     "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Estrena documental de Elizabeth Holmes en cines de América Latina",
-    "artista": "Elizabeth Holmes",
-    "intro": "El nuevo documental sobre Elizabeth Holmes llega a las salas de cine latinoamericanas, generando expectativa y reportes de una fuerte recepción económica.",
-    "telegraph_url": "https://telegra.ph/Estrena-documental-de-Elizabeth-Holmes-en-cines-de-América-Latina-11-01",
-    "url": "https://enelensayomedia.com/notas/estrena-documental-de-elizabeth-holmes-en-cines-de-america-latina-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/estrena-documental-de-elizabeth-holmes-en-cines-de-america-latina-1101.jpg",
-    "fecha": "2026-11-01T07:31:12.655876",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   },
   {
     "tipo": "reportaje",
