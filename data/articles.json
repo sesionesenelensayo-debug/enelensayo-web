@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Netflix anuncia precuela de 'Stranger Things' ambientada en los 50",
+    "artista": "Stranger Things",
+    "intro": "Netflix ha anunciado de forma oficial el desarrollo de una nueva serie precuela de 'Stranger Things', fijando su estreno para el año 2028.",
+    "telegraph_url": "https://telegra.ph/Netflix-anuncia-precuela-de-Stranger-Things-ambientada-en-los-50-11-07",
+    "url": "https://enelensayomedia.com/notas/netflix-anuncia-precuela-de-stranger-things-ambientada-en-los-50-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/netflix-anuncia-precuela-de-stranger-things-ambientada-en-los-50-1107.jpg",
+    "fecha": "2026-11-07T11:18:29.967862",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Leon Bridges llega a la CDMX el 24 de marzo de 2027 para presentar su nueva gira",
     "artista": "Leon Bridges",
