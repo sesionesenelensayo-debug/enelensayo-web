@@ -1,19 +1,5 @@
 [
   {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "¿Arruinó el 'star talent' el doblaje de Wildwood?",
-    "artista": "Wildwood",
-    "intro": "Lo que está confirmado es la intensa controversia generada en redes sociales y foros especializados debido al uso de 'star talents' en el doblaje latino de 'Wildwood'.",
-    "telegraph_url": "https://telegra.ph/Arruinó-el-star-talent-el-doblaje-de-Wildwood-11-07",
-    "url": "https://enelensayomedia.com/notas/arruino-el-star-talent-el-doblaje-de-wildwood-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/arruino-el-star-talent-el-doblaje-de-wildwood-1107.jpg",
-    "fecha": "2026-11-07T12:43:40.730915",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reportaje"
-  },
-  {
     "tipo": "noticia",
     "titulo": "El cine latino cruza fronteras en Los Ángeles",
     "artista": "Cine Latino",
@@ -180,7 +166,7 @@
     "fecha": "2026-11-07T11:49:47.278356",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Cine"
+    "categoria": "Doblaje"
   },
   {
     "opinion": false,

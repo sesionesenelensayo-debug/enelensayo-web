@@ -5,7 +5,7 @@ import re, os
 AQUI = os.path.dirname(os.path.abspath(__file__))
 PAGINAS = {  # archivo: (etiqueta de menú, título, descripción, [ids de sección])
     "noticias": ("Noticias", "Noticias de música y cultura de México", "Las últimas noticias de música y cultura de México: reportajes, entrevistas y notas propias con fuentes verificadas, publicadas todos los días.", ["notas", "noticias", "reportajes", "entrevistas"]),
-    "chisme": ("Chisme", "Chisme", "Chisme del espectáculo en México con rigor: lo que pasa con los famosos, contado con datos verificados y sin inventar nada.", ["chisme"]),
+    "chisme": ("Chisme", "Chisme y farándula", "Chisme y farándula en México con rigor: cantantes, actores, conductores e influencers; romances, rupturas y polémicas contadas con datos verificados y sin inventar nada.", ["chisme"]),
     "misterio": ("Misterio", "Misterio", "Terror, misterio y leyendas documentadas: historias reales y casos inexplicables investigados con fuentes y contados en video y texto.", ["misterio"]),
     "deporte": ("Deporte", "Deporte", "Lo que pasa en el deporte y en la música: noticias, resultados y análisis para seguir lo más importante del día.", ["deporte"]),
     "exclusivas": ("Exclusivas", "Notas exclusivas", "Lecturas largas diarias: esports, agenda woke, chismes internacionales y terror.", ["exclusivas"]),
