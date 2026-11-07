@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "La trayectoria musical de Ed Sheeran",
+    "artista": "Ed Sheeran",
+    "intro": "En este video del canal En el Ensayo Media se explora la trayectoria de Ed Sheeran, desde sus inicios como un joven pelirrojo que tocaba en el metro de Londres hasta convertirse en una estrella…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/la-trayectoria-musical-de-ed-sheeran-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-trayectoria-musical-de-ed-sheeran-1107.jpg",
+    "fecha": "2026-11-07T12:07:54.375181",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Olivia Rodrigo lanza su primera canción navideña original, \"Take Me Home (4 Christmas)\"",
     "artista": "Olivia Rodrigo",
     "intro": "Olivia Rodrigo estrena \"Take Me Home (4 Christmas)\", su primer tema navideño original. Coescrita con Dan Nigro y Amy Allen, y producida por Nigro, la canción sale bajo Interscope Records.",
@@ -4937,20 +4952,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Bersuit Vergarabat - Por qué cantaban en pijamas? La historia real ",
-    "artista": "Bersuit Vergarabat",
-    "intro": "La trayectoria de Bersuit Vergarabat tiene su raíz en el barrio obrero de Barracas, al sur de la Ciudad de Buenos Aires. A finales de los años ochenta, un grupo de amigos de la infancia comenzó a expe",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/bersuit-vergarabat-por-que-cantaban-en-pijamas-la-historia-real-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/bersuit-vergarabat-por-que-cantaban-en-pijamas-la-historia-real-1030.jpg",
-    "fecha": "2026-10-30T20:16:53.676304",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   },
   {
     "tipo": "reportaje",
