@@ -1,46 +1,12 @@
 {
- "Chisme": {
-  "shorts": [
-   {
-    "id": "6wivIUQ6Sv8",
-    "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
-    "fecha": "2026-11-06",
-    "nota": "https://enelensayomedia.com/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.html"
-   },
-   {
-    "id": "fVwyGebmjOc",
-    "titulo": "Thomas Markle bajo investigación por presunto material de abuso infantil",
-    "fecha": "2026-11-04",
-    "nota": "https://enelensayomedia.com/notas/thomas-markle-bajo-investigacion-por-presunto-material-de-abuso-infant-1104.html"
-   },
-   {
-    "id": "RC99UEiGxg0",
-    "titulo": "Chisme de pasillo: Ernesto Chavana y el dron que golpeó a Isabella Rojas",
-    "fecha": "2026-10-30",
-    "nota": "https://enelensayomedia.com/notas/chisme-de-pasillo-ernesto-chavana-y-el-dron-que-golpeo-a-isabella-roja-1028.html"
-   }
-  ],
-  "longs": []
- },
- "Reportaje": {
+ "Música": {
   "shorts": [
    {
     "id": "kyY4lQuk2ew",
-    "titulo": "Maluma anuncia gira mundial Loco X Volver para 2027 y 2028",
+    "titulo": "Maluma anuncia su gira mundial Loco X Volver para 2027 y 2028",
     "fecha": "2026-11-06",
-    "nota": "https://enelensayomedia.com/notas/maluma-anuncia-gira-mundial-loco-x-volver-para-2027-y-2028-1106.html"
+    "nota": "https://enelensayomedia.com/notas/maluma-anuncia-su-gira-mundial-loco-x-volver-para-2027-y-2028-1106.html"
    },
-   {
-    "id": "X7cXUTxfHCU",
-    "titulo": "Café Tacvba lanzó su disco de versiones «Avalancha de Éxitos»",
-    "fecha": "2026-11-05",
-    "nota": "https://enelensayomedia.com/notas/cafe-tacvba-lanzo-su-disco-de-versiones-avalancha-de-exitos-1105.html"
-   }
-  ],
-  "longs": []
- },
- "Música": {
-  "shorts": [
    {
     "id": "okNPyx0cFEQ",
     "titulo": "Las cuentas y datos del cartel del Vive Latino 2027",
@@ -128,6 +94,29 @@
     "nota": "https://enelensayomedia.com/notas/la-vida-la-musica-y-el-tragico-final-de-chester-bennington-1101.html"
    }
   ]
+ },
+ "Chisme": {
+  "shorts": [
+   {
+    "id": "6wivIUQ6Sv8",
+    "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
+    "fecha": "2026-11-06",
+    "nota": "https://enelensayomedia.com/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.html"
+   },
+   {
+    "id": "fVwyGebmjOc",
+    "titulo": "Thomas Markle bajo investigación por presunto material de abuso infantil",
+    "fecha": "2026-11-04",
+    "nota": "https://enelensayomedia.com/notas/thomas-markle-bajo-investigacion-por-presunto-material-de-abuso-infant-1104.html"
+   },
+   {
+    "id": "RC99UEiGxg0",
+    "titulo": "Chisme de pasillo: Ernesto Chavana y el dron que golpeó a Isabella Rojas",
+    "fecha": "2026-10-30",
+    "nota": "https://enelensayomedia.com/notas/chisme-de-pasillo-ernesto-chavana-y-el-dron-que-golpeo-a-isabella-roja-1028.html"
+   }
+  ],
+  "longs": []
  },
  "Cultura": {
   "shorts": [
@@ -259,6 +248,17 @@
     "nota": "https://enelensayomedia.com/notas/el-charro-negro-el-jinete-maldito-que-cobra-almas-en-la-noche-1029.html"
    }
   ]
+ },
+ "Reportaje": {
+  "shorts": [
+   {
+    "id": "X7cXUTxfHCU",
+    "titulo": "Café Tacvba lanzó su disco de versiones «Avalancha de Éxitos»",
+    "fecha": "2026-11-05",
+    "nota": "https://enelensayomedia.com/notas/cafe-tacvba-lanzo-su-disco-de-versiones-avalancha-de-exitos-1105.html"
+   }
+  ],
+  "longs": []
  },
  "Marvel y DCU": {
   "shorts": [

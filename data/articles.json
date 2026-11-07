@@ -1,5 +1,20 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Maluma anuncia su gira mundial Loco X Volver para 2027 y 2028",
+    "artista": "Maluma",
+    "intro": "En el video de En el Ensayo Media se detalla el anuncio oficial del regreso de Maluma a los escenarios internacionales con su nueva gira mundial.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/maluma-anuncia-su-gira-mundial-loco-x-volver-para-2027-y-2028-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/maluma-anuncia-su-gira-mundial-loco-x-volver-para-2027-y-2028-1106.jpg",
+    "fecha": "2026-11-06T20:18:13.633503",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "La Sirenita (2023): ¿Qué implica el casting de Halle Bailey en la historia original?",
@@ -3622,19 +3637,6 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-01T10:38:35.798670",
     "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Bruce Dickinson anuncia primer sencillo de su octavo álbum en solitario",
-    "artista": "Bruce Dickinson",
-    "intro": "Bruce Dickinson ha confirmado el lanzamiento del primer sencillo de su nuevo disco.",
-    "telegraph_url": "https://telegra.ph/Bruce-Dickinson-anuncia-primer-sencillo-de-su-octavo-álbum-en-solitario-11-02",
-    "url": "https://enelensayomedia.com/notas/bruce-dickinson-anuncia-primer-sencillo-de-su-octavo-album-en-solitari-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/bruce-dickinson-anuncia-primer-sencillo-de-su-octavo-album-en-solitari-1101.jpg",
-    "fecha": "2026-11-01T21:00:22.287202",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
