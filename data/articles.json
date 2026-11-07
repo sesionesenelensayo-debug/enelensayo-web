@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "Cartel del Vive Latino 2027: edad media, países y quiénes están en el top 100",
+    "artista": "Vive Latino",
+    "intro": "Se reveló el cartel del Vive Latino 2027. Hicimos las cuentas: cuántos años tienen las bandas, de qué países son y cuáles están entre lo más escuchado.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/cartel-del-vive-latino-2027-edad-media-paises-y-quienes-estan-en-el-to-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/cartel-del-vive-latino-2027-edad-media-paises-y-quienes-estan-en-el-to-1106.jpg",
+    "fecha": "2026-11-07T11:06:08.452053",
+    "categoria": "Cultura",
+    "author": "Oliver Ken",
+    "views": 0,
+    "fecha_original": "2026-11-06T12:48:31",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Detalles y polémicas sobre la separación de Pampita y Martín Pepa",
@@ -409,21 +424,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Cartel del Vive Latino 2027: edad media, países y quiénes están en el top 100",
-    "artista": "Vive Latino",
-    "intro": "Se reveló el cartel del Vive Latino 2027. Hicimos las cuentas: cuántos años tienen las bandas, de qué países son y cuáles están entre lo más escuchado.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/cartel-del-vive-latino-2027-edad-media-paises-y-quienes-estan-en-el-to-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/cartel-del-vive-latino-2027-edad-media-paises-y-quienes-estan-en-el-to-1106.jpg",
-    "fecha": "2026-11-06T14:36:01.520043",
-    "categoria": "Cultura",
-    "author": "Oliver Ken",
-    "views": 0,
-    "fecha_original": "2026-11-06T12:48:31",
-    "actualizada": true
   },
   {
     "opinion": false,

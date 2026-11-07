@@ -1,4 +1,40 @@
 {
+ "Cultura": {
+  "shorts": [
+   {
+    "id": "5XBpySl_-QA",
+    "titulo": "Cartel del Vive Latino 2027: edad media, países y quiénes están en el top 100",
+    "fecha": "2026-11-07",
+    "nota": "https://enelensayomedia.com/notas/cartel-del-vive-latino-2027-edad-media-paises-y-quienes-estan-en-el-to-1106.html"
+   },
+   {
+    "id": "P6ueUCN25xI",
+    "titulo": "Fallece la actriz y comediante mexicana María Alicia Delgado a los 77 años",
+    "fecha": "2026-11-05",
+    "nota": "https://enelensayomedia.com/notas/fallece-la-actriz-y-comediante-mexicana-maria-alicia-delgado-a-los-77-1104.html"
+   },
+   {
+    "id": "x4tM34vViHg",
+    "titulo": "Jardín Escénico ofrece concierto mexicano gratuito el 15 de septiembre en Chapultepec",
+    "fecha": "2026-11-01",
+    "nota": "https://enelensayomedia.com/notas/jardin-escenico-ofrece-concierto-mexicano-gratuito-el-15-de-septiembre-1101.html"
+   }
+  ],
+  "longs": [
+   {
+    "id": "84V85h2hpXg",
+    "titulo": "El trágico incendio del Teatro Iroquois de Chicago y su legado en la seguridad",
+    "fecha": "2026-11-01",
+    "nota": "https://enelensayomedia.com/notas/el-tragico-incendio-del-teatro-iroquois-de-chicago-y-su-legado-en-la-s-1101.html"
+   },
+   {
+    "id": "5WHj8dHRsk4",
+    "titulo": "Cómo arreglar toda tu vida en un día según Dan Koe",
+    "fecha": "2026-10-31",
+    "nota": "https://enelensayomedia.com/notas/como-arreglar-toda-tu-vida-en-1-dia-historia-completa-1031.html"
+   }
+  ]
+ },
  "Terror y misterio": {
   "shorts": [
    {
@@ -163,42 +199,6 @@
     "titulo": "La vida, la música y el trágico final de Chester Bennington",
     "fecha": "2026-11-01",
     "nota": "https://enelensayomedia.com/notas/la-vida-la-musica-y-el-tragico-final-de-chester-bennington-1101.html"
-   }
-  ]
- },
- "Cultura": {
-  "shorts": [
-   {
-    "id": "5XBpySl_-QA",
-    "titulo": "Cartel del Vive Latino 2027: edad media, países y quiénes están en el top 100",
-    "fecha": "2026-11-06",
-    "nota": "https://enelensayomedia.com/notas/cartel-del-vive-latino-2027-edad-media-paises-y-quienes-estan-en-el-to-1106.html"
-   },
-   {
-    "id": "P6ueUCN25xI",
-    "titulo": "Fallece la actriz y comediante mexicana María Alicia Delgado a los 77 años",
-    "fecha": "2026-11-05",
-    "nota": "https://enelensayomedia.com/notas/fallece-la-actriz-y-comediante-mexicana-maria-alicia-delgado-a-los-77-1104.html"
-   },
-   {
-    "id": "x4tM34vViHg",
-    "titulo": "Jardín Escénico ofrece concierto mexicano gratuito el 15 de septiembre en Chapultepec",
-    "fecha": "2026-11-01",
-    "nota": "https://enelensayomedia.com/notas/jardin-escenico-ofrece-concierto-mexicano-gratuito-el-15-de-septiembre-1101.html"
-   }
-  ],
-  "longs": [
-   {
-    "id": "84V85h2hpXg",
-    "titulo": "El trágico incendio del Teatro Iroquois de Chicago y su legado en la seguridad",
-    "fecha": "2026-11-01",
-    "nota": "https://enelensayomedia.com/notas/el-tragico-incendio-del-teatro-iroquois-de-chicago-y-su-legado-en-la-s-1101.html"
-   },
-   {
-    "id": "5WHj8dHRsk4",
-    "titulo": "Cómo arreglar toda tu vida en un día según Dan Koe",
-    "fecha": "2026-10-31",
-    "nota": "https://enelensayomedia.com/notas/como-arreglar-toda-tu-vida-en-1-dia-historia-completa-1031.html"
    }
   ]
  },
