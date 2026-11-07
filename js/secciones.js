@@ -79,6 +79,19 @@
       return '<a class="hito" href="' + r[2] + '" target="_blank" rel="noopener" style="--c:' + r[3] + '"><span class="ic">' + r[4] + '</span><span><b>' + r[0] + '</b>' +
         '<span class="n" data-n="' + v + '">0</span> <em>' + r[5] + '</em><span class="bar"><i style="width:' + h[1].toFixed(0) + '%"></i></span><small>Próximo hito: ' + h[0].toLocaleString('es-MX') + '</small></span></a>';
     }).join('');
+    get('data/visitas.json').then(function (v) {
+      var P = document.getElementById('sxHitosVis'); if (!P || !v) return;
+      var num = function (n) { return (+n || 0).toLocaleString('es-MX'); }, mx = Math.max.apply(null, (v.dias || []).map(function (d) { return d[1]; }).concat([1]));
+      var tot = (v.nuevos || 0) + (v.recurrentes || 0), dev = (v.movil || 0) + (v.escritorio || 0), og = Object.keys(v.origenes || {});
+      var bar = function (arr) { return '<div class="vis-bars">' + arr.slice().reverse().map(function (d) { return '<span title="' + d[0] + ': ' + d[1] + '"><i style="height:' + Math.max(4, Math.round(d[1] / mx * 100)) + '%"></i><small>' + d[0].slice(8) + '</small></span>'; }).join('') + '</div>'; };
+      P.innerHTML = '<h3 class="sx-sub">Visitas al sitio · últimos 7 días</h3><div class="vis-grid">' +
+        '<div class="vis-k"><b>' + num(v.semana) + '</b><small>visitas en 7 días</small></div><div class="vis-k"><b>' + num(v.total) + '</b><small>total histórico</small></div><div class="vis-k"><b>' + num(v.sesiones) + '</b><small>sesiones</small></div>' +
+        (tot ? '<div class="vis-k"><b>' + Math.round(100 * v.nuevos / tot) + '%</b><small>visitantes nuevos · ' + Math.round(100 * v.recurrentes / tot) + '% regresan</small></div>' : '') +
+        (dev ? '<div class="vis-k"><b>' + Math.round(100 * v.movil / dev) + '%</b><small>desde celular</small></div>' : '') + '</div>' + bar(v.dias || []) +
+        '<p class="vis-reg"><b>Dónde nos leen:</b> ' + Object.keys(v.regiones || {}).map(function (k) { return k + ' ' + v.regiones[k]; }).join(' · ') + '</p>' +
+        (og.length ? '<p class="vis-reg"><b>De dónde llegan:</b> ' + og.map(function (k) { return k + ' ' + v.origenes[k]; }).join(' · ') + '</p>' : '') +
+        '<p class="sx-aviso">Contador anónimo del sitio (sin cuentas ni IP) · actualizado ' + esc(v.actualizado || '') + '</p>';
+    }).catch(function () { });
     var act = document.getElementById('sxHitosAct');
     if (act) act.textContent = 'Datos de las redes actualizados ' + (s.updated || '') + ' (se renuevan varias veces al día). Visitas: contador del sitio en tiempo real.';
     el.querySelectorAll('.n').forEach(function (x) {
