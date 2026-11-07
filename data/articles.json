@@ -1,5 +1,21 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Maluma anuncia siete conciertos en México",
+    "artista": "Maluma",
+    "intro": "Maluma confirma su regreso a los escenarios mexicanos con el anuncio de siete conciertos en el país como parte de su gira «Loco por Volver World Tour 2027».",
+    "telegraph_url": "https://telegra.ph/Maluma-anuncia-siete-conciertos-en-México-11-06",
+    "url": "https://enelensayomedia.com/notas/maluma-anuncia-siete-conciertos-en-mexico-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/maluma-anuncia-siete-conciertos-en-mexico-1106.jpg",
+    "fecha": "2026-11-07T14:47:52.425366",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-11-06T12:22:00.472863",
+    "actualizada": true
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "Snape con rastas y chamarra de cuero: HBO impone su agenda en Harry Potter",
@@ -354,22 +370,6 @@
     "views": 0,
     "categoria": "Música",
     "fecha_original": "2026-11-03T09:17:47.839306",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Maluma anuncia siete conciertos en México",
-    "artista": "Maluma",
-    "intro": "Maluma confirma su regreso a los escenarios mexicanos con el anuncio de siete conciertos en el país como parte de su gira «Loco por Volver World Tour 2027».",
-    "telegraph_url": "https://telegra.ph/Maluma-anuncia-siete-conciertos-en-México-11-06",
-    "url": "https://enelensayomedia.com/notas/maluma-anuncia-siete-conciertos-en-mexico-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/maluma-anuncia-siete-conciertos-en-mexico-1106.jpg",
-    "fecha": "2026-11-07T12:00:21.733578",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-06T12:22:00.472863",
     "actualizada": true
   },
   {
