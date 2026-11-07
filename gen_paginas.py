@@ -18,6 +18,7 @@ PAGINAS = {  # archivo: (etiqueta de menú, título, descripción, [ids de secci
     "videojuegos": ("Videojuegos", "Videojuegos", "Videojuegos: estrenos, los peor calificados y las polémicas de la industria, con cuenta regresiva a GTA VI.", ["videojuegos"]),
     "luchas": ("Luchas", "Luchas", "WWE, AAA, CMLL y lucha japonesa: noticias, campeones y próximas funciones con precio, lugar y campeonatos.", ["luchas"]),
     "streaming": ("Live Streaming", "Live Streaming", "Los streamers más famosos de México, Latinoamérica y el mundo en Twitch y Kick: Kai Cenat, IShowSpeed, Ibai, Maestro Shifu, WestCOL y más, con su chisme y las últimas noticias.", ["streaming"]),
+    "doblaje": ("Doblaje", "Doblaje", "La polémica de los star talents en el doblaje latino: Wildwood, Yo soy Rocky y más películas dobladas por famosos e influencers, con la línea de tiempo y todo lo que dicen los actores de doblaje.", ["doblaje"]),
     "conciertos": ("Conciertos", "Conciertos", "Conciertos y festivales en México: Vive Latino, Corona Capital, Tecate y más, con fechas, cartel y boletos, más el mapa de conciertos locales y foros independientes.", ["conciertos"]),
     "hitos": ("Hitos", "Hitos", "Los hitos que marcaron la música: fechas, discos y momentos históricos que cambiaron la historia del rock y la música popular.", ["hitos"]),
     "shorts": ("Shorts", "Shorts", "Nuestros videos cortos de música, historia y curiosidades: shorts nuevos del canal de En el Ensayo Media en YouTube.", ["shorts"]),
@@ -46,7 +47,7 @@ def menu(n, activo):
 
 # portada LIGERA: cabecera + menú + portada (nota del día, lo último, videos) + Top 10 + periódico + botones de sección
 portada = src[src.index("  <!-- ── PORTADA"):src.index("  <!-- ── HERO")]
-ICONOS = {"marveldc": "🦸", "chisme": "💬", "misterio": "👻", "deporte": "⚽", "exclusivas": "⭐", "top10": "🏆", "periodico": "📰", "newsletter": "✉️", "cine": "🎬", "videojuegos": "🎮", "luchas": "🤼", "streaming": "📡", "television": "📺", "conciertos": "🎟️", "hitos": "🏅", "shorts": "📱", "longs": "📺", "podcast": "🎙️", "sesiones": "🎸", "sobre": "💡"}
+ICONOS = {"marveldc": "🦸", "chisme": "💬", "misterio": "👻", "deporte": "⚽", "exclusivas": "⭐", "top10": "🏆", "periodico": "📰", "newsletter": "✉️", "cine": "🎬", "videojuegos": "🎮", "luchas": "🤼", "streaming": "📡", "doblaje": "🗣️", "television": "📺", "conciertos": "🎟️", "hitos": "🏅", "shorts": "📱", "longs": "📺", "podcast": "🎙️", "sesiones": "🎸", "sobre": "💡"}
 botones = "".join(f'<a href="{k}.html"><span class="ic">{ICONOS.get(k, "🎵")}</span>{et}</a>' for k, (et, *_r) in PAGINAS.items() if k not in ("noticias",)) + "".join(f'<a href="{k}.html"><span class="ic">{ic}</span>{et}</a>' for k, et, ic in (("musica", "Música", "🎵"), ("memoriam", "In memoriam", "🕯️"), ("cultura", "Cultura", "🎭"), ("escena-local", "Escena local", "🎤")))
 extra = f'''  <section class="section" id="top10-mini"><div class="section-inner">
     <div class="section-header"><p class="section-eyebrow"><span class="dot dot--yellow"></span>Cuenta regresiva semanal</p>

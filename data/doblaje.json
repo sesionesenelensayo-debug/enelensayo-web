@@ -1,0 +1,77 @@
+{
+ "actualizado": "2026-11-07 12:37",
+ "destacado": {
+  "pelicula": "Wildwood: El bosque salvaje",
+  "estudio": "LAIKA Studios",
+  "estreno": "29 de octubre de 2026",
+  "star_talents": [
+   {
+    "nombre": "Macarena García",
+    "papel": "Prue McKeel",
+    "dato": "debuta en el doblaje con este protagónico"
+   },
+   {
+    "nombre": "Javier Ibarreche",
+    "papel": "Brendan",
+    "dato": "creador de contenido; respondió a las críticas: «No acepté el trabajo para quitárselo a un actor»"
+   },
+   {
+    "nombre": "Natalia Téllez",
+    "papel": "Alexandra Svik",
+    "dato": "gobernadora, la villana de la historia"
+   }
+  ],
+  "linea_tiempo": [
+   {
+    "fecha": "29 oct",
+    "hecho": "Se estrena Wildwood: El bosque salvaje, de LAIKA (Coraline), con doblaje latino que incluye star talents."
+   },
+   {
+    "fecha": "Primeros días de nov",
+    "hecho": "Las críticas al doblaje se disparan en TikTok, Instagram y X: lo califican de poco expresivo y poco profesional."
+   },
+   {
+    "fecha": "5 nov",
+    "hecho": "Una petición en Change.org, iniciada por Stefanny Alanis, pide a LAIKA rehacer el doblaje con actores de doblaje."
+   },
+   {
+    "fecha": "5–7 nov",
+    "hecho": "La directora de doblaje, Angélica Villa, afirma que no tuvo injerencia en la selección de los star talents. Javier Ibarreche responde a las críticas."
+   }
+  ],
+  "datos": [
+   "La producción de la película tomó 16 años, según quienes impulsan la petición.",
+   "Angélica Villa, directora del doblaje, aseguró que no tuvo injerencia en elegir a los star talents.",
+   "Alcanzar las firmas no garantiza que LAIKA regrabe el doblaje."
+  ]
+ },
+ "casos": [
+  {
+   "pelicula": "Yo soy Rocky (I Play Rocky)",
+   "star_talents": [
+    "Tomás Galván (Imitandup)"
+   ],
+   "estado": "polémica",
+   "resumen": "El tráiler del doblaje latino generó críticas por la elección de un creador de contenido como voz principal.",
+   "anio": "2026"
+  },
+  {
+   "pelicula": "El libro de la selva",
+   "star_talents": [
+    "Tin Tan (Baloo)"
+   ],
+   "estado": "celebrado",
+   "resumen": "El gran ejemplo de que una voz famosa puede funcionar: Tin Tan convirtió a Baloo en una referencia del doblaje latino.",
+   "anio": "1967"
+  },
+  {
+   "pelicula": "Shrek",
+   "star_talents": [
+    "Eugenio Derbez (Burro)"
+   ],
+   "estado": "celebrado",
+   "resumen": "La voz de Derbez como Burro es de los doblajes con famoso más recordados en español latino.",
+   "anio": "2001"
+  }
+ ]
+}
