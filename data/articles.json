@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Javier Ibarreche responde a críticas por su doblaje en Wildwood",
+    "artista": "Javier Ibarreche",
+    "intro": "El estreno de la película animada 'Wildwood: El bosque salvaje' en México desató una intensa controversia en torno al doblaje latino…",
+    "telegraph_url": "https://telegra.ph/Javier-Ibarreche-responde-a-críticas-por-su-doblaje-en-Wildwood-11-07",
+    "url": "https://enelensayomedia.com/notas/javier-ibarreche-responde-a-criticas-por-su-doblaje-en-wildwood-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/javier-ibarreche-responde-a-criticas-por-su-doblaje-en-wildwood-1107.jpg",
+    "fecha": "2026-11-07T11:49:47.278356",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "KENDALL estrena \"Dopamina\", sencillo promocional de su nuevo EP",
     "artista": "KENDALL",
@@ -4228,21 +4242,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "‘La bola negra’ supera los 35,7 M€ y deja atrás a ‘Ocho apellidos catalanes’",
-    "artista": "‘La bola negra’",
-    "intro": "La película de los Javis, ‘La bola negra’, ha alcanzado una recaudación de 35,7 millones de euros, convirtiéndose en la obra que ha superado a ‘Ocho apellidos catalanes’ en la taquilla.",
-    "telegraph_url": "https://telegra.ph/La-bola-negra-supera-los-357-M-y-deja-atrás-a-Ocho-apellidos-catalanes-11-01",
-    "url": "https://enelensayomedia.com/notas/la-bola-negra-supera-los-35-7-m-y-deja-atras-a-ocho-apellidos-catalane-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-bola-negra-supera-los-35-7-m-y-deja-atras-a-ocho-apellidos-catalane-1101.jpg",
-    "fecha": "2026-11-01T07:39:43.094437",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-01T07:11:20.943626",
-    "actualizada": true
   },
   {
     "tipo": "reportaje",
