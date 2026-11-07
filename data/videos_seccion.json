@@ -1,4 +1,45 @@
 {
+ "In memoriam": {
+  "shorts": [
+   {
+    "id": "ZmcGV2_3eOI",
+    "titulo": "Pedro Infante muere en accidente aéreo de Mérida en 1957",
+    "fecha": "2026-11-07",
+    "nota": "https://enelensayomedia.com/notas/pedro-infante-muere-en-accidente-aereo-de-merida-en-1957-1107.html"
+   },
+   {
+    "id": "bNQVbCmLexI",
+    "titulo": "El oscuro secreto detrás de la muerte de Kurt Cobain",
+    "fecha": "2026-10-31",
+    "nota": "https://enelensayomedia.com/notas/el-oscuro-secreto-detras-de-la-muerte-de-kurt-cobain-1031.html"
+   },
+   {
+    "id": "KsetdIqOi_0",
+    "titulo": "JOAQUÍN CARBONELL: Murió el día de su cumpleaños",
+    "fecha": "2026-10-30",
+    "nota": "https://enelensayomedia.com/notas/joaquin-carbonell-murio-el-dia-de-su-cumpleanos-1030.html"
+   },
+   {
+    "id": "kA21nwKSUDU",
+    "titulo": "5 curiosidades que no sabías de Fallece Eddie Low",
+    "fecha": "2026-10-30",
+    "nota": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-fallece-eddie-low-1030.html"
+   },
+   {
+    "id": "LPqjHSJvvPk",
+    "titulo": "El compositor de Hänsel y Gretel murió hace 105 años",
+    "fecha": "2026-10-30",
+    "nota": "https://enelensayomedia.com/notas/el-compositor-de-hansel-y-gretel-murio-hace-105-anos-1030.html"
+   },
+   {
+    "id": "5ab2iCeZFRk",
+    "titulo": "Murió el mismo día que Rasputin, 94 años después",
+    "fecha": "2026-10-29",
+    "nota": "https://enelensayomedia.com/notas/murio-el-mismo-dia-que-rasputin-94-anos-despues-1029.html"
+   }
+  ],
+  "longs": []
+ },
  "Cine": {
   "shorts": [
    {
@@ -539,41 +580,6 @@
     "titulo": "El soldado teletransportado de 1593 | Leyenda de Gil Pérez",
     "fecha": "2026-10-30",
     "nota": "https://enelensayomedia.com/notas/el-soldado-teletransportado-de-1593-leyenda-de-gil-perez-1030.html"
-   }
-  ],
-  "longs": []
- },
- "In memoriam": {
-  "shorts": [
-   {
-    "id": "bNQVbCmLexI",
-    "titulo": "El oscuro secreto detrás de la muerte de Kurt Cobain",
-    "fecha": "2026-10-31",
-    "nota": "https://enelensayomedia.com/notas/el-oscuro-secreto-detras-de-la-muerte-de-kurt-cobain-1031.html"
-   },
-   {
-    "id": "KsetdIqOi_0",
-    "titulo": "JOAQUÍN CARBONELL: Murió el día de su cumpleaños",
-    "fecha": "2026-10-30",
-    "nota": "https://enelensayomedia.com/notas/joaquin-carbonell-murio-el-dia-de-su-cumpleanos-1030.html"
-   },
-   {
-    "id": "kA21nwKSUDU",
-    "titulo": "5 curiosidades que no sabías de Fallece Eddie Low",
-    "fecha": "2026-10-30",
-    "nota": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-fallece-eddie-low-1030.html"
-   },
-   {
-    "id": "LPqjHSJvvPk",
-    "titulo": "El compositor de Hänsel y Gretel murió hace 105 años",
-    "fecha": "2026-10-30",
-    "nota": "https://enelensayomedia.com/notas/el-compositor-de-hansel-y-gretel-murio-hace-105-anos-1030.html"
-   },
-   {
-    "id": "5ab2iCeZFRk",
-    "titulo": "Murió el mismo día que Rasputin, 94 años después",
-    "fecha": "2026-10-29",
-    "nota": "https://enelensayomedia.com/notas/murio-el-mismo-dia-que-rasputin-94-anos-despues-1029.html"
    }
   ],
   "longs": []
