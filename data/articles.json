@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "WestCOL la rompe en Kick y manda en el streaming latino",
+    "artista": "WestCOL",
+    "intro": "¡Pura candela en el streaming, mi gente! Antes nadie creía en el talento local y ahora Latinoamérica domina el mapa mundial de plataformas digitales.",
+    "telegraph_url": "https://telegra.ph/WestCOL-la-rompe-en-Kick-y-manda-en-el-streaming-latino-11-07",
+    "url": "https://enelensayomedia.com/notas/westcol-la-rompe-en-kick-y-manda-en-el-streaming-latino-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/westcol-la-rompe-en-kick-y-manda-en-el-streaming-latino-1107.jpg",
+    "fecha": "2026-11-07T11:26:06.782465",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
     "tipo": "noticia",
     "titulo": "A Perfect Circle llega a CDMX con Dogstar, banda de Keanu Reeves",
     "artista": "A Perfect Circle",
