@@ -1,4 +1,34 @@
 {
+ "Cine": {
+  "shorts": [
+   {
+    "id": "ebvgOHqQRGs",
+    "titulo": "El cine latino cruza fronteras en Los Ángeles",
+    "fecha": "2026-11-07",
+    "nota": "https://enelensayomedia.com/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.html"
+   },
+   {
+    "id": "Vn053n5Jkms",
+    "titulo": "A 14 años del fallecimiento de Leonardo Favio",
+    "fecha": "2026-11-05",
+    "nota": "https://enelensayomedia.com/notas/a-14-anos-del-fallecimiento-de-leonardo-favio-1105.html"
+   },
+   {
+    "id": "MDQfrbn4mRc",
+    "titulo": "Mito vs Realidad: ¿James Gunn es un éxito en el universo de DC?",
+    "fecha": "2026-11-03",
+    "nota": "https://enelensayomedia.com/notas/mito-vs-realidad-james-gunn-es-un-exito-en-el-universo-de-dc-1103.html"
+   }
+  ],
+  "longs": [
+   {
+    "id": "26wn_wAKm5U",
+    "titulo": "La historia detrás de Jorge Negrete, el Charro Cantor",
+    "fecha": "2026-11-06",
+    "nota": "https://enelensayomedia.com/notas/la-historia-detras-de-jorge-negrete-el-charro-cantor-1106.html"
+   }
+  ]
+ },
  "Biografía": {
   "shorts": [
    {
@@ -315,30 +345,6 @@
    }
   ],
   "longs": []
- },
- "Cine": {
-  "shorts": [
-   {
-    "id": "Vn053n5Jkms",
-    "titulo": "A 14 años del fallecimiento de Leonardo Favio",
-    "fecha": "2026-11-05",
-    "nota": "https://enelensayomedia.com/notas/a-14-anos-del-fallecimiento-de-leonardo-favio-1105.html"
-   },
-   {
-    "id": "MDQfrbn4mRc",
-    "titulo": "Mito vs Realidad: ¿James Gunn es un éxito en el universo de DC?",
-    "fecha": "2026-11-03",
-    "nota": "https://enelensayomedia.com/notas/mito-vs-realidad-james-gunn-es-un-exito-en-el-universo-de-dc-1103.html"
-   }
-  ],
-  "longs": [
-   {
-    "id": "26wn_wAKm5U",
-    "titulo": "La historia detrás de Jorge Negrete, el Charro Cantor",
-    "fecha": "2026-11-06",
-    "nota": "https://enelensayomedia.com/notas/la-historia-detras-de-jorge-negrete-el-charro-cantor-1106.html"
-   }
-  ]
  },
  "Sesiones en vivo": {
   "shorts": [],
