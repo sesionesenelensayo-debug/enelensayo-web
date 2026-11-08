@@ -1,5 +1,21 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Muere a los 52 años el cineasta chileno Sebastián Lelio",
+    "artista": "Sebastián Lelio",
+    "intro": "¿De qué murió Sebastián Lelio, director de 'Una mujer fantástica' y ganador de un Oscar? El cineasta chileno Sebastián Lelio murió este viernes a los 52 años de edad.",
+    "telegraph_url": "https://telegra.ph/Muere-a-los-52-años-el-cineasta-chileno-Sebastián-Lelio-11-07",
+    "url": "https://enelensayomedia.com/notas/muere-a-los-52-anos-el-cineasta-chileno-sebastian-lelio-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/muere-a-los-52-anos-el-cineasta-chileno-sebastian-lelio-1106.jpg",
+    "fecha": "2026-11-08T10:25:24.177334",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-11-06T18:20:33.944556",
+    "actualizada": true
+  },
+  {
     "tipo": "noticia",
     "titulo": "Festival Internacional del Globo 2026 revela su canción oficial",
     "artista": "Festival Internacional del Globo",
@@ -1162,20 +1178,6 @@
     "categoria": "Cine",
     "fecha_original": "2026-10-31T15:14:16.845601",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Muere a los 52 años el cineasta chileno Sebastián Lelio",
-    "artista": "Sebastián Lelio",
-    "intro": "¿De qué murió Sebastián Lelio, director de 'Una mujer fantástica' y ganador de un Oscar? El cineasta chileno Sebastián Lelio murió este viernes a los 52 años de edad.",
-    "telegraph_url": "https://telegra.ph/Muere-a-los-52-años-el-cineasta-chileno-Sebastián-Lelio-11-07",
-    "url": "https://enelensayomedia.com/notas/muere-a-los-52-anos-el-cineasta-chileno-sebastian-lelio-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/muere-a-los-52-anos-el-cineasta-chileno-sebastian-lelio-1106.jpg",
-    "fecha": "2026-11-06T18:20:33.944556",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   },
   {
     "opinion": false,
