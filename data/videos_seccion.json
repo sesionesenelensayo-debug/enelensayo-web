@@ -1,5 +1,5 @@
 {
- "Cultura": {
+ "Chisme": {
   "shorts": [
    {
     "id": "P6ueUCN25xI",
@@ -8,26 +8,19 @@
     "nota": "https://enelensayomedia.com/notas/fallece-la-actriz-y-comediante-mexicana-maria-alicia-delgado-a-los-77-1104.html"
    },
    {
-    "id": "x4tM34vViHg",
-    "titulo": "Jardín Escénico ofrece concierto mexicano gratuito el 15 de septiembre en Chapultepec",
-    "fecha": "2026-11-01",
-    "nota": "https://enelensayomedia.com/notas/jardin-escenico-ofrece-concierto-mexicano-gratuito-el-15-de-septiembre-1101.html"
-   }
-  ],
-  "longs": [
-   {
-    "id": "84V85h2hpXg",
-    "titulo": "El trágico incendio del Teatro Iroquois de Chicago y su legado en la seguridad",
-    "fecha": "2026-11-01",
-    "nota": "https://enelensayomedia.com/notas/el-tragico-incendio-del-teatro-iroquois-de-chicago-y-su-legado-en-la-s-1101.html"
+    "id": "6wivIUQ6Sv8",
+    "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
+    "fecha": "2026-11-06",
+    "nota": "https://enelensayomedia.com/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.html"
    },
    {
-    "id": "5WHj8dHRsk4",
-    "titulo": "Cómo arreglar toda tu vida en un día según Dan Koe",
-    "fecha": "2026-10-31",
-    "nota": "https://enelensayomedia.com/notas/como-arreglar-toda-tu-vida-en-1-dia-historia-completa-1031.html"
+    "id": "fVwyGebmjOc",
+    "titulo": "Thomas Markle bajo investigación por presunto material de abuso infantil",
+    "fecha": "2026-11-04",
+    "nota": "https://enelensayomedia.com/notas/thomas-markle-bajo-investigacion-por-presunto-material-de-abuso-infant-1104.html"
    }
-  ]
+  ],
+  "longs": []
  },
  "In memoriam": {
   "shorts": [
@@ -388,23 +381,6 @@
    }
   ]
  },
- "Chisme": {
-  "shorts": [
-   {
-    "id": "6wivIUQ6Sv8",
-    "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
-    "fecha": "2026-11-06",
-    "nota": "https://enelensayomedia.com/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.html"
-   },
-   {
-    "id": "fVwyGebmjOc",
-    "titulo": "Thomas Markle bajo investigación por presunto material de abuso infantil",
-    "fecha": "2026-11-04",
-    "nota": "https://enelensayomedia.com/notas/thomas-markle-bajo-investigacion-por-presunto-material-de-abuso-infant-1104.html"
-   }
-  ],
-  "longs": []
- },
  "Sesiones en vivo": {
   "shorts": [],
   "longs": [
@@ -540,6 +516,30 @@
     "titulo": "El oscuro misterio del New's Divine: trampa mortal juvenil en CDMX",
     "fecha": "2026-11-01",
     "nota": "https://enelensayomedia.com/notas/el-oscuro-misterio-del-new-s-divine-trampa-mortal-juvenil-en-cdmx-1101.html"
+   }
+  ]
+ },
+ "Cultura": {
+  "shorts": [
+   {
+    "id": "x4tM34vViHg",
+    "titulo": "Jardín Escénico ofrece concierto mexicano gratuito el 15 de septiembre en Chapultepec",
+    "fecha": "2026-11-01",
+    "nota": "https://enelensayomedia.com/notas/jardin-escenico-ofrece-concierto-mexicano-gratuito-el-15-de-septiembre-1101.html"
+   }
+  ],
+  "longs": [
+   {
+    "id": "84V85h2hpXg",
+    "titulo": "El trágico incendio del Teatro Iroquois de Chicago y su legado en la seguridad",
+    "fecha": "2026-11-01",
+    "nota": "https://enelensayomedia.com/notas/el-tragico-incendio-del-teatro-iroquois-de-chicago-y-su-legado-en-la-s-1101.html"
+   },
+   {
+    "id": "5WHj8dHRsk4",
+    "titulo": "Cómo arreglar toda tu vida en un día según Dan Koe",
+    "fecha": "2026-10-31",
+    "nota": "https://enelensayomedia.com/notas/como-arreglar-toda-tu-vida-en-1-dia-historia-completa-1031.html"
    }
   ]
  },
