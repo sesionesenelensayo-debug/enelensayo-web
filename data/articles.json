@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Bethesda anuncia The Elder Scrolls VI: Sentinel",
+    "artista": "Bethesda",
+    "intro": "El 3 de noviembre de 2026, en el marco del 40 aniversario de Bethesda Game Studios, la compañía reveló oficialmente que la sexta entrega de su saga insignia se llamará The Elder Scrolls VI: Sentinel.",
+    "telegraph_url": "https://telegra.ph/Bethesda-anuncia-The-Elder-Scrolls-VI-Sentinel-11-08",
+    "url": "https://enelensayomedia.com/notas/bethesda-anuncia-the-elder-scrolls-vi-sentinel-1108.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/bethesda-anuncia-the-elder-scrolls-vi-sentinel-1108.jpg",
+    "fecha": "2026-11-08T16:25:51.021428",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "Polémica por el casting de Paapa Essiedu como Severus Snape",
@@ -5737,19 +5751,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "In memoriam"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Aerosmith vuelve al escenario con show estelar en Hollywood Bowl junto a Dave Grohl",
-    "artista": "Aerosmith",
-    "intro": "Aerosmith anuncia su regreso al escenario con un concierto en el icónico Hollywood Bowl, compartiendo cartel con Dave Grohl y otros artistas. El anuncio, publicado por Billboard, subraya la relevancia",
-    "telegraph_url": "https://telegra.ph/Aerosmith-vuelve-al-escenario-con-show-estelar-en-Hollywood-Bowl-junto-a-Dave-Grohl-10-30",
-    "url": "https://enelensayomedia.com/notas/aerosmith-vuelve-al-escenario-con-show-estelar-en-hollywood-bowl-junto-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/aerosmith-vuelve-al-escenario-con-show-estelar-en-hollywood-bowl-junto-1030.jpg",
-    "fecha": "2026-10-30T12:08:26.135508",
-    "author": "Oliver Ken",
-    "views": 0,
-    "nota_dia": true,
-    "categoria": "Internacional"
   }
 ]
