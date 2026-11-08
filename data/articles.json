@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Wildwood y Yo soy Rocky: ¿star talents o actores de doblaje?",
+    "artista": "Yo soy Rocky",
+    "intro": "Está confirmado que el doblaje latino de «Wildwood: El bosque salvaje», de LAIKA Studios, incluye star talents (Macarena García, Javier Ibarreche y Natalia Téllez) y que ha recibido críticas en redes.",
+    "telegraph_url": "https://telegra.ph/Wildwood-y-Yo-soy-Rocky-star-talents-o-actores-de-doblaje-11-08",
+    "url": "https://enelensayomedia.com/notas/wildwood-y-yo-soy-rocky-star-talents-o-actores-de-doblaje-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/wildwood-y-yo-soy-rocky-star-talents-o-actores-de-doblaje-1107.jpg",
+    "fecha": "2026-11-07T22:17:08.040390",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "José Eduardo Derbez y Paola Dalay anuncian separación",
     "artista": "José Eduardo Derbez",
@@ -5707,18 +5721,5 @@
     "views": 0,
     "categoria": "In memoriam",
     "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "U2 suma cuarta fecha en CDMX para marzo de 2027 tras agotar boletos",
-    "artista": "",
-    "intro": "La banda irlandesa añade un show más en el GNP Seguros para el 2 de marzo de 2027, continuando su gira mundial.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/u2-suma-cuarta-fecha-en-cdmx-para-marzo-de-2027-tras-agotar-boletos-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/u2-suma-cuarta-fecha-en-cdmx-para-marzo-de-2027-tras-agotar-boletos-1029.jpg",
-    "fecha": "2026-10-29T19:40:16",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
   }
 ]
