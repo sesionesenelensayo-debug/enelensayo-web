@@ -1,4 +1,34 @@
 {
+ "Cultura": {
+  "shorts": [
+   {
+    "id": "x4tM34vViHg",
+    "titulo": "Jardín Escénico ofrece concierto mexicano gratuito el 15 de septiembre en Chapultepec",
+    "fecha": "2026-11-01",
+    "nota": "https://enelensayomedia.com/notas/jardin-escenico-ofrece-concierto-mexicano-gratuito-el-15-de-septiembre-1101.html"
+   }
+  ],
+  "longs": [
+   {
+    "id": "7aIgsP5Bm8E",
+    "titulo": "La vida y trayectoria del pintor Rufino Tamayo en un video",
+    "fecha": "2026-11-08",
+    "nota": "https://enelensayomedia.com/notas/la-vida-y-trayectoria-del-pintor-rufino-tamayo-en-un-video-1108.html"
+   },
+   {
+    "id": "84V85h2hpXg",
+    "titulo": "El trágico incendio del Teatro Iroquois de Chicago y su legado en la seguridad",
+    "fecha": "2026-11-01",
+    "nota": "https://enelensayomedia.com/notas/el-tragico-incendio-del-teatro-iroquois-de-chicago-y-su-legado-en-la-s-1101.html"
+   },
+   {
+    "id": "5WHj8dHRsk4",
+    "titulo": "Cómo arreglar toda tu vida en un día según Dan Koe",
+    "fecha": "2026-10-31",
+    "nota": "https://enelensayomedia.com/notas/como-arreglar-toda-tu-vida-en-1-dia-historia-completa-1031.html"
+   }
+  ]
+ },
  "Cine": {
   "shorts": [
    {
@@ -507,30 +537,6 @@
    }
   ]
  },
- "Cultura": {
-  "shorts": [
-   {
-    "id": "x4tM34vViHg",
-    "titulo": "Jardín Escénico ofrece concierto mexicano gratuito el 15 de septiembre en Chapultepec",
-    "fecha": "2026-11-01",
-    "nota": "https://enelensayomedia.com/notas/jardin-escenico-ofrece-concierto-mexicano-gratuito-el-15-de-septiembre-1101.html"
-   }
-  ],
-  "longs": [
-   {
-    "id": "84V85h2hpXg",
-    "titulo": "El trágico incendio del Teatro Iroquois de Chicago y su legado en la seguridad",
-    "fecha": "2026-11-01",
-    "nota": "https://enelensayomedia.com/notas/el-tragico-incendio-del-teatro-iroquois-de-chicago-y-su-legado-en-la-s-1101.html"
-   },
-   {
-    "id": "5WHj8dHRsk4",
-    "titulo": "Cómo arreglar toda tu vida en un día según Dan Koe",
-    "fecha": "2026-10-31",
-    "nota": "https://enelensayomedia.com/notas/como-arreglar-toda-tu-vida-en-1-dia-historia-completa-1031.html"
-   }
-  ]
- },
  "Terror": {
   "shorts": [
    {
@@ -544,12 +550,6 @@
     "titulo": "2PAC SHAKUR: Se pensaba accidente, era asesinato",
     "fecha": "2026-10-31",
     "nota": "https://enelensayomedia.com/notas/2pac-shakur-se-pensaba-accidente-era-asesinato-1031.html"
-   },
-   {
-    "id": "YJEgO9r3uEQ",
-    "titulo": "El piloto que habló con voz ajena: caso Rafael Pacheco XB-ZOX",
-    "fecha": "2026-10-30",
-    "nota": "https://enelensayomedia.com/notas/el-piloto-que-hablo-con-voz-ajena-caso-rafael-pacheco-xb-zox-1030.html"
    }
   ],
   "longs": []
