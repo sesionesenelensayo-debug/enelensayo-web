@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Gloria Trevi anuncia concierto en Auditorio Nacional el 24 de octubre de 2026",
+    "artista": "Gloria Trevi",
+    "intro": "La cantante, catalogada como \"Reina del Pop Mexicano\", iniciará su \"Celebration Tour\" en la capital con dos funciones en octubre y noviembre.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/gloria-trevi-anuncia-concierto-en-auditorio-nacional-el-24-de-octubre-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/gloria-trevi-anuncia-concierto-en-auditorio-nacional-el-24-de-octubre-1031.jpg",
+    "fecha": "2026-11-08T08:41:05.679062",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-10-31T12:03:13.773165",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "La Casa de Amityville: crímenes, juicios y la sombra del mito",
@@ -3611,21 +3626,6 @@
     "views": 0,
     "categoria": "Videojuegos",
     "fecha_original": "2026-10-30T17:00:53.758741",
-    "actualizada": true
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Gloria Trevi anuncia concierto en Auditorio Nacional el 24 de octubre de 2026",
-    "artista": "Gloria Trevi",
-    "intro": "La cantante, catalogada como \"Reina del Pop Mexicano\", iniciará su \"Celebration Tour\" en la capital con dos funciones en octubre y noviembre.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/gloria-trevi-anuncia-concierto-en-auditorio-nacional-el-24-de-octubre-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/gloria-trevi-anuncia-concierto-en-auditorio-nacional-el-24-de-octubre-1031.jpg",
-    "fecha": "2026-11-02T11:35:26.903006",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-10-31T12:03:13.773165",
     "actualizada": true
   },
   {
