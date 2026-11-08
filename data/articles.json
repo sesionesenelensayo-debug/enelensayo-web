@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Fallece el artista plástico Arnaldo Coen a los 86 años",
+    "artista": "Arnaldo Coen",
+    "intro": "El 8 de noviembre de 2026 se reportó el fallecimiento del artista plástico mexicano Arnaldo Coen a los 86 años.",
+    "telegraph_url": "https://telegra.ph/Fallece-el-artista-plástico-Arnaldo-Coen-a-los-86-años-11-08",
+    "url": "https://enelensayomedia.com/notas/fallece-el-artista-plastico-arnaldo-coen-a-los-86-anos-1108.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-el-artista-plastico-arnaldo-coen-a-los-86-anos-1108.jpg",
+    "fecha": "2026-11-08T13:04:46.841552",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "La vida y trayectoria del pintor Rufino Tamayo en un video",
     "artista": "Rufino Tamayo",
     "intro": "En el video del canal En el Ensayo Media se explora la vida y trayectoria del reconocido pintor Rufino Tamayo…",
@@ -5726,18 +5740,5 @@
     "views": 0,
     "categoria": "In memoriam",
     "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Aokigahara: entre la belleza del Fuji y la sombra del suicidio",
-    "artista": "el bosque Aokigahara y sus leyendas",
-    "intro": "Una crónica que explora la geología, la historia, la cultura y los esfuerzos de prevención en el misterioso bosque japonés.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/aokigahara-entre-la-belleza-del-fuji-y-la-sombra-del-suicidio-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/aokigahara-entre-la-belleza-del-fuji-y-la-sombra-del-suicidio-1030.jpg",
-    "fecha": "2026-10-30T08:35:24.132567",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror"
   }
 ]
