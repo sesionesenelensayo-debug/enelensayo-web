@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Sasha Sokol reaparece junto a Alejandro Soberón",
+    "artista": "Sasha Sokol",
+    "intro": "En medio de la polémica reciente en torno a la serie de Timbiriche, Sasha Sokol reapareció públicamente.",
+    "telegraph_url": "https://telegra.ph/Sasha-Sokol-reaparece-junto-a-Alejandro-Soberón-11-02",
+    "url": "https://enelensayomedia.com/notas/sasha-sokol-reaparece-junto-a-alejandro-soberon-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/sasha-sokol-reaparece-junto-a-alejandro-soberon-1102.jpg",
+    "fecha": "2026-11-08T17:08:31.915854",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-02T15:02:54.491082",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Bethesda anuncia The Elder Scrolls VI: Sentinel",
     "artista": "Bethesda",
     "intro": "El 3 de noviembre de 2026, en el marco del 40 aniversario de Bethesda Game Studios, la compañía reveló oficialmente que la sexta entrega de su saga insignia se llamará The Elder Scrolls VI: Sentinel.",
@@ -479,22 +495,6 @@
     "views": 0,
     "categoria": "Música",
     "fecha_original": "2026-11-03T13:34:06.725879",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Sasha Sokol reaparece junto a Alejandro Soberón",
-    "artista": "Sasha Sokol",
-    "intro": "En medio de la polémica reciente en torno a la serie de Timbiriche, Sasha Sokol reapareció públicamente.",
-    "telegraph_url": "https://telegra.ph/Sasha-Sokol-reaparece-junto-a-Alejandro-Soberón-11-02",
-    "url": "https://enelensayomedia.com/notas/sasha-sokol-reaparece-junto-a-alejandro-soberon-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/sasha-sokol-reaparece-junto-a-alejandro-soberon-1102.jpg",
-    "fecha": "2026-11-08T08:42:03.137686",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-02T15:02:54.491082",
     "actualizada": true
   },
   {
