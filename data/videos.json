@@ -63,6 +63,11 @@
   ],
   "longs": [
     {
+      "id": "7aIgsP5Bm8E",
+      "titulo": "¿Qué buscaba Rufino Tamayo al romper con los muralistas? – El color como revolución",
+      "fecha": "2026-11-08"
+    },
+    {
       "id": "aNc_vKsURoM",
       "titulo": "¿Cómo un pelirrojo sin techo conquistó la música mundial? La historia de Ed Sheeran",
       "fecha": "2026-11-07"
@@ -86,11 +91,6 @@
       "id": "EzMvNZnU4cc",
       "titulo": "¿Cómo nació el monstruo del metal? Rata Blanca en la cima",
       "fecha": "2026-11-03"
-    },
-    {
-      "id": "jR3_OvIe8dE",
-      "titulo": "¿Cómo conquistó al mundo entero? La verdadera historia de la voz del siglo",
-      "fecha": "2026-11-02"
     }
   ],
   "podcast": []

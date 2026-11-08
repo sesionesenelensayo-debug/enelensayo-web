@@ -1,5 +1,12 @@
 [
   {
+    "artista": "Rufino Tamayo",
+    "slug": "rufino-tamayo",
+    "imagen": "",
+    "piezas": 1,
+    "updated": "2026-11-08 12:02"
+  },
+  {
     "artista": "Ed Sheeran",
     "slug": "ed-sheeran",
     "imagen": "",
