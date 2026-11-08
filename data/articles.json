@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Ventas de los videojuegos de Spider‑Man se duplican tras el estreno de «Un nuevo día»",
+    "artista": "Spider-Man",
+    "intro": "¿Por qué el último estreno cinematográfico de Spider‑Man ha disparado las cifras de sus videojuegos?",
+    "telegraph_url": "https://telegra.ph/Ventas-de-los-videojuegos-de-SpiderMan-se-duplican-tras-el-estreno-de-Un-nuevo-día-11-08",
+    "url": "https://enelensayomedia.com/notas/ventas-de-los-videojuegos-de-spiderman-se-duplican-tras-el-estreno-de-1108.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/ventas-de-los-videojuegos-de-spiderman-se-duplican-tras-el-estreno-de-1108.jpg",
+    "fecha": "2026-11-08T17:53:55.669578",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "La mercantilización de Frida Kahlo al descubierto en documental",
     "artista": "Frida Kahlo",
@@ -5744,18 +5758,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "José Madero anuncia concierto en Monterrey para el 6 de marzo de 2027",
-    "artista": "José Madero",
-    "intro": "La venta de boletos inicia el 23 de octubre a las 11:00 a.m. vía Ticketmaster, sin preventa y con acceso igualitario para todos los fans.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/jose-madero-anuncia-concierto-en-monterrey-para-el-6-de-marzo-de-2027-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/jose-madero-anuncia-concierto-en-monterrey-para-el-6-de-marzo-de-2027-1030.jpg",
-    "fecha": "2026-10-30T13:14:20.909826",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
   }
 ]
