@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Maluma anuncia siete conciertos en México",
+    "artista": "Maluma",
+    "intro": "Maluma confirma su regreso a los escenarios mexicanos con el anuncio de siete conciertos en el país como parte de su gira «Loco por Volver World Tour 2027».",
+    "telegraph_url": "https://telegra.ph/Maluma-anuncia-siete-conciertos-en-México-11-06",
+    "url": "https://enelensayomedia.com/notas/maluma-anuncia-siete-conciertos-en-mexico-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/maluma-anuncia-siete-conciertos-en-mexico-1106.jpg",
+    "fecha": "2026-11-08T12:44:03.566493",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-11-06T12:22:00.472863",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "WWE Crown Jewel 2026: cartelera estelar y transmisión",
     "artista": "WWE Crown Jewel",
     "intro": "El sábado 7 de noviembre de 2026, el mundo de la lucha libre dirigida por la WWE concentró sus miradas en el Riyadh Season Stadium de Riad, Arabia Saudita, con la celebración de WWE Crown Jewel 2026.",
@@ -11,7 +27,7 @@
     "fecha": "2026-11-08T12:35:15.427692",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Luchas",
+    "categoria": "Videojuegos",
     "fecha_original": "2026-11-08T10:41:02.070808",
     "actualizada": true
   },
@@ -72,22 +88,6 @@
     "views": 0,
     "categoria": "Música",
     "fecha_original": "2026-11-07T13:43:24.462688",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Maluma anuncia siete conciertos en México",
-    "artista": "Maluma",
-    "intro": "Maluma confirma su regreso a los escenarios mexicanos con el anuncio de siete conciertos en el país como parte de su gira «Loco por Volver World Tour 2027».",
-    "telegraph_url": "https://telegra.ph/Maluma-anuncia-siete-conciertos-en-México-11-06",
-    "url": "https://enelensayomedia.com/notas/maluma-anuncia-siete-conciertos-en-mexico-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/maluma-anuncia-siete-conciertos-en-mexico-1106.jpg",
-    "fecha": "2026-11-08T11:02:59.194362",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-06T12:22:00.472863",
     "actualizada": true
   },
   {
