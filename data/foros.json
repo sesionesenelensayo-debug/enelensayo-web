@@ -197,6 +197,16 @@
    "auto": true
   },
   {
+   "nombre": "FORO 28",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "",
+   "lat": 19.4117692,
+   "lon": -99.1694766,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
    "nombre": "Bar Oriente",
    "ciudad": "Ciudad de México",
    "estado": "Distrito Federal",
@@ -360,6 +370,17 @@
    "lat": 19.4145386,
    "lon": -99.1256739,
    "genero": "Foro con música en vivo",
+   "url": "https://exfabrica.mx/",
+   "auto": true
+  },
+  {
+   "nombre": "Bukowski's Bar, Hamburgo 126, CDMX",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "",
+   "lat": 19.4259544,
+   "lon": -99.164961,
+   "genero": "Foro con música en vivo",
    "auto": true
   },
   {
@@ -379,6 +400,16 @@
    "zona": "",
    "lat": 19.3487086,
    "lon": -99.1886839,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "Cantina Masiosare",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "Coyoacán",
+   "lat": 19.3470137,
+   "lon": -99.1635698,
    "genero": "Foro con música en vivo",
    "auto": true
   }
