@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "¿El doblaje de Wildwood en riesgo? Lalo Garza y el gremio contra star talents",
+    "artista": "Lalo Garza",
+    "intro": "El estreno de la película 'Wildwood' de LAIKA Studios ha encendido un intenso debate en el mundo del doblaje latinoamericano y redes sociales.",
+    "telegraph_url": "https://telegra.ph/El-doblaje-de-Wildwood-en-riesgo-Lalo-Garza-y-el-gremio-contra-star-talents-11-08",
+    "url": "https://enelensayomedia.com/notas/el-doblaje-de-wildwood-en-riesgo-lalo-garza-y-el-gremio-contra-star-ta-1108.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-doblaje-de-wildwood-en-riesgo-lalo-garza-y-el-gremio-contra-star-ta-1108.jpg",
+    "fecha": "2026-11-08T12:16:05.830137",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "The Strokes interpreta 'Lonely in the Future' y 'Going Shopping' en SNL",
     "artista": "The Strokes",
     "intro": "El 7 de noviembre de 2026, The Strokes se presentó como invitado musical en el episodio de Saturday Night Live, conducido por Druski.",
@@ -5723,19 +5737,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El piloto que habló con voz ajena: caso Rafael Pacheco XB-ZOX",
-    "artista": "Rafael Pacheco",
-    "intro": "El 21 de junio de 1976 el estudiante de aviación Rafael Pacheco, de 20 años, despegó en una Cessna 150 (registro XB‑ZOX) desde el Estado de México y, tras desaparecer de los radares, reapareció sobre ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-piloto-que-hablo-con-voz-ajena-caso-rafael-pacheco-xb-zox-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-piloto-que-hablo-con-voz-ajena-caso-rafael-pacheco-xb-zox-1030.jpg",
-    "fecha": "2026-10-30T06:22:29.495304",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Terror",
-    "archivo": true
   }
 ]
