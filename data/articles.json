@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "María Becerra estrena 'Tú sin Yo' y arranca su nueva era",
+    "artista": "María Becerra",
+    "intro": "María Becerra estrenó el sencillo 'Tú sin Yo', marcando el inicio de su nueva era musical denominada LURE. El tema introduce una etapa con un enfoque más conceptual y orientado hacia el R&B.",
+    "telegraph_url": "https://telegra.ph/María-Becerra-estrena-Tú-sin-Yo-y-arranca-su-nueva-era-11-07",
+    "url": "https://enelensayomedia.com/notas/maria-becerra-estrena-tu-sin-yo-y-arranca-su-nueva-era-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/maria-becerra-estrena-tu-sin-yo-y-arranca-su-nueva-era-1107.jpg",
+    "fecha": "2026-11-08T11:09:08.597968",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-11-07T13:43:24.462688",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Maluma anuncia siete conciertos en México",
     "artista": "Maluma",
     "intro": "Maluma confirma su regreso a los escenarios mexicanos con el anuncio de siete conciertos en el país como parte de su gira «Loco por Volver World Tour 2027».",
@@ -747,20 +763,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "María Becerra estrena 'Tú sin Yo' y arranca su nueva era",
-    "artista": "María Becerra",
-    "intro": "María Becerra estrenó el sencillo 'Tú sin Yo', marcando el inicio de su nueva era musical denominada LURE. El tema introduce una etapa con un enfoque más conceptual y orientado hacia el R&B.",
-    "telegraph_url": "https://telegra.ph/María-Becerra-estrena-Tú-sin-Yo-y-arranca-su-nueva-era-11-07",
-    "url": "https://enelensayomedia.com/notas/maria-becerra-estrena-tu-sin-yo-y-arranca-su-nueva-era-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/maria-becerra-estrena-tu-sin-yo-y-arranca-su-nueva-era-1107.jpg",
-    "fecha": "2026-11-07T13:43:24.462688",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   },
   {
     "opinion": false,
