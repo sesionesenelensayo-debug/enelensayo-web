@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "The Strokes interpreta 'Lonely in the Future' y 'Going Shopping' en SNL",
+    "artista": "The Strokes",
+    "intro": "El 7 de noviembre de 2026, The Strokes se presentó como invitado musical en el episodio de Saturday Night Live, conducido por Druski.",
+    "telegraph_url": "https://telegra.ph/The-Strokes-interpreta-Lonely-in-the-Future-y-Going-Shopping-en-SNL-11-08",
+    "url": "https://enelensayomedia.com/notas/the-strokes-interpreta-lonely-in-the-future-y-going-shopping-en-snl-1108.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/the-strokes-interpreta-lonely-in-the-future-y-going-shopping-en-snl-1108.jpg",
+    "fecha": "2026-11-08T12:01:42.018353",
+    "author": "Oliver Ken",
+    "views": 0,
+    "nota_dia": true,
+    "categoria": "Internacional"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Maluma anuncia siete conciertos en México",
     "artista": "Maluma",
     "intro": "Maluma confirma su regreso a los escenarios mexicanos con el anuncio de siete conciertos en el país como parte de su gira «Loco por Volver World Tour 2027».",
@@ -5721,20 +5736,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Terror",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "La Isla de las Muñecas: la muerte de Don Julián Santana",
-    "artista": "La Isla de las Muñecas",
-    "intro": "Durante más de cinco décadas, Santana instaló más de mil muñecas deterioradas en la isla, práctica que continuó su familia tras su fallecimiento.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-isla-de-las-munecas-la-muerte-de-don-julian-santana-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-isla-de-las-munecas-la-muerte-de-don-julian-santana-1030.jpg",
-    "fecha": "2026-10-30T04:33:30.992051",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Terror y misterio",
     "archivo": true
   }
 ]
