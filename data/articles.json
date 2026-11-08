@@ -1,5 +1,21 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Feid lanza “Paradixe Remix” con Omar Courtz, Myke Towers y más",
+    "artista": "Feid",
+    "intro": "El cantante colombiano Feid ha presentado “Paradixe Remix”, una nueva versión del tema que incorpora a los artistas urbanos Omar Courtz, Myke Towers, El Americano 4KT y Pirlo.",
+    "telegraph_url": "https://telegra.ph/Feid-lanza-Paradixe-Remix-con-Omar-Courtz-Myke-Towers-y-más-11-03",
+    "url": "https://enelensayomedia.com/notas/feid-lanza-paradixe-remix-con-omar-courtz-myke-towers-y-mas-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/feid-lanza-paradixe-remix-con-omar-courtz-myke-towers-y-mas-1103.jpg",
+    "fecha": "2026-11-08T11:02:23.244001",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-11-03T09:17:47.839306",
+    "actualizada": true
+  },
+  {
     "tipo": "noticia",
     "titulo": "Sofi Tukker anuncia nueva gira en México y EE.UU. para 2027",
     "artista": "SOFI TUKKER",
@@ -937,22 +953,6 @@
     "views": 0,
     "categoria": "Conciertos",
     "fecha_original": "2026-11-06T11:06:43.287865",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Feid lanza “Paradixe Remix” con Omar Courtz, Myke Towers y más",
-    "artista": "Feid",
-    "intro": "El cantante colombiano Feid ha presentado “Paradixe Remix”, una nueva versión del tema que incorpora a los artistas urbanos Omar Courtz, Myke Towers, El Americano 4KT y Pirlo.",
-    "telegraph_url": "https://telegra.ph/Feid-lanza-Paradixe-Remix-con-Omar-Courtz-Myke-Towers-y-más-11-03",
-    "url": "https://enelensayomedia.com/notas/feid-lanza-paradixe-remix-con-omar-courtz-myke-towers-y-mas-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/feid-lanza-paradixe-remix-con-omar-courtz-myke-towers-y-mas-1103.jpg",
-    "fecha": "2026-11-07T12:01:45.373353",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-03T09:17:47.839306",
     "actualizada": true
   },
   {
