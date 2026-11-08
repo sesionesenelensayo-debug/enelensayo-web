@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Maestro Shifu en el afterparty de Karol G",
+    "artista": "Maestro Shifu",
+    "intro": "El streamer Adriano Zendejas, conocido como Maestro Shifu, fue visto en el antro Ambia durante el afterparty de Karol G en Monterrey…",
+    "telegraph_url": "https://telegra.ph/Maestro-Shifu-en-el-afterparty-de-Karol-G-11-08",
+    "url": "https://enelensayomedia.com/notas/maestro-shifu-en-el-afterparty-de-karol-g-1108.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/maestro-shifu-en-el-afterparty-de-karol-g-1108.jpg",
+    "fecha": "2026-11-08T10:42:48.850861",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "¿Doblaje de 'Wildwood' sin actores? Javier Ibarreche responde a críticas",
     "artista": "Javier Ibarreche – respuesta a críticas",
@@ -4008,20 +4022,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Tragedia de Cromañón: la noche que el rock argentino se volvió luto",
-    "artista": "Cromañón",
-    "intro": "El video del canal En el Ensayo Media relata la catástrofe ocurrida el 30 de diciembre de 2004 en el local República Cromañón, donde la banda Callejeros se presentaba ante unas 4 000 personas.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/tragedia-de-cromanon-la-noche-que-el-rock-argentino-se-volvio-luto-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/tragedia-de-cromanon-la-noche-que-el-rock-argentino-se-volvio-luto-1102.jpg",
-    "fecha": "2026-11-02T01:10:55.377143",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
