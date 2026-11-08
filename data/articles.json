@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "¿Doblaje de 'Wildwood' sin actores? Javier Ibarreche responde a críticas",
+    "artista": "Javier Ibarreche – respuesta a críticas",
+    "intro": "Javier Ibarreche ha respondido a las críticas generadas tras su participación en el doblaje latino de la película animada 'Wildwood: El bosque salvaje' de LAIKA Studios.",
+    "telegraph_url": "https://telegra.ph/Doblaje-de-Wildwood-sin-actores-Javier-Ibarreche-responde-a-críticas-11-08",
+    "url": "https://enelensayomedia.com/notas/doblaje-de-wildwood-sin-actores-javier-ibarreche-responde-a-criticas-1108.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/doblaje-de-wildwood-sin-actores-javier-ibarreche-responde-a-criticas-1108.jpg",
+    "fecha": "2026-11-08T10:42:13.531991",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "WWE Crown Jewel 2026: cartelera estelar y transmisión",
     "artista": "WWE Crown Jewel",
     "intro": "El sábado 7 de noviembre de 2026, el mundo de la lucha libre dirigida por la WWE concentró sus miradas en el Riyadh Season Stadium de Riad, Arabia Saudita, con la celebración de WWE Crown Jewel 2026.",
@@ -5718,18 +5732,5 @@
     "views": 0,
     "categoria": "Terror",
     "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "La Gusana Ciega llega a Monterrey el 28 de noviembre con gira Claroscuro",
-    "artista": "",
-    "intro": "La banda anuncia fecha en Escenario GNP Seguros y festival en Guanajuato con promoción 2x1.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-gusana-ciega-llega-a-monterrey-el-28-de-noviembre-con-gira-claroscu-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-gusana-ciega-llega-a-monterrey-el-28-de-noviembre-con-gira-claroscu-1029.jpg",
-    "fecha": "2026-10-29T20:45:27",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
   }
 ]
