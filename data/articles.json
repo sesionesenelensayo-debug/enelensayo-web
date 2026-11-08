@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "La Casa de Amityville: crímenes, juicios y la sombra del mito",
+    "artista": "la Casa de Amityville",
+    "intro": "Una crónica que recorre los homicidios de 1974, el juicio de DeFeo, la breve estancia de los Lutz y la evolución mediática del caso.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/la-casa-de-amityville-crimenes-juicios-y-la-sombra-del-mito-1108.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-casa-de-amityville-crimenes-juicios-y-la-sombra-del-mito-1108.jpg",
+    "fecha": "2026-11-08T08:23:32.439026",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Historias de terror"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Los Concorde anuncian conciertos íntimos en cinco ciudades mexicanas para diciembre 2026",
     "artista": "Los Concorde",
@@ -10,7 +24,7 @@
     "fecha": "2026-11-08T08:16:12.526984",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Escena local",
+    "categoria": "Cultura",
     "fecha_original": "2026-11-01T11:59:58.127573",
     "actualizada": true
   },
