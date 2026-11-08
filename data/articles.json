@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "La vida y trayectoria del pintor Rufino Tamayo en un video",
+    "artista": "Rufino Tamayo",
+    "intro": "En el video del canal En el Ensayo Media se explora la vida y trayectoria del reconocido pintor Rufino Tamayo…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/la-vida-y-trayectoria-del-pintor-rufino-tamayo-en-un-video-1108.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-vida-y-trayectoria-del-pintor-rufino-tamayo-en-un-video-1108.jpg",
+    "fecha": "2026-11-08T12:54:52.608818",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Cultura"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Maluma anuncia siete conciertos en México",
     "artista": "Maluma",
     "intro": "Maluma confirma su regreso a los escenarios mexicanos con el anuncio de siete conciertos en el país como parte de su gira «Loco por Volver World Tour 2027».",
@@ -5724,19 +5739,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El piloto que habló con voz ajena: caso Rafael Pacheco XB-ZOX",
-    "artista": "Rafael Pacheco",
-    "intro": "El 21 de junio de 1976 el estudiante de aviación Rafael Pacheco, de 20 años, despegó en una Cessna 150 (registro XB‑ZOX) desde el Estado de México y, tras desaparecer de los radares, reapareció sobre ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-piloto-que-hablo-con-voz-ajena-caso-rafael-pacheco-xb-zox-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-piloto-que-hablo-con-voz-ajena-caso-rafael-pacheco-xb-zox-1030.jpg",
-    "fecha": "2026-10-30T06:22:29.495304",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Terror",
-    "archivo": true
   }
 ]
