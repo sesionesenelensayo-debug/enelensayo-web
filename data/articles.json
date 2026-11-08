@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Hogwarts Legacy 2: Warner Bros. confirma la secuela oficial",
+    "artista": "Hogwarts Legacy 2",
+    "intro": "Warner Bros. ha confirmado de manera oficial el desarrollo de Hogwarts Legacy 2 como la secuela directa de uno de sus títulos más exitosos de los últimos tiempos.",
+    "telegraph_url": "https://telegra.ph/Hogwarts-Legacy-2-Warner-Bros-confirma-la-secuela-oficial-11-08",
+    "url": "https://enelensayomedia.com/notas/hogwarts-legacy-2-warner-bros-confirma-la-secuela-oficial-1108.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/hogwarts-legacy-2-warner-bros-confirma-la-secuela-oficial-1108.jpg",
+    "fecha": "2026-11-08T16:01:02.250585",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Rayados de Monterrey ficha a Pedro Quintero para el Apertura 2026",
     "artista": "Rayados de Monterrey",
     "intro": "¡Pura buena vibra para el gaming y las canchas! Rayados de Monterrey hizo oficial el fichaje de Pedro Orlando Quintero Carmona…",
@@ -5734,18 +5748,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Solary se corona en la EVA Pro League y el EVA Summit muestra la nueva cara del VR esports",
-    "artista": "Solary campeón EVA Pro League",
-    "intro": "La primera temporada de la EVA Pro League concluyó con Solary como campeón, mientras el EVA Summit reveló sorpresas y definió el futuro del circuito europeo.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/solary-se-corona-en-la-eva-pro-league-y-el-eva-summit-muestra-la-nueva-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/solary-se-corona-en-la-eva-pro-league-y-el-eva-summit-muestra-la-nueva-1030.jpg",
-    "fecha": "2026-10-30T10:25:48.404801",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Esports"
   }
 ]
