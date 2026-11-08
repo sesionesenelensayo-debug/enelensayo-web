@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "One Piece llega a Fortnite con skins y fechas de estreno",
+    "artista": "One Piece",
+    "intro": "Epic Games ha anunciado que el universo de One Piece se incorporará a Fortnite, incluyendo skins temáticas y la publicación de las fechas de lanzamiento del contenido.",
+    "telegraph_url": "https://telegra.ph/One-Piece-llega-a-Fortnite-con-skins-y-fechas-de-estreno-11-01",
+    "url": "https://enelensayomedia.com/notas/one-piece-llega-a-fortnite-con-skins-y-fechas-de-estreno-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/one-piece-llega-a-fortnite-con-skins-y-fechas-de-estreno-1101.jpg",
+    "fecha": "2026-11-08T13:05:42.990400",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos",
+    "fecha_original": "2026-11-01T14:00:11.543167",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Fallece el artista plástico Arnaldo Coen a los 86 años",
@@ -4467,19 +4482,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "One Piece llega a Fortnite con skins y fechas de estreno",
-    "artista": "One Piece",
-    "intro": "Epic Games ha anunciado que el universo de One Piece se incorporará a Fortnite, incluyendo skins temáticas y la publicación de las fechas de lanzamiento del contenido.",
-    "telegraph_url": "https://telegra.ph/One-Piece-llega-a-Fortnite-con-skins-y-fechas-de-estreno-11-01",
-    "url": "https://enelensayomedia.com/notas/one-piece-llega-a-fortnite-con-skins-y-fechas-de-estreno-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/one-piece-llega-a-fortnite-con-skins-y-fechas-de-estreno-1101.jpg",
-    "fecha": "2026-11-01T14:00:11.543167",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos"
   },
   {
     "tipo": "noticia",
