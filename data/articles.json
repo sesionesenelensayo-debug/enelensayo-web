@@ -1,5 +1,20 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Vicente Fernández: ingreso hospitalario, diagnóstico y fallecimiento en 2021",
+    "artista": "Vicente Fernández",
+    "intro": "En el video publicado por el canal En el Ensayo Media se narra la crónica de los últimos meses de Vicente Fernández, abordando su caída, el ingreso de urgencia al hospital Contry 2000…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/vicente-fernandez-ingreso-hospitalario-diagnostico-y-fallecimiento-en-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/vicente-fernandez-ingreso-hospitalario-diagnostico-y-fallecimiento-en-1107.jpg",
+    "fecha": "2026-11-07T19:22:29.156915",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
     "tipo": "noticia",
     "titulo": "Festival Internacional del Globo 2026 revela su canción oficial",
     "artista": "Festival Internacional del Globo",
@@ -5700,18 +5715,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Conciertos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El misterio de Enfield: ¿poltergeist real o la mayor estafa de los 70?",
-    "artista": "",
-    "intro": "Dos años de fenómenos inexplicables en Londres dividieron a la ciencia y alimentaron leyendas que aún hoy generan debate.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-misterio-de-enfield-poltergeist-real-o-la-mayor-estafa-de-los-70-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-misterio-de-enfield-poltergeist-real-o-la-mayor-estafa-de-los-70-1029.jpg",
-    "fecha": "2026-10-29T19:32:24",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror"
   }
 ]
