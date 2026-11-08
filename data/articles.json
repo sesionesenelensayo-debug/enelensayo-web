@@ -1,5 +1,35 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Penélope Cruz revela cómo Salma Hayek la acogió al llegar a México",
+    "artista": "Penélope Cruz",
+    "intro": "Penélope Cruz contó que Salma Hayek la recibió en el aeropuerto mexicano y la invitó a quedarse en su casa, subrayando la dificultad que supone el inicio de una visita al país.",
+    "telegraph_url": "https://telegra.ph/Penélope-Cruz-revela-cómo-Salma-Hayek-la-acogió-al-llegar-a-México-11-07",
+    "url": "https://enelensayomedia.com/notas/penelope-cruz-revela-como-salma-hayek-la-acogio-al-llegar-a-mexico-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/penelope-cruz-revela-como-salma-hayek-la-acogio-al-llegar-a-mexico-1107.jpg",
+    "fecha": "2026-11-07T22:54:31.018351",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-07T07:29:23.469587",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "La Isla de las Muñecas: crónica de un misterio en Xochimilco",
+    "artista": "la Isla de las Muñecas de Xochimilco",
+    "intro": "Historia documentada de Julián Santana Barrera, la chinampa y las leyendas que rodean su muerte en los canales.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/la-isla-de-las-munecas-cronica-de-un-misterio-en-xochimilco-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-isla-de-las-munecas-cronica-de-un-misterio-en-xochimilco-1107.jpg",
+    "fecha": "2026-11-07T22:54:27.027740",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Historias de terror"
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "Assassin's Creed Shadows: la batalla por Yasuke y la historia",
@@ -875,20 +905,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Penélope Cruz revela cómo Salma Hayek la acogió al llegar a México",
-    "artista": "Penélope Cruz",
-    "intro": "Penélope Cruz contó que Salma Hayek la recibió en el aeropuerto mexicano y la invitó a quedarse en su casa, subrayando la dificultad que supone el inicio de una visita al país.",
-    "telegraph_url": "https://telegra.ph/Penélope-Cruz-revela-cómo-Salma-Hayek-la-acogió-al-llegar-a-México-11-07",
-    "url": "https://enelensayomedia.com/notas/penelope-cruz-revela-como-salma-hayek-la-acogio-al-llegar-a-mexico-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/penelope-cruz-revela-como-salma-hayek-la-acogio-al-llegar-a-mexico-1107.jpg",
-    "fecha": "2026-11-07T07:29:23.469587",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   },
   {
     "opinion": false,
@@ -5708,18 +5724,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "La disculpa del Real Madrid y Mbappé a China: ¿'woke' o necesaria?",
-    "artista": "",
-    "intro": "El club y el jugador se disculpan por un meme, pero ¿es suficiente para los críticos?",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-disculpa-del-real-madrid-y-mbappe-a-china-woke-o-necesaria-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-disculpa-del-real-madrid-y-mbappe-a-china-woke-o-necesaria-1029.jpg",
-    "fecha": "2026-10-29T20:16:04",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Agenda woke"
   }
 ]
