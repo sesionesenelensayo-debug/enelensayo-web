@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Rayados de Monterrey ficha a Pedro Quintero para el Apertura 2026",
+    "artista": "Rayados de Monterrey",
+    "intro": "¡Pura buena vibra para el gaming y las canchas! Rayados de Monterrey hizo oficial el fichaje de Pedro Orlando Quintero Carmona…",
+    "telegraph_url": "https://telegra.ph/Rayados-de-Monterrey-ficha-a-Pedro-Quintero-para-el-Apertura-2026-11-08",
+    "url": "https://enelensayomedia.com/notas/rayados-de-monterrey-ficha-a-pedro-quintero-para-el-apertura-2026-1108.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/rayados-de-monterrey-ficha-a-pedro-quintero-para-el-apertura-2026-1108.jpg",
+    "fecha": "2026-11-08T15:55:25.965485",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Avengers: Doomsday rompe récords de preventa con más de 125 millones de dólares",
     "artista": "Avengers: Doomsday",
     "intro": "La nueva entrega de Marvel, Avengers: Doomsday, ha superado en preventas la recaudación total de la película Supergirl, alcanzando ya más de 125 millones de dólares antes de su estreno.",
@@ -5733,19 +5747,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Esports"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades que no sabías de Ray Charles",
-    "artista": "Ray Charles",
-    "intro": "En el Ensayo Media presenta un video con cinco datos poco conocidos sobre Ray Charles, ícono de la música.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-ray-charles-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-que-no-sabias-de-ray-charles-1030.jpg",
-    "fecha": "2026-10-30T10:24:29.224827",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Datos curiosos",
-    "archivo": true
   }
 ]
