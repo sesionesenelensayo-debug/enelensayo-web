@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Super Mario Galaxy: La película llega a HBO Max",
+    "artista": "Super Mario Galaxy",
+    "intro": "HBO Max ha anunciado de manera oficial la fecha de estreno para Latinoamérica de ‘Super Mario Galaxy: La película’, uno de los grandes éxitos cinematográficos de este año.",
+    "telegraph_url": "https://telegra.ph/Super-Mario-Galaxy-La-película-llega-a-HBO-Max-11-07",
+    "url": "https://enelensayomedia.com/notas/super-mario-galaxy-la-pelicula-llega-a-hbo-max-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/super-mario-galaxy-la-pelicula-llega-a-hbo-max-1107.jpg",
+    "fecha": "2026-11-07T20:15:54.991115",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos",
+    "fecha_original": "2026-11-07T13:19:05.516522",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Carlos Rivera triunfa en los Heat Latin Music Awards 2026",
     "artista": "Carlos Rivera",
     "intro": "El cantante mexicano Carlos Rivera resultó ganador en los Heat Latin Music Awards 2026, compartiendo los galardones de la noche junto a Karol G y Gloria Trevi.",
@@ -401,20 +417,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Super Mario Galaxy: La película llega a HBO Max",
-    "artista": "Super Mario Galaxy",
-    "intro": "HBO Max ha anunciado de manera oficial la fecha de estreno para Latinoamérica de ‘Super Mario Galaxy: La película’, uno de los grandes éxitos cinematográficos de este año.",
-    "telegraph_url": "https://telegra.ph/Super-Mario-Galaxy-La-película-llega-a-HBO-Max-11-07",
-    "url": "https://enelensayomedia.com/notas/super-mario-galaxy-la-pelicula-llega-a-hbo-max-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/super-mario-galaxy-la-pelicula-llega-a-hbo-max-1107.jpg",
-    "fecha": "2026-11-07T13:19:05.516522",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos"
   },
   {
     "opinion": false,
