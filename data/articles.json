@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Chovy alcanza la final del Worlds 2026 tras una trayectoria estelar",
+    "artista": "Chovy",
+    "intro": "El mid laner surcoreano, con múltiples títulos locales e internacionales, supera la semifinal y se prepara para la gran final en Nueva York.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/chovy-alcanza-la-final-del-worlds-2026-tras-una-trayectoria-estelar-1108.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/chovy-alcanza-la-final-del-worlds-2026-tras-una-trayectoria-estelar-1108.jpg",
+    "fecha": "2026-11-08T10:52:35.699174",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Maestro Shifu en el afterparty de Karol G",
     "artista": "Maestro Shifu",
@@ -5714,20 +5728,6 @@
     "url": "https://enelensayomedia.com/notas/el-ovni-sumergido-de-shag-harbour-caso-real-1967-1030.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/el-ovni-sumergido-de-shag-harbour-caso-real-1967-1030.jpg",
     "fecha": "2026-10-30T01:51:20.851378",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Terror",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El soldado teletransportado de 1593 | Leyenda de Gil Pérez",
-    "artista": "Gil Pérez",
-    "intro": "En octubre de 1593 un soldado español que estaba de guardia en el Palacio del Gobernador de Manila apareció inesperadamente en la Plaza Mayor de la Ciudad de México. El relato, documentado en fuentes ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-soldado-teletransportado-de-1593-leyenda-de-gil-perez-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-soldado-teletransportado-de-1593-leyenda-de-gil-perez-1030.jpg",
-    "fecha": "2026-10-30T00:19:51.121293",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Terror",
