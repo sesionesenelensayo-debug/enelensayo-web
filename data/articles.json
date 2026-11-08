@@ -1,6 +1,21 @@
 [
   {
     "tipo": "reportaje",
+    "titulo": "Los Concorde anuncian conciertos íntimos en cinco ciudades mexicanas para diciembre 2026",
+    "artista": "Los Concorde",
+    "intro": "Los Concorde, la supergroup mexicana de rock alternativo, confirmó una gira de conciertos íntimos en México durante noviembre y diciembre de 2026.",
+    "telegraph_url": "https://telegra.ph/Los-Concorde-anuncian-conciertos-íntimos-en-cinco-ciudades-mexicanas-para-diciembre-2026-11-01",
+    "url": "https://enelensayomedia.com/notas/los-concorde-anuncian-conciertos-intimos-en-cinco-ciudades-mexicanas-p-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/los-concorde-anuncian-conciertos-intimos-en-cinco-ciudades-mexicanas-p-1101.jpg",
+    "fecha": "2026-11-08T08:16:12.526984",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Escena local",
+    "fecha_original": "2026-11-01T11:59:58.127573",
+    "actualizada": true
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Frostpunk llega a Nintendo Switch el 19 de octubre con demo disponible",
     "artista": "Frostpunk",
     "intro": "Según Players4Players.com, el juego de supervivencia y construcción de ciudades Frostpunk estará disponible en la Nintendo Switch a partir del 19 de octubre, y ya se puede descargar una demo en la eSh",
@@ -4398,19 +4413,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Los Concorde anuncian conciertos íntimos en cinco ciudades mexicanas para diciembre 2026",
-    "artista": "Los Concorde",
-    "intro": "Los Concorde, la supergroup mexicana de rock alternativo, confirmó una gira de conciertos íntimos en México durante noviembre y diciembre de 2026.",
-    "telegraph_url": "https://telegra.ph/Los-Concorde-anuncian-conciertos-íntimos-en-cinco-ciudades-mexicanas-para-diciembre-2026-11-01",
-    "url": "https://enelensayomedia.com/notas/los-concorde-anuncian-conciertos-intimos-en-cinco-ciudades-mexicanas-p-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/los-concorde-anuncian-conciertos-intimos-en-cinco-ciudades-mexicanas-p-1101.jpg",
-    "fecha": "2026-11-01T11:59:58.127573",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Escena local"
   },
   {
     "tipo": "reportaje",
