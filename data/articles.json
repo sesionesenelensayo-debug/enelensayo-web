@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Roberto Carlo celebra su boda oficial el 7 de noviembre de 2023",
+    "artista": "Roberto Carlo",
+    "intro": "El actor y presentador mexicano Roberto Carlo oficializó su matrimonio con Rubén Kuri el 7 de noviembre de 2023, tras varios años de noviazgo y compromisos previos.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/roberto-carlo-celebra-su-boda-oficial-el-7-de-noviembre-de-2023-1108.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/roberto-carlo-celebra-su-boda-oficial-el-7-de-noviembre-de-2023-1108.jpg",
+    "fecha": "2026-11-08T09:06:16.828423",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Kygo en México 2027: fechas, sedes y boletos",
     "artista": "Kygo",
@@ -11,7 +25,7 @@
     "fecha": "2026-11-08T08:58:07.088075",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Conciertos",
+    "categoria": "Música",
     "fecha_original": "2026-11-03T13:34:06.725879",
     "actualizada": true
   },
@@ -4417,19 +4431,6 @@
   },
   {
     "tipo": "reportaje",
-    "titulo": "Heidi Klum se disfraza de mano izquierda cercenada en su fiesta de Halloween 2026",
-    "artista": "Heidi Klum",
-    "intro": "En la celebración de Halloween 2026 en Nueva York, la modelo y presentadora Heidi Klum sorprendió a los asistentes al aparecer como una mano izquierda cercenada.",
-    "telegraph_url": "https://telegra.ph/Heidi-Klum-se-disfraza-de-mano-izquierda-cercenada-en-su-fiesta-de-Halloween-2026-11-01",
-    "url": "https://enelensayomedia.com/notas/heidi-klum-se-disfraza-de-mano-izquierda-cercenada-en-su-fiesta-de-hal-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/heidi-klum-se-disfraza-de-mano-izquierda-cercenada-en-su-fiesta-de-hal-1101.jpg",
-    "fecha": "2026-11-01T12:00:00.090773",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
-  },
-  {
-    "tipo": "reportaje",
     "titulo": "El trágico incendio del Teatro Iroquois de Chicago y su legado en la seguridad",
     "artista": "¿Por qué una tarde de música terminó en tragedia? La verdad ",
     "intro": "En el video del canal En el Ensayo Media se narra la historia del Teatro Iroquois, inaugurado en noviembre de 1903 en Chicago.",
@@ -4562,19 +4563,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "José Luis \"El Komander\" anuncia el fallecimiento de su hijo menor",
-    "artista": "José Luis \"El Komander\"",
-    "intro": "El cantante mexicano de corridos y música regional, conocido como “El Komander”, informó el viernes 30 de octubre de 2026 del fallecimiento de su hijo menor, José Eliseo Ríos Ávila.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/jose-luis-el-komander-anuncia-el-fallecimiento-de-su-hijo-menor-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/jose-luis-el-komander-anuncia-el-fallecimiento-de-su-hijo-menor-1101.jpg",
-    "fecha": "2026-11-01T09:03:53.274254",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   },
   {
     "tipo": "noticia",
