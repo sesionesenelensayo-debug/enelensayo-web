@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "¿Lesslie Polinesia y Hermanastras? La polémica por star talents en Netflix",
+    "artista": "Lesslie Polinesia",
+    "intro": "Un tráiler promocional de Netflix desató críticas en redes sociales tras anunciar la participación de Lesslie Polinesia como parte del elenco de voces en español de la película «Hermanastras».",
+    "telegraph_url": "https://telegra.ph/Lesslie-Polinesia-y-Hermanastras-La-polémica-por-star-talents-en-Netflix-11-08",
+    "url": "https://enelensayomedia.com/notas/lesslie-polinesia-y-hermanastras-la-polemica-por-star-talents-en-netfl-1108.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/lesslie-polinesia-y-hermanastras-la-polemica-por-star-talents-en-netfl-1108.jpg",
+    "fecha": "2026-11-08T15:01:59.992039",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Presentan el documental La mirada de Frida de Trisha Ziff",
     "artista": "Trisha Ziff",
     "intro": "La directora y realizadora Trisha Ziff presenta su documental titulado 'La mirada de Frida', conocido también en inglés como 'Frida: The Girl Just Doesn't Go Away'.",
@@ -5731,18 +5745,5 @@
     "views": 0,
     "categoria": "Datos curiosos",
     "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Jenna Ortega vuelve a los focos: proyectos, entrevista y polémica por su apariencia",
-    "artista": "Jenna Ortega",
-    "intro": "La actriz de 23 años retoma la promoción de sus nuevos filmes mientras una entrevista de Esquire desata debate sobre su delgadez y la presión en la industria.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/jenna-ortega-vuelve-a-los-focos-proyectos-entrevista-y-polemica-por-su-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/jenna-ortega-vuelve-a-los-focos-proyectos-entrevista-y-polemica-por-su-1030.jpg",
-    "fecha": "2026-10-30T09:36:00.041563",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme internacional"
   }
 ]
