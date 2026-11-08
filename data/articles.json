@@ -1,5 +1,19 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "Glen Powell negocia con DC: ¿Otro parche para un universo sin rumbo?",
+    "artista": "Glen Powell",
+    "intro": "Glen Powell se encuentra en conversaciones con DC Studios para un papel importante que requiere un gran compromiso y múltiples opciones de contrato.",
+    "telegraph_url": "https://telegra.ph/Glen-Powell-negocia-con-DC-Otro-parche-para-un-universo-sin-rumbo-11-08",
+    "url": "https://enelensayomedia.com/notas/glen-powell-negocia-con-dc-otro-parche-para-un-universo-sin-rumbo-1108.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/glen-powell-negocia-con-dc-otro-parche-para-un-universo-sin-rumbo-1108.jpg",
+    "fecha": "2026-11-08T11:17:04.769750",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "María Becerra estrena 'Tú sin Yo' y arranca su nueva era",
@@ -5721,20 +5735,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Terror y misterio",
-    "archivo": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El OVNI sumergido de Shag Harbour | Caso Real 1967",
-    "artista": "Shag Harbour",
-    "intro": "El 4 de octubre de 1967, varios testigos en la pequeña aldea pesquera de Shag Harbour, Nueva Escocia, observaron un objeto con luces que descendió sobre la bahía. Marina, Fuerza Aérea, la Policía y eq",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-ovni-sumergido-de-shag-harbour-caso-real-1967-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-ovni-sumergido-de-shag-harbour-caso-real-1967-1030.jpg",
-    "fecha": "2026-10-30T01:51:20.851378",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Terror",
     "archivo": true
   }
 ]
