@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Sofi Tukker anuncia nueva gira en México y EE.UU. para 2027",
+    "artista": "SOFI TUKKER",
+    "intro": "El dúo presentará su espectáculo \"ANIMAL TALK\" en Zapopan y participará en el Ultra Music Festival en Miami.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/sofi-tukker-anuncia-nueva-gira-en-mexico-y-ee-uu-para-2027-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/sofi-tukker-anuncia-nueva-gira-en-mexico-y-ee-uu-para-2027-1031.jpg",
+    "fecha": "2026-11-08T11:01:49.056552",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos",
+    "fecha_original": "2026-10-31T12:06:25.268186",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Chovy alcanza la final del Worlds 2026 tras una trayectoria estelar",
@@ -5076,19 +5091,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Agenda woke"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Sofi Tukker anuncia nueva gira en México y EE.UU. para 2027",
-    "artista": "SOFI TUKKER",
-    "intro": "El dúo presentará su espectáculo \"ANIMAL TALK\" en Zapopan y participará en el Ultra Music Festival en Miami.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/sofi-tukker-anuncia-nueva-gira-en-mexico-y-ee-uu-para-2027-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/sofi-tukker-anuncia-nueva-gira-en-mexico-y-ee-uu-para-2027-1031.jpg",
-    "fecha": "2026-10-31T12:06:25.268186",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
   },
   {
     "tipo": "reportaje",
