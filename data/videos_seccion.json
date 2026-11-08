@@ -1,4 +1,51 @@
 {
+ "In memoriam": {
+  "shorts": [
+   {
+    "id": "aIXc77PZJeI",
+    "titulo": "Vicente Fernández ingresó al Country 2000 el 7‑agosto y murió el 12‑diciembre",
+    "fecha": "2026-11-07",
+    "nota": "https://enelensayomedia.com/notas/vicente-fernandez-ingreso-al-country-2000-el-7agosto-y-murio-el-12dici-1107.html"
+   },
+   {
+    "id": "ZmcGV2_3eOI",
+    "titulo": "Pedro Infante muere en accidente aéreo de Mérida en 1957",
+    "fecha": "2026-11-07",
+    "nota": "https://enelensayomedia.com/notas/pedro-infante-muere-en-accidente-aereo-de-merida-en-1957-1107.html"
+   },
+   {
+    "id": "bNQVbCmLexI",
+    "titulo": "El oscuro secreto detrás de la muerte de Kurt Cobain",
+    "fecha": "2026-10-31",
+    "nota": "https://enelensayomedia.com/notas/el-oscuro-secreto-detras-de-la-muerte-de-kurt-cobain-1031.html"
+   },
+   {
+    "id": "KsetdIqOi_0",
+    "titulo": "JOAQUÍN CARBONELL: Murió el día de su cumpleaños",
+    "fecha": "2026-10-30",
+    "nota": "https://enelensayomedia.com/notas/joaquin-carbonell-murio-el-dia-de-su-cumpleanos-1030.html"
+   },
+   {
+    "id": "kA21nwKSUDU",
+    "titulo": "5 curiosidades que no sabías de Fallece Eddie Low",
+    "fecha": "2026-10-30",
+    "nota": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-fallece-eddie-low-1030.html"
+   },
+   {
+    "id": "LPqjHSJvvPk",
+    "titulo": "El compositor de Hänsel y Gretel murió hace 105 años",
+    "fecha": "2026-10-30",
+    "nota": "https://enelensayomedia.com/notas/el-compositor-de-hansel-y-gretel-murio-hace-105-anos-1030.html"
+   },
+   {
+    "id": "5ab2iCeZFRk",
+    "titulo": "Murió el mismo día que Rasputin, 94 años después",
+    "fecha": "2026-10-29",
+    "nota": "https://enelensayomedia.com/notas/murio-el-mismo-dia-que-rasputin-94-anos-despues-1029.html"
+   }
+  ],
+  "longs": []
+ },
  "Música": {
   "shorts": [
    {
@@ -98,12 +145,6 @@
  "Biografía": {
   "shorts": [
    {
-    "id": "aIXc77PZJeI",
-    "titulo": "Vicente Fernández: ingreso hospitalario, diagnóstico y fallecimiento en 2021",
-    "fecha": "2026-11-07",
-    "nota": "https://enelensayomedia.com/notas/vicente-fernandez-ingreso-hospitalario-diagnostico-y-fallecimiento-en-1107.html"
-   },
-   {
     "id": "SBaKb0dpk8Q",
     "titulo": "Jim Croce: la verdad sobre el accidente aéreo de 1973",
     "fecha": "2026-11-07",
@@ -168,6 +209,12 @@
     "titulo": "El oscuro secreto del éxito de The Slim Shady LP de Eminem",
     "fecha": "2026-11-02",
     "nota": "https://enelensayomedia.com/notas/el-oscuro-secreto-del-exito-de-the-slim-shady-lp-de-eminem-1102.html"
+   },
+   {
+    "id": "TuIWnR9UE1A",
+    "titulo": "Miguel Zabaleta y Suéter: la voz del rock argentino que ocultó su lucha contra el cáncer",
+    "fecha": "2026-11-02",
+    "nota": "https://enelensayomedia.com/notas/miguel-zabaleta-y-sueter-la-voz-del-rock-argentino-que-oculto-su-lucha-1102.html"
    }
   ],
   "longs": [
@@ -244,47 +291,6 @@
     "nota": "https://enelensayomedia.com/notas/celine-dion-la-reina-de-las-power-ballads-trayectoria-y-hitos-clave-1101.html"
    }
   ]
- },
- "In memoriam": {
-  "shorts": [
-   {
-    "id": "ZmcGV2_3eOI",
-    "titulo": "Pedro Infante muere en accidente aéreo de Mérida en 1957",
-    "fecha": "2026-11-07",
-    "nota": "https://enelensayomedia.com/notas/pedro-infante-muere-en-accidente-aereo-de-merida-en-1957-1107.html"
-   },
-   {
-    "id": "bNQVbCmLexI",
-    "titulo": "El oscuro secreto detrás de la muerte de Kurt Cobain",
-    "fecha": "2026-10-31",
-    "nota": "https://enelensayomedia.com/notas/el-oscuro-secreto-detras-de-la-muerte-de-kurt-cobain-1031.html"
-   },
-   {
-    "id": "KsetdIqOi_0",
-    "titulo": "JOAQUÍN CARBONELL: Murió el día de su cumpleaños",
-    "fecha": "2026-10-30",
-    "nota": "https://enelensayomedia.com/notas/joaquin-carbonell-murio-el-dia-de-su-cumpleanos-1030.html"
-   },
-   {
-    "id": "kA21nwKSUDU",
-    "titulo": "5 curiosidades que no sabías de Fallece Eddie Low",
-    "fecha": "2026-10-30",
-    "nota": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-fallece-eddie-low-1030.html"
-   },
-   {
-    "id": "LPqjHSJvvPk",
-    "titulo": "El compositor de Hänsel y Gretel murió hace 105 años",
-    "fecha": "2026-10-30",
-    "nota": "https://enelensayomedia.com/notas/el-compositor-de-hansel-y-gretel-murio-hace-105-anos-1030.html"
-   },
-   {
-    "id": "5ab2iCeZFRk",
-    "titulo": "Murió el mismo día que Rasputin, 94 años después",
-    "fecha": "2026-10-29",
-    "nota": "https://enelensayomedia.com/notas/murio-el-mismo-dia-que-rasputin-94-anos-despues-1029.html"
-   }
-  ],
-  "longs": []
  },
  "Cine": {
   "shorts": [
