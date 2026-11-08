@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Kanye West: ¿Nuevo concierto en CDMX?",
+    "artista": "Kanye West",
+    "intro": "¿Regresa Kanye West a México? Trascendió de manera viral un anuncio sobre un posible concierto del rapero en el Estadio Banorte de la Ciudad de México.",
+    "telegraph_url": "https://telegra.ph/Kanye-West-Nuevo-concierto-en-CDMX-11-04",
+    "url": "https://enelensayomedia.com/notas/kanye-west-nuevo-concierto-en-cdmx-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/kanye-west-nuevo-concierto-en-cdmx-1103.jpg",
+    "fecha": "2026-11-08T16:47:26.818817",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-11-03T19:17:28.974086",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Dafne Keen revela que le ofrecieron drogas en su infancia",
     "artista": "Actriz de Marvel",
     "intro": "La actriz de Marvel confesó que enfrentó situaciones de riesgo en fiestas de Hollywood a temprana edad, según se informó.",
@@ -2117,22 +2133,6 @@
     "views": 0,
     "categoria": "Luchas",
     "fecha_original": "2026-11-02T10:20:39.913036",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Kanye West: ¿Nuevo concierto en CDMX?",
-    "artista": "Kanye West",
-    "intro": "¿Regresa Kanye West a México? Trascendió de manera viral un anuncio sobre un posible concierto del rapero en el Estadio Banorte de la Ciudad de México.",
-    "telegraph_url": "https://telegra.ph/Kanye-West-Nuevo-concierto-en-CDMX-11-04",
-    "url": "https://enelensayomedia.com/notas/kanye-west-nuevo-concierto-en-cdmx-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/kanye-west-nuevo-concierto-en-cdmx-1103.jpg",
-    "fecha": "2026-11-05T12:53:08.120307",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-03T19:17:28.974086",
     "actualizada": true
   },
   {
