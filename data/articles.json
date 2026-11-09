@@ -1,5 +1,19 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "¿Es este el límite del nuevo DCU?",
+    "artista": "Clayface",
+    "intro": "¿Puede una cifra de taquilla menor disimular el estado actual del cine de superhéroes?",
+    "telegraph_url": "https://telegra.ph/Es-este-el-límite-del-nuevo-DCU-11-09",
+    "url": "https://enelensayomedia.com/notas/es-este-el-limite-del-nuevo-dcu-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/es-este-el-limite-del-nuevo-dcu-1109.jpg",
+    "fecha": "2026-11-09T11:18:07.187662",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Calendario y episodios de la temporada 3 de The Rings of Power",
@@ -5760,19 +5774,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades que no sabías de Tito Jackson",
-    "artista": "Tito Jackson",
-    "intro": "En este video del canal En el Ensayo Media se presentan cinco datos poco conocidos sobre la vida y trayectoria musical de Tito Jackson.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-tito-jackson-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-que-no-sabias-de-tito-jackson-1030.jpg",
-    "fecha": "2026-10-30T18:14:53.723254",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Datos curiosos"
   }
 ]
