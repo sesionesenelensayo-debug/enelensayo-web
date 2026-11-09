@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Pablo Lyle saldría libre en diciembre de 2026",
+    "artista": "Pablo Lyle",
+    "intro": "El actor mexicano Pablo Lyle cumpliría su sentencia de cinco años por homicidio involuntario el 29 de diciembre de 2026, según se reporta.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/pablo-lyle-saldria-libre-en-diciembre-de-2026-1108.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/pablo-lyle-saldria-libre-en-diciembre-de-2026-1108.jpg",
+    "fecha": "2026-11-08T21:02:41.555424",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Los oscuros secretos y la leyenda de la Quinta del Sordo de Goya",
     "artista": "la Casa Sorda de Goya",
     "intro": "Crónica sobre la misteriosa residencia donde el pintor creó sus aterradoras obras maestras en las afueras de Madrid.",
@@ -4448,19 +4462,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Lucía Méndez envía un fuerte mensaje a Madonna",
-    "artista": "Lucía Méndez",
-    "intro": "La cantante y actriz mexicana Lucía Méndez ha mandado un mensaje directo a la estrella internacional Madonna.",
-    "telegraph_url": "https://telegra.ph/Lucía-Méndez-envía-un-fuerte-mensaje-a-Madonna-11-02",
-    "url": "https://enelensayomedia.com/notas/lucia-mendez-envia-un-fuerte-mensaje-a-madonna-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/lucia-mendez-envia-un-fuerte-mensaje-a-madonna-1101.jpg",
-    "fecha": "2026-11-01T22:07:13.690351",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   },
   {
     "tipo": "reportaje",
