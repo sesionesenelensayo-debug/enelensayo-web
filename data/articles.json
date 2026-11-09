@@ -1,6 +1,22 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Christian Nodal retira su mano de Ángela Aguilar en concierto de Los Aguilar",
+    "artista": "Christian Nodal",
+    "intro": "Durante un concierto de Los Aguilar, el cantante Christian Nodal se quitó la mano de la joven artista Ángela Aguilar.",
+    "telegraph_url": "https://telegra.ph/Christian-Nodal-retira-su-mano-de-Ángela-Aguilar-en-concierto-de-Los-Aguilar-11-09",
+    "url": "https://enelensayomedia.com/notas/christian-nodal-retira-su-mano-de-angela-aguilar-en-concierto-de-los-a-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/christian-nodal-retira-su-mano-de-angela-aguilar-en-concierto-de-los-a-1109.jpg",
+    "fecha": "2026-11-09T14:22:31.826366",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-09T09:44:05.896515",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Mark Wahlberg y Mel Gibson: 'Flight Risk' sale de HBO Max",
     "artista": "Mark Wahlberg",
@@ -504,20 +520,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Luchas"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Christian Nodal retira su mano de Ángela Aguilar en concierto de Los Aguilar",
-    "artista": "Christian Nodal",
-    "intro": "Durante un concierto de Los Aguilar, el cantante Christian Nodal se quitó la mano de la joven artista Ángela Aguilar.",
-    "telegraph_url": "https://telegra.ph/Christian-Nodal-retira-su-mano-de-Ángela-Aguilar-en-concierto-de-Los-Aguilar-11-09",
-    "url": "https://enelensayomedia.com/notas/christian-nodal-retira-su-mano-de-angela-aguilar-en-concierto-de-los-a-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/christian-nodal-retira-su-mano-de-angela-aguilar-en-concierto-de-los-a-1109.jpg",
-    "fecha": "2026-11-09T09:44:05.896515",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   },
   {
     "opinion": false,
