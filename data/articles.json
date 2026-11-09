@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "5 curiosidades de Led Zeppelin",
+    "artista": "Led Zeppelin",
+    "intro": "En el video de En el Ensayo Media titulado '5 curiosidades de Led Zeppelin', se presentan cinco datos breves sobre la icónica banda británica, abordando su origen…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-led-zeppelin-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-led-zeppelin-1109.jpg",
+    "fecha": "2026-11-09T12:18:33.084415",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Rockstar anuncia el festival musical GTA VI en Miami",
     "artista": "Rockstar",
     "intro": "Rockstar ha anunciado la realización de GTA VI The Festival, un evento musical propio concebido para celebrar el lanzamiento del esperado videojuego.",
@@ -4369,21 +4384,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Carlos Santana y Natalia Lafourcade unen voces en 'Hermano'",
-    "artista": "Carlos Santana y Natalia Lafourcade",
-    "intro": "Carlos Santana y Natalia Lafourcade se han unido para colaborar en el tema titulado 'Hermano'.",
-    "telegraph_url": "https://telegra.ph/Carlos-Santana-y-Natalia-Lafourcade-unen-voces-en-Hermano-11-02",
-    "url": "https://enelensayomedia.com/notas/carlos-santana-y-natalia-lafourcade-unen-voces-en-hermano-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/carlos-santana-y-natalia-lafourcade-unen-voces-en-hermano-1101.jpg",
-    "fecha": "2026-11-02T07:16:49.306156",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-01T18:22:51.653232",
-    "actualizada": true
   },
   {
     "tipo": "reportaje",
