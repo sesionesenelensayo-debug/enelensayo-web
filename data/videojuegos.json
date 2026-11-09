@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-08T19:51",
+ "actualizado": "2026-11-09T01:52",
  "peores": [
   {
    "titulo": "Code Violet",
@@ -90,17 +90,6 @@
    "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1773261213.jpg"
   },
   {
-   "titulo": "RENNSPORT",
-   "score": 53,
-   "resenas": 10,
-   "fecha": "2025-11-13",
-   "plataforma": "PlayStation 5",
-   "genero": "Auto Racing Sim",
-   "sentimiento": "Mixed or average",
-   "slug": "rennsport",
-   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1763100018.jpg"
-  },
-  {
    "titulo": "Sonic Frontiers: Definitive Edition",
    "score": 56,
    "resenas": 12,
@@ -132,6 +121,17 @@
    "sentimiento": "Mixed or average",
    "slug": "project-motor-racing",
    "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1764040218.jpg"
+  },
+  {
+   "titulo": "Dark Scrolls",
+   "score": 59,
+   "resenas": 18,
+   "fecha": "2026-06-22",
+   "plataforma": "PC",
+   "genero": "2D Platformer",
+   "sentimiento": "Mixed or average",
+   "slug": "dark-scrolls",
+   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1779552773.jpg"
   }
  ],
  "estrenos": [
