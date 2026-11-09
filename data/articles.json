@@ -1,5 +1,21 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "Polémica por el casting de Paapa Essiedu como Severus Snape",
+    "artista": "Paapa Essiedu como Snape en Harry Potter",
+    "intro": "La elección del actor británico Paapa Essiedu para interpretar al profesor Severus Snape en la nueva serie de HBO genera un intenso debate entre los seguidores.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/polemica-por-el-casting-de-paapa-essiedu-como-severus-snape-1108.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/polemica-por-el-casting-de-paapa-essiedu-como-severus-snape-1108.jpg",
+    "fecha": "2026-11-08T19:55:28.357189",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Agenda woke",
+    "fecha_original": "2026-11-08T16:16:39.285293",
+    "actualizada": true
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Las 10 mayores pérdidas de taquilla entre 2025 y 2026",
     "artista": "las 10 películas que más dinero perdieron (mayores fracasos de taquilla recientes)",
@@ -191,20 +207,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme internacional"
-  },
-  {
-    "opinion": true,
-    "tipo": "reportaje",
-    "titulo": "Polémica por el casting de Paapa Essiedu como Severus Snape",
-    "artista": "Paapa Essiedu como Snape en Harry Potter",
-    "intro": "La elección del actor británico Paapa Essiedu para interpretar al profesor Severus Snape en la nueva serie de HBO genera un intenso debate entre los seguidores.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/polemica-por-el-casting-de-paapa-essiedu-como-severus-snape-1108.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/polemica-por-el-casting-de-paapa-essiedu-como-severus-snape-1108.jpg",
-    "fecha": "2026-11-08T16:16:39.285293",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Agenda woke"
   },
   {
     "opinion": false,
