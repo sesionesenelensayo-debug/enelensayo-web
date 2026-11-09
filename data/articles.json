@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Belinda y Danna se besan en el escenario de “Mentiras All Stars”",
+    "artista": "Belinda",
+    "intro": "Durante la transmisión de “Mentiras All Stars”, Belinda y Danna compartieron un beso inesperado en el escenario…",
+    "telegraph_url": "https://telegra.ph/Belinda-y-Danna-se-besan-en-el-escenario-de-Mentiras-All-Stars-11-09",
+    "url": "https://enelensayomedia.com/notas/belinda-y-danna-se-besan-en-el-escenario-de-mentiras-all-stars-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/belinda-y-danna-se-besan-en-el-escenario-de-mentiras-all-stars-1109.jpg",
+    "fecha": "2026-11-09T13:40:50.595015",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-09T09:21:39.803296",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Jaime Lorente debuta como director con 'El mal hijo'",
     "artista": "Jaime Lorente",
     "intro": "¿Qué mueve a un actor consolidado a sentarse detrás de la cámara? Jaime Lorente responde a esa pregunta con su debut en la dirección de largometraje: 'El mal hijo'.",
@@ -438,20 +454,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme internacional"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Belinda y Danna se besan en el escenario de “Mentiras All Stars”",
-    "artista": "Belinda",
-    "intro": "Durante la transmisión de “Mentiras All Stars”, Belinda y Danna compartieron un beso inesperado en el escenario…",
-    "telegraph_url": "https://telegra.ph/Belinda-y-Danna-se-besan-en-el-escenario-de-Mentiras-All-Stars-11-09",
-    "url": "https://enelensayomedia.com/notas/belinda-y-danna-se-besan-en-el-escenario-de-mentiras-all-stars-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/belinda-y-danna-se-besan-en-el-escenario-de-mentiras-all-stars-1109.jpg",
-    "fecha": "2026-11-09T09:21:39.803296",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   },
   {
     "tipo": "noticia",
