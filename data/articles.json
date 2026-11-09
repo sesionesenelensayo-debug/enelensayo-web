@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Jaime Lorente debuta como director con 'El mal hijo'",
+    "artista": "Jaime Lorente",
+    "intro": "¿Qué mueve a un actor consolidado a sentarse detrás de la cámara? Jaime Lorente responde a esa pregunta con su debut en la dirección de largometraje: 'El mal hijo'.",
+    "telegraph_url": "https://telegra.ph/Jaime-Lorente-debuta-como-director-con-El-mal-hijo-11-09",
+    "url": "https://enelensayomedia.com/notas/jaime-lorente-debuta-como-director-con-el-mal-hijo-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/jaime-lorente-debuta-como-director-con-el-mal-hijo-1109.jpg",
+    "fecha": "2026-11-09T13:40:05.389305",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Mark Wahlberg y Mel Gibson: 'Flight Risk' sale de HBO Max",
     "artista": "Mark Wahlberg",
@@ -4894,21 +4908,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "La película de Street Fighter triunfa en su primer fin de semana",
-    "artista": "Street Fighter",
-    "intro": "La adaptación cinematográfica de la franquicia Street Fighter ha registrado un éxito de taquilla durante su primer fin de semana, según reportes de varios medios.",
-    "telegraph_url": "https://telegra.ph/La-película-de-Street-Fighter-triunfa-en-su-primer-fin-de-semana-11-01",
-    "url": "https://enelensayomedia.com/notas/la-pelicula-de-street-fighter-triunfa-en-su-primer-fin-de-semana-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-pelicula-de-street-fighter-triunfa-en-su-primer-fin-de-semana-1101.jpg",
-    "fecha": "2026-11-01T12:25:47.519636",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-01T09:53:17.513976",
-    "actualizada": true
   },
   {
     "tipo": "reportaje",
