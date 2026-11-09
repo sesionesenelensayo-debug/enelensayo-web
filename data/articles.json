@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Los oscuros secretos y la leyenda de la Quinta del Sordo de Goya",
+    "artista": "la Casa Sorda de Goya",
+    "intro": "Crónica sobre la misteriosa residencia donde el pintor creó sus aterradoras obras maestras en las afueras de Madrid.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/los-oscuros-secretos-y-la-leyenda-de-la-quinta-del-sordo-de-goya-1108.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/los-oscuros-secretos-y-la-leyenda-de-la-quinta-del-sordo-de-goya-1108.jpg",
+    "fecha": "2026-11-08T20:23:35.522705",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Historias de terror"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Lil Uzi Vert llega a Fortnite con su propia crew",
     "artista": "Lil Uzi Vert",
     "intro": "Epic Games ha confirmado la llegada de Lil Uzi Vert al universo de Fortnite con el desembarco de la «Lil Uzi Crew» en la isla.",
@@ -5751,19 +5765,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Conciertos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades que no sabías de Claude Lombard",
-    "artista": "Claude Lombard",
-    "intro": "En el marco de la serie En el Ensayo — Live Sessions, el estudio de Azcapotzalco, CDMX, presentó una grabación dedicada a Claude Lombard, la cantante belga fallecida en 2021. El programa, titulado “5 ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-claude-lombard-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-que-no-sabias-de-claude-lombard-1030.jpg",
-    "fecha": "2026-10-30T13:58:36.849863",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Datos curiosos"
   }
 ]
