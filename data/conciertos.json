@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-09 09:23",
+ "actualizado": "2026-11-09 11:24",
  "eventos": [],
  "api": false,
  "ticketmaster": {
@@ -121,10 +121,10 @@
    "fecha": "2026-11-07 18:10"
   },
   {
-   "titulo": "Ozzfest México 2027: Fecha, venue, boletos y más",
-   "fuente": "Sopitas.com",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZUpaSWJWQmIwOE9yQzNCMnRDTlhOZVVtZFp0cURhLWNYQlczSTJQMHIyUFFYOVl0MFY2STJvS3ZrNEdDWEJ2SUtlWXY3c2NJYTluZU9fMGlMY0NXanQ3Wml1WnlLSzgwQVNVU0JwaWYtUlJiYUZkcGFWUVZ4aWNneTBzVQ?oc=5",
-   "fecha": "2026-11-06 21:37"
+   "titulo": "El lunes arranca la Preventa Banamex y Venta Anticipada Banorte del México GP 2027",
+   "fuente": "MexicoGP",
+   "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONGZzYVhxTUxBZU43dkYxRTFwSUswZFZLbklLVkpmT2FhU2NwaDM4ZS1zaEJGM2k0Z2ZXMkVWdGU3eG0zZzdOdklCaUpsRzVPZE9fTFk5RzJlMEp1QVZCSi1yS0txcU1TQXR5T0NyVEdfQmtXS2xhc0dwcDFUSmFhSDdSWUFHdl9jV1lYZnBGOC05MWlvRHRMVnJ4ekZ0Q0lzVjd3eGNVeHlBaXZOY1E0b3I3VW9FQQ?oc=5",
+   "fecha": "2026-11-07 09:52"
   },
   {
    "titulo": "Boletos del Vive Latino 2027: precios, preventa y venta general",
@@ -157,10 +157,22 @@
    "fecha": "2026-11-06 15:13"
   },
   {
+   "titulo": "Ozzfest 2027 llega por primera vez a México: fecha, boletos, preventa y cartel del festival",
+   "fuente": "Eje Central",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNc0pQSGNyaEZYa29MUWpJS2ZkMjNlWWxZaUtrR2JUYU5zY1BzRDFBcGJadGNzQ0g3U3dZM0ktX0sxNTZDNldHQUliX3ZPNkd4OVYtWGpzUU9SUGdmOEVMRWEycnlabnR0TDl0dnNuaFMwZ0x6MXdOejZ4dHRKWnJsRmkwMjVVdFF0d3REaGp3eEtKeGVSTUN4SmM5YnpoX0JBV2pVUm9ibDZXNFN3MGpoazBHb3RuVTQyOVVuS2xJNGNPWmFuWWdZX2FR?oc=5",
+   "fecha": "2026-11-06 14:51"
+  },
+  {
    "titulo": "Rush llega a Sphere en 2027 y prepara 2112 y Moving Pictures completos",
    "fuente": "LifeBoxset",
    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HY2Etak9iakswZ1QwWEhKX1YwcFBEWWxZYXN3dDRuUkFEZE81SkpjRzM4VDB5N2FPOVl0M2VjeWJsX2FDUDFubkpPYUpwR1Q1dXViTzJVRk56SWk3aHN6Zg?oc=5",
    "fecha": "2026-11-06 13:40"
+  },
+  {
+   "titulo": "Ozzfest México 2027: venta de boletos inicia este 6 de noviembre, ¿cómo y dónde comprar tus entradas?",
+   "fuente": "Claro Sports",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcWo5clBkNHh3ZTNZNnJWUmd3VjRuakE5OU42M1d5LUp2LXJLdzkxaDlibmJQSlRrNDJTV2xRNHRpV0sxdDJ6dFVMWUlBRGRIYW5Vc2RkcnFUWHhPb1NLZnNLbmg3NGh6LTY3UWxuYVNVZVhWNGVFY21RMWJ4Q1U5Tkt5T3BpUVJlYnJoVllqQU9Mb0Ixd2NZaWotYW1aVVpuaG1xNk9EbFdRZks2cFVDVnhRQm16U2t1VjZ4bnJnNmlXNjVmd1czZ3BnV0xYRF9KX0xYZXAxMjZWbC1V?oc=5",
+   "fecha": "2026-11-06 01:13"
   },
   {
    "titulo": "¿Gorillaz en México? Un error desata rumores sobre su llegada al Palacio de los Deportes",
@@ -179,18 +191,6 @@
    "fuente": "MILENIO",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcTBJeEVielpWM2FRdUlFVGRiQmhuOGJiRXBYYkxmMU9pRHNzbFNSMWNvOVIwR2hyb0dQUDdSenpjS05EVEVJS0ZXbXJ3b0EyVFFjelF0OEwwbDExNnpha19fYTA4RmJrdmxWLTZWVjN5LWVFVVo5RDN5dHdUR0g1R0NsVHJZS3pDM05EemMyTm1JZXNCamdtdmZCT25GUHZKX2Z0bHo3a9IBpwFBVV95cUxPeEZwZ1dSaklxODBhX0xWLWQxQTFrckU2RkNtSHRfbm04TDFGdUV0T1NYcmRtYzJqWWtPZGZBS2VERkk4N2hscFlKRFYxaEloSVdUa2hKZUx6YW9xRVBGV1dOQ05UTE8yakplYUlGNDZWY3BObDdHWmViNXNJZldPS2puZXJndzZpbU5pdTAzMWxnVzZlc1BVVUFwOFlQTUpnbWdtNzRHWQ?oc=5",
    "fecha": "2026-11-05 19:09"
-  },
-  {
-   "titulo": "Ticketmaster 2x1 hoy 05 de noviembre: eventos en México",
-   "fuente": "Jointly News",
-   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wOEoydkJiVTE0Qm9GLVJ4UExCX3A4Z2xUMl9BLVNBbzlqY3hSYVBLOVBfVTJ1R0VGUmZFY3ZFekxvRUh4Mkw1dnFadWtNSTRtLWZUWEZjX1lUUXFYVzJLQnpwcy1XY05fSHA0?oc=5",
-   "fecha": "2026-11-05 17:47"
-  },
-  {
-   "titulo": "Leon Bridges viene al Metropólitan: estas son las fechas para comprar boletos",
-   "fuente": "LifeBoxset",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9ZMXJFdEpLcWNpUDlZaFRHNEluUEZzMWlwVS1zVHRrdU5yN0RtdWRha2NoSWRGME9EWV93dFlxMzNzc3BrUm43dmhjTk1RSmtSaUhRLThEc2J3MnplNHlZaWVUWS0yQnVn?oc=5",
-   "fecha": "2026-11-05 16:34"
   }
  ]
 }

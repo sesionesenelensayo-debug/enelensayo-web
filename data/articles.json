@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Tencent destina $140 M a impulsar el ecosistema chino de TFT",
+    "artista": "Tencent commits $140 million to develop TFT's Chinese ecosystem",
+    "intro": "La compañía china invierte masivamente en IA, hardware y alianzas para consolidar su posición en los esports y el mercado digital.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/tencent-destina-140-m-a-impulsar-el-ecosistema-chino-de-tft-1109.html",
+    "imagen_url": "",
+    "fecha": "2026-11-09T11:22:04.584302",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports"
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "¿Es este el límite del nuevo DCU?",
@@ -5761,18 +5775,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Conciertos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Toluca logra Récord Guinness con el alfeñique más largo del mundo",
-    "artista": "Toluca",
-    "intro": "Toluca de Lerdo, capital del Estado de México, ha conseguido un Récord Guinness por poseer el alfeñique más largo del mundo. La noticia, reportada por El Sol de México, destaca la hazaña de la ciudad ",
-    "telegraph_url": "https://telegra.ph/Toluca-logra-Récord-Guinness-con-el-alfeñique-más-largo-del-mundo-10-31",
-    "url": "https://enelensayomedia.com/notas/toluca-logra-record-guinness-con-el-alfenique-mas-largo-del-mundo-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/toluca-logra-record-guinness-con-el-alfenique-mas-largo-del-mundo-1030.jpg",
-    "fecha": "2026-10-30T18:33:16.228475",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   }
 ]
