@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Resultados y análisis de la Lucha Libre AAA del 7 de noviembre de 2026",
+    "artista": "AAA",
+    "intro": "Se ha difundido información sobre la jornada de Lucha Libre AAA del 7 de noviembre de 2026, destacando la cobertura en vivo del enfrentamiento entre El Fiscal y Abismo Negro Jr.",
+    "telegraph_url": "https://telegra.ph/Resultados-y-análisis-de-la-Lucha-Libre-AAA-del-7-de-noviembre-de-2026-11-09",
+    "url": "https://enelensayomedia.com/notas/resultados-y-analisis-de-la-lucha-libre-aaa-del-7-de-noviembre-de-2026-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/resultados-y-analisis-de-la-lucha-libre-aaa-del-7-de-noviembre-de-2026-1109.jpg",
+    "fecha": "2026-11-09T10:09:44.000667",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Christian Nodal retira su mano de Ángela Aguilar en concierto de Los Aguilar",
     "artista": "Christian Nodal",
     "intro": "Durante un concierto de Los Aguilar, el cantante Christian Nodal se quitó la mano de la joven artista Ángela Aguilar.",
@@ -5758,18 +5772,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Noah Wyle es nombrado el hombre más sexy de 2026",
-    "artista": "Noah Wyle",
-    "intro": "La revista estadounidense People designó al actor Noah Wyle como el hombre más sexy del mundo para el año 2026.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/noah-wyle-es-nombrado-el-hombre-mas-sexy-de-2026-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/noah-wyle-es-nombrado-el-hombre-mas-sexy-de-2026-1030.jpg",
-    "fecha": "2026-10-30T16:17:08.087057",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme internacional"
   }
 ]
