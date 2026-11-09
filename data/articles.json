@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "¡ElZeein la rompe! Es el streamer que más crece en Kick",
+    "artista": "ElZeein",
+    "intro": "¡Una locura total en el streaming! ElZeein se corona como el rey indiscutible del crecimiento en Kick tras sumar nada menos que 5 mil 447 seguidores nuevos.",
+    "telegraph_url": "https://telegra.ph/ElZeein-la-rompe-Es-el-streamer-que-más-crece-en-Kick-11-09",
+    "url": "https://enelensayomedia.com/notas/elzeein-la-rompe-es-el-streamer-que-mas-crece-en-kick-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/elzeein-la-rompe-es-el-streamer-que-mas-crece-en-kick-1109.jpg",
+    "fecha": "2026-11-09T11:04:13.730580",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "¿Star talents en el doblaje de Yo soy Rocky? El debate",
     "artista": "Yo soy Rocky",
     "intro": "Lo que está confirmado es que se han cuestionado los doblajes de 'Wildwood' y 'Yo soy Rocky' debido a la inclusión de figuras de la televisión o redes sociales, conocidos como star talents…",
@@ -11,7 +25,7 @@
     "fecha": "2026-11-09T11:04:09.696643",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Reportaje"
+    "categoria": "Doblaje"
   },
   {
     "opinion": false,
@@ -5760,18 +5774,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Murió Juan Marcelo, la voz histórica del dúo Juan y Juan",
-    "artista": "Juan Marcelo",
-    "intro": "El mundo de la música popular argentina despide a una de sus figuras más emblemáticas. A los 82 años, falleció Juan Marcelo, cantante, compositor y la mitad del recordado dúo Juan y Juan que marcó una",
-    "telegraph_url": "https://telegra.ph/Murió-Juan-Marcelo-la-voz-histórica-del-dúo-Juan-y-Juan-10-30",
-    "url": "https://enelensayomedia.com/notas/murio-juan-marcelo-la-voz-historica-del-duo-juan-y-juan-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/murio-juan-marcelo-la-voz-historica-del-duo-juan-y-juan-1030.jpg",
-    "fecha": "2026-10-30T17:33:35.901696",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
