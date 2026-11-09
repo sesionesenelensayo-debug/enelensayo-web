@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Mark Wahlberg y Mel Gibson: 'Flight Risk' sale de HBO Max",
+    "artista": "Mark Wahlberg",
+    "intro": "El thriller ‘Flight Risk’, protagonizado por Mark Wahlberg y dirigido por Mel Gibson, tiene los días contados en la plataforma de streaming HBO Max.",
+    "telegraph_url": "https://telegra.ph/Mark-Wahlberg-y-Mel-Gibson-Flight-Risk-sale-de-HBO-Max-11-09",
+    "url": "https://enelensayomedia.com/notas/mark-wahlberg-y-mel-gibson-flight-risk-sale-de-hbo-max-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/mark-wahlberg-y-mel-gibson-flight-risk-sale-de-hbo-max-1109.jpg",
+    "fecha": "2026-11-09T13:16:40.230775",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "José Eduardo Derbez y Paola Dalay anuncian separación",
     "artista": "José Eduardo Derbez",
@@ -3645,21 +3659,6 @@
     "actualizada": true
   },
   {
-    "tipo": "reportaje",
-    "titulo": "Sergio Arévalo, estilista de Thalía y María José, detenido por ICE en Texas",
-    "artista": "Sergio Arévalo",
-    "intro": "El maquillista guatemalteco Sergio Arévalo, conocido por trabajar con figuras como Thalía y María José, habría sido detenido por el Servicio de Inmigración y Control de Aduanas (ICE) en Texas.",
-    "telegraph_url": "https://telegra.ph/Sergio-Arévalo-estilista-de-Thalía-y-María-José-detenido-por-ICE-en-Texas-11-01",
-    "url": "https://enelensayomedia.com/notas/sergio-arevalo-estilista-de-thalia-y-maria-jose-detenido-por-ice-en-te-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/sergio-arevalo-estilista-de-thalia-y-maria-jose-detenido-por-ice-en-te-1101.jpg",
-    "fecha": "2026-11-03T15:14:57.036025",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-01T09:00:29.562099",
-    "actualizada": true
-  },
-  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Las 10 grandes decepciones de 2026 en el cine según la crítica",
@@ -4938,19 +4937,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Nuevo póster de ‘Vengadores: Doomsday’ reúne a héroes y Doctor Doom",
-    "artista": "Vengadores: Doomsday",
-    "intro": "Se ha revelado el nuevo póster de la próxima película ‘Vengadores: Doomsday’, donde aparecen los Vengadores, los X‑Men y los Cuatro Fantásticos frente al villano Doctor Doom.",
-    "telegraph_url": "https://telegra.ph/Nuevo-póster-de-Vengadores-Doomsday-reúne-a-héroes-y-Doctor-Doom-11-01",
-    "url": "https://enelensayomedia.com/notas/nuevo-poster-de-vengadores-doomsday-reune-a-heroes-y-doctor-doom-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/nuevo-poster-de-vengadores-doomsday-reune-a-heroes-y-doctor-doom-1101.jpg",
-    "fecha": "2026-11-01T12:04:34.669812",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   },
   {
     "tipo": "reportaje",
