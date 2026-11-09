@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Detienen a Emanuel Noir, cantante de Ke Personajes, por agredir a un policía en Entre Ríos",
+    "artista": "Emanuel Noir",
+    "intro": "El cantante Emanuel Noir, voz principal del grupo Ke Personajes, fue detenido tras golpear a un agente policial en la provincia de Entre Ríos.",
+    "telegraph_url": "https://telegra.ph/Detienen-a-Emanuel-Noir-cantante-de-Ke-Personajes-por-agredir-a-un-policía-en-Entre-Ríos-11-09",
+    "url": "https://enelensayomedia.com/notas/detienen-a-emanuel-noir-cantante-de-ke-personajes-por-agredir-a-un-pol-1108.html",
+    "imagen_url": "/Users/leonardomendoza/enelensayo-web/img/prensa/cara_efc2a65d9571.jpg",
+    "fecha": "2026-11-08T22:20:21.041596",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Pablo Lyle saldría libre en diciembre de 2026",
     "artista": "Pablo Lyle",
     "intro": "El actor mexicano Pablo Lyle cumpliría su sentencia de cinco años por homicidio involuntario el 29 de diciembre de 2026, según se reporta.",
@@ -3985,21 +3999,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Mía Rubín responde a rumores de ruptura con Tarik Othón",
-    "artista": "Mía Rubín",
-    "intro": "La cantante Mía Rubín ha reaccionado a los rumores de ruptura con Tarik Othón. Según reportes de medios como HOLA y Panorama Web, la artista emitió un comentario sobre la situación, describiéndola com",
-    "telegraph_url": "https://telegra.ph/Mía-Rubín-responde-a-rumores-de-ruptura-con-Tarik-Othón-10-31",
-    "url": "https://enelensayomedia.com/notas/mia-rubin-responde-a-rumores-de-ruptura-con-tarik-othon-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/mia-rubin-responde-a-rumores-de-ruptura-con-tarik-othon-1030.jpg",
-    "fecha": "2026-11-02T11:43:39.368767",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-10-30T19:13:24.987437",
-    "actualizada": true
   },
   {
     "opinion": false,
