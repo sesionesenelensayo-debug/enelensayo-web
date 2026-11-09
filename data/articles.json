@@ -1,5 +1,19 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "Mito vs realidad: ¿Cristiano es mejor que Messi?",
+    "artista": "¿Cristiano es mejor que Messi?",
+    "intro": "El mito: Cristiano es mejor que Messi. La realidad: los títulos dicen otra cosa. Esta nota reúne los datos con sus fuentes.",
+    "telegraph_url": "https://telegra.ph/Mito-vs-realidad-Cristiano-es-mejor-que-Messi-11-09",
+    "url": "https://enelensayomedia.com/notas/mito-vs-realidad-cristiano-es-mejor-que-messi-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/mito-vs-realidad-cristiano-es-mejor-que-messi-1109.jpg",
+    "fecha": "2026-11-09T11:13:27.343304",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Dani Flow abandona 'La Mansión VIP 2'",
@@ -5760,18 +5774,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Demon Slayer: The Hinokami Chronicles supera 6 millones de ventas",
-    "artista": "Demon Slayer",
-    "intro": "El videojuego Demon Slayer: The Hinokami Chronicles ha alcanzado una nueva marca comercial al superar los 6 millones de unidades vendidas. Este acontecimiento coincide con su estreno, según la informa",
-    "telegraph_url": "https://telegra.ph/Demon-Slayer-The-Hinokami-Chronicles-supera-6-millones-de-ventas-10-30",
-    "url": "https://enelensayomedia.com/notas/demon-slayer-the-hinokami-chronicles-supera-6-millones-de-ventas-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/demon-slayer-the-hinokami-chronicles-supera-6-millones-de-ventas-1030.jpg",
-    "fecha": "2026-10-30T17:45:34.335315",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos"
   }
 ]
