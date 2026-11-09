@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "¿Llamará Ibai a Hakimi para la Velada del Año?",
+    "artista": "Ibai Llanos",
+    "intro": "¡Una locura total en el mundo del streaming! Tras viralizarse un video donde se muestra la habilidad de Hakimi en el boxeo previo a su fichaje por el PSG…",
+    "telegraph_url": "https://telegra.ph/Llamará-Ibai-a-Hakimi-para-la-Velada-del-Año-11-09",
+    "url": "https://enelensayomedia.com/notas/llamara-ibai-a-hakimi-para-la-velada-del-ano-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/llamara-ibai-a-hakimi-para-la-velada-del-ano-1109.jpg",
+    "fecha": "2026-11-09T10:33:47.114523",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Bethesda anuncia The Elder Scrolls VI: Sentinel",
     "artista": "Bethesda",
     "intro": "El 3 de noviembre de 2026, en el marco del 40 aniversario de Bethesda Game Studios, la compañía reveló oficialmente que la sexta entrega de su saga insignia se llamará The Elder Scrolls VI: Sentinel.",
@@ -5758,19 +5772,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades que no sabías de Pepe Domingo Castaño",
-    "artista": "Pepe Domingo Castaño",
-    "intro": "La figura de Pepe Domingo Castaño vuelve a la conversación pública a través del contenido titulado 5 curiosidades que no sabías de Pepe Domingo Castaño. El reconocido presentador, cantante y escritor ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-pepe-domingo-castano-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-que-no-sabias-de-pepe-domingo-castano-1030.jpg",
-    "fecha": "2026-10-30T16:47:12.922221",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Datos curiosos"
   }
 ]
