@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Centralia: del auge minero al pueblo fantasma bajo fuego eterno",
+    "artista": "el pueblo fantasma de Centralia",
+    "intro": "Una crónica que recorre la historia de Centralia, desde su fundación hasta la desaparición de sus últimos residentes, entre fuego subterráneo y leyendas.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/centralia-del-auge-minero-al-pueblo-fantasma-bajo-fuego-eterno-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/centralia-del-auge-minero-al-pueblo-fantasma-bajo-fuego-eterno-1109.jpg",
+    "fecha": "2026-11-09T08:41:05.238645",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Historias de terror"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "El Charro Negro lidera la taquilla mexicana con 52.6 millones",
     "artista": "El Charro Negro",
@@ -5756,19 +5770,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme internacional"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades que no sabías de Carmencita Lara",
-    "artista": "Carmencita Lara",
-    "intro": "Se recuerdan cinco curiosidades de la emblemática cantante peruana Carmencita Lara. A través de un repaso por su trayectoria y su legado dentro del estilo tradicional criollo, la figura de la artista ",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-carmencita-lara-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-que-no-sabias-de-carmencita-lara-1030.jpg",
-    "fecha": "2026-10-30T15:40:00.064067",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Datos curiosos"
   }
 ]

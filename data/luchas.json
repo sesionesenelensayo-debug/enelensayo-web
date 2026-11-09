@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-09 02:28",
+ "actualizado": "2026-11-09 08:39",
  "campeones": {
   "WWE": [
    {
@@ -377,7 +377,7 @@
  },
  "eventos": [
   {
-   "nombre": "Lunes Clásico #LunesClásicoCMLL",
+   "nombre": "LUNES CLÁSICO #LunesClásicoCMLL",
    "promocion": "CMLL",
    "fecha": "2026-11-09",
    "lugar": "ARENA PUEBLA",
@@ -390,7 +390,7 @@
    "credito_url": "https://cmll.com/cartelera/"
   },
   {
-   "nombre": "Martes de Glamour #MartesDeGlamourCMLL",
+   "nombre": "MARTES DE GLAMOUR #MartesDeGlamourCMLL",
    "promocion": "CMLL",
    "fecha": "2026-11-10",
    "lugar": "ARENA COLISEO DE OCCIDENTE",
@@ -403,31 +403,17 @@
    "credito_url": "https://cmll.com/cartelera/"
   },
   {
-   "nombre": "Martes de Arena México #MartesDeArenaMéxico",
+   "nombre": "MARTES DE ARENA MÉXICO #MartesDeArenaMéxico",
    "promocion": "CMLL",
    "fecha": "2026-11-10",
    "lugar": "ARENA MÉXICO",
-   "ciudad": "Ciudad de México",
+   "ciudad": "México",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://cmll.com/cartelera/",
    "img": "img/luchas/o-cmll-martes-de-arena-mexico-martesdearenamexico.jpg",
    "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
    "credito_url": "https://cmll.com/cartelera/"
-  },
-  {
-   "nombre": "Función espectacular viernes",
-   "promocion": "CMLL",
-   "fecha": "2026-11-13",
-   "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
-   "precio": "desde $112",
-   "campeonatos": [],
-   "fuente": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/",
-   "precio_fuente": "https://www.dondeir.com/ciudad/viernes-espectacular-del-cmll-cartelera-horario-y-boletos-2/2026/09/",
-   "img": "img/luchas/o-cmll-funcion-espectacular-viernes.jpg",
-   "credito": "Imagen: CMLL · luchamexicoexperience.com (sitio oficial)",
-   "credito_url": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/"
   },
   {
    "nombre": "Los Claxons",
@@ -444,24 +430,24 @@
    "credito_url": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026"
   },
   {
-   "nombre": "Función familiar domingo",
-   "promocion": "CMLL",
-   "fecha": "2026-11-15",
-   "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/",
-   "img": "img/luchas/o-cmll-funcion-familiar-domingo.jpg",
-   "credito": "Imagen: CMLL · luchamexicoexperience.com (sitio oficial)",
-   "credito_url": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/"
-  },
-  {
-   "nombre": "Función Especial Lucha KINGDOM",
+   "nombre": "FUNCIÓN ESPECIAL LUCHA KINGDOM",
    "promocion": "CMLL",
    "fecha": "2026-11-16",
    "lugar": "ARENA MÉXICO",
    "ciudad": "México",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://cmll.com/cartelera/",
+   "img": "img/luchas/o-cmll-funcion-especial-lucha-kingdom.jpg",
+   "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
+   "credito_url": "https://cmll.com/cartelera/"
+  },
+  {
+   "nombre": "Función Especial Lucha Kingdom",
+   "promocion": "CMLL",
+   "fecha": "2026-11-16",
+   "lugar": "",
+   "ciudad": "",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://cmll.com/cartelera/",
@@ -495,19 +481,6 @@
    "img": "img/luchas/o-otras-ricardo-montaner.jpg",
    "credito": "Imagen: Otras · conciertosenmonterrey.com (sitio oficial)",
    "credito_url": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026"
-  },
-  {
-   "nombre": "Survivor Series: WarGames 2026",
-   "promocion": "WWE",
-   "fecha": "2026-11-28",
-   "lugar": "Daikin Park",
-   "ciudad": "Houston, TX",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://wrestleseek.com/upcoming-ples/",
-   "img": "img/luchas/o-wwe-survivor-series-wargames-2026.jpg",
-   "credito": "Imagen: WWE · wrestleseek.com (sitio oficial)",
-   "credito_url": "https://wrestleseek.com/upcoming-ples/"
   },
   {
    "nombre": "Últimas noches de 2026",
@@ -549,24 +522,15 @@
    "credito_url": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026"
   },
   {
-   "nombre": "Wrestlepalooza: Perth",
-   "promocion": "WWE",
-   "fecha": "2026-12-12",
-   "lugar": "RAC Arena",
-   "ciudad": "Perth, Australia",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://wrestleseek.com/upcoming-ples/"
-  },
-  {
    "nombre": "Hot Wheels Monster Trucks Live",
    "promocion": "Otras",
    "fecha": "2027-07-03",
    "lugar": "Arena Monterrey",
    "ciudad": "Monterrey",
-   "precio": "",
+   "precio": "desde $516",
    "campeonatos": [],
    "fuente": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026",
+   "precio_fuente": "https://conciertosenmonterrey.com/cartelera/hot-wheels-monster-trucks-arena-monterrey-2027",
    "img": "img/luchas/o-otras-hot-wheels-monster-trucks-live.jpg",
    "credito": "Imagen: Otras · conciertosenmonterrey.com (sitio oficial)",
    "credito_url": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026"
