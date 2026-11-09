@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "noticia",
+    "titulo": "Mark Wahlberg y Mel Gibson: 'Flight Risk' sale de HBO Max",
+    "artista": "Mark Wahlberg",
+    "intro": "El thriller ‘Flight Risk’, protagonizado por Mark Wahlberg y dirigido por Mel Gibson, tiene los días contados en la plataforma de streaming HBO Max.",
+    "telegraph_url": "https://telegra.ph/Mark-Wahlberg-y-Mel-Gibson-Flight-Risk-sale-de-HBO-Max-11-09",
+    "url": "https://enelensayomedia.com/notas/mark-wahlberg-y-mel-gibson-flight-risk-sale-de-hbo-max-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/mark-wahlberg-y-mel-gibson-flight-risk-sale-de-hbo-max-1109.jpg",
+    "fecha": "2026-11-09T14:22:10.338112",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-11-09T13:16:40.230775",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "noticia",
     "titulo": "Warhammer 40,000: Dark Heresy llegará en enero de 2027",
     "artista": "Warhammer 40,000: Dark Heresy",
     "intro": "Warhammer 40,000: Dark Heresy ya tiene fecha de lanzamiento confirmada. El título desarrollado por Owlcat Games llegará a PC, PlayStation 5 y Xbox Series X|S el próximo 28 de enero de 2027.",
@@ -117,20 +133,6 @@
     "url": "https://enelensayomedia.com/notas/jaime-lorente-debuta-como-director-con-el-mal-hijo-1109.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/jaime-lorente-debuta-como-director-con-el-mal-hijo-1109.jpg",
     "fecha": "2026-11-09T13:40:05.389305",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Mark Wahlberg y Mel Gibson: 'Flight Risk' sale de HBO Max",
-    "artista": "Mark Wahlberg",
-    "intro": "El thriller ‘Flight Risk’, protagonizado por Mark Wahlberg y dirigido por Mel Gibson, tiene los días contados en la plataforma de streaming HBO Max.",
-    "telegraph_url": "https://telegra.ph/Mark-Wahlberg-y-Mel-Gibson-Flight-Risk-sale-de-HBO-Max-11-09",
-    "url": "https://enelensayomedia.com/notas/mark-wahlberg-y-mel-gibson-flight-risk-sale-de-hbo-max-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/mark-wahlberg-y-mel-gibson-flight-risk-sale-de-hbo-max-1109.jpg",
-    "fecha": "2026-11-09T13:16:40.230775",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
