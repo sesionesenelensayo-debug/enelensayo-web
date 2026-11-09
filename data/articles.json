@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Gloria Trevi anuncia concierto en Auditorio Nacional el 24 de octubre de 2026",
+    "artista": "Gloria Trevi",
+    "intro": "La cantante, catalogada como \"Reina del Pop Mexicano\", iniciará su \"Celebration Tour\" en la capital con dos funciones en octubre y noviembre.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/gloria-trevi-anuncia-concierto-en-auditorio-nacional-el-24-de-octubre-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/gloria-trevi-anuncia-concierto-en-auditorio-nacional-el-24-de-octubre-1031.jpg",
+    "fecha": "2026-11-09T09:04:44.526827",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-10-31T12:03:13.773165",
+    "actualizada": true
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Bad Bunny genera debate en redes tras rumor de nacionalidad mexicana",
     "artista": "Bad Bunny",
@@ -10,7 +25,7 @@
     "fecha": "2026-11-09T08:59:28.858027",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Cultura",
+    "categoria": "Música",
     "fecha_original": "2026-10-31T09:42:30.829512",
     "actualizada": true
   },
@@ -734,21 +749,6 @@
     "views": 0,
     "categoria": "Música",
     "fecha_original": "2026-11-03T13:34:06.725879",
-    "actualizada": true
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Gloria Trevi anuncia concierto en Auditorio Nacional el 24 de octubre de 2026",
-    "artista": "Gloria Trevi",
-    "intro": "La cantante, catalogada como \"Reina del Pop Mexicano\", iniciará su \"Celebration Tour\" en la capital con dos funciones en octubre y noviembre.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/gloria-trevi-anuncia-concierto-en-auditorio-nacional-el-24-de-octubre-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/gloria-trevi-anuncia-concierto-en-auditorio-nacional-el-24-de-octubre-1031.jpg",
-    "fecha": "2026-11-08T08:41:05.679062",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-10-31T12:03:13.773165",
     "actualizada": true
   },
   {
