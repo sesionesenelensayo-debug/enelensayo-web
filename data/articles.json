@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "El impulso y la independencia de Pepe Aguilar hacia la leyenda",
+    "artista": "Pepe Aguilar",
+    "intro": "En el video del canal En el Ensayo Media se examina la trayectoria de Pepe Aguilar, hijo de Antonio Aguilar y Flor Silvestre…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-impulso-y-la-independencia-de-pepe-aguilar-hacia-la-leyenda-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-impulso-y-la-independencia-de-pepe-aguilar-hacia-la-leyenda-1109.jpg",
+    "fecha": "2026-11-09T12:06:19.141731",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Maluma anuncia siete conciertos en México",
     "artista": "Maluma",
     "intro": "Maluma confirma su regreso a los escenarios mexicanos con el anuncio de siete conciertos en el país como parte de su gira «Loco por Volver World Tour 2027».",
@@ -4369,34 +4384,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El origen del primer videoclip moderno",
-    "artista": "El secreto detrás del primer videoclip de la historia",
-    "intro": "Se aborda la vida del rey del rock and roll, sus ventas millonarias y la innovadora secuencia que revolucionó la cultura global.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-origen-del-primer-videoclip-moderno-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-origen-del-primer-videoclip-moderno-1102.jpg",
-    "fecha": "2026-11-02T06:14:31.180100",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El álbum homónimo de Metallica casi destruye a la banda,",
-    "artista": "Metallica",
-    "intro": "El video del canal En el Ensayo Media relata que el quinto álbum de Metallica, lanzado en 1991, alcanzó gran éxito comercial…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-album-homonimo-de-metallica-casi-destruye-a-la-banda-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-album-homonimo-de-metallica-casi-destruye-a-la-banda-1102.jpg",
-    "fecha": "2026-11-02T05:49:36.254076",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "tipo": "reportaje",
