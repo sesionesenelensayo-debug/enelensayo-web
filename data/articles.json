@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Warhammer 40,000: Dark Heresy llegará en enero de 2027",
+    "artista": "Warhammer 40,000: Dark Heresy",
+    "intro": "Warhammer 40,000: Dark Heresy ya tiene fecha de lanzamiento confirmada. El título desarrollado por Owlcat Games llegará a PC, PlayStation 5 y Xbox Series X|S el próximo 28 de enero de 2027.",
+    "telegraph_url": "https://telegra.ph/Warhammer-40000-Dark-Heresy-llegará-en-enero-de-2027-11-09",
+    "url": "https://enelensayomedia.com/notas/warhammer-40-000-dark-heresy-llegara-en-enero-de-2027-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/warhammer-40-000-dark-heresy-llegara-en-enero-de-2027-1109.jpg",
+    "fecha": "2026-11-09T14:21:54.921073",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "Fin de la era James Gunn: DC Studios cambia de manos",
@@ -5771,19 +5785,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades que no sabías de Celia cruz",
-    "artista": "5 curiosidades que no sabías de Celia cruz",
-    "intro": "En el video del canal En el Ensayo Media titulado «5 curiosidades que no sabías de Celia cruz»…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-celia-cruz-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-que-no-sabias-de-celia-cruz-1030.jpg",
-    "fecha": "2026-10-30T19:50:56.217887",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Datos curiosos"
   }
 ]
