@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Faker critica la preparación de Bilibili Gaming tras eliminación en Worlds 2026",
+    "artista": "Faker",
+    "intro": "El legendario mid laner Faker admitió que Bilibili Gaming estuvo mejor preparado tras la eliminación de su equipo en el Campeonato Mundial de 2026.",
+    "telegraph_url": "https://telegra.ph/Faker-critica-la-preparación-de-Bilibili-Gaming-tras-eliminación-en-Worlds-2026-11-09",
+    "url": "https://enelensayomedia.com/notas/faker-critica-la-preparacion-de-bilibili-gaming-tras-eliminacion-en-wo-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/faker-critica-la-preparacion-de-bilibili-gaming-tras-eliminacion-en-wo-1109.jpg",
+    "fecha": "2026-11-09T07:26:33.842949",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Fallece el artista plástico Arnaldo Coen a los 86 años",
     "artista": "Arnaldo Coen",
     "intro": "El 8 de noviembre de 2026 se reportó el fallecimiento del artista plástico mexicano Arnaldo Coen a los 86 años.",
@@ -5756,18 +5770,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "NSQK anuncia concierto en la Arena Monterrey para presentar 'MOSCA'",
-    "artista": "NSQK",
-    "intro": "El artista regiomontano NSQK se presentará en la Arena Monterrey como parte de su gira mundial para presentar el álbum 'MOSCA'.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/nsqk-anuncia-concierto-en-la-arena-monterrey-para-presentar-mosca-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/nsqk-anuncia-concierto-en-la-arena-monterrey-para-presentar-mosca-1030.jpg",
-    "fecha": "2026-10-30T14:55:01.437923",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
   }
 ]
