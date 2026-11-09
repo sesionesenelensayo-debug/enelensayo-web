@@ -1,6 +1,22 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Kygo en México 2027: fechas, sedes y boletos",
+    "artista": "Kygo",
+    "intro": "El productor noruego Kygo regresará a México en 2027 con dos conciertos que incluirán música electrónica y un cartel con invitados especiales.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/kygo-en-mexico-2027-fechas-sedes-y-boletos-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/kygo-en-mexico-2027-fechas-sedes-y-boletos-1103.jpg",
+    "fecha": "2026-11-09T14:32:01.805535",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-11-03T13:34:06.725879",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
     "artista": "Alejandra Guzmán y Frida Sofía",
@@ -346,22 +362,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Música"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Kygo en México 2027: fechas, sedes y boletos",
-    "artista": "Kygo",
-    "intro": "El productor noruego Kygo regresará a México en 2027 con dos conciertos que incluirán música electrónica y un cartel con invitados especiales.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/kygo-en-mexico-2027-fechas-sedes-y-boletos-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/kygo-en-mexico-2027-fechas-sedes-y-boletos-1103.jpg",
-    "fecha": "2026-11-09T11:54:13.127150",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-03T13:34:06.725879",
-    "actualizada": true
   },
   {
     "opinion": false,
