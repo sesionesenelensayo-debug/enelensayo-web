@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Calendario y episodios de la temporada 3 de The Rings of Power",
+    "artista": "The Rings of Power",
+    "intro": "Prime Video prepara el terreno para la tercera temporada de The Rings of Power, la superproducción de fantasía con la que busca desafiar el dominio de HBO en la televisión.",
+    "telegraph_url": "https://telegra.ph/Calendario-y-episodios-de-la-temporada-3-de-The-Rings-of-Power-11-09",
+    "url": "https://enelensayomedia.com/notas/calendario-y-episodios-de-la-temporada-3-de-the-rings-of-power-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/calendario-y-episodios-de-la-temporada-3-de-the-rings-of-power-1109.jpg",
+    "fecha": "2026-11-09T11:16:56.900150",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "Mito vs realidad: ¿Cristiano es mejor que Messi?",
@@ -5756,20 +5770,6 @@
     "url": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-tito-jackson-1030.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-que-no-sabias-de-tito-jackson-1030.jpg",
     "fecha": "2026-10-30T18:14:53.723254",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades que no sabías de Richard Wright",
-    "artista": "Richard Wright",
-    "intro": "A través de las sesiones en vivo de En El Ensayo en Azcapotzalco, CDMX, recordamos la figura fundamental del tecladista, cantante y compositor Richard Wright, conocido por ser miembro fundador de Pink",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-richard-wright-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-que-no-sabias-de-richard-wright-1030.jpg",
-    "fecha": "2026-10-30T18:01:30.550465",
     "author": "Oliver Ken",
     "views": 0,
     "archivo": true,
