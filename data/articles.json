@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "Frostpunk llega a Nintendo Switch el 19 de octubre con demo disponible",
+    "artista": "Frostpunk",
+    "intro": "Según Players4Players.com, el juego de supervivencia y construcción de ciudades Frostpunk estará disponible en la Nintendo Switch a partir del 19 de octubre, y ya se puede descargar una demo en la eSh",
+    "telegraph_url": "https://telegra.ph/Frostpunk-llega-a-Nintendo-Switch-el-19-de-octubre-con-demo-disponible-10-31",
+    "url": "https://enelensayomedia.com/notas/frostpunk-llega-a-nintendo-switch-el-19-de-octubre-con-demo-disponible-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/frostpunk-llega-a-nintendo-switch-el-19-de-octubre-con-demo-disponible-1031.jpg",
+    "fecha": "2026-11-09T13:15:06.807276",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos",
+    "fecha_original": "2026-10-31T15:39:06.830295",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Hijo de Rey Misterio noquea a fan en Tijuana",
@@ -11,7 +26,7 @@
     "fecha": "2026-11-09T13:11:03.812110",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Reportaje"
+    "categoria": "Luchas"
   },
   {
     "opinion": false,
@@ -1079,21 +1094,6 @@
     "views": 0,
     "categoria": "Cultura",
     "fecha_original": "2026-11-01T11:59:58.127573",
-    "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Frostpunk llega a Nintendo Switch el 19 de octubre con demo disponible",
-    "artista": "Frostpunk",
-    "intro": "Según Players4Players.com, el juego de supervivencia y construcción de ciudades Frostpunk estará disponible en la Nintendo Switch a partir del 19 de octubre, y ya se puede descargar una demo en la eSh",
-    "telegraph_url": "https://telegra.ph/Frostpunk-llega-a-Nintendo-Switch-el-19-de-octubre-con-demo-disponible-10-31",
-    "url": "https://enelensayomedia.com/notas/frostpunk-llega-a-nintendo-switch-el-19-de-octubre-con-demo-disponible-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/frostpunk-llega-a-nintendo-switch-el-19-de-octubre-con-demo-disponible-1031.jpg",
-    "fecha": "2026-11-08T07:52:08.565829",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-10-31T15:39:06.830295",
     "actualizada": true
   },
   {
