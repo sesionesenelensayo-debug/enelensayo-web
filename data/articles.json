@@ -1,5 +1,36 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Rockstar anuncia el festival musical GTA VI en Miami",
+    "artista": "Rockstar",
+    "intro": "Rockstar ha anunciado la realización de GTA VI The Festival, un evento musical propio concebido para celebrar el lanzamiento del esperado videojuego.",
+    "telegraph_url": "https://telegra.ph/Rockstar-anuncia-el-festival-musical-GTA-VI-en-Miami-11-09",
+    "url": "https://enelensayomedia.com/notas/rockstar-anuncia-el-festival-musical-gta-vi-en-miami-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/rockstar-anuncia-el-festival-musical-gta-vi-en-miami-1109.jpg",
+    "fecha": "2026-11-09T15:48:30.537632",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos",
+    "fecha_original": "2026-11-09T12:12:15.368641",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Kimberly Irene enfrenta luto y complicaciones financieras",
+    "artista": "Kimberly Irene",
+    "intro": "En este video del canal En el Ensayo Media se aborda la situación actual de la influencer Kimberly Irene, conocida como la más preciosa.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/kimberly-irene-enfrenta-luto-y-complicaciones-financieras-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/kimberly-irene-enfrenta-luto-y-complicaciones-financieras-1109.jpg",
+    "fecha": "2026-11-09T15:38:27.050837",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Chisme"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Las 10 mayores pérdidas de taquilla entre 2025 y 2026",
     "artista": "las 10 películas que más dinero perdieron (mayores fracasos de taquilla recientes)",
@@ -12,22 +43,6 @@
     "views": 0,
     "categoria": "Cine",
     "fecha_original": "2026-10-31T15:14:16.845601",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Rockstar anuncia el festival musical GTA VI en Miami",
-    "artista": "Rockstar",
-    "intro": "Rockstar ha anunciado la realización de GTA VI The Festival, un evento musical propio concebido para celebrar el lanzamiento del esperado videojuego.",
-    "telegraph_url": "https://telegra.ph/Rockstar-anuncia-el-festival-musical-GTA-VI-en-Miami-11-09",
-    "url": "https://enelensayomedia.com/notas/rockstar-anuncia-el-festival-musical-gta-vi-en-miami-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/rockstar-anuncia-el-festival-musical-gta-vi-en-miami-1109.jpg",
-    "fecha": "2026-11-09T14:43:31.255978",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-11-09T12:12:15.368641",
     "actualizada": true
   },
   {
@@ -3677,22 +3692,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Pablo Montero en la mira",
-    "artista": "Pablo Montero",
-    "intro": "Se reporta que el cantante y actor Pablo Montero enfrenta diversas polémicas en medio de su trayectoria artística y su participación en proyectos televisivos.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/pablo-montero-en-la-mira-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/pablo-montero-en-la-mira-1103.jpg",
-    "fecha": "2026-11-03T16:46:42.629288",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-03T14:15:09.100846",
-    "actualizada": true
   },
   {
     "opinion": true,

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-09 13:26",
+ "actualizado": "2026-11-09 15:35",
  "eventos": [],
  "api": false,
  "ticketmaster": {
@@ -127,16 +127,16 @@
    "fecha": "2026-11-07 09:52"
   },
   {
+   "titulo": "Maluma regresa a México: Anuncia 7 fechas de su ‘Loco por Volver World Tour 2027′",
+   "fuente": "Panorama Web",
+   "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNHV0eXV3ZUZOMXBYR01ZdEtwOXlsRU8tWFV4UDlmVGlaS1gtUk10VVZzVUphaHNKOWZ1MGxPZUNlZXVlaEFKYUN3MjZzVzd6RHVPaFJhMDVhVUZMRll2YmV6Ync3ZUpmLTJQRTVnNUU0RnM2cll5OVpSTEhkX3c4NTk3MkNqa1hMQzR0ZklIVlNmR04wc2ZNTGx4YUlJR2NyVWZFa0JnaVJpM3luR25pa1BzUXB1WmZrY3djeGlXRk9TV1g4bWx1dXRyWU85NEptMDM4azNScks?oc=5",
+   "fecha": "2026-11-06 23:03"
+  },
+  {
    "titulo": "Boletos del Vive Latino 2027: precios, preventa y venta general",
    "fuente": "SDPnoticias.com",
    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUFdYUDB4NUpRbWdMYklKZUdyZXVvSERKT1FlcWNyRnVOQlcwWkN2a0xGSC1DdjFMN0w4YnBKcmlmNm55bkw4YmlRTUc0MS1uaVZtcnRaZExDLWpzSUtpaVY5MTJkbzZPWi0xa2xUY3VvbS0wLXdwa1p0LVpHNGZFQkJSaGdFOFZhZDF2NXRYdU9ab1k1RjFSaVl5NGtDbkk3TXpqM04yUEEwUjBLMVhr?oc=5",
    "fecha": "2026-11-06 21:29"
-  },
-  {
-   "titulo": "Maluma anuncia gira Loco X Volver en México: estas son las siete ciudades",
-   "fuente": "sdpnoticias",
-   "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPQkY0ZUhfYm96RVNBVjFMaDFKSERWTnd1OXJlNE5wenN3cmJGNnBCQjVKLUlQTE9MSG5qWjREb1luYWhCX0hYSGc2Z25zWjhKRmtHM0t1bnZJcHF1OVdtcG1pYm10WGhPLU5DWmRjUU9ERExQNERYbmdiQkZXRzk0TXMyLUlreXk3MWh6TkVkVlBDTkRhdGsydzdUcDNnYlB4bks5OWdtTGttVGRLVXdIeFQtUEtWWDdfMk10Q1VR?oc=5",
-   "fecha": "2026-11-06 16:59"
   },
   {
    "titulo": "Feid en CDMX 2027: fecha, precio de boletos y link de preventa para su concierto en el Palacio de los Deportes",
@@ -149,12 +149,6 @@
    "fuente": "Popticular",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sUnBxR1B3NndVRGtQMHZwQmNDTmYtMVBiUVdZYVc4Z3p0VUlfRVhwdXVQLWgzblVBY0FJRXRTN2F3Y25QMTRQVEY4TUpqb3dpTENBQzJlQU1mVUJwQVJGa0tjdjB6UjF0MlV2a1dqYXYtc19GT2xRZHBLc1dEUHc?oc=5",
    "fecha": "2026-11-06 15:24"
-  },
-  {
-   "titulo": "Maluma en México 2027: Fechas, sedes y precio de boletos",
-   "fuente": "EXA FM",
-   "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOcFhoX3puZ2dWMkwwWDQ2WXE4eHdndjRtUzhkQm1Cby1fZC1YRTB6MWMyclVjNE9NRFZDNGp2OG9ra2lwdVl2eWhXQzlQNDRZZXpFV2lVNlRPUXVodjhxSEl4dUJaRmtsdlVWT1dtWFJjck9DUzIwb053UlhSRjVFWDRweVo2YWNkWVlIZnNkY0I3cUZ1cTd0T2hGM2tLaVE?oc=5",
-   "fecha": "2026-11-06 15:13"
   },
   {
    "titulo": "Ozzfest 2027 llega por primera vez a México: fecha, boletos, preventa y cartel del festival",
@@ -191,6 +185,12 @@
    "fuente": "MILENIO",
    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcTBJeEVielpWM2FRdUlFVGRiQmhuOGJiRXBYYkxmMU9pRHNzbFNSMWNvOVIwR2hyb0dQUDdSenpjS05EVEVJS0ZXbXJ3b0EyVFFjelF0OEwwbDExNnpha19fYTA4RmJrdmxWLTZWVjN5LWVFVVo5RDN5dHdUR0g1R0NsVHJZS3pDM05EemMyTm1JZXNCamdtdmZCT25GUHZKX2Z0bHo3a9IBpwFBVV95cUxPeEZwZ1dSaklxODBhX0xWLWQxQTFrckU2RkNtSHRfbm04TDFGdUV0T1NYcmRtYzJqWWtPZGZBS2VERkk4N2hscFlKRFYxaEloSVdUa2hKZUx6YW9xRVBGV1dOQ05UTE8yakplYUlGNDZWY3BObDdHWmViNXNJZldPS2puZXJndzZpbU5pdTAzMWxnVzZlc1BVVUFwOFlQTUpnbWdtNzRHWQ?oc=5",
    "fecha": "2026-11-05 19:09"
+  },
+  {
+   "titulo": "Ticketmaster 2x1 hoy 05 de noviembre: eventos en México",
+   "fuente": "Jointly News",
+   "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1wOEoydkJiVTE0Qm9GLVJ4UExCX3A4Z2xUMl9BLVNBbzlqY3hSYVBLOVBfVTJ1R0VGUmZFY3ZFekxvRUh4Mkw1dnFadWtNSTRtLWZUWEZjX1lUUXFYVzJLQnpwcy1XY05fSHA0?oc=5",
+   "fecha": "2026-11-05 17:47"
   }
  ]
 }
