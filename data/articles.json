@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "¿Tomás Galván como la voz latina en 'Yo soy Rocky'?",
+    "artista": "Tomás Galván",
+    "intro": "El debate sobre la participación de figuras externas en el doblaje latinoamericano suma un nuevo capítulo con la incursión de Tomás Galván en la película 'Yo soy Rocky'.",
+    "telegraph_url": "https://telegra.ph/Tomás-Galván-como-la-voz-latina-en-Yo-soy-Rocky-11-09",
+    "url": "https://enelensayomedia.com/notas/tomas-galvan-como-la-voz-latina-en-yo-soy-rocky-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/tomas-galvan-como-la-voz-latina-en-yo-soy-rocky-1109.jpg",
+    "fecha": "2026-11-09T13:05:23.672728",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Susana Zabaleta protagoniza supuesta escena de celos por Kenia Os",
     "artista": "Susana Zabaleta",
     "intro": "La reconocida cantante y actriz mexicana Susana Zabaleta se encuentra en el centro de la controversia tras reportarse que habría protagonizado una supuesta escena de celos dirigida a Ricardo Pérez…",
@@ -5765,18 +5779,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Bronco anuncia Inquebrantable Tour 2027 con fechas en España y Paraguay",
-    "artista": "Bronco",
-    "intro": "La banda mexicana confirmó su gira internacional para 2027, que incluirá presentaciones en Europa, América Latina y México.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/bronco-anuncia-inquebrantable-tour-2027-con-fechas-en-espana-y-paragua-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/bronco-anuncia-inquebrantable-tour-2027-con-fechas-en-espana-y-paragua-1030.jpg",
-    "fecha": "2026-10-30T18:42:46.287830",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
   }
 ]
