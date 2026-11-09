@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Buena Vista Social Club llega a México",
+    "artista": "Buena Vista Social Club",
+    "intro": "El proyecto musical cubano Buena Vista Social Club llega a México para presentarse en el Teatro de los Insurgentes. Se reporta que esta serie de presentaciones funciona como una carta de amor a Cuba.",
+    "telegraph_url": "https://telegra.ph/Buena-Vista-Social-Club-llega-a-México-11-09",
+    "url": "https://enelensayomedia.com/notas/buena-vista-social-club-llega-a-mexico-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/buena-vista-social-club-llega-a-mexico-1109.jpg",
+    "fecha": "2026-11-09T16:41:15.155656",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Rockstar anuncia el festival musical GTA VI en Miami",
     "artista": "Rockstar",
     "intro": "Rockstar ha anunciado la realización de GTA VI The Festival, un evento musical propio concebido para celebrar el lanzamiento del esperado videojuego.",
@@ -5776,19 +5790,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Agenda woke"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "JOAQUÍN CARBONELL: Murió el día de su cumpleaños",
-    "artista": "JOAQUÍN CARBONELL",
-    "intro": "El cantautor, narrador, poeta y periodista español Joaquín Carbonell falleció el 12 de septiembre de 2020, el mismo día de su cumpleaños. Su muerte ocurrió en un hospital de Zaragoza, mientras luchaba",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/joaquin-carbonell-murio-el-dia-de-su-cumpleanos-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/joaquin-carbonell-murio-el-dia-de-su-cumpleanos-1030.jpg",
-    "fecha": "2026-10-30T20:03:27.208330",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "In memoriam"
   }
 ]
