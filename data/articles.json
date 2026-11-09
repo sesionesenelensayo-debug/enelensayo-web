@@ -1,6 +1,22 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Rockstar anuncia el festival musical GTA VI en Miami",
+    "artista": "Rockstar",
+    "intro": "Rockstar ha anunciado la realización de GTA VI The Festival, un evento musical propio concebido para celebrar el lanzamiento del esperado videojuego.",
+    "telegraph_url": "https://telegra.ph/Rockstar-anuncia-el-festival-musical-GTA-VI-en-Miami-11-09",
+    "url": "https://enelensayomedia.com/notas/rockstar-anuncia-el-festival-musical-gta-vi-en-miami-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/rockstar-anuncia-el-festival-musical-gta-vi-en-miami-1109.jpg",
+    "fecha": "2026-11-09T14:43:31.255978",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos",
+    "fecha_original": "2026-11-09T12:12:15.368641",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Kygo en México 2027: fechas, sedes y boletos",
     "artista": "Kygo",
@@ -333,20 +349,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Música"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Rockstar anuncia el festival musical GTA VI en Miami",
-    "artista": "Rockstar",
-    "intro": "Rockstar ha anunciado la realización de GTA VI The Festival, un evento musical propio concebido para celebrar el lanzamiento del esperado videojuego.",
-    "telegraph_url": "https://telegra.ph/Rockstar-anuncia-el-festival-musical-GTA-VI-en-Miami-11-09",
-    "url": "https://enelensayomedia.com/notas/rockstar-anuncia-el-festival-musical-gta-vi-en-miami-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/rockstar-anuncia-el-festival-musical-gta-vi-en-miami-1109.jpg",
-    "fecha": "2026-11-09T12:12:15.368641",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos"
   },
   {
     "opinion": false,
