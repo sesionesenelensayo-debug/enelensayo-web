@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
+    "artista": "Alejandra Guzmán y Frida Sofía",
+    "intro": "Tras años de distanciamiento mediático, la relación entre Alejandra Guzmán y Frida Sofía vuelve al centro de la conversación pública.",
+    "telegraph_url": "https://telegra.ph/Alejandra-Guzmán-confirma-encuentro-con-Frida-Sofía-11-06",
+    "url": "https://enelensayomedia.com/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.jpg",
+    "fecha": "2026-11-09T14:22:40.265282",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-06T11:37:52.319357",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Christian Nodal retira su mano de Ángela Aguilar en concierto de Los Aguilar",
     "artista": "Christian Nodal",
     "intro": "Durante un concierto de Los Aguilar, el cantante Christian Nodal se quitó la mano de la joven artista Ángela Aguilar.",
@@ -1945,22 +1961,6 @@
     "views": 0,
     "categoria": "Cultura",
     "fecha_original": "2026-11-03T12:55:02.434756",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
-    "artista": "Alejandra Guzmán y Frida Sofía",
-    "intro": "Tras años de distanciamiento mediático, la relación entre Alejandra Guzmán y Frida Sofía vuelve al centro de la conversación pública.",
-    "telegraph_url": "https://telegra.ph/Alejandra-Guzmán-confirma-encuentro-con-Frida-Sofía-11-06",
-    "url": "https://enelensayomedia.com/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.jpg",
-    "fecha": "2026-11-06T21:03:24.394552",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-06T11:37:52.319357",
     "actualizada": true
   },
   {
