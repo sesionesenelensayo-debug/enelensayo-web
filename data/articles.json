@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Fallece el artista plástico Arnaldo Coen a los 86 años",
+    "artista": "Arnaldo Coen",
+    "intro": "El 8 de noviembre de 2026 se reportó el fallecimiento del artista plástico mexicano Arnaldo Coen a los 86 años.",
+    "telegraph_url": "https://telegra.ph/Fallece-el-artista-plástico-Arnaldo-Coen-a-los-86-años-11-08",
+    "url": "https://enelensayomedia.com/notas/fallece-el-artista-plastico-arnaldo-coen-a-los-86-anos-1108.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-el-artista-plastico-arnaldo-coen-a-los-86-anos-1108.jpg",
+    "fecha": "2026-11-09T02:51:29.365417",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura",
+    "fecha_original": "2026-11-08T13:04:46.841552",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Super Mario Galaxy: La película llega a HBO Max",
     "artista": "Super Mario Galaxy",
     "intro": "HBO Max ha anunciado de manera oficial la fecha de estreno para Latinoamérica de ‘Super Mario Galaxy: La película’, uno de los grandes éxitos cinematográficos de este año.",
@@ -465,20 +481,6 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-01T14:00:11.543167",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Fallece el artista plástico Arnaldo Coen a los 86 años",
-    "artista": "Arnaldo Coen",
-    "intro": "El 8 de noviembre de 2026 se reportó el fallecimiento del artista plástico mexicano Arnaldo Coen a los 86 años.",
-    "telegraph_url": "https://telegra.ph/Fallece-el-artista-plástico-Arnaldo-Coen-a-los-86-años-11-08",
-    "url": "https://enelensayomedia.com/notas/fallece-el-artista-plastico-arnaldo-coen-a-los-86-anos-1108.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-el-artista-plastico-arnaldo-coen-a-los-86-anos-1108.jpg",
-    "fecha": "2026-11-08T13:04:46.841552",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   },
   {
     "opinion": false,
