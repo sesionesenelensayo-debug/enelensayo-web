@@ -1,5 +1,19 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "Fin de la era James Gunn: DC Studios cambia de manos",
+    "artista": "DC Studios",
+    "intro": "Está confirmado que James Gunn y Peter Safran dejan la directiva de DC Studios. Tras su salida, se reporta que Jeremy Latcham asume la presidencia del sello.",
+    "telegraph_url": "https://telegra.ph/Fin-de-la-era-James-Gunn-DC-Studios-cambia-de-manos-11-09",
+    "url": "https://enelensayomedia.com/notas/fin-de-la-era-james-gunn-dc-studios-cambia-de-manos-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fin-de-la-era-james-gunn-dc-studios-cambia-de-manos-1109.jpg",
+    "fecha": "2026-11-09T14:19:09.973776",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Kimberly Irene enfrenta luto y problemas financieros",
@@ -5771,18 +5785,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Arap Bethke: de desconocer el Día de Muertos a abrazarlo como mexicano",
-    "artista": "Arap Bethke",
-    "intro": "Arap Bethke, actor mexicano nacido en Kenia, rompió el silencio sobre su relación con la tradición del Día de Muertos. En una entrevista reportada por HOLA, el intérprete reveló que inicialmente desco",
-    "telegraph_url": "https://telegra.ph/Arap-Bethke-de-desconocer-el-Día-de-Muertos-a-abrazarlo-como-mexicano-10-31",
-    "url": "https://enelensayomedia.com/notas/arap-bethke-de-desconocer-el-dia-de-muertos-a-abrazarlo-como-mexicano-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/arap-bethke-de-desconocer-el-dia-de-muertos-a-abrazarlo-como-mexicano-1030.jpg",
-    "fecha": "2026-10-30T19:20:53.078406",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   }
 ]
