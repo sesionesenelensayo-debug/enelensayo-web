@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Hijo de Rey Misterio noquea a fan en Tijuana",
+    "artista": "Hijo de Rey Misterio",
+    "intro": "Trasciende un video en el que el luchador profesional conocido como El Hijo de Rey Misterio noquea a un aficionado que lo atacó durante una función de lucha libre en Tijuana.",
+    "telegraph_url": "https://telegra.ph/Hijo-de-Rey-Misterio-noquea-a-fan-en-Tijuana-11-09",
+    "url": "https://enelensayomedia.com/notas/hijo-de-rey-misterio-noquea-a-fan-en-tijuana-1109.html",
+    "imagen_url": "/Users/leonardomendoza/enelensayo-web/img/prensa/prensa_1150c8811d63.jpg",
+    "fecha": "2026-11-09T13:11:03.812110",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "¿Tomás Galván como la voz latina en 'Yo soy Rocky'?",
     "artista": "Tomás Galván",
     "intro": "El debate sobre la participación de figuras externas en el doblaje latinoamericano suma un nuevo capítulo con la incursión de Tomás Galván en la película 'Yo soy Rocky'.",
@@ -5765,19 +5779,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades que no sabías de Carlos Rubira Infante",
-    "artista": "Carlos Rubira Infante",
-    "intro": "En el video del canal En el Ensayo Media se presentan cinco datos curiosos poco conocidos sobre la vida y trayectoria del reconocido compositor Carlos Rubira Infante…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-carlos-rubira-infante-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-que-no-sabias-de-carlos-rubira-infante-1030.jpg",
-    "fecha": "2026-10-30T19:12:52.336480",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Datos curiosos"
   }
 ]
