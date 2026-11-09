@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "¿Star talents en el doblaje de Yo soy Rocky? El debate",
+    "artista": "Yo soy Rocky",
+    "intro": "Lo que está confirmado es que se han cuestionado los doblajes de 'Wildwood' y 'Yo soy Rocky' debido a la inclusión de figuras de la televisión o redes sociales, conocidos como star talents…",
+    "telegraph_url": "https://telegra.ph/Star-talents-en-el-doblaje-de-Yo-soy-Rocky-El-debate-11-09",
+    "url": "https://enelensayomedia.com/notas/star-talents-en-el-doblaje-de-yo-soy-rocky-el-debate-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/star-talents-en-el-doblaje-de-yo-soy-rocky-el-debate-1109.jpg",
+    "fecha": "2026-11-09T11:04:09.696643",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "KENDALL estrena \"Dopamina\", sencillo promocional de su nuevo EP",
     "artista": "KENDALL",
@@ -5759,18 +5773,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Sarah Paulson corona el terror en México",
-    "artista": "Sarah Paulson",
-    "intro": "Sarah Paulson corona el terror en México con la temporada 13 de ‘American Horror Story’. Medios reportan que la actriz fue captada grabando en la Ciudad de México, lo que ha generado que sus seguidore",
-    "telegraph_url": "https://telegra.ph/Sarah-Paulson-corona-el-terror-en-México-10-30",
-    "url": "https://enelensayomedia.com/notas/sarah-paulson-corona-el-terror-en-mexico-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/sarah-paulson-corona-el-terror-en-mexico-1030.jpg",
-    "fecha": "2026-10-30T16:49:15.169018",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   }
 ]
