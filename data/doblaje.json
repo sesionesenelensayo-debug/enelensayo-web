@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-09 07:47",
+ "actualizado": "2026-11-09 08:17",
  "destacado": {
   "pelicula": "Wildwood: El bosque salvaje",
   "estudio": "LAIKA Studios",
@@ -72,6 +72,16 @@
    "estado": "celebrado",
    "resumen": "La voz de Derbez como Burro es de los doblajes con famoso más recordados en español latino.",
    "anio": "2001"
+  },
+  {
+   "pelicula": "Hermanastras",
+   "star_talents": [
+    "Lesslie Polinesia"
+   ],
+   "estado": "polémica",
+   "resumen": "Los star talents, en especial Lesslie Polinesia, generan polémica por su participación en el doblaje latino de \"Hermanastras\".",
+   "anio": "2026",
+   "auto": true
   }
  ]
 }
