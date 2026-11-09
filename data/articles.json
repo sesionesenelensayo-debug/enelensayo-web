@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Diego Luna sorprende con Ceniza en la boca",
+    "artista": "Diego Luna",
+    "intro": "El actor y director Diego Luna sorprendió al público al aparecer de manera inesperada en la primera función de su película Ceniza en la boca en México.",
+    "telegraph_url": "https://telegra.ph/Diego-Luna-sorprende-con-Ceniza-en-la-boca-11-06",
+    "url": "https://enelensayomedia.com/notas/diego-luna-sorprende-con-ceniza-en-la-boca-1105.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/diego-luna-sorprende-con-ceniza-en-la-boca-1105.jpg",
+    "fecha": "2026-11-08T22:29:06.289172",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-11-05T22:03:26.415732",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Detienen a Emanuel Noir, cantante de Ke Personajes, por agredir a un policía en Entre Ríos",
     "artista": "Emanuel Noir",
     "intro": "El cantante Emanuel Noir, voz principal del grupo Ke Personajes, fue detenido tras golpear a un agente policial en la provincia de Entre Ríos.",
@@ -2113,20 +2129,6 @@
     "url": "https://enelensayomedia.com/notas/liam-neeson-sorprendido-al-saber-que-meryl-streep-sera-la-nueva-voz-de-1105.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/liam-neeson-sorprendido-al-saber-que-meryl-streep-sera-la-nueva-voz-de-1105.jpg",
     "fecha": "2026-11-05T22:25:03.063166",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Diego Luna sorprende con Ceniza en la boca",
-    "artista": "Diego Luna",
-    "intro": "El actor y director Diego Luna sorprendió al público al aparecer de manera inesperada en la primera función de su película Ceniza en la boca en México.",
-    "telegraph_url": "https://telegra.ph/Diego-Luna-sorprende-con-Ceniza-en-la-boca-11-06",
-    "url": "https://enelensayomedia.com/notas/diego-luna-sorprende-con-ceniza-en-la-boca-1105.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/diego-luna-sorprende-con-ceniza-en-la-boca-1105.jpg",
-    "fecha": "2026-11-05T22:03:26.415732",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
