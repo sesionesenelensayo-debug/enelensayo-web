@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "¿Doblaje arruinado? Las duras críticas a Yo soy Rocky por Imitandup",
+    "artista": "Yo soy Rocky",
+    "intro": "¿Vale la pena sacrificar la experiencia cinematográfica por un rostro famoso en el cartel?",
+    "telegraph_url": "https://telegra.ph/Doblaje-arruinado-Las-duras-críticas-a-Yo-soy-Rocky-por-Imitandup-11-09",
+    "url": "https://enelensayomedia.com/notas/doblaje-arruinado-las-duras-criticas-a-yo-soy-rocky-por-imitandup-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/doblaje-arruinado-las-duras-criticas-a-yo-soy-rocky-por-imitandup-1109.jpg",
+    "fecha": "2026-11-09T16:41:55.631040",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Buena Vista Social Club llega a México",
     "artista": "Buena Vista Social Club",
     "intro": "El proyecto musical cubano Buena Vista Social Club llega a México para presentarse en el Teatro de los Insurgentes. Se reporta que esta serie de presentaciones funciona como una carta de amor a Cuba.",
@@ -5777,18 +5791,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Viralizan ofrendas de Día de Muertos en el extranjero y desata debate cultural",
-    "artista": "Polémica por ofrendas de Día de Muertos fuera de México",
-    "intro": "Imágenes de altares para mascotas en el exterior generaron críticas por apropiación cultural y defensas de la tradición.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/viralizan-ofrendas-de-dia-de-muertos-en-el-extranjero-y-desata-debate-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/viralizan-ofrendas-de-dia-de-muertos-en-el-extranjero-y-desata-debate-1030.jpg",
-    "fecha": "2026-10-30T20:08:06.009269",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Agenda woke"
   }
 ]
