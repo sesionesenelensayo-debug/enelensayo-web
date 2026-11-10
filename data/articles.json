@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "¿Voces de influencers en Wildwood?: El debate del doblaje latino",
+    "artista": "Público",
+    "intro": "Está confirmado que fans exigen un nuevo doblaje latino para la película «Wildwood: El bosque salvaje» de LAIKA Studios…",
+    "telegraph_url": "https://telegra.ph/Voces-de-influencers-en-Wildwood-El-debate-del-doblaje-latino-11-10",
+    "url": "https://enelensayomedia.com/notas/voces-de-influencers-en-wildwood-el-debate-del-doblaje-latino-1110.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/voces-de-influencers-en-wildwood-el-debate-del-doblaje-latino-1110.jpg",
+    "fecha": "2026-11-10T15:05:16.024851",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Maluma anuncia siete conciertos en México",
     "artista": "Maluma",
     "intro": "Maluma confirma su regreso a los escenarios mexicanos con el anuncio de siete conciertos en el país como parte de su gira «Loco por Volver World Tour 2027».",
@@ -5807,18 +5821,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Sonora Santanera anima la Feria del Alfeñique en Toluca",
-    "artista": "Sonora Santanera",
-    "intro": "La legendaria agrupación Sonora Santanera se presentó en la Feria del Alfeñique de Toluca, ofreciendo una noche de cumbia que revitalizó el tradicional evento popular. El acto, reportado por El Sol de",
-    "telegraph_url": "https://telegra.ph/Sonora-Santanera-anima-la-Feria-del-Alfeñique-en-Toluca-10-31",
-    "url": "https://enelensayomedia.com/notas/sonora-santanera-anima-la-feria-del-alfenique-en-toluca-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/sonora-santanera-anima-la-feria-del-alfenique-en-toluca-1031.jpg",
-    "fecha": "2026-10-31T07:51:44.356649",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   }
 ]
