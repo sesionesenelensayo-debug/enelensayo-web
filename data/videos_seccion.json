@@ -1,5 +1,5 @@
 {
- "Música": {
+ "Chisme": {
   "shorts": [
    {
     "id": "xbVpUvMj1gY",
@@ -7,6 +7,46 @@
     "fecha": "2026-11-10",
     "nota": "https://enelensayomedia.com/notas/olivia-rodrigo-lanza-su-primera-cancion-navidena-original-take-me-home-1107.html"
    },
+   {
+    "id": "48dTiX8W-ZY",
+    "titulo": "Kimberly Irene enfrenta luto y complicaciones financieras",
+    "fecha": "2026-11-09",
+    "nota": "https://enelensayomedia.com/notas/kimberly-irene-enfrenta-luto-y-complicaciones-financieras-1109.html"
+   },
+   {
+    "id": "6wivIUQ6Sv8",
+    "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
+    "fecha": "2026-11-09",
+    "nota": "https://enelensayomedia.com/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.html"
+   },
+   {
+    "id": "P6ueUCN25xI",
+    "titulo": "Fallece la actriz y comediante mexicana María Alicia Delgado a los 77 años",
+    "fecha": "2026-11-08",
+    "nota": "https://enelensayomedia.com/notas/fallece-la-actriz-y-comediante-mexicana-maria-alicia-delgado-a-los-77-1104.html"
+   },
+   {
+    "id": "fVwyGebmjOc",
+    "titulo": "Thomas Markle bajo investigación por presunto material de abuso infantil",
+    "fecha": "2026-11-04",
+    "nota": "https://enelensayomedia.com/notas/thomas-markle-bajo-investigacion-por-presunto-material-de-abuso-infant-1104.html"
+   }
+  ],
+  "longs": []
+ },
+ "Internacional": {
+  "shorts": [
+   {
+    "id": "solKyBER0ZI",
+    "titulo": "Harry Styles impulsa ingresos de Madison Square Garden en 37 %",
+    "fecha": "2026-11-09",
+    "nota": "https://enelensayomedia.com/notas/harry-styles-impulsa-ingresos-de-madison-square-garden-en-37-1104.html"
+   }
+  ],
+  "longs": []
+ },
+ "Música": {
+  "shorts": [
    {
     "id": "VtkMoegFkXQ",
     "titulo": "Mon Laferte sufre agresión con celular en Las Vegas",
@@ -64,46 +104,6 @@
     "nota": "https://enelensayomedia.com/notas/la-verdadera-historia-de-la-voz-del-siglo-xxi-1102.html"
    }
   ]
- },
- "Internacional": {
-  "shorts": [
-   {
-    "id": "solKyBER0ZI",
-    "titulo": "Harry Styles impulsa ingresos de Madison Square Garden en 37 %",
-    "fecha": "2026-11-09",
-    "nota": "https://enelensayomedia.com/notas/harry-styles-impulsa-ingresos-de-madison-square-garden-en-37-1104.html"
-   }
-  ],
-  "longs": []
- },
- "Chisme": {
-  "shorts": [
-   {
-    "id": "48dTiX8W-ZY",
-    "titulo": "Kimberly Irene enfrenta luto y complicaciones financieras",
-    "fecha": "2026-11-09",
-    "nota": "https://enelensayomedia.com/notas/kimberly-irene-enfrenta-luto-y-complicaciones-financieras-1109.html"
-   },
-   {
-    "id": "6wivIUQ6Sv8",
-    "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
-    "fecha": "2026-11-09",
-    "nota": "https://enelensayomedia.com/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.html"
-   },
-   {
-    "id": "P6ueUCN25xI",
-    "titulo": "Fallece la actriz y comediante mexicana María Alicia Delgado a los 77 años",
-    "fecha": "2026-11-08",
-    "nota": "https://enelensayomedia.com/notas/fallece-la-actriz-y-comediante-mexicana-maria-alicia-delgado-a-los-77-1104.html"
-   },
-   {
-    "id": "fVwyGebmjOc",
-    "titulo": "Thomas Markle bajo investigación por presunto material de abuso infantil",
-    "fecha": "2026-11-04",
-    "nota": "https://enelensayomedia.com/notas/thomas-markle-bajo-investigacion-por-presunto-material-de-abuso-infant-1104.html"
-   }
-  ],
-  "longs": []
  },
  "Reportaje": {
   "shorts": [
