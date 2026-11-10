@@ -1,35 +1,12 @@
 {
- "Chisme": {
-  "shorts": [
-   {
-    "id": "48dTiX8W-ZY",
-    "titulo": "Kimberly Irene enfrenta luto y complicaciones financieras",
-    "fecha": "2026-11-09",
-    "nota": "https://enelensayomedia.com/notas/kimberly-irene-enfrenta-luto-y-complicaciones-financieras-1109.html"
-   },
-   {
-    "id": "6wivIUQ6Sv8",
-    "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
-    "fecha": "2026-11-09",
-    "nota": "https://enelensayomedia.com/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.html"
-   },
-   {
-    "id": "P6ueUCN25xI",
-    "titulo": "Fallece la actriz y comediante mexicana María Alicia Delgado a los 77 años",
-    "fecha": "2026-11-08",
-    "nota": "https://enelensayomedia.com/notas/fallece-la-actriz-y-comediante-mexicana-maria-alicia-delgado-a-los-77-1104.html"
-   },
-   {
-    "id": "fVwyGebmjOc",
-    "titulo": "Thomas Markle bajo investigación por presunto material de abuso infantil",
-    "fecha": "2026-11-04",
-    "nota": "https://enelensayomedia.com/notas/thomas-markle-bajo-investigacion-por-presunto-material-de-abuso-infant-1104.html"
-   }
-  ],
-  "longs": []
- },
  "Música": {
   "shorts": [
+   {
+    "id": "VtkMoegFkXQ",
+    "titulo": "Mon Laferte sufre agresión con celular en Las Vegas",
+    "fecha": "2026-11-09",
+    "nota": "https://enelensayomedia.com/notas/mon-laferte-sufre-agresion-con-celular-en-las-vegas-1106.html"
+   },
    {
     "id": "wmyUMzF3vME",
     "titulo": "The Strokes sorprende con su actuación en Saturday Night Life",
@@ -53,12 +30,6 @@
     "titulo": "Buddy Holly y la tragedia aérea que marcó al rock and roll",
     "fecha": "2026-11-07",
     "nota": "https://enelensayomedia.com/notas/buddy-holly-y-la-tragedia-aerea-que-marco-al-rock-and-roll-1107.html"
-   },
-   {
-    "id": "VtkMoegFkXQ",
-    "titulo": "Mon Laferte sufre agresión con celular en Las Vegas",
-    "fecha": "2026-11-07",
-    "nota": "https://enelensayomedia.com/notas/mon-laferte-sufre-agresion-con-celular-en-las-vegas-1106.html"
    },
    {
     "id": "5XBpySl_-QA",
@@ -105,6 +76,35 @@
     "nota": "https://enelensayomedia.com/notas/la-verdadera-historia-de-la-voz-del-siglo-xxi-1102.html"
    }
   ]
+ },
+ "Chisme": {
+  "shorts": [
+   {
+    "id": "48dTiX8W-ZY",
+    "titulo": "Kimberly Irene enfrenta luto y complicaciones financieras",
+    "fecha": "2026-11-09",
+    "nota": "https://enelensayomedia.com/notas/kimberly-irene-enfrenta-luto-y-complicaciones-financieras-1109.html"
+   },
+   {
+    "id": "6wivIUQ6Sv8",
+    "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
+    "fecha": "2026-11-09",
+    "nota": "https://enelensayomedia.com/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.html"
+   },
+   {
+    "id": "P6ueUCN25xI",
+    "titulo": "Fallece la actriz y comediante mexicana María Alicia Delgado a los 77 años",
+    "fecha": "2026-11-08",
+    "nota": "https://enelensayomedia.com/notas/fallece-la-actriz-y-comediante-mexicana-maria-alicia-delgado-a-los-77-1104.html"
+   },
+   {
+    "id": "fVwyGebmjOc",
+    "titulo": "Thomas Markle bajo investigación por presunto material de abuso infantil",
+    "fecha": "2026-11-04",
+    "nota": "https://enelensayomedia.com/notas/thomas-markle-bajo-investigacion-por-presunto-material-de-abuso-infant-1104.html"
+   }
+  ],
+  "longs": []
  },
  "Reportaje": {
   "shorts": [
