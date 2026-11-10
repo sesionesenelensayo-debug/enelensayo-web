@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Rockstar anuncia el festival musical GTA VI en Miami",
+    "artista": "Rockstar",
+    "intro": "Rockstar ha anunciado la realización de GTA VI The Festival, un evento musical propio concebido para celebrar el lanzamiento del esperado videojuego.",
+    "telegraph_url": "https://telegra.ph/Rockstar-anuncia-el-festival-musical-GTA-VI-en-Miami-11-09",
+    "url": "https://enelensayomedia.com/notas/rockstar-anuncia-el-festival-musical-gta-vi-en-miami-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/rockstar-anuncia-el-festival-musical-gta-vi-en-miami-1109.jpg",
+    "fecha": "2026-11-09T21:28:44.878932",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos",
+    "fecha_original": "2026-11-09T12:12:15.368641",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Faker critica la preparación de Bilibili Gaming tras eliminación en Worlds 2026",
     "artista": "Faker",
     "intro": "El legendario mid laner Faker admitió que Bilibili Gaming estuvo mejor preparado tras la eliminación de su equipo en el Campeonato Mundial de 2026.",
@@ -243,22 +259,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Rockstar anuncia el festival musical GTA VI en Miami",
-    "artista": "Rockstar",
-    "intro": "Rockstar ha anunciado la realización de GTA VI The Festival, un evento musical propio concebido para celebrar el lanzamiento del esperado videojuego.",
-    "telegraph_url": "https://telegra.ph/Rockstar-anuncia-el-festival-musical-GTA-VI-en-Miami-11-09",
-    "url": "https://enelensayomedia.com/notas/rockstar-anuncia-el-festival-musical-gta-vi-en-miami-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/rockstar-anuncia-el-festival-musical-gta-vi-en-miami-1109.jpg",
-    "fecha": "2026-11-09T15:48:30.537632",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-11-09T12:12:15.368641",
-    "actualizada": true
   },
   {
     "opinion": false,
