@@ -1,5 +1,21 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Xipto Esports incursiona en Dota 2 con un roster estelar",
+    "artista": "Xipto Esports",
+    "intro": "La organización de Singapur consolida su presencia en el circuito competitivo de Dota 2 tras fichar a experimentados jugadores de la región.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/xipto-esports-incursiona-en-dota-2-con-un-roster-estelar-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/xipto-esports-incursiona-en-dota-2-con-un-roster-estelar-1107.jpg",
+    "fecha": "2026-11-10T08:33:47.948336",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports",
+    "fecha_original": "2026-11-07T17:18:06.029890",
+    "actualizada": true
+  },
+  {
     "tipo": "noticia",
     "titulo": "Festival Internacional del Globo 2026 revela su canción oficial",
     "artista": "Festival Internacional del Globo",
@@ -1615,20 +1631,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Xipto Esports incursiona en Dota 2 con un roster estelar",
-    "artista": "Xipto Esports",
-    "intro": "La organización de Singapur consolida su presencia en el circuito competitivo de Dota 2 tras fichar a experimentados jugadores de la región.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/xipto-esports-incursiona-en-dota-2-con-un-roster-estelar-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/xipto-esports-incursiona-en-dota-2-con-un-roster-estelar-1107.jpg",
-    "fecha": "2026-11-07T17:18:06.029890",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Esports"
   },
   {
     "tipo": "noticia",
