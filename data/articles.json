@@ -1,6 +1,22 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "David Guetta anuncia concierto en Ciudad de México para 2027",
+    "artista": "David Guetta",
+    "intro": "El DJ francés presentará su gira The Monolith Tour en el Estadio GNP Seguros el 8 de mayo de 2027.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/david-guetta-anuncia-concierto-en-ciudad-de-mexico-para-2027-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/david-guetta-anuncia-concierto-en-ciudad-de-mexico-para-2027-1103.jpg",
+    "fecha": "2026-11-09T20:45:25.130059",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-11-03T13:32:45.214509",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Olivia Rodrigo lanza su primera canción navideña original, \"Take Me Home (4 Christmas)\"",
     "artista": "Olivia Rodrigo",
@@ -12,7 +28,7 @@
     "author": "Oliver Ken",
     "views": 0,
     "nota_dia": true,
-    "categoria": "Internacional",
+    "categoria": "Música",
     "fecha_original": "2026-11-07T12:07:03.420711",
     "actualizada": true
   },
@@ -1363,22 +1379,6 @@
   },
   {
     "opinion": false,
-    "tipo": "noticia",
-    "titulo": "David Guetta anuncia concierto en Ciudad de México para 2027",
-    "artista": "David Guetta",
-    "intro": "El DJ francés presentará su gira The Monolith Tour en el Estadio GNP Seguros el 8 de mayo de 2027.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/david-guetta-anuncia-concierto-en-ciudad-de-mexico-para-2027-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/david-guetta-anuncia-concierto-en-ciudad-de-mexico-para-2027-1103.jpg",
-    "fecha": "2026-11-08T07:26:57.235903",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-03T13:32:45.214509",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Penélope Cruz revela cómo Salma Hayek la acogió al llegar a México",
     "artista": "Penélope Cruz",
@@ -1478,21 +1478,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Olivia Rodrigo lanza su primer tema navideño original \"Take Me Home, Christmas\"",
-    "artista": "Olivia Rodrigo",
-    "intro": "En el video del canal En el Ensayo Media se anuncia que la cantante estadounidense Olivia Rodrigo incursiona en la música navideña con su primer tema original…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/olivia-rodrigo-lanza-su-primer-tema-navideno-original-take-me-home-chr-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/olivia-rodrigo-lanza-su-primer-tema-navideno-original-take-me-home-chr-1107.jpg",
-    "fecha": "2026-11-07T19:35:00.072789",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "opinion": false,
