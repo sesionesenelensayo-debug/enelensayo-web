@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Soberano Jr y Bandido chocan de nuevo en la Arena México",
+    "artista": "CMLL",
+    "intro": "El viernes 6 de noviembre de 2026, el Consejo Mundial de Lucha Libre programó su tradicional Viernes Espectacular en la Arena México, ubicada en la colonia Doctores de la Ciudad de México.",
+    "telegraph_url": "https://telegra.ph/Soberano-Jr-y-Bandido-chocan-de-nuevo-en-la-Arena-México-11-06",
+    "url": "https://enelensayomedia.com/notas/soberano-jr-y-bandido-chocan-de-nuevo-en-la-arena-mexico-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/soberano-jr-y-bandido-chocan-de-nuevo-en-la-arena-mexico-1106.jpg",
+    "fecha": "2026-11-10T13:32:33.471778",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Luchas",
+    "fecha_original": "2026-11-06T13:33:07.597601",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Eiza González desata rumores de boda tras viaje",
     "artista": "Eiza González",
     "intro": "Mientras la actriz mexicana mantiene una trayectoria consolidada entre la televisión y el cine internacional, su vida personal vuelve a acaparar los reflectores.",
@@ -2497,20 +2513,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Soberano Jr y Bandido chocan de nuevo en la Arena México",
-    "artista": "CMLL",
-    "intro": "El viernes 6 de noviembre de 2026, el Consejo Mundial de Lucha Libre programó su tradicional Viernes Espectacular en la Arena México, ubicada en la colonia Doctores de la Ciudad de México.",
-    "telegraph_url": "https://telegra.ph/Soberano-Jr-y-Bandido-chocan-de-nuevo-en-la-Arena-México-11-06",
-    "url": "https://enelensayomedia.com/notas/soberano-jr-y-bandido-chocan-de-nuevo-en-la-arena-mexico-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/soberano-jr-y-bandido-chocan-de-nuevo-en-la-arena-mexico-1106.jpg",
-    "fecha": "2026-11-06T13:33:07.597601",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Luchas"
   },
   {
     "opinion": false,
