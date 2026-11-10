@@ -1,4 +1,34 @@
 {
+ "Cine": {
+  "shorts": [
+   {
+    "id": "ebvgOHqQRGs",
+    "titulo": "El cine latino cruza fronteras en Los Ángeles",
+    "fecha": "2026-11-10",
+    "nota": "https://enelensayomedia.com/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.html"
+   },
+   {
+    "id": "Vn053n5Jkms",
+    "titulo": "A 14 años del fallecimiento de Leonardo Favio",
+    "fecha": "2026-11-05",
+    "nota": "https://enelensayomedia.com/notas/a-14-anos-del-fallecimiento-de-leonardo-favio-1105.html"
+   },
+   {
+    "id": "MDQfrbn4mRc",
+    "titulo": "Mito vs Realidad: ¿James Gunn es un éxito en el universo de DC?",
+    "fecha": "2026-11-03",
+    "nota": "https://enelensayomedia.com/notas/mito-vs-realidad-james-gunn-es-un-exito-en-el-universo-de-dc-1103.html"
+   }
+  ],
+  "longs": [
+   {
+    "id": "26wn_wAKm5U",
+    "titulo": "La historia detrás de Jorge Negrete, el Charro Cantor",
+    "fecha": "2026-11-06",
+    "nota": "https://enelensayomedia.com/notas/la-historia-detras-de-jorge-negrete-el-charro-cantor-1106.html"
+   }
+  ]
+ },
  "Chisme": {
   "shorts": [
    {
@@ -149,36 +179,6 @@
     "titulo": "Cómo arreglar toda tu vida en un día según Dan Koe",
     "fecha": "2026-10-31",
     "nota": "https://enelensayomedia.com/notas/como-arreglar-toda-tu-vida-en-1-dia-historia-completa-1031.html"
-   }
-  ]
- },
- "Cine": {
-  "shorts": [
-   {
-    "id": "ebvgOHqQRGs",
-    "titulo": "El cine latino cruza fronteras en Los Ángeles",
-    "fecha": "2026-11-08",
-    "nota": "https://enelensayomedia.com/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.html"
-   },
-   {
-    "id": "Vn053n5Jkms",
-    "titulo": "A 14 años del fallecimiento de Leonardo Favio",
-    "fecha": "2026-11-05",
-    "nota": "https://enelensayomedia.com/notas/a-14-anos-del-fallecimiento-de-leonardo-favio-1105.html"
-   },
-   {
-    "id": "MDQfrbn4mRc",
-    "titulo": "Mito vs Realidad: ¿James Gunn es un éxito en el universo de DC?",
-    "fecha": "2026-11-03",
-    "nota": "https://enelensayomedia.com/notas/mito-vs-realidad-james-gunn-es-un-exito-en-el-universo-de-dc-1103.html"
-   }
-  ],
-  "longs": [
-   {
-    "id": "26wn_wAKm5U",
-    "titulo": "La historia detrás de Jorge Negrete, el Charro Cantor",
-    "fecha": "2026-11-06",
-    "nota": "https://enelensayomedia.com/notas/la-historia-detras-de-jorge-negrete-el-charro-cantor-1106.html"
    }
   ]
  },
