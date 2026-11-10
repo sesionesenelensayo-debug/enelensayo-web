@@ -7325,6 +7325,22 @@
    "genero": "",
    "fuente": "búsqueda de bandas EEM",
    "tipo": "banda"
+  },
+  {
+   "id": "reyes-del-movimiento-villero--mty|monterrey||x",
+   "banda": "👉Reyes del Movimiento Villero  Mty",
+   "ciudad": "Monterrey",
+   "estado": "Nuevo León",
+   "lat": 25.6866,
+   "lon": -100.3161,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
   }
  ]
 }
