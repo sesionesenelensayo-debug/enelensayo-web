@@ -1,0 +1,16 @@
+{
+  "artista": "Las Lavanderas",
+  "slug": "las-lavanderas",
+  "imagen": "",
+  "shorts": [],
+  "longs": [
+    {
+      "titulo": "El escándalo de Las Lavanderas: La verdad sin mentiras",
+      "url": "https://www.youtube.com/shorts/pRIXeZ6p9q8",
+      "fecha": "2026-11-10",
+      "tipo": "long"
+    }
+  ],
+  "tweets": [],
+  "updated": "2026-11-10 15:51"
+}

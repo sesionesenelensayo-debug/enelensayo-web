@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10 13:37",
+ "actualizado": "2026-11-10 15:51",
  "eventos": [],
  "api": false,
  "ticketmaster": {
@@ -109,6 +109,12 @@
  ],
  "noticias": [
   {
+   "titulo": "Ferxxo en el Palacio de los Deportes: Precio de boletos, nueva fecha y preventa",
+   "fuente": "sdpnoticias",
+   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeGI4bERNbHZ0aVFRdzRjdi1QNFRoSmtaUHUyLWFZc2dhRjFrZmx1X05VN2NkYWxYaG9TckFOQlR1NWpTVEkxV29yNmVqY2tPRnpmOGJLT2g0cm5nQUxtQm9VUGxUYnRlZnhVdFp1eHFPdVZFLTU1Ul9tcDNkRzJmaThrb3M1cENaMTZlenpaWS1wR0pqR183TUZ6UWdZY2FlRkVRcXluTHRjSlBFcHNQRHZLTlk?oc=5",
+   "fecha": "2026-11-10 21:35"
+  },
+  {
    "titulo": "Feid anuncia NUEVA FECHA de concierto en CdMx tras agotar boletos: ¿Cuándo es y cómo comprarlos?",
    "fuente": "MILENIO",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVE9tLW1iMWh2alZIc2F3WE5BUFVqR1RFOHVRSjR0ZHJIZVdFVVZHQ2NYVlhvU2FXRnNmS0l2ZTdPVThmYnB0YXVjRXBPRGE5aUNNSkZoUmRCaWVtNUxzZjdqc1YtU0xlblNhdm9MY0FxLURDRFJWdjAza2RHajhRakxJUXdMQ21XbnVDVHBCSVBuZUFYWEhycGx5Y2Q3d9IBngFBVV95cUxOLTA2cHl5OGJybnZzMmgxTVJmcTJhZFJTM3pvaF9GZm1MWkpfam5WNlFxTWk4b2xkUEJnU2xCMFdhQWlFUFpxb3h0anhRVHlUNXVrZlZxS3dPajVNOG1sVk1laUxZd3BvX3N5M0dDeWxvaTE0MmhRRGF0QzZ0UHBId2RtLWdfWWdqU18xTGlwdzRiSC10VEczZFpweG01QQ?oc=5",
@@ -122,7 +128,7 @@
   },
   {
    "titulo": "Feid en México 2027: fechas, precios de boletos y preventa",
-   "fuente": "SDPnoticias.com",
+   "fuente": "sdpnoticias",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmFUWFJLN2ZvckNUVnl6NVk2clJrNlBlNFFwakdSQWJsUmdxc2pPa2RGTEVwaEs4Nl8tS2hlWUJhaVR5Mm9FdDBBcEcxZFAtdkkxTnFPQ0I1ZVBHaGZUN2NFbzdYMFFzRmppekl6UGFyQnJzVjZpd2VWNjloQTlRODZOeTZZM0J5WWxaWk9zMTFSTVVpSG5EcmUtb3hURkp4NGVLNHN4d2s?oc=5",
    "fecha": "2026-11-09 22:48"
   },
@@ -151,12 +157,6 @@
    "fecha": "2026-11-06 23:03"
   },
   {
-   "titulo": "Ozzfest México 2027: Fecha, venue, boletos y más",
-   "fuente": "Sopitas.com",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZUpaSWJWQmIwOE9yQzNCMnRDTlhOZVVtZFp0cURhLWNYQlczSTJQMHIyUFFYOVl0MFY2STJvS3ZrNEdDWEJ2SUtlWXY3c2NJYTluZU9fMGlMY0NXanQ3Wml1WnlLSzgwQVNVU0JwaWYtUlJiYUZkcGFWUVZ4aWNneTBzVQ?oc=5",
-   "fecha": "2026-11-06 21:37"
-  },
-  {
    "titulo": "Feid en México: Confirma su gira 'FERXXO The Green Star 2027'",
    "fuente": "EXA FM",
    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdnRlQXl3MmJDdnFBaTZpdEpVeHhPbG15UkV6SWYzcHJpVmNGS1RnNER5N2t5cWE0TGxWUnliNXVObDVDN0RTSGYwOHdrbUVGTUxBTzY3T2NqV285T2IzT0RQaDZkb0ZncFRvbHlac2lnWGtLeGMwTm5mYmV3WHE4c25CeG1taVB3SGUtVWJnYldDbDVKbG9LUHkyMDc?oc=5",
@@ -175,6 +175,12 @@
    "fecha": "2026-11-06 13:40"
   },
   {
+   "titulo": "Ozzfest México 2027: venta de boletos inicia este 6 de noviembre, ¿cómo y dónde comprar tus entradas?",
+   "fuente": "Claro Sports",
+   "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPcWo5clBkNHh3ZTNZNnJWUmd3VjRuakE5OU42M1d5LUp2LXJLdzkxaDlibmJQSlRrNDJTV2xRNHRpV0sxdDJ6dFVMWUlBRGRIYW5Vc2RkcnFUWHhPb1NLZnNLbmg3NGh6LTY3UWxuYVNVZVhWNGVFY21RMWJ4Q1U5Tkt5T3BpUVJlYnJoVllqQU9Mb0Ixd2NZaWotYW1aVVpuaG1xNk9EbFdRZks2cFVDVnhRQm16U2t1VjZ4bnJnNmlXNjVmd1czZ3BnV0xYRF9KX0xYZXAxMjZWbC1V?oc=5",
+   "fecha": "2026-11-06 01:13"
+  },
+  {
    "titulo": "¿Gorillaz en México? Un error desata rumores sobre su llegada al Palacio de los Deportes",
    "fuente": "Reporte Indigo",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeHhpMlJxTjJUVE96WW1MSXVQV2JXU1RaZGxwOUw5TDRfOWpydndBLWo2SXBiQjVja0Y1OWhza2QtUkw3NVpvWldpQWRCQUozbDE0M1hTYktDTnd3UEhnMkRidmhaLXU4cE45SWQ4RWFyWTgyZHBNdGV3NEdaYTRmODVZLThVM0htblRtY1o3WkNBS2U2OGRLeXphdTdoTkltbHRhVWdad0FzWDRkdE54SmdLZ1R2TEE3d0tUa01VOVNBU0NLMUM2QllhU2FlckJZZkpUclVRU2FyVlZYdUE?oc=5",
@@ -185,12 +191,6 @@
    "fuente": "ABC Noticias",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmtNdDZxRVhNbVVlTE16M0gxUlI2dVZiVHh2elRzY0NWSDV5cVZLUnhRWnhndVRhREN1a05wMEU2QzBBZm9rTU5vTmNaVzNKYld2Y0tmdFhDdllEVjBIejVMX3l4aVpkZ1ZydDZhaHA4NDNHX1ZyQ3RkQTR3ODN0bHJrLXZMemVLcXFLWUZteTNxSktfVVNVTnRkUU5RVXgycTR3NVhzWXlYQk1XREYyTWJIem9RVEtqQzEtbDBzbFU0YXNG?oc=5",
    "fecha": "2026-11-05 19:22"
-  },
-  {
-   "titulo": "Ticketmaster 2x1 HOY 5 de noviembre: Hwang In Youp, Babasónicos y DLD; estos son TODOS los conciertos y evento",
-   "fuente": "MILENIO",
-   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcTBJeEVielpWM2FRdUlFVGRiQmhuOGJiRXBYYkxmMU9pRHNzbFNSMWNvOVIwR2hyb0dQUDdSenpjS05EVEVJS0ZXbXJ3b0EyVFFjelF0OEwwbDExNnpha19fYTA4RmJrdmxWLTZWVjN5LWVFVVo5RDN5dHdUR0g1R0NsVHJZS3pDM05EemMyTm1JZXNCamdtdmZCT25GUHZKX2Z0bHo3a9IBpwFBVV95cUxPeEZwZ1dSaklxODBhX0xWLWQxQTFrckU2RkNtSHRfbm04TDFGdUV0T1NYcmRtYzJqWWtPZGZBS2VERkk4N2hscFlKRFYxaEloSVdUa2hKZUx6YW9xRVBGV1dOQ05UTE8yakplYUlGNDZWY3BObDdHWmViNXNJZldPS2puZXJndzZpbU5pdTAzMWxnVzZlc1BVVUFwOFlQTUpnbWdtNzRHWQ?oc=5",
-   "fecha": "2026-11-05 19:09"
   }
  ]
 }

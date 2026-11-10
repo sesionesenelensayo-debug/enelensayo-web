@@ -63,6 +63,11 @@
   ],
   "longs": [
     {
+      "id": "pRIXeZ6p9q8",
+      "titulo": "El escándalo de Las Lavanderas: La verdad sin mentiras",
+      "fecha": "2026-11-10"
+    },
+    {
       "id": "EGdBPCXaliI",
       "titulo": "Daniel Bisogno: su historia, trayectoria y momentos más difíciles",
       "fecha": "2026-11-10"
@@ -86,11 +91,6 @@
       "id": "aNc_vKsURoM",
       "titulo": "¿Cómo un pelirrojo sin techo conquistó la música mundial? La historia de Ed Sheeran",
       "fecha": "2026-11-07"
-    },
-    {
-      "id": "26wn_wAKm5U",
-      "titulo": "¿Qué impulsó a Jorge Negrete a convertirse en el Charro Cantor? – La historia detrás del mito",
-      "fecha": "2026-11-06"
     }
   ],
   "podcast": []
