@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "El escándalo de Las Lavanderas: verdad, traición y disputas",
+    "artista": "Las Lavanderas",
+    "intro": "En este video del canal En el Ensayo Media se aborda la historia del escándalo de Las Lavanderas…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-escandalo-de-las-lavanderas-verdad-traicion-y-disputas-1110.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-escandalo-de-las-lavanderas-verdad-traicion-y-disputas-1110.jpg",
+    "fecha": "2026-11-10T16:02:39.536159",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Daniel Bisogno: su vida, trayectoria y lucha contra la enfermedad",
     "artista": "Daniel Bisogno",
     "intro": "En el video del canal En el Ensayo Media se aborda la vida, trayectoria y los momentos más difíciles del famoso conductor Daniel Omar Aguilar Bisoño.",
@@ -3352,20 +3367,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Jennifer Lopez y la reacción a su disfraz",
-    "artista": "Jennifer Lopez",
-    "intro": "¿Se molestó Jennifer Lopez tras ver que Adamari López se disfrazó de ella? La interrogante surge a raíz de información reportada sobre la reacción de la cantante y actriz estadounidense al presenciar…",
-    "telegraph_url": "https://telegra.ph/Jennifer-Lopez-y-la-reacción-a-su-disfraz-11-05",
-    "url": "https://enelensayomedia.com/notas/jennifer-lopez-y-la-reaccion-a-su-disfraz-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/jennifer-lopez-y-la-reaccion-a-su-disfraz-1104.jpg",
-    "fecha": "2026-11-04T20:17:58.067122",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   },
   {
     "opinion": false,
