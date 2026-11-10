@@ -1,21 +1,10 @@
 {
- "Internacional": {
-  "shorts": [
-   {
-    "id": "solKyBER0ZI",
-    "titulo": "Harry Styles impulsa ingresos de Madison Square Garden en 37 %",
-    "fecha": "2026-11-09",
-    "nota": "https://enelensayomedia.com/notas/harry-styles-impulsa-ingresos-de-madison-square-garden-en-37-1104.html"
-   }
-  ],
-  "longs": []
- },
  "Música": {
   "shorts": [
    {
     "id": "xbVpUvMj1gY",
     "titulo": "Olivia Rodrigo lanza su primera canción navideña original, \"Take Me Home (4 Christmas)\"",
-    "fecha": "2026-11-09",
+    "fecha": "2026-11-10",
     "nota": "https://enelensayomedia.com/notas/olivia-rodrigo-lanza-su-primera-cancion-navidena-original-take-me-home-1107.html"
    },
    {
@@ -75,6 +64,17 @@
     "nota": "https://enelensayomedia.com/notas/la-verdadera-historia-de-la-voz-del-siglo-xxi-1102.html"
    }
   ]
+ },
+ "Internacional": {
+  "shorts": [
+   {
+    "id": "solKyBER0ZI",
+    "titulo": "Harry Styles impulsa ingresos de Madison Square Garden en 37 %",
+    "fecha": "2026-11-09",
+    "nota": "https://enelensayomedia.com/notas/harry-styles-impulsa-ingresos-de-madison-square-garden-en-37-1104.html"
+   }
+  ],
+  "longs": []
  },
  "Chisme": {
   "shorts": [
