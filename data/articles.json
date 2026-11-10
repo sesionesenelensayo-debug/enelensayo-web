@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Poncho de Nigris lanza advertencia por Doña Alegría",
+    "artista": "Poncho de Nigris",
+    "intro": "Poncho de Nigris lanzó una advertencia pública tras la entrada de Doña Alegría a 'La Mansión VIP'.",
+    "telegraph_url": "https://telegra.ph/Poncho-de-Nigris-lanza-advertencia-por-Doña-Alegría-11-10",
+    "url": "https://enelensayomedia.com/notas/poncho-de-nigris-lanza-advertencia-por-dona-alegria-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/poncho-de-nigris-lanza-advertencia-por-dona-alegria-1109.jpg",
+    "fecha": "2026-11-09T21:30:03.198877",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Rockstar anuncia el festival musical GTA VI en Miami",
     "artista": "Rockstar",
     "intro": "Rockstar ha anunciado la realización de GTA VI The Festival, un evento musical propio concebido para celebrar el lanzamiento del esperado videojuego.",
@@ -3552,20 +3566,6 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-03T11:52:43.793889",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Paris Jackson solicita $600 millones del patrimonio de su padre",
-    "artista": "Paris Jackson",
-    "intro": "Paris Jackson ha presentado una petición para recibir 600 millones de dólares de la fortuna de Michael Jackson, destinándolos a ella y a sus hermanos.",
-    "telegraph_url": "https://telegra.ph/Paris-Jackson-solicita-600-millones-del-patrimonio-de-su-padre-11-04",
-    "url": "https://enelensayomedia.com/notas/paris-jackson-solicita-600-millones-del-patrimonio-de-su-padre-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/paris-jackson-solicita-600-millones-del-patrimonio-de-su-padre-1104.jpg",
-    "fecha": "2026-11-04T07:07:36.453919",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   },
   {
     "tipo": "reportaje",
