@@ -63,6 +63,11 @@
   ],
   "longs": [
     {
+      "id": "QujblaqtJgo",
+      "titulo": "Descubre la vida de Daniel Bisogno",
+      "fecha": "2026-11-10"
+    },
+    {
       "id": "VmMsW-grezw",
       "titulo": "¿Qué impulso convirtió a Pepe Aguilar en una leyenda del regional mexicano? – La historia detrá",
       "fecha": "2026-11-09"
@@ -86,11 +91,6 @@
       "id": "_agfPWD7sbc",
       "titulo": "¿Cómo un vendedor de crack dominó el imperio de Wall Street? La historia de Jay-Z",
       "fecha": "2026-11-05"
-    },
-    {
-      "id": "gSDSIzbZW2I",
-      "titulo": "¿Genio incomprendido o su propia ruina? La historia de Kanye West",
-      "fecha": "2026-11-04"
     }
   ],
   "podcast": []
