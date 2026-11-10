@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "Las 10 películas que más dinero perdieron en taquilla recientemente",
+    "artista": "las 10 películas que más dinero perdieron (mayores fracasos de taquilla recientes)",
+    "intro": "Un análisis de los mayores fracasos cinematográficos recientes, basado en la relación entre presupuesto y recaudación.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/las-10-peliculas-que-mas-dinero-perdieron-en-taquilla-recientemente-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/las-10-peliculas-que-mas-dinero-perdieron-en-taquilla-recientemente-1101.jpg",
+    "fecha": "2026-11-09T23:39:19.814363",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-11-01T15:35:52.933913",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Poncho de Nigris lanza advertencia por Doña Alegría",
@@ -1470,21 +1485,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Las 10 películas que más dinero perdieron en taquilla recientemente",
-    "artista": "las 10 películas que más dinero perdieron (mayores fracasos de taquilla recientes)",
-    "intro": "Un análisis de los mayores fracasos cinematográficos recientes, basado en la relación entre presupuesto y recaudación.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/las-10-peliculas-que-mas-dinero-perdieron-en-taquilla-recientemente-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/las-10-peliculas-que-mas-dinero-perdieron-en-taquilla-recientemente-1101.jpg",
-    "fecha": "2026-11-07T22:20:59.021068",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-01T15:35:52.933913",
-    "actualizada": true
   },
   {
     "opinion": false,
