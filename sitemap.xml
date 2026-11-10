@@ -6,6 +6,8 @@
 <url><loc>https://enelensayomedia.com/como-trabajamos.html</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
 <url><loc>https://enelensayomedia.com/correcciones.html</loc><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>https://enelensayomedia.com/privacy.html</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
+<url><loc>https://enelensayomedia.com/notas/lightyear-y-el-fracaso-de-la-agenda-ideologica-en-pixar-1110.html</loc><lastmod>2026-11-10</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
+<url><loc>https://enelensayomedia.com/notas/kendall-estrena-dopamina-sencillo-promocional-de-su-nuevo-ep-1102.html</loc><lastmod>2026-11-10</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://enelensayomedia.com/notas/soberano-jr-y-bandido-chocan-de-nuevo-en-la-arena-mexico-1106.html</loc><lastmod>2026-11-10</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://enelensayomedia.com/notas/eiza-gonzalez-desata-rumores-de-boda-tras-viaje-1110.html</loc><lastmod>2026-11-10</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://enelensayomedia.com/notas/critican-el-doblaje-latino-de-wildwood-y-exigen-un-nuevo-redoblaje-1110.html</loc><lastmod>2026-11-10</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -77,7 +79,6 @@
 <url><loc>https://enelensayomedia.com/notas/dani-flow-abandona-la-mansion-vip-2-1109.html</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://enelensayomedia.com/notas/elzeein-la-rompe-es-el-streamer-que-mas-crece-en-kick-1109.html</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://enelensayomedia.com/notas/star-talents-en-el-doblaje-de-yo-soy-rocky-el-debate-1109.html</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://enelensayomedia.com/notas/kendall-estrena-dopamina-sencillo-promocional-de-su-nuevo-ep-1102.html</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://enelensayomedia.com/notas/llamara-ibai-a-hakimi-para-la-velada-del-ano-1109.html</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://enelensayomedia.com/notas/bethesda-anuncia-the-elder-scrolls-vi-sentinel-1108.html</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://enelensayomedia.com/notas/resultados-y-analisis-de-la-lucha-libre-aaa-del-7-de-noviembre-de-2026-1109.html</loc><lastmod>2026-11-09</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -405,7 +406,6 @@
 <url><loc>https://enelensayomedia.com/notas/sonora-santanera-anima-la-feria-del-alfenique-en-toluca-1031.html</loc><lastmod>2026-10-31</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://enelensayomedia.com/notas/catrina-de-33-metros-lleva-a-mexico-al-record-guinness-1030.html</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://enelensayomedia.com/notas/el-nahual-brujo-que-se-transforma-en-bestia-y-controla-la-muerte-1030.html</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://enelensayomedia.com/notas/la-dama-blanca-un-fantasma-urbano-en-la-colonia-condesa-1030.html</loc><lastmod>2026-10-30</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://enelensayomedia.com/notas/4-de-octubre-de-2009-5-15-am-se-apago-la-negra-1029.html</loc><lastmod>2026-10-29</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/5-curiosidades-de-alejandro-sanz-1029.html</loc><lastmod>2026-10-29</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/5-curiosidades-de-cafe-tacvba-1029.html</loc><lastmod>2026-10-29</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -673,6 +673,7 @@
 <url><loc>https://enelensayomedia.com/notas/la-bola-negra-supera-los-35-7-m-y-deja-atras-a-ocho-apellidos-catalane-1101.html</loc><lastmod>2026-11-01</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/la-casa-de-los-azulejos-historia-arquitectura-y-misterios-de-un-icono-1110.html</loc><lastmod>2026-11-10</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/la-criatura-de-ojos-rojos-y-la-tragedia-del-puente-silver-1029.html</loc><lastmod>2026-10-29</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://enelensayomedia.com/notas/la-dama-blanca-un-fantasma-urbano-en-la-colonia-condesa-1030.html</loc><lastmod>2026-10-30</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/la-dama-del-lago-chapala-entre-la-historia-y-la-leyenda-en-el-lago-mas-1029.html</loc><lastmod>2026-10-29</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/la-disculpa-del-real-madrid-y-mbappe-a-china-woke-o-necesaria-1029.html</loc><lastmod>2026-10-29</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/la-exluchadora-que-aterrorizo-mexico-juana-barraza-1029.html</loc><lastmod>2026-10-29</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>

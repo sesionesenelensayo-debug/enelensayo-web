@@ -1,5 +1,35 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "Lightyear y el fracaso de la agenda ideológica en Pixar",
+    "artista": "la polémica por Lightyear de Pixar y su taquilla",
+    "intro": "La imposición de contenidos ideológicos en la precuela de Toy Story provocó un estrepitoso rechazo en taquilla y severas pérdidas financieras.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/lightyear-y-el-fracaso-de-la-agenda-ideologica-en-pixar-1110.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/lightyear-y-el-fracaso-de-la-agenda-ideologica-en-pixar-1110.jpg",
+    "fecha": "2026-11-10T13:37:38.913844",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Agenda woke"
+  },
+  {
+    "opinion": false,
+    "tipo": "noticia",
+    "titulo": "KENDALL estrena \"Dopamina\", sencillo promocional de su nuevo EP",
+    "artista": "KENDALL",
+    "intro": "El artista KENDALL ha lanzado \"Dopamina\", el primer sencillo promocional que anuncia su próximo EP.",
+    "telegraph_url": "https://telegra.ph/KENDALL-estrena-Dopamina-sencillo-promocional-de-su-nuevo-EP-11-02",
+    "url": "https://enelensayomedia.com/notas/kendall-estrena-dopamina-sencillo-promocional-de-su-nuevo-ep-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/kendall-estrena-dopamina-sencillo-promocional-de-su-nuevo-ep-1102.jpg",
+    "fecha": "2026-11-10T13:37:29.739268",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Escena local",
+    "fecha_original": "2026-11-02T10:18:00.037276",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Soberano Jr y Bandido chocan de nuevo en la Arena México",
@@ -1066,22 +1096,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Doblaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "KENDALL estrena \"Dopamina\", sencillo promocional de su nuevo EP",
-    "artista": "KENDALL",
-    "intro": "El artista KENDALL ha lanzado \"Dopamina\", el primer sencillo promocional que anuncia su próximo EP.",
-    "telegraph_url": "https://telegra.ph/KENDALL-estrena-Dopamina-sencillo-promocional-de-su-nuevo-EP-11-02",
-    "url": "https://enelensayomedia.com/notas/kendall-estrena-dopamina-sencillo-promocional-de-su-nuevo-ep-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/kendall-estrena-dopamina-sencillo-promocional-de-su-nuevo-ep-1102.jpg",
-    "fecha": "2026-11-09T10:53:48.918558",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Escena local",
-    "fecha_original": "2026-11-02T10:18:00.037276",
-    "actualizada": true
   },
   {
     "opinion": false,
@@ -5799,18 +5813,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Terror y misterio"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "La Dama Blanca: un fantasma urbano en la Colonia Condesa",
-    "artista": "el Fantasma de la Dama Blanca de la Condesa en CDMX",
-    "intro": "Una crónica de apariciones, leyendas y misterios en un icónico barrio de la Ciudad de México.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-dama-blanca-un-fantasma-urbano-en-la-colonia-condesa-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-dama-blanca-un-fantasma-urbano-en-la-colonia-condesa-1030.jpg",
-    "fecha": "2026-10-30T20:50:33.287990",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror"
   }
 ]
