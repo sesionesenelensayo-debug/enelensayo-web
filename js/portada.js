@@ -158,3 +158,6 @@
   }
   cargaConc(); setInterval(cargaConc, 600000);
 })();
+
+/* [.leon 2026-11-10] fecha del día en el banner del periódico (hora CDMX) */
+(function () { try { var e = document.getElementById('perFecha'); if (e) e.textContent = '(' + new Date().toLocaleDateString('es-MX', { timeZone: 'America/Mexico_City', day: 'numeric', month: 'long' }) + ')'; } catch (x) { } })();
