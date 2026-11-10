@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "Las 10 mayores pérdidas de taquilla entre 2025 y 2026",
+    "artista": "las 10 películas que más dinero perdieron (mayores fracasos de taquilla recientes)",
+    "intro": "Ranking basado en la diferencia entre presupuesto y recaudación mundial, según datos de medios especializados y reportes de la industria.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/las-10-mayores-perdidas-de-taquilla-entre-2025-y-2026-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/las-10-mayores-perdidas-de-taquilla-entre-2025-y-2026-1031.jpg",
+    "fecha": "2026-11-10T14:20:10.525384",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-10-31T15:14:16.845601",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Roca Rey y Tana Rivera: Cronología de una ruptura",
@@ -738,21 +753,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Chisme"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Las 10 mayores pérdidas de taquilla entre 2025 y 2026",
-    "artista": "las 10 películas que más dinero perdieron (mayores fracasos de taquilla recientes)",
-    "intro": "Ranking basado en la diferencia entre presupuesto y recaudación mundial, según datos de medios especializados y reportes de la industria.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/las-10-mayores-perdidas-de-taquilla-entre-2025-y-2026-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/las-10-mayores-perdidas-de-taquilla-entre-2025-y-2026-1031.jpg",
-    "fecha": "2026-11-09T14:51:51.150860",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-10-31T15:14:16.845601",
-    "actualizada": true
   },
   {
     "opinion": false,
