@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-09 14:42",
+ "actualizado": "2026-11-09 19:01",
  "eventos": [
   {
    "id": "reo|guadalajara|foro-independencia|2026-11-13",
@@ -7026,6 +7026,70 @@
    "fuente": "Sitio de LooLoo",
    "tipo": "show",
    "fuente_url": "https://wearelooloo.com/"
+  },
+  {
+   "id": "prohibido-suspirar|ciudad-de-mexico||x",
+   "banda": "Prohibido Suspirar",
+   "ciudad": "Ciudad de México",
+   "estado": "CDMX",
+   "lat": 19.4326,
+   "lon": -99.1332,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
+  },
+  {
+   "id": "daniel--me-estas-matando|ciudad-de-mexico|auditorio-nacional|x",
+   "banda": "Daniel, me estás matando",
+   "ciudad": "Ciudad de México",
+   "estado": "CDMX",
+   "lat": 19.4326,
+   "lon": -99.1332,
+   "recinto": "Auditorio Nacional",
+   "fecha": "",
+   "hora": "20:30",
+   "boletos": "https://www.ticketmaster.com.mx/daniel-me-estas-matando-donde-jugara-ciudad-de-mexico-20-11-2025/event/3D00626DCD0A3C7E",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
+  },
+  {
+   "id": "daniel--me-estas-matando|ciudad-de-mexico||x",
+   "banda": "Daniel, me estás matando",
+   "ciudad": "Ciudad de México",
+   "estado": "CDMX",
+   "lat": 19.4326,
+   "lon": -99.1332,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
+  },
+  {
+   "id": "suburbia-punk|ciudad-de-mexico||x",
+   "banda": "Suburbia Punk",
+   "ciudad": "Ciudad de México",
+   "estado": "CDMX",
+   "lat": 19.4326,
+   "lon": -99.1332,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
   }
  ]
 }
