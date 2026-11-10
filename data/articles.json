@@ -2,6 +2,20 @@
   {
     "opinion": true,
     "tipo": "reportaje",
+    "titulo": "El fracaso corporativo de DC bajo Gunn y Safran frente al brillo de Snyder y Marvel",
+    "artista": "James Gunn",
+    "intro": "James Gunn y Peter Safran abandonan la cúpula de DC Studios el 1 de diciembre, tras cuatro años de promesas rotas y números desastrosos.",
+    "telegraph_url": "https://telegra.ph/El-fracaso-corporativo-de-DC-bajo-Gunn-y-Safran-frente-al-brillo-de-Snyder-y-Marvel-11-10",
+    "url": "https://enelensayomedia.com/notas/el-fracaso-corporativo-de-dc-bajo-gunn-y-safran-frente-al-brillo-de-sn-1110.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-fracaso-corporativo-de-dc-bajo-gunn-y-safran-frente-al-brillo-de-sn-1110.jpg",
+    "fecha": "2026-11-10T00:07:31.624574",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
+    "opinion": true,
+    "tipo": "reportaje",
     "titulo": "Ana Bolena: la reescritura histórica y el casting que ignora el canon",
     "artista": "Ana Bolena",
     "intro": "La figura de Ana Bolena, reina consorte de Inglaterra y madre de Isabel I, ha sido objeto de una reescritura contemporánea que choca frontalmente con la fidelidad histórica.",
@@ -5784,18 +5798,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece la compositora Marisa Manchado en el accidente de Toledo",
-    "artista": "Marisa Manchado",
-    "intro": "Marisa Manchado, compositora española y ganadora del Premio Nacional de Música 2024, falleció a los 70 años. Su muerte fue confirmada el 30 de octubre de 2026 tras el accidente ferroviario ocurrido el",
-    "telegraph_url": "https://telegra.ph/Fallece-la-compositora-Marisa-Manchado-en-el-accidente-de-Toledo-10-31",
-    "url": "https://enelensayomedia.com/notas/fallece-la-compositora-marisa-manchado-en-el-accidente-de-toledo-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-la-compositora-marisa-manchado-en-el-accidente-de-toledo-1030.jpg",
-    "fecha": "2026-10-30T20:23:49.459329",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
