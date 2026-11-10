@@ -1,33 +1,17 @@
 [
   {
+    "opinion": false,
     "tipo": "reportaje",
-    "titulo": "Karol G, Maluma y Justin Bieber aparecen con sus mejores disfraces de Halloween",
-    "artista": "Karol G",
-    "intro": "En la noche de Halloween, los artistas Karol G, Maluma y Justin Bieber fueron observados luciendo sus mejores disfraces, según reportes de varios medios.",
-    "telegraph_url": "https://telegra.ph/Karol-G-Maluma-y-Justin-Bieber-aparecen-con-sus-mejores-disfraces-de-Halloween-11-02",
-    "url": "https://enelensayomedia.com/notas/karol-g-maluma-y-justin-bieber-aparecen-con-sus-mejores-disfraces-de-h-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/karol-g-maluma-y-justin-bieber-aparecen-con-sus-mejores-disfraces-de-h-1102.jpg",
-    "fecha": "2026-11-10T11:59:22.095833",
+    "titulo": "Fede Vigevani inaugura la cafetería Cremoso en la Ciudad de México",
+    "artista": "Fede Vigevani",
+    "intro": "El creador de contenido y músico uruguayo Fede Vigevani abrió recientemente su primer negocio gastronómico en la capital mexicana: la cafetería Cremoso.",
+    "telegraph_url": "https://telegra.ph/Fede-Vigevani-inaugura-la-cafetería-Cremoso-en-la-Ciudad-de-México-11-10",
+    "url": "https://enelensayomedia.com/notas/fede-vigevani-inaugura-la-cafeteria-cremoso-en-la-ciudad-de-mexico-1110.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fede-vigevani-inaugura-la-cafeteria-cremoso-en-la-ciudad-de-mexico-1110.jpg",
+    "fecha": "2026-11-10T11:51:49.630004",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-02T07:55:12.487794",
-    "actualizada": true
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Gloria Trevi anuncia concierto en Auditorio Nacional el 24 de octubre de 2026",
-    "artista": "Gloria Trevi",
-    "intro": "La cantante, catalogada como \"Reina del Pop Mexicano\", iniciará su \"Celebration Tour\" en la capital con dos funciones en octubre y noviembre.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/gloria-trevi-anuncia-concierto-en-auditorio-nacional-el-24-de-octubre-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/gloria-trevi-anuncia-concierto-en-auditorio-nacional-el-24-de-octubre-1031.jpg",
-    "fecha": "2026-11-10T11:55:06.384041",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-10-31T12:03:13.773165",
-    "actualizada": true
+    "categoria": "Chisme"
   },
   {
     "opinion": false,
@@ -1081,6 +1065,21 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme internacional"
+  },
+  {
+    "tipo": "noticia",
+    "titulo": "Gloria Trevi anuncia concierto en Auditorio Nacional el 24 de octubre de 2026",
+    "artista": "Gloria Trevi",
+    "intro": "La cantante, catalogada como \"Reina del Pop Mexicano\", iniciará su \"Celebration Tour\" en la capital con dos funciones en octubre y noviembre.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/gloria-trevi-anuncia-concierto-en-auditorio-nacional-el-24-de-octubre-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/gloria-trevi-anuncia-concierto-en-auditorio-nacional-el-24-de-octubre-1031.jpg",
+    "fecha": "2026-11-09T09:04:44.526827",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-10-31T12:03:13.773165",
+    "actualizada": true
   },
   {
     "tipo": "reportaje",
@@ -3145,6 +3144,21 @@
   },
   {
     "tipo": "reportaje",
+    "titulo": "Karol G, Maluma y Justin Bieber aparecen con sus mejores disfraces de Halloween",
+    "artista": "Karol G",
+    "intro": "En la noche de Halloween, los artistas Karol G, Maluma y Justin Bieber fueron observados luciendo sus mejores disfraces, según reportes de varios medios.",
+    "telegraph_url": "https://telegra.ph/Karol-G-Maluma-y-Justin-Bieber-aparecen-con-sus-mejores-disfraces-de-Halloween-11-02",
+    "url": "https://enelensayomedia.com/notas/karol-g-maluma-y-justin-bieber-aparecen-con-sus-mejores-disfraces-de-h-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/karol-g-maluma-y-justin-bieber-aparecen-con-sus-mejores-disfraces-de-h-1102.jpg",
+    "fecha": "2026-11-04T21:31:08.382591",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-02T07:55:12.487794",
+    "actualizada": true
+  },
+  {
+    "tipo": "reportaje",
     "titulo": "Polémica en redes por la expansión global de altares de Día de Muertos",
     "artista": "Apropiación cultural del Día de Muertos",
     "intro": "El debate cultural sobre la apropiación internacional de los altares desata posturas divididas en internet y comunidades indígenas de México.",
@@ -3552,22 +3566,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Vivienne Jolie oficializa la solicitud para eliminar el apellido Pitt",
-    "artista": "Vivienne",
-    "intro": "Vivienne, la hija de Angelina Jolie y Brad Pitt, presentó una solicitud legal ante la Corte Superior del Condado de Los Ángeles para eliminar el apellido 'Pitt' de su nombre.",
-    "telegraph_url": "https://telegra.ph/Vivienne-Jolie-oficializa-la-solicitud-para-eliminar-el-apellido-Pitt-11-04",
-    "url": "https://enelensayomedia.com/notas/vivienne-jolie-oficializa-la-solicitud-para-eliminar-el-apellido-pitt-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/vivienne-jolie-oficializa-la-solicitud-para-eliminar-el-apellido-pitt-1104.jpg",
-    "fecha": "2026-11-04T11:58:40.493776",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-04T07:35:00.475224",
-    "actualizada": true
   },
   {
     "opinion": false,
