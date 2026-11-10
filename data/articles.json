@@ -1,6 +1,23 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Harry Styles impulsa ingresos de Madison Square Garden en 37 %",
+    "artista": "Harry Styles",
+    "intro": "Harry Styles ha generado un aumento del 37 % en los ingresos de Madison Square Garden, según reportes.",
+    "telegraph_url": "https://telegra.ph/Harry-Styles-impulsa-ingresos-de-Madison-Square-Garden-en-37-11-04",
+    "url": "https://enelensayomedia.com/notas/harry-styles-impulsa-ingresos-de-madison-square-garden-en-37-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/harry-styles-impulsa-ingresos-de-madison-square-garden-en-37-1104.jpg",
+    "fecha": "2026-11-09T21:03:58.159088",
+    "author": "Oliver Ken",
+    "views": 0,
+    "nota_dia": true,
+    "categoria": "Internacional",
+    "fecha_original": "2026-11-04T14:02:05.901663",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Rayados de Monterrey ficha a Pedro Quintero para el Apertura 2026",
     "artista": "Rayados de Monterrey",
@@ -3122,23 +3139,6 @@
     "views": 0,
     "categoria": "Videojuegos",
     "fecha_original": "2026-10-31T09:33:41.980255",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Harry Styles impulsa ingresos de Madison Square Garden en 37 %",
-    "artista": "Harry Styles",
-    "intro": "Harry Styles ha generado un aumento del 37 % en los ingresos de Madison Square Garden, según reportes.",
-    "telegraph_url": "https://telegra.ph/Harry-Styles-impulsa-ingresos-de-Madison-Square-Garden-en-37-11-04",
-    "url": "https://enelensayomedia.com/notas/harry-styles-impulsa-ingresos-de-madison-square-garden-en-37-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/harry-styles-impulsa-ingresos-de-madison-square-garden-en-37-1104.jpg",
-    "fecha": "2026-11-04T18:11:34.627412",
-    "author": "Oliver Ken",
-    "views": 0,
-    "nota_dia": true,
-    "categoria": "Internacional",
-    "fecha_original": "2026-11-04T14:02:05.901663",
     "actualizada": true
   },
   {
