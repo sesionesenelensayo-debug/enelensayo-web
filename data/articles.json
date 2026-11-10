@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Festival Internacional del Globo 2026 revela su canción oficial",
+    "artista": "Festival Internacional del Globo",
+    "intro": "El Festival Internacional del Globo 2026 cuenta con una canción oficial, según informó El Sol de México. El medio confirmó la existencia de la pieza musical que acompañará a la edición 2026 del evento",
+    "telegraph_url": "https://telegra.ph/Festival-Internacional-del-Globo-2026-revela-su-canción-oficial-10-31",
+    "url": "https://enelensayomedia.com/notas/festival-internacional-del-globo-2026-revela-su-cancion-oficial-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/festival-internacional-del-globo-2026-revela-su-cancion-oficial-1031.jpg",
+    "fecha": "2026-11-10T07:11:47.332926",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura",
+    "fecha_original": "2026-10-31T14:04:47.188642",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "noticia",
     "titulo": "Warhammer 40,000: Dark Heresy llegará en enero de 2027",
@@ -212,21 +227,6 @@
     "views": 0,
     "categoria": "Streaming",
     "fecha_original": "2026-11-08T15:55:25.965485",
-    "actualizada": true
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Festival Internacional del Globo 2026 revela su canción oficial",
-    "artista": "Festival Internacional del Globo",
-    "intro": "El Festival Internacional del Globo 2026 cuenta con una canción oficial, según informó El Sol de México. El medio confirmó la existencia de la pieza musical que acompañará a la edición 2026 del evento",
-    "telegraph_url": "https://telegra.ph/Festival-Internacional-del-Globo-2026-revela-su-canción-oficial-10-31",
-    "url": "https://enelensayomedia.com/notas/festival-internacional-del-globo-2026-revela-su-cancion-oficial-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/festival-internacional-del-globo-2026-revela-su-cancion-oficial-1031.jpg",
-    "fecha": "2026-11-09T20:45:35.233004",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura",
-    "fecha_original": "2026-10-31T14:04:47.188642",
     "actualizada": true
   },
   {
