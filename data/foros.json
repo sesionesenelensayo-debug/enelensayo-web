@@ -391,6 +391,7 @@
    "lat": 19.424167,
    "lon": -99.1673007,
    "genero": "Foro con música en vivo",
+   "url": "https://wearelooloo.com/",
    "auto": true
   },
   {
@@ -400,6 +401,16 @@
    "zona": "",
    "lat": 19.3552493,
    "lon": -99.1424578,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "Jardín Juárez",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "",
+   "lat": 19.2639808,
+   "lon": -99.1039468,
    "genero": "Foro con música en vivo",
    "auto": true
   },
