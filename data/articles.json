@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Primeras reacciones destacan el trabajo de Johnny Depp en 'Ebenizer'",
+    "artista": "Johnny Depp",
+    "intro": "Las primeras reacciones a la película 'Ebenizer' señalan que Johnny Depp ofrece una compleja interpretación del personaje de Scrooge.",
+    "telegraph_url": "https://telegra.ph/Primeras-reacciones-destacan-el-trabajo-de-Johnny-Depp-en-Ebenizer-11-10",
+    "url": "https://enelensayomedia.com/notas/primeras-reacciones-destacan-el-trabajo-de-johnny-depp-en-ebenizer-1110.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/primeras-reacciones-destacan-el-trabajo-de-johnny-depp-en-ebenizer-1110.jpg",
+    "fecha": "2026-11-10T13:59:38.950369",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "Lightyear y el fracaso de la agenda ideológica en Pixar",
@@ -5065,19 +5079,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme internacional"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Stephen King vaticina futuro clásico para filme fallido",
-    "artista": "Stephen King",
-    "intro": "El aclamado escritor Stephen King ha hecho una predicción sobre el futuro cinematográfico de una producción protagonizada por Margot Robbie que no logró destacar en su paso por las salas de cine.",
-    "telegraph_url": "https://telegra.ph/Stephen-King-vaticina-futuro-clásico-para-filme-fallido-11-01",
-    "url": "https://enelensayomedia.com/notas/stephen-king-vaticina-futuro-clasico-para-filme-fallido-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/stephen-king-vaticina-futuro-clasico-para-filme-fallido-1101.jpg",
-    "fecha": "2026-11-01T15:44:43.112306",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   },
   {
     "tipo": "reportaje",
