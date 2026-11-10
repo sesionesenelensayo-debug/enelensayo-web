@@ -248,3 +248,13 @@ img,iframe{max-width:100%}
   body:has(.nav-mobile.open) #eem-robot{display:none!important}
 }
 .conc-lista{max-height:1100px;overflow-y:auto;scrollbar-width:thin}
+
+/* [.leon 2026-11-10] Banner doble de la portada: canal de Telegram + El Periódico diario (sin contador de miembros) */
+.banner-dual{display:grid;grid-template-columns:1fr 1fr;gap:10px;max-width:var(--max-w);margin:12px auto 0}
+.banner-dual a{display:flex;align-items:center;gap:10px;padding:12px 16px;color:#fff;font-size:14px;line-height:1.35;text-decoration:none;border-radius:14px;font-weight:500}
+.banner-dual a b{color:var(--yellow);font-weight:800}.banner-dual a:hover{filter:brightness(1.12)}
+.banner-dual .bd-tg{background:linear-gradient(90deg,#229ED9,var(--indigo))}
+.banner-dual .bd-per{background:linear-gradient(90deg,var(--indigo),#8e24aa)}
+.banner-dual .bd-ic{font-size:24px;flex:none}
+@media(max-width:1280px){.banner-dual{margin-left:16px;margin-right:16px}}
+@media(max-width:700px){.banner-dual{grid-template-columns:1fr;margin:10px 12px 0;gap:8px}.banner-dual a{padding:11px 14px;font-size:13px}}
