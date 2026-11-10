@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10T08:24",
+ "actualizado": "2026-11-10T14:31",
  "peores": [
   {
    "titulo": "Code Violet",
@@ -164,6 +164,17 @@
    "genero": "Sports management",
    "desarrolla": "Sports Interactive",
    "publica": "Sega, Netflix"
+  },
+  {
+   "titulo": "Takeover 2",
+   "fecha": "2026-11-10",
+   "fecha_txt": "10 de noviembre",
+   "plataformas": [
+    "PC"
+   ],
+   "genero": "Brawler",
+   "desarrolla": "Pelikan13",
+   "publica": ""
   },
   {
    "titulo": "Tanuki: Pon's Summer",
@@ -445,17 +456,6 @@
    "genero": "FPS, Soulslike",
    "desarrolla": "Eschatology Entertainment",
    "publica": "4Divinity"
-  },
-  {
-   "titulo": "A-Train 9 Prime Line",
-   "fecha": "2026-12-09",
-   "fecha_txt": "9 de diciembre",
-   "plataformas": [
-    "PC"
-   ],
-   "genero": "Simulation",
-   "desarrolla": "Artdink",
-   "publica": "Artdink, Komodo"
   }
  ]
 }
