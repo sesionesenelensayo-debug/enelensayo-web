@@ -1,6 +1,22 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Daniela Spalla anuncia concierto en el Teatro Metropólitan de la CDMX el 19 de febrero de 2027",
+    "artista": "Daniela Spalla",
+    "intro": "La cantante argentina presentará su nuevo álbum en un show que marcará el inicio de su gira internacional.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/daniela-spalla-anuncia-concierto-en-el-teatro-metropolitan-de-la-cdmx-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/daniela-spalla-anuncia-concierto-en-el-teatro-metropolitan-de-la-cdmx-1102.jpg",
+    "fecha": "2026-11-10T11:01:17.009503",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-11-02T12:09:40.229809",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Faker critica la preparación de Bilibili Gaming tras eliminación en Worlds 2026",
     "artista": "Faker",
@@ -2757,22 +2773,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Cine"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Daniela Spalla anuncia concierto en el Teatro Metropólitan de la CDMX el 19 de febrero de 2027",
-    "artista": "Daniela Spalla",
-    "intro": "La cantante argentina presentará su nuevo álbum en un show que marcará el inicio de su gira internacional.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/daniela-spalla-anuncia-concierto-en-el-teatro-metropolitan-de-la-cdmx-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/daniela-spalla-anuncia-concierto-en-el-teatro-metropolitan-de-la-cdmx-1102.jpg",
-    "fecha": "2026-11-05T19:54:06.577054",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-02T12:09:40.229809",
-    "actualizada": true
   },
   {
     "opinion": false,
