@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-09 14:42",
+ "actualizado": "2026-11-09 23:30",
  "campeones": {
   "WWE": [
    {
@@ -416,6 +416,20 @@
    "credito_url": "https://cmll.com/cartelera/"
   },
   {
+   "nombre": "Los Claxons",
+   "promocion": "Otras",
+   "fecha": "2026-11-14",
+   "lugar": "Arena Monterrey",
+   "ciudad": "Monterrey",
+   "precio": "desde $440",
+   "campeonatos": [],
+   "fuente": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026",
+   "precio_fuente": "https://conciertosenmonterrey.com/cartelera/los-claxons-arena-monterrey-2026",
+   "img": "img/luchas/o-otras-los-claxons.jpg",
+   "credito": "Imagen: Otras · conciertosenmonterrey.com (sitio oficial)",
+   "credito_url": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026"
+  },
+  {
    "nombre": "FUNCIÓN ESPECIAL LUCHA KINGDOM",
    "promocion": "CMLL",
    "fecha": "2026-11-16",
@@ -429,99 +443,120 @@
    "credito_url": "https://cmll.com/cartelera/"
   },
   {
-   "nombre": "Survivor Series: WarGames",
+   "nombre": "Beéle",
+   "promocion": "Otras",
+   "fecha": "2026-11-17",
+   "lugar": "Arena Monterrey",
+   "ciudad": "Monterrey",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026",
+   "img": "img/luchas/o-otras-beele.jpg",
+   "credito": "Imagen: Otras · conciertosenmonterrey.com (sitio oficial)",
+   "credito_url": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026"
+  },
+  {
+   "nombre": "Ricardo Montaner",
+   "promocion": "Otras",
+   "fecha": "2026-11-18",
+   "lugar": "Arena Monterrey",
+   "ciudad": "Monterrey",
+   "precio": "desde $628",
+   "campeonatos": [],
+   "fuente": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026",
+   "precio_fuente": "https://stagemonterrey.mx/ricardo-montaner-monterrey-2026-arena-monterrey/",
+   "img": "img/luchas/o-otras-ricardo-montaner.jpg",
+   "credito": "Imagen: Otras · conciertosenmonterrey.com (sitio oficial)",
+   "credito_url": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026"
+  },
+  {
+   "nombre": "Survivor Series: WarGames 2026",
    "promocion": "WWE",
    "fecha": "2026-11-28",
    "lugar": "Daikin Park",
-   "ciudad": "Houston, TX, US",
+   "ciudad": "Houston, TX",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.wweschedule.com/wwe-ple-schedule",
-   "img": "img/luchas/o-wwe-survivor-series-wargames.jpg",
-   "credito": "Imagen: WWE · sportsbrackets.net (sitio oficial)",
-   "credito_url": "https://sportsbrackets.net/2026/07/29/2026-wwe-ppv-schedule/"
+   "fuente": "https://wrestleseek.com/upcoming-ples/",
+   "img": "img/luchas/o-wwe-survivor-series-wargames-2026.jpg",
+   "credito": "Imagen: WWE · wrestleseek.com (sitio oficial)",
+   "credito_url": "https://wrestleseek.com/upcoming-ples/"
   },
   {
-   "nombre": "NXT Deadline",
-   "promocion": "WWE",
+   "nombre": "Últimas noches de 2026",
+   "promocion": "CMLL",
    "fecha": "2026-12-01",
-   "lugar": "TBA",
-   "ciudad": "TBA",
+   "lugar": "Arena México",
+   "ciudad": "Ciudad de México",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://khelnow.com/wwe/all-wwe-ples-date-venue-202601",
-   "img": "img/luchas/o-wwe-nxt-deadline.jpg",
-   "credito": "Imagen: WWE · khelnow.com (sitio oficial)",
-   "credito_url": "https://khelnow.com/wwe/all-wwe-ples-date-venue-202601"
+   "fuente": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/",
+   "img": "img/luchas/o-cmll-ultimas-noches-de-2026.jpg",
+   "credito": "Imagen: CMLL · luchamexicoexperience.com (sitio oficial)",
+   "credito_url": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/"
   },
   {
-   "nombre": "Saturday Night’s Main Event (Additional Editions)",
-   "promocion": "WWE",
-   "fecha": "2026-12-01",
-   "lugar": "Riyadh, Saudi Arabia",
-   "ciudad": "Riyadh",
+   "nombre": "Últimas noches de 2026",
+   "promocion": "CMLL",
+   "fecha": "2026-12-06",
+   "lugar": "Arena México",
+   "ciudad": "Ciudad de México",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://khelnow.com/wwe/all-wwe-ples-date-venue-202601",
-   "img": "img/luchas/o-wwe-saturday-nights-main-event-additional-editions.jpg",
-   "credito": "Imagen: WWE · khelnow.com (sitio oficial)",
-   "credito_url": "https://khelnow.com/wwe/all-wwe-ples-date-venue-202601"
+   "fuente": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/",
+   "img": "img/luchas/o-cmll-ultimas-noches-de-2026.jpg",
+   "credito": "Imagen: CMLL · luchamexicoexperience.com (sitio oficial)",
+   "credito_url": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/"
   },
   {
-   "nombre": "Wrestlepalooza",
+   "nombre": "AEW Dynamite & Collision",
+   "promocion": "AEW",
+   "fecha": "2026-12-09",
+   "lugar": "Arena Monterrey",
+   "ciudad": "Monterrey",
+   "precio": "Desde $502 pesos",
+   "campeonatos": [],
+   "fuente": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026",
+   "img": "img/luchas/o-aew-aew-dynamite-collision.jpg",
+   "credito": "Imagen: AEW · conciertosenmonterrey.com (sitio oficial)",
+   "credito_url": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026"
+  },
+  {
+   "nombre": "Wrestlepalooza: Perth",
    "promocion": "WWE",
    "fecha": "2026-12-12",
    "lugar": "RAC Arena",
    "ciudad": "Perth, Australia",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://khelnow.com/wwe/all-wwe-ples-date-venue-202601",
-   "img": "img/luchas/w-wrestlepalooza.jpg",
-   "credito": "Foto: Johnmaxmena2 · CC BY-SA 3.0 · Wikimedia Commons",
-   "credito_url": "https://commons.wikimedia.org/wiki/File:Familyarenastcharlesmo.jpg"
+   "fuente": "https://wrestleseek.com/upcoming-ples/"
   },
   {
-   "nombre": "NXT TLC",
-   "promocion": "WWE",
-   "fecha": "2026-12-12",
-   "lugar": "WWE Performance Center",
-   "ciudad": "Orlando, Florida",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://khelnow.com/wwe/all-wwe-ples-date-venue-202601",
-   "img": "img/luchas/o-wwe-nxt-tlc.jpg",
-   "credito": "Imagen: WWE · khelnow.com (sitio oficial)",
-   "credito_url": "https://khelnow.com/wwe/all-wwe-ples-date-venue-202601"
-  },
-  {
-   "nombre": "John Cena Classic",
-   "promocion": "WWE",
-   "fecha": "2026-12-14",
-   "lugar": "ESPN Wide World of Sports",
-   "ciudad": "Orlando, FL, US",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.wweschedule.com/wwe-ple-schedule"
-  },
-  {
-   "nombre": "Worlds Collide: Doomsday",
-   "promocion": "WWE",
-   "fecha": "2026-12-15",
-   "lugar": "ESPN Wide World of Sports",
-   "ciudad": "Orlando, FL, US",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.wweschedule.com/wwe-ple-schedule"
-  },
-  {
-   "nombre": "Guerra De Titanes",
-   "promocion": "WWE",
+   "nombre": "AEW: Worlds End",
+   "promocion": "AEW",
    "fecha": "2026-12-19",
-   "lugar": "Arena Guadalajara",
-   "ciudad": "Guadalajara, JAL",
+   "lugar": "Target Center",
+   "ciudad": "Minneapolis, MN",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.wweschedule.com/wwe-ple-schedule"
+   "fuente": "https://www.allelitewrestling.com/aew-event/aew-worlds-end-2026",
+   "img": "img/luchas/o-aew-aew-worlds-end.jpg",
+   "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
+   "credito_url": "https://www.allelitewrestling.com/aew-event/aew-worlds-end-2026"
+  },
+  {
+   "nombre": "Hot Wheels Monster Trucks Live",
+   "promocion": "Otras",
+   "fecha": "2027-07-03",
+   "lugar": "Arena Monterrey",
+   "ciudad": "Monterrey",
+   "precio": "desde $516",
+   "campeonatos": [],
+   "fuente": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026",
+   "precio_fuente": "https://conciertosenmonterrey.com/cartelera/hot-wheels-monster-trucks-arena-monterrey-2027",
+   "img": "img/luchas/o-otras-hot-wheels-monster-trucks-live.jpg",
+   "credito": "Imagen: Otras · conciertosenmonterrey.com (sitio oficial)",
+   "credito_url": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026"
   }
  ],
  "fuentes": "Campeones: Wikipedia. Funciones: páginas oficiales y de boletos citadas en cada tarjeta. Fotos: Wikimedia Commons (licencias libres) y sitios oficiales, con crédito en cada imagen."
