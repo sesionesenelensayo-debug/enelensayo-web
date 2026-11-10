@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Lasso revela cinco canciones esenciales de su nuevo álbum “Objetos Frágiles en Ambientes Hostiles”",
+    "artista": "Lasso",
+    "intro": "El cantante Lasso explicó en una entrevista para HOLA USA, publicada el 5 de noviembre de 2026, las cinco canciones que considera esenciales dentro de su sexto álbum de estudio…",
+    "telegraph_url": "https://telegra.ph/Lasso-revela-cinco-canciones-esenciales-de-su-nuevo-álbum-Objetos-Frágiles-en-Ambientes-Hostiles-11-10",
+    "url": "https://enelensayomedia.com/notas/lasso-revela-cinco-canciones-esenciales-de-su-nuevo-album-objetos-frag-1110.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/lasso-revela-cinco-canciones-esenciales-de-su-nuevo-album-objetos-frag-1110.jpg",
+    "fecha": "2026-11-10T08:10:18.816125",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "El Charro Negro lidera la taquilla mexicana con 52.6 millones",
     "artista": "El Charro Negro",
@@ -4358,20 +4372,6 @@
     "views": 0,
     "nota_dia": true,
     "categoria": "Reportaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Tito Double P acompaña a Saúl Canelo Álvarez en el ring",
-    "artista": "Tito Double P",
-    "intro": "¿Qué canciones interpretó Tito Double P durante la entrada del boxeador mexicano Saúl 'Canelo' Álvarez para enfrentar a Christian Mbilli?",
-    "telegraph_url": "https://telegra.ph/Tito-Double-P-acompaña-a-Saúl-Canelo-Álvarez-en-el-ring-11-02",
-    "url": "https://enelensayomedia.com/notas/tito-double-p-acompana-a-saul-canelo-alvarez-en-el-ring-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/tito-double-p-acompana-a-saul-canelo-alvarez-en-el-ring-1102.jpg",
-    "fecha": "2026-11-02T11:59:47.256513",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   },
   {
     "opinion": false,
