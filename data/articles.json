@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Faker critica la preparación de Bilibili Gaming tras eliminación en Worlds 2026",
+    "artista": "Faker",
+    "intro": "El legendario mid laner Faker admitió que Bilibili Gaming estuvo mejor preparado tras la eliminación de su equipo en el Campeonato Mundial de 2026.",
+    "telegraph_url": "https://telegra.ph/Faker-critica-la-preparación-de-Bilibili-Gaming-tras-eliminación-en-Worlds-2026-11-09",
+    "url": "https://enelensayomedia.com/notas/faker-critica-la-preparacion-de-bilibili-gaming-tras-eliminacion-en-wo-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/faker-critica-la-preparacion-de-bilibili-gaming-tras-eliminacion-en-wo-1109.jpg",
+    "fecha": "2026-11-10T10:37:55.738677",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos",
+    "fecha_original": "2026-11-09T07:26:33.842949",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Tommaso Ciampa conquista el Campeonato Nacional de AEW",
     "artista": "Tommaso Ciampa",
     "intro": "Tommaso Ciampa conquistó el Campeonato Nacional de AEW tras vencer a Andrade El Ídolo en la lucha estelar de AEW Collision, transmitida desde el crucero de Chris Jericho.",
@@ -11,7 +27,7 @@
     "fecha": "2026-11-10T10:29:13.528244",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Reportaje"
+    "categoria": "Luchas"
   },
   {
     "opinion": false,
@@ -300,22 +316,6 @@
     "views": 0,
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-09T12:12:15.368641",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Faker critica la preparación de Bilibili Gaming tras eliminación en Worlds 2026",
-    "artista": "Faker",
-    "intro": "El legendario mid laner Faker admitió que Bilibili Gaming estuvo mejor preparado tras la eliminación de su equipo en el Campeonato Mundial de 2026.",
-    "telegraph_url": "https://telegra.ph/Faker-critica-la-preparación-de-Bilibili-Gaming-tras-eliminación-en-Worlds-2026-11-09",
-    "url": "https://enelensayomedia.com/notas/faker-critica-la-preparacion-de-bilibili-gaming-tras-eliminacion-en-wo-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/faker-critica-la-preparacion-de-bilibili-gaming-tras-eliminacion-en-wo-1109.jpg",
-    "fecha": "2026-11-09T21:17:09.690700",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-11-09T07:26:33.842949",
     "actualizada": true
   },
   {
