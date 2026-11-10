@@ -1,5 +1,21 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Rayados de Monterrey ficha a Pedro Quintero para el Apertura 2026",
+    "artista": "Rayados de Monterrey",
+    "intro": "¡Pura buena vibra para el gaming y las canchas! Rayados de Monterrey hizo oficial el fichaje de Pedro Orlando Quintero Carmona…",
+    "telegraph_url": "https://telegra.ph/Rayados-de-Monterrey-ficha-a-Pedro-Quintero-para-el-Apertura-2026-11-08",
+    "url": "https://enelensayomedia.com/notas/rayados-de-monterrey-ficha-a-pedro-quintero-para-el-apertura-2026-1108.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/rayados-de-monterrey-ficha-a-pedro-quintero-para-el-apertura-2026-1108.jpg",
+    "fecha": "2026-11-09T20:57:22.126101",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Streaming",
+    "fecha_original": "2026-11-08T15:55:25.965485",
+    "actualizada": true
+  },
+  {
     "tipo": "noticia",
     "titulo": "Festival Internacional del Globo 2026 revela su canción oficial",
     "artista": "Festival Internacional del Globo",
@@ -1031,20 +1047,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Rayados de Monterrey ficha a Pedro Quintero para el Apertura 2026",
-    "artista": "Rayados de Monterrey",
-    "intro": "¡Pura buena vibra para el gaming y las canchas! Rayados de Monterrey hizo oficial el fichaje de Pedro Orlando Quintero Carmona…",
-    "telegraph_url": "https://telegra.ph/Rayados-de-Monterrey-ficha-a-Pedro-Quintero-para-el-Apertura-2026-11-08",
-    "url": "https://enelensayomedia.com/notas/rayados-de-monterrey-ficha-a-pedro-quintero-para-el-apertura-2026-1108.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/rayados-de-monterrey-ficha-a-pedro-quintero-para-el-apertura-2026-1108.jpg",
-    "fecha": "2026-11-08T15:55:25.965485",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Streaming"
   },
   {
     "opinion": false,
