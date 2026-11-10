@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Roca Rey y Tana Rivera: Cronología de una ruptura",
+    "artista": "Andrés Roca Rey",
+    "intro": "Tras reportes sobre su separación sentimental, la relación entre el torero peruano Andrés Roca Rey y Tana Rivera ha acaparado la atención mediática.",
+    "telegraph_url": "https://telegra.ph/Roca-Rey-y-Tana-Rivera-Cronología-de-una-ruptura-11-10",
+    "url": "https://enelensayomedia.com/notas/roca-rey-y-tana-rivera-cronologia-de-una-ruptura-1110.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/roca-rey-y-tana-rivera-cronologia-de-una-ruptura-1110.jpg",
+    "fecha": "2026-11-10T14:15:05.037239",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Primeras reacciones destacan el trabajo de Johnny Depp en 'Ebenizer'",
     "artista": "Johnny Depp",
     "intro": "Las primeras reacciones a la película 'Ebenizer' señalan que Johnny Depp ofrece una compleja interpretación del personaje de Scrooge.",
@@ -5801,18 +5815,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El Nahual: Brujo que se transforma en bestia y controla la muerte",
-    "artista": "Los nahuales: los brujos que se transforman en animales",
-    "intro": "El concepto del nahual, arraigado en las cosmovisiones mesoamericanas, se refiere a una figura con capacidad de transformación, asociada a lo oculto y lo divino. Documentado desde la época prehispánic",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-nahual-brujo-que-se-transforma-en-bestia-y-controla-la-muerte-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-nahual-brujo-que-se-transforma-en-bestia-y-controla-la-muerte-1030.jpg",
-    "fecha": "2026-10-30T22:13:02.002816",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Terror y misterio"
   }
 ]
