@@ -1,4 +1,40 @@
 {
+ "Chisme": {
+  "shorts": [
+   {
+    "id": "xbVpUvMj1gY",
+    "titulo": "Olivia Rodrigo lanza su primera canción navideña original, \"Take Me Home (4 Christmas)\"",
+    "fecha": "2026-11-10",
+    "nota": "https://enelensayomedia.com/notas/olivia-rodrigo-lanza-su-primera-cancion-navidena-original-take-me-home-1107.html"
+   },
+   {
+    "id": "48dTiX8W-ZY",
+    "titulo": "Kimberly Irene enfrenta luto y complicaciones financieras",
+    "fecha": "2026-11-09",
+    "nota": "https://enelensayomedia.com/notas/kimberly-irene-enfrenta-luto-y-complicaciones-financieras-1109.html"
+   },
+   {
+    "id": "6wivIUQ6Sv8",
+    "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
+    "fecha": "2026-11-09",
+    "nota": "https://enelensayomedia.com/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.html"
+   },
+   {
+    "id": "P6ueUCN25xI",
+    "titulo": "Fallece la actriz y comediante mexicana María Alicia Delgado a los 77 años",
+    "fecha": "2026-11-08",
+    "nota": "https://enelensayomedia.com/notas/fallece-la-actriz-y-comediante-mexicana-maria-alicia-delgado-a-los-77-1104.html"
+   }
+  ],
+  "longs": [
+   {
+    "id": "pRIXeZ6p9q8",
+    "titulo": "El escándalo de Las Lavanderas: verdad, traición y disputas",
+    "fecha": "2026-11-10",
+    "nota": "https://enelensayomedia.com/notas/el-escandalo-de-las-lavanderas-verdad-traicion-y-disputas-1110.html"
+   }
+  ]
+ },
  "Biografía": {
   "shorts": [
    {
@@ -207,35 +243,6 @@
     "nota": "https://enelensayomedia.com/notas/la-historia-detras-de-jorge-negrete-el-charro-cantor-1106.html"
    }
   ]
- },
- "Chisme": {
-  "shorts": [
-   {
-    "id": "xbVpUvMj1gY",
-    "titulo": "Olivia Rodrigo lanza su primera canción navideña original, \"Take Me Home (4 Christmas)\"",
-    "fecha": "2026-11-10",
-    "nota": "https://enelensayomedia.com/notas/olivia-rodrigo-lanza-su-primera-cancion-navidena-original-take-me-home-1107.html"
-   },
-   {
-    "id": "48dTiX8W-ZY",
-    "titulo": "Kimberly Irene enfrenta luto y complicaciones financieras",
-    "fecha": "2026-11-09",
-    "nota": "https://enelensayomedia.com/notas/kimberly-irene-enfrenta-luto-y-complicaciones-financieras-1109.html"
-   },
-   {
-    "id": "6wivIUQ6Sv8",
-    "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
-    "fecha": "2026-11-09",
-    "nota": "https://enelensayomedia.com/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.html"
-   },
-   {
-    "id": "P6ueUCN25xI",
-    "titulo": "Fallece la actriz y comediante mexicana María Alicia Delgado a los 77 años",
-    "fecha": "2026-11-08",
-    "nota": "https://enelensayomedia.com/notas/fallece-la-actriz-y-comediante-mexicana-maria-alicia-delgado-a-los-77-1104.html"
-   }
-  ],
-  "longs": []
  },
  "Internacional": {
   "shorts": [
