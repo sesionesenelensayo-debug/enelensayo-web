@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista",
+    "artista": "Aria Vega",
+    "intro": "La cantante Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista en la edición de los galardones.",
+    "telegraph_url": "https://telegra.ph/Aria-Vega-compite-por-el-Latin-Grammy-a-Mejor-Nuevo-Artista-11-10",
+    "url": "https://enelensayomedia.com/notas/aria-vega-compite-por-el-latin-grammy-a-mejor-nuevo-artista-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/aria-vega-compite-por-el-latin-grammy-a-mejor-nuevo-artista-1109.jpg",
+    "fecha": "2026-11-09T21:09:25.354868",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Harry Styles impulsa ingresos de Madison Square Garden en 37 %",
     "artista": "Harry Styles",
@@ -4414,21 +4428,6 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-10-30T17:00:53.758741",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "El último concierto de los Beatles: interrupción y cinta perdida",
-    "artista": "Los Beatles",
-    "intro": "En el video publicado por el canal En el Ensayo Media, se relata que el último concierto oficial de pago de los Beatles tuvo lugar el 29 de agosto de 1966 en el Candlestick Park de San Francisco…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-ultimo-concierto-de-los-beatles-interrupcion-y-cinta-perdida-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-ultimo-concierto-de-los-beatles-interrupcion-y-cinta-perdida-1102.jpg",
-    "fecha": "2026-11-02T11:25:21.043136",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "opinion": false,
