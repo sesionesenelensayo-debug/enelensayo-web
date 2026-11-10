@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Ninel Conde reaparece con nuevo look",
+    "artista": "Ninel Conde",
+    "intro": "Ninel Conde ha reaparecido públicamente mostrando una nueva imagen que ha capturado la atención general.",
+    "telegraph_url": "https://telegra.ph/Ninel-Conde-reaparece-con-nuevo-look-11-10",
+    "url": "https://enelensayomedia.com/notas/ninel-conde-reaparece-con-nuevo-look-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/ninel-conde-reaparece-con-nuevo-look-1109.jpg",
+    "fecha": "2026-11-09T21:11:40.206673",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista",
     "artista": "Aria Vega",
     "intro": "La cantante Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista en la edición de los galardones.",
@@ -3683,20 +3697,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Jude Bellingham es el nuevo embajador de Calvin Klein",
-    "artista": "Jude Bellingham",
-    "intro": "Jude Bellingham ha sido nombrado como el nuevo embajador de la marca Calvin Klein.",
-    "telegraph_url": "https://telegra.ph/Jude-Bellingham-es-el-nuevo-embajador-de-Calvin-Klein-11-04",
-    "url": "https://enelensayomedia.com/notas/jude-bellingham-es-el-nuevo-embajador-de-calvin-klein-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/jude-bellingham-es-el-nuevo-embajador-de-calvin-klein-1103.jpg",
-    "fecha": "2026-11-03T18:34:54.815845",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   },
   {
     "opinion": false,
