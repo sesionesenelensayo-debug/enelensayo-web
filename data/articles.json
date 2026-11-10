@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Carín León cancela concierto en The Sphere",
+    "artista": "Carín León",
+    "intro": "A horas de su presentación, se reporta que Carín León cancela su concierto en The Sphere de Las Vegas.",
+    "telegraph_url": "https://telegra.ph/Carín-León-cancela-concierto-en-The-Sphere-11-10",
+    "url": "https://enelensayomedia.com/notas/carin-leon-cancela-concierto-en-the-sphere-1110.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/carin-leon-cancela-concierto-en-the-sphere-1110.jpg",
+    "fecha": "2026-11-10T16:28:06.010336",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "ViX inicia rodaje de serie sobre Mario Moreno Cantinflas en España",
     "artista": "Mario Moreno Cantinflas",
     "intro": "ViX anunció el 10 de noviembre de 2026 el inicio de la producción de una serie original dedicada a la vida de Mario Moreno 'Cantinflas'.",
@@ -5813,18 +5827,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Sonora Santanera anima la Feria del Alfeñique en Toluca",
-    "artista": "Sonora Santanera",
-    "intro": "La legendaria agrupación Sonora Santanera se presentó en la Feria del Alfeñique de Toluca, ofreciendo una noche de cumbia que revitalizó el tradicional evento popular. El acto, reportado por El Sol de",
-    "telegraph_url": "https://telegra.ph/Sonora-Santanera-anima-la-Feria-del-Alfeñique-en-Toluca-10-31",
-    "url": "https://enelensayomedia.com/notas/sonora-santanera-anima-la-feria-del-alfenique-en-toluca-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/sonora-santanera-anima-la-feria-del-alfenique-en-toluca-1031.jpg",
-    "fecha": "2026-10-31T07:51:44.356649",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   }
 ]
