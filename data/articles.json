@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Taylor Swift prepara su regreso al género country",
+    "artista": "Taylor Swift",
+    "intro": "Taylor Swift se deja de rodeos: su esperado regreso al 'country' está a la vuelta de la esquina.",
+    "telegraph_url": "https://telegra.ph/Taylor-Swift-prepara-su-regreso-al-género-country-11-02",
+    "url": "https://enelensayomedia.com/notas/taylor-swift-prepara-su-regreso-al-genero-country-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/taylor-swift-prepara-su-regreso-al-genero-country-1102.jpg",
+    "fecha": "2026-11-10T12:10:56.256206",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-11-02T17:25:18.904087",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Brittany Murphy: su legado en el cine y la música",
     "artista": "Brittany Murphy",
     "intro": "A 49 años de su nacimiento, se recuerda la trayectoria de Brittany Murphy, una figura destacada tanto en la actuación como en la música.",
@@ -4362,20 +4378,6 @@
     "categoria": "Cine",
     "fecha_original": "2026-10-30T16:57:14.893183",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Taylor Swift prepara su regreso al género country",
-    "artista": "Taylor Swift",
-    "intro": "Taylor Swift se deja de rodeos: su esperado regreso al 'country' está a la vuelta de la esquina.",
-    "telegraph_url": "https://telegra.ph/Taylor-Swift-prepara-su-regreso-al-género-country-11-02",
-    "url": "https://enelensayomedia.com/notas/taylor-swift-prepara-su-regreso-al-genero-country-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/taylor-swift-prepara-su-regreso-al-genero-country-1102.jpg",
-    "fecha": "2026-11-02T17:25:18.904087",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   },
   {
     "opinion": false,
