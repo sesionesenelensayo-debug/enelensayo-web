@@ -1,20 +1,5 @@
 [
   {
-    "tipo": "reportaje",
-    "titulo": "Las 10 películas que más dinero perdieron en taquilla recientemente",
-    "artista": "las 10 películas que más dinero perdieron (mayores fracasos de taquilla recientes)",
-    "intro": "Un análisis de los mayores fracasos cinematográficos recientes, basado en la relación entre presupuesto y recaudación.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/las-10-peliculas-que-mas-dinero-perdieron-en-taquilla-recientemente-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/las-10-peliculas-que-mas-dinero-perdieron-en-taquilla-recientemente-1101.jpg",
-    "fecha": "2026-11-09T23:39:19.814363",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-01T15:35:52.933913",
-    "actualizada": true
-  },
-  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Poncho de Nigris lanza advertencia por Doña Alegría",
@@ -567,9 +552,9 @@
   {
     "opinion": true,
     "tipo": "reportaje",
-    "titulo": "Polémica por el casting de Paapa Essiedu como Severus Snape",
+    "titulo": "Snape negro en Harry Potter: la ideología contra el canon",
     "artista": "Paapa Essiedu como Snape en Harry Potter",
-    "intro": "La elección del actor británico Paapa Essiedu para interpretar al profesor Severus Snape en la nueva serie de HBO genera un intenso debate entre los seguidores.",
+    "intro": "La industria cultural insiste en imponer una agenda woke que altera sin justificación el canon de las grandes obras literarias. El anuncio de que HBO eligió a Paapa Essiedu para interpretar a Severus Snape en la nueva serie de Harry Potter demuestra cómo la corrección política prioriza la polémica artificial por encima de la fidelidad artística. En los libros originales de J.K. Rowling, Snape es descrito de forma inequívoca como un hombre pálido, con tez cetrina y pelo negro y grasiento; cambiar su etnia no es una simple decisión de casting, sino una maniobra ideológica deliberada. Se reporta que la serie, anunciada en la primavera de 2023 con Francesca Gardiner y Mark Mylod como productores ejecutivos, adapta cada libro por temporada. Lejos de ser un debate neutral, la imposición de este cambio genera una polarización innecesaria, donde cualquier crítica fundamentada en el texto original es descalificada de inmediato.",
     "telegraph_url": "",
     "url": "https://enelensayomedia.com/notas/polemica-por-el-casting-de-paapa-essiedu-como-severus-snape-1108.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/polemica-por-el-casting-de-paapa-essiedu-como-severus-snape-1108.jpg",
@@ -1485,6 +1470,21 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "Las 10 películas que más dinero perdieron en taquilla recientemente",
+    "artista": "las 10 películas que más dinero perdieron (mayores fracasos de taquilla recientes)",
+    "intro": "Un análisis de los mayores fracasos cinematográficos recientes, basado en la relación entre presupuesto y recaudación.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/las-10-peliculas-que-mas-dinero-perdieron-en-taquilla-recientemente-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/las-10-peliculas-que-mas-dinero-perdieron-en-taquilla-recientemente-1101.jpg",
+    "fecha": "2026-11-07T22:20:59.021068",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-11-01T15:35:52.933913",
+    "actualizada": true
   },
   {
     "opinion": false,
