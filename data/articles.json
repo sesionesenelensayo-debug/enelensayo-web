@@ -1,6 +1,22 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Belinda y Danna se besan en el escenario de “Mentiras All Stars”",
+    "artista": "Belinda",
+    "intro": "Durante la transmisión de “Mentiras All Stars”, Belinda y Danna compartieron un beso inesperado en el escenario…",
+    "telegraph_url": "https://telegra.ph/Belinda-y-Danna-se-besan-en-el-escenario-de-Mentiras-All-Stars-11-09",
+    "url": "https://enelensayomedia.com/notas/belinda-y-danna-se-besan-en-el-escenario-de-mentiras-all-stars-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/belinda-y-danna-se-besan-en-el-escenario-de-mentiras-all-stars-1109.jpg",
+    "fecha": "2026-11-10T07:09:21.073990",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-09T09:21:39.803296",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "El Charro Negro lidera la taquilla mexicana con 52.6 millones",
     "artista": "El Charro Negro",
@@ -505,22 +521,6 @@
     "views": 0,
     "categoria": "Música",
     "fecha_original": "2026-11-03T09:17:47.839306",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Belinda y Danna se besan en el escenario de “Mentiras All Stars”",
-    "artista": "Belinda",
-    "intro": "Durante la transmisión de “Mentiras All Stars”, Belinda y Danna compartieron un beso inesperado en el escenario…",
-    "telegraph_url": "https://telegra.ph/Belinda-y-Danna-se-besan-en-el-escenario-de-Mentiras-All-Stars-11-09",
-    "url": "https://enelensayomedia.com/notas/belinda-y-danna-se-besan-en-el-escenario-de-mentiras-all-stars-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/belinda-y-danna-se-besan-en-el-escenario-de-mentiras-all-stars-1109.jpg",
-    "fecha": "2026-11-09T13:40:50.595015",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-09T09:21:39.803296",
     "actualizada": true
   },
   {
