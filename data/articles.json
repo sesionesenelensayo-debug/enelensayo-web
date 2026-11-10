@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "El cine latino cruza fronteras en Los Ángeles",
+    "artista": "Cine Latino",
+    "intro": "Se reporta que el cine latino está cruzando fronteras en Los Ángeles, un hecho que destaca la expansión de la producción audiovisual hispana en la capital californiana.",
+    "telegraph_url": "https://telegra.ph/El-cine-latino-cruza-fronteras-en-Los-Ángeles-11-02",
+    "url": "https://enelensayomedia.com/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.jpg",
+    "fecha": "2026-11-10T11:36:16.034017",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-11-02T09:01:26.357011",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "¡ElAbrahaham arrasa en YouTube con más de 100 mil nuevos seguidores!",
@@ -1442,21 +1457,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "El cine latino cruza fronteras en Los Ángeles",
-    "artista": "Cine Latino",
-    "intro": "Se reporta que el cine latino está cruzando fronteras en Los Ángeles, un hecho que destaca la expansión de la producción audiovisual hispana en la capital californiana.",
-    "telegraph_url": "https://telegra.ph/El-cine-latino-cruza-fronteras-en-Los-Ángeles-11-02",
-    "url": "https://enelensayomedia.com/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.jpg",
-    "fecha": "2026-11-08T11:19:34.007594",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-02T09:01:26.357011",
-    "actualizada": true
   },
   {
     "opinion": true,
