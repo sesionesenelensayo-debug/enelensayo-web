@@ -2,16 +2,16 @@
   {
     "opinion": false,
     "tipo": "reportaje",
-    "titulo": "¿Voces de influencers en Wildwood?: El debate del doblaje latino",
-    "artista": "Público",
-    "intro": "Está confirmado que fans exigen un nuevo doblaje latino para la película «Wildwood: El bosque salvaje» de LAIKA Studios…",
-    "telegraph_url": "https://telegra.ph/Voces-de-influencers-en-Wildwood-El-debate-del-doblaje-latino-11-10",
-    "url": "https://enelensayomedia.com/notas/voces-de-influencers-en-wildwood-el-debate-del-doblaje-latino-1110.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/voces-de-influencers-en-wildwood-el-debate-del-doblaje-latino-1110.jpg",
-    "fecha": "2026-11-10T15:05:16.024851",
+    "titulo": "Renata Notni y Gonzalo Hevia desatan rumores de romance",
+    "artista": "Renata Notni",
+    "intro": "El 10 de noviembre de 2026, la actriz mexicana Renata Notni y el empresario Gonzalo Hevia Baillères fueron captados juntos en Los Ángeles, California.",
+    "telegraph_url": "https://telegra.ph/Renata-Notni-y-Gonzalo-Hevia-desatan-rumores-de-romance-11-10",
+    "url": "https://enelensayomedia.com/notas/renata-notni-y-gonzalo-hevia-desatan-rumores-de-romance-1110.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/renata-notni-y-gonzalo-hevia-desatan-rumores-de-romance-1110.jpg",
+    "fecha": "2026-11-10T15:04:45.653198",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Reportaje"
+    "categoria": "Chisme"
   },
   {
     "opinion": false,
@@ -3512,21 +3512,6 @@
     "categoria": "Videojuegos"
   },
   {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Thomas Markle bajo investigación por presunto material de abuso infantil",
-    "artista": "Thomas Markle",
-    "intro": "En el video del canal En el Ensayo Media se informa que Thomas Markel, padre de Megan y exdirector de iluminación, está siendo investigado por presunto material de abuso infantil…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/thomas-markle-bajo-investigacion-por-presunto-material-de-abuso-infant-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/thomas-markle-bajo-investigacion-por-presunto-material-de-abuso-infant-1104.jpg",
-    "fecha": "2026-11-04T15:00:49.970703",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Chisme"
-  },
-  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "Mason Thames confirmado como Robin/Dick Grayson en la película animada \"Dynamic Duo\"",
@@ -5821,5 +5806,18 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
+  },
+  {
+    "tipo": "reportaje",
+    "titulo": "Sonora Santanera anima la Feria del Alfeñique en Toluca",
+    "artista": "Sonora Santanera",
+    "intro": "La legendaria agrupación Sonora Santanera se presentó en la Feria del Alfeñique de Toluca, ofreciendo una noche de cumbia que revitalizó el tradicional evento popular. El acto, reportado por El Sol de",
+    "telegraph_url": "https://telegra.ph/Sonora-Santanera-anima-la-Feria-del-Alfeñique-en-Toluca-10-31",
+    "url": "https://enelensayomedia.com/notas/sonora-santanera-anima-la-feria-del-alfenique-en-toluca-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/sonora-santanera-anima-la-feria-del-alfenique-en-toluca-1031.jpg",
+    "fecha": "2026-10-31T07:51:44.356649",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
   }
 ]
