@@ -1,4 +1,33 @@
 {
+ "In memoriam": {
+  "shorts": [
+   {
+    "id": "5O5nBQ3RCOM",
+    "titulo": "Chavela Vargas muere en Cuernavaca; su último suspiro: 'Me voy con México'",
+    "fecha": "2026-11-11",
+    "nota": "https://enelensayomedia.com/notas/chavela-vargas-muere-en-cuernavaca-su-ultimo-suspiro-me-voy-con-mexico-1111.html"
+   },
+   {
+    "id": "aIXc77PZJeI",
+    "titulo": "Vicente Fernández ingresó al Country 2000 el 7‑agosto y murió el 12‑diciembre",
+    "fecha": "2026-11-07",
+    "nota": "https://enelensayomedia.com/notas/vicente-fernandez-ingreso-al-country-2000-el-7agosto-y-murio-el-12dici-1107.html"
+   },
+   {
+    "id": "ZmcGV2_3eOI",
+    "titulo": "Pedro Infante muere en accidente aéreo de Mérida en 1957",
+    "fecha": "2026-11-07",
+    "nota": "https://enelensayomedia.com/notas/pedro-infante-muere-en-accidente-aereo-de-merida-en-1957-1107.html"
+   },
+   {
+    "id": "bNQVbCmLexI",
+    "titulo": "El oscuro secreto detrás de la muerte de Kurt Cobain",
+    "fecha": "2026-10-31",
+    "nota": "https://enelensayomedia.com/notas/el-oscuro-secreto-detras-de-la-muerte-de-kurt-cobain-1031.html"
+   }
+  ],
+  "longs": []
+ },
  "Cine": {
   "shorts": [
    {
@@ -409,29 +438,6 @@
     "nota": "https://enelensayomedia.com/notas/como-arreglar-toda-tu-vida-en-1-dia-historia-completa-1031.html"
    }
   ]
- },
- "In memoriam": {
-  "shorts": [
-   {
-    "id": "aIXc77PZJeI",
-    "titulo": "Vicente Fernández ingresó al Country 2000 el 7‑agosto y murió el 12‑diciembre",
-    "fecha": "2026-11-07",
-    "nota": "https://enelensayomedia.com/notas/vicente-fernandez-ingreso-al-country-2000-el-7agosto-y-murio-el-12dici-1107.html"
-   },
-   {
-    "id": "ZmcGV2_3eOI",
-    "titulo": "Pedro Infante muere en accidente aéreo de Mérida en 1957",
-    "fecha": "2026-11-07",
-    "nota": "https://enelensayomedia.com/notas/pedro-infante-muere-en-accidente-aereo-de-merida-en-1957-1107.html"
-   },
-   {
-    "id": "bNQVbCmLexI",
-    "titulo": "El oscuro secreto detrás de la muerte de Kurt Cobain",
-    "fecha": "2026-10-31",
-    "nota": "https://enelensayomedia.com/notas/el-oscuro-secreto-detras-de-la-muerte-de-kurt-cobain-1031.html"
-   }
-  ],
-  "longs": []
  },
  "Terror y misterio": {
   "shorts": [
