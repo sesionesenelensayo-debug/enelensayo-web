@@ -1,5 +1,20 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "En el Ensayo Media: la carrera y retiro de Avicii",
+    "artista": "Avicii",
+    "intro": "La pieza detalla su origen en Suecia, el inicio de su producción musical a los 16 años y su ascenso internacional con éxitos como Levels y el álbum True, antes de abordar las causas de su retiro.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/en-el-ensayo-media-la-carrera-y-retiro-de-avicii-1111.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/en-el-ensayo-media-la-carrera-y-retiro-de-avicii-1111.jpg",
+    "fecha": "2026-11-11T14:42:51.015125",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Nuevos lanzamientos y cifras para Nintendo Switch y Switch 2",
     "artista": "Nintendo Switch",
@@ -5612,20 +5627,6 @@
     "url": "https://enelensayomedia.com/notas/freddie-mercury-del-exilio-en-zanzibar-al-genio-de-queen-1101.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/freddie-mercury-del-exilio-en-zanzibar-al-genio-de-queen-1101.jpg",
     "fecha": "2026-11-01T02:01:52.954345",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El polémico abandono y regreso de Brian \"Head\" Welch a Korn",
-    "artista": "KORN",
-    "intro": "En el video de En el Ensayo Media se relata la trayectoria de Brian Head Welch, cofundador y guitarrista de Korn, destacando su papel en el éxito del nu metal…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-polemico-abandono-y-regreso-de-brian-head-welch-a-korn-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-polemico-abandono-y-regreso-de-brian-head-welch-a-korn-1101.jpg",
-    "fecha": "2026-11-01T01:49:34.227789",
     "author": "Oliver Ken",
     "views": 0,
     "archivo": true,
