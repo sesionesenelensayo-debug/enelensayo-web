@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Godzilla Minus Zero llega a cines mexicanos el 5 de noviembre de 2026",
+    "artista": "Godzilla",
+    "intro": "El icónico monstruo Godzilla vuelve a la gran pantalla con 'Godzilla Minus Zero', programado para estrenarse en México el jueves 5 de noviembre de 2026.",
+    "telegraph_url": "https://telegra.ph/Godzilla-Minus-Zero-llega-a-cines-mexicanos-el-5-de-noviembre-de-2026-11-04",
+    "url": "https://enelensayomedia.com/notas/godzilla-minus-zero-llega-a-cines-mexicanos-el-5-de-noviembre-de-2026-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/godzilla-minus-zero-llega-a-cines-mexicanos-el-5-de-noviembre-de-2026-1104.jpg",
+    "fecha": "2026-11-11T08:08:46.005008",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-11-04T13:02:46.637493",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Rockstar confirma versión en la nube de GTA VI para Xbox Series S",
     "artista": "GTA VI",
     "intro": "Rockstar y Xbox anunciaron que GTA VI estará disponible en Xbox Cloud Gaming desde su lanzamiento.",
@@ -342,22 +358,6 @@
     "views": 0,
     "categoria": "Música",
     "fecha_original": "2026-11-06T12:22:00.472863",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Godzilla Minus Zero llega a cines mexicanos el 5 de noviembre de 2026",
-    "artista": "Godzilla",
-    "intro": "El icónico monstruo Godzilla vuelve a la gran pantalla con 'Godzilla Minus Zero', programado para estrenarse en México el jueves 5 de noviembre de 2026.",
-    "telegraph_url": "https://telegra.ph/Godzilla-Minus-Zero-llega-a-cines-mexicanos-el-5-de-noviembre-de-2026-11-04",
-    "url": "https://enelensayomedia.com/notas/godzilla-minus-zero-llega-a-cines-mexicanos-el-5-de-noviembre-de-2026-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/godzilla-minus-zero-llega-a-cines-mexicanos-el-5-de-noviembre-de-2026-1104.jpg",
-    "fecha": "2026-11-10T15:02:15.860269",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-04T13:02:46.637493",
     "actualizada": true
   },
   {
