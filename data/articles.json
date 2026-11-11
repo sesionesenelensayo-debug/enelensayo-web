@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Chichí Peralta recibe el Premio a la Excelencia Musical",
+    "artista": "Chichí Peralta",
+    "intro": "El músico dominicano Chichí Peralta fue galardonado con el Premio a la Excelencia Musical del Latin Grammy 2026, en una ceremonia celebrada el martes en Las Vegas.",
+    "telegraph_url": "https://telegra.ph/Chichí-Peralta-recibe-el-Premio-a-la-Excelencia-Musical-11-11",
+    "url": "https://enelensayomedia.com/notas/chichi-peralta-recibe-el-premio-a-la-excelencia-musical-1111.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/chichi-peralta-recibe-el-premio-a-la-excelencia-musical-1111.jpg",
+    "fecha": "2026-11-11T14:39:42.195386",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Avicii: el día que se retiró de los escenarios en 2016",
     "artista": "Avicii: el día que se retiró de los escenarios en 2016",
     "intro": "El 2016 marcó un punto de inflexión definitivo para la música electrónica global cuando Avicii decidió abandonar los escenarios.",
@@ -4697,20 +4711,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Mariah Carey da inicio a la Navidad con su clásico video",
-    "artista": "Mariah Carey",
-    "intro": "Mariah Carey ha anunciado de manera oficial el inicio de la temporada navideña con la publicación de su tradicional video anual.",
-    "telegraph_url": "https://telegra.ph/Mariah-Carey-da-inicio-a-la-Navidad-con-su-clásico-video-11-02",
-    "url": "https://enelensayomedia.com/notas/mariah-carey-da-inicio-a-la-navidad-con-su-clasico-video-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/mariah-carey-da-inicio-a-la-navidad-con-su-clasico-video-1102.jpg",
-    "fecha": "2026-11-02T12:24:19.476449",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   },
   {
     "opinion": false,
