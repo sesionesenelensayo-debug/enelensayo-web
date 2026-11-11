@@ -1,35 +1,65 @@
 {
- "Reportaje": {
+ "Datos curiosos": {
   "shorts": [
    {
     "id": "j48ESWt3Nyk",
-    "titulo": "Santana celebra ocho Grammys y dos hits número uno en Billboard",
+    "titulo": "5 curiosidades de Santana",
     "fecha": "2026-11-10",
-    "nota": "https://enelensayomedia.com/notas/santana-celebra-ocho-grammys-y-dos-hits-numero-uno-en-billboard-1110.html"
+    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-santana-1110.html"
    },
    {
-    "id": "PeiNuCpmVZU",
-    "titulo": "Roca Rey y Tana Rivera: Cronología de una ruptura",
-    "fecha": "2026-11-10",
-    "nota": "https://enelensayomedia.com/notas/roca-rey-y-tana-rivera-cronologia-de-una-ruptura-1110.html"
+    "id": "Kq7PSUfR2SI",
+    "titulo": "5 curiosidades de George Michael",
+    "fecha": "2026-11-03",
+    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-george-michael-1103.html"
    },
    {
-    "id": "kHjvjjQ3Wrk",
-    "titulo": "Mito vs realidad: ¿Cristiano es mejor que Messi?",
-    "fecha": "2026-11-09",
-    "nota": "https://enelensayomedia.com/notas/mito-vs-realidad-cristiano-es-mejor-que-messi-1109.html"
+    "id": "zRCte-UBJAk",
+    "titulo": "5 curiosidades de Nelly",
+    "fecha": "2026-11-02",
+    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-nelly-1102.html"
    },
    {
-    "id": "X7cXUTxfHCU",
-    "titulo": "Café Tacvba lanzó su disco de versiones «Avalancha de Éxitos»",
-    "fecha": "2026-11-05",
-    "nota": "https://enelensayomedia.com/notas/cafe-tacvba-lanzo-su-disco-de-versiones-avalancha-de-exitos-1105.html"
+    "id": "uDXnWgNy0xk",
+    "titulo": "5 curiosidades de Anthony Kiedis",
+    "fecha": "2026-11-01",
+    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-anthony-kiedis-1101.html"
    },
    {
-    "id": "fVwyGebmjOc",
-    "titulo": "Thomas Markle bajo investigación por presunto material de abuso infantil",
-    "fecha": "2026-11-04",
-    "nota": "https://enelensayomedia.com/notas/thomas-markle-bajo-investigacion-por-presunto-material-de-abuso-infant-1104.html"
+    "id": "8Zxm8KjQkFY",
+    "titulo": "5 curiosidades que no sabías de the doors",
+    "fecha": "2026-11-01",
+    "nota": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-the-doors-1101.html"
+   },
+   {
+    "id": "oIgx6w7FHAo",
+    "titulo": "5 curiosidades que no sabías de Tupac Shakur",
+    "fecha": "2026-11-01",
+    "nota": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-tupac-shakur-1101.html"
+   },
+   {
+    "id": "LUaP-oZKP5A",
+    "titulo": "5 curiosidades que no sabías de Elvis Presley",
+    "fecha": "2026-11-01",
+    "nota": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-elvis-presley-1101.html"
+   },
+   {
+    "id": "pH9VAYEcv98",
+    "titulo": "5 curiosidades que no sabías de Robert Plant",
+    "fecha": "2026-10-31",
+    "nota": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-robert-plant-1031.html"
+   },
+   {
+    "id": "Mtu7wv-xxnQ",
+    "titulo": "5 curiosidades que no sabías sobre Robbie Williams",
+    "fecha": "2026-10-31",
+    "nota": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-sobre-robbie-williams-1031.html"
+   },
+   {
+    "id": "neftar4_XDY",
+    "titulo": "5 curiosidades que no sabías de Soulja Boy",
+    "fecha": "2026-10-31",
+    "nota": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-soulja-boy-1031.html"
    }
   ],
   "longs": []
@@ -230,6 +260,35 @@
     "nota": "https://enelensayomedia.com/notas/la-ascension-y-tragico-final-de-jonathan-melendez-y-camilo-septimo-1101.html"
    }
   ]
+ },
+ "Reportaje": {
+  "shorts": [
+   {
+    "id": "PeiNuCpmVZU",
+    "titulo": "Roca Rey y Tana Rivera: Cronología de una ruptura",
+    "fecha": "2026-11-10",
+    "nota": "https://enelensayomedia.com/notas/roca-rey-y-tana-rivera-cronologia-de-una-ruptura-1110.html"
+   },
+   {
+    "id": "kHjvjjQ3Wrk",
+    "titulo": "Mito vs realidad: ¿Cristiano es mejor que Messi?",
+    "fecha": "2026-11-09",
+    "nota": "https://enelensayomedia.com/notas/mito-vs-realidad-cristiano-es-mejor-que-messi-1109.html"
+   },
+   {
+    "id": "X7cXUTxfHCU",
+    "titulo": "Café Tacvba lanzó su disco de versiones «Avalancha de Éxitos»",
+    "fecha": "2026-11-05",
+    "nota": "https://enelensayomedia.com/notas/cafe-tacvba-lanzo-su-disco-de-versiones-avalancha-de-exitos-1105.html"
+   },
+   {
+    "id": "fVwyGebmjOc",
+    "titulo": "Thomas Markle bajo investigación por presunto material de abuso infantil",
+    "fecha": "2026-11-04",
+    "nota": "https://enelensayomedia.com/notas/thomas-markle-bajo-investigacion-por-presunto-material-de-abuso-infant-1104.html"
+   }
+  ],
+  "longs": []
  },
  "Cine": {
   "shorts": [
@@ -450,65 +509,6 @@
     "titulo": "No Man's Sky llega a iPhone y iPad: fecha de lanzamiento y características",
     "fecha": "2026-11-04",
     "nota": "https://enelensayomedia.com/notas/no-man-s-sky-llega-a-iphone-y-ipad-fecha-de-lanzamiento-y-caracteristi-1104.html"
-   }
-  ],
-  "longs": []
- },
- "Datos curiosos": {
-  "shorts": [
-   {
-    "id": "Kq7PSUfR2SI",
-    "titulo": "5 curiosidades de George Michael",
-    "fecha": "2026-11-03",
-    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-george-michael-1103.html"
-   },
-   {
-    "id": "zRCte-UBJAk",
-    "titulo": "5 curiosidades de Nelly",
-    "fecha": "2026-11-02",
-    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-nelly-1102.html"
-   },
-   {
-    "id": "uDXnWgNy0xk",
-    "titulo": "5 curiosidades de Anthony Kiedis",
-    "fecha": "2026-11-01",
-    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-anthony-kiedis-1101.html"
-   },
-   {
-    "id": "8Zxm8KjQkFY",
-    "titulo": "5 curiosidades que no sabías de the doors",
-    "fecha": "2026-11-01",
-    "nota": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-the-doors-1101.html"
-   },
-   {
-    "id": "oIgx6w7FHAo",
-    "titulo": "5 curiosidades que no sabías de Tupac Shakur",
-    "fecha": "2026-11-01",
-    "nota": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-tupac-shakur-1101.html"
-   },
-   {
-    "id": "LUaP-oZKP5A",
-    "titulo": "5 curiosidades que no sabías de Elvis Presley",
-    "fecha": "2026-11-01",
-    "nota": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-elvis-presley-1101.html"
-   },
-   {
-    "id": "pH9VAYEcv98",
-    "titulo": "5 curiosidades que no sabías de Robert Plant",
-    "fecha": "2026-10-31",
-    "nota": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-robert-plant-1031.html"
-   },
-   {
-    "id": "Mtu7wv-xxnQ",
-    "titulo": "5 curiosidades que no sabías sobre Robbie Williams",
-    "fecha": "2026-10-31",
-    "nota": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-sobre-robbie-williams-1031.html"
-   },
-   {
-    "id": "neftar4_XDY",
-    "titulo": "5 curiosidades que no sabías de Soulja Boy",
-    "fecha": "2026-10-31",
-    "nota": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-soulja-boy-1031.html"
    }
   ],
   "longs": []
