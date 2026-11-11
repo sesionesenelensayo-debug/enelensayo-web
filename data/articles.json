@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "¿Star talents en Wildwood? El debate por el doblaje latino",
+    "artista": "Wildwood (caso de ParaNorman)",
+    "intro": "El estreno en cines de México de «Wildwood: El bosque salvaje», la nueva producción de LAIKA Studios, ha reavivado la polémica en torno al uso de figuras públicas en el doblaje latino.",
+    "telegraph_url": "https://telegra.ph/Star-talents-en-Wildwood-El-debate-por-el-doblaje-latino-11-11",
+    "url": "https://enelensayomedia.com/notas/star-talents-en-wildwood-el-debate-por-el-doblaje-latino-1111.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/star-talents-en-wildwood-el-debate-por-el-doblaje-latino-1111.jpg",
+    "fecha": "2026-11-11T13:43:56.146989",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Bret Hart denuncia la falta de realismo en la lucha libre actual",
     "artista": "Bret Hart",
     "intro": "El legendario Bret Hart, ex campeón mundial, criticó abiertamente el rumbo de la lucha libre contemporánea, afirmando que la industria ha abandonado el realismo que caracterizó su generación.",
@@ -5829,20 +5843,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Ulthima lanza el sencillo principal 'Midnight’s Call' de su nuevo álbum",
-    "artista": "Ulthima",
-    "intro": "El 27 de noviembre de 2026 la banda mexicana Ulthima presentó el sencillo principal de su próximo álbum 'Midnight’s Call' a través de Inverse Records. El lanzamiento marca el avance de su segundo disc",
-    "telegraph_url": "https://telegra.ph/Ulthima-lanza-el-sencillo-principal-Midnights-Call-de-su-nuevo-álbum-10-30",
-    "url": "https://enelensayomedia.com/notas/ulthima-lanza-el-sencillo-principal-midnights-call-de-su-nuevo-album-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/ulthima-lanza-el-sencillo-principal-midnights-call-de-su-nuevo-album-1030.jpg",
-    "fecha": "2026-10-31T15:28:28.069758",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Escena local",
-    "fecha_original": "2026-10-30T10:22:48.715747",
-    "actualizada": true
   }
 ]
