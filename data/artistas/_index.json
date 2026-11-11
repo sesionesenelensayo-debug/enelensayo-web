@@ -1,5 +1,12 @@
 [
   {
+    "artista": "Rembrandt",
+    "slug": "rembrandt",
+    "imagen": "artistas_img/rembrandt.jpg",
+    "piezas": 1,
+    "updated": "2026-11-11 12:02"
+  },
+  {
     "artista": "MITO vs REALIDAD: Cambiar el actor en un remake no altera la esencia de la historia",
     "slug": "mito-vs-realidad--cambiar-el-actor-en-un",
     "imagen": "",

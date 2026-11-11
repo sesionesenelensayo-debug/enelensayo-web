@@ -63,6 +63,11 @@
   ],
   "longs": [
     {
+      "id": "oz1qqfTXclI",
+      "titulo": "¿Qué buscaba Rembrandt en cada trazo? – El misterio del movimiento natural",
+      "fecha": "2026-11-11"
+    },
+    {
       "id": "pRIXeZ6p9q8",
       "titulo": "El escándalo de Las Lavanderas: La verdad sin mentiras",
       "fecha": "2026-11-10"
@@ -86,11 +91,6 @@
       "id": "7aIgsP5Bm8E",
       "titulo": "¿Qué buscaba Rufino Tamayo al romper con los muralistas? – El color como revolución",
       "fecha": "2026-11-08"
-    },
-    {
-      "id": "aNc_vKsURoM",
-      "titulo": "¿Cómo un pelirrojo sin techo conquistó la música mundial? La historia de Ed Sheeran",
-      "fecha": "2026-11-07"
     }
   ],
   "podcast": []

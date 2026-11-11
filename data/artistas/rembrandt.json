@@ -1,0 +1,16 @@
+{
+  "artista": "Rembrandt",
+  "slug": "rembrandt",
+  "imagen": "artistas_img/rembrandt.jpg",
+  "shorts": [],
+  "longs": [
+    {
+      "titulo": "¿Qué buscaba Rembrandt en cada trazo? – El misterio del movimiento natural",
+      "url": "https://www.youtube.com/shorts/oz1qqfTXclI",
+      "fecha": "2026-11-11",
+      "tipo": "long"
+    }
+  ],
+  "tweets": [],
+  "updated": "2026-11-11 12:02"
+}
