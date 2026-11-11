@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Dani Flow abandona 'La Mansión VIP 2'",
+    "artista": "Dani Flow",
+    "intro": "El cantante mexicano Dani Flow abandonó el reality show 'La Mansión VIP 2' a pocas horas de haber iniciado el programa.",
+    "telegraph_url": "https://telegra.ph/Dani-Flow-abandona-La-Mansión-VIP-2-11-09",
+    "url": "https://enelensayomedia.com/notas/dani-flow-abandona-la-mansion-vip-2-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/dani-flow-abandona-la-mansion-vip-2-1109.jpg",
+    "fecha": "2026-11-11T10:27:55.518530",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-09T11:10:47.074633",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Tencent destina $140 M a impulsar el ecosistema chino de TFT",
     "artista": "Tencent commits $140 million to develop TFT's Chinese ecosystem",
     "intro": "La compañía china invierte masivamente en IA, hardware y alianzas para consolidar su posición en los esports y el mercado digital.",
@@ -1405,20 +1421,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reportaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Dani Flow abandona 'La Mansión VIP 2'",
-    "artista": "Dani Flow",
-    "intro": "El cantante mexicano Dani Flow abandonó el reality show 'La Mansión VIP 2' a pocas horas de haber iniciado el programa.",
-    "telegraph_url": "https://telegra.ph/Dani-Flow-abandona-La-Mansión-VIP-2-11-09",
-    "url": "https://enelensayomedia.com/notas/dani-flow-abandona-la-mansion-vip-2-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/dani-flow-abandona-la-mansion-vip-2-1109.jpg",
-    "fecha": "2026-11-09T11:10:47.074633",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   },
   {
     "opinion": false,
