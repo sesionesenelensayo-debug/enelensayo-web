@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "El Daily Bugle asoma en Spider-Man: Brand New Day y apunta a Spider-Man 5",
+    "artista": "Spider-Man: Brand New Day",
+    "intro": "El Daily Bugle aparece en Spider-Man: Brand New Day a través de un material gráfico compartido en X por el asistente de gráficos William Dixon.",
+    "telegraph_url": "https://telegra.ph/El-Daily-Bugle-asoma-en-Spider-Man-Brand-New-Day-y-apunta-a-Spider-Man-5-11-11",
+    "url": "https://enelensayomedia.com/notas/el-daily-bugle-asoma-en-spider-man-brand-new-day-y-apunta-a-spider-man-1111.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-daily-bugle-asoma-en-spider-man-brand-new-day-y-apunta-a-spider-man-1111.jpg",
+    "fecha": "2026-11-11T14:59:42.989057",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Dean Norris vende su mansión en California por 3,2 millones",
     "artista": "Breaking Bad",
     "intro": "Dean Norris, reconocido por interpretar a Hank Schrader en Breaking Bad, puso a la venta su finca ubicada en Temecula, California, por un precio de lista de 3.199.267 dólares.",
@@ -5834,19 +5848,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme internacional"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades que no sabías sobre Robbie Williams",
-    "artista": "Robbie Williams",
-    "intro": "El programa En El Ensayo – Live Sessions lanzó una pieza titulada “5 curiosidades que no sabías sobre Robbie Williams”. Grabada en Azcapotzalco, Ciudad de México, la sesión forma parte de una serie de",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-sobre-robbie-williams-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-que-no-sabias-sobre-robbie-williams-1031.jpg",
-    "fecha": "2026-10-31T16:48:05.797665",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Datos curiosos"
   }
 ]
