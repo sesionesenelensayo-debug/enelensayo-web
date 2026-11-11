@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "David Walliams enfrenta graves acusaciones de mala conducta",
+    "artista": "David Walliams acusado de grooming",
+    "intro": "Una investigación periodística vincula al comediante y autor británico David Walliams con denuncias de conducta sexual inapropiada y una fallida batalla legal.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/david-walliams-enfrenta-graves-acusaciones-de-mala-conducta-1111.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/david-walliams-enfrenta-graves-acusaciones-de-mala-conducta-1111.jpg",
+    "fecha": "2026-11-11T16:13:12.254257",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme internacional"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Warhammer Survivors llega a consolas, PC y móviles con Game Pass",
     "artista": "Warhammer Survivors",
     "intro": "El lanzamiento de Warhammer Survivors marca un movimiento importante en la industria al estrenarse de manera simultánea en consolas, PC y dispositivos móviles…",
@@ -5836,18 +5850,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Terror"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Anirudh Ravichander y Kavya Maran: boda prevista en Grecia y recepción en Chennai",
-    "artista": "Boda de Anirudh Ravichander y Kavya Maran",
-    "intro": "Se reporta una ceremonia privada en Grecia el 11 de noviembre y una recepción en Chennai el 21 de noviembre, con invitados políticos y familiares.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/anirudh-ravichander-y-kavya-maran-boda-prevista-en-grecia-y-recepcion-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/anirudh-ravichander-y-kavya-maran-boda-prevista-en-grecia-y-recepcion-1031.jpg",
-    "fecha": "2026-10-31T17:12:22.688407",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme internacional"
   }
 ]
