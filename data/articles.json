@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Rockstar confirma versión en la nube de GTA VI para Xbox Series S",
+    "artista": "GTA VI",
+    "intro": "Rockstar y Xbox anunciaron que GTA VI estará disponible en Xbox Cloud Gaming desde su lanzamiento.",
+    "telegraph_url": "https://telegra.ph/Rockstar-confirma-versión-en-la-nube-de-GTA-VI-para-Xbox-Series-S-11-11",
+    "url": "https://enelensayomedia.com/notas/rockstar-confirma-version-en-la-nube-de-gta-vi-para-xbox-series-s-1111.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/rockstar-confirma-version-en-la-nube-de-gta-vi-para-xbox-series-s-1111.jpg",
+    "fecha": "2026-11-11T07:47:19.285789",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
     "tipo": "noticia",
     "titulo": "Gloria Trevi anuncia concierto en Auditorio Nacional el 24 de octubre de 2026",
     "artista": "Gloria Trevi",
@@ -4566,21 +4580,6 @@
   },
   {
     "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Adele: la verdadera historia de la voz del siglo XXI",
-    "artista": "Adele",
-    "intro": "En el video del canal En el Ensayo Media se explora el fenómeno de Adele, la cantante más grande del siglo XXI, catalogada así por la revista Rolling Stone.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-verdadera-historia-de-la-voz-del-siglo-xxi-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-verdadera-historia-de-la-voz-del-siglo-xxi-1102.jpg",
-    "fecha": "2026-11-02T12:07:59.799335",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
-  },
-  {
-    "opinion": false,
     "tipo": "noticia",
     "titulo": "Cynthia Erivo revela su método para construir personajes",
     "artista": "Cynthia Erivo",
@@ -5768,19 +5767,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Agenda woke"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Kingdom Hearts anuncia su primer lanzamiento por el 25.º aniversario",
-    "artista": "Kingdom Hearts",
-    "intro": "Se reporta que la franquicia Kingdom Hearts ha anunciado su primer lanzamiento conmemorativo del 25.º aniversario, generando mayor expectación en torno al próximo Kingdom Hearts 4. El a",
-    "telegraph_url": "https://telegra.ph/Kingdom-Hearts-anuncia-su-primer-lanzamiento-por-el-25º-aniversario-10-31",
-    "url": "https://enelensayomedia.com/notas/kingdom-hearts-anuncia-su-primer-lanzamiento-por-el-25-o-aniversario-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/kingdom-hearts-anuncia-su-primer-lanzamiento-por-el-25-o-aniversario-1031.jpg",
-    "fecha": "2026-10-31T11:33:56.610170",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos"
   },
   {
     "tipo": "reportaje",
