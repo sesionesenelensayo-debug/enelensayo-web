@@ -1,4 +1,40 @@
 {
+ "Cine": {
+  "shorts": [
+   {
+    "id": "Cv388S5qotA",
+    "titulo": "Tom Hanks rechaza remake de \"El invisible Harvey\" y defiende el canon cinematográfico",
+    "fecha": "2026-11-10",
+    "nota": "https://enelensayomedia.com/notas/tom-hanks-rechaza-remake-de-el-invisible-harvey-y-defiende-el-canon-ci-1110.html"
+   },
+   {
+    "id": "ebvgOHqQRGs",
+    "titulo": "El cine latino cruza fronteras en Los Ángeles",
+    "fecha": "2026-11-10",
+    "nota": "https://enelensayomedia.com/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.html"
+   },
+   {
+    "id": "Vn053n5Jkms",
+    "titulo": "A 14 años del fallecimiento de Leonardo Favio",
+    "fecha": "2026-11-05",
+    "nota": "https://enelensayomedia.com/notas/a-14-anos-del-fallecimiento-de-leonardo-favio-1105.html"
+   },
+   {
+    "id": "MDQfrbn4mRc",
+    "titulo": "Mito vs Realidad: ¿James Gunn es un éxito en el universo de DC?",
+    "fecha": "2026-11-03",
+    "nota": "https://enelensayomedia.com/notas/mito-vs-realidad-james-gunn-es-un-exito-en-el-universo-de-dc-1103.html"
+   }
+  ],
+  "longs": [
+   {
+    "id": "26wn_wAKm5U",
+    "titulo": "La historia detrás de Jorge Negrete, el Charro Cantor",
+    "fecha": "2026-11-06",
+    "nota": "https://enelensayomedia.com/notas/la-historia-detras-de-jorge-negrete-el-charro-cantor-1106.html"
+   }
+  ]
+ },
  "Datos curiosos": {
   "shorts": [
    {
@@ -60,17 +96,6 @@
     "titulo": "5 curiosidades que no sabías de Soulja Boy",
     "fecha": "2026-10-31",
     "nota": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-soulja-boy-1031.html"
-   }
-  ],
-  "longs": []
- },
- "Agenda woke": {
-  "shorts": [
-   {
-    "id": "Cv388S5qotA",
-    "titulo": "Tom Hanks exige dejar en paz a Harvey frente a la ola de remakes de Hollywood",
-    "fecha": "2026-11-10",
-    "nota": "https://enelensayomedia.com/notas/tom-hanks-exige-dejar-en-paz-a-harvey-frente-a-la-ola-de-remakes-de-ho-1110.html"
    }
   ],
   "longs": []
@@ -289,36 +314,6 @@
    }
   ],
   "longs": []
- },
- "Cine": {
-  "shorts": [
-   {
-    "id": "ebvgOHqQRGs",
-    "titulo": "El cine latino cruza fronteras en Los Ángeles",
-    "fecha": "2026-11-10",
-    "nota": "https://enelensayomedia.com/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.html"
-   },
-   {
-    "id": "Vn053n5Jkms",
-    "titulo": "A 14 años del fallecimiento de Leonardo Favio",
-    "fecha": "2026-11-05",
-    "nota": "https://enelensayomedia.com/notas/a-14-anos-del-fallecimiento-de-leonardo-favio-1105.html"
-   },
-   {
-    "id": "MDQfrbn4mRc",
-    "titulo": "Mito vs Realidad: ¿James Gunn es un éxito en el universo de DC?",
-    "fecha": "2026-11-03",
-    "nota": "https://enelensayomedia.com/notas/mito-vs-realidad-james-gunn-es-un-exito-en-el-universo-de-dc-1103.html"
-   }
-  ],
-  "longs": [
-   {
-    "id": "26wn_wAKm5U",
-    "titulo": "La historia detrás de Jorge Negrete, el Charro Cantor",
-    "fecha": "2026-11-06",
-    "nota": "https://enelensayomedia.com/notas/la-historia-detras-de-jorge-negrete-el-charro-cantor-1106.html"
-   }
-  ]
  },
  "Internacional": {
   "shorts": [
