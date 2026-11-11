@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11 11:01",
+ "actualizado": "2026-11-11 13:04",
  "eventos": [],
  "api": false,
  "ticketmaster": {
@@ -109,6 +109,12 @@
  ],
  "noticias": [
   {
+   "titulo": "Rels B en CdMx: ¿Cuándo y dónde dará sus conciertos? Fechas y preventa de boletos",
+   "fuente": "Milenio",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMFhJbTBMSEJfRE11ZU00NVlIYUJQS1I4RS1DYnd6cHVNUXJCeHlhTlFldG4xZXd5SnNrQlAyQ1NtWEZ5TEY1VWoycFY4UkFyemd3V0FxdzlERC03Tl84SWJOLXZjRkE3NEhSSFdQQzNnOXNFRVNCYkVIWExkek1zTFdyY3dJUHdCUS0tdUkwV0VoaThjZEJtN28yUdIBmwFBVV95cUxQdWtfUm5GbHdzbUpMMmJYMzIyZGxfdzV2cVZ2ckpYRWszRGQ3LU1hRUVSMFZmWktoNzRjSXpCWnlZeDV3QURfbmQwR3czN3NycHFFZnY0cThLQUF2ZE9RYmQtMl9VOWhxZ0c2MGlNcThFdG9adTlBZk9LbzlKVS1MN0VlNk9BZncwcnNyNlUwTEZ2VlJrcVFDN0NqRQ?oc=5",
+   "fecha": "2026-11-11 17:49"
+  },
+  {
    "titulo": "¡Jet está de vuelta! Su riff más famoso sonará en CDMX en 2027",
    "fuente": "LifeBoxset",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1NlFqTkdpMXBRNkVMVE51YjRqbnVHdHhDMEJUYXo2UXFob3pCQU9FNFJYMG1LOVNhOExHVkpBWmtvd3hVNjFfTC1fcEVGdkRJd0NVTUJoS0VBR2pnbFU0?oc=5",
@@ -145,12 +151,6 @@
    "fecha": "2026-11-10 16:34"
   },
   {
-   "titulo": "Miranda! y Lali anuncian concierto en México; BOM llegará al Auditorio Nacional en 2027",
-   "fuente": "Excélsior",
-   "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPaHBqUTBnMFFiWklmdkZTem1zVU9kNHhFd2pYdXF3OFA3ZmNEcjhZNkFCZWV2cFQ1bDB6N045eU1TMTlpbFFzMXA3RE5kTGYtQXh3WXdtaW05d3pwYkVTRFpUNktVY2ZULWoyZ3VZREJZYUpBM3dKU2pPOE9MNnZyVWtBVVNjZTV1M0g4czhmLS1fNnowdzBpZi1jVjBtOWlyb204OFNNd1J3SWFodmdtYTFkMklFZmpYd2fSAb8BQVVfeXFMUHpBOXpoNHBtTGJEa2lGT0pQQjNMUFlyOElTeHZ3MTVFdTlPdlIwM1N2TGJvY1hHTEc3NWZWeGdKbWktVEJvaDB0VnpjZ3ZyV0ptMlBxMV8tZUhNWi0xczlNUDRHRmdGc1VuSzl1T0lrZllQSjNVSGVjVXVRcHgxTmc1MUxIRjhrcXJUSG9NV1RPRUlaRERpMUJIV01vTEdXeGp5ZWJjaU13cnNhRVluQVphSWw5bU0yN1lfNWlFZlU?oc=5",
-   "fecha": "2026-11-10 00:36"
-  },
-  {
    "titulo": "Don Omar confirma conciertos en México: fechas y cómo registrarte para la preventa de boletos",
    "fuente": "Claro Sports",
    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSXowNmpDVW1LVlJacy1VUmtxQmNNNHNuMjRUaDhDNWNvS2lNU19IVm5yWFZxQkR0ci1vRjBNV2VpRmlTOUNqWVNEZDJpd0RjbURVY2Jmb1dlaWY2bFUtQjJBcjl6T2FuRUVYYlZRdmVEejdOeG01RUVWdnFVckZVTW8teUZRQXhDcW1oTVVuVTQ1WTVid2R3dVhOSVJSSkpGTnhVeThSMGNFU2NYSFBmYnZJV0VQM0tGazBWWm8talJSZThjZDZPdTFod0xOSmkxbHMzVV9n?oc=5",
@@ -161,6 +161,18 @@
    "fuente": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPemlpMmJmdUZjSkNrYWVYbzlWVlFiOE9JX01pR19qZlBFM3dZTEdtYmhCUnRodW1pQ0F5Q3VjWWk0QnZZQndIeGpXcXh5anNmaHlyaG5icy1DVGE3SGxCSjFkclRqcHhqdUllSjFONlU1VEt2aG0tMXJNUGhrckt3OGJVNk8yaWNKTnRQV2lnbWdIdHc0ZTN0Ri1sREpqR2l4MC11YkNuQVBHbEJvSEh0d2RXZWVXRGNuRUVKcTdIUHBMQXRubHd0Smd6eDFtbTVlT3VJ0gHuAUFVX3lxTE1rVTBJaDdVT05RWEo2NnJEaktHWS1tMHVIOHExR2N0YzA0WWI2RnlGZlFTdDFsWkZUaG94V1VYNF9HcTVGN2hWZlZlUjNrWmtTaGlNQ09wV2djX1JHU1lHQkN6b0VVRjVUQ2dIbS1Pb2lNeXVUYldKNWtkTkdwRU1DRjZaSzZoUzRrdG1ySGstajJjdk9zQmU3cldOdTk3NE5GMmNUWml5a0RWVGZfWXlWM0JGRkZRZTY5cURoTXowWjZTRlROeWZTbDJXbHVyMi1CbEg2N1lETmY4LWt2eGtwSlg4N2ZpQkFWbUJmYlE?oc=5",
    "fecha": "2026-11-09 20:41"
+  },
+  {
+   "titulo": "Karol G CDMX 2026: Precios y cómo comprar boletos de último minuto para el Estadio GNP Seguros",
+   "fuente": "MARCA",
+   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcjk0c0ctYU45VGRmZTNxOEJjd0xoR0U0QnU4OEdNMkVjdjFGOWJ2aGN3SkdGOHljWktGdU9WZmJWRU9ya3ZQMDVoZV9JN3pjYndrbVVoaGFCWlVxNXNKajQ1R0VFNXd1ZEM2Q3B4cU00YzdieExLbWlMVW1pT01tUkNEbG52SmJ0Y3Jrd0tQSnh0T0JOQ3VZV0hFWDJsSWdNTTNwczluajc2TDdrZDkzVTYweFFpVDdOSFR5eWFUZTIyazRiX09feHhzVkRDRjTSAc8BQVVfeXFMTnI5NHNHLWFOOVRkZmUzcThCY3dMaEdFNEJ1ODhHTTJFY3YxRjlidmhjd0pHRjh5Y1pLRnVPVmZiVkVPcmt2UDA1aGVfSTd6Y2J3a21VaGhhQlpVcTVzSmo0NUdFRTV3dWRDNkNweHFNNGM3YnhMS21pTFVtaU9NbVJDRGxudkpidGNya3dLUEp4dE9CTkN1WVdIRVgybElnTU0zcHM5bmo3Nkw3a2Q5M1U2MHhRaVQ3TkhUeXlhVGUyMms0Yl9PX3h4c1ZEQ0Y0?oc=5",
+   "fecha": "2026-11-09 18:56"
+  },
+  {
+   "titulo": "Tecate Pal Norte 2027: Empieza la venta de boletos de abonos",
+   "fuente": "Monterrey Rock",
+   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSUE4SzhCNG1oYkVYcTV3M2E5MGRzZ2NXNHpwWWItbXI3b29nVnRGaHlLQ0FMV3Jhekl3SllIYm1oaTIzUXpmNV9RNU1QdllzVENUSzJCWW0tYzJLT2Q0bGY2cUdaTzUwQVJfdXFoVEdvRWI5MkRJalNlanRfMlhMV1QtZw?oc=5",
+   "fecha": "2026-11-09 17:05"
   },
   {
    "titulo": "¡El señor de la noche regresa! Don Omar anuncia conciertos en México: Fechas, sedes y registro a la preventa",
@@ -179,18 +191,6 @@
    "fuente": "Panorama Web",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNHV0eXV3ZUZOMXBYR01ZdEtwOXlsRU8tWFV4UDlmVGlaS1gtUk10VVZzVUphaHNKOWZ1MGxPZUNlZXVlaEFKYUN3MjZzVzd6RHVPaFJhMDVhVUZMRll2YmV6Ync3ZUpmLTJQRTVnNUU0RnM2cll5OVpSTEhkX3c4NTk3MkNqa1hMQzR0ZklIVlNmR04wc2ZNTGx4YUlJR2NyVWZFa0JnaVJpM3luR25pa1BzUXB1WmZrY3djeGlXRk9TV1g4bWx1dXRyWU85NEptMDM4azNScks?oc=5",
    "fecha": "2026-11-06 23:03"
-  },
-  {
-   "titulo": "Boletos del Vive Latino 2027: precios, preventa y venta general",
-   "fuente": "sdpnoticias",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUFdYUDB4NUpRbWdMYklKZUdyZXVvSERKT1FlcWNyRnVOQlcwWkN2a0xGSC1DdjFMN0w4YnBKcmlmNm55bkw4YmlRTUc0MS1uaVZtcnRaZExDLWpzSUtpaVY5MTJkbzZPWi0xa2xUY3VvbS0wLXdwa1p0LVpHNGZFQkJSaGdFOFZhZDF2NXRYdU9ab1k1RjFSaVl5NGtDbkk3TXpqM04yUEEwUjBLMVhr?oc=5",
-   "fecha": "2026-11-06 21:29"
-  },
-  {
-   "titulo": "Feid anuncia gira de conciertos en 2027: ¿dónde verlo en vivo?",
-   "fuente": "Popticular",
-   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sUnBxR1B3NndVRGtQMHZwQmNDTmYtMVBiUVdZYVc4Z3p0VUlfRVhwdXVQLWgzblVBY0FJRXRTN2F3Y25QMTRQVEY4TUpqb3dpTENBQzJlQU1mVUJwQVJGa0tjdjB6UjF0MlV2a1dqYXYtc19GT2xRZHBLc1dEUHc?oc=5",
-   "fecha": "2026-11-06 15:24"
   }
  ]
 }
