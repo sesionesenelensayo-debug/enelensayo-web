@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Tencent destina $140 M a impulsar el ecosistema chino de TFT",
+    "artista": "Tencent commits $140 million to develop TFT's Chinese ecosystem",
+    "intro": "La compañía china invierte masivamente en IA, hardware y alianzas para consolidar su posición en los esports y el mercado digital.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/tencent-destina-140-m-a-impulsar-el-ecosistema-chino-de-tft-1109.html",
+    "imagen_url": "",
+    "fecha": "2026-11-11T10:16:36.845121",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports",
+    "fecha_original": "2026-11-09T11:22:04.584302",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "The Later Daters regresa con segunda temporada y nuevo elenco de celebridades",
     "artista": "Later Daters temporada 2",
     "intro": "Netflix confirmó que la serie de citas para estrellas debutará el 30 de diciembre de 2026 con un grupo renovado y guía experta.",
@@ -1347,20 +1363,6 @@
     "categoria": "Música",
     "fecha_original": "2026-11-06T11:14:14.791470",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Tencent destina $140 M a impulsar el ecosistema chino de TFT",
-    "artista": "Tencent commits $140 million to develop TFT's Chinese ecosystem",
-    "intro": "La compañía china invierte masivamente en IA, hardware y alianzas para consolidar su posición en los esports y el mercado digital.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/tencent-destina-140-m-a-impulsar-el-ecosistema-chino-de-tft-1109.html",
-    "imagen_url": "",
-    "fecha": "2026-11-09T11:22:04.584302",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Esports"
   },
   {
     "opinion": true,
