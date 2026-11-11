@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10T20:40",
+ "actualizado": "2026-11-11T02:57",
  "peores": [
   {
    "titulo": "Code Violet",
@@ -135,77 +135,6 @@
   }
  ],
  "estrenos": [
-  {
-   "titulo": "DreamWorks Shrek 2 Remastered",
-   "fecha": "2026-11-10",
-   "fecha_txt": "10 de noviembre",
-   "plataformas": [
-    "PC",
-    "Switch",
-    "Switch 2",
-    "PS5",
-    "Xbox Series"
-   ],
-   "genero": "Action-adventure",
-   "desarrolla": "Aspyr",
-   "publica": ""
-  },
-  {
-   "titulo": "Football Manager 27",
-   "fecha": "2026-11-10",
-   "fecha_txt": "10 de noviembre",
-   "plataformas": [
-    "PC",
-    "Mac",
-    "PS5",
-    "Xbox Series",
-    "iOS"
-   ],
-   "genero": "Sports management",
-   "desarrolla": "Sports Interactive",
-   "publica": "Sega, Netflix"
-  },
-  {
-   "titulo": "Takeover 2",
-   "fecha": "2026-11-10",
-   "fecha_txt": "10 de noviembre",
-   "plataformas": [
-    "PC"
-   ],
-   "genero": "Brawler",
-   "desarrolla": "Pelikan13",
-   "publica": ""
-  },
-  {
-   "titulo": "Tanuki: Pon's Summer",
-   "fecha": "2026-11-10",
-   "fecha_txt": "10 de noviembre",
-   "plataformas": [
-    "PC",
-    "Switch",
-    "Switch 2",
-    "PS4",
-    "PS5"
-   ],
-   "genero": "Adventure",
-   "desarrolla": "Denkiworks",
-   "publica": "Critical Reflex"
-  },
-  {
-   "titulo": "Warhammer Survivors",
-   "fecha": "2026-11-10",
-   "fecha_txt": "10 de noviembre",
-   "plataformas": [
-    "PC",
-    "Switch",
-    "Switch 2",
-    "PS5",
-    "Xbox Series"
-   ],
-   "genero": "Bullet heaven",
-   "desarrolla": "Auroch Digital",
-   "publica": ""
-  },
   {
    "titulo": "Barbie Rewind",
    "fecha": "2026-11-12",
@@ -456,6 +385,70 @@
    "genero": "FPS, Soulslike",
    "desarrolla": "Eschatology Entertainment",
    "publica": "4Divinity"
+  },
+  {
+   "titulo": "A-Train 9 Prime Line",
+   "fecha": "2026-12-09",
+   "fecha_txt": "9 de diciembre",
+   "plataformas": [
+    "PC"
+   ],
+   "genero": "Simulation",
+   "desarrolla": "Artdink",
+   "publica": "Artdink, Komodo"
+  },
+  {
+   "titulo": "Attack on Titan 3",
+   "fecha": "2026-12-10",
+   "fecha_txt": "10 de diciembre",
+   "plataformas": [
+    "PC",
+    "Switch 2",
+    "PS5",
+    "Xbox Series"
+   ],
+   "genero": "Hack and slash",
+   "desarrolla": "Omega Force",
+   "publica": "Koei Tecmo"
+  },
+  {
+   "titulo": "Caladrius 2/Dark Element",
+   "fecha": "2026-12-10",
+   "fecha_txt": "10 de diciembre",
+   "plataformas": [
+    "PC",
+    "Switch",
+    "PS5"
+   ],
+   "genero": "Shoot 'em up",
+   "desarrolla": "MOSS",
+   "publica": "H2 Interactive"
+  },
+  {
+   "titulo": "Ninja Baseball League-Man: Bases Loaded",
+   "fecha": "2026-12-10",
+   "fecha_txt": "10 de diciembre",
+   "plataformas": [
+    "PC",
+    "Switch 2",
+    "PS5",
+    "Xbox Series"
+   ],
+   "genero": "Brawler",
+   "desarrolla": "City Connection, Irem",
+   "publica": "City Connection"
+  },
+  {
+   "titulo": "Picross S Climax",
+   "fecha": "2026-12-10",
+   "fecha_txt": "10 de diciembre",
+   "plataformas": [
+    "Switch",
+    "Switch 2"
+   ],
+   "genero": "Puzzle",
+   "desarrolla": "Jupiter Corporation",
+   "publica": ""
   }
  ]
 }
