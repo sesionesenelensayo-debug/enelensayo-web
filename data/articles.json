@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "Gloria Trevi anuncia concierto en Auditorio Nacional el 24 de octubre de 2026",
+    "artista": "Gloria Trevi",
+    "intro": "La cantante, catalogada como \"Reina del Pop Mexicano\", iniciará su \"Celebration Tour\" en la capital con dos funciones en octubre y noviembre.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/gloria-trevi-anuncia-concierto-en-auditorio-nacional-el-24-de-octubre-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/gloria-trevi-anuncia-concierto-en-auditorio-nacional-el-24-de-octubre-1031.jpg",
+    "fecha": "2026-11-11T07:46:30.421937",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-10-31T12:03:13.773165",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista",
@@ -1446,21 +1461,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Luchas"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Gloria Trevi anuncia concierto en Auditorio Nacional el 24 de octubre de 2026",
-    "artista": "Gloria Trevi",
-    "intro": "La cantante, catalogada como \"Reina del Pop Mexicano\", iniciará su \"Celebration Tour\" en la capital con dos funciones en octubre y noviembre.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/gloria-trevi-anuncia-concierto-en-auditorio-nacional-el-24-de-octubre-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/gloria-trevi-anuncia-concierto-en-auditorio-nacional-el-24-de-octubre-1031.jpg",
-    "fecha": "2026-11-09T09:04:44.526827",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-10-31T12:03:13.773165",
-    "actualizada": true
   },
   {
     "tipo": "reportaje",
