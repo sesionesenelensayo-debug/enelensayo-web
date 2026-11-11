@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista",
+    "artista": "Aria Vega",
+    "intro": "La cantante Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista en la edición de los galardones.",
+    "telegraph_url": "https://telegra.ph/Aria-Vega-compite-por-el-Latin-Grammy-a-Mejor-Nuevo-Artista-11-10",
+    "url": "https://enelensayomedia.com/notas/aria-vega-compite-por-el-latin-grammy-a-mejor-nuevo-artista-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/aria-vega-compite-por-el-latin-grammy-a-mejor-nuevo-artista-1109.jpg",
+    "fecha": "2026-11-11T07:01:59.266639",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-11-09T21:09:25.354868",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Novedades y juegos gratis de PS Plus Extra y Premium",
     "artista": "PS Plus",
     "intro": "Sony anunció la tanda de juegos de PS Plus Extra y Premium para noviembre de 2026, destacando la llegada de Death Stranding 2: On the Beach como el título principal del catálogo.",
@@ -804,22 +820,6 @@
     "views": 0,
     "categoria": "Música",
     "fecha_original": "2026-11-06T10:26:11.346416",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista",
-    "artista": "Aria Vega",
-    "intro": "La cantante Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista en la edición de los galardones.",
-    "telegraph_url": "https://telegra.ph/Aria-Vega-compite-por-el-Latin-Grammy-a-Mejor-Nuevo-Artista-11-10",
-    "url": "https://enelensayomedia.com/notas/aria-vega-compite-por-el-latin-grammy-a-mejor-nuevo-artista-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/aria-vega-compite-por-el-latin-grammy-a-mejor-nuevo-artista-1109.jpg",
-    "fecha": "2026-11-10T07:02:57.796735",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-09T21:09:25.354868",
     "actualizada": true
   },
   {
