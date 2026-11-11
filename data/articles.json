@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "entrevista",
+    "titulo": "Santiago Abascal cancela entrevista en The Wild Project por polémica con Vox",
+    "artista": "Santiago Abascal",
+    "intro": "El líder de Vox, Santiago Abascal, dio la sorpresa al cancelar su aparición en The Wild Project, el programa de Jordi Wild, programado para el miércoles 11 de noviembre.",
+    "telegraph_url": "https://telegra.ph/Santiago-Abascal-cancela-entrevista-en-The-Wild-Project-por-polémica-con-Vox-11-11",
+    "url": "https://enelensayomedia.com/notas/santiago-abascal-cancela-entrevista-en-the-wild-project-por-polemica-c-1111.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/santiago-abascal-cancela-entrevista-en-the-wild-project-por-polemica-c-1111.jpg",
+    "fecha": "2026-11-11T13:33:22.889546",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Entrevista"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista",
     "artista": "Aria Vega",
@@ -5829,18 +5843,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Agenda woke"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "VBI lanza su primer LP “Sin Resolver”, una colección pop‑rock de historias abiertas",
-    "artista": "VBI",
-    "intro": "El proyecto VBI, bajo la autoría de Abinadí Mira, presentó en 2026 su primer disco de larga duración “Sin Resolver”. El álbum reúne siete sencillos publicados previamente y nuevo material que aborda a",
-    "telegraph_url": "https://telegra.ph/VBI-lanza-su-primer-LP-Sin-Resolver-una-colección-poprock-de-historias-abiertas-10-31",
-    "url": "https://enelensayomedia.com/notas/vbi-lanza-su-primer-lp-sin-resolver-una-coleccion-poprock-de-historias-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/vbi-lanza-su-primer-lp-sin-resolver-una-coleccion-poprock-de-historias-1031.jpg",
-    "fecha": "2026-10-31T10:12:44.296360",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Escena local"
   }
 ]
