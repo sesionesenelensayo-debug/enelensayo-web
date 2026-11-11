@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Avicii: el día que se retiró de los escenarios en 2016",
+    "artista": "Avicii: el día que se retiró de los escenarios en 2016",
+    "intro": "El 2016 marcó un punto de inflexión definitivo para la música electrónica global cuando Avicii decidió abandonar los escenarios.",
+    "telegraph_url": "https://telegra.ph/Avicii-el-día-que-se-retiró-de-los-escenarios-en-2016-11-11",
+    "url": "https://enelensayomedia.com/notas/avicii-el-dia-que-se-retiro-de-los-escenarios-en-2016-1111.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/avicii-el-dia-que-se-retiro-de-los-escenarios-en-2016-1111.jpg",
+    "fecha": "2026-11-11T14:33:06.344315",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "El misterio del movimiento natural en la Ronda de noche de Rembrandt",
     "artista": "Rembrandt",
     "intro": "El video explora la ilusión óptica de la pintura, que parece nocturna pero representa una escena diurna…",
@@ -5832,18 +5846,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Reportan que México es poca cosa para Kris Jenner y Kim Kardashian",
-    "artista": "Kris Jenner",
-    "intro": "Según un artículo de Cultura Colectiva, se observó un detalle que indica que México no figura entre los destinos prioritarios de Kris Jenner y su hija Kim Kardashian. La observación ha generado curios",
-    "telegraph_url": "https://telegra.ph/Cultura-Colectiva-señala-que-México-es-poca-cosa-para-Kris-Jenner-y-Kim-Kardashian-10-31",
-    "url": "https://enelensayomedia.com/notas/cultura-colectiva-senala-que-mexico-es-poca-cosa-para-kris-jenner-y-ki-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/cultura-colectiva-senala-que-mexico-es-poca-cosa-para-kris-jenner-y-ki-1031.jpg",
-    "fecha": "2026-10-31T15:33:44.191866",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   }
 ]
