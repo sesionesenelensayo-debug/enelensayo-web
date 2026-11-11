@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11 06:31",
+ "actualizado": "2026-11-11 08:31",
  "eventos": [],
  "api": false,
  "ticketmaster": {
@@ -109,6 +109,12 @@
  ],
  "noticias": [
   {
+   "titulo": "¡Jet está de vuelta! Su riff más famoso sonará en CDMX en 2027",
+   "fuente": "LifeBoxset",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1NlFqTkdpMXBRNkVMVE51YjRqbnVHdHhDMEJUYXo2UXFob3pCQU9FNFJYMG1LOVNhOExHVkpBWmtvd3hVNjFfTC1fcEVGdkRJd0NVTUJoS0VBR2pnbFU0?oc=5",
+   "fecha": "2026-11-11 12:38"
+  },
+  {
    "titulo": "¡Qué trío! Metric, Broken Social Scene y Stars anuncian conciertos en México para 2027",
    "fuente": "LifeBoxset",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBMWZ5SDhvVjNuNWZLOGRkR0gxcTFYc3pvZlBsRElfckFWVlZQM2pIWGVLcWg5VlllVm5WSm5uYjgwNXdSMm5Rb3V5YXJJTkh5QlVZalZMUkNuYzM1NHF2d0ViQQ?oc=5",
@@ -122,7 +128,7 @@
   },
   {
    "titulo": "Feid anuncia NUEVA FECHA de concierto en CdMx tras agotar boletos: ¿Cuándo es y cómo comprarlos?",
-   "fuente": "Milenio",
+   "fuente": "MILENIO",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVE9tLW1iMWh2alZIc2F3WE5BUFVqR1RFOHVRSjR0ZHJIZVdFVVZHQ2NYVlhvU2FXRnNmS0l2ZTdPVThmYnB0YXVjRXBPRGE5aUNNSkZoUmRCaWVtNUxzZjdqc1YtU0xlblNhdm9MY0FxLURDRFJWdjAza2RHajhRakxJUXdMQ21XbnVDVHBCSVBuZUFYWEhycGx5Y2Q3d9IBngFBVV95cUxOLTA2cHl5OGJybnZzMmgxTVJmcTJhZFJTM3pvaF9GZm1MWkpfam5WNlFxTWk4b2xkUEJnU2xCMFdhQWlFUFpxb3h0anhRVHlUNXVrZlZxS3dPajVNOG1sVk1laUxZd3BvX3N5M0dDeWxvaTE0MmhRRGF0QzZ0UHBId2RtLWdfWWdqU18xTGlwdzRiSC10VEczZFpweG01QQ?oc=5",
    "fecha": "2026-11-10 18:19"
   },
@@ -145,10 +151,10 @@
    "fecha": "2026-11-10 00:36"
   },
   {
-   "titulo": "Feid en México 2027: fechas, precios de boletos y preventa",
-   "fuente": "sdpnoticias",
-   "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmFUWFJLN2ZvckNUVnl6NVk2clJrNlBlNFFwakdSQWJsUmdxc2pPa2RGTEVwaEs4Nl8tS2hlWUJhaVR5Mm9FdDBBcEcxZFAtdkkxTnFPQ0I1ZVBHaGZUN2NFbzdYMFFzRmppekl6UGFyQnJzVjZpd2VWNjloQTlRODZOeTZZM0J5WWxaWk9zMTFSTVVpSG5EcmUtb3hURkp4NGVLNHN4d2s?oc=5",
-   "fecha": "2026-11-09 22:48"
+   "titulo": "Don Omar confirma conciertos en México: fechas y cómo registrarte para la preventa de boletos",
+   "fuente": "Claro Sports",
+   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSXowNmpDVW1LVlJacy1VUmtxQmNNNHNuMjRUaDhDNWNvS2lNU19IVm5yWFZxQkR0ci1vRjBNV2VpRmlTOUNqWVNEZDJpd0RjbURVY2Jmb1dlaWY2bFUtQjJBcjl6T2FuRUVYYlZRdmVEejdOeG01RUVWdnFVckZVTW8teUZRQXhDcW1oTVVuVTQ1WTVid2R3dVhOSVJSSkpGTnhVeThSMGNFU2NYSFBmYnZJV0VQM0tGazBWWm8talJSZThjZDZPdTFod0xOSmkxbHMzVV9n?oc=5",
+   "fecha": "2026-11-09 23:46"
   },
   {
    "titulo": "Cómo registrarse a la preventa de Feid en el Palacio de los Deportes: requisitos y fecha límite",
@@ -163,34 +169,28 @@
    "fecha": "2026-11-07 23:29"
   },
   {
+   "titulo": "Feid volverá a México para su Green Star Tour en 2027: fechas, ciudades y cuándo inicia la preventa",
+   "fuente": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdHJ2UmFXYWUzR2luZWtnVjNDdV84SXQwQ1drVjlDaUp2WmtWRVVPbkZ0R3dVQ2FiRTZnc29fQ05ha3dYcWhNVll3ZXo0ak5NLXBFdTFsb1JUS1BYN0JBa0NpNG8tSGxkNnViWE5JTEd6Wm5KWmYzZlJyb1dUdDFONXJSMnBZQXRXbDdfYmNEMUJTRzlZaW91U0VndmhucWRjMi1Hd0RZNmVxd0RjMmU4czNTQU9uTDdOM1pDZHRTZllvcVdpcnBQMnplVUtQS25iOTdEbmpXRdIB8gFBVV95cUxQY25YYm5JN29oZXVNSzd6ZzVQRGhsR3oxbzVpY1JQOTNwUFBlbndyU3VrYXhHNlFZMWlKR1pfenZ5YUF0Um9EUVdBZldFVlIxUTZLM1JQY0Nma2xDcTVnVjJrcWNtLXdBYzVwZHF5ak5FUUZnVFQ5cDJQVER2bENtVFdHbGx0a0cyd1RLTFNHamRVa092YU5iM0w5dkVBckZpbzAzZlRfajFYN000UU1ia1lEbF9QdjBCYlJMWENaMGJtYzhwQUFJRmhlZjVfaVZYX3JEWlpjdU1FUVcxcTBNak1ZMXBRcldKM3pKZkNHNUw1UQ?oc=5",
+   "fecha": "2026-11-07 18:10"
+  },
+  {
    "titulo": "Maluma regresa a México: Anuncia 7 fechas de su ‘Loco por Volver World Tour 2027′",
    "fuente": "Panorama Web",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNHV0eXV3ZUZOMXBYR01ZdEtwOXlsRU8tWFV4UDlmVGlaS1gtUk10VVZzVUphaHNKOWZ1MGxPZUNlZXVlaEFKYUN3MjZzVzd6RHVPaFJhMDVhVUZMRll2YmV6Ync3ZUpmLTJQRTVnNUU0RnM2cll5OVpSTEhkX3c4NTk3MkNqa1hMQzR0ZklIVlNmR04wc2ZNTGx4YUlJR2NyVWZFa0JnaVJpM3luR25pa1BzUXB1WmZrY3djeGlXRk9TV1g4bWx1dXRyWU85NEptMDM4azNScks?oc=5",
    "fecha": "2026-11-06 23:03"
   },
   {
-   "titulo": "Feid en México: Confirma su gira 'FERXXO The Green Star 2027'",
-   "fuente": "EXA FM",
-   "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdnRlQXl3MmJDdnFBaTZpdEpVeHhPbG15UkV6SWYzcHJpVmNGS1RnNER5N2t5cWE0TGxWUnliNXVObDVDN0RTSGYwOHdrbUVGTUxBTzY3T2NqV285T2IzT0RQaDZkb0ZncFRvbHlac2lnWGtLeGMwTm5mYmV3WHE4c25CeG1taVB3SGUtVWJnYldDbDVKbG9LUHkyMDc?oc=5",
-   "fecha": "2026-11-06 17:14"
+   "titulo": "Boletos del Vive Latino 2027: precios, preventa y venta general",
+   "fuente": "sdpnoticias",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUFdYUDB4NUpRbWdMYklKZUdyZXVvSERKT1FlcWNyRnVOQlcwWkN2a0xGSC1DdjFMN0w4YnBKcmlmNm55bkw4YmlRTUc0MS1uaVZtcnRaZExDLWpzSUtpaVY5MTJkbzZPWi0xa2xUY3VvbS0wLXdwa1p0LVpHNGZFQkJSaGdFOFZhZDF2NXRYdU9ab1k1RjFSaVl5NGtDbkk3TXpqM04yUEEwUjBLMVhr?oc=5",
+   "fecha": "2026-11-06 21:29"
   },
   {
    "titulo": "Feid anuncia gira de conciertos en 2027: ¿dónde verlo en vivo?",
    "fuente": "Popticular",
    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sUnBxR1B3NndVRGtQMHZwQmNDTmYtMVBiUVdZYVc4Z3p0VUlfRVhwdXVQLWgzblVBY0FJRXRTN2F3Y25QMTRQVEY4TUpqb3dpTENBQzJlQU1mVUJwQVJGa0tjdjB6UjF0MlV2a1dqYXYtc19GT2xRZHBLc1dEUHc?oc=5",
    "fecha": "2026-11-06 15:24"
-  },
-  {
-   "titulo": "Rush llega a Sphere en 2027 y prepara 2112 y Moving Pictures completos",
-   "fuente": "LifeBoxset",
-   "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1HY2Etak9iakswZ1QwWEhKX1YwcFBEWWxZYXN3dDRuUkFEZE81SkpjRzM4VDB5N2FPOVl0M2VjeWJsX2FDUDFubkpPYUpwR1Q1dXViTzJVRk56SWk3aHN6Zg?oc=5",
-   "fecha": "2026-11-06 13:40"
-  },
-  {
-   "titulo": "¿Gorillaz en México? Un error desata rumores sobre su llegada al Palacio de los Deportes",
-   "fuente": "Reporte Indigo",
-   "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeHhpMlJxTjJUVE96WW1MSXVQV2JXU1RaZGxwOUw5TDRfOWpydndBLWo2SXBiQjVja0Y1OWhza2QtUkw3NVpvWldpQWRCQUozbDE0M1hTYktDTnd3UEhnMkRidmhaLXU4cE45SWQ4RWFyWTgyZHBNdGV3NEdaYTRmODVZLThVM0htblRtY1o3WkNBS2U2OGRLeXphdTdoTkltbHRhVWdad0FzWDRkdE54SmdLZ1R2TEE3d0tUa01VOVNBU0NLMUM2QllhU2FlckJZZkpUclVRU2FyVlZYdUE?oc=5",
-   "fecha": "2026-11-05 20:57"
   }
  ]
 }
