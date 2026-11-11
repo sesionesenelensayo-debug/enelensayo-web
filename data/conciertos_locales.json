@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11 13:51",
+ "actualizado": "2026-11-11 14:01",
  "eventos": [
   {
    "id": "reo|guadalajara|foro-independencia|2026-11-13",
@@ -12012,6 +12012,70 @@
    "fuente": "Multiforo Digital",
    "tipo": "show",
    "fuente_url": "https://www.facebook.com/FVCKOFFROOM/posts/pfbid0cAhB146wtWH4y7v11wBd8eWHg6qXCJSZJc4kQ2a1qEJvBRzdrH4oY22XnqzhLhfCl"
+  },
+  {
+   "id": "kompapako|chihuahua||x",
+   "banda": "KompaPako",
+   "ciudad": "Chihuahua",
+   "estado": "Chihuahua",
+   "lat": 28.6353,
+   "lon": -106.0889,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
+  },
+  {
+   "id": "angel-voyager|veracruz||x",
+   "banda": "Angel voyager",
+   "ciudad": "Veracruz",
+   "estado": "Veracruz",
+   "lat": 19.1738,
+   "lon": -96.1342,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
+  },
+  {
+   "id": "chamoyadadepina|veracruz||x",
+   "banda": "chamoyadadepiña",
+   "ciudad": "Veracruz",
+   "estado": "Veracruz",
+   "lat": 19.1738,
+   "lon": -96.1342,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
+  },
+  {
+   "id": "daime|veracruz||x",
+   "banda": "Daime",
+   "ciudad": "Veracruz",
+   "estado": "Veracruz",
+   "lat": 19.1738,
+   "lon": -96.1342,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
   }
  ]
 }
