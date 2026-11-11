@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "En el Ensayo Media: las últimas horas de Chavela Vargas en Cuernavaca",
+    "artista": "Chavela Vargas",
+    "intro": "El canal En el Ensayo Media presenta un video breve que detalla los últimos días de la vida de Chavela Vargas.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/en-el-ensayo-media-las-ultimas-horas-de-chavela-vargas-en-cuernavaca-1111.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/en-el-ensayo-media-las-ultimas-horas-de-chavela-vargas-en-cuernavaca-1111.jpg",
+    "fecha": "2026-11-11T13:53:46.586867",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "¿Star talents en Wildwood? El debate por el doblaje latino",
     "artista": "Wildwood (caso de ParaNorman)",
     "intro": "El estreno en cines de México de «Wildwood: El bosque salvaje», la nueva producción de LAIKA Studios, ha reavivado la polémica en torno al uso de figuras públicas en el doblaje latino.",
@@ -11,7 +26,7 @@
     "fecha": "2026-11-11T13:43:56.146989",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Reportaje"
+    "categoria": "Doblaje"
   },
   {
     "opinion": false,
@@ -5640,20 +5655,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El secreto prohibido del nacimiento de Frédéric Chopin",
-    "artista": "Chopin",
-    "intro": "La producción explora sus precoces inicios en la música y destapa un oscuro secreto familiar vinculado directamente con su nacimiento y su partida de nacimiento original.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-secreto-prohibido-del-nacimiento-de-frederic-chopin-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-secreto-prohibido-del-nacimiento-de-frederic-chopin-1031.jpg",
-    "fecha": "2026-10-31T23:35:42.735978",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   },
   {
     "tipo": "reportaje",

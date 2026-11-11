@@ -363,6 +363,17 @@
    "auto": true
   },
   {
+   "nombre": "El Hijo del Cuervo",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "Coyoacán Centro",
+   "lat": 19.34978,
+   "lon": -99.1639086,
+   "genero": "Foro con música en vivo",
+   "url": "https://elhijodelcuervo.com.mx/",
+   "auto": true
+  },
+  {
    "nombre": "Ex Fábrica MX",
    "ciudad": "Ciudad de México",
    "estado": "Distrito Federal",
@@ -392,6 +403,16 @@
    "lon": -99.1673007,
    "genero": "Foro con música en vivo",
    "url": "https://wearelooloo.com/",
+   "auto": true
+  },
+  {
+   "nombre": "CASA FRANCA",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "",
+   "lat": 19.4189841,
+   "lon": -99.1576923,
+   "genero": "Foro con música en vivo",
    "auto": true
   },
   {
@@ -425,12 +446,32 @@
    "auto": true
   },
   {
+   "nombre": "La Pulquería",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "",
+   "lat": 19.4396767,
+   "lon": -99.1373257,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
    "nombre": "Cantina Masiosare",
    "ciudad": "Ciudad de México",
    "estado": "Distrito Federal",
    "zona": "Coyoacán",
    "lat": 19.3470137,
    "lon": -99.1635698,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "Arandas Restaurante",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "",
+   "lat": 19.4343005,
+   "lon": -99.1357777,
    "genero": "Foro con música en vivo",
    "auto": true
   }

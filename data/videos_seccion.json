@@ -1,32 +1,153 @@
 {
- "In memoriam": {
+ "Biografía": {
   "shorts": [
    {
     "id": "5O5nBQ3RCOM",
-    "titulo": "Chavela Vargas muere en Cuernavaca; su último suspiro: 'Me voy con México'",
+    "titulo": "En el Ensayo Media: las últimas horas de Chavela Vargas en Cuernavaca",
     "fecha": "2026-11-11",
-    "nota": "https://enelensayomedia.com/notas/chavela-vargas-muere-en-cuernavaca-su-ultimo-suspiro-me-voy-con-mexico-1111.html"
+    "nota": "https://enelensayomedia.com/notas/en-el-ensayo-media-las-ultimas-horas-de-chavela-vargas-en-cuernavaca-1111.html"
    },
    {
-    "id": "aIXc77PZJeI",
-    "titulo": "Vicente Fernández ingresó al Country 2000 el 7‑agosto y murió el 12‑diciembre",
+    "id": "SBaKb0dpk8Q",
+    "titulo": "Jim Croce: la verdad sobre el accidente aéreo de 1973",
     "fecha": "2026-11-07",
-    "nota": "https://enelensayomedia.com/notas/vicente-fernandez-ingreso-al-country-2000-el-7agosto-y-murio-el-12dici-1107.html"
+    "nota": "https://enelensayomedia.com/notas/jim-croce-la-verdad-sobre-el-accidente-aereo-de-1973-1107.html"
    },
    {
-    "id": "ZmcGV2_3eOI",
-    "titulo": "Pedro Infante muere en accidente aéreo de Mérida en 1957",
-    "fecha": "2026-11-07",
-    "nota": "https://enelensayomedia.com/notas/pedro-infante-muere-en-accidente-aereo-de-merida-en-1957-1107.html"
+    "id": "U9wtNjcwEUU",
+    "titulo": "Los últimos momentos de Amy Winehouse",
+    "fecha": "2026-11-04",
+    "nota": "https://enelensayomedia.com/notas/los-ultimos-momentos-de-amy-winehouse-1104.html"
    },
    {
-    "id": "bNQVbCmLexI",
-    "titulo": "El oscuro secreto detrás de la muerte de Kurt Cobain",
-    "fecha": "2026-10-31",
-    "nota": "https://enelensayomedia.com/notas/el-oscuro-secreto-detras-de-la-muerte-de-kurt-cobain-1031.html"
+    "id": "b2fuGDTpio0",
+    "titulo": "Arturo de Córdoba, el actor mexicano que brilló en Hollywood y el cine latinoamericano",
+    "fecha": "2026-11-03",
+    "nota": "https://enelensayomedia.com/notas/arturo-de-cordoba-el-actor-mexicano-que-brillo-en-hollywood-y-el-cine-1103.html"
+   },
+   {
+    "id": "TfM7ZBjfbXo",
+    "titulo": "A 10 años de su partida: la verdad sobre los últimos días de Juan Gabriel",
+    "fecha": "2026-11-02",
+    "nota": "https://enelensayomedia.com/notas/a-10-anos-de-su-partida-la-verdad-sobre-los-ultimos-dias-de-juan-gabri-1102.html"
+   },
+   {
+    "id": "h31X6HgFvVQ",
+    "titulo": "El oscuro secreto de la infancia de Michael Jackson",
+    "fecha": "2026-11-02",
+    "nota": "https://enelensayomedia.com/notas/el-oscuro-secreto-de-la-infancia-de-michael-jackson-1102.html"
+   },
+   {
+    "id": "gQVt4bmnzxU",
+    "titulo": "El misterioso y silencioso adiós de Ann Reinking, leyenda de Broadway",
+    "fecha": "2026-11-02",
+    "nota": "https://enelensayomedia.com/notas/el-misterioso-y-silencioso-adios-de-ann-reinking-leyenda-de-broadway-1102.html"
+   },
+   {
+    "id": "UlfyWuoLGdY",
+    "titulo": "Saúl Blanch: trayectoria del vocalista de Rata Blanca y su paso por Plus",
+    "fecha": "2026-11-02",
+    "nota": "https://enelensayomedia.com/notas/saul-blanch-trayectoria-del-vocalista-de-rata-blanca-y-su-paso-por-plu-1102.html"
+   },
+   {
+    "id": "W2DRS0s9VFY",
+    "titulo": "Stuart Sadcliff: el bajista que abandonó la música por el arte y murió a los 21",
+    "fecha": "2026-11-02",
+    "nota": "https://enelensayomedia.com/notas/stuart-sadcliff-el-bajista-que-abandono-la-musica-por-el-arte-y-murio-1102.html"
+   },
+   {
+    "id": "vEmLBJs79VE",
+    "titulo": "El último concierto y la muerte de Kurt Cobain",
+    "fecha": "2026-11-02",
+    "nota": "https://enelensayomedia.com/notas/el-ultimo-concierto-y-la-muerte-de-kurt-cobain-1102.html"
+   },
+   {
+    "id": "Pb6UAiviit0",
+    "titulo": "El trágico secreto detrás de la voz de Laura Branigan",
+    "fecha": "2026-11-02",
+    "nota": "https://enelensayomedia.com/notas/el-tragico-secreto-detras-de-la-voz-de-laura-branigan-1102.html"
+   },
+   {
+    "id": "W6SS_pRrHMY",
+    "titulo": "El oscuro secreto del éxito de The Slim Shady LP de Eminem",
+    "fecha": "2026-11-02",
+    "nota": "https://enelensayomedia.com/notas/el-oscuro-secreto-del-exito-de-the-slim-shady-lp-de-eminem-1102.html"
    }
   ],
-  "longs": []
+  "longs": [
+   {
+    "id": "EGdBPCXaliI",
+    "titulo": "Daniel Bisogno: su vida, trayectoria y lucha contra la enfermedad",
+    "fecha": "2026-11-10",
+    "nota": "https://enelensayomedia.com/notas/daniel-bisogno-su-vida-trayectoria-y-lucha-contra-la-enfermedad-1110.html"
+   },
+   {
+    "id": "aNc_vKsURoM",
+    "titulo": "La trayectoria musical de Ed Sheeran",
+    "fecha": "2026-11-07",
+    "nota": "https://enelensayomedia.com/notas/la-trayectoria-musical-de-ed-sheeran-1107.html"
+   },
+   {
+    "id": "_agfPWD7sbc",
+    "titulo": "Jay-Z: De la venta de crack a la cumbre de Wall Street: la travesía de Jay‑Z",
+    "fecha": "2026-11-05",
+    "nota": "https://enelensayomedia.com/notas/jay-z-de-la-venta-de-crack-a-la-cumbre-de-wall-street-la-travesia-de-j-1105.html"
+   },
+   {
+    "id": "gSDSIzbZW2I",
+    "titulo": "Kanye West: del genio musical a la caída de su imperio",
+    "fecha": "2026-11-04",
+    "nota": "https://enelensayomedia.com/notas/kanye-west-del-genio-musical-a-la-caida-de-su-imperio-1104.html"
+   },
+   {
+    "id": "vyKtyPa1Yns",
+    "titulo": "Jim Morrison: vida, música y legado del rebelde de The Doors",
+    "fecha": "2026-11-02",
+    "nota": "https://enelensayomedia.com/notas/jim-morrison-vida-musica-y-legado-del-rebelde-de-the-doors-1102.html"
+   },
+   {
+    "id": "WtdMvcyF71Y",
+    "titulo": "Juan Gabriel: De recluso a leyenda musical mexicana",
+    "fecha": "2026-11-02",
+    "nota": "https://enelensayomedia.com/notas/juan-gabriel-de-recluso-a-leyenda-musical-mexicana-1102.html"
+   },
+   {
+    "id": "3dEESm9rN9o",
+    "titulo": "Fleetwood Mac: la historia de una banda que sobrevivió al caos total",
+    "fecha": "2026-11-02",
+    "nota": "https://enelensayomedia.com/notas/fleetwood-mac-la-historia-de-una-banda-que-sobrevivio-al-caos-total-1102.html"
+   },
+   {
+    "id": "P2uGlBtU-4Q",
+    "titulo": "Miguel Zabaleta y Suéter: la historia del pionero del rock argentino",
+    "fecha": "2026-11-02",
+    "nota": "https://enelensayomedia.com/notas/miguel-zabaleta-y-sueter-la-historia-del-pionero-del-rock-argentino-1102.html"
+   },
+   {
+    "id": "C789qAWmFwo",
+    "titulo": "Cindy Wilson: la historia de su salida de los escenarios y su regreso artístico",
+    "fecha": "2026-11-02",
+    "nota": "https://enelensayomedia.com/notas/cindy-wilson-la-historia-de-su-salida-de-los-escenarios-y-su-regreso-a-1102.html"
+   },
+   {
+    "id": "mCVK1hirquo",
+    "titulo": "Lionel Hampton: del vibráfono al cuarteto de Benny Goodman",
+    "fecha": "2026-11-02",
+    "nota": "https://enelensayomedia.com/notas/lionel-hampton-del-vibrafono-al-cuarteto-de-benny-goodman-1102.html"
+   },
+   {
+    "id": "9JT9MyJBmeU",
+    "titulo": "Tupac Shakur: La verdad sobre su asesinato y el fin de la impunidad",
+    "fecha": "2026-11-01",
+    "nota": "https://enelensayomedia.com/notas/tupac-shakur-la-verdad-sobre-su-asesinato-y-el-fin-de-la-impunidad-1101.html"
+   },
+   {
+    "id": "yOsiAcFaUvM",
+    "titulo": "La ascensión y trágico final de Jonathan Meléndez y Camilo Séptimo",
+    "fecha": "2026-11-01",
+    "nota": "https://enelensayomedia.com/notas/la-ascension-y-tragico-final-de-jonathan-melendez-y-camilo-septimo-1101.html"
+   }
+  ]
  },
  "Cine": {
   "shorts": [
@@ -165,156 +286,6 @@
    }
   ]
  },
- "Biografía": {
-  "shorts": [
-   {
-    "id": "SBaKb0dpk8Q",
-    "titulo": "Jim Croce: la verdad sobre el accidente aéreo de 1973",
-    "fecha": "2026-11-07",
-    "nota": "https://enelensayomedia.com/notas/jim-croce-la-verdad-sobre-el-accidente-aereo-de-1973-1107.html"
-   },
-   {
-    "id": "U9wtNjcwEUU",
-    "titulo": "Los últimos momentos de Amy Winehouse",
-    "fecha": "2026-11-04",
-    "nota": "https://enelensayomedia.com/notas/los-ultimos-momentos-de-amy-winehouse-1104.html"
-   },
-   {
-    "id": "b2fuGDTpio0",
-    "titulo": "Arturo de Córdoba, el actor mexicano que brilló en Hollywood y el cine latinoamericano",
-    "fecha": "2026-11-03",
-    "nota": "https://enelensayomedia.com/notas/arturo-de-cordoba-el-actor-mexicano-que-brillo-en-hollywood-y-el-cine-1103.html"
-   },
-   {
-    "id": "TfM7ZBjfbXo",
-    "titulo": "A 10 años de su partida: la verdad sobre los últimos días de Juan Gabriel",
-    "fecha": "2026-11-02",
-    "nota": "https://enelensayomedia.com/notas/a-10-anos-de-su-partida-la-verdad-sobre-los-ultimos-dias-de-juan-gabri-1102.html"
-   },
-   {
-    "id": "h31X6HgFvVQ",
-    "titulo": "El oscuro secreto de la infancia de Michael Jackson",
-    "fecha": "2026-11-02",
-    "nota": "https://enelensayomedia.com/notas/el-oscuro-secreto-de-la-infancia-de-michael-jackson-1102.html"
-   },
-   {
-    "id": "gQVt4bmnzxU",
-    "titulo": "El misterioso y silencioso adiós de Ann Reinking, leyenda de Broadway",
-    "fecha": "2026-11-02",
-    "nota": "https://enelensayomedia.com/notas/el-misterioso-y-silencioso-adios-de-ann-reinking-leyenda-de-broadway-1102.html"
-   },
-   {
-    "id": "UlfyWuoLGdY",
-    "titulo": "Saúl Blanch: trayectoria del vocalista de Rata Blanca y su paso por Plus",
-    "fecha": "2026-11-02",
-    "nota": "https://enelensayomedia.com/notas/saul-blanch-trayectoria-del-vocalista-de-rata-blanca-y-su-paso-por-plu-1102.html"
-   },
-   {
-    "id": "W2DRS0s9VFY",
-    "titulo": "Stuart Sadcliff: el bajista que abandonó la música por el arte y murió a los 21",
-    "fecha": "2026-11-02",
-    "nota": "https://enelensayomedia.com/notas/stuart-sadcliff-el-bajista-que-abandono-la-musica-por-el-arte-y-murio-1102.html"
-   },
-   {
-    "id": "vEmLBJs79VE",
-    "titulo": "El último concierto y la muerte de Kurt Cobain",
-    "fecha": "2026-11-02",
-    "nota": "https://enelensayomedia.com/notas/el-ultimo-concierto-y-la-muerte-de-kurt-cobain-1102.html"
-   },
-   {
-    "id": "Pb6UAiviit0",
-    "titulo": "El trágico secreto detrás de la voz de Laura Branigan",
-    "fecha": "2026-11-02",
-    "nota": "https://enelensayomedia.com/notas/el-tragico-secreto-detras-de-la-voz-de-laura-branigan-1102.html"
-   },
-   {
-    "id": "W6SS_pRrHMY",
-    "titulo": "El oscuro secreto del éxito de The Slim Shady LP de Eminem",
-    "fecha": "2026-11-02",
-    "nota": "https://enelensayomedia.com/notas/el-oscuro-secreto-del-exito-de-the-slim-shady-lp-de-eminem-1102.html"
-   },
-   {
-    "id": "TuIWnR9UE1A",
-    "titulo": "Miguel Zabaleta y Suéter: la voz del rock argentino que ocultó su lucha contra el cáncer",
-    "fecha": "2026-11-02",
-    "nota": "https://enelensayomedia.com/notas/miguel-zabaleta-y-sueter-la-voz-del-rock-argentino-que-oculto-su-lucha-1102.html"
-   }
-  ],
-  "longs": [
-   {
-    "id": "EGdBPCXaliI",
-    "titulo": "Daniel Bisogno: su vida, trayectoria y lucha contra la enfermedad",
-    "fecha": "2026-11-10",
-    "nota": "https://enelensayomedia.com/notas/daniel-bisogno-su-vida-trayectoria-y-lucha-contra-la-enfermedad-1110.html"
-   },
-   {
-    "id": "aNc_vKsURoM",
-    "titulo": "La trayectoria musical de Ed Sheeran",
-    "fecha": "2026-11-07",
-    "nota": "https://enelensayomedia.com/notas/la-trayectoria-musical-de-ed-sheeran-1107.html"
-   },
-   {
-    "id": "_agfPWD7sbc",
-    "titulo": "Jay-Z: De la venta de crack a la cumbre de Wall Street: la travesía de Jay‑Z",
-    "fecha": "2026-11-05",
-    "nota": "https://enelensayomedia.com/notas/jay-z-de-la-venta-de-crack-a-la-cumbre-de-wall-street-la-travesia-de-j-1105.html"
-   },
-   {
-    "id": "gSDSIzbZW2I",
-    "titulo": "Kanye West: del genio musical a la caída de su imperio",
-    "fecha": "2026-11-04",
-    "nota": "https://enelensayomedia.com/notas/kanye-west-del-genio-musical-a-la-caida-de-su-imperio-1104.html"
-   },
-   {
-    "id": "vyKtyPa1Yns",
-    "titulo": "Jim Morrison: vida, música y legado del rebelde de The Doors",
-    "fecha": "2026-11-02",
-    "nota": "https://enelensayomedia.com/notas/jim-morrison-vida-musica-y-legado-del-rebelde-de-the-doors-1102.html"
-   },
-   {
-    "id": "WtdMvcyF71Y",
-    "titulo": "Juan Gabriel: De recluso a leyenda musical mexicana",
-    "fecha": "2026-11-02",
-    "nota": "https://enelensayomedia.com/notas/juan-gabriel-de-recluso-a-leyenda-musical-mexicana-1102.html"
-   },
-   {
-    "id": "3dEESm9rN9o",
-    "titulo": "Fleetwood Mac: la historia de una banda que sobrevivió al caos total",
-    "fecha": "2026-11-02",
-    "nota": "https://enelensayomedia.com/notas/fleetwood-mac-la-historia-de-una-banda-que-sobrevivio-al-caos-total-1102.html"
-   },
-   {
-    "id": "P2uGlBtU-4Q",
-    "titulo": "Miguel Zabaleta y Suéter: la historia del pionero del rock argentino",
-    "fecha": "2026-11-02",
-    "nota": "https://enelensayomedia.com/notas/miguel-zabaleta-y-sueter-la-historia-del-pionero-del-rock-argentino-1102.html"
-   },
-   {
-    "id": "C789qAWmFwo",
-    "titulo": "Cindy Wilson: la historia de su salida de los escenarios y su regreso artístico",
-    "fecha": "2026-11-02",
-    "nota": "https://enelensayomedia.com/notas/cindy-wilson-la-historia-de-su-salida-de-los-escenarios-y-su-regreso-a-1102.html"
-   },
-   {
-    "id": "mCVK1hirquo",
-    "titulo": "Lionel Hampton: del vibráfono al cuarteto de Benny Goodman",
-    "fecha": "2026-11-02",
-    "nota": "https://enelensayomedia.com/notas/lionel-hampton-del-vibrafono-al-cuarteto-de-benny-goodman-1102.html"
-   },
-   {
-    "id": "9JT9MyJBmeU",
-    "titulo": "Tupac Shakur: La verdad sobre su asesinato y el fin de la impunidad",
-    "fecha": "2026-11-01",
-    "nota": "https://enelensayomedia.com/notas/tupac-shakur-la-verdad-sobre-su-asesinato-y-el-fin-de-la-impunidad-1101.html"
-   },
-   {
-    "id": "yOsiAcFaUvM",
-    "titulo": "La ascensión y trágico final de Jonathan Meléndez y Camilo Séptimo",
-    "fecha": "2026-11-01",
-    "nota": "https://enelensayomedia.com/notas/la-ascension-y-tragico-final-de-jonathan-melendez-y-camilo-septimo-1101.html"
-   }
-  ]
- },
  "Reportaje": {
   "shorts": [
    {
@@ -438,6 +409,29 @@
     "nota": "https://enelensayomedia.com/notas/como-arreglar-toda-tu-vida-en-1-dia-historia-completa-1031.html"
    }
   ]
+ },
+ "In memoriam": {
+  "shorts": [
+   {
+    "id": "aIXc77PZJeI",
+    "titulo": "Vicente Fernández ingresó al Country 2000 el 7‑agosto y murió el 12‑diciembre",
+    "fecha": "2026-11-07",
+    "nota": "https://enelensayomedia.com/notas/vicente-fernandez-ingreso-al-country-2000-el-7agosto-y-murio-el-12dici-1107.html"
+   },
+   {
+    "id": "ZmcGV2_3eOI",
+    "titulo": "Pedro Infante muere en accidente aéreo de Mérida en 1957",
+    "fecha": "2026-11-07",
+    "nota": "https://enelensayomedia.com/notas/pedro-infante-muere-en-accidente-aereo-de-merida-en-1957-1107.html"
+   },
+   {
+    "id": "bNQVbCmLexI",
+    "titulo": "El oscuro secreto detrás de la muerte de Kurt Cobain",
+    "fecha": "2026-10-31",
+    "nota": "https://enelensayomedia.com/notas/el-oscuro-secreto-detras-de-la-muerte-de-kurt-cobain-1031.html"
+   }
+  ],
+  "longs": []
  },
  "Terror y misterio": {
   "shorts": [
