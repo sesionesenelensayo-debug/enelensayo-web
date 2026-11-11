@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-10 20:20",
+ "actualizado": "2026-11-10 22:27",
  "eventos": [],
  "api": false,
  "ticketmaster": {
@@ -109,20 +109,14 @@
  ],
  "noticias": [
   {
-   "titulo": "¡Qué trío! Metric, Broken Social Scene y Stars juntos en México en 2027",
+   "titulo": "¡Qué trío! Metric, Broken Social Scene y Stars anuncian conciertos en México para 2027",
    "fuente": "LifeBoxset",
    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBMWZ5SDhvVjNuNWZLOGRkR0gxcTFYc3pvZlBsRElfckFWVlZQM2pIWGVLcWg5VlllVm5WSm5uYjgwNXdSMm5Rb3V5YXJJTkh5QlVZalZMUkNuYzM1NHF2d0ViQQ?oc=5",
    "fecha": "2026-11-10 22:52"
   },
   {
-   "titulo": "Ferxxo en el Palacio de los Deportes: Precio de boletos, nueva fecha y preventa",
-   "fuente": "sdpnoticias",
-   "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeGI4bERNbHZ0aVFRdzRjdi1QNFRoSmtaUHUyLWFZc2dhRjFrZmx1X05VN2NkYWxYaG9TckFOQlR1NWpTVEkxV29yNmVqY2tPRnpmOGJLT2g0cm5nQUxtQm9VUGxUYnRlZnhVdFp1eHFPdVZFLTU1Ul9tcDNkRzJmaThrb3M1cENaMTZlenpaWS1wR0pqR183TUZ6UWdZY2FlRkVRcXluTHRjSlBFcHNQRHZLTlk?oc=5",
-   "fecha": "2026-11-10 21:35"
-  },
-  {
    "titulo": "Feid anuncia NUEVA FECHA de concierto en CdMx tras agotar boletos: ¿Cuándo es y cómo comprarlos?",
-   "fuente": "MILENIO",
+   "fuente": "Milenio",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVE9tLW1iMWh2alZIc2F3WE5BUFVqR1RFOHVRSjR0ZHJIZVdFVVZHQ2NYVlhvU2FXRnNmS0l2ZTdPVThmYnB0YXVjRXBPRGE5aUNNSkZoUmRCaWVtNUxzZjdqc1YtU0xlblNhdm9MY0FxLURDRFJWdjAza2RHajhRakxJUXdMQ21XbnVDVHBCSVBuZUFYWEhycGx5Y2Q3d9IBngFBVV95cUxOLTA2cHl5OGJybnZzMmgxTVJmcTJhZFJTM3pvaF9GZm1MWkpfam5WNlFxTWk4b2xkUEJnU2xCMFdhQWlFUFpxb3h0anhRVHlUNXVrZlZxS3dPajVNOG1sVk1laUxZd3BvX3N5M0dDeWxvaTE0MmhRRGF0QzZ0UHBId2RtLWdfWWdqU18xTGlwdzRiSC10VEczZFpweG01QQ?oc=5",
    "fecha": "2026-11-10 18:19"
   },
@@ -131,6 +125,12 @@
    "fuente": "MexicoGP",
    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPYjhMM2gzZFN1RDVYeUotSFFkWktLSzlfYVRMU3JxXzYxOXJjdVJxNV9yRFB0N2hhQlpFWTk2bEE4c0xrMllEcEtvQmZFdUEwUllLcEZaSDZOSGhmTDlhWmZqNnNGbUcyMWFaV2NCZEFud2pWbUxMQnIzdGl5akh6N1p0NUxlZHFUZ3FKVEpiLVM0SGZzUk1jLWpkVHJUMXpNR2JLaDZJdnk2cHFPNWdWb3NiQU1yN0hOVHg5UVFn?oc=5",
    "fecha": "2026-11-10 16:38"
+  },
+  {
+   "titulo": "Till Lindemann anuncia concierto en México ¡Así puedes verlo!",
+   "fuente": "Dónde Ir",
+   "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOOHhVRE1HVGZtbm5KT2FoNS1iZDVlRFlPbnZ5WE9BeF9IMEFnNVMxdnFVX0RLdHBZZWN6OHp1YzRxdWdDcDh5N3otbnB1M0JEWEtaUDEzUDZscVRFRVNwY2FfbDU2Y05nR0cwcmhuVTkxMUhITWhzcHI1c19zWnE1bV9FdGJRTzE5ekpYLVZqeHcxcUxpN2pGSWJuRQ?oc=5",
+   "fecha": "2026-11-10 16:34"
   },
   {
    "titulo": "Miranda! y Lali anuncian concierto en México; BOM llegará al Auditorio Nacional en 2027",
@@ -143,12 +143,6 @@
    "fuente": "sdpnoticias",
    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQNmFUWFJLN2ZvckNUVnl6NVk2clJrNlBlNFFwakdSQWJsUmdxc2pPa2RGTEVwaEs4Nl8tS2hlWUJhaVR5Mm9FdDBBcEcxZFAtdkkxTnFPQ0I1ZVBHaGZUN2NFbzdYMFFzRmppekl6UGFyQnJzVjZpd2VWNjloQTlRODZOeTZZM0J5WWxaWk9zMTFSTVVpSG5EcmUtb3hURkp4NGVLNHN4d2s?oc=5",
    "fecha": "2026-11-09 22:48"
-  },
-  {
-   "titulo": "Karol G CDMX 2026: Precios y cómo comprar boletos de último minuto para el Estadio GNP Seguros",
-   "fuente": "MARCA",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcjk0c0ctYU45VGRmZTNxOEJjd0xoR0U0QnU4OEdNMkVjdjFGOWJ2aGN3SkdGOHljWktGdU9WZmJWRU9ya3ZQMDVoZV9JN3pjYndrbVVoaGFCWlVxNXNKajQ1R0VFNXd1ZEM2Q3B4cU00YzdieExLbWlMVW1pT01tUkNEbG52SmJ0Y3Jrd0tQSnh0T0JOQ3VZV0hFWDJsSWdNTTNwczluajc2TDdrZDkzVTYweFFpVDdOSFR5eWFUZTIyazRiX09feHhzVkRDRjTSAc8BQVVfeXFMTnI5NHNHLWFOOVRkZmUzcThCY3dMaEdFNEJ1ODhHTTJFY3YxRjlidmhjd0pHRjh5Y1pLRnVPVmZiVkVPcmt2UDA1aGVfSTd6Y2J3a21VaGhhQlpVcTVzSmo0NUdFRTV3dWRDNkNweHFNNGM3YnhMS21pTFVtaU9NbVJDRGxudkpidGNya3dLUEp4dE9CTkN1WVdIRVgybElnTU0zcHM5bmo3Nkw3a2Q5M1U2MHhRaVQ3TkhUeXlhVGUyMms0Yl9PX3h4c1ZEQ0Y0?oc=5",
-   "fecha": "2026-11-09 18:56"
   },
   {
    "titulo": "¡El señor de la noche regresa! Don Omar anuncia conciertos en México: Fechas, sedes y registro a la preventa",
@@ -191,6 +185,12 @@
    "fuente": "ABC Noticias",
    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcmtNdDZxRVhNbVVlTE16M0gxUlI2dVZiVHh2elRzY0NWSDV5cVZLUnhRWnhndVRhREN1a05wMEU2QzBBZm9rTU5vTmNaVzNKYld2Y0tmdFhDdllEVjBIejVMX3l4aVpkZ1ZydDZhaHA4NDNHX1ZyQ3RkQTR3ODN0bHJrLXZMemVLcXFLWUZteTNxSktfVVNVTnRkUU5RVXgycTR3NVhzWXlYQk1XREYyTWJIem9RVEtqQzEtbDBzbFU0YXNG?oc=5",
    "fecha": "2026-11-05 19:22"
+  },
+  {
+   "titulo": "Ticketmaster 2x1 HOY 5 de noviembre: Hwang In Youp, Babasónicos y DLD; estos son TODOS los conciertos y evento",
+   "fuente": "Milenio",
+   "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcTBJeEVielpWM2FRdUlFVGRiQmhuOGJiRXBYYkxmMU9pRHNzbFNSMWNvOVIwR2hyb0dQUDdSenpjS05EVEVJS0ZXbXJ3b0EyVFFjelF0OEwwbDExNnpha19fYTA4RmJrdmxWLTZWVjN5LWVFVVo5RDN5dHdUR0g1R0NsVHJZS3pDM05EemMyTm1JZXNCamdtdmZCT25GUHZKX2Z0bHo3a9IBpwFBVV95cUxPeEZwZ1dSaklxODBhX0xWLWQxQTFrckU2RkNtSHRfbm04TDFGdUV0T1NYcmRtYzJqWWtPZGZBS2VERkk4N2hscFlKRFYxaEloSVdUa2hKZUx6YW9xRVBGV1dOQ05UTE8yakplYUlGNDZWY3BObDdHWmViNXNJZldPS2puZXJndzZpbU5pdTAzMWxnVzZlc1BVVUFwOFlQTUpnbWdtNzRHWQ?oc=5",
+   "fecha": "2026-11-05 19:09"
   }
  ]
 }
