@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Muere Marcos Camino, fundador de Los Palmeras, a los 75 años",
+    "artista": "Marcos Camino",
+    "intro": "Murió el martes 10 de noviembre de 2026 Marcos Camino, fundador y acordeonista histórico de Los Palmeras, a los 75 años.",
+    "telegraph_url": "https://telegra.ph/Muere-Marcos-Camino-fundador-de-Los-Palmeras-a-los-75-años-11-11",
+    "url": "https://enelensayomedia.com/notas/muere-marcos-camino-fundador-de-los-palmeras-a-los-75-anos-1110.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/muere-marcos-camino-fundador-de-los-palmeras-a-los-75-anos-1110.jpg",
+    "fecha": "2026-11-10T19:50:12.058298",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "Tom Hanks exige dejar en paz a Harvey frente a la ola de remakes de Hollywood",
