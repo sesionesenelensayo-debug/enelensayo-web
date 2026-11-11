@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Bret Hart denuncia la falta de realismo en la lucha libre actual",
+    "artista": "Bret Hart",
+    "intro": "El legendario Bret Hart, ex campeón mundial, criticó abiertamente el rumbo de la lucha libre contemporánea, afirmando que la industria ha abandonado el realismo que caracterizó su generación.",
+    "telegraph_url": "https://telegra.ph/Bret-Hart-denuncia-la-falta-de-realismo-en-la-lucha-libre-actual-11-11",
+    "url": "https://enelensayomedia.com/notas/bret-hart-denuncia-la-falta-de-realismo-en-la-lucha-libre-actual-1111.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/bret-hart-denuncia-la-falta-de-realismo-en-la-lucha-libre-actual-1111.jpg",
+    "fecha": "2026-11-11T13:38:40.775058",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
     "tipo": "entrevista",
     "titulo": "Santiago Abascal cancela entrevista en The Wild Project por polémica con Vox",
     "artista": "Santiago Abascal",
@@ -5830,18 +5844,5 @@
     "categoria": "Escena local",
     "fecha_original": "2026-10-30T10:22:48.715747",
     "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Hello Kitty entre la polémica histórica y la presión comercial China‑Japón",
-    "artista": "Hello Kitty",
-    "intro": "La icónica marca enfrenta críticas, disculpas y decisiones estratégicas mientras la disputa diplomática entre China y Japón se intensifica.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/hello-kitty-entre-la-polemica-historica-y-la-presion-comercial-chinaja-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/hello-kitty-entre-la-polemica-historica-y-la-presion-comercial-chinaja-1031.jpg",
-    "fecha": "2026-10-31T12:48:59.764092",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Agenda woke"
   }
 ]
