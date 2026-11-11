@@ -197,6 +197,12 @@
  ],
  "misterio": [
   {
+   "titulo": "'Infamia': la serie que esconde las realidades oscuras tras la desaparición de dos niñas",
+   "fuente": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPQUNmVEdEbE5XZWtTTGwwVkhZdEs2TmNvaDFqQ2JzNVNzbnpWakk2elRMNG9GeWphS28zZmx6QlF3VWJuOFp2dWltTFNObU80SDh3SDlOQ1I5ZFNNeVB2VDhjRThzM0dqaWo4ZXBPNWVBNDNqWXpPVFlHYkwzVVd4NW9xbkgta2VoYk5CSmdQcjdYUE9VVzZsRVpqWjBzNmJrUmphajZwa3V1TENGUFlia1QzOUx4b3BoWlJWOXBCQ2k4N19QVHhlbFBYRTJYaUxHVjNV0gHuAUFVX3lxTFA4TG53MlYzSS0ya1VGLTBuNGlPay0wVURJdGg2TkdNTVBkMjQ0LWxfbXN4MkFzVTg5MkVEUEVlWExLNWNZQUxDdGtidWtKYkZSQnBxdmNtUEJjbGIxWUs2bFVkM01rVnZfTlVGbkQxajVkZ2RvdUduM0ZYY3JiQnNrRlBIaUpnSWZMS1o3eC1laE5uc09tNWRxcHdGblJ4aXlYbll1T0pHTTJ4cGhVRGtqbDZZdGVscDJBWmliQ0xsVHRNNkgtd3FuOFNiam4td1F6eEdaMnhGa2U5elg5QTlGTlNpMUhPc0xZWUVjbGc?oc=5",
+   "fecha": "2026-11-11 07:46"
+  },
+  {
    "titulo": "¿Qué le pasó a Jacobo Grinberg? El hermano de Ari Telch que desapareció sin dejar rastro",
    "fuente": "El Grafico",
    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOSFFsVWxzME94RVhqTy1DenhMakpveTlPVzc4X19oYnplbE4waTUxRTF0Q3hHc2tFd3JldlNjaTlhV1pldGxzSi1sRlVSQnR6Ujl3RE5rbW9TZ0Y2cnN2eTlYLWw2X21GRlhQTWhlQl9hVzlmWURiaUtaeFNtZlc0OWp0b0RseU5HYVBzMnFBelFGak4xaWlNLTFGeVpZNDF0eEtPUUQ1SjUySW9HQWtiWWhoc2l3ODhKTEhCTjhOQTRQcEJicVNpVk43SnVaZTJicXc?oc=5",
@@ -297,12 +303,6 @@
    "fuente": "TV Azteca Chiapas",
    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxORTdoeEVQMjd5WjVwOWl2WnBEMThPMjg3eEtLdGNzZjNXRFRwekVWMWhQSWdEVlgwTm5PNmVJNHhzZnZkMHhNOVU0b3Z1T2ZUVS01LW1TNlFWbjFjRmVtOHNhZnVLcmc3eGlYLUd5ZzltV0RfcE9jY3BoWC0zLVh3d09VVnVvb3BFbGZueEE5MnZUOUVqTm9VazEzb1RCdnZHUU53VWtwcmNTZ3RGSllrc2xSdlZCRFpNZ3d0WjdVRm9xUV95aENzWWNuQmFDMXlpZGNCMGdiQUdDY0UyMW5UQl82WVVHa2o3VVZQekU3WFVLclJKamJ3cjR2SExtaWtSeEFR?oc=5",
    "fecha": "2026-11-04 17:14"
-  },
-  {
-   "titulo": "Los 15 mejores libros de novela negra de 2026 que he leído y que, te prometo, van a engancharte",
-   "fuente": "HOLA",
-   "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5lczhZS2h4LWx0cnpKQ010eURVejZzNGR4ZGEzOU5OYmFqY1NaSzF6YkxQbkUwZ0h1S2lTbTFJQkpjRWVDQl9BYnV2THl3VUl4U0lQalpUX0tmS3A3RmFWcDVheHlka3pTdU5KeWkwNktNWVNXUE1OTA?oc=5",
-   "fecha": "2026-11-04 17:02"
   }
  ],
  "misterio_propio": [
@@ -313,5 +313,5 @@
    "tipo": "longs"
   }
  ],
- "actualizado": "2026-11-11 04:30"
+ "actualizado": "2026-11-11 06:31"
 }
