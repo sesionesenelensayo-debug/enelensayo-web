@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Stream Fighters 5: Valdiri regresa y WestCol confirma fecha y cartelera",
+    "artista": "Stream Fighters",
+    "intro": "¡Se acabó la espera! Stream Fighters 5 ya tiene fecha, lugar y cartelera confirmada.",
+    "telegraph_url": "https://telegra.ph/Stream-Fighters-5-Valdiri-regresa-y-WestCol-confirma-fecha-y-cartelera-11-11",
+    "url": "https://enelensayomedia.com/notas/stream-fighters-5-valdiri-regresa-y-westcol-confirma-fecha-y-cartelera-1111.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/stream-fighters-5-valdiri-regresa-y-westcol-confirma-fecha-y-cartelera-1111.jpg",
+    "fecha": "2026-11-11T16:29:38.832115",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "David Walliams enfrenta graves acusaciones de mala conducta",
     "artista": "David Walliams acusado de grooming",
     "intro": "Una investigación periodística vincula al comediante y autor británico David Walliams con denuncias de conducta sexual inapropiada y una fallida batalla legal.",
@@ -5836,19 +5850,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "2PAC SHAKUR: Se pensaba accidente, era asesinato",
-    "artista": "2PAC SHAKUR",
-    "intro": "El legendario rapero y activista Tupac Shakur, conocido como 2Pac, murió en el hospital a los 25 años tras haber sido baleado días antes en Las Vegas. La noticia revela que, contrariamente a la creenc",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/2pac-shakur-se-pensaba-accidente-era-asesinato-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/2pac-shakur-se-pensaba-accidente-era-asesinato-1031.jpg",
-    "fecha": "2026-10-31T17:28:16.921389",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Terror"
   }
 ]
