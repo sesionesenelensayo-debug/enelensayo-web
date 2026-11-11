@@ -1,17 +1,12 @@
 {
- "Pintores": {
-  "shorts": [],
-  "longs": [
-   {
-    "id": "oz1qqfTXclI",
-    "titulo": "El misterio del movimiento natural en la Ronda de noche de Rembrandt",
-    "fecha": "2026-11-11",
-    "nota": "https://enelensayomedia.com/notas/el-misterio-del-movimiento-natural-en-la-ronda-de-noche-de-rembrandt-1111.html"
-   }
-  ]
- },
  "Biografía": {
   "shorts": [
+   {
+    "id": "a5BDRrqxHCg",
+    "titulo": "En el Ensayo Media: la carrera y retiro de Avicii",
+    "fecha": "2026-11-11",
+    "nota": "https://enelensayomedia.com/notas/en-el-ensayo-media-la-carrera-y-retiro-de-avicii-1111.html"
+   },
    {
     "id": "5O5nBQ3RCOM",
     "titulo": "En el Ensayo Media: las últimas horas de Chavela Vargas en Cuernavaca",
@@ -77,12 +72,6 @@
     "titulo": "El trágico secreto detrás de la voz de Laura Branigan",
     "fecha": "2026-11-02",
     "nota": "https://enelensayomedia.com/notas/el-tragico-secreto-detras-de-la-voz-de-laura-branigan-1102.html"
-   },
-   {
-    "id": "W6SS_pRrHMY",
-    "titulo": "El oscuro secreto del éxito de The Slim Shady LP de Eminem",
-    "fecha": "2026-11-02",
-    "nota": "https://enelensayomedia.com/notas/el-oscuro-secreto-del-exito-de-the-slim-shady-lp-de-eminem-1102.html"
    }
   ],
   "longs": [
@@ -157,6 +146,17 @@
     "titulo": "La ascensión y trágico final de Jonathan Meléndez y Camilo Séptimo",
     "fecha": "2026-11-01",
     "nota": "https://enelensayomedia.com/notas/la-ascension-y-tragico-final-de-jonathan-melendez-y-camilo-septimo-1101.html"
+   }
+  ]
+ },
+ "Pintores": {
+  "shorts": [],
+  "longs": [
+   {
+    "id": "oz1qqfTXclI",
+    "titulo": "El misterio del movimiento natural en la Ronda de noche de Rembrandt",
+    "fecha": "2026-11-11",
+    "nota": "https://enelensayomedia.com/notas/el-misterio-del-movimiento-natural-en-la-ronda-de-noche-de-rembrandt-1111.html"
    }
   ]
  },
