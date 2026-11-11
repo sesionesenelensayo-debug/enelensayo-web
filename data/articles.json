@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Eiza González desata rumores de boda tras viaje",
+    "artista": "Eiza González",
+    "intro": "Mientras la actriz mexicana mantiene una trayectoria consolidada entre la televisión y el cine internacional, su vida personal vuelve a acaparar los reflectores.",
+    "telegraph_url": "https://telegra.ph/Eiza-González-desata-rumores-de-boda-tras-viaje-11-10",
+    "url": "https://enelensayomedia.com/notas/eiza-gonzalez-desata-rumores-de-boda-tras-viaje-1110.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/eiza-gonzalez-desata-rumores-de-boda-tras-viaje-1110.jpg",
+    "fecha": "2026-11-10T19:54:47.272967",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-10T12:33:29.081520",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Muere Marcos Camino, fundador de Los Palmeras, a los 75 años",
     "artista": "Marcos Camino",
     "intro": "Murió el martes 10 de noviembre de 2026 Marcos Camino, fundador y acordeonista histórico de Los Palmeras, a los 75 años.",
@@ -349,20 +365,6 @@
     "categoria": "Luchas",
     "fecha_original": "2026-11-06T13:33:07.597601",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Eiza González desata rumores de boda tras viaje",
-    "artista": "Eiza González",
-    "intro": "Mientras la actriz mexicana mantiene una trayectoria consolidada entre la televisión y el cine internacional, su vida personal vuelve a acaparar los reflectores.",
-    "telegraph_url": "https://telegra.ph/Eiza-González-desata-rumores-de-boda-tras-viaje-11-10",
-    "url": "https://enelensayomedia.com/notas/eiza-gonzalez-desata-rumores-de-boda-tras-viaje-1110.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/eiza-gonzalez-desata-rumores-de-boda-tras-viaje-1110.jpg",
-    "fecha": "2026-11-10T12:33:29.081520",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   },
   {
     "opinion": false,
