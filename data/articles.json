@@ -1,5 +1,19 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "El fracaso de taquilla de Blancanieves: la apuesta woke que hundió a Disney",
+    "artista": "la polémica de Blancanieves (2025) de Disney y su taquilla",
+    "intro": "La película perdió más de 168 millones de dólares y acumuló críticas por su desviación del canon original.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-fracaso-de-taquilla-de-blancanieves-la-apuesta-woke-que-hundio-a-di-1111.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-fracaso-de-taquilla-de-blancanieves-la-apuesta-woke-que-hundio-a-di-1111.jpg",
+    "fecha": "2026-11-11T12:48:05.319333",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Agenda woke"
+  },
+  {
     "opinion": false,
     "tipo": "noticia",
     "titulo": "Daniela Spalla anuncia concierto en el Teatro Metropólitan de la CDMX el 19 de febrero de 2027",
@@ -5827,18 +5841,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Esports"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Donald Glover lidera la serie live‑action de PUBG para Netflix",
-    "artista": "Donald Glover serie de ‘Pubg’ para Netflix",
-    "intro": "El actor‑creador dirige y protagoniza la adaptación del popular battle royale, con un equipo ejecutivo que incluye a Krafton y a productores de Hollywood.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/donald-glover-lidera-la-serie-liveaction-de-pubg-para-netflix-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/donald-glover-lidera-la-serie-liveaction-de-pubg-para-netflix-1031.jpg",
-    "fecha": "2026-10-31T09:23:05.548013",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme internacional"
   }
 ]
