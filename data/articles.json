@@ -1,5 +1,21 @@
 [
   {
+    "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Kygo en México 2027: fechas, sedes y boletos",
+    "artista": "Kygo",
+    "intro": "El productor noruego Kygo regresará a México en 2027 con dos conciertos que incluirán música electrónica y un cartel con invitados especiales.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/kygo-en-mexico-2027-fechas-sedes-y-boletos-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/kygo-en-mexico-2027-fechas-sedes-y-boletos-1103.jpg",
+    "fecha": "2026-11-11T15:24:12.629107",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-11-03T13:34:06.725879",
+    "actualizada": true
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Las 10 mayores pérdidas de taquilla entre 2025 y 2026",
     "artista": "las 10 películas que más dinero perdieron (mayores fracasos de taquilla recientes)",
@@ -1335,22 +1351,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Chisme"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Kygo en México 2027: fechas, sedes y boletos",
-    "artista": "Kygo",
-    "intro": "El productor noruego Kygo regresará a México en 2027 con dos conciertos que incluirán música electrónica y un cartel con invitados especiales.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/kygo-en-mexico-2027-fechas-sedes-y-boletos-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/kygo-en-mexico-2027-fechas-sedes-y-boletos-1103.jpg",
-    "fecha": "2026-11-09T14:32:01.805535",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-03T13:34:06.725879",
-    "actualizada": true
   },
   {
     "opinion": false,

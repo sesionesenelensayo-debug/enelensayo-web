@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-11 13:04",
+ "actualizado": "2026-11-11 15:24",
  "eventos": [],
  "api": false,
  "ticketmaster": {
@@ -109,6 +109,12 @@
  ],
  "noticias": [
   {
+   "titulo": "Metric, Broken Social Scene y Stars anuncian tres conciertos en México para abril de 2027",
+   "fuente": "Almomento.mx",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQN1l6d2N1QWJqV2w1SkNtU29fY1hrTVRvcXNycmhxWTJmNzdxUGRiYU44ZUxzeDFEM2VMN0FiYXBoWm1aaFBOZHRpV2VibWU1UDVFTDRjdlFSSTcxTFBoQTFFTGNfUjFxdXhIdWdzaWJvd01CV3lXS0JNZlpvZkZOS0FvTHRJcS1HMGlQQTBpaTREallZRDRZTU9iRDBQS0J2d3B4OU1INkg4Wi15dUF3?oc=5",
+   "fecha": "2026-11-11 18:28"
+  },
+  {
    "titulo": "Rels B en CdMx: ¿Cuándo y dónde dará sus conciertos? Fechas y preventa de boletos",
    "fuente": "Milenio",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMFhJbTBMSEJfRE11ZU00NVlIYUJQS1I4RS1DYnd6cHVNUXJCeHlhTlFldG4xZXd5SnNrQlAyQ1NtWEZ5TEY1VWoycFY4UkFyemd3V0FxdzlERC03Tl84SWJOLXZjRkE3NEhSSFdQQzNnOXNFRVNCYkVIWExkek1zTFdyY3dJUHdCUS0tdUkwV0VoaThjZEJtN28yUdIBmwFBVV95cUxQdWtfUm5GbHdzbUpMMmJYMzIyZGxfdzV2cVZ2ckpYRWszRGQ3LU1hRUVSMFZmWktoNzRjSXpCWnlZeDV3QURfbmQwR3czN3NycHFFZnY0cThLQUF2ZE9RYmQtMl9VOWhxZ0c2MGlNcThFdG9adTlBZk9LbzlKVS1MN0VlNk9BZncwcnNyNlUwTEZ2VlJrcVFDN0NqRQ?oc=5",
@@ -119,18 +125,6 @@
    "fuente": "LifeBoxset",
    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFA1NlFqTkdpMXBRNkVMVE51YjRqbnVHdHhDMEJUYXo2UXFob3pCQU9FNFJYMG1LOVNhOExHVkpBWmtvd3hVNjFfTC1fcEVGdkRJd0NVTUJoS0VBR2pnbFU0?oc=5",
    "fecha": "2026-11-11 12:38"
-  },
-  {
-   "titulo": "¡Qué trío! Metric, Broken Social Scene y Stars anuncian conciertos en México para 2027",
-   "fuente": "LifeBoxset",
-   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBBMWZ5SDhvVjNuNWZLOGRkR0gxcTFYc3pvZlBsRElfckFWVlZQM2pIWGVLcWg5VlllVm5WSm5uYjgwNXdSMm5Rb3V5YXJJTkh5QlVZalZMUkNuYzM1NHF2d0ViQQ?oc=5",
-   "fecha": "2026-11-10 22:52"
-  },
-  {
-   "titulo": "Karol G anuncia restaurante por tiempo limitado en CDMX: Ubicación, precio de boletos y accesos",
-   "fuente": "EXA FM",
-   "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPV3E0cS0xNjBXNDB0ZFUzdjE2QVppUGQ4UjdQcDdDcHlzOS12MDFrTnFocndkVVV0eTBJeklZaXY4ZjROX0pYanNYdWV1WTR5eFB2c2pYZHlOYTc1Qy16YkRfZVlnekZESnB4OWlPRHE2bUV2bU5BcjBybzZMZmphVGlTVlFYYlc0MlRGMVYtMi1CMGdnTnMzVWVCb1dDSVFqLUhvTmtZWE5ucGZQZkEyZXpueGN1cXJzbl8yUmpuSXpoVkNqY1lCSUxjd0ZnVk5FVGgzeQ?oc=5",
-   "fecha": "2026-11-10 22:30"
   },
   {
    "titulo": "Feid anuncia NUEVA FECHA de concierto en CdMx tras agotar boletos: ¿Cuándo es y cómo comprarlos?",
@@ -151,16 +145,10 @@
    "fecha": "2026-11-10 16:34"
   },
   {
-   "titulo": "Don Omar confirma conciertos en México: fechas y cómo registrarte para la preventa de boletos",
-   "fuente": "Claro Sports",
-   "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSXowNmpDVW1LVlJacy1VUmtxQmNNNHNuMjRUaDhDNWNvS2lNU19IVm5yWFZxQkR0ci1vRjBNV2VpRmlTOUNqWVNEZDJpd0RjbURVY2Jmb1dlaWY2bFUtQjJBcjl6T2FuRUVYYlZRdmVEejdOeG01RUVWdnFVckZVTW8teUZRQXhDcW1oTVVuVTQ1WTVid2R3dVhOSVJSSkpGTnhVeThSMGNFU2NYSFBmYnZJV0VQM0tGazBWWm8talJSZThjZDZPdTFod0xOSmkxbHMzVV9n?oc=5",
-   "fecha": "2026-11-09 23:46"
-  },
-  {
    "titulo": "Cómo registrarse a la preventa de Feid en el Palacio de los Deportes: requisitos y fecha límite",
    "fuente": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPemlpMmJmdUZjSkNrYWVYbzlWVlFiOE9JX01pR19qZlBFM3dZTEdtYmhCUnRodW1pQ0F5Q3VjWWk0QnZZQndIeGpXcXh5anNmaHlyaG5icy1DVGE3SGxCSjFkclRqcHhqdUllSjFONlU1VEt2aG0tMXJNUGhrckt3OGJVNk8yaWNKTnRQV2lnbWdIdHc0ZTN0Ri1sREpqR2l4MC11YkNuQVBHbEJvSEh0d2RXZWVXRGNuRUVKcTdIUHBMQXRubHd0Smd6eDFtbTVlT3VJ0gHuAUFVX3lxTE1rVTBJaDdVT05RWEo2NnJEaktHWS1tMHVIOHExR2N0YzA0WWI2RnlGZlFTdDFsWkZUaG94V1VYNF9HcTVGN2hWZlZlUjNrWmtTaGlNQ09wV2djX1JHU1lHQkN6b0VVRjVUQ2dIbS1Pb2lNeXVUYldKNWtkTkdwRU1DRjZaSzZoUzRrdG1ySGstajJjdk9zQmU3cldOdTk3NE5GMmNUWml5a0RWVGZfWXlWM0JGRkZRZTY5cURoTXowWjZTRlROeWZTbDJXbHVyMi1CbEg2N1lETmY4LWt2eGtwSlg4N2ZpQkFWbUJmYlE?oc=5",
-   "fecha": "2026-11-09 20:41"
+   "fecha": "2026-11-09 20:32"
   },
   {
    "titulo": "Karol G CDMX 2026: Precios y cómo comprar boletos de último minuto para el Estadio GNP Seguros",
@@ -175,10 +163,10 @@
    "fecha": "2026-11-09 17:05"
   },
   {
-   "titulo": "¡El señor de la noche regresa! Don Omar anuncia conciertos en México: Fechas, sedes y registro a la preventa",
-   "fuente": "El Financiero",
-   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObFRvTEhvWEQwXzlKMi1SeFVEVld4N1RGR0NaMkZSMjFqaVZ4ZXNtTmFyTVVFaGVnQ2dSUnI3R2VuX0tpOUhnVXpqeFpjMjAwUTcxVVN3M08yWlJlem5VZDdFRDRMamdDYVI4UDN1X3BleWQya1NSMzNQMmFZNkRtNGdDb1NwVG52dlRsc29TdkRQVjUwdEE0emloLXNhdDJrUm1ZdUdQRGJCN2U5VDg2M1lndGJjQkxqR09j?oc=5",
-   "fecha": "2026-11-07 23:29"
+   "titulo": "Don Omar anuncia conciertos en México: fechas, preventa y cómo registrarse para comprar boletos",
+   "fuente": "Eje Central",
+   "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQeVZhLXBzQUZwUmRoaU84amdkLWZCVHpkMmcxNnlPYXhZeEc2QWpFYWxDQ2xSSlFIbGxFcVFVMG5fZHNxX3RtRl9HeTJWa2RqaG9ibmUwMF9zMHc0dko2Mkd0RFBWNXVkQi0xUDVEYVhZNE1KaGxlR0tYVFdVX1owTGFvSnd2RjlEQVBmS1ZGQzJvdFh4aHFSQUFLeUZIZWZMVEdlOW5idVYyWEEySy1yZTFjdEw5SHNWZVJ0MWdpRFQ0T3JYTnFMdDNVV0RjQTZY?oc=5",
+   "fecha": "2026-11-08 02:23"
   },
   {
    "titulo": "Feid volverá a México para su Green Star Tour en 2027: fechas, ciudades y cuándo inicia la preventa",
@@ -191,6 +179,18 @@
    "fuente": "Panorama Web",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNHV0eXV3ZUZOMXBYR01ZdEtwOXlsRU8tWFV4UDlmVGlaS1gtUk10VVZzVUphaHNKOWZ1MGxPZUNlZXVlaEFKYUN3MjZzVzd6RHVPaFJhMDVhVUZMRll2YmV6Ync3ZUpmLTJQRTVnNUU0RnM2cll5OVpSTEhkX3c4NTk3MkNqa1hMQzR0ZklIVlNmR04wc2ZNTGx4YUlJR2NyVWZFa0JnaVJpM3luR25pa1BzUXB1WmZrY3djeGlXRk9TV1g4bWx1dXRyWU85NEptMDM4azNScks?oc=5",
    "fecha": "2026-11-06 23:03"
+  },
+  {
+   "titulo": "Boletos del Vive Latino 2027: precios, preventa y venta general",
+   "fuente": "sdpnoticias",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUFdYUDB4NUpRbWdMYklKZUdyZXVvSERKT1FlcWNyRnVOQlcwWkN2a0xGSC1DdjFMN0w4YnBKcmlmNm55bkw4YmlRTUc0MS1uaVZtcnRaZExDLWpzSUtpaVY5MTJkbzZPWi0xa2xUY3VvbS0wLXdwa1p0LVpHNGZFQkJSaGdFOFZhZDF2NXRYdU9ab1k1RjFSaVl5NGtDbkk3TXpqM04yUEEwUjBLMVhr?oc=5",
+   "fecha": "2026-11-06 21:29"
+  },
+  {
+   "titulo": "Feid anuncia gira de conciertos en 2027: ¿dónde verlo en vivo?",
+   "fuente": "Popticular",
+   "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1sUnBxR1B3NndVRGtQMHZwQmNDTmYtMVBiUVdZYVc4Z3p0VUlfRVhwdXVQLWgzblVBY0FJRXRTN2F3Y25QMTRQVEY4TUpqb3dpTENBQzJlQU1mVUJwQVJGa0tjdjB6UjF0MlV2a1dqYXYtc19GT2xRZHBLc1dEUHc?oc=5",
+   "fecha": "2026-11-06 15:24"
   }
  ]
 }
