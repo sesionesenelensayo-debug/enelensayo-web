@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Novedades y juegos gratis de PS Plus Extra y Premium",
+    "artista": "PS Plus",
+    "intro": "Sony anunció la tanda de juegos de PS Plus Extra y Premium para noviembre de 2026, destacando la llegada de Death Stranding 2: On the Beach como el título principal del catálogo.",
+    "telegraph_url": "https://telegra.ph/Novedades-y-juegos-gratis-de-PS-Plus-Extra-y-Premium-11-10",
+    "url": "https://enelensayomedia.com/notas/novedades-y-juegos-gratis-de-ps-plus-extra-y-premium-1110.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/novedades-y-juegos-gratis-de-ps-plus-extra-y-premium-1110.jpg",
+    "fecha": "2026-11-10T23:00:20.987462",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos",
+    "fecha_original": "2026-11-10T11:46:51.987685",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "¿Leslie Polinesia o Diana Galván? La guerra de voces en Netflix",
     "artista": "Actores de doblaje",
     "intro": "La industria del doblaje latinoamericano enfrenta una crisis de identidad. Actores profesionales denuncian la suplantación de voces por parte de celebridades y creadores de contenido…",
@@ -252,22 +268,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Novedades y juegos gratis de PS Plus Extra y Premium",
-    "artista": "PS Plus",
-    "intro": "Sony anunció la tanda de juegos de PS Plus Extra y Premium para noviembre de 2026, destacando la llegada de Death Stranding 2: On the Beach como el título principal del catálogo.",
-    "telegraph_url": "https://telegra.ph/Novedades-y-juegos-gratis-de-PS-Plus-Extra-y-Premium-11-10",
-    "url": "https://enelensayomedia.com/notas/novedades-y-juegos-gratis-de-ps-plus-extra-y-premium-1110.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/novedades-y-juegos-gratis-de-ps-plus-extra-y-premium-1110.jpg",
-    "fecha": "2026-11-10T15:23:31.171595",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-11-10T11:46:51.987685",
-    "actualizada": true
   },
   {
     "opinion": false,
