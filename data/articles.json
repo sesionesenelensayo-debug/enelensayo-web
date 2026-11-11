@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "Worlds 2026: Definición de la Fase Suiza en Texas",
+    "artista": "Worlds 2026 Swiss Stage Round 5",
+    "intro": "El torneo internacional de League of Legends se desarrolla en Texas con enfrentamientos clave en formato suizo.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/worlds-2026-definicion-de-la-fase-suiza-en-texas-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/worlds-2026-definicion-de-la-fase-suiza-en-texas-1101.jpg",
+    "fecha": "2026-11-10T18:10:05.898300",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports",
+    "fecha_original": "2026-11-01T17:29:55.089363",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Avengers: Doomsday rompe récords de preventa con más de 125 millones de dólares",
@@ -4977,19 +4992,6 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-10-31T12:29:53.323445",
     "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Worlds 2026: Definición de la Fase Suiza en Texas",
-    "artista": "Worlds 2026 Swiss Stage Round 5",
-    "intro": "El torneo internacional de League of Legends se desarrolla en Texas con enfrentamientos clave en formato suizo.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/worlds-2026-definicion-de-la-fase-suiza-en-texas-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/worlds-2026-definicion-de-la-fase-suiza-en-texas-1101.jpg",
-    "fecha": "2026-11-01T17:29:55.089363",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Esports"
   },
   {
     "tipo": "reportaje",
