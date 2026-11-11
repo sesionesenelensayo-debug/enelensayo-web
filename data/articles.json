@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Chavela Vargas muere en Cuernavaca; su último suspiro: 'Me voy con México'",
+    "artista": "Chavela Vargas: sus últimas palabras en Cuernavaca",
+    "intro": "El 30 de julio de 2012, la legendaria cantante Chavela Vargas fue ingresada en un hospital de Cuernavaca por fallas crónicas en corazón, pulmones y riñones. Seis días después, a los 93 años, falleció.",
+    "telegraph_url": "https://telegra.ph/Chavela-Vargas-muere-en-Cuernavaca-su-último-suspiro-Me-voy-con-México-11-11",
+    "url": "https://enelensayomedia.com/notas/chavela-vargas-muere-en-cuernavaca-su-ultimo-suspiro-me-voy-con-mexico-1111.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/chavela-vargas-muere-en-cuernavaca-su-ultimo-suspiro-me-voy-con-mexico-1111.jpg",
+    "fecha": "2026-11-11T13:04:59.183532",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "In memoriam"
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "El fracaso de taquilla de Blancanieves: la apuesta woke que hundió a Disney",
@@ -5828,18 +5842,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Escena local"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Teamfight Tactics Superbrawl EMEA: formato, inscripción y camino a los Trials",
-    "artista": "Teamfight Tactics Superbrawl EMEA",
-    "intro": "El Superbrawl reúne a 96 equipos en un torneo de cuatro contra cuatro que decidirá los pases a la segunda semana del Tactician’s Trials 1 del set 19.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/teamfight-tactics-superbrawl-emea-formato-inscripcion-y-camino-a-los-t-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/teamfight-tactics-superbrawl-emea-formato-inscripcion-y-camino-a-los-t-1031.jpg",
-    "fecha": "2026-10-31T10:11:38.360438",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Esports"
   }
 ]
