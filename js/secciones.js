@@ -74,6 +74,7 @@
       ['Reproducciones Longs', 'yt_views_longs', 'https://www.youtube.com/@EnelEnsayoMedia/videos', '#673AB7', '🎬', 'vistas'],
       ['Visitas al sitio', 'visitas_sitio', '#portada', '#00C9A7', '🌐', 'visitas']];
     var el = document.getElementById('sxHitos'); if (!el) return;
+    R = R.filter(function (r) { return (+s[r[1]] || 0) > 0; });      // [.leon 2026-11-12] sin dato (API apagada: X) no se muestra «0 seguidores»
     el.innerHTML = R.map(function (r) {
       var v = +s[r[1]] || 0, h = hito(v);
       return '<a class="hito" href="' + r[2] + '" target="_blank" rel="noopener" style="--c:' + r[3] + '"><span class="ic">' + r[4] + '</span><span><b>' + r[0] + '</b>' +
