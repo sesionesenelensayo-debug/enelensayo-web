@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Karla Souza debuta en 'Grey's Anatomy' y protagonizará spin-off en Texas",
+    "artista": "Grey's Anatomy",
+    "intro": "Karla Souza debuta en 'Grey's Anatomy' y será la primera actriz confirmada para el spin-off ambientado en el oeste de Texas. El anuncio del casting se hizo el 11 de noviembre de 2026.",
+    "telegraph_url": "https://telegra.ph/Karla-Souza-debuta-en-Greys-Anatomy-y-protagonizará-spin-off-en-Texas-11-12",
+    "url": "https://enelensayomedia.com/notas/karla-souza-debuta-en-grey-s-anatomy-y-protagonizara-spin-off-en-texas-1112.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/karla-souza-debuta-en-grey-s-anatomy-y-protagonizara-spin-off-en-texas-1112.jpg",
+    "fecha": "2026-11-12T14:37:43.086688",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Las polémicas declaraciones sobre Rebecca Jones",
     "artista": "Rebecca Jones",
     "intro": "A tres años del fallecimiento de la actriz Rebecca Jones, su exrepresentante Emilio Morales lanzó severas acusaciones en su contra durante una entrevista en un pódcast.",
@@ -5852,19 +5866,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Michael Gray, del papel de Billy Budson a la florería de West Hollywood",
-    "artista": "Michael Gray",
-    "intro": "En el video de En el Ensayo Media se relata la trayectoria de Michael Gray, actor que interpretó a Billy Budson en la serie Shazam de los años 70, su paso por The Brian Kid Show y The Brady Bunch…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/michael-gray-del-papel-de-billy-budson-a-la-floreria-de-west-hollywood-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/michael-gray-del-papel-de-billy-budson-a-la-floreria-de-west-hollywood-1101.jpg",
-    "fecha": "2026-11-01T08:21:09.259503",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   }
 ]
