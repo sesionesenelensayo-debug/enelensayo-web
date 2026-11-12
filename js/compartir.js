@@ -71,3 +71,29 @@
     im.onload = function () { pintar(im); }; im.onerror = function () { pintar(null); }; if (src) im.src = src; else pintar(null);
   }
 })();
+
+// [.leon 2026-11-12] Mejoras de retención (solo páginas de nota): (1) cuadro «Entérate primero» al canal de Telegram con contador de clics (tg-nota); (2) «Lo más leído» de la categoría (data/mas_leidas.json, lo genera el bot con los contadores de visitas).
+(function () {
+  var box = document.querySelector('.share'); var art = document.querySelector('article'); if (!box || !art) return;
+  var A = 'https://abacus.jasoncameron.dev/hit/enelensayo-mx2/';
+  var st = document.createElement('style');
+  st.textContent = '.eem-tg{display:flex;flex-wrap:wrap;align-items:center;gap:12px;margin:26px 0 8px;padding:16px 18px;border-radius:16px;background:linear-gradient(135deg,#26A5E4,#1b6fb3);color:#fff}' +
+    '.eem-tg b{flex:1 1 200px;font:800 16px/1.25 Manrope,system-ui,sans-serif}.eem-tg a{background:#fff;color:#0b4f82;font:800 14px Manrope,system-ui,sans-serif;padding:10px 16px;border-radius:99px;text-decoration:none}' +
+    '.eem-mas{margin:22px 0 8px}.eem-mas h3{font:800 15px Manrope,system-ui,sans-serif;text-transform:uppercase;letter-spacing:.04em;margin:0 0 10px}.eem-mas a{display:block;padding:10px 0;border-top:1px solid rgba(128,128,150,.3);text-decoration:none;color:inherit;font:700 15px/1.3 Manrope,system-ui,sans-serif}.eem-mas small{display:block;font:400 11px ui-monospace,monospace;opacity:.7;margin-top:2px}';
+  document.head.appendChild(st);
+  var tg = document.createElement('div'); tg.className = 'eem-tg';
+  tg.innerHTML = '<b>📲 Entérate primero: lo último de En el Ensayo en nuestro canal de Telegram</b><a href="https://t.me/enelensayomedia" target="_blank" rel="noopener">Unirme gratis</a>';
+  tg.querySelector('a').addEventListener('click', function () { try { if (window.eemTipoVisita === 'real') fetch(A + 'tg-nota', { mode: 'no-cors', keepalive: true }); } catch (e) { } });
+  box.parentNode.insertBefore(tg, box.nextSibling);
+  var propia = location.pathname.split('/').pop(), cat = ((document.querySelector('.kicker') || {}).textContent || '').split('·').pop().trim().toLowerCase();
+  fetch('/data/mas_leidas.json?_=' + Math.floor(Date.now() / 3600000)).then(function (r) { return r.json(); }).then(function (d) {
+    var L = (d.categorias && d.categorias[cat]) || []; L = L.filter(function (n) { return n.url.indexOf(propia) < 0; });
+    var titulo = 'Lo más leído en ' + (cat ? cat.replace(/^./, function (c) { return c.toUpperCase(); }) : 'la semana');
+    if (L.length < 2) { L = (d.general || []).filter(function (n) { return n.url.indexOf(propia) < 0; }); titulo = 'Lo más leído esta semana'; }
+    if (!L.length) return;
+    var m = document.createElement('div'); m.className = 'eem-mas'; m.innerHTML = '<h3>' + titulo + '</h3>' + L.slice(0, 4).map(function (n) {
+      return '<a href="' + n.url + '?utm_source=interna&utm_medium=mas_leidas">' + n.titulo.replace(/</g, '&lt;') + '<small>' + n.visitas + ' lecturas</small></a>';
+    }).join('');
+    tg.parentNode.insertBefore(m, tg.nextSibling);
+  }).catch(function () { });
+})();
