@@ -1,6 +1,21 @@
 [
   {
     "opinion": false,
+    "tipo": "entrevista",
+    "titulo": "Pokkefriends: de Castelli a Pokkelandia con su primer adelanto",
+    "artista": "POKKEFRIENDS",
+    "intro": "La banda argentina POKKEFRIENDS, originaria de Castelli, provincia de Buenos Aires, se formó en 2018 entre amigos para tocar versiones.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/pokkefriends-de-castelli-a-pokkelandia-con-su-primer-adelanto-1112.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/pokkefriends-de-castelli-a-pokkelandia-con-su-primer-adelanto-1112.jpg",
+    "fecha": "2026-11-12T09:45:49.924148",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Entrevista",
+    "periodico": true
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Tame Impala anuncia posible fecha en Monterrey para 2027",
     "artista": "Tame Impala",
@@ -5844,18 +5859,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Terror"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "U2 agrega tercera fecha en la Ciudad de México para febrero de 2027",
-    "artista": "U2",
-    "intro": "La banda irlandesa U2 anunció un tercer concierto en el Estadio GNP Seguros como parte de su gira mundial.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/u2-agrega-tercera-fecha-en-la-ciudad-de-mexico-para-febrero-de-2027-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/u2-agrega-tercera-fecha-en-la-ciudad-de-mexico-para-febrero-de-2027-1031.jpg",
-    "fecha": "2026-10-31T23:09:38.788591",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
   }
 ]
