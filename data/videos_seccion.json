@@ -1,4 +1,40 @@
 {
+ "Terror y misterio": {
+  "shorts": [
+   {
+    "id": "zJYXZ4Qz2m8",
+    "titulo": "Nueve rusos cortaron su tienda desde adentro: El misterio del paso Dyatlov",
+    "fecha": "2026-11-11",
+    "nota": "https://enelensayomedia.com/notas/nueve-rusos-cortaron-su-tienda-desde-adentro-el-misterio-del-paso-dyat-1111.html"
+   },
+   {
+    "id": "76JALKze6N4",
+    "titulo": "La noche que intentaron matar a Rasputín en San Petersburgo",
+    "fecha": "2026-11-06",
+    "nota": "https://enelensayomedia.com/notas/la-noche-que-intentaron-matar-a-rasputin-en-san-petersburgo-1106.html"
+   },
+   {
+    "id": "cG6u5QKK7Xo",
+    "titulo": "Los niños que se esfumaron en Navidad | El caso Sodder",
+    "fecha": "2026-11-05",
+    "nota": "https://enelensayomedia.com/notas/los-ninos-que-se-esfumaron-en-navidad-el-caso-sodder-1105.html"
+   },
+   {
+    "id": "fQXnuHWMIkQ",
+    "titulo": "Jimmy Hoffa: El sindicalista que borraron del mapa | Historia Real",
+    "fecha": "2026-11-04",
+    "nota": "https://enelensayomedia.com/notas/jimmy-hoffa-el-sindicalista-que-borraron-del-mapa-historia-real-1104.html"
+   }
+  ],
+  "longs": [
+   {
+    "id": "G_TZ7BXk6tU",
+    "titulo": "El horror del garrote: la sirvienta que incendió una viuda en 1888",
+    "fecha": "2026-11-04",
+    "nota": "https://enelensayomedia.com/notas/el-horror-del-garrote-la-sirvienta-que-incendio-una-viuda-en-1888-1104.html"
+   }
+  ]
+ },
  "Cine": {
   "shorts": [
    {
@@ -400,12 +436,6 @@
     "titulo": "El trágico incendio del Teatro Iroquois de Chicago y su legado en la seguridad",
     "fecha": "2026-11-01",
     "nota": "https://enelensayomedia.com/notas/el-tragico-incendio-del-teatro-iroquois-de-chicago-y-su-legado-en-la-s-1101.html"
-   },
-   {
-    "id": "5WHj8dHRsk4",
-    "titulo": "Cómo arreglar toda tu vida en un día según Dan Koe",
-    "fecha": "2026-10-31",
-    "nota": "https://enelensayomedia.com/notas/como-arreglar-toda-tu-vida-en-1-dia-historia-completa-1031.html"
    }
   ]
  },
@@ -425,36 +455,6 @@
    }
   ],
   "longs": []
- },
- "Terror y misterio": {
-  "shorts": [
-   {
-    "id": "76JALKze6N4",
-    "titulo": "La noche que intentaron matar a Rasputín en San Petersburgo",
-    "fecha": "2026-11-06",
-    "nota": "https://enelensayomedia.com/notas/la-noche-que-intentaron-matar-a-rasputin-en-san-petersburgo-1106.html"
-   },
-   {
-    "id": "cG6u5QKK7Xo",
-    "titulo": "Los niños que se esfumaron en Navidad | El caso Sodder",
-    "fecha": "2026-11-05",
-    "nota": "https://enelensayomedia.com/notas/los-ninos-que-se-esfumaron-en-navidad-el-caso-sodder-1105.html"
-   },
-   {
-    "id": "fQXnuHWMIkQ",
-    "titulo": "Jimmy Hoffa: El sindicalista que borraron del mapa | Historia Real",
-    "fecha": "2026-11-04",
-    "nota": "https://enelensayomedia.com/notas/jimmy-hoffa-el-sindicalista-que-borraron-del-mapa-historia-real-1104.html"
-   }
-  ],
-  "longs": [
-   {
-    "id": "G_TZ7BXk6tU",
-    "titulo": "El horror del garrote: la sirvienta que incendió una viuda en 1888",
-    "fecha": "2026-11-04",
-    "nota": "https://enelensayomedia.com/notas/el-horror-del-garrote-la-sirvienta-que-incendio-una-viuda-en-1888-1104.html"
-   }
-  ]
  },
  "Sesiones en vivo": {
   "shorts": [],

@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Nueve rusos cortaron su tienda desde adentro: El misterio del paso Dyatlov",
+    "artista": "Caso del Dyatlov Pass, febrero de 1959, montes Urales (Rusia): nueve excursionistas murieron en una noche helada tras cortar su tienda desde adentro y salir descalzos; algunos tenían fracturas graves y rastros de radiación en la ropa, y aunque en 2020 se atribuyó a un alud de nieve, el caso sigue debatiéndose y es muy popular en México.",
+    "intro": "En enero de 1959, nueve estudiantes del Instituto Politécnico de los Urales, liderados por Igor Dyatlov, realizaron una expedición de esquí hacia el monte Otorten en los montes Urales.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/nueve-rusos-cortaron-su-tienda-desde-adentro-el-misterio-del-paso-dyat-1111.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/nueve-rusos-cortaron-su-tienda-desde-adentro-el-misterio-del-paso-dyat-1111.jpg",
+    "fecha": "2026-11-11T23:02:15.269424",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Terror y misterio"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "GTA 6 podrá precargarse a partir del 12 de noviembre antes de su lanzamiento",
     "artista": "GTA 6",
     "intro": "Los jugadores que adquieran la versión digital de GTA 6 podrán iniciar la precarga del juego el 12 de noviembre de 2026, siete días antes de su salida oficial el 19 de noviembre.",
@@ -5843,19 +5857,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Agenda woke"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Cómo arreglar toda tu vida en un día según Dan Koe",
-    "artista": "Como arreglar toda tu vida en 1 dia - Historia Completa",
-    "intro": "En el video del canal En el Ensayo Media se presenta un análisis sobre el cambio personal basado en las ideas de Dan Koe.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/como-arreglar-toda-tu-vida-en-1-dia-historia-completa-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/como-arreglar-toda-tu-vida-en-1-dia-historia-completa-1031.jpg",
-    "fecha": "2026-10-31T22:46:47.624855",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Cultura"
   }
 ]
