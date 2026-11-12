@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Los Anillos de Poder: estreno de la tercera temporada y lo que se sabe",
+    "artista": "Los Anillos de Poder",
+    "intro": "Prime Video lanza la tercera entrega en tres semanas, con cambios de formato y una trama que avanza cinco años tras la caída de Eregion.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/los-anillos-de-poder-estreno-de-la-tercera-temporada-y-lo-que-se-sabe-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/los-anillos-de-poder-estreno-de-la-tercera-temporada-y-lo-que-se-sabe-1109.jpg",
+    "fecha": "2026-11-12T11:19:21.678370",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Televisión",
+    "fecha_original": "2026-11-09T09:30:06.107096",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "«Wildwood» tendrá redoblaje en México tras críticas",
     "artista": "Javier Ibarreche",
     "intro": "¿Puede una película animada cambiar por completo sus voces en México debido al rechazo masivo de la audiencia?",
@@ -1111,22 +1127,6 @@
     "views": 0,
     "categoria": "Marvel y DCU",
     "fecha_original": "2026-11-02T09:20:00",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Los Anillos de Poder: estreno de la tercera temporada y lo que se sabe",
-    "artista": "Los Anillos de Poder",
-    "intro": "Prime Video lanza la tercera entrega en tres semanas, con cambios de formato y una trama que avanza cinco años tras la caída de Eregion.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/los-anillos-de-poder-estreno-de-la-tercera-temporada-y-lo-que-se-sabe-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/los-anillos-de-poder-estreno-de-la-tercera-temporada-y-lo-que-se-sabe-1109.jpg",
-    "fecha": "2026-11-10T14:31:18.740449",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Televisión",
-    "fecha_original": "2026-11-09T09:30:06.107096",
     "actualizada": true
   },
   {
