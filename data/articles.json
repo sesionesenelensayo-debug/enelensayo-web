@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Amazon inicia pruebas de cámara para elegir al nuevo James Bond",
+    "artista": "Casting James Bond",
+    "intro": "Jack Lowden, Callum Turner y Josh O'Connor son los candidatos confirmados para el papel.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/amazon-inicia-pruebas-de-camara-para-elegir-al-nuevo-james-bond-1112.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/amazon-inicia-pruebas-de-camara-para-elegir-al-nuevo-james-bond-1112.jpg",
+    "fecha": "2026-11-12T16:20:31.027822",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme internacional",
+    "fecha_original": "2026-11-12T09:19:49.891891",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Karely Ruiz y Jorge Durán en tenso momento en La Mansión VIP 2",
     "artista": "Karely Ruiz",
     "intro": "La llegada de Jorge Durán a La Mansión VIP 2 desató un momento tenso con Karely Ruiz, generando reacciones divididas entre los seguidores del reality.",
@@ -443,20 +459,6 @@
     "views": 0,
     "categoria": "Entrevista",
     "periodico": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Amazon inicia pruebas de cámara para elegir al nuevo James Bond",
-    "artista": "Casting James Bond",
-    "intro": "Jack Lowden, Callum Turner y Josh O'Connor son los candidatos confirmados para el papel.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/amazon-inicia-pruebas-de-camara-para-elegir-al-nuevo-james-bond-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/amazon-inicia-pruebas-de-camara-para-elegir-al-nuevo-james-bond-1112.jpg",
-    "fecha": "2026-11-12T09:19:49.891891",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme internacional"
   },
   {
     "opinion": false,
