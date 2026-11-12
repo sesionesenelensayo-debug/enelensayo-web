@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Muere Regina Torné a los 82 años",
+    "artista": "Regina Torné",
+    "intro": "La actriz mexicana Regina Torné falleció el 11 de noviembre de 2026 a los 82 años de edad en su domicilio de la Ciudad de México.",
+    "telegraph_url": "https://telegra.ph/Muere-Regina-Torné-a-los-82-años-11-12",
+    "url": "https://enelensayomedia.com/notas/muere-regina-torne-a-los-82-anos-1111.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/muere-regina-torne-a-los-82-anos-1111.jpg",
+    "fecha": "2026-11-11T20:03:31.106964",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "In memoriam"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Renata Notni y Gonzalo Hevia desatan rumores de romance",
     "artista": "Renata Notni",
     "intro": "El 10 de noviembre de 2026, la actriz mexicana Renata Notni y el empresario Gonzalo Hevia Baillères fueron captados juntos en Los Ángeles, California.",
@@ -5840,18 +5854,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece el seiyu Hiroshi Tsuchida a los 54 años",
-    "artista": "Hiroshi Tsuchida",
-    "intro": "El 11 de octubre de 2026 falleció el reconocido actor de voz japonés Hiroshi Tsuchida, a los 54 años.",
-    "telegraph_url": "https://telegra.ph/Fallece-el-seiyu-Hiroshi-Tsuchida-a-los-54-años-11-01",
-    "url": "https://enelensayomedia.com/notas/fallece-el-seiyu-hiroshi-tsuchida-a-los-54-anos-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-el-seiyu-hiroshi-tsuchida-a-los-54-anos-1031.jpg",
-    "fecha": "2026-10-31T21:13:27.462992",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
