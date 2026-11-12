@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Brad Pitt afirma que el ‘no’ pesa más que el ‘sí’ en su carrera",
+    "artista": "Brad Pitt",
+    "intro": "El actor Oscar 2026, Brad Pitt, declaró que la palabra ‘no’ es la más fuerte que posee un artista, y que su éxito depende más de lo que rechaza que de lo que acepta.",
+    "telegraph_url": "https://telegra.ph/Brad-Pitt-afirma-que-el-no-pesa-más-que-el-sí-en-su-carrera-11-12",
+    "url": "https://enelensayomedia.com/notas/brad-pitt-afirma-que-el-no-pesa-mas-que-el-si-en-su-carrera-1112.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/brad-pitt-afirma-que-el-no-pesa-mas-que-el-si-en-su-carrera-1112.jpg",
+    "fecha": "2026-11-12T07:52:53.845404",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Dove Cameron lanza su álbum debut “Final Girl” y abre la gira “You Are the Reason Tour”",
     "artista": "Dove Cameron",
     "intro": "Dove Cameron presentó su primer álbum de estudio, “Final Girl”, el 6 de noviembre de 2026, marcando el culminar de ocho años de evolución artística.",
@@ -4943,20 +4957,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Judi Dench recuerda el apoyo silencioso de Robin Williams a su esposo",
-    "artista": "Judi Dench",
-    "intro": "En una reciente declaración, la actriz Judi Dench rememoró cómo Robin Williams estuvo presente, en silencio, al lado de su marido mientras enfrentaba una enfermedad oncológica.",
-    "telegraph_url": "https://telegra.ph/Judi-Dench-recuerda-el-apoyo-silencioso-de-Robin-Williams-a-su-esposo-11-02",
-    "url": "https://enelensayomedia.com/notas/judi-dench-recuerda-el-apoyo-silencioso-de-robin-williams-a-su-esposo-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/judi-dench-recuerda-el-apoyo-silencioso-de-robin-williams-a-su-esposo-1102.jpg",
-    "fecha": "2026-11-02T11:39:41.228761",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   },
   {
     "tipo": "reportaje",
