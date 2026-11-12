@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Chisme de pasillo: Rebecca Jones y las acusaciones de su exmanager",
+    "artista": "Rebecca Jones",
+    "intro": "En el video publicado por el canal En el Ensayo Media se aborda el caso de la actriz de cine de lobos Rebecca Jones, fallecida en marzo de 2023…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/chisme-de-pasillo-rebecca-jones-y-las-acusaciones-de-su-exmanager-1112.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/chisme-de-pasillo-rebecca-jones-y-las-acusaciones-de-su-exmanager-1112.jpg",
+    "fecha": "2026-11-12T14:55:12.516550",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Karla Souza debuta en 'Grey's Anatomy' y protagonizará spin-off en Texas",
     "artista": "Grey's Anatomy",
     "intro": "Karla Souza debuta en 'Grey's Anatomy' y será la primera actriz confirmada para el spin-off ambientado en el oeste de Texas. El anuncio del casting se hizo el 11 de noviembre de 2026.",
@@ -5853,18 +5868,5 @@
     "categoria": "Cultura",
     "fecha_original": "2026-11-01T07:08:39.958614",
     "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El Callejón del Muerto: la historia del comerciante Tristán de Alzúcer",
-    "artista": "el Callejón del Muerto en Zacatecas",
-    "intro": "Una crónica que sigue la llegada, la promesa incumplida y el legado fantasmagórico del Callejón del Muerto en Zacatecas.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-callejon-del-muerto-la-historia-del-comerciante-tristan-de-alzucer-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-callejon-del-muerto-la-historia-del-comerciante-tristan-de-alzucer-1101.jpg",
-    "fecha": "2026-11-01T08:31:49.984362",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror"
   }
 ]
