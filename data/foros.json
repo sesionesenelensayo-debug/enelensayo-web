@@ -436,6 +436,16 @@
    "auto": true
   },
   {
+   "nombre": "La Burra Blanca",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "",
+   "lat": 19.4275021,
+   "lon": -99.1332127,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
    "nombre": "Cracovia 32, San Ángel, CDMX",
    "ciudad": "Ciudad de México",
    "estado": "Distrito Federal",
