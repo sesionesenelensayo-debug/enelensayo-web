@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Familia Elizalde se deslinda del documental 'Valentín: La Muerte del Gallo de Oro'",
+    "artista": "Valentín Elizalde",
+    "intro": "La familia de Valentín Elizalde emitió un comunicado deslindándose de la producción del documental 'Valentín: La Muerte del Gallo de Oro', que HBO Max estrenará el 12 de noviembre de 2026.",
+    "telegraph_url": "https://telegra.ph/Familia-Elizalde-se-deslinda-del-documental-Valentín-La-Muerte-del-Gallo-de-Oro-11-12",
+    "url": "https://enelensayomedia.com/notas/familia-elizalde-se-deslinda-del-documental-valentin-la-muerte-del-gal-1112.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/familia-elizalde-se-deslinda-del-documental-valentin-la-muerte-del-gal-1112.jpg",
+    "fecha": "2026-11-12T16:52:53.679276",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Mark Ruffalo critica el auge de la derecha en 'Siendo Heumann'",
     "artista": "Mark Ruffalo",
     "intro": "Mark Ruffalo criticó en una entrevista publicada el 11 de noviembre de 2026 el giro hacia la derecha en la presentación de su nueva película 'Siendo Heumann'.",
@@ -5856,18 +5870,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Festival Xandú reúne artistas en Huatulco para celebrar la memoria",
-    "artista": "Festival Xandú",
-    "intro": "El Festival Xandú congregó a diversos artistas en la ciudad costera de Huatulco con el objetivo de honrar la memoria colectiva.",
-    "telegraph_url": "https://telegra.ph/Festival-Xandú-reúne-artistas-en-Huatulco-para-celebrar-la-memoria-11-01",
-    "url": "https://enelensayomedia.com/notas/festival-xandu-reune-artistas-en-huatulco-para-celebrar-la-memoria-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/festival-xandu-reune-artistas-en-huatulco-para-celebrar-la-memoria-1101.jpg",
-    "fecha": "2026-11-01T09:55:38.880471",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   }
 ]
