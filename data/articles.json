@@ -1,5 +1,21 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Eiza González desata rumores de boda tras viaje",
+    "artista": "Eiza González",
+    "intro": "Mientras la actriz mexicana mantiene una trayectoria consolidada entre la televisión y el cine internacional, su vida personal vuelve a acaparar los reflectores.",
+    "telegraph_url": "https://telegra.ph/Eiza-González-desata-rumores-de-boda-tras-viaje-11-10",
+    "url": "https://enelensayomedia.com/notas/eiza-gonzalez-desata-rumores-de-boda-tras-viaje-1110.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/eiza-gonzalez-desata-rumores-de-boda-tras-viaje-1110.jpg",
+    "fecha": "2026-11-11T19:35:47.395998",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-10T12:33:29.081520",
+    "actualizada": true
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Las 10 mayores pérdidas de taquilla entre 2025 y 2026",
     "artista": "las 10 películas que más dinero perdieron (mayores fracasos de taquilla recientes)",
@@ -650,22 +666,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Eiza González desata rumores de boda tras viaje",
-    "artista": "Eiza González",
-    "intro": "Mientras la actriz mexicana mantiene una trayectoria consolidada entre la televisión y el cine internacional, su vida personal vuelve a acaparar los reflectores.",
-    "telegraph_url": "https://telegra.ph/Eiza-González-desata-rumores-de-boda-tras-viaje-11-10",
-    "url": "https://enelensayomedia.com/notas/eiza-gonzalez-desata-rumores-de-boda-tras-viaje-1110.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/eiza-gonzalez-desata-rumores-de-boda-tras-viaje-1110.jpg",
-    "fecha": "2026-11-10T19:54:47.272967",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-10T12:33:29.081520",
-    "actualizada": true
   },
   {
     "opinion": false,
