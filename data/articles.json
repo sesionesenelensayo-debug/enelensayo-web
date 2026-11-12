@@ -1,5 +1,19 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "El caos del DCU: Lanterns y la farsa de su segunda temporada",
+    "artista": "Lanterns",
+    "intro": "El fallido universo de DC Studios vuelve a demostrar su absoluta ineptitud organizativa tras el cierre de la primera temporada de Lanterns el pasado 4 de octubre de 2026.",
+    "telegraph_url": "https://telegra.ph/El-caos-del-DCU-Lanterns-y-la-farsa-de-su-segunda-temporada-11-12",
+    "url": "https://enelensayomedia.com/notas/el-caos-del-dcu-lanterns-y-la-farsa-de-su-segunda-temporada-1111.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-caos-del-dcu-lanterns-y-la-farsa-de-su-segunda-temporada-1111.jpg",
+    "fecha": "2026-11-11T18:05:30.349751",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Faker critica la preparación de Bilibili Gaming tras eliminación en Worlds 2026",
@@ -5836,19 +5850,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Esports"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades que no sabías de Robert Plant",
-    "artista": "Robert Plant",
-    "intro": "En este video del canal En el Ensayo Media se presentan cinco datos poco conocidos sobre la vida y trayectoria del reconocido músico Robert Plant.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-robert-plant-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-que-no-sabias-de-robert-plant-1031.jpg",
-    "fecha": "2026-10-31T17:40:46.672433",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Datos curiosos"
   }
 ]
