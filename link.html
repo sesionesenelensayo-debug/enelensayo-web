@@ -35,7 +35,7 @@ a.btn.pri{background:var(--amarillo);color:#0B0812;border-color:var(--amarillo)}
   <p>Música, cultura y espectáculos de México</p>
 </header>
 
-<a class="btn pri" href="/">Ir al sitio · enelensayomedia.com</a>
+<a class="btn pri" href="/?utm_source=bio&utm_medium=link">Ir al sitio · enelensayomedia.com</a>
 
 <h2>Últimas notas</h2>
 <div id="notas"><div id="estado">Cargando…</div></div>
@@ -50,7 +50,7 @@ a.btn.pri{background:var(--amarillo);color:#0B0812;border-color:var(--amarillo)}
 (function(){
   var cont=document.getElementById('notas');
   function crear(a){
-    var e=document.createElement('a');e.className='nota';e.href=a.url;
+    var e=document.createElement('a');e.className='nota';e.href=a.url+(a.url.indexOf('?')>-1?'&':'?')+'utm_source=bio&utm_medium=link';
     if(a.imagen_url){var i=document.createElement('img');i.loading='lazy';i.alt='';i.src=a.imagen_url;e.appendChild(i);}
     var d=document.createElement('div');
     var c=document.createElement('span');c.className='cat';c.textContent=(a.categoria||'Nota').toUpperCase();

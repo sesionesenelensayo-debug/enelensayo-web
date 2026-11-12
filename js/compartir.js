@@ -2,15 +2,27 @@
 (function () {
   var box = document.querySelector('.share'); if (!box) return;
   var url = location.href.split('#')[0], titulo = (document.querySelector('h1') || {}).textContent || document.title, u = encodeURIComponent(url), t = encodeURIComponent(titulo);
+  // [.leon 2026-11-12] Cada clic en compartir se cuenta (sh-total, sh-<red>, sh-n-<nota>) y el enlace compartido lleva utm_source=<red>: así se mide quién comparte y de dónde vuelve el tráfico (WhatsApp/Telegram no envían referrer).
+  var base = location.origin + location.pathname;
+  function U(red) { return encodeURIComponent(base + '?utm_source=' + red + '&utm_medium=compartido'); }
   var B = [
-    ['x', 'X', '#111111', 'https://twitter.com/intent/tweet?url=' + u + '&text=' + t],
-    ['facebook', 'Facebook', '#1877F2', 'https://www.facebook.com/sharer/sharer.php?u=' + u],
-    ['whatsapp', 'WhatsApp', '#25D366', 'https://wa.me/?text=' + t + '%20' + u],
+    ['x', 'X', '#111111', 'https://twitter.com/intent/tweet?url=' + U('x') + '&text=' + t],
+    ['facebook', 'Facebook', '#1877F2', 'https://www.facebook.com/sharer/sharer.php?u=' + U('facebook')],
+    ['whatsapp', 'WhatsApp', '#25D366', 'https://wa.me/?text=' + t + '%20' + U('whatsapp')],
     ['instagram', 'Historia IG', '#E1306C', '#historia'],
-    ['bluesky', 'Bluesky', '#0085FF', 'https://bsky.app/intent/compose?text=' + t + '%20' + u],
-    ['threads', 'Threads', '#000000', 'https://www.threads.net/intent/post?text=' + t + '%20' + u],
-    ['telegram', 'Telegram', '#26A5E4', 'https://t.me/share/url?url=' + u + '&text=' + t]
+    ['bluesky', 'Bluesky', '#0085FF', 'https://bsky.app/intent/compose?text=' + t + '%20' + U('bluesky')],
+    ['threads', 'Threads', '#000000', 'https://www.threads.net/intent/post?text=' + t + '%20' + U('threads')],
+    ['telegram', 'Telegram', '#26A5E4', 'https://t.me/share/url?url=' + U('telegram') + '&text=' + t]
   ];
+  function contar(red) {
+    try {
+      if (window.eemTipoVisita !== 'real') return;
+      var slug = location.pathname.split('/').pop().replace('.html', ''), hh = 5381, i, A = 'https://abacus.jasoncameron.dev/hit/enelensayo-mx2/';
+      for (i = 0; i < slug.length; i++) hh = ((hh << 5) + hh + slug.charCodeAt(i)) >>> 0;
+      ['sh-total', 'sh-' + red, 'sh-n-' + ('00000000' + hh.toString(16)).slice(-8)].forEach(function (k) { fetch(A + k, { mode: 'no-cors', keepalive: true }); });
+    } catch (e) { }
+  }
+
   var st = document.createElement('style');
   st.textContent = '.share.cmp{display:flex;flex-wrap:wrap;gap:8px;align-items:center}.share.cmp>span{font:400 12px ui-monospace,monospace;text-transform:uppercase;margin-right:2px}' +
     '.share.cmp a{display:inline-flex;align-items:center;gap:8px;border:0;border-radius:99px;padding:8px 14px 8px 10px;color:#fff;font:800 13px/1 Manrope,system-ui,sans-serif;text-transform:none;letter-spacing:0;text-decoration:none;cursor:pointer;transition:transform .15s,filter .15s}' +
@@ -23,10 +35,11 @@
     a.innerHTML = '<i style="--m:url(/img/iconos/' + b[0] + '.svg)"></i>' + b[1];
     if (b[3] === '#historia') { a.className = 'ig'; a.href = '#'; a.addEventListener('click', function (e) { e.preventDefault(); historia(a); }); }
     else { a.href = b[3]; a.target = '_blank'; a.rel = 'noopener'; }
+    a.addEventListener('click', function () { contar(b[0]); });
     box.appendChild(a);
   });
   var cp = document.createElement('a'); cp.className = 'cp'; cp.href = '#'; cp.innerHTML = '<i style="--m:url(\'data:image/svg+xml;utf8,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22><path d=%22M16 1H4a2 2 0 0 0-2 2v14h2V3h12V1zm3 4H8a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2zm0 16H8V7h11v14z%22/></svg>\')"></i>Copiar enlace';
-  cp.addEventListener('click', function (e) { e.preventDefault(); try { navigator.clipboard.writeText(url); } catch (x) { } cp.lastChild.textContent = '¡Copiado!'; setTimeout(function () { cp.lastChild.textContent = 'Copiar enlace'; }, 1800); });
+  cp.addEventListener('click', function (e) { e.preventDefault(); contar('copiar'); try { navigator.clipboard.writeText(base + '?utm_source=copiado&utm_medium=compartido'); } catch (x) { } cp.lastChild.textContent = '¡Copiado!'; setTimeout(function () { cp.lastChild.textContent = 'Copiar enlace'; }, 1800); });
   box.appendChild(cp);
 
   function envolver(c, texto, x, y, ancho, alto, max) {
