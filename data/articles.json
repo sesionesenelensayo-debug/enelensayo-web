@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Natalia Téllez habla tras anuncio de redoblaje en 'Wildwood': \"Lo tomo con respeto\"",
+    "artista": "Natalia Téllez",
+    "intro": "Natalia Téllez rompió el silencio el martes 10 de noviembre sobre la controversia que envuelve al doblaje latino de 'Wildwood: El bosque salvaje' (LAIKA Studios).",
+    "telegraph_url": "https://telegra.ph/Natalia-Téllez-habla-tras-anuncio-de-redoblaje-en-Wildwood-Lo-tomo-con-respeto-11-12",
+    "url": "https://enelensayomedia.com/notas/natalia-tellez-habla-tras-anuncio-de-redoblaje-en-wildwood-lo-tomo-con-1112.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/natalia-tellez-habla-tras-anuncio-de-redoblaje-en-wildwood-lo-tomo-con-1112.jpg",
+    "fecha": "2026-11-12T10:31:28.408119",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Spotify Wrapped 2026: la fecha prevista es el 2 de diciembre",
     "artista": "Spotify",
     "intro": "Spotify no ha confirmado oficialmente la fecha de lanzamiento de su Wrapped 2026.",
@@ -5847,18 +5861,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece el compositor belga Frans Geysen a los 90 años",
-    "artista": "Frans Geysen",
-    "intro": "Frans Geysen, compositor, profesor académico y escritor musical belga, falleció el 18 de octubre de 2026.",
-    "telegraph_url": "https://telegra.ph/Fallece-el-compositor-belga-Frans-Geysen-a-los-90-años-11-01",
-    "url": "https://enelensayomedia.com/notas/fallece-el-compositor-belga-frans-geysen-a-los-90-anos-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-el-compositor-belga-frans-geysen-a-los-90-anos-1101.jpg",
-    "fecha": "2026-11-01T00:07:58.113932",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
