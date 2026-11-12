@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Amazon inicia pruebas de cámara para elegir al nuevo James Bond",
+    "artista": "Casting James Bond",
+    "intro": "Jack Lowden, Callum Turner y Josh O'Connor son los candidatos confirmados para el papel.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/amazon-inicia-pruebas-de-camara-para-elegir-al-nuevo-james-bond-1112.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/amazon-inicia-pruebas-de-camara-para-elegir-al-nuevo-james-bond-1112.jpg",
+    "fecha": "2026-11-12T09:19:49.891891",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme internacional"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "La Llorona: origen, evolución y presencia en el folclore hispanoamericano",
     "artista": "la Llorona (origen en México, versiones y primeros testimonios)",
     "intro": "Una crónica que recorre la tradición oral, los antecedentes prehispánicos y la documentación colonial de la figura fantasmagórica más conocida de México.",
@@ -5844,18 +5858,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Conciertos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Sanrio cancela colaboración por controversia política en Asia",
-    "artista": "Hello Kitty",
-    "intro": "La compañía japonesa Sanrio retiró una alianza comercial con la serie Vivant tras reclamos en China por su contenido histórico.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/sanrio-cancela-colaboracion-por-controversia-politica-en-asia-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/sanrio-cancela-colaboracion-por-controversia-politica-en-asia-1031.jpg",
-    "fecha": "2026-10-31T22:59:47.412671",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Agenda woke"
   }
 ]
