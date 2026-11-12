@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Tame Impala anuncia posible fecha en Monterrey para 2027",
+    "artista": "Tame Impala",
+    "intro": "Un reporte de noviembre de 2026 sugiere que Tame Impala podría tocar en Arena Monterrey el 16 de febrero de 2027.",
+    "telegraph_url": "https://telegra.ph/Tame-Impala-anuncia-posible-fecha-en-Monterrey-para-2027-11-12",
+    "url": "https://enelensayomedia.com/notas/tame-impala-anuncia-posible-fecha-en-monterrey-para-2027-1112.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/tame-impala-anuncia-posible-fecha-en-monterrey-para-2027-1112.jpg",
+    "fecha": "2026-11-12T09:39:31.775081",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Amazon inicia pruebas de cámara para elegir al nuevo James Bond",
     "artista": "Casting James Bond",
     "intro": "Jack Lowden, Callum Turner y Josh O'Connor son los candidatos confirmados para el papel.",
@@ -4605,21 +4619,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Rata Blanca: del demo independiente al estandarte del metal en español",
-    "artista": "Rata Blanca",
-    "intro": "En el video de En el Ensayo Media se narra la trayectoria de Rata Blanca, la banda argentina que pasó de un demo grabado en los Estudios Buenos Aires a convertirse en el grupo de heavy metal…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/rata-blanca-del-demo-independiente-al-estandarte-del-metal-en-espanol-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/rata-blanca-del-demo-independiente-al-estandarte-del-metal-en-espanol-1103.jpg",
-    "fecha": "2026-11-03T12:06:30.405509",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "opinion": false,
