@@ -1,6 +1,22 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Roca Rey y Tana Rivera: Cronología de una ruptura",
+    "artista": "Andrés Roca Rey",
+    "intro": "Tras reportes sobre su separación sentimental, la relación entre el torero peruano Andrés Roca Rey y Tana Rivera ha acaparado la atención mediática.",
+    "telegraph_url": "https://telegra.ph/Roca-Rey-y-Tana-Rivera-Cronología-de-una-ruptura-11-10",
+    "url": "https://enelensayomedia.com/notas/roca-rey-y-tana-rivera-cronologia-de-una-ruptura-1110.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/roca-rey-y-tana-rivera-cronologia-de-una-ruptura-1110.jpg",
+    "fecha": "2026-11-12T10:00:51.666812",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-10T14:15:05.037239",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "entrevista",
     "titulo": "Pokkefriends: de Castelli a Pokkelandia con su primer adelanto",
     "artista": "POKKEFRIENDS",
@@ -97,22 +113,6 @@
     "views": 0,
     "categoria": "Videojuegos",
     "fecha_original": "2026-10-31T09:33:41.980255",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Roca Rey y Tana Rivera: Cronología de una ruptura",
-    "artista": "Andrés Roca Rey",
-    "intro": "Tras reportes sobre su separación sentimental, la relación entre el torero peruano Andrés Roca Rey y Tana Rivera ha acaparado la atención mediática.",
-    "telegraph_url": "https://telegra.ph/Roca-Rey-y-Tana-Rivera-Cronología-de-una-ruptura-11-10",
-    "url": "https://enelensayomedia.com/notas/roca-rey-y-tana-rivera-cronologia-de-una-ruptura-1110.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/roca-rey-y-tana-rivera-cronologia-de-una-ruptura-1110.jpg",
-    "fecha": "2026-11-12T07:06:43.187780",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-10T14:15:05.037239",
     "actualizada": true
   },
   {
