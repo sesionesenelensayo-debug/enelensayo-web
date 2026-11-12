@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Chiquito de la Calzada: el humorista que transformó el habla",
+    "artista": "Chiquito de la Calzada: invirtió 'fistro' en el habla",
+    "intro": "Chiquito de la Calzada transformó el habla cotidiana de España con la invención de vocablos únicos.",
+    "telegraph_url": "https://telegra.ph/Chiquito-de-la-Calzada-el-humorista-que-transformó-el-habla-11-12",
+    "url": "https://enelensayomedia.com/notas/chiquito-de-la-calzada-el-humorista-que-transformo-el-habla-1111.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/chiquito-de-la-calzada-el-humorista-que-transformo-el-habla-1111.jpg",
+    "fecha": "2026-11-11T18:14:47.138772",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "El caos del DCU: Lanterns y la farsa de su segunda temporada",
@@ -5837,18 +5851,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Backstreet Boys lanzan Backstreet Gamers y se integran a la Global Gaming League",
-    "artista": "Backstreet Boys en Global Gaming League",
-    "intro": "El icónico grupo de pop crea un equipo competitivo, con los cinco integrantes como propietarios, para disputar torneos en la GGL y buscar nuevos talentos.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/backstreet-boys-lanzan-backstreet-gamers-y-se-integran-a-la-global-gam-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/backstreet-boys-lanzan-backstreet-gamers-y-se-integran-a-la-global-gam-1031.jpg",
-    "fecha": "2026-10-31T18:12:53.050940",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Esports"
   }
 ]
