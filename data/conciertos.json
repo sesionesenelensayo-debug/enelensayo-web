@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12 11:19",
+ "actualizado": "2026-11-12 13:20",
  "eventos": [],
  "api": false,
  "ticketmaster": {
@@ -109,6 +109,12 @@
  ],
  "noticias": [
   {
+   "titulo": "Gorillaz en CDMX: estos son los precios por zona para su concierto",
+   "fuente": "LifeBoxset",
+   "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Zdjc1d01MbFgtanJqM2tTNTdKVGNOM2pOVW5FeXRyNWdLT05UWkRwOUFWQWJLZ3lNUmp2cS1CNDVKaVg5TGpEd041NlhsaG5VdkF5ZVYxQWJRakJVdDJlN1hxTQ?oc=5",
+   "fecha": "2026-11-12 17:54"
+  },
+  {
    "titulo": "Tame Impala regresa a México con dos fechas ¡Preventa y boletos!",
    "fuente": "Dónde Ir",
    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPR1NTdDNqUFpwRkJNZi1pSWRJM1hvUnZTRUozMDVucnhBMDI5WG1fRE40aS1WWHZxcjdFdURFN0Fmd0xma3lVdlFPOC01cWZ0ZGlQd0dkRkV5N044TG95SklaV0ZuaUU1bll5d3JVTGExQlR4LVNneHRHNDI2RmpQa1AwdnlYSEk3c1c4TFZPZnFDM0gyVDZtWWJrTFpjUGc?oc=5",
@@ -121,10 +127,10 @@
    "fecha": "2026-11-12 15:31"
   },
   {
-   "titulo": "Bad Religion anuncia concierto en Ciudad de México para marzo de 2027 en Pabellón Oeste",
-   "fuente": "Almomento.mx",
-   "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTmt0RFMyaWhiY1A2R2twRkJsX2xUT1NzM21mM0JaZWlOSjF5TDZVYWwyajNUc3pmWXkzb0hCVmp1bVBOSXlibFN5ak1uclRKaTcwU2V5djRka0tESVBwbkNUY2VGVDJIRkpwR1dLdkxLa2h0bUdQU3d3VDVZUk9JS3VGNUVDaWZQQlFGZU01R2J3eVR2M0VlLVhhMHpacE9kTi1MSnJISm1mdHBicXc?oc=5",
-   "fecha": "2026-11-11 18:47"
+   "titulo": "Jueves 2x1 Ticketmaster para HOY 12 de noviembre: Estos son los conciertos válidos en la promoción",
+   "fuente": "Reporte Indigo",
+   "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZVN6MEJZczQ4M2xQVEhOdGc3UGh5dW16NW1oMlpjUXc2djNRMmJtaDdqVXl2b092Qk5SQm9NdW5BZWtaOUhoNkU3LUoyS0x2TS1TUzJ2NDlXZWVETDJaUzdyM3hEMUM2UnRTbGszMzJuVGJfSVBCQ1ZWYXRfUDFQaGpIS1Yya0h5WHBzRFFXQWp1ZjZKLTZRMEVIODlkS2RUQ0VVMndIdnpnSFFyTEZZTGxaWkdTXzNwN2V1QWVBTDNSTGY0dHc?oc=5",
+   "fecha": "2026-11-12 13:20"
   },
   {
    "titulo": "Metric, Broken Social Scene y Stars anuncian tres conciertos en México para abril de 2027",
@@ -134,7 +140,7 @@
   },
   {
    "titulo": "Rels B en CdMx: ¿Cuándo y dónde dará sus conciertos? Fechas y preventa de boletos",
-   "fuente": "MILENIO",
+   "fuente": "Milenio",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMFhJbTBMSEJfRE11ZU00NVlIYUJQS1I4RS1DYnd6cHVNUXJCeHlhTlFldG4xZXd5SnNrQlAyQ1NtWEZ5TEY1VWoycFY4UkFyemd3V0FxdzlERC03Tl84SWJOLXZjRkE3NEhSSFdQQzNnOXNFRVNCYkVIWExkek1zTFdyY3dJUHdCUS0tdUkwV0VoaThjZEJtN28yUdIBmwFBVV95cUxQdWtfUm5GbHdzbUpMMmJYMzIyZGxfdzV2cVZ2ckpYRWszRGQ3LU1hRUVSMFZmWktoNzRjSXpCWnlZeDV3QURfbmQwR3czN3NycHFFZnY0cThLQUF2ZE9RYmQtMl9VOWhxZ0c2MGlNcThFdG9adTlBZk9LbzlKVS1MN0VlNk9BZncwcnNyNlUwTEZ2VlJrcVFDN0NqRQ?oc=5",
    "fecha": "2026-11-11 17:49"
   },
@@ -145,8 +151,14 @@
    "fecha": "2026-11-11 12:38"
   },
   {
+   "titulo": "El Fantasma de la Opera llega a Guadalajara: Fechas, sede y boletos",
+   "fuente": "El Informador",
+   "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOanduV2FYYjZ2Q1hWMEYxcURZSWs0RV9kTjBCTmdoNWsyUzBkLVJHc0lUbHc3cnBDSDhVU1l1d2doQnZsdFJSTGFwZUNOWVh5NmlWajJHN1YwN0s1cGZ6UzZUaW9xSElOaEFqTmJWT0tHVTFzTVBrVnY2R1VxbDVPRXpCZkxKWnFlTmYzQ3ExQkk5M2VRNWpyaW4tSkw3SmF2SHZkN1oyNFQtOG8wcHNiTV9Wd3JRcnV6Z2ZaS0pWbjB5aVRo0gHKAUFVX3lxTFBMTXpxRXpWMjVxcmlUTFM3b0NhR2d2UnpsSHktZmNxcHJkRTd6VTRhUkdsM3M2SnZkZ1BZbFFsdFEwV2tGYVhpNFN0MWd2S3p0Nk5BYnFvaFVhR0JFWE1nRC1tYnVDT3Rhb0tINDB4eWgtZFRXUUJ1VTNHdDlEVmJXR3YyT1IwRGlscmxDOHVxQXYtMXFhMnRNY0RXOW1zNGxmVnotVHBQNGpRTmdJS0d2S2loVFdQbERjWHRnN2lNV2txZXhxRDNuLXc?oc=5",
+   "fecha": "2026-11-11 04:13"
+  },
+  {
    "titulo": "Feid anuncia NUEVA FECHA de concierto en CdMx tras agotar boletos: ¿Cuándo es y cómo comprarlos?",
-   "fuente": "MILENIO",
+   "fuente": "Milenio",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVE9tLW1iMWh2alZIc2F3WE5BUFVqR1RFOHVRSjR0ZHJIZVdFVVZHQ2NYVlhvU2FXRnNmS0l2ZTdPVThmYnB0YXVjRXBPRGE5aUNNSkZoUmRCaWVtNUxzZjdqc1YtU0xlblNhdm9MY0FxLURDRFJWdjAza2RHajhRakxJUXdMQ21XbnVDVHBCSVBuZUFYWEhycGx5Y2Q3d9IBngFBVV95cUxOLTA2cHl5OGJybnZzMmgxTVJmcTJhZFJTM3pvaF9GZm1MWkpfam5WNlFxTWk4b2xkUEJnU2xCMFdhQWlFUFpxb3h0anhRVHlUNXVrZlZxS3dPajVNOG1sVk1laUxZd3BvX3N5M0dDeWxvaTE0MmhRRGF0QzZ0UHBId2RtLWdfWWdqU18xTGlwdzRiSC10VEczZFpweG01QQ?oc=5",
    "fecha": "2026-11-10 18:19"
   },
@@ -175,22 +187,10 @@
    "fecha": "2026-11-09 18:56"
   },
   {
-   "titulo": "Tecate Pal Norte 2027: Empieza la venta de boletos de abonos",
-   "fuente": "Monterrey Rock",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNSUE4SzhCNG1oYkVYcTV3M2E5MGRzZ2NXNHpwWWItbXI3b29nVnRGaHlLQ0FMV3Jhekl3SllIYm1oaTIzUXpmNV9RNU1QdllzVENUSzJCWW0tYzJLT2Q0bGY2cUdaTzUwQVJfdXFoVEdvRWI5MkRJalNlanRfMlhMV1QtZw?oc=5",
-   "fecha": "2026-11-09 17:05"
-  },
-  {
    "titulo": "Don Omar anuncia conciertos en México para 2027: fechas, ciudades y cómo registrarte a la preventa",
    "fuente": "Grupo Animal",
    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPNUlMcjZJa0Rtck1rVk9HWjBhSVdoNzI5U3FmTU1HdnhHaDJhdFpQNHBwdjdGX2RVSi1LbDR6M09qYzgzY2I4aGpDLURTV3RDNko5Vm42VXdsaTZEa0w4dHlVSTU2X2VDd0ltTUlCOHNNbGNsMC1QUUNKYUlhbG5CRElwQk5YZkJBazBaeldQWQ?oc=5",
    "fecha": "2026-11-07 20:57"
-  },
-  {
-   "titulo": "Ozzfest México 2027: Fecha, venue, boletos y más",
-   "fuente": "Sopitas.com",
-   "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZUpaSWJWQmIwOE9yQzNCMnRDTlhOZVVtZFp0cURhLWNYQlczSTJQMHIyUFFYOVl0MFY2STJvS3ZrNEdDWEJ2SUtlWXY3c2NJYTluZU9fMGlMY0NXanQ3Wml1WnlLSzgwQVNVU0JwaWYtUlJiYUZkcGFWUVZ4aWNneTBzVQ?oc=5",
-   "fecha": "2026-11-06 21:37"
   }
  ]
 }
