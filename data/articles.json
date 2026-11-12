@@ -1,5 +1,21 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Muere Regina Torné a los 82 años",
+    "artista": "Regina Torné",
+    "intro": "La actriz mexicana Regina Torné falleció el 11 de noviembre de 2026 a los 82 años de edad en su domicilio de la Ciudad de México.",
+    "telegraph_url": "https://telegra.ph/Muere-Regina-Torné-a-los-82-años-11-12",
+    "url": "https://enelensayomedia.com/notas/muere-regina-torne-a-los-82-anos-1111.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/muere-regina-torne-a-los-82-anos-1111.jpg",
+    "fecha": "2026-11-12T13:02:56.271558",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-11T20:03:31.106964",
+    "actualizada": true
+  },
+  {
     "tipo": "noticia",
     "titulo": "Daddy Yankee visita Venezuela acompañado de Danny Ocean",
     "artista": "Daddy Yankee",
@@ -73,22 +89,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Marvel y DCU"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Muere Regina Torné a los 82 años",
-    "artista": "Regina Torné",
-    "intro": "La actriz mexicana Regina Torné falleció el 11 de noviembre de 2026 a los 82 años de edad en su domicilio de la Ciudad de México.",
-    "telegraph_url": "https://telegra.ph/Muere-Regina-Torné-a-los-82-años-11-12",
-    "url": "https://enelensayomedia.com/notas/muere-regina-torne-a-los-82-anos-1111.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/muere-regina-torne-a-los-82-anos-1111.jpg",
-    "fecha": "2026-11-12T12:36:43.329707",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-11T20:03:31.106964",
-    "actualizada": true
   },
   {
     "opinion": false,
