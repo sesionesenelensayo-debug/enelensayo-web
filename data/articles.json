@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Imagem Films confirma redoblaje de Wildwood tras polémica con star talents",
+    "artista": "Wildwood: El bosque salvaje (Redoblaje)",
+    "intro": "Imagem Films México confirmó que la película 'Wildwood: El bosque salvaje' contará con una nueva versión de doblaje en español latino.",
+    "telegraph_url": "https://telegra.ph/Imagem-Films-confirma-redoblaje-de-Wildwood-tras-polémica-con-star-talents-11-12",
+    "url": "https://enelensayomedia.com/notas/imagem-films-confirma-redoblaje-de-wildwood-tras-polemica-con-star-tal-1111.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/imagem-films-confirma-redoblaje-de-wildwood-tras-polemica-con-star-tal-1111.jpg",
+    "fecha": "2026-11-11T22:27:07.019301",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Cartel del Coachella 2027: edad media, países y quiénes están en el top 100",
     "artista": "Coachella",
@@ -4859,20 +4873,6 @@
   {
     "opinion": false,
     "tipo": "reportaje",
-    "titulo": "María León anuncia nueva etapa musical centrada en su 'lado villano'",
-    "artista": "María León",
-    "intro": "María León inicia una nueva fase en su carrera artística. La cantante mexicana ha decidido explorar una faceta distinta a la que el público conocía previamente.",
-    "telegraph_url": "https://telegra.ph/María-León-anuncia-nueva-etapa-musical-centrada-en-su-lado-villano-11-02",
-    "url": "https://enelensayomedia.com/notas/maria-leon-anuncia-nueva-etapa-musical-centrada-en-su-lado-villano-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/maria-leon-anuncia-nueva-etapa-musical-centrada-en-su-lado-villano-1102.jpg",
-    "fecha": "2026-11-02T16:35:28.298424",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
     "titulo": "Dragon Age: The Veilguard y el debate por su enfoque",
     "artista": "Dragon Age: The Veilguard",
     "intro": "El videojuego Dragon Age: The Veilguard ha generado intensos debates culturales sobre diversidad e inclusión tras su lanzamiento.",
@@ -5856,18 +5856,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Cultura"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El fantasma de la Torre de Londres: historia, testimonios y explicaciones",
-    "artista": "el caso del fantasma de la Torre de Londres",
-    "intro": "Una crónica que recorre siglos de arquitectura, prisioneros célebres y apariciones reportadas, analizando también las interpretaciones escépticas.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-fantasma-de-la-torre-de-londres-historia-testimonios-y-explicacione-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-fantasma-de-la-torre-de-londres-historia-testimonios-y-explicacione-1031.jpg",
-    "fecha": "2026-10-31T22:07:44.453331",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror"
   }
 ]
