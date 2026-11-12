@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Renata Notni y Gonzalo Hevia desatan rumores de romance",
+    "artista": "Renata Notni",
+    "intro": "El 10 de noviembre de 2026, la actriz mexicana Renata Notni y el empresario Gonzalo Hevia Baillères fueron captados juntos en Los Ángeles, California.",
+    "telegraph_url": "https://telegra.ph/Renata-Notni-y-Gonzalo-Hevia-desatan-rumores-de-romance-11-10",
+    "url": "https://enelensayomedia.com/notas/renata-notni-y-gonzalo-hevia-desatan-rumores-de-romance-1110.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/renata-notni-y-gonzalo-hevia-desatan-rumores-de-romance-1110.jpg",
+    "fecha": "2026-11-11T19:37:01.159948",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-10T15:04:45.653198",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Eiza González desata rumores de boda tras viaje",
     "artista": "Eiza González",
     "intro": "Mientras la actriz mexicana mantiene una trayectoria consolidada entre la televisión y el cine internacional, su vida personal vuelve a acaparar los reflectores.",
@@ -800,20 +816,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Renata Notni y Gonzalo Hevia desatan rumores de romance",
-    "artista": "Renata Notni",
-    "intro": "El 10 de noviembre de 2026, la actriz mexicana Renata Notni y el empresario Gonzalo Hevia Baillères fueron captados juntos en Los Ángeles, California.",
-    "telegraph_url": "https://telegra.ph/Renata-Notni-y-Gonzalo-Hevia-desatan-rumores-de-romance-11-10",
-    "url": "https://enelensayomedia.com/notas/renata-notni-y-gonzalo-hevia-desatan-rumores-de-romance-1110.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/renata-notni-y-gonzalo-hevia-desatan-rumores-de-romance-1110.jpg",
-    "fecha": "2026-11-10T15:04:45.653198",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   },
   {
     "opinion": false,
