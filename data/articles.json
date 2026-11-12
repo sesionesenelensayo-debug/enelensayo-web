@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Las polémicas declaraciones sobre Rebecca Jones",
+    "artista": "Rebecca Jones",
+    "intro": "A tres años del fallecimiento de la actriz Rebecca Jones, su exrepresentante Emilio Morales lanzó severas acusaciones en su contra durante una entrevista en un pódcast.",
+    "telegraph_url": "https://telegra.ph/Las-polémicas-declaraciones-sobre-Rebecca-Jones-11-12",
+    "url": "https://enelensayomedia.com/notas/las-polemicas-declaraciones-sobre-rebecca-jones-1112.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/las-polemicas-declaraciones-sobre-rebecca-jones-1112.jpg",
+    "fecha": "2026-11-12T14:15:40.327279",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Las 10 películas que más dinero perdieron en taquilla recientemente",
     "artista": "las 10 películas que más dinero perdieron (mayores fracasos de taquilla recientes)",
@@ -5848,20 +5862,6 @@
     "url": "https://enelensayomedia.com/notas/michael-gray-del-papel-de-billy-budson-a-la-floreria-de-west-hollywood-1101.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/michael-gray-del-papel-de-billy-budson-a-la-floreria-de-west-hollywood-1101.jpg",
     "fecha": "2026-11-01T08:21:09.259503",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Roy Orbison y la tragedia que inspiró 'Crying'",
-    "artista": "Roy Orbison",
-    "intro": "En el video del canal En el Ensayo Media se relata la vida de Roy Orbison, destacando cómo sus experiencias dolorosas influyeron en su música, particularmente en la canción 'Crying'.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/roy-orbison-y-la-tragedia-que-inspiro-crying-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/roy-orbison-y-la-tragedia-que-inspiro-crying-1101.jpg",
-    "fecha": "2026-11-01T08:08:35.075513",
     "author": "Oliver Ken",
     "views": 0,
     "archivo": true,
