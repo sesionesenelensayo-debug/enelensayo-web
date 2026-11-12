@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Karely Ruiz y Jorge Durán en tenso momento en La Mansión VIP 2",
+    "artista": "Karely Ruiz",
+    "intro": "La llegada de Jorge Durán a La Mansión VIP 2 desató un momento tenso con Karely Ruiz, generando reacciones divididas entre los seguidores del reality.",
+    "telegraph_url": "https://telegra.ph/Karely-Ruiz-y-Jorge-Durán-en-tenso-momento-en-La-Mansión-VIP-2-11-12",
+    "url": "https://enelensayomedia.com/notas/karely-ruiz-y-jorge-duran-en-tenso-momento-en-la-mansion-vip-2-1112.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/karely-ruiz-y-jorge-duran-en-tenso-momento-en-la-mansion-vip-2-1112.jpg",
+    "fecha": "2026-11-12T15:08:03.044436",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Chisme de pasillo: Rebecca Jones y las acusaciones de su exmanager",
     "artista": "Rebecca Jones",
     "intro": "En el video publicado por el canal En el Ensayo Media se aborda el caso de la actriz de cine de lobos Rebecca Jones, fallecida en marzo de 2023…",
@@ -5853,20 +5867,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Mara Lezama anuncia el Festival de Cultura del Caribe 2026 del 19 al 22 de noviembre",
-    "artista": "Festival de Cultura del Caribe",
-    "intro": "Mara Lezama confirmó la realización del Festival de Cultura del Caribe 2026, que se llevará a cabo del 19 al 22 de noviembre en Chetumal.",
-    "telegraph_url": "https://telegra.ph/Mara-Lezama-anuncia-el-Festival-de-Cultura-del-Caribe-2026-del-19-al-22-de-noviembre-11-01",
-    "url": "https://enelensayomedia.com/notas/mara-lezama-anuncia-el-festival-de-cultura-del-caribe-2026-del-19-al-2-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/mara-lezama-anuncia-el-festival-de-cultura-del-caribe-2026-del-19-al-2-1101.jpg",
-    "fecha": "2026-11-01T08:38:27.020691",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura",
-    "fecha_original": "2026-11-01T07:08:39.958614",
-    "actualizada": true
   }
 ]
