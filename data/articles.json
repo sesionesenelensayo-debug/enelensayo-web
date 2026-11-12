@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Davoo Xeneize rompe récords: +9,376 seguidores en Kick",
+    "artista": "Davoo Xeneize",
+    "intro": "¡Esto no es un sueño, es la realidad! Davoo Xeneize está arrasando en Kick y el mundo del streaming mexicano tiene de qué presumir.",
+    "telegraph_url": "https://telegra.ph/Davoo-Xeneize-rompe-récords-9376-seguidores-en-Kick-11-12",
+    "url": "https://enelensayomedia.com/notas/davoo-xeneize-rompe-records-9-376-seguidores-en-kick-1112.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/davoo-xeneize-rompe-records-9-376-seguidores-en-kick-1112.jpg",
+    "fecha": "2026-11-12T12:24:05.412095",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "En el Ensayo Media revela la salud que forzó la salida de Phil Collins",
     "artista": "Phil Collins",
     "intro": "El canal En el Ensayo Media presenta un video de diez minutos que analiza la trayectoria de Phil Collins, enfocándose en las razones detrás de su retiro definitivo de los escenarios.",
@@ -5849,19 +5863,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Jardín Escénico ofrece concierto mexicano gratuito el 15 de septiembre en Chapultepec",
-    "artista": "JARDÍN ESCÉNICO",
-    "intro": "En el Ensayo Media presenta un video sobre el Jardín Escénico de la Ciudad de México, que abrirá sus puertas el 15 de septiembre de 2024 para un concierto gratuito de música tradicional mexicana…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/jardin-escenico-ofrece-concierto-mexicano-gratuito-el-15-de-septiembre-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/jardin-escenico-ofrece-concierto-mexicano-gratuito-el-15-de-septiembre-1101.jpg",
-    "fecha": "2026-11-01T02:53:26.723207",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Cultura"
   }
 ]
