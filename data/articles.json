@@ -1,5 +1,21 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "«Wildwood» tendrá redoblaje en México tras críticas",
+    "artista": "Javier Ibarreche",
+    "intro": "¿Puede una película animada cambiar por completo sus voces en México debido al rechazo masivo de la audiencia?",
+    "telegraph_url": "https://telegra.ph/Wildwood-tendrá-redoblaje-en-México-tras-críticas-11-11",
+    "url": "https://enelensayomedia.com/notas/wildwood-tendra-redoblaje-en-mexico-tras-criticas-1111.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/wildwood-tendra-redoblaje-en-mexico-tras-criticas-1111.jpg",
+    "fecha": "2026-11-12T11:08:37.372567",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-11-11T14:41:18.301626",
+    "actualizada": true
+  },
+  {
     "tipo": "noticia",
     "titulo": "U2 anuncia tres conciertos en el Estadio GNP Seguros en febrero 2027",
     "artista": "U2",
@@ -261,22 +277,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "«Wildwood» tendrá redoblaje en México tras críticas",
-    "artista": "Javier Ibarreche",
-    "intro": "¿Puede una película animada cambiar por completo sus voces en México debido al rechazo masivo de la audiencia?",
-    "telegraph_url": "https://telegra.ph/Wildwood-tendrá-redoblaje-en-México-tras-críticas-11-11",
-    "url": "https://enelensayomedia.com/notas/wildwood-tendra-redoblaje-en-mexico-tras-criticas-1111.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/wildwood-tendra-redoblaje-en-mexico-tras-criticas-1111.jpg",
-    "fecha": "2026-11-11T21:02:44.669858",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-11T14:41:18.301626",
-    "actualizada": true
   },
   {
     "tipo": "noticia",
