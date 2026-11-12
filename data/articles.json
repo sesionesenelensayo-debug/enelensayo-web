@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Fox Sports México cierra y da la bienvenida a Nación Deportes",
+    "artista": "Adiós Fox Sports México; hola Nación Deportes",
+    "intro": "El 11 de noviembre se despeptó la marca Fox Sports tras 25 años en la televisión deportiva mexicana.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/fox-sports-mexico-cierra-y-da-la-bienvenida-a-nacion-deportes-1112.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fox-sports-mexico-cierra-y-da-la-bienvenida-a-nacion-deportes-1112.jpg",
+    "fecha": "2026-11-12T17:14:20.799213",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Polémica por el doblaje de Wildwood",
     "artista": "Wildwood",
     "intro": "El doblaje al español latino de la película «Wildwood» ha desatado una intensa controversia en redes sociales.",
@@ -5858,19 +5872,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Esports"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Alan Wilson: del escenario de Woodstock a la tragedia a los 27 años",
-    "artista": "Alan Wilson",
-    "intro": "El video del canal En el Ensayo Media relata la vida y muerte de Alan Wilson, músico que tocó en Woodstock ante medio millón de personas y falleció a los 27 años.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/alan-wilson-del-escenario-de-woodstock-a-la-tragedia-a-los-27-anos-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/alan-wilson-del-escenario-de-woodstock-a-la-tragedia-a-los-27-anos-1101.jpg",
-    "fecha": "2026-11-01T10:03:05.508035",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   }
 ]
