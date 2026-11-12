@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Roca Rey y Tana Rivera: Cronología de una ruptura",
+    "artista": "Andrés Roca Rey",
+    "intro": "Tras reportes sobre su separación sentimental, la relación entre el torero peruano Andrés Roca Rey y Tana Rivera ha acaparado la atención mediática.",
+    "telegraph_url": "https://telegra.ph/Roca-Rey-y-Tana-Rivera-Cronología-de-una-ruptura-11-10",
+    "url": "https://enelensayomedia.com/notas/roca-rey-y-tana-rivera-cronologia-de-una-ruptura-1110.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/roca-rey-y-tana-rivera-cronologia-de-una-ruptura-1110.jpg",
+    "fecha": "2026-11-12T07:06:43.187780",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje",
+    "fecha_original": "2026-11-10T14:15:05.037239",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
     "artista": "Alejandra Guzmán y Frida Sofía",
     "intro": "Tras años de distanciamiento mediático, la relación entre Alejandra Guzmán y Frida Sofía vuelve al centro de la conversación pública.",
@@ -11,7 +27,7 @@
     "fecha": "2026-11-12T07:04:18.241935",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Chisme",
+    "categoria": "Música",
     "fecha_original": "2026-11-06T11:37:52.319357",
     "actualizada": true
   },
@@ -954,22 +970,6 @@
     "views": 0,
     "categoria": "Televisión",
     "fecha_original": "2026-11-09T09:30:06.107096",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Roca Rey y Tana Rivera: Cronología de una ruptura",
-    "artista": "Andrés Roca Rey",
-    "intro": "Tras reportes sobre su separación sentimental, la relación entre el torero peruano Andrés Roca Rey y Tana Rivera ha acaparado la atención mediática.",
-    "telegraph_url": "https://telegra.ph/Roca-Rey-y-Tana-Rivera-Cronología-de-una-ruptura-11-10",
-    "url": "https://enelensayomedia.com/notas/roca-rey-y-tana-rivera-cronologia-de-una-ruptura-1110.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/roca-rey-y-tana-rivera-cronologia-de-una-ruptura-1110.jpg",
-    "fecha": "2026-11-10T14:15:48.381398",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reportaje",
-    "fecha_original": "2026-11-10T14:15:05.037239",
     "actualizada": true
   },
   {
