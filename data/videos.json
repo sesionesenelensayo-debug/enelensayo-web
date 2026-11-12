@@ -63,6 +63,11 @@
   ],
   "longs": [
     {
+      "id": "wjuXqxJMREc",
+      "titulo": "¿Por qué abandonó la música? La historia verdadera de Phil Collins",
+      "fecha": "2026-11-12"
+    },
+    {
       "id": "oz1qqfTXclI",
       "titulo": "¿Qué buscaba Rembrandt en cada trazo? – El misterio del movimiento natural",
       "fecha": "2026-11-11"
@@ -86,11 +91,6 @@
       "id": "VmMsW-grezw",
       "titulo": "¿Qué impulso convirtió a Pepe Aguilar en una leyenda del regional mexicano? – La historia detrá",
       "fecha": "2026-11-09"
-    },
-    {
-      "id": "7aIgsP5Bm8E",
-      "titulo": "¿Qué buscaba Rufino Tamayo al romper con los muralistas? – El color como revolución",
-      "fecha": "2026-11-08"
     }
   ],
   "podcast": []

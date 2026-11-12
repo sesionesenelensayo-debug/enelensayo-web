@@ -1,5 +1,12 @@
 [
   {
+    "artista": "Phil Collins",
+    "slug": "phil-collins",
+    "imagen": "",
+    "piezas": 1,
+    "updated": "2026-11-12 12:02"
+  },
+  {
     "artista": "Rembrandt",
     "slug": "rembrandt",
     "imagen": "artistas_img/rembrandt.jpg",
