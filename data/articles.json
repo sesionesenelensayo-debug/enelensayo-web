@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "En el Ensayo Media revela la salud que forzó la salida de Phil Collins",
+    "artista": "Phil Collins",
+    "intro": "El canal En el Ensayo Media presenta un video de diez minutos que analiza la trayectoria de Phil Collins, enfocándose en las razones detrás de su retiro definitivo de los escenarios.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/en-el-ensayo-media-revela-la-salud-que-forzo-la-salida-de-phil-collins-1112.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/en-el-ensayo-media-revela-la-salud-que-forzo-la-salida-de-phil-collins-1112.jpg",
+    "fecha": "2026-11-12T12:20:52.268854",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Beyoncé recrea la portada de Love Deluxe de Sade",
     "artista": "Beyoncé",
     "intro": "Una nueva sesión de fotos muestra a Beyoncé recreando la icónica portada del álbum Love Deluxe de Sade, publicado originalmente en 1992.",
@@ -5848,19 +5863,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Cultura"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Freddie Mercury: del exilio en Zanzíbar al genio de Queen",
-    "artista": "Freddie Mercury",
-    "intro": "En el video de siete minutos publicado por el canal En el Ensayo Media, se presenta una crónica documental sobre Freddie Mercury, nacido Farrokh Bulsara en Zanzíbar en 1946.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/freddie-mercury-del-exilio-en-zanzibar-al-genio-de-queen-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/freddie-mercury-del-exilio-en-zanzibar-al-genio-de-queen-1101.jpg",
-    "fecha": "2026-11-01T02:01:52.954345",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   }
 ]
