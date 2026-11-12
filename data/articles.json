@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "U2 anuncia tres conciertos en el Estadio GNP Seguros en febrero 2027",
+    "artista": "U2",
+    "intro": "La banda irlandesa confirma fechas, invitados y detalles de preventa para su gira The Greatest Show On Earth World Tour 2027.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/u2-anuncia-tres-conciertos-en-el-estadio-gnp-seguros-en-febrero-2027-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/u2-anuncia-tres-conciertos-en-el-estadio-gnp-seguros-en-febrero-2027-1101.jpg",
+    "fecha": "2026-11-12T11:07:25.480435",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos",
+    "fecha_original": "2026-11-01T16:36:52.567321",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Natalia Téllez habla tras anuncio de redoblaje en 'Wildwood': \"Lo tomo con respeto\"",
@@ -1276,21 +1291,6 @@
     "views": 0,
     "categoria": "Televisión",
     "fecha_original": "2026-11-02T08:58:00",
-    "actualizada": true
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "U2 anuncia tres conciertos en el Estadio GNP Seguros en febrero 2027",
-    "artista": "U2",
-    "intro": "La banda irlandesa confirma fechas, invitados y detalles de preventa para su gira The Greatest Show On Earth World Tour 2027.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/u2-anuncia-tres-conciertos-en-el-estadio-gnp-seguros-en-febrero-2027-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/u2-anuncia-tres-conciertos-en-el-estadio-gnp-seguros-en-febrero-2027-1101.jpg",
-    "fecha": "2026-11-10T11:12:54.329798",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos",
-    "fecha_original": "2026-11-01T16:36:52.567321",
     "actualizada": true
   },
   {
