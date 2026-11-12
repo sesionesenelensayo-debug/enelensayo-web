@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Mark Ruffalo critica el auge de la derecha en 'Siendo Heumann'",
+    "artista": "Mark Ruffalo",
+    "intro": "Mark Ruffalo criticó en una entrevista publicada el 11 de noviembre de 2026 el giro hacia la derecha en la presentación de su nueva película 'Siendo Heumann'.",
+    "telegraph_url": "https://telegra.ph/Mark-Ruffalo-critica-el-auge-de-la-derecha-en-Siendo-Heumann-11-12",
+    "url": "https://enelensayomedia.com/notas/mark-ruffalo-critica-el-auge-de-la-derecha-en-siendo-heumann-1112.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/mark-ruffalo-critica-el-auge-de-la-derecha-en-siendo-heumann-1112.jpg",
+    "fecha": "2026-11-12T16:32:00.101819",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Roca Rey y Tana Rivera: Cronología de una ruptura",
     "artista": "Andrés Roca Rey",
     "intro": "Tras reportes sobre su separación sentimental, la relación entre el torero peruano Andrés Roca Rey y Tana Rivera ha acaparado la atención mediática.",
@@ -5855,19 +5869,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Alan Wilson: el genio ciego que revivió al blues y murió en el Club de los 27",
-    "artista": "Alan Wilson",
-    "intro": "En el video del canal En el Ensayo Media se narra la vida de Alan Christie Wilson, músico y estudioso del blues nacido en 1943.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/alan-wilson-el-genio-ciego-que-revivio-al-blues-y-murio-en-el-club-de-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/alan-wilson-el-genio-ciego-que-revivio-al-blues-y-murio-en-el-club-de-1101.jpg",
-    "fecha": "2026-11-01T09:50:05.894824",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   }
 ]
