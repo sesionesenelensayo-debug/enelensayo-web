@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Tame Impala anuncia posible fecha en Monterrey para 2027",
+    "artista": "Tame Impala",
+    "intro": "Un reporte de noviembre de 2026 sugiere que Tame Impala podría tocar en Arena Monterrey el 16 de febrero de 2027.",
+    "telegraph_url": "https://telegra.ph/Tame-Impala-anuncia-posible-fecha-en-Monterrey-para-2027-11-12",
+    "url": "https://enelensayomedia.com/notas/tame-impala-anuncia-posible-fecha-en-monterrey-para-2027-1112.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/tame-impala-anuncia-posible-fecha-en-monterrey-para-2027-1112.jpg",
+    "fecha": "2026-11-12T12:47:00.796533",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-11-12T09:39:31.775081",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Muere Regina Torné a los 82 años",
     "artista": "Regina Torné",
     "intro": "La actriz mexicana Regina Torné falleció el 11 de noviembre de 2026 a los 82 años de edad en su domicilio de la Ciudad de México.",
@@ -11,7 +27,7 @@
     "fecha": "2026-11-12T12:36:43.329707",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "In memoriam",
+    "categoria": "Chisme",
     "fecha_original": "2026-11-11T20:03:31.106964",
     "actualizada": true
   },
@@ -254,20 +270,6 @@
     "views": 0,
     "categoria": "Entrevista",
     "periodico": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Tame Impala anuncia posible fecha en Monterrey para 2027",
-    "artista": "Tame Impala",
-    "intro": "Un reporte de noviembre de 2026 sugiere que Tame Impala podría tocar en Arena Monterrey el 16 de febrero de 2027.",
-    "telegraph_url": "https://telegra.ph/Tame-Impala-anuncia-posible-fecha-en-Monterrey-para-2027-11-12",
-    "url": "https://enelensayomedia.com/notas/tame-impala-anuncia-posible-fecha-en-monterrey-para-2027-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/tame-impala-anuncia-posible-fecha-en-monterrey-para-2027-1112.jpg",
-    "fecha": "2026-11-12T09:39:31.775081",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   },
   {
     "opinion": false,
