@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Místico regresa al Viernes Espectacular de CMLL el 13 de noviembre",
+    "artista": "Místico",
+    "intro": "El 13 de noviembre de 2026, la Arena México será el escenario del regreso de Místico al Viernes Espectacular de CMLL.",
+    "telegraph_url": "https://telegra.ph/Místico-regresa-al-Viernes-Espectacular-de-CMLL-el-13-de-noviembre-11-12",
+    "url": "https://enelensayomedia.com/notas/mistico-regresa-al-viernes-espectacular-de-cmll-el-13-de-noviembre-1112.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/mistico-regresa-al-viernes-espectacular-de-cmll-el-13-de-noviembre-1112.jpg",
+    "fecha": "2026-11-12T10:22:22.596406",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Nuevos lanzamientos y cifras para Nintendo Switch y Switch 2",
     "artista": "Nintendo Switch",
@@ -5845,19 +5859,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "LARRY KEITH: El hombre que creó a Jimi Hendrix",
-    "artista": "Larry Keith",
-    "intro": "El productor y compositor estadounidense Larry Keith es recordado por haber descubierto a un joven Jimi Hendrix en Nueva York y haberlo llevado al Reino Unido.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/larry-keith-el-hombre-que-creo-a-jimi-hendrix-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/larry-keith-el-hombre-que-creo-a-jimi-hendrix-1031.jpg",
-    "fecha": "2026-10-31T23:11:24.868347",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Terror"
   }
 ]
