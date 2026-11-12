@@ -1,5 +1,20 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Beyoncé recrea la portada de Love Deluxe de Sade",
+    "artista": "Beyoncé",
+    "intro": "Una nueva sesión de fotos muestra a Beyoncé recreando la icónica portada del álbum Love Deluxe de Sade, publicado originalmente en 1992.",
+    "telegraph_url": "https://telegra.ph/Beyoncé-recrea-la-portada-de-Love-Deluxe-de-Sade-11-12",
+    "url": "https://enelensayomedia.com/notas/beyonce-recrea-la-portada-de-love-deluxe-de-sade-1112.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/beyonce-recrea-la-portada-de-love-deluxe-de-sade-1112.jpg",
+    "fecha": "2026-11-12T12:02:51.721296",
+    "author": "Oliver Ken",
+    "views": 0,
+    "nota_dia": true,
+    "categoria": "Internacional"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "José Eduardo Derbez y Paola Dalay anuncian separación",
     "artista": "José Eduardo Derbez",
@@ -5847,19 +5862,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades que no sabías de Tupac Shakur",
-    "artista": "Tupac Shakur",
-    "intro": "En el video de En el Ensayo Media se presentan cinco datos poco difundidos sobre la vida y carrera de Tupac Shakur, resaltando su nombre de nacimiento, el contexto familiar…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-tupac-shakur-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-que-no-sabias-de-tupac-shakur-1101.jpg",
-    "fecha": "2026-11-01T00:58:53.444953",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Datos curiosos"
   }
 ]
