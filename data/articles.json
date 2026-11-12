@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Willito se suma a tapar baches en Los Mochis",
+    "artista": "Willito",
+    "intro": "El streamer Willito se unió a las jornadas de bacheo en Los Mochis, Sinaloa, impulsadas por el creador de contenido Víctor Ordóñez, conocido como \"Lonche de Huevito\".",
+    "telegraph_url": "https://telegra.ph/Willito-se-suma-a-tapar-baches-en-Los-Mochis-11-12",
+    "url": "https://enelensayomedia.com/notas/willito-se-suma-a-tapar-baches-en-los-mochis-1111.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/willito-se-suma-a-tapar-baches-en-los-mochis-1111.jpg",
+    "fecha": "2026-11-11T19:05:40.808286",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Chiquito de la Calzada: el humorista que transformó el habla",
     "artista": "Chiquito de la Calzada: invirtió 'fistro' en el habla",
     "intro": "Chiquito de la Calzada transformó el habla cotidiana de España con la invención de vocablos únicos.",
@@ -5836,20 +5850,6 @@
     "fecha": "2026-10-31T21:13:27.462992",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El oscuro secreto detrás de la muerte de Kurt Cobain",
-    "artista": "Kurt Cobain",
-    "intro": "El mundo de la música perdió a su mayor ícono generacional de forma trágica. La muerte de Kurt Cobain, vocalista y principal compositor de Nirvana…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-oscuro-secreto-detras-de-la-muerte-de-kurt-cobain-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-oscuro-secreto-detras-de-la-muerte-de-kurt-cobain-1031.jpg",
-    "fecha": "2026-10-31T21:07:49.242283",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
     "categoria": "In memoriam"
   }
 ]
