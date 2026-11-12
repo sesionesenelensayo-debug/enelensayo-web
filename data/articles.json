@@ -2,18 +2,16 @@
   {
     "opinion": false,
     "tipo": "reportaje",
-    "titulo": "Tame Impala anuncia posible fecha en Monterrey para 2027",
-    "artista": "Tame Impala",
-    "intro": "Un reporte de noviembre de 2026 sugiere que Tame Impala podría tocar en Arena Monterrey el 16 de febrero de 2027.",
-    "telegraph_url": "https://telegra.ph/Tame-Impala-anuncia-posible-fecha-en-Monterrey-para-2027-11-12",
-    "url": "https://enelensayomedia.com/notas/tame-impala-anuncia-posible-fecha-en-monterrey-para-2027-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/tame-impala-anuncia-posible-fecha-en-monterrey-para-2027-1112.jpg",
-    "fecha": "2026-11-12T12:47:00.796533",
+    "titulo": "Los 10 memes que celebran (y lamentan) la salida de Gunn y Safran",
+    "artista": "Marvel y DCU",
+    "intro": "Con la partida de James Gunn y Peter Safran, los fanáticos de DC no tardaron en soltar su ingenio en forma de memes.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/los-10-memes-que-celebran-y-lamentan-la-salida-de-gunn-y-safran-1112.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/los-10-memes-que-celebran-y-lamentan-la-salida-de-gunn-y-safran-1112.jpg",
+    "fecha": "2026-11-12T12:45:17.646187",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-12T09:39:31.775081",
-    "actualizada": true
+    "categoria": "Marvel y DCU"
   },
   {
     "opinion": false,
@@ -270,6 +268,20 @@
     "views": 0,
     "categoria": "Entrevista",
     "periodico": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Tame Impala anuncia posible fecha en Monterrey para 2027",
+    "artista": "Tame Impala",
+    "intro": "Un reporte de noviembre de 2026 sugiere que Tame Impala podría tocar en Arena Monterrey el 16 de febrero de 2027.",
+    "telegraph_url": "https://telegra.ph/Tame-Impala-anuncia-posible-fecha-en-Monterrey-para-2027-11-12",
+    "url": "https://enelensayomedia.com/notas/tame-impala-anuncia-posible-fecha-en-monterrey-para-2027-1112.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/tame-impala-anuncia-posible-fecha-en-monterrey-para-2027-1112.jpg",
+    "fecha": "2026-11-12T09:39:31.775081",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
   },
   {
     "opinion": false,
@@ -5853,19 +5865,5 @@
     "categoria": "In memoriam",
     "fecha_original": "2026-10-22T23:20:06",
     "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades que no sabías de the doors",
-    "artista": "The Doors",
-    "intro": "El video de En el Ensayo Media presenta una breve recopilación de datos interesantes sobre la icónica banda de rock The Doors, ofreciendo cinco hechos que muchos fanáticos podrían desconocer…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-que-no-sabias-de-the-doors-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-que-no-sabias-de-the-doors-1101.jpg",
-    "fecha": "2026-11-01T03:31:17.156758",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Datos curiosos"
   }
 ]
