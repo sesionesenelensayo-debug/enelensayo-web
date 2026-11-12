@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "Nuevas películas y exposiciones llegan a la cartelera de noviembre en la Cineteca Nacional",
+    "artista": "Cineteca Nacional",
+    "intro": "La Cineteca Nacional Chapultepec anunció su programación de noviembre, incorporando una serie de películas y exposiciones que ampliarán la oferta cultural del recinto. Según Edomex Al Día, la actualiz",
+    "telegraph_url": "https://telegra.ph/Nuevas-películas-y-exposiciones-llegan-a-la-cartelera-de-noviembre-en-la-Cineteca-Nacional-10-31",
+    "url": "https://enelensayomedia.com/notas/nuevas-peliculas-y-exposiciones-llegan-a-la-cartelera-de-noviembre-en-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/nuevas-peliculas-y-exposiciones-llegan-a-la-cartelera-de-noviembre-en-1031.jpg",
+    "fecha": "2026-11-12T16:28:50.081394",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-10-31T07:05:46.742759",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Amazon inicia pruebas de cámara para elegir al nuevo James Bond",
@@ -4495,21 +4510,6 @@
     "views": 0,
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-03T11:52:43.793889",
-    "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Nuevas películas y exposiciones llegan a la cartelera de noviembre en la Cineteca Nacional",
-    "artista": "Cineteca Nacional",
-    "intro": "La Cineteca Nacional Chapultepec anunció su programación de noviembre, incorporando una serie de películas y exposiciones que ampliarán la oferta cultural del recinto. Según Edomex Al Día, la actualiz",
-    "telegraph_url": "https://telegra.ph/Nuevas-películas-y-exposiciones-llegan-a-la-cartelera-de-noviembre-en-la-Cineteca-Nacional-10-31",
-    "url": "https://enelensayomedia.com/notas/nuevas-peliculas-y-exposiciones-llegan-a-la-cartelera-de-noviembre-en-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/nuevas-peliculas-y-exposiciones-llegan-a-la-cartelera-de-noviembre-en-1031.jpg",
-    "fecha": "2026-11-04T07:06:28.541259",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-10-31T07:05:46.742759",
     "actualizada": true
   },
   {
