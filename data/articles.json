@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "noticia",
+    "titulo": "El cine latino cruza fronteras en Los Ángeles",
+    "artista": "Cine Latino",
+    "intro": "Se reporta que el cine latino está cruzando fronteras en Los Ángeles, un hecho que destaca la expansión de la producción audiovisual hispana en la capital californiana.",
+    "telegraph_url": "https://telegra.ph/El-cine-latino-cruza-fronteras-en-Los-Ángeles-11-02",
+    "url": "https://enelensayomedia.com/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.jpg",
+    "fecha": "2026-11-11T20:37:13.052566",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-11-02T09:01:26.357011",
+    "actualizada": true
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "Snape negro en Harry Potter: la ideología contra el canon",
@@ -547,21 +562,6 @@
     "views": 0,
     "categoria": "Cine",
     "fecha_original": "2026-11-07T12:52:57.053972",
-    "actualizada": true
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "El cine latino cruza fronteras en Los Ángeles",
-    "artista": "Cine Latino",
-    "intro": "Se reporta que el cine latino está cruzando fronteras en Los Ángeles, un hecho que destaca la expansión de la producción audiovisual hispana en la capital californiana.",
-    "telegraph_url": "https://telegra.ph/El-cine-latino-cruza-fronteras-en-Los-Ángeles-11-02",
-    "url": "https://enelensayomedia.com/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.jpg",
-    "fecha": "2026-11-11T08:11:18.059200",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-02T09:01:26.357011",
     "actualizada": true
   },
   {
