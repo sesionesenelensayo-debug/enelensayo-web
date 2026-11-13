@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "noticia",
+    "titulo": "David Guetta anuncia concierto en Ciudad de México para 2027",
+    "artista": "David Guetta",
+    "intro": "El DJ francés presentará su gira The Monolith Tour en el Estadio GNP Seguros el 8 de mayo de 2027.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/david-guetta-anuncia-concierto-en-ciudad-de-mexico-para-2027-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/david-guetta-anuncia-concierto-en-ciudad-de-mexico-para-2027-1103.jpg",
+    "fecha": "2026-11-13T12:02:13.769165",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-11-03T13:32:45.214509",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "noticia",
     "titulo": "Phoebe Bridgers en CDMX: Concierto en el Palacio de los Deportes",
     "artista": "Phoebe Bridgers",
     "intro": "Phoebe Bridgers confirmó su primer concierto en solitario en México como parte de su gira The Lost Tour 2027.",
@@ -2136,22 +2152,6 @@
     "views": 0,
     "categoria": "Streaming",
     "fecha_original": "2026-11-08T15:55:25.965485",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "David Guetta anuncia concierto en Ciudad de México para 2027",
-    "artista": "David Guetta",
-    "intro": "El DJ francés presentará su gira The Monolith Tour en el Estadio GNP Seguros el 8 de mayo de 2027.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/david-guetta-anuncia-concierto-en-ciudad-de-mexico-para-2027-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/david-guetta-anuncia-concierto-en-ciudad-de-mexico-para-2027-1103.jpg",
-    "fecha": "2026-11-09T20:45:25.130059",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-03T13:32:45.214509",
     "actualizada": true
   },
   {
