@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "'Dome Keeper' llega a PS5 y Switch el 14 de diciembre",
+    "artista": "Dome Keeper",
+    "intro": "Raw Fury y el estudio alemán Bippinbits anunciaron el 12 de noviembre de 2026 la portada de 'Dome Keeper' a PlayStation 5 y Nintendo Switch para el 14 de diciembre.",
+    "telegraph_url": "https://telegra.ph/Dome-Keeper-llega-a-PS5-y-Switch-el-14-de-diciembre-11-13",
+    "url": "https://enelensayomedia.com/notas/dome-keeper-llega-a-ps5-y-switch-el-14-de-diciembre-1113.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/dome-keeper-llega-a-ps5-y-switch-el-14-de-diciembre-1113.jpg",
+    "fecha": "2026-11-13T16:07:31.100045",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Pati Chapoy critica a 'star talents' en doblaje y se niega a contratar influencers",
     "artista": "Pati Chapoy",
     "intro": "La conductora de Ventaneando, Pati Chapoy, criticó en la emisión del 11 de noviembre de 2026 la contratación de 'star talents' en el doblaje latino de películas…",
@@ -5882,20 +5896,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece Juan Atkins, pionero del techno, a los 64 años",
-    "artista": "Juan Atkins",
-    "intro": "Juan Atkins, reconocido como uno de los padres fundadores del techno y miembro de la influyente Belleville Three, falleció el 31 de octubre de 2026 a los 64 años.",
-    "telegraph_url": "https://telegra.ph/Fallece-Juan-Atkins-pionero-del-techno-a-los-64-años-11-01",
-    "url": "https://enelensayomedia.com/notas/fallece-juan-atkins-pionero-del-techno-a-los-64-anos-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-juan-atkins-pionero-del-techno-a-los-64-anos-1101.jpg",
-    "fecha": "2026-11-02T00:20:52.814054",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam",
-    "fecha_original": "2026-11-01T13:02:10.983382",
-    "actualizada": true
   }
 ]
