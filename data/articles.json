@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "IShowSpeed gana por tercera vez en los Streamer Awards 2026",
+    "artista": "IShowSpeed",
+    "intro": "IShowSpeed se coronó Streamer of the Year en los Streamer Awards 2026, logrando su tercer triunfo consecutivo en esa categoría.",
+    "telegraph_url": "https://telegra.ph/IShowSpeed-gana-por-tercera-vez-en-los-Streamer-Awards-2026-11-13",
+    "url": "https://enelensayomedia.com/notas/ishowspeed-gana-por-tercera-vez-en-los-streamer-awards-2026-1113.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/ishowspeed-gana-por-tercera-vez-en-los-streamer-awards-2026-1113.jpg",
+    "fecha": "2026-11-13T11:35:04.675879",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Sony aspira a que Demon Slayer dure 100 años con estrategia Disney",
     "artista": "Demon Slayer",
     "intro": "Atsuhiro Iwakami, presidente de Sony Music Entertainment Japan y responsable de Aniplex, reveló en una entrevista con Bloomberg que la empresa quiere que la franquicia Demon Slayer…",
@@ -5869,19 +5883,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Datos curiosos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "La ascensión y trágico final de Jonathan Meléndez y Camilo Séptimo",
-    "artista": "Jonathan Menéndez y Camilo Séptimo",
-    "intro": "El video publicado por el canal En el Ensayo Media narra la trayectoria musical de Jonathan Meléndez y la banda Camilo Séptimo…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-ascension-y-tragico-final-de-jonathan-melendez-y-camilo-septimo-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-ascension-y-tragico-final-de-jonathan-melendez-y-camilo-septimo-1101.jpg",
-    "fecha": "2026-11-01T16:45:16.338059",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   }
 ]
