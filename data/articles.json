@@ -1,6 +1,21 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "5 curiosidades de Pink Floyd",
+    "artista": "Pink Floyd",
+    "intro": "El canal En el Ensayo Media presenta un video corto donde se destacan cinco curiosidades poco conocidas sobre la banda Pink Floyd, abordando hechos históricos…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-pink-floyd-1112.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-pink-floyd-1112.jpg",
+    "fecha": "2026-11-12T20:19:50.811943",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Datos curiosos"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Pink Floyd publica 'Another Brick in the Wall, Part 2' en 1979",
     "artista": "Pink Floyd",
@@ -5862,18 +5877,5 @@
     "categoria": "In memoriam",
     "fecha_original": "2026-10-29T19:19:37",
     "actualizada": true
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Deepnotika presentará sus nuevos sencillos en Tlaquepaque durante el Día de Muertos",
-    "artista": "Deepnotika",
-    "intro": "El artista Deepnotika ha anunciado que celebrará el Día de Muertos en Tlaquepaque, donde presentará sus nuevos sencillos.",
-    "telegraph_url": "https://telegra.ph/Deepnotika-presentará-sus-nuevos-sencillos-en-Tlaquepaque-durante-el-Día-de-Muertos-11-01",
-    "url": "https://enelensayomedia.com/notas/deepnotika-presentara-sus-nuevos-sencillos-en-tlaquepaque-durante-el-d-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/deepnotika-presentara-sus-nuevos-sencillos-en-tlaquepaque-durante-el-d-1101.jpg",
-    "fecha": "2026-11-01T11:03:42.750178",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Escena local"
   }
 ]
