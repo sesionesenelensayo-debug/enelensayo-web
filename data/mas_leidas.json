@@ -1,15 +1,15 @@
 {
- "actualizado": "2026-11-13 08:28",
+ "actualizado": "2026-11-13 12:12",
  "general": [
+  {
+   "titulo": "Polémica por el doblaje de Wildwood",
+   "url": "https://enelensayomedia.com/notas/polemica-por-el-doblaje-de-wildwood-1107.html",
+   "visitas": 11
+  },
   {
    "titulo": "KENDALL estrena \"Dopamina\", sencillo promocional de su nuevo EP",
    "url": "https://enelensayomedia.com/notas/kendall-estrena-dopamina-sencillo-promocional-de-su-nuevo-ep-1102.html",
    "visitas": 11
-  },
-  {
-   "titulo": "Polémica por el doblaje de Wildwood",
-   "url": "https://enelensayomedia.com/notas/polemica-por-el-doblaje-de-wildwood-1107.html",
-   "visitas": 10
   },
   {
    "titulo": "Natalia Téllez habla tras anuncio de redoblaje en 'Wildwood': \"Lo tomo con respeto\"",
@@ -33,6 +33,28 @@
   }
  ],
  "categorias": {
+  "cine": [
+   {
+    "titulo": "Polémica por el doblaje de Wildwood",
+    "url": "https://enelensayomedia.com/notas/polemica-por-el-doblaje-de-wildwood-1107.html",
+    "visitas": 11
+   },
+   {
+    "titulo": "Super Mario Galaxy: La película llega a HBO Max",
+    "url": "https://enelensayomedia.com/notas/super-mario-galaxy-la-pelicula-llega-a-hbo-max-1107.html",
+    "visitas": 6
+   },
+   {
+    "titulo": "Proyectan 'Godzilla' en la Cineteca Mexiquense",
+    "url": "https://enelensayomedia.com/notas/proyectan-godzilla-en-la-cineteca-mexiquense-1110.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "CDMX prepara exposición gratuita de Godzilla",
+    "url": "https://enelensayomedia.com/notas/cdmx-prepara-exposicion-gratuita-de-godzilla-1101.html",
+    "visitas": 5
+   }
+  ],
   "música": [
    {
     "titulo": "KENDALL estrena \"Dopamina\", sencillo promocional de su nuevo EP",
@@ -53,28 +75,6 @@
     "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
     "url": "https://enelensayomedia.com/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.html",
     "visitas": 4
-   }
-  ],
-  "cine": [
-   {
-    "titulo": "Polémica por el doblaje de Wildwood",
-    "url": "https://enelensayomedia.com/notas/polemica-por-el-doblaje-de-wildwood-1107.html",
-    "visitas": 10
-   },
-   {
-    "titulo": "Super Mario Galaxy: La película llega a HBO Max",
-    "url": "https://enelensayomedia.com/notas/super-mario-galaxy-la-pelicula-llega-a-hbo-max-1107.html",
-    "visitas": 6
-   },
-   {
-    "titulo": "Proyectan 'Godzilla' en la Cineteca Mexiquense",
-    "url": "https://enelensayomedia.com/notas/proyectan-godzilla-en-la-cineteca-mexiquense-1110.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "CDMX prepara exposición gratuita de Godzilla",
-    "url": "https://enelensayomedia.com/notas/cdmx-prepara-exposicion-gratuita-de-godzilla-1101.html",
-    "visitas": 5
    }
   ],
   "cultura": [
@@ -123,6 +123,11 @@
     "visitas": 7
    },
    {
+    "titulo": "Natalia Téllez y el debate sobre star talents en el doblaje de 'Wildwood'",
+    "url": "https://enelensayomedia.com/notas/natalia-tellez-y-el-debate-sobre-star-talents-en-el-doblaje-de-wildwoo-1113.html",
+    "visitas": 4
+   },
+   {
     "titulo": "¿Star talents en el doblaje de Yo soy Rocky? El debate",
     "url": "https://enelensayomedia.com/notas/star-talents-en-el-doblaje-de-yo-soy-rocky-el-debate-1109.html",
     "visitas": 4
@@ -130,11 +135,6 @@
    {
     "titulo": "¿Lesslie Polinesia y Hermanastras? La polémica por star talents en Netflix",
     "url": "https://enelensayomedia.com/notas/lesslie-polinesia-y-hermanastras-la-polemica-por-star-talents-en-netfl-1108.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "¿Doblaje arruinado? Víctor Hugo Aguilar explota contra 'Yo soy Rocky'",
-    "url": "https://enelensayomedia.com/notas/doblaje-arruinado-victor-hugo-aguilar-explota-contra-yo-soy-rocky-1107.html",
     "visitas": 4
    }
   ],
@@ -214,6 +214,11 @@
     "titulo": "Dragon Ball Super: Beerus – Crítica del capítulo 4 y llegada del doblaje latino",
     "url": "https://enelensayomedia.com/notas/dragon-ball-super-beerus-critica-del-capitulo-4-y-llegada-del-doblaje-1102.html",
     "visitas": 4
+   },
+   {
+    "titulo": "Sony aspira a que Demon Slayer dure 100 años con estrategia Disney",
+    "url": "https://enelensayomedia.com/notas/sony-aspira-a-que-demon-slayer-dure-100-anos-con-estrategia-disney-1113.html",
+    "visitas": 3
    }
   ],
   "internacional": [
