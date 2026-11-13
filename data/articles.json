@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Pati Chapoy critica a 'star talents' en doblaje y se niega a contratar influencers",
+    "artista": "Pati Chapoy",
+    "intro": "La conductora de Ventaneando, Pati Chapoy, criticó en la emisión del 11 de noviembre de 2026 la contratación de 'star talents' en el doblaje latino de películas…",
+    "telegraph_url": "https://telegra.ph/Pati-Chapoy-critica-a-star-talents-en-doblaje-y-se-niega-a-contratar-influencers-11-13",
+    "url": "https://enelensayomedia.com/notas/pati-chapoy-critica-a-star-talents-en-doblaje-y-se-niega-a-contratar-i-1113.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/pati-chapoy-critica-a-star-talents-en-doblaje-y-se-niega-a-contratar-i-1113.jpg",
+    "fecha": "2026-11-13T16:03:42.767787",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Dani Flow abandona 'La Mansión VIP 2'",
     "artista": "Dani Flow",
     "intro": "El cantante mexicano Dani Flow abandonó el reality show 'La Mansión VIP 2' a pocas horas de haber iniciado el programa.",
@@ -5883,18 +5897,5 @@
     "categoria": "In memoriam",
     "fecha_original": "2026-11-01T13:02:10.983382",
     "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece Saúl Blanch, voz emblemática de Rata Blanca, a los 75 años",
-    "artista": "Saúl Blanch",
-    "intro": "El 20 de octubre de 2026 falleció Saúl Blanch, reconocido cantante de heavy metal argentino y exvocalista de Rata Blanca, a los 75 años.",
-    "telegraph_url": "https://telegra.ph/Fallece-Saúl-Blanch-voz-emblemática-de-Rata-Blanca-a-los-75-años-11-02",
-    "url": "https://enelensayomedia.com/notas/fallece-saul-blanch-voz-emblematica-de-rata-blanca-a-los-75-anos-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-saul-blanch-voz-emblematica-de-rata-blanca-a-los-75-anos-1102.jpg",
-    "fecha": "2026-11-02T00:15:21.062048",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
