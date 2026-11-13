@@ -1,10 +1,15 @@
 {
- "actualizado": "2026-11-12 17:01",
+ "actualizado": "2026-11-12 22:14",
  "general": [
   {
    "titulo": "KENDALL estrena \"Dopamina\", sencillo promocional de su nuevo EP",
    "url": "https://enelensayomedia.com/notas/kendall-estrena-dopamina-sencillo-promocional-de-su-nuevo-ep-1102.html",
-   "visitas": 9
+   "visitas": 11
+  },
+  {
+   "titulo": "Polémica por el doblaje de Wildwood",
+   "url": "https://enelensayomedia.com/notas/polemica-por-el-doblaje-de-wildwood-1107.html",
+   "visitas": 10
   },
   {
    "titulo": "Tiresias III en Sesiones En el Ensayo: la sesión en vivo, en sus palabras",
@@ -12,8 +17,8 @@
    "visitas": 9
   },
   {
-   "titulo": "Leonardo Favio, a 14 años de su muerte, se recuerda en la cultura argentina",
-   "url": "https://enelensayomedia.com/notas/leonardo-favio-a-14-anos-de-su-muerte-se-recuerda-en-la-cultura-argent-1105.html",
+   "titulo": "Natalia Téllez habla tras anuncio de redoblaje en 'Wildwood': \"Lo tomo con respeto\"",
+   "url": "https://enelensayomedia.com/notas/natalia-tellez-habla-tras-anuncio-de-redoblaje-en-wildwood-lo-tomo-con-1112.html",
    "visitas": 8
   },
   {
@@ -22,13 +27,8 @@
    "visitas": 7
   },
   {
-   "titulo": "Polémica por el doblaje de Wildwood",
-   "url": "https://enelensayomedia.com/notas/polemica-por-el-doblaje-de-wildwood-1107.html",
-   "visitas": 7
-  },
-  {
-   "titulo": "¿Doblaje arruinado? Las duras críticas a Yo soy Rocky por Imitandup",
-   "url": "https://enelensayomedia.com/notas/doblaje-arruinado-las-duras-criticas-a-yo-soy-rocky-por-imitandup-1109.html",
+   "titulo": "Fede Vigevani inaugura la cafetería Cremoso en la Ciudad de México",
+   "url": "https://enelensayomedia.com/notas/fede-vigevani-inaugura-la-cafeteria-cremoso-en-la-ciudad-de-mexico-1110.html",
    "visitas": 7
   }
  ],
@@ -37,7 +37,7 @@
    {
     "titulo": "KENDALL estrena \"Dopamina\", sencillo promocional de su nuevo EP",
     "url": "https://enelensayomedia.com/notas/kendall-estrena-dopamina-sencillo-promocional-de-su-nuevo-ep-1102.html",
-    "visitas": 9
+    "visitas": 11
    },
    {
     "titulo": "Maluma anuncia siete conciertos en México",
@@ -55,52 +55,11 @@
     "visitas": 3
    }
   ],
-  "sesiones en vivo": [
-   {
-    "titulo": "Tiresias III en Sesiones En el Ensayo: la sesión en vivo, en sus palabras",
-    "url": "https://enelensayomedia.com/notas/tiresias-iii-en-sesiones-en-el-ensayo-la-sesion-en-vivo-en-sus-palabra-1106.html",
-    "visitas": 9
-   }
-  ],
-  "reportaje": [
-   {
-    "titulo": "Leonardo Favio, a 14 años de su muerte, se recuerda en la cultura argentina",
-    "url": "https://enelensayomedia.com/notas/leonardo-favio-a-14-anos-de-su-muerte-se-recuerda-en-la-cultura-argent-1105.html",
-    "visitas": 8
-   },
-   {
-    "titulo": "Brittany Murphy: su legado en el cine y la música",
-    "url": "https://enelensayomedia.com/notas/brittany-murphy-su-legado-en-el-cine-y-la-musica-1110.html",
-    "visitas": 3
-   }
-  ],
-  "chisme": [
-   {
-    "titulo": "Eiza González desata rumores de boda tras viaje",
-    "url": "https://enelensayomedia.com/notas/eiza-gonzalez-desata-rumores-de-boda-tras-viaje-1110.html",
-    "visitas": 7
-   },
-   {
-    "titulo": "Lola Índigo e IlloJuan desmienten rumores",
-    "url": "https://enelensayomedia.com/notas/lola-indigo-e-illojuan-desmienten-rumores-1108.html",
-    "visitas": 7
-   },
-   {
-    "titulo": "Jung Hae-in regresa a México en San Valentín con su gira de fan meetings",
-    "url": "https://enelensayomedia.com/notas/jung-hae-in-regresa-a-mexico-en-san-valentin-con-su-gira-de-fan-meetin-1106.html",
-    "visitas": 7
-   },
-   {
-    "titulo": "Olivia Rodrigo lanza su primera canción navideña original, \"Take Me Home (4 Christmas)\"",
-    "url": "https://enelensayomedia.com/notas/olivia-rodrigo-lanza-su-primera-cancion-navidena-original-take-me-home-1107.html",
-    "visitas": 6
-   }
-  ],
   "cine": [
    {
     "titulo": "Polémica por el doblaje de Wildwood",
     "url": "https://enelensayomedia.com/notas/polemica-por-el-doblaje-de-wildwood-1107.html",
-    "visitas": 7
+    "visitas": 10
    },
    {
     "titulo": "Super Mario Galaxy: La película llega a HBO Max",
@@ -116,6 +75,52 @@
     "titulo": "CDMX prepara exposición gratuita de Godzilla",
     "url": "https://enelensayomedia.com/notas/cdmx-prepara-exposicion-gratuita-de-godzilla-1101.html",
     "visitas": 5
+   }
+  ],
+  "sesiones en vivo": [
+   {
+    "titulo": "Tiresias III en Sesiones En el Ensayo: la sesión en vivo, en sus palabras",
+    "url": "https://enelensayomedia.com/notas/tiresias-iii-en-sesiones-en-el-ensayo-la-sesion-en-vivo-en-sus-palabra-1106.html",
+    "visitas": 9
+   }
+  ],
+  "cultura": [
+   {
+    "titulo": "Natalia Téllez habla tras anuncio de redoblaje en 'Wildwood': \"Lo tomo con respeto\"",
+    "url": "https://enelensayomedia.com/notas/natalia-tellez-habla-tras-anuncio-de-redoblaje-en-wildwood-lo-tomo-con-1112.html",
+    "visitas": 8
+   },
+   {
+    "titulo": "Los Concorde anuncian conciertos íntimos en cinco ciudades mexicanas para diciembre 2026",
+    "url": "https://enelensayomedia.com/notas/los-concorde-anuncian-conciertos-intimos-en-cinco-ciudades-mexicanas-p-1101.html",
+    "visitas": 6
+   },
+   {
+    "titulo": "Familia Elizalde se deslinda del documental 'Valentín: La Muerte del Gallo de Oro'",
+    "url": "https://enelensayomedia.com/notas/familia-elizalde-se-deslinda-del-documental-valentin-la-muerte-del-gal-1112.html",
+    "visitas": 3
+   }
+  ],
+  "chisme": [
+   {
+    "titulo": "Eiza González desata rumores de boda tras viaje",
+    "url": "https://enelensayomedia.com/notas/eiza-gonzalez-desata-rumores-de-boda-tras-viaje-1110.html",
+    "visitas": 7
+   },
+   {
+    "titulo": "Fede Vigevani inaugura la cafetería Cremoso en la Ciudad de México",
+    "url": "https://enelensayomedia.com/notas/fede-vigevani-inaugura-la-cafeteria-cremoso-en-la-ciudad-de-mexico-1110.html",
+    "visitas": 7
+   },
+   {
+    "titulo": "Lola Índigo e IlloJuan desmienten rumores",
+    "url": "https://enelensayomedia.com/notas/lola-indigo-e-illojuan-desmienten-rumores-1108.html",
+    "visitas": 7
+   },
+   {
+    "titulo": "Jung Hae-in regresa a México en San Valentín con su gira de fan meetings",
+    "url": "https://enelensayomedia.com/notas/jung-hae-in-regresa-a-mexico-en-san-valentin-con-su-gira-de-fan-meetin-1106.html",
+    "visitas": 7
    }
   ],
   "doblaje": [
@@ -169,6 +174,11 @@
     "visitas": 6
    },
    {
+    "titulo": "GTA VI y Ocarina of Time Remake lideran los lanzamientos de noviembre 2026",
+    "url": "https://enelensayomedia.com/notas/gta-vi-y-ocarina-of-time-remake-lideran-los-lanzamientos-de-noviembre-1103.html",
+    "visitas": 5
+   },
+   {
     "titulo": "Rockstar confirma versión en la nube de GTA VI para Xbox Series S",
     "url": "https://enelensayomedia.com/notas/rockstar-confirma-version-en-la-nube-de-gta-vi-para-xbox-series-s-1111.html",
     "visitas": 4
@@ -176,11 +186,6 @@
    {
     "titulo": "WWE Crown Jewel 2026: cartelera estelar y transmisión",
     "url": "https://enelensayomedia.com/notas/wwe-crown-jewel-2026-cartelera-estelar-y-transmision-1108.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "GTA VI y Ocarina of Time Remake lideran los lanzamientos de noviembre 2026",
-    "url": "https://enelensayomedia.com/notas/gta-vi-y-ocarina-of-time-remake-lideran-los-lanzamientos-de-noviembre-1103.html",
     "visitas": 4
    }
   ],
@@ -206,13 +211,6 @@
     "visitas": 3
    }
   ],
-  "cultura": [
-   {
-    "titulo": "Los Concorde anuncian conciertos íntimos en cinco ciudades mexicanas para diciembre 2026",
-    "url": "https://enelensayomedia.com/notas/los-concorde-anuncian-conciertos-intimos-en-cinco-ciudades-mexicanas-p-1101.html",
-    "visitas": 6
-   }
-  ],
   "televisión": [
    {
     "titulo": "Prime Video anuncia su calendario completo de estrenos para noviembre 2026",
@@ -222,6 +220,18 @@
    {
     "titulo": "Dragon Ball Super: Beerus – Crítica del capítulo 4 y llegada del doblaje latino",
     "url": "https://enelensayomedia.com/notas/dragon-ball-super-beerus-critica-del-capitulo-4-y-llegada-del-doblaje-1102.html",
+    "visitas": 4
+   }
+  ],
+  "internacional": [
+   {
+    "titulo": "Beyoncé recrea la portada de Love Deluxe de Sade",
+    "url": "https://enelensayomedia.com/notas/beyonce-recrea-la-portada-de-love-deluxe-de-sade-1112.html",
+    "visitas": 4
+   },
+   {
+    "titulo": "Harry Styles impulsa ingresos de Madison Square Garden en 37 %",
+    "url": "https://enelensayomedia.com/notas/harry-styles-impulsa-ingresos-de-madison-square-garden-en-37-1104.html",
     "visitas": 4
    }
   ],
@@ -240,11 +250,6 @@
     "titulo": "Resultados y análisis de la Lucha Libre AAA del 7 de noviembre de 2026",
     "url": "https://enelensayomedia.com/notas/resultados-y-analisis-de-la-lucha-libre-aaa-del-7-de-noviembre-de-2026-1109.html",
     "visitas": 4
-   },
-   {
-    "titulo": "Penta Zero Miedo y Je’Von Evans ganan los Campeonatos de Parejas de WWE",
-    "url": "https://enelensayomedia.com/notas/penta-zero-miedo-y-jevon-evans-ganan-los-campeonatos-de-parejas-de-wwe-1107.html",
-    "visitas": 3
    }
   ],
   "entrevista": [
@@ -252,20 +257,6 @@
     "titulo": "Pokkefriends: de Castelli a Pokkelandia con su primer adelanto",
     "url": "https://enelensayomedia.com/notas/pokkefriends-de-castelli-a-pokkelandia-con-su-primer-adelanto-1112.html",
     "visitas": 4
-   }
-  ],
-  "internacional": [
-   {
-    "titulo": "Harry Styles impulsa ingresos de Madison Square Garden en 37 %",
-    "url": "https://enelensayomedia.com/notas/harry-styles-impulsa-ingresos-de-madison-square-garden-en-37-1104.html",
-    "visitas": 4
-   }
-  ],
-  "agenda woke": [
-   {
-    "titulo": "La casa del dragón y la imposición woke en Poniente",
-    "url": "https://enelensayomedia.com/notas/la-casa-del-dragon-y-la-imposicion-woke-en-poniente-1109.html",
-    "visitas": 3
    }
   ]
  }
