@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-12T22:04",
+ "actualizado": "2026-11-13T04:07",
  "peores": [
   {
    "titulo": "Code Violet",
@@ -135,87 +135,6 @@
   }
  ],
  "estrenos": [
-  {
-   "titulo": "Barbie Rewind",
-   "fecha": "2026-11-12",
-   "fecha_txt": "12 de noviembre",
-   "plataformas": [
-    "PC",
-    "Switch",
-    "Switch 2",
-    "PS4",
-    "PS5"
-   ],
-   "genero": "",
-   "desarrolla": "Digital Eclipse",
-   "publica": "Atari"
-  },
-  {
-   "titulo": "Fakin' It XL",
-   "fecha": "2026-11-12",
-   "fecha_txt": "12 de noviembre",
-   "plataformas": [
-    "PC",
-    "PS5",
-    "Xbox Series"
-   ],
-   "genero": "Party",
-   "desarrolla": "Jackbox Games",
-   "publica": ""
-  },
-  {
-   "titulo": "Moomin: Midsummer Madness",
-   "fecha": "2026-11-12",
-   "fecha_txt": "12 de noviembre",
-   "plataformas": [
-    "PC",
-    "Switch",
-    "Switch 2"
-   ],
-   "genero": "PCA",
-   "desarrolla": "Crossbridge Game Studios",
-   "publica": "Shochiku"
-  },
-  {
-   "titulo": "Pikmin 4 – Nintendo Switch 2 Edition + Dandori Academy",
-   "fecha": "2026-11-12",
-   "fecha_txt": "12 de noviembre",
-   "plataformas": [
-    "Switch 2"
-   ],
-   "genero": "Puzzle, RTS",
-   "desarrolla": "Nintendo EPD, Eighting",
-   "publica": "Nintendo"
-  },
-  {
-   "titulo": "Prinny Party: Going Overboard!",
-   "fecha": "2026-11-12",
-   "fecha_txt": "12 de noviembre",
-   "plataformas": [
-    "PC",
-    "Switch",
-    "Switch 2",
-    "PS5"
-   ],
-   "genero": "Party",
-   "desarrolla": "Nippon Ichi Software",
-   "publica": ""
-  },
-  {
-   "titulo": "Sonic Pico Park",
-   "fecha": "2026-11-12",
-   "fecha_txt": "12 de noviembre",
-   "plataformas": [
-    "PC",
-    "Mac",
-    "Switch",
-    "Switch 2",
-    "PS5"
-   ],
-   "genero": "Puzzle",
-   "desarrolla": "TECOPARK",
-   "publica": ""
-  },
   {
    "titulo": "Grand Theft Auto VI",
    "fecha": "2026-11-19",
@@ -449,6 +368,89 @@
    "genero": "Puzzle",
    "desarrolla": "Jupiter Corporation",
    "publica": ""
+  },
+  {
+   "titulo": "Professor Layton and the New World of Steam",
+   "fecha": "2026-12-10",
+   "fecha_txt": "10 de diciembre",
+   "plataformas": [
+    "PC",
+    "Switch",
+    "Switch 2",
+    "PS5"
+   ],
+   "genero": "Puzzle, Adventure",
+   "desarrolla": "Level-5 Osaka Office",
+   "publica": "Level-5"
+  },
+  {
+   "titulo": "Super Yanoman Collection",
+   "fecha": "2026-12-10",
+   "fecha_txt": "10 de diciembre",
+   "plataformas": [
+    "PC",
+    "Switch",
+    "Switch 2",
+    "PS5"
+   ],
+   "genero": "",
+   "desarrolla": "Edia",
+   "publica": ""
+  },
+  {
+   "titulo": "Stage Tour",
+   "fecha": "2026-12-10",
+   "fecha_txt": "10 de diciembre",
+   "plataformas": [
+    "PC",
+    "Switch 2",
+    "PS5",
+    "Xbox Series"
+   ],
+   "genero": "Rhythm",
+   "desarrolla": "RedOctane Games",
+   "publica": ""
+  },
+  {
+   "titulo": "Path of Exile 2",
+   "fecha": "2026-12-11",
+   "fecha_txt": "11 de diciembre",
+   "plataformas": [
+    "PC",
+    "PS5",
+    "Xbox Series"
+   ],
+   "genero": "Action RPG",
+   "desarrolla": "Grinding Gear Games",
+   "publica": ""
+  },
+  {
+   "titulo": "Sunsoft is Back! Retro Game Selection 2",
+   "fecha": "2026-12-17",
+   "fecha_txt": "17 de diciembre",
+   "plataformas": [
+    "PC",
+    "Switch",
+    "PS5"
+   ],
+   "genero": "",
+   "desarrolla": "Sunsoft",
+   "publica": ""
+  },
+  {
+   "titulo": "Danganronpa 2×2",
+   "fecha": "2027-01-14",
+   "fecha_txt": "14 de enero",
+   "plataformas": [
+    "PC",
+    "Switch",
+    "Switch 2",
+    "PS5",
+    "Xbox Series"
+   ],
+   "genero": "Visual novel, Adventure",
+   "desarrolla": "Gemdrops, Too Kyo Games",
+   "publica": "Spike Chunsoft"
   }
  ]
 }
