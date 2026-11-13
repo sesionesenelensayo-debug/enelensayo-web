@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Feige aclara: Doctor Doom no es una variante de Tony Stark en 'Avengers: Doomsday'",
+    "artista": "Doctor Doom",
+    "intro": "Kevin Feige confirmó a la revista Empire que el Doctor Doom de Robert Downey Jr. no es una variante de Tony Stark en 'Avengers: Doomsday', desmintiendo una teoría popular entre los fans.",
+    "telegraph_url": "https://telegra.ph/Feige-aclara-Doctor-Doom-no-es-una-variante-de-Tony-Stark-en-Avengers-Doomsday-11-13",
+    "url": "https://enelensayomedia.com/notas/feige-aclara-doctor-doom-no-es-una-variante-de-tony-stark-en-avengers-1113.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/feige-aclara-doctor-doom-no-es-una-variante-de-tony-stark-en-avengers-1113.jpg",
+    "fecha": "2026-11-13T15:02:27.726513",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "WestCOL la rompe en Kick y manda en el streaming latino",
     "artista": "WestCOL",
     "intro": "¡Pura candela en el streaming, mi gente! Antes nadie creía en el talento local y ahora Latinoamérica domina el mapa mundial de plataformas digitales.",
@@ -5882,18 +5896,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "EA prepara la tercera entrega de Star Wars Jedi con Cal Kestis",
-    "artista": "Cal Kestis",
-    "intro": "Se reporta que EA está desarrollando la tercera parte de la saga Star Wars Jedi, lo que marcaría el regreso de Cal Kestis.",
-    "telegraph_url": "https://telegra.ph/EA-prepara-la-tercera-entrega-de-Star-Wars-Jedi-con-Cal-Kestis-11-02",
-    "url": "https://enelensayomedia.com/notas/ea-prepara-la-tercera-entrega-de-star-wars-jedi-con-cal-kestis-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/ea-prepara-la-tercera-entrega-de-star-wars-jedi-con-cal-kestis-1101.jpg",
-    "fecha": "2026-11-01T23:11:16.201221",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos"
   }
 ]
