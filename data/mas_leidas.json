@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13 12:12",
+ "actualizado": "2026-11-13 16:09",
  "general": [
   {
    "titulo": "Polémica por el doblaje de Wildwood",
@@ -72,8 +72,8 @@
     "visitas": 5
    },
    {
-    "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
-    "url": "https://enelensayomedia.com/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.html",
+    "titulo": "Carlos Rivera triunfa en los Heat Latin Music Awards 2026",
+    "url": "https://enelensayomedia.com/notas/carlos-rivera-triunfa-en-los-heat-latin-music-awards-2026-1106.html",
     "visitas": 4
    }
   ],
@@ -182,6 +182,23 @@
     "visitas": 4
    }
   ],
+  "televisión": [
+   {
+    "titulo": "Prime Video anuncia su calendario completo de estrenos para noviembre 2026",
+    "url": "https://enelensayomedia.com/notas/prime-video-anuncia-su-calendario-completo-de-estrenos-para-noviembre-1105.html",
+    "visitas": 6
+   },
+   {
+    "titulo": "Sony aspira a que Demon Slayer dure 100 años con estrategia Disney",
+    "url": "https://enelensayomedia.com/notas/sony-aspira-a-que-demon-slayer-dure-100-anos-con-estrategia-disney-1113.html",
+    "visitas": 4
+   },
+   {
+    "titulo": "Dragon Ball Super: Beerus – Crítica del capítulo 4 y llegada del doblaje latino",
+    "url": "https://enelensayomedia.com/notas/dragon-ball-super-beerus-critica-del-capitulo-4-y-llegada-del-doblaje-1102.html",
+    "visitas": 4
+   }
+  ],
   "streaming": [
    {
     "titulo": "Maestro Shifu en el afterparty de Karol G",
@@ -199,25 +216,8 @@
     "visitas": 5
    },
    {
-    "titulo": "Santiago Abascal cancela entrevista en The Wild Project por polémica con Vox",
-    "url": "https://enelensayomedia.com/notas/santiago-abascal-cancela-entrevista-en-the-wild-project-por-polemica-c-1111.html",
-    "visitas": 3
-   }
-  ],
-  "televisión": [
-   {
-    "titulo": "Prime Video anuncia su calendario completo de estrenos para noviembre 2026",
-    "url": "https://enelensayomedia.com/notas/prime-video-anuncia-su-calendario-completo-de-estrenos-para-noviembre-1105.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "Dragon Ball Super: Beerus – Crítica del capítulo 4 y llegada del doblaje latino",
-    "url": "https://enelensayomedia.com/notas/dragon-ball-super-beerus-critica-del-capitulo-4-y-llegada-del-doblaje-1102.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "Sony aspira a que Demon Slayer dure 100 años con estrategia Disney",
-    "url": "https://enelensayomedia.com/notas/sony-aspira-a-que-demon-slayer-dure-100-anos-con-estrategia-disney-1113.html",
+    "titulo": "WestCOL la rompe en Kick y manda en el streaming latino",
+    "url": "https://enelensayomedia.com/notas/westcol-la-rompe-en-kick-y-manda-en-el-streaming-latino-1107.html",
     "visitas": 3
    }
   ],
@@ -255,6 +255,13 @@
     "titulo": "Pokkefriends: de Castelli a Pokkelandia con su primer adelanto",
     "url": "https://enelensayomedia.com/notas/pokkefriends-de-castelli-a-pokkelandia-con-su-primer-adelanto-1112.html",
     "visitas": 4
+   }
+  ],
+  "reality": [
+   {
+    "titulo": "Karely Ruiz y Jorge Durán en tenso momento en La Mansión VIP 2",
+    "url": "https://enelensayomedia.com/notas/karely-ruiz-y-jorge-duran-en-tenso-momento-en-la-mansion-vip-2-1112.html",
+    "visitas": 3
    }
   ]
  }
