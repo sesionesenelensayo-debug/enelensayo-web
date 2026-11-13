@@ -191,6 +191,23 @@
    }
   ]
  },
+ "Internacional": {
+  "shorts": [
+   {
+    "id": "YkiRUL3y3P0",
+    "titulo": "Beyoncé recrea la portada de Love Deluxe de Sade",
+    "fecha": "2026-11-12",
+    "nota": "https://enelensayomedia.com/notas/beyonce-recrea-la-portada-de-love-deluxe-de-sade-1112.html"
+   },
+   {
+    "id": "solKyBER0ZI",
+    "titulo": "Harry Styles impulsa ingresos de Madison Square Garden en 37 %",
+    "fecha": "2026-11-09",
+    "nota": "https://enelensayomedia.com/notas/harry-styles-impulsa-ingresos-de-madison-square-garden-en-37-1104.html"
+   }
+  ],
+  "longs": []
+ },
  "Música": {
   "shorts": [
    {
@@ -388,17 +405,6 @@
     "titulo": "5 curiosidades de Anthony Kiedis",
     "fecha": "2026-11-01",
     "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-anthony-kiedis-1101.html"
-   }
-  ],
-  "longs": []
- },
- "Internacional": {
-  "shorts": [
-   {
-    "id": "solKyBER0ZI",
-    "titulo": "Harry Styles impulsa ingresos de Madison Square Garden en 37 %",
-    "fecha": "2026-11-09",
-    "nota": "https://enelensayomedia.com/notas/harry-styles-impulsa-ingresos-de-madison-square-garden-en-37-1104.html"
    }
   ],
   "longs": []
