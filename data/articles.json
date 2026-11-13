@@ -1,6 +1,22 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Kygo en México 2027: fechas, sedes y boletos",
+    "artista": "Kygo",
+    "intro": "El productor noruego Kygo regresará a México en 2027 con dos conciertos que incluirán música electrónica y un cartel con invitados especiales.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/kygo-en-mexico-2027-fechas-sedes-y-boletos-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/kygo-en-mexico-2027-fechas-sedes-y-boletos-1103.jpg",
+    "fecha": "2026-11-12T21:06:40.579976",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-11-03T13:34:06.725879",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Frankie Muniz sufre accidente en práctica de Daytona y es trasladado de emergencia",
     "artista": "Frankie Muniz",
@@ -974,22 +990,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Kygo en México 2027: fechas, sedes y boletos",
-    "artista": "Kygo",
-    "intro": "El productor noruego Kygo regresará a México en 2027 con dos conciertos que incluirán música electrónica y un cartel con invitados especiales.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/kygo-en-mexico-2027-fechas-sedes-y-boletos-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/kygo-en-mexico-2027-fechas-sedes-y-boletos-1103.jpg",
-    "fecha": "2026-11-11T15:24:12.629107",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-03T13:34:06.725879",
-    "actualizada": true
   },
   {
     "opinion": false,
