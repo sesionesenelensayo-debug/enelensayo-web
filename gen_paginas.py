@@ -13,7 +13,8 @@ PAGINAS = {  # archivo: (etiqueta de menú, título, descripción, [ids de secci
     "periodico": ("Periódico", "El Periódico", "La edición descargable de En el Ensayo Media, con publicidad y lo mejor de la semana.", ["periodico"]),
     "newsletter": ("Newsletter", "Newsletter", "Recibe El Periódico de En el Ensayo en tu correo, de lunes a viernes. Gratis.", ["newsletter"]),
     "cine": ("Cine", "Cine", "Una nota al día de cine: las más esperadas, los fracasos y las decepciones. Cuenta regresiva a Avengers: Doomsday.", ["cine"]),
-    "television": ("Televisión", "Televisión", "Las 20 series mejor calificadas según IMDb, las más populares del momento y las noticias de la tele y el streaming.", ["television"]),
+    "television": ("Televisión", "Televisión y plataformas", "Las 20 series mejor calificadas según IMDb, las más populares del momento y las noticias de Netflix, Max, Disney+, Prime Video y la televisión abierta.", ["television"]),
+    "reality": ("Reality", "Reality", "Seguimiento diario de La Casa de los Famosos, La Granja VIP, La Mansión VIP, Big Brother, Survivor y Exatlón: eliminaciones, polémicas, romances y audiencia.", ["reality"]),
     "marveldc": ("Marvel y DCU", "Marvel y DCU", "Marvel Studios y DC Studios: noticias, taquilla, resultados y opinión sin anestesia sobre lo último del cine de superhéroes.", ["marveldc"]),
     "videojuegos": ("Videojuegos", "Videojuegos", "Videojuegos: estrenos, los peor calificados y las polémicas de la industria, con cuenta regresiva a GTA VI.", ["videojuegos"]),
     "luchas": ("Luchas", "Luchas", "WWE, AAA, CMLL y lucha japonesa: noticias, campeones y próximas funciones con precio, lugar y campeonatos.", ["luchas"]),
@@ -47,7 +48,7 @@ def menu(n, activo):
 
 # portada LIGERA: cabecera + menú + portada (nota del día, lo último, videos) + Top 10 + periódico + botones de sección
 portada = src[src.index("  <!-- ── PORTADA"):src.index("  <!-- ── HERO")]
-ICONOS = {"marveldc": "🦸", "chisme": "💬", "misterio": "👻", "deporte": "⚽", "exclusivas": "⭐", "top10": "🏆", "periodico": "📰", "newsletter": "✉️", "cine": "🎬", "videojuegos": "🎮", "luchas": "🤼", "streaming": "📡", "doblaje": "🗣️", "television": "📺", "conciertos": "🎟️", "hitos": "🏅", "shorts": "📱", "longs": "📺", "podcast": "🎙️", "sesiones": "🎸", "sobre": "💡"}
+ICONOS = {"marveldc": "🦸", "chisme": "💬", "misterio": "👻", "deporte": "⚽", "exclusivas": "⭐", "top10": "🏆", "periodico": "📰", "newsletter": "✉️", "cine": "🎬", "videojuegos": "🎮", "luchas": "🤼", "streaming": "📡", "reality": "🏠", "doblaje": "🗣️", "television": "📺", "conciertos": "🎟️", "hitos": "🏅", "shorts": "📱", "longs": "📺", "podcast": "🎙️", "sesiones": "🎸", "sobre": "💡"}
 import unicodedata as _ud
 _btn = [(et, f'<a href="{k}.html"><span class="ic">{ICONOS.get(k, "🎵")}</span>{et}</a>') for k, (et, *_r) in PAGINAS.items() if k not in ("noticias",)] + \
        [(et, f'<a href="{k}.html"><span class="ic">{ic}</span>{et}</a>') for k, et, ic in (("musica", "Música", "🎵"), ("memoriam", "In memoriam", "🕯️"), ("cultura", "Cultura", "🎭"), ("escena-local", "Escena local", "🎤"))]

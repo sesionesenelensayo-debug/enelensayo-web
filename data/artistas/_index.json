@@ -1,5 +1,12 @@
 [
   {
+    "artista": "Genesis",
+    "slug": "genesis",
+    "imagen": "artistas_img/genesis.jpg",
+    "piezas": 1,
+    "updated": "2026-11-13 12:04"
+  },
+  {
     "artista": "Phil Collins",
     "slug": "phil-collins",
     "imagen": "",

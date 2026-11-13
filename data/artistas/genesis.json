@@ -1,0 +1,16 @@
+{
+  "artista": "Genesis",
+  "slug": "genesis",
+  "imagen": "artistas_img/genesis.jpg",
+  "shorts": [],
+  "longs": [
+    {
+      "titulo": "¿Cómo nació el coloso del rock? | La historia secreta de Genesis",
+      "url": "https://www.youtube.com/shorts/EcKj36Nk4mY",
+      "fecha": "2026-11-13",
+      "tipo": "long"
+    }
+  ],
+  "tweets": [],
+  "updated": "2026-11-13 12:04"
+}
