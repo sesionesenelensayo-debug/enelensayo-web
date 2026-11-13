@@ -1,5 +1,21 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Exatlón México 2026: Rojos ganan la Villa 360",
+    "artista": "Exatlón México 2026",
+    "intro": "El 12 de noviembre de 2026 se disputó una nueva edición de la Batalla por la Villa 360 en Exatlón México…",
+    "telegraph_url": "https://telegra.ph/Exatlón-México-2026-Rojos-ganan-la-Villa-360-11-13",
+    "url": "https://enelensayomedia.com/notas/exatlon-mexico-2026-rojos-ganan-la-villa-360-1113.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/exatlon-mexico-2026-rojos-ganan-la-villa-360-1113.jpg",
+    "fecha": "2026-11-13T12:57:43.416791",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reality",
+    "fecha_original": "2026-11-13T12:21:32.127645",
+    "actualizada": true
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "El caos del DCU frente al peso de Robert Pattinson y Marvel",
@@ -39,20 +55,6 @@
     "url": "https://enelensayomedia.com/notas/secretaria-de-turismo-de-baja-california-se-deslinda-de-publicidad-est-1113.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/secretaria-de-turismo-de-baja-california-se-deslinda-de-publicidad-est-1113.jpg",
     "fecha": "2026-11-13T12:28:55.683437",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reality"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Exatlón México 2026: Rojos ganan la Villa 360",
-    "artista": "Exatlón México 2026",
-    "intro": "El 12 de noviembre de 2026 se disputó una nueva edición de la Batalla por la Villa 360 en Exatlón México…",
-    "telegraph_url": "https://telegra.ph/Exatlón-México-2026-Rojos-ganan-la-Villa-360-11-13",
-    "url": "https://enelensayomedia.com/notas/exatlon-mexico-2026-rojos-ganan-la-villa-360-1113.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/exatlon-mexico-2026-rojos-ganan-la-villa-360-1113.jpg",
-    "fecha": "2026-11-13T12:21:32.127645",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reality"

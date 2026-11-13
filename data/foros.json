@@ -443,6 +443,27 @@
    "lat": 19.4275021,
    "lon": -99.1332127,
    "genero": "Foro con música en vivo",
+   "url": "https://laburrablancadel56.blogspot.com/",
+   "auto": true
+  },
+  {
+   "nombre": "Azotea",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "",
+   "lat": 19.3331066,
+   "lon": -98.983616,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "Departamento",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "Roma Norte",
+   "lat": 19.4175545,
+   "lon": -99.1618346,
+   "genero": "Foro con música en vivo",
    "auto": true
   },
   {
@@ -482,6 +503,16 @@
    "zona": "",
    "lat": 19.4343005,
    "lon": -99.1357777,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "Donceles 58",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "Centro",
+   "lat": 19.4363558,
+   "lon": -99.135569,
    "genero": "Foro con música en vivo",
    "auto": true
   }
