@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Duki y YSY A lanzan nuevos discos en esta semana de estreno",
+    "artista": "Discos de la semana",
+    "intro": "Esta semana el cartel de lanzamientos se llena de novedades en música latina y hip-hop.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/duki-y-ysy-a-lanzan-nuevos-discos-en-esta-semana-de-estreno-1113.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/duki-y-ysy-a-lanzan-nuevos-discos-en-esta-semana-de-estreno-1113.jpg",
+    "fecha": "2026-11-13T13:18:30.269202",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Exatlón México 2026: Rojos ganan la Villa 360",
     "artista": "Exatlón México 2026",
     "intro": "El 12 de noviembre de 2026 se disputó una nueva edición de la Batalla por la Villa 360 en Exatlón México…",
@@ -3792,20 +3806,6 @@
     "categoria": "Chisme"
   },
   {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "De Duki a Daddy Yankee: los nuevos lanzamientos",
-    "artista": "Discos de la semana",
-    "intro": "",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/de-duki-a-daddy-yankee-los-nuevos-lanzamientos-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/de-duki-a-daddy-yankee-los-nuevos-lanzamientos-1106.jpg",
-    "fecha": "2026-11-06T13:08:40.274466",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reportaje"
-  },
-  {
     "tipo": "reportaje",
     "titulo": "Conan Exiles prepara actualización para PS5 y Xbox Series",
     "artista": "Conan Exiles",
@@ -5868,20 +5868,6 @@
     "url": "https://enelensayomedia.com/notas/el-oscuro-secreto-detras-del-nacimiento-de-eminem-infancia-fama-y-ansi-1101.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/el-oscuro-secreto-detras-del-nacimiento-de-eminem-infancia-fama-y-ansi-1101.jpg",
     "fecha": "2026-11-01T22:36:36.894117",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Siddhartha: del baterista de Zoé al indie más grande del México contemporáneo",
-    "artista": "Siddhartha",
-    "intro": "El video del canal En el Ensayo Media presenta una breve reseña de la trayectoria de Jorge Siddhartha González Ibarra, conocido como Siddhartha, resaltando sus inicios como baterista de Zoé…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/siddhartha-del-baterista-de-zoe-al-indie-mas-grande-del-mexico-contemp-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/siddhartha-del-baterista-de-zoe-al-indie-mas-grande-del-mexico-contemp-1101.jpg",
-    "fecha": "2026-11-01T21:53:39.717178",
     "author": "Oliver Ken",
     "views": 0,
     "archivo": true,
