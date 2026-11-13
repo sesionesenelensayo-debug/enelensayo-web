@@ -2,10 +2,10 @@
  "Música": {
   "shorts": [
    {
-    "id": "H12UPdqfPYc",
-    "titulo": "Pink Floyd publica 'Another Brick in the Wall, Part 2' en 1979",
+    "id": "YkiRUL3y3P0",
+    "titulo": "Beyoncé recrea portada de Sade en sesión fotográfica",
     "fecha": "2026-11-12",
-    "nota": "https://enelensayomedia.com/notas/pink-floyd-publica-another-brick-in-the-wall-part-2-en-1979-1112.html"
+    "nota": "https://enelensayomedia.com/notas/beyonce-recrea-portada-de-sade-en-sesion-fotografica-1112.html"
    },
    {
     "id": "6wivIUQ6Sv8",
@@ -64,6 +64,41 @@
     "nota": "https://enelensayomedia.com/notas/el-impulso-y-la-independencia-de-pepe-aguilar-hacia-la-leyenda-1109.html"
    }
   ]
+ },
+ "Datos curiosos": {
+  "shorts": [
+   {
+    "id": "H12UPdqfPYc",
+    "titulo": "5 curiosidades de Pink Floyd",
+    "fecha": "2026-11-12",
+    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-pink-floyd-1112.html"
+   },
+   {
+    "id": "j48ESWt3Nyk",
+    "titulo": "5 curiosidades de Santana",
+    "fecha": "2026-11-10",
+    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-santana-1110.html"
+   },
+   {
+    "id": "Kq7PSUfR2SI",
+    "titulo": "5 curiosidades de George Michael",
+    "fecha": "2026-11-03",
+    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-george-michael-1103.html"
+   },
+   {
+    "id": "zRCte-UBJAk",
+    "titulo": "5 curiosidades de Nelly",
+    "fecha": "2026-11-02",
+    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-nelly-1102.html"
+   },
+   {
+    "id": "uDXnWgNy0xk",
+    "titulo": "5 curiosidades de Anthony Kiedis",
+    "fecha": "2026-11-01",
+    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-anthony-kiedis-1101.html"
+   }
+  ],
+  "longs": []
  },
  "Chisme": {
   "shorts": [
@@ -257,23 +292,6 @@
    }
   ]
  },
- "Internacional": {
-  "shorts": [
-   {
-    "id": "YkiRUL3y3P0",
-    "titulo": "Beyoncé recrea la portada de Love Deluxe de Sade",
-    "fecha": "2026-11-12",
-    "nota": "https://enelensayomedia.com/notas/beyonce-recrea-la-portada-de-love-deluxe-de-sade-1112.html"
-   },
-   {
-    "id": "solKyBER0ZI",
-    "titulo": "Harry Styles impulsa ingresos de Madison Square Garden en 37 %",
-    "fecha": "2026-11-09",
-    "nota": "https://enelensayomedia.com/notas/harry-styles-impulsa-ingresos-de-madison-square-garden-en-37-1104.html"
-   }
-  ],
-  "longs": []
- },
  "Terror y misterio": {
   "shorts": [
    {
@@ -386,31 +404,13 @@
    }
   ]
  },
- "Datos curiosos": {
+ "Internacional": {
   "shorts": [
    {
-    "id": "j48ESWt3Nyk",
-    "titulo": "5 curiosidades de Santana",
-    "fecha": "2026-11-10",
-    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-santana-1110.html"
-   },
-   {
-    "id": "Kq7PSUfR2SI",
-    "titulo": "5 curiosidades de George Michael",
-    "fecha": "2026-11-03",
-    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-george-michael-1103.html"
-   },
-   {
-    "id": "zRCte-UBJAk",
-    "titulo": "5 curiosidades de Nelly",
-    "fecha": "2026-11-02",
-    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-nelly-1102.html"
-   },
-   {
-    "id": "uDXnWgNy0xk",
-    "titulo": "5 curiosidades de Anthony Kiedis",
-    "fecha": "2026-11-01",
-    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-anthony-kiedis-1101.html"
+    "id": "solKyBER0ZI",
+    "titulo": "Harry Styles impulsa ingresos de Madison Square Garden en 37 %",
+    "fecha": "2026-11-09",
+    "nota": "https://enelensayomedia.com/notas/harry-styles-impulsa-ingresos-de-madison-square-garden-en-37-1104.html"
    }
   ],
   "longs": []

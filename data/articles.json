@@ -2,6 +2,35 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "El Palacio de Lecumberri: historia de un penal brutal y su transformación en archivo histórico",
+    "artista": "el Palacio de Lecumberri",
+    "intro": "Construido en 1900, el complejo fue famoso por su sistema panóptico y condenas extremas, hasta su conversión en Archivo General de la Nación en 1982.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-palacio-de-lecumberri-historia-de-un-penal-brutal-y-su-transformaci-1112.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-palacio-de-lecumberri-historia-de-un-penal-brutal-y-su-transformaci-1112.jpg",
+    "fecha": "2026-11-12T20:33:19.588574",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Historias de terror"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Beyoncé recrea portada de Sade en sesión fotográfica",
+    "artista": "Beyoncé",
+    "intro": "En el video publicado por el canal En el Ensayo Media se muestra a Beyoncé recreando la portada de 'Love Delux' de Sade durante una sesión fotográfica recientemente revelada.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/beyonce-recrea-portada-de-sade-en-sesion-fotografica-1112.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/beyonce-recrea-portada-de-sade-en-sesion-fotografica-1112.jpg",
+    "fecha": "2026-11-12T20:32:12.244392",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "5 curiosidades de Pink Floyd",
     "artista": "Pink Floyd",
     "intro": "El canal En el Ensayo Media presenta un video corto donde se destacan cinco curiosidades poco conocidas sobre la banda Pink Floyd, abordando hechos históricos…",
@@ -4926,22 +4955,6 @@
     "categoria": "In memoriam"
   },
   {
-    "tipo": "noticia",
-    "titulo": "Billie Eilish y Phoebe Bridgers aparecen en el corto ‘Prelude To The End’ de My Chemical Romance",
-    "artista": "Billie Eilish, Phoebe Bridgers y My Chemical Romance",
-    "intro": "Billie Eilish y Phoebe Bridgers aparecen en el corto musical “Prelude To The End”, creado por la banda My Chemical Romance, según informa NME. El anuncio destaca la colaboración de las dos cantantes c",
-    "telegraph_url": "https://telegra.ph/Billie-Eilish-y-Phoebe-Bridgers-aparecen-en-el-corto-Prelude-To-The-End-de-My-Chemical-Romance-10-31",
-    "url": "https://enelensayomedia.com/notas/billie-eilish-y-phoebe-bridgers-aparecen-en-el-corto-prelude-to-the-en-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/billie-eilish-y-phoebe-bridgers-aparecen-en-el-corto-prelude-to-the-en-1031.jpg",
-    "fecha": "2026-11-03T12:41:09.042453",
-    "author": "Oliver Ken",
-    "views": 0,
-    "nota_dia": true,
-    "categoria": "Música",
-    "fecha_original": "2026-10-31T12:07:13.061619",
-    "actualizada": true
-  },
-  {
     "opinion": false,
     "tipo": "noticia",
     "titulo": "Spider-Man: Brand New Day lidera las 10 películas más taquilleras de 2026",
@@ -5862,20 +5875,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Cultura"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece Patrick Stewart, ícono de Star Trek y X-Men, a los 86 años",
-    "artista": "",
-    "intro": "El actor británico, conocido por sus roles como Jean-Luc Picard y el Profesor X, murió en Los Ángeles tras enfrentar Alzheimer y demencia.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fallece-patrick-stewart-icono-de-star-trek-y-x-men-a-los-86-anos-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-patrick-stewart-icono-de-star-trek-y-x-men-a-los-86-anos-1029.jpg",
-    "fecha": "2026-11-01T11:42:35.137937",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam",
-    "fecha_original": "2026-10-29T19:19:37",
-    "actualizada": true
   }
 ]
