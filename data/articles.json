@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Niurka habla sobre posible salida de La Granja VIP: 'Me voy contenta'",
+    "artista": "Niurka",
+    "intro": "El 13 de noviembre de 2026, Niurka Marcos expresó en un video difundido por TV Azteca la posibilidad de abandonar 'La Granja VIP', declarando: 'Me voy contenta'.",
+    "telegraph_url": "https://telegra.ph/Niurka-habla-sobre-posible-salida-de-La-Granja-VIP-Me-voy-contenta-11-13",
+    "url": "https://enelensayomedia.com/notas/niurka-habla-sobre-posible-salida-de-la-granja-vip-me-voy-contenta-1113.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/niurka-habla-sobre-posible-salida-de-la-granja-vip-me-voy-contenta-1113.jpg",
+    "fecha": "2026-11-13T14:31:55.155733",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reality"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Las 10 grandes decepciones de 2026 en el cine según la crítica",
     "artista": "las 10 grandes decepciones de 2026 según la crítica (peor calificadas con más expectativa)",
     "intro": "Un repaso detallado por las producciones cinematográficas estrenadas en 2026 que no lograron convencer a la crítica especializada ni cumplir con las expectativas.",
@@ -5876,19 +5890,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El oscuro secreto detrás del nacimiento de Eminem: infancia, fama y ansiedad",
-    "artista": "Eminem",
-    "intro": "En el video se plantea la trayectoria de Marshall Mathers, desde su nacimiento el 17 de octubre de 1972 en Saint Joseph, Missouri…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-oscuro-secreto-detras-del-nacimiento-de-eminem-infancia-fama-y-ansi-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-oscuro-secreto-detras-del-nacimiento-de-eminem-infancia-fama-y-ansi-1101.jpg",
-    "fecha": "2026-11-01T22:36:36.894117",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   }
 ]
