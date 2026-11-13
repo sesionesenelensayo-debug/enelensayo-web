@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
+    "artista": "Alejandra Guzmán y Frida Sofía",
+    "intro": "Tras años de distanciamiento mediático, la relación entre Alejandra Guzmán y Frida Sofía vuelve al centro de la conversación pública.",
+    "telegraph_url": "https://telegra.ph/Alejandra-Guzmán-confirma-encuentro-con-Frida-Sofía-11-06",
+    "url": "https://enelensayomedia.com/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.jpg",
+    "fecha": "2026-11-13T13:38:16.775209",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-11-06T11:37:52.319357",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Disney+ transmitirá The Game Awards 2026 en vivo",
     "artista": "The Game Awards",
     "intro": "The Game Awards 2026 se transmitirán por primera vez en vivo a través de Disney+.",
@@ -11,7 +27,7 @@
     "fecha": "2026-11-13T13:36:52.255931",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Videojuegos",
+    "categoria": "Cultura",
     "fecha_original": "2026-11-13T11:45:16.515275",
     "actualizada": true
   },
@@ -1094,22 +1110,6 @@
     "views": 0,
     "categoria": "Videojuegos",
     "fecha_original": "2026-10-31T09:33:41.980255",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
-    "artista": "Alejandra Guzmán y Frida Sofía",
-    "intro": "Tras años de distanciamiento mediático, la relación entre Alejandra Guzmán y Frida Sofía vuelve al centro de la conversación pública.",
-    "telegraph_url": "https://telegra.ph/Alejandra-Guzmán-confirma-encuentro-con-Frida-Sofía-11-06",
-    "url": "https://enelensayomedia.com/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.jpg",
-    "fecha": "2026-11-12T07:04:18.241935",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-06T11:37:52.319357",
     "actualizada": true
   },
   {
