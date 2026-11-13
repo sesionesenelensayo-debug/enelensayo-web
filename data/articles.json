@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Rockstar confirma versión en la nube de GTA VI para Xbox Series S",
+    "artista": "GTA VI",
+    "intro": "Rockstar y Xbox anunciaron que GTA VI estará disponible en Xbox Cloud Gaming desde su lanzamiento.",
+    "telegraph_url": "https://telegra.ph/Rockstar-confirma-versión-en-la-nube-de-GTA-VI-para-Xbox-Series-S-11-11",
+    "url": "https://enelensayomedia.com/notas/rockstar-confirma-version-en-la-nube-de-gta-vi-para-xbox-series-s-1111.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/rockstar-confirma-version-en-la-nube-de-gta-vi-para-xbox-series-s-1111.jpg",
+    "fecha": "2026-11-13T10:41:14.596827",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos",
+    "fecha_original": "2026-11-11T07:47:19.285789",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Natalia Téllez y el debate sobre star talents en el doblaje de 'Wildwood'",
     "artista": "Natalia Téllez",
     "intro": "La actriz mexicana Natalia Téllez se posiciona a favor de la participación de figuras públicas en el doblaje de 'Wildwood…",
@@ -11,7 +27,7 @@
     "fecha": "2026-11-13T10:35:24.665814",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Reportaje"
+    "categoria": "Doblaje"
   },
   {
     "opinion": false,
@@ -1401,20 +1417,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme internacional"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Rockstar confirma versión en la nube de GTA VI para Xbox Series S",
-    "artista": "GTA VI",
-    "intro": "Rockstar y Xbox anunciaron que GTA VI estará disponible en Xbox Cloud Gaming desde su lanzamiento.",
-    "telegraph_url": "https://telegra.ph/Rockstar-confirma-versión-en-la-nube-de-GTA-VI-para-Xbox-Series-S-11-11",
-    "url": "https://enelensayomedia.com/notas/rockstar-confirma-version-en-la-nube-de-gta-vi-para-xbox-series-s-1111.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/rockstar-confirma-version-en-la-nube-de-gta-vi-para-xbox-series-s-1111.jpg",
-    "fecha": "2026-11-11T07:47:19.285789",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos"
   },
   {
     "tipo": "noticia",
