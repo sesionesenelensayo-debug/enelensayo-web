@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13 12:49",
+ "actualizado": "2026-11-13 14:01",
  "eventos": [
   {
    "id": "reo|guadalajara|foro-independencia|2026-11-13",
@@ -12667,6 +12667,70 @@
    "fuente": "Multiforo Digital",
    "tipo": "show",
    "fuente_url": "https://www.instagram.com/p/DfnXEv7IGld"
+  },
+  {
+   "id": "songnova|tijuana||x",
+   "banda": "SongNOVA",
+   "ciudad": "Tijuana",
+   "estado": "Baja California",
+   "lat": 32.5149,
+   "lon": -117.0382,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
+  },
+  {
+   "id": "t-town-jazz-band|tijuana||x",
+   "banda": "T-Town Jazz Band",
+   "ciudad": "Tijuana",
+   "estado": "Baja California",
+   "lat": 32.5149,
+   "lon": -117.0382,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
+  },
+  {
+   "id": "cruces-proyectos-artisticos|tijuana||x",
+   "banda": "CRUCES PROYECTOS ARTÍSTICOS",
+   "ciudad": "Tijuana",
+   "estado": "Baja California",
+   "lat": 32.5149,
+   "lon": -117.0382,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
+  },
+  {
+   "id": "paralelo-32-mx|tijuana||x",
+   "banda": "PARALELO 32 MX",
+   "ciudad": "Tijuana",
+   "estado": "Baja California",
+   "lat": 32.5149,
+   "lon": -117.0382,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
   }
  ]
 }
