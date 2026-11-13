@@ -1,6 +1,22 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista",
+    "artista": "Aria Vega",
+    "intro": "La cantante Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista en la edición de los galardones.",
+    "telegraph_url": "https://telegra.ph/Aria-Vega-compite-por-el-Latin-Grammy-a-Mejor-Nuevo-Artista-11-10",
+    "url": "https://enelensayomedia.com/notas/aria-vega-compite-por-el-latin-grammy-a-mejor-nuevo-artista-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/aria-vega-compite-por-el-latin-grammy-a-mejor-nuevo-artista-1109.jpg",
+    "fecha": "2026-11-12T22:30:17.807576",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-11-09T21:09:25.354868",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Kygo en México 2027: fechas, sedes y boletos",
     "artista": "Kygo",
@@ -28,22 +44,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista",
-    "artista": "Aria Vega",
-    "intro": "La cantante Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista en la edición de los galardones.",
-    "telegraph_url": "https://telegra.ph/Aria-Vega-compite-por-el-Latin-Grammy-a-Mejor-Nuevo-Artista-11-10",
-    "url": "https://enelensayomedia.com/notas/aria-vega-compite-por-el-latin-grammy-a-mejor-nuevo-artista-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/aria-vega-compite-por-el-latin-grammy-a-mejor-nuevo-artista-1109.jpg",
-    "fecha": "2026-11-12T20:44:58.731663",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-09T21:09:25.354868",
-    "actualizada": true
   },
   {
     "opinion": true,
