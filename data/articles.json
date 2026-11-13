@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Disney+ transmitirá The Game Awards 2026 en vivo",
+    "artista": "The Game Awards",
+    "intro": "The Game Awards 2026 se transmitirán por primera vez en vivo a través de Disney+.",
+    "telegraph_url": "https://telegra.ph/Disney-transmitirá-The-Game-Awards-2026-en-vivo-11-13",
+    "url": "https://enelensayomedia.com/notas/disney-transmitira-the-game-awards-2026-en-vivo-1113.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/disney-transmitira-the-game-awards-2026-en-vivo-1113.jpg",
+    "fecha": "2026-11-13T11:45:16.515275",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "IShowSpeed gana por tercera vez en los Streamer Awards 2026",
     "artista": "IShowSpeed",
     "intro": "IShowSpeed se coronó Streamer of the Year en los Streamer Awards 2026, logrando su tercer triunfo consecutivo en esa categoría.",
@@ -5841,21 +5855,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Misterio"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Expansión Evercold de Final Fantasy XIV se retrasará y llegará en febrero de 2027",
-    "artista": "Final Fantasy XIV",
-    "intro": "La expansión Evercold de Final Fantasy XIV ha anunciado un retraso de varias semanas, reprogramando su lanzamiento para febrero de 2027.",
-    "telegraph_url": "https://telegra.ph/Expansión-Evercold-de-Final-Fantasy-XIV-se-retrasará-y-llegará-en-febrero-de-2027-11-01",
-    "url": "https://enelensayomedia.com/notas/expansion-evercold-de-final-fantasy-xiv-se-retrasara-y-llegara-en-febr-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/expansion-evercold-de-final-fantasy-xiv-se-retrasara-y-llegara-en-febr-1101.jpg",
-    "fecha": "2026-11-01T21:00:56.666275",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-11-01T10:38:35.798670",
-    "actualizada": true
   },
   {
     "tipo": "reportaje",
