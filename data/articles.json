@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Exatlón México 2026: Rojos ganan la Villa 360",
+    "artista": "Exatlón México 2026",
+    "intro": "El 12 de noviembre de 2026 se disputó una nueva edición de la Batalla por la Villa 360 en Exatlón México…",
+    "telegraph_url": "https://telegra.ph/Exatlón-México-2026-Rojos-ganan-la-Villa-360-11-13",
+    "url": "https://enelensayomedia.com/notas/exatlon-mexico-2026-rojos-ganan-la-villa-360-1113.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/exatlon-mexico-2026-rojos-ganan-la-villa-360-1113.jpg",
+    "fecha": "2026-11-13T12:21:32.127645",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reality"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "El origen y ascenso de Genesis: de estudiantes a 155 millones de álbumes vendidos",
     "artista": "Genesis",
     "intro": "El canal En el Ensayo Media presenta en su video '¿Cómo nació el coloso del rock? | La historia secreta de Genesis' el recorrido por la formación y éxito del grupo Genesis.",
@@ -5870,18 +5884,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Misterio"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Waverly Hills: La historia detrás del sanatorio embrujado en Kentucky",
-    "artista": "el Hospital Psiquiátrico de Waverly Hills",
-    "intro": "Conoce la historia documentada y las leyendas de fantasmas del antiguo sanatorio de tuberculosis en Estados Unidos.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/waverly-hills-la-historia-detras-del-sanatorio-embrujado-en-kentucky-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/waverly-hills-la-historia-detras-del-sanatorio-embrujado-en-kentucky-1101.jpg",
-    "fecha": "2026-11-01T20:38:31.835561",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror"
   }
 ]
