@@ -1,5 +1,19 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "HBO Max elige a Paapa Essiedu como Snape: ¿Cambia la esencia del personaje?",
+    "artista": "Paapa Essiedu como Snape",
+    "intro": "La controversia por el casting de un actor de color en el icónico Severus Snape divide a la audiencia y pone a prueba la lealtad al canon original.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/hbo-max-elige-a-paapa-essiedu-como-snape-cambia-la-esencia-del-persona-1113.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/hbo-max-elige-a-paapa-essiedu-como-snape-cambia-la-esencia-del-persona-1113.jpg",
+    "fecha": "2026-11-13T13:45:40.458852",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Agenda woke"
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
@@ -11,7 +25,7 @@
     "fecha": "2026-11-13T13:38:16.775209",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música",
+    "categoria": "Chisme",
     "fecha_original": "2026-11-06T11:37:52.319357",
     "actualizada": true
   },
