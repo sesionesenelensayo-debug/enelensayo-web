@@ -1,5 +1,21 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista",
+    "artista": "Aria Vega",
+    "intro": "La cantante Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista en la edición de los galardones.",
+    "telegraph_url": "https://telegra.ph/Aria-Vega-compite-por-el-Latin-Grammy-a-Mejor-Nuevo-Artista-11-10",
+    "url": "https://enelensayomedia.com/notas/aria-vega-compite-por-el-latin-grammy-a-mejor-nuevo-artista-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/aria-vega-compite-por-el-latin-grammy-a-mejor-nuevo-artista-1109.jpg",
+    "fecha": "2026-11-12T20:44:58.731663",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-11-09T21:09:25.354868",
+    "actualizada": true
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "Latcham sucede a Gunn-Safran en DC Studios: Marvel se abre paso en un DCU en crisis",
@@ -115,22 +131,6 @@
     "views": 0,
     "categoria": "Cine",
     "fecha_original": "2026-11-01T15:35:52.933913",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista",
-    "artista": "Aria Vega",
-    "intro": "La cantante Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista en la edición de los galardones.",
-    "telegraph_url": "https://telegra.ph/Aria-Vega-compite-por-el-Latin-Grammy-a-Mejor-Nuevo-Artista-11-10",
-    "url": "https://enelensayomedia.com/notas/aria-vega-compite-por-el-latin-grammy-a-mejor-nuevo-artista-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/aria-vega-compite-por-el-latin-grammy-a-mejor-nuevo-artista-1109.jpg",
-    "fecha": "2026-11-12T18:37:13.935340",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-09T21:09:25.354868",
     "actualizada": true
   },
   {
