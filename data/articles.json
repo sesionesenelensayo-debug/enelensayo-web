@@ -1,5 +1,19 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "El caos del DCU frente al peso de Robert Pattinson y Marvel",
+    "artista": "Robert Pattinson",
+    "intro": "El fallido universo de DC sigue dando tumbos mientras la maquinaria de Marvel y el legado de Zack Snyder se consolidan como el estándar de oro de la industria.",
+    "telegraph_url": "https://telegra.ph/El-caos-del-DCU-frente-al-peso-de-Robert-Pattinson-y-Marvel-11-13",
+    "url": "https://enelensayomedia.com/notas/el-caos-del-dcu-frente-al-peso-de-robert-pattinson-y-marvel-1113.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-caos-del-dcu-frente-al-peso-de-robert-pattinson-y-marvel-1113.jpg",
+    "fecha": "2026-11-13T12:35:24.399455",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista",
@@ -5866,20 +5880,6 @@
     "url": "https://enelensayomedia.com/notas/siddhartha-del-baterista-de-zoe-al-indie-mas-grande-del-mexico-contemp-1101.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/siddhartha-del-baterista-de-zoe-al-indie-mas-grande-del-mexico-contemp-1101.jpg",
     "fecha": "2026-11-01T21:53:39.717178",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Tupac Shakur: La verdad sobre su asesinato y el fin de la impunidad",
-    "artista": "Tupac Shakur",
-    "intro": "El canal En el Ensayo Media presenta un análisis detallado del asesinato de Tupac Shakur, uno de los raperos más influyentes de la historia.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/tupac-shakur-la-verdad-sobre-su-asesinato-y-el-fin-de-la-impunidad-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/tupac-shakur-la-verdad-sobre-su-asesinato-y-el-fin-de-la-impunidad-1101.jpg",
-    "fecha": "2026-11-01T21:41:24.714737",
     "author": "Oliver Ken",
     "views": 0,
     "archivo": true,
