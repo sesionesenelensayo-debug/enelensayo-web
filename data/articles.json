@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Sony aspira a que Demon Slayer dure 100 años con estrategia Disney",
+    "artista": "Demon Slayer",
+    "intro": "Atsuhiro Iwakami, presidente de Sony Music Entertainment Japan y responsable de Aniplex, reveló en una entrevista con Bloomberg que la empresa quiere que la franquicia Demon Slayer…",
+    "telegraph_url": "https://telegra.ph/Sony-aspira-a-que-Demon-Slayer-dure-100-años-con-estrategia-Disney-11-13",
+    "url": "https://enelensayomedia.com/notas/sony-aspira-a-que-demon-slayer-dure-100-anos-con-estrategia-disney-1113.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/sony-aspira-a-que-demon-slayer-dure-100-anos-con-estrategia-disney-1113.jpg",
+    "fecha": "2026-11-13T11:31:56.143178",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Phoebe Bridgers en CDMX: Concierto en el Palacio de los Deportes",
     "artista": "Phoebe Bridgers",
@@ -5869,19 +5883,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El oscuro misterio del New's Divine: trampa mortal juvenil en CDMX",
-    "artista": "New's Divine",
-    "intro": "En el video del canal En el Ensayo Media se aborda la tragedia ocurrida en la discoteca News Divine en el verano de 2008, en la delegación Gustavo A. Madero de la Ciudad de México.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-oscuro-misterio-del-new-s-divine-trampa-mortal-juvenil-en-cdmx-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-oscuro-misterio-del-new-s-divine-trampa-mortal-juvenil-en-cdmx-1101.jpg",
-    "fecha": "2026-11-01T16:33:04.018846",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Escena local"
   }
 ]
