@@ -1,5 +1,12 @@
 [
   {
+    "artista": "Robert Pattinson",
+    "slug": "robert-pattinson",
+    "imagen": "",
+    "piezas": 1,
+    "updated": "2026-11-13 14:42"
+  },
+  {
     "artista": "Genesis",
     "slug": "genesis",
     "imagen": "artistas_img/genesis.jpg",
