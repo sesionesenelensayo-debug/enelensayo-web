@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "G2 Esports reconfigura plantilla para 2027 con múltiples cambios clave",
+    "artista": "G2 Esports",
+    "intro": "G2 Esports anuncia una reorganización completa de su elenco para la temporada 2027, con salidas y llegadas significativas.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/g2-esports-reconfigura-plantilla-para-2027-con-multiples-cambios-clave-1113.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/g2-esports-reconfigura-plantilla-para-2027-con-multiples-cambios-clave-1113.jpg",
+    "fecha": "2026-11-13T10:16:07.766546",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Avengers: Endgame Encore llega a streaming con escenas inéditas",
     "artista": "Avengers: Endgame Encore",
     "intro": "El viernes 13 de noviembre de 2026 se estrena en exclusiva en Disney+ la versión titulada Avengers: Endgame Encore.",
@@ -5864,18 +5878,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme internacional"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Diego Rivera compró en 1940 el terreno que hoy alberga el Museo Anahuacalli",
-    "artista": "Diego Rivera",
-    "intro": "En 1940 el pintor Diego Rivera adquirió un terreno de piedra volcánica en Coyoacán.",
-    "telegraph_url": "https://telegra.ph/Diego-Rivera-compró-en-1940-el-terreno-que-hoy-alberga-el-Museo-Anahuacalli-11-01",
-    "url": "https://enelensayomedia.com/notas/diego-rivera-compro-en-1940-el-terreno-que-hoy-alberga-el-museo-anahua-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/diego-rivera-compro-en-1940-el-terreno-que-hoy-alberga-el-museo-anahua-1101.jpg",
-    "fecha": "2026-11-01T13:37:39.393566",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   }
 ]
