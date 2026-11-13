@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Avengers: Endgame Encore llega a streaming con escenas inéditas",
+    "artista": "Avengers: Endgame Encore",
+    "intro": "El viernes 13 de noviembre de 2026 se estrena en exclusiva en Disney+ la versión titulada Avengers: Endgame Encore.",
+    "telegraph_url": "https://telegra.ph/Avengers-Endgame-Encore-llega-a-streaming-con-escenas-inéditas-11-13",
+    "url": "https://enelensayomedia.com/notas/avengers-endgame-encore-llega-a-streaming-con-escenas-ineditas-1113.html",
+    "imagen_url": "/Volumes/NO NAME/EstudioBot_Exportaciones/trabajo/portadas_img/pres_45b90491a5.jpg",
+    "fecha": "2026-11-13T10:05:05.570255",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
     "tipo": "noticia",
     "titulo": "Sofi Tukker anuncia nueva gira en México y EE.UU. para 2027",
     "artista": "SOFI TUKKER",
@@ -5863,19 +5877,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Paco de Lucía: el prodigio que revolucionó la guitarra flamenca",
-    "artista": "Paco de Lucía",
-    "intro": "En el video del canal En el Ensayo Media se narra la vida del guitarrista flamenco Paco de Lucía, nacido el 21 de diciembre de 1947 en Algeciras.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/paco-de-lucia-el-prodigio-que-revoluciono-la-guitarra-flamenca-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/paco-de-lucia-el-prodigio-que-revoluciono-la-guitarra-flamenca-1101.jpg",
-    "fecha": "2026-11-01T12:20:55.344581",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   }
 ]
