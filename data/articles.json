@@ -1,6 +1,21 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "El origen y ascenso de Genesis: de estudiantes a 155 millones de álbumes vendidos",
+    "artista": "Genesis",
+    "intro": "El canal En el Ensayo Media presenta en su video '¿Cómo nació el coloso del rock? | La historia secreta de Genesis' el recorrido por la formación y éxito del grupo Genesis.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-origen-y-ascenso-de-genesis-de-estudiantes-a-155-millones-de-albume-1113.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-origen-y-ascenso-de-genesis-de-estudiantes-a-155-millones-de-albume-1113.jpg",
+    "fecha": "2026-11-13T12:19:17.830037",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "David Guetta anuncia concierto en Ciudad de México para 2027",
     "artista": "David Guetta",
