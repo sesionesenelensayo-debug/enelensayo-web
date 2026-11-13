@@ -1,5 +1,21 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Las 10 grandes decepciones de 2026 en el cine según la crítica",
+    "artista": "las 10 grandes decepciones de 2026 según la crítica (peor calificadas con más expectativa)",
+    "intro": "Un repaso detallado por las producciones cinematográficas estrenadas en 2026 que no lograron convencer a la crítica especializada ni cumplir con las expectativas.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/las-10-grandes-decepciones-de-2026-en-el-cine-segun-la-critica-1103.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/las-10-grandes-decepciones-de-2026-en-el-cine-segun-la-critica-1103.jpg",
+    "fecha": "2026-11-13T14:13:10.712336",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-11-03T14:21:02.989864",
+    "actualizada": true
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "Snape negro en Harry Potter: la ideología contra el canon",
@@ -5069,20 +5085,6 @@
     "categoria": "Cultura",
     "fecha_original": "2026-11-03T13:46:58.738413",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Las 10 grandes decepciones de 2026 en el cine según la crítica",
-    "artista": "las 10 grandes decepciones de 2026 según la crítica (peor calificadas con más expectativa)",
-    "intro": "Un repaso detallado por las producciones cinematográficas estrenadas en 2026 que no lograron convencer a la crítica especializada ni cumplir con las expectativas.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/las-10-grandes-decepciones-de-2026-en-el-cine-segun-la-critica-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/las-10-grandes-decepciones-de-2026-en-el-cine-segun-la-critica-1103.jpg",
-    "fecha": "2026-11-03T14:21:02.989864",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   },
   {
     "opinion": false,
