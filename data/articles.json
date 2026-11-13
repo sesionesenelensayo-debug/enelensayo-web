@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Pink Floyd publica 'Another Brick in the Wall, Part 2' en 1979",
+    "artista": "Pink Floyd",
+    "intro": "El 12 de noviembre de 1979 Pink Floyd lanzó 'Another Brick in the Wall, Part 2', canción que alcanzó el número uno en las listas del Reino Unido y Estados Unidos.",
+    "telegraph_url": "https://telegra.ph/Pink-Floyd-publica-Another-Brick-in-the-Wall-Part-2-en-1979-11-13",
+    "url": "https://enelensayomedia.com/notas/pink-floyd-publica-another-brick-in-the-wall-part-2-en-1979-1112.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/pink-floyd-publica-another-brick-in-the-wall-part-2-en-1979-1112.jpg",
+    "fecha": "2026-11-12T20:17:39.783122",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
     "tipo": "noticia",
     "titulo": "Daddy Yankee visita Venezuela acompañado de Danny Ocean",
     "artista": "Daddy Yankee",
@@ -5861,18 +5875,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Escena local"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El proceso de casting de Anakin Skywalker: entre rumores y la elección final",
-    "artista": "Audiciones para Anakin Skywalker",
-    "intro": "Más de 300 actores compitieron por el papel, pero fue Hayden Christensen quien finalmente lo interpretó en la saga de Star Wars.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-proceso-de-casting-de-anakin-skywalker-entre-rumores-y-la-eleccion-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-proceso-de-casting-de-anakin-skywalker-entre-rumores-y-la-eleccion-1101.jpg",
-    "fecha": "2026-11-01T10:34:11.179179",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme internacional"
   }
 ]
