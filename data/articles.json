@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Secretaría de Turismo de Baja California se deslinda de publicidad estatal en 'La Casa de los Famosos'",
+    "artista": "Secretaría de Turismo",
+    "intro": "El 12 de noviembre de 2026, en Mexicali, el secretario de Turismo de Baja California, Miguel Ángel Badiola Montaño…",
+    "telegraph_url": "https://telegra.ph/Secretaría-de-Turismo-de-Baja-California-se-deslinda-de-publicidad-estatal-en-La-Casa-de-los-Famosos-11-13",
+    "url": "https://enelensayomedia.com/notas/secretaria-de-turismo-de-baja-california-se-deslinda-de-publicidad-est-1113.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/secretaria-de-turismo-de-baja-california-se-deslinda-de-publicidad-est-1113.jpg",
+    "fecha": "2026-11-13T12:28:55.683437",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reality"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Exatlón México 2026: Rojos ganan la Villa 360",
     "artista": "Exatlón México 2026",
     "intro": "El 12 de noviembre de 2026 se disputó una nueva edición de la Batalla por la Villa 360 en Exatlón México…",
@@ -5870,19 +5884,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El secreto detrás de la muerte de Tupac Shakur",
-    "artista": "Tupac Shakur",
-    "intro": "Se explica su legado musical y se detallan los oscuros acontecimientos de la noche del 7 de septiembre de 1996 en Las Vegas, donde fue baleado tras una pelea de boxeo.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-secreto-detras-de-la-muerte-de-tupac-shakur-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-secreto-detras-de-la-muerte-de-tupac-shakur-1101.jpg",
-    "fecha": "2026-11-01T21:28:45.567617",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Misterio"
   }
 ]
