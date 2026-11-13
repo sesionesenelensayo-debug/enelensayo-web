@@ -1,6 +1,21 @@
 [
   {
     "tipo": "noticia",
+    "titulo": "Sofi Tukker anuncia nueva gira en México y EE.UU. para 2027",
+    "artista": "SOFI TUKKER",
+    "intro": "El dúo presentará su espectáculo \"ANIMAL TALK\" en Zapopan y participará en el Ultra Music Festival en Miami.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/sofi-tukker-anuncia-nueva-gira-en-mexico-y-ee-uu-para-2027-1031.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/sofi-tukker-anuncia-nueva-gira-en-mexico-y-ee-uu-para-2027-1031.jpg",
+    "fecha": "2026-11-13T10:02:30.399466",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos",
+    "fecha_original": "2026-10-31T12:06:25.268186",
+    "actualizada": true
+  },
+  {
+    "tipo": "noticia",
     "titulo": "Festival Internacional del Globo 2026 revela su canción oficial",
     "artista": "Festival Internacional del Globo",
     "intro": "El Festival Internacional del Globo 2026 cuenta con una canción oficial, según informó El Sol de México. El medio confirmó la existencia de la pieza musical que acompañará a la edición 2026 del evento",
@@ -2865,21 +2880,6 @@
     "views": 0,
     "categoria": "Música",
     "fecha_original": "2026-11-07T13:43:24.462688",
-    "actualizada": true
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Sofi Tukker anuncia nueva gira en México y EE.UU. para 2027",
-    "artista": "SOFI TUKKER",
-    "intro": "El dúo presentará su espectáculo \"ANIMAL TALK\" en Zapopan y participará en el Ultra Music Festival en Miami.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/sofi-tukker-anuncia-nueva-gira-en-mexico-y-ee-uu-para-2027-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/sofi-tukker-anuncia-nueva-gira-en-mexico-y-ee-uu-para-2027-1031.jpg",
-    "fecha": "2026-11-08T11:01:49.056552",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos",
-    "fecha_original": "2026-10-31T12:06:25.268186",
     "actualizada": true
   },
   {
