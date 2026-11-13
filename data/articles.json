@@ -1,5 +1,19 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "Essiedu como Snape: el canon se escribe con tinta diversa",
+    "artista": "Paapa Essiedu",
+    "intro": "Paapa Essiedu, actor negro elegido para interpretar a Severus Snape en la serie de HBO sobre Harry Potter, se distancia de J.K. Rowling y rechaza ser su portavoz.",
+    "telegraph_url": "https://telegra.ph/Essiedu-como-Snape-el-canon-se-escribe-con-tinta-diversa-11-13",
+    "url": "https://enelensayomedia.com/notas/essiedu-como-snape-el-canon-se-escribe-con-tinta-diversa-1113.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/essiedu-como-snape-el-canon-se-escribe-con-tinta-diversa-1113.jpg",
+    "fecha": "2026-11-13T14:38:19.091729",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Niurka habla sobre posible salida de La Granja VIP: 'Me voy contenta'",
@@ -5877,18 +5891,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Exposición de Yves Klein en las Casas Colgadas",
-    "artista": "Yves Klein",
-    "intro": "Se reporta que la obra del artista francés Yves Klein se puede visitar en las Casas Colgadas de Cuenca.",
-    "telegraph_url": "https://telegra.ph/Exposición-de-Yves-Klein-en-las-Casas-Colgadas-11-02",
-    "url": "https://enelensayomedia.com/notas/exposicion-de-yves-klein-en-las-casas-colgadas-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/exposicion-de-yves-klein-en-las-casas-colgadas-1101.jpg",
-    "fecha": "2026-11-01T22:59:55.499604",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   }
 ]
