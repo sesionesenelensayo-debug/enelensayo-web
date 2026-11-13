@@ -1,5 +1,19 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "Latcham sucede a Gunn-Safran en DC Studios: Marvel se abre paso en un DCU en crisis",
+    "artista": "Jeremy Latcham",
+    "intro": "Skydance Motion Picture Group anunció el 9 de noviembre de 2026 que Jeremy Latcham asumirá la presidencia y dirección creativa de DC Studios el 1 de diciembre…",
+    "telegraph_url": "https://telegra.ph/Latcham-sucede-a-Gunn-Safran-en-DC-Studios-Marvel-se-abre-paso-en-un-DCU-en-crisis-11-13",
+    "url": "https://enelensayomedia.com/notas/latcham-sucede-a-gunn-safran-en-dc-studios-marvel-se-abre-paso-en-un-d-1112.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/latcham-sucede-a-gunn-safran-en-dc-studios-marvel-se-abre-paso-en-un-d-1112.jpg",
+    "fecha": "2026-11-12T20:38:21.156795",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "El Palacio de Lecumberri: historia de un penal brutal y su transformación en archivo histórico",
@@ -5861,19 +5875,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El trágico incendio del Teatro Iroquois de Chicago y su legado en la seguridad",
-    "artista": "¿Por qué una tarde de música terminó en tragedia? La verdad ",
-    "intro": "En el video del canal En el Ensayo Media se narra la historia del Teatro Iroquois, inaugurado en noviembre de 1903 en Chicago.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-tragico-incendio-del-teatro-iroquois-de-chicago-y-su-legado-en-la-s-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-tragico-incendio-del-teatro-iroquois-de-chicago-y-su-legado-en-la-s-1101.jpg",
-    "fecha": "2026-11-01T11:50:55.050341",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Cultura"
   }
 ]
