@@ -124,125 +124,125 @@
  "mexico": [
   {
    "n": 1,
-   "nombre": "Neton Vega",
-   "valor": 5476792,
-   "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+   "nombre": "Fuerza Regida",
+   "valor": 5305279,
+   "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
   },
   {
    "n": 2,
-   "nombre": "Fuerza Regida",
-   "valor": 5331826,
-   "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+   "nombre": "Neton Vega",
+   "valor": 4945058,
+   "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
   },
   {
    "n": 3,
    "nombre": "Victor Mendivil",
-   "valor": 4027179,
+   "valor": 3769213,
    "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
   },
   {
    "n": 4,
    "nombre": "Junior H",
-   "valor": 3361242,
+   "valor": 3292939,
    "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
   },
   {
    "n": 5,
    "nombre": "Natanael Cano",
-   "valor": 2263882,
+   "valor": 2262010,
    "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
   },
   {
    "n": 6,
    "nombre": "KAROL G",
-   "valor": 2188923,
+   "valor": 2172995,
    "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
   },
   {
    "n": 7,
-   "nombre": "Omar Camacho",
-   "valor": 2094558,
-   "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+   "nombre": "Peso Pluma",
+   "valor": 2127188,
+   "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
   },
   {
    "n": 8,
-   "nombre": "Peso Pluma",
-   "valor": 2094433,
-   "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+   "nombre": "Omar Camacho",
+   "valor": 2072519,
+   "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
   },
   {
    "n": 9,
    "nombre": "Calle 24",
-   "valor": 1899300,
+   "valor": 1893164,
    "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
   },
   {
    "n": 10,
    "nombre": "Tito Double P",
-   "valor": 1827814,
+   "valor": 1839787,
    "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
   },
   {
    "n": 11,
    "nombre": "Bad Bunny",
-   "valor": 1237565,
+   "valor": 1236935,
    "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
   },
   {
    "n": 12,
-   "nombre": "Grupo Firme",
-   "valor": 1095058,
-   "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
-  },
-  {
-   "n": 13,
-   "nombre": "Lenin Ramírez",
-   "valor": 1080481,
-   "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-  },
-  {
-   "n": 14,
    "nombre": "Alfredo Olivas",
-   "valor": 1051105,
+   "valor": 1091421,
    "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
   },
   {
-   "n": 15,
-   "nombre": "El Bogueto",
-   "valor": 975989,
-   "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+   "n": 13,
+   "nombre": "Grupo Firme",
+   "valor": 1090821,
+   "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
   },
   {
-   "n": 16,
+   "n": 14,
+   "nombre": "Lenin Ramírez",
+   "valor": 1042938,
+   "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+  },
+  {
+   "n": 15,
    "nombre": "El Rabbanito",
-   "valor": 953446,
+   "valor": 983841,
    "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
   },
   {
-   "n": 17,
+   "n": 16,
    "nombre": "LOS DOS DE TAMAULIPAS",
-   "valor": 941943,
+   "valor": 945999,
    "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
   },
   {
+   "n": 17,
+   "nombre": "La Arrolladora Banda El Limón De Rene Camacho",
+   "valor": 944871,
+   "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+  },
+  {
    "n": 18,
-   "nombre": "Bobby Pulido",
-   "valor": 791924,
-   "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+   "nombre": "El Bogueto",
+   "valor": 911965,
+   "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
   },
   {
    "n": 19,
-   "nombre": "Cardenales De Nuevo León",
-   "valor": 734330,
-   "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+   "nombre": "Julión Álvarez y su Norteño Banda",
+   "valor": 774001,
+   "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
   },
   {
    "n": 20,
-   "nombre": "La Arrolladora Banda El Limón De Rene Camacho",
-   "valor": 731211,
-   "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+   "nombre": "Bobby Pulido",
+   "valor": 766681,
+   "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
   }
  ],
  "fuente": "Spotify vía kworb.net",
- "actualizado": "2026-11-13 13:47"
+ "actualizado": "2026-11-13 16:02"
 }
