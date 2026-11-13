@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Natalia Téllez y el debate sobre star talents en el doblaje de 'Wildwood'",
+    "artista": "Natalia Téllez",
+    "intro": "La actriz mexicana Natalia Téllez se posiciona a favor de la participación de figuras públicas en el doblaje de 'Wildwood…",
+    "telegraph_url": "https://telegra.ph/Natalia-Téllez-y-el-debate-sobre-star-talents-en-el-doblaje-de-Wildwood-11-13",
+    "url": "https://enelensayomedia.com/notas/natalia-tellez-y-el-debate-sobre-star-talents-en-el-doblaje-de-wildwoo-1113.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/natalia-tellez-y-el-debate-sobre-star-talents-en-el-doblaje-de-wildwoo-1113.jpg",
+    "fecha": "2026-11-13T10:35:24.665814",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "G2 Esports reconfigura plantilla para 2027 con múltiples cambios clave",
     "artista": "G2 Esports",
     "intro": "G2 Esports anuncia una reorganización completa de su elenco para la temporada 2027, con salidas y llegadas significativas.",
@@ -5865,18 +5879,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Escena local"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Celebridades sorprenden con creativos disfraces de Halloween en 2026",
-    "artista": "Disfraces de Halloween de celebridades",
-    "intro": "Desde transformaciones icónicas hasta homenajes a la cultura pop, las estrellas brillaron con sus caracterizaciones para la noche de brujas.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/celebridades-sorprenden-con-creativos-disfraces-de-halloween-en-2026-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/celebridades-sorprenden-con-creativos-disfraces-de-halloween-en-2026-1101.jpg",
-    "fecha": "2026-11-01T16:31:53.492906",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme internacional"
   }
 ]
