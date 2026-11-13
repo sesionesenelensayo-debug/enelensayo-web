@@ -1,5 +1,21 @@
 [
   {
+    "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Phoebe Bridgers en CDMX: Concierto en el Palacio de los Deportes",
+    "artista": "Phoebe Bridgers",
+    "intro": "Phoebe Bridgers confirmó su primer concierto en solitario en México como parte de su gira The Lost Tour 2027.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/phoebe-bridgers-en-cdmx-concierto-en-el-palacio-de-los-deportes-1112.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/phoebe-bridgers-en-cdmx-concierto-en-el-palacio-de-los-deportes-1112.jpg",
+    "fecha": "2026-11-13T11:01:51.662811",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos",
+    "fecha_original": "2026-11-12T12:49:41.109149",
+    "actualizada": true
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Nuevos lanzamientos y cifras para Nintendo Switch y Switch 2",
     "artista": "Nintendo Switch",
@@ -697,20 +713,6 @@
     "categoria": "Televisión",
     "fecha_original": "2026-11-09T09:30:06.107096",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Phoebe Bridgers en CDMX: Concierto en el Palacio de los Deportes",
-    "artista": "Phoebe Bridgers",
-    "intro": "Phoebe Bridgers confirmó su primer concierto en solitario en México como parte de su gira The Lost Tour 2027.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/phoebe-bridgers-en-cdmx-concierto-en-el-palacio-de-los-deportes-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/phoebe-bridgers-en-cdmx-concierto-en-el-palacio-de-los-deportes-1112.jpg",
-    "fecha": "2026-11-12T12:49:41.109149",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
   },
   {
     "opinion": false,
