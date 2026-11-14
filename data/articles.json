@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Figueroa revela confesión familiar y ataca a Ninel Conde en video de Telemundo",
+    "artista": "José Manuel Figueroa",
+    "intro": "José Manuel Figueroa apareció en un video de Telemundo del 13 de noviembre de 2026 donde abordó su orden de restricción contra Ninel Conde…",
+    "telegraph_url": "https://telegra.ph/Figueroa-revela-confesión-familiar-y-ataca-a-Ninel-Conde-en-video-de-Telemundo-11-14",
+    "url": "https://enelensayomedia.com/notas/figueroa-revela-confesion-familiar-y-ataca-a-ninel-conde-en-video-de-t-1114.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/figueroa-revela-confesion-familiar-y-ataca-a-ninel-conde-en-video-de-t-1114.jpg",
+    "fecha": "2026-11-14T12:16:43.483477",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Ángela Aguilar revive la música ranchera y consagra su lugar en el regional mexicano",
     "artista": "Ángela Aguilar",
     "intro": "El video '¿Qué hay detrás del éxito de Ángela Aguilar? – La joven que revive la música ranchera' del canal En el Ensayo Media explora la trayectoria de la cantante mexicana…",
@@ -5899,19 +5913,5 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-10-30T17:00:53.758741",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Safe Place Music lanza su disco ‘Te Espero’",
-    "artista": "Safe Place Music",
-    "intro": "Safe Place Music ha anunciado el lanzamiento de su nuevo álbum titulado ‘Te Espero’. El anuncio, difundido a través del medio original, marca la presentación oficial del proyecto musical.",
-    "telegraph_url": "https://telegra.ph/Safe-Place-Music-lanza-su-disco-Te-Espero-11-02",
-    "url": "https://enelensayomedia.com/notas/safe-place-music-lanza-su-disco-te-espero-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/safe-place-music-lanza-su-disco-te-espero-1102.jpg",
-    "fecha": "2026-11-02T11:04:00.547886",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Escena local"
   }
 ]
