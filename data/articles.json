@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Vincent van Gogh: el mito del disparo en el pecho se cuestiona",
+    "artista": "Vincent van Gogh",
+    "intro": "En el video 'Vincent van Gogh: la verdad sobre el disparo', el canal En el Ensayo Media revisa la historia trágica del artista neerlandés…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/vincent-van-gogh-el-mito-del-disparo-en-el-pecho-se-cuestiona-1114.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/vincent-van-gogh-el-mito-del-disparo-en-el-pecho-se-cuestiona-1114.jpg",
+    "fecha": "2026-11-14T15:59:42.429207",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Pintores"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Incidente con Paola Suárez en La Mansión VIP 2",
     "artista": "La Mansión VIP",
     "intro": "El viernes 13 de noviembre de 2026, durante la primera fiesta de la segunda temporada de La Mansión VIP, Paola Suárez mostró signos de ebriedad y elevó el tono contra varios compañeros.",
@@ -5898,19 +5913,5 @@
     "categoria": "Cultura",
     "fecha_original": "2026-11-01T07:09:39.428487",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Festival Ámbar en Llíria: estrenos valencianos y talento Latin Grammy",
-    "artista": "Festival Ámbar City of Music",
-    "intro": "El Festival Ámbar City of Music se celebra en Llíria con una programación que destaca por la fusión de la creación local y el reconocimiento internacional.",
-    "telegraph_url": "https://telegra.ph/Festival-Ámbar-en-Llíria-estrenos-valencianos-y-talento-Latin-Grammy-11-02",
-    "url": "https://enelensayomedia.com/notas/festival-ambar-en-lliria-estrenos-valencianos-y-talento-latin-grammy-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/festival-ambar-en-lliria-estrenos-valencianos-y-talento-latin-grammy-1102.jpg",
-    "fecha": "2026-11-02T16:59:26.490864",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   }
 ]
