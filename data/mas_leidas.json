@@ -1,10 +1,10 @@
 {
- "actualizado": "2026-11-13 16:09",
+ "actualizado": "2026-11-13 21:19",
  "general": [
   {
    "titulo": "Polémica por el doblaje de Wildwood",
    "url": "https://enelensayomedia.com/notas/polemica-por-el-doblaje-de-wildwood-1107.html",
-   "visitas": 11
+   "visitas": 12
   },
   {
    "titulo": "KENDALL estrena \"Dopamina\", sencillo promocional de su nuevo EP",
@@ -19,7 +19,7 @@
   {
    "titulo": "Eiza González desata rumores de boda tras viaje",
    "url": "https://enelensayomedia.com/notas/eiza-gonzalez-desata-rumores-de-boda-tras-viaje-1110.html",
-   "visitas": 7
+   "visitas": 8
   },
   {
    "titulo": "Fede Vigevani inaugura la cafetería Cremoso en la Ciudad de México",
@@ -37,7 +37,7 @@
    {
     "titulo": "Polémica por el doblaje de Wildwood",
     "url": "https://enelensayomedia.com/notas/polemica-por-el-doblaje-de-wildwood-1107.html",
-    "visitas": 11
+    "visitas": 12
    },
    {
     "titulo": "Super Mario Galaxy: La película llega a HBO Max",
@@ -98,7 +98,7 @@
    {
     "titulo": "Eiza González desata rumores de boda tras viaje",
     "url": "https://enelensayomedia.com/notas/eiza-gonzalez-desata-rumores-de-boda-tras-viaje-1110.html",
-    "visitas": 7
+    "visitas": 8
    },
    {
     "titulo": "Fede Vigevani inaugura la cafetería Cremoso en la Ciudad de México",
@@ -111,9 +111,9 @@
     "visitas": 7
    },
    {
-    "titulo": "Jung Hae-in regresa a México en San Valentín con su gira de fan meetings",
-    "url": "https://enelensayomedia.com/notas/jung-hae-in-regresa-a-mexico-en-san-valentin-con-su-gira-de-fan-meetin-1106.html",
-    "visitas": 7
+    "titulo": "Olivia Rodrigo lanza su primera canción navideña original, \"Take Me Home (4 Christmas)\"",
+    "url": "https://enelensayomedia.com/notas/olivia-rodrigo-lanza-su-primera-cancion-navidena-original-take-me-home-1107.html",
+    "visitas": 6
    }
   ],
   "doblaje": [
@@ -138,6 +138,28 @@
     "visitas": 4
    }
   ],
+  "videojuegos": [
+   {
+    "titulo": "GTA VI y Ocarina of Time Remake lideran los lanzamientos de noviembre 2026",
+    "url": "https://enelensayomedia.com/notas/gta-vi-y-ocarina-of-time-remake-lideran-los-lanzamientos-de-noviembre-1103.html",
+    "visitas": 7
+   },
+   {
+    "titulo": "Hogwarts Legacy 2: Warner Bros. confirma la secuela oficial",
+    "url": "https://enelensayomedia.com/notas/hogwarts-legacy-2-warner-bros-confirma-la-secuela-oficial-1108.html",
+    "visitas": 6
+   },
+   {
+    "titulo": "Rockstar confirma versión en la nube de GTA VI para Xbox Series S",
+    "url": "https://enelensayomedia.com/notas/rockstar-confirma-version-en-la-nube-de-gta-vi-para-xbox-series-s-1111.html",
+    "visitas": 4
+   },
+   {
+    "titulo": "WWE Crown Jewel 2026: cartelera estelar y transmisión",
+    "url": "https://enelensayomedia.com/notas/wwe-crown-jewel-2026-cartelera-estelar-y-transmision-1108.html",
+    "visitas": 4
+   }
+  ],
   "marvel y dcu": [
    {
     "titulo": "Post-créditos de 'VisionQuest' confirma regreso antes de 'Avengers: Doomsday'",
@@ -158,28 +180,6 @@
     "titulo": "El Daily Bugle asoma en Spider-Man: Brand New Day y apunta a Spider-Man 5",
     "url": "https://enelensayomedia.com/notas/el-daily-bugle-asoma-en-spider-man-brand-new-day-y-apunta-a-spider-man-1111.html",
     "visitas": 5
-   }
-  ],
-  "videojuegos": [
-   {
-    "titulo": "Hogwarts Legacy 2: Warner Bros. confirma la secuela oficial",
-    "url": "https://enelensayomedia.com/notas/hogwarts-legacy-2-warner-bros-confirma-la-secuela-oficial-1108.html",
-    "visitas": 6
-   },
-   {
-    "titulo": "GTA VI y Ocarina of Time Remake lideran los lanzamientos de noviembre 2026",
-    "url": "https://enelensayomedia.com/notas/gta-vi-y-ocarina-of-time-remake-lideran-los-lanzamientos-de-noviembre-1103.html",
-    "visitas": 6
-   },
-   {
-    "titulo": "Rockstar confirma versión en la nube de GTA VI para Xbox Series S",
-    "url": "https://enelensayomedia.com/notas/rockstar-confirma-version-en-la-nube-de-gta-vi-para-xbox-series-s-1111.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "WWE Crown Jewel 2026: cartelera estelar y transmisión",
-    "url": "https://enelensayomedia.com/notas/wwe-crown-jewel-2026-cartelera-estelar-y-transmision-1108.html",
-    "visitas": 4
    }
   ],
   "televisión": [
@@ -221,23 +221,11 @@
     "visitas": 3
    }
   ],
-  "internacional": [
-   {
-    "titulo": "Beyoncé recrea la portada de Love Deluxe de Sade",
-    "url": "https://enelensayomedia.com/notas/beyonce-recrea-la-portada-de-love-deluxe-de-sade-1112.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "Harry Styles impulsa ingresos de Madison Square Garden en 37 %",
-    "url": "https://enelensayomedia.com/notas/harry-styles-impulsa-ingresos-de-madison-square-garden-en-37-1104.html",
-    "visitas": 4
-   }
-  ],
   "luchas": [
    {
     "titulo": "Místico regresa al Viernes Espectacular de CMLL el 13 de noviembre",
     "url": "https://enelensayomedia.com/notas/mistico-regresa-al-viernes-espectacular-de-cmll-el-13-de-noviembre-1112.html",
-    "visitas": 4
+    "visitas": 5
    },
    {
     "titulo": "Soberano Jr y Bandido chocan de nuevo en la Arena México",
@@ -250,18 +238,23 @@
     "visitas": 4
    }
   ],
+  "internacional": [
+   {
+    "titulo": "Beyoncé recrea la portada de Love Deluxe de Sade",
+    "url": "https://enelensayomedia.com/notas/beyonce-recrea-la-portada-de-love-deluxe-de-sade-1112.html",
+    "visitas": 4
+   },
+   {
+    "titulo": "Harry Styles impulsa ingresos de Madison Square Garden en 37 %",
+    "url": "https://enelensayomedia.com/notas/harry-styles-impulsa-ingresos-de-madison-square-garden-en-37-1104.html",
+    "visitas": 4
+   }
+  ],
   "entrevista": [
    {
     "titulo": "Pokkefriends: de Castelli a Pokkelandia con su primer adelanto",
     "url": "https://enelensayomedia.com/notas/pokkefriends-de-castelli-a-pokkelandia-con-su-primer-adelanto-1112.html",
     "visitas": 4
-   }
-  ],
-  "reality": [
-   {
-    "titulo": "Karely Ruiz y Jorge Durán en tenso momento en La Mansión VIP 2",
-    "url": "https://enelensayomedia.com/notas/karely-ruiz-y-jorge-duran-en-tenso-momento-en-la-mansion-vip-2-1112.html",
-    "visitas": 3
    }
   ]
  }
