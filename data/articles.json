@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Sylvester Stallone recuerda su vieja rivalidad con Arnold Schwarzenegger",
+    "artista": "Sylvester Stallone",
+    "intro": "Sylvester Stallone abordó su histórica y tensa relación con Arnold Schwarzenegger durante su participación en el PaleyFest NY 2026.",
+    "telegraph_url": "https://telegra.ph/Sylvester-Stallone-recuerda-su-vieja-rivalidad-con-Arnold-Schwarzenegger-11-06",
+    "url": "https://enelensayomedia.com/notas/sylvester-stallone-recuerda-su-vieja-rivalidad-con-arnold-schwarzenegg-1106.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/sylvester-stallone-recuerda-su-vieja-rivalidad-con-arnold-schwarzenegg-1106.jpg",
+    "fecha": "2026-11-14T07:47:22.946103",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-11-06T16:29:22.168559",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Primeras reacciones destacan el trabajo de Johnny Depp en 'Ebenizer'",
     "artista": "Johnny Depp",
     "intro": "Las primeras reacciones a la película 'Ebenizer' señalan que Johnny Depp ofrece una compleja interpretación del personaje de Scrooge.",
@@ -3957,20 +3973,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reportaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Sylvester Stallone recuerda su vieja rivalidad con Arnold Schwarzenegger",
-    "artista": "Sylvester Stallone",
-    "intro": "Sylvester Stallone abordó su histórica y tensa relación con Arnold Schwarzenegger durante su participación en el PaleyFest NY 2026.",
-    "telegraph_url": "https://telegra.ph/Sylvester-Stallone-recuerda-su-vieja-rivalidad-con-Arnold-Schwarzenegger-11-06",
-    "url": "https://enelensayomedia.com/notas/sylvester-stallone-recuerda-su-vieja-rivalidad-con-arnold-schwarzenegg-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/sylvester-stallone-recuerda-su-vieja-rivalidad-con-arnold-schwarzenegg-1106.jpg",
-    "fecha": "2026-11-06T16:29:22.168559",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   },
   {
     "opinion": false,
