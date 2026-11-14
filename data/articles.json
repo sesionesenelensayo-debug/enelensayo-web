@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Primeras reacciones destacan el trabajo de Johnny Depp en 'Ebenizer'",
+    "artista": "Johnny Depp",
+    "intro": "Las primeras reacciones a la película 'Ebenizer' señalan que Johnny Depp ofrece una compleja interpretación del personaje de Scrooge.",
+    "telegraph_url": "https://telegra.ph/Primeras-reacciones-destacan-el-trabajo-de-Johnny-Depp-en-Ebenizer-11-10",
+    "url": "https://enelensayomedia.com/notas/primeras-reacciones-destacan-el-trabajo-de-johnny-depp-en-ebenizer-1110.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/primeras-reacciones-destacan-el-trabajo-de-johnny-depp-en-ebenizer-1110.jpg",
+    "fecha": "2026-11-14T07:28:13.917913",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-11-10T13:59:38.950369",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista",
     "artista": "Aria Vega",
     "intro": "La cantante Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista en la edición de los galardones.",
@@ -11,7 +27,7 @@
     "fecha": "2026-11-14T07:26:14.342340",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Chisme",
+    "categoria": "Música",
     "fecha_original": "2026-11-09T21:09:25.354868",
     "actualizada": true
   },
@@ -2084,20 +2100,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Primeras reacciones destacan el trabajo de Johnny Depp en 'Ebenizer'",
-    "artista": "Johnny Depp",
-    "intro": "Las primeras reacciones a la película 'Ebenizer' señalan que Johnny Depp ofrece una compleja interpretación del personaje de Scrooge.",
-    "telegraph_url": "https://telegra.ph/Primeras-reacciones-destacan-el-trabajo-de-Johnny-Depp-en-Ebenizer-11-10",
-    "url": "https://enelensayomedia.com/notas/primeras-reacciones-destacan-el-trabajo-de-johnny-depp-en-ebenizer-1110.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/primeras-reacciones-destacan-el-trabajo-de-johnny-depp-en-ebenizer-1110.jpg",
-    "fecha": "2026-11-10T13:59:38.950369",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   },
   {
     "opinion": true,
