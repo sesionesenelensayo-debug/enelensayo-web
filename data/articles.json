@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "¿Star talents en el doblaje de Yo soy Rocky? El debate",
+    "artista": "Yo soy Rocky",
+    "intro": "Lo que está confirmado es que se han cuestionado los doblajes de 'Wildwood' y 'Yo soy Rocky' debido a la inclusión de figuras de la televisión o redes sociales, conocidos como star talents…",
+    "telegraph_url": "https://telegra.ph/Star-talents-en-el-doblaje-de-Yo-soy-Rocky-El-debate-11-09",
+    "url": "https://enelensayomedia.com/notas/star-talents-en-el-doblaje-de-yo-soy-rocky-el-debate-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/star-talents-en-el-doblaje-de-yo-soy-rocky-el-debate-1109.jpg",
+    "fecha": "2026-11-14T13:46:48.238171",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Doblaje",
+    "fecha_original": "2026-11-09T11:04:09.696643",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "¿Llamará Ibai a Hakimi para la Velada del Año?",
     "artista": "Ibai Llanos",
     "intro": "¡Una locura total en el mundo del streaming! Tras viralizarse un video donde se muestra la habilidad de Hakimi en el boxeo previo a su fichaje por el PSG…",
@@ -3172,20 +3188,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Streaming"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "¿Star talents en el doblaje de Yo soy Rocky? El debate",
-    "artista": "Yo soy Rocky",
-    "intro": "Lo que está confirmado es que se han cuestionado los doblajes de 'Wildwood' y 'Yo soy Rocky' debido a la inclusión de figuras de la televisión o redes sociales, conocidos como star talents…",
-    "telegraph_url": "https://telegra.ph/Star-talents-en-el-doblaje-de-Yo-soy-Rocky-El-debate-11-09",
-    "url": "https://enelensayomedia.com/notas/star-talents-en-el-doblaje-de-yo-soy-rocky-el-debate-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/star-talents-en-el-doblaje-de-yo-soy-rocky-el-debate-1109.jpg",
-    "fecha": "2026-11-09T11:04:09.696643",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Doblaje"
   },
   {
     "opinion": false,
