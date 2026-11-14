@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Mono Osuna usa La Traición y la manda a Bebeshita, queda en placa",
+    "artista": "Mono Osuna",
+    "intro": "El pasado 9 de noviembre, durante la semana 9 de La Granja VIP 2026, Mono Osuna activó La Traición para intercambiar a Bebeshita por Julio Camejo.",
+    "telegraph_url": "https://telegra.ph/Mono-Osuna-usa-La-Traición-y-la-manda-a-Bebeshita-queda-en-placa-11-14",
+    "url": "https://enelensayomedia.com/notas/mono-osuna-usa-la-traicion-y-la-manda-a-bebeshita-queda-en-placa-1114.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/mono-osuna-usa-la-traicion-y-la-manda-a-bebeshita-queda-en-placa-1114.jpg",
+    "fecha": "2026-11-14T17:24:18.331759",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reality"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Faker critica la preparación de Bilibili Gaming tras eliminación en Worlds 2026",
     "artista": "Faker",
     "intro": "El legendario mid laner Faker admitió que Bilibili Gaming estuvo mejor preparado tras la eliminación de su equipo en el Campeonato Mundial de 2026.",
@@ -5901,19 +5915,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "T1 anuncia la salida de Meteor, Munchkin y DH tras su mejor temporada histórica",
-    "artista": "Salida de Meteor de T1 VALORANT",
-    "intro": "La organización coreana inicia una reestructuración total de su plantel de Valorant tras ganar un título internacional.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/t1-anuncia-la-salida-de-meteor-munchkin-y-dh-tras-su-mejor-temporada-h-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/t1-anuncia-la-salida-de-meteor-munchkin-y-dh-tras-su-mejor-temporada-h-1102.jpg",
-    "fecha": "2026-11-02T17:29:54.890259",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Esports"
   }
 ]
