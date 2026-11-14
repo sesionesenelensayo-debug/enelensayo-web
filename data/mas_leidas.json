@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13 21:19",
+ "actualizado": "2026-11-14 06:56",
  "general": [
   {
    "titulo": "Polémica por el doblaje de Wildwood",
@@ -87,11 +87,6 @@
     "titulo": "Los Concorde anuncian conciertos íntimos en cinco ciudades mexicanas para diciembre 2026",
     "url": "https://enelensayomedia.com/notas/los-concorde-anuncian-conciertos-intimos-en-cinco-ciudades-mexicanas-p-1101.html",
     "visitas": 6
-   },
-   {
-    "titulo": "Familia Elizalde se deslinda del documental 'Valentín: La Muerte del Gallo de Oro'",
-    "url": "https://enelensayomedia.com/notas/familia-elizalde-se-deslinda-del-documental-valentin-la-muerte-del-gal-1112.html",
-    "visitas": 3
    }
   ],
   "chisme": [
@@ -254,6 +249,18 @@
    {
     "titulo": "Pokkefriends: de Castelli a Pokkelandia con su primer adelanto",
     "url": "https://enelensayomedia.com/notas/pokkefriends-de-castelli-a-pokkelandia-con-su-primer-adelanto-1112.html",
+    "visitas": 4
+   }
+  ],
+  "reportaje": [
+   {
+    "titulo": "Brittany Murphy: su legado en el cine y la música",
+    "url": "https://enelensayomedia.com/notas/brittany-murphy-su-legado-en-el-cine-y-la-musica-1110.html",
+    "visitas": 4
+   },
+   {
+    "titulo": "Mito vs realidad: ¿Cristiano es mejor que Messi?",
+    "url": "https://enelensayomedia.com/notas/mito-vs-realidad-cristiano-es-mejor-que-messi-1109.html",
     "visitas": 4
    }
   ]
