@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Jaime Camil defiende a star talents en polémica de doblaje de 'Wildwood'",
+    "artista": "Jaime Camil",
+    "intro": "Jaime Camil, promoviendo 'Atrápelo quien pueda', defendió a los star talents del doblaje de 'Wildwood: El bosque salvaje' en 'Sale el Sol'.",
+    "telegraph_url": "https://telegra.ph/Jaime-Camil-defiende-a-star-talents-en-polémica-de-doblaje-de-Wildwood-11-14",
+    "url": "https://enelensayomedia.com/notas/jaime-camil-defiende-a-star-talents-en-polemica-de-doblaje-de-wildwood-1114.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/jaime-camil-defiende-a-star-talents-en-polemica-de-doblaje-de-wildwood-1114.jpg",
+    "fecha": "2026-11-14T11:25:13.740055",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Prime Video anuncia su calendario completo de estrenos para noviembre 2026",
     "artista": "Prime Video",
@@ -5898,19 +5912,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Esports"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "HBO Max estrena sorpresa el especial de 'IT: Welcome to Derry' en Halloween",
-    "artista": "IT: Welcome to Derry",
-    "intro": "HBO Max lanzó de forma inesperada un episodio especial de la serie 'IT: Welcome to Derry' para la celebración de Halloween.",
-    "telegraph_url": "https://telegra.ph/HBO-Max-estrena-sorpresa-el-especial-de-IT-Welcome-to-Derry-en-Halloween-11-02",
-    "url": "https://enelensayomedia.com/notas/hbo-max-estrena-sorpresa-el-especial-de-it-welcome-to-derry-en-hallowe-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/hbo-max-estrena-sorpresa-el-especial-de-it-welcome-to-derry-en-hallowe-1102.jpg",
-    "fecha": "2026-11-02T09:34:34.998357",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Televisión"
   }
 ]
