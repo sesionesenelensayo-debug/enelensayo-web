@@ -1,5 +1,20 @@
 [
   {
+    "tipo": "reportaje",
+    "titulo": "Las 10 películas que más dinero perdieron en taquilla recientemente",
+    "artista": "las 10 películas que más dinero perdieron (mayores fracasos de taquilla recientes)",
+    "intro": "Un análisis de los mayores fracasos cinematográficos recientes, basado en la relación entre presupuesto y recaudación.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/las-10-peliculas-que-mas-dinero-perdieron-en-taquilla-recientemente-1101.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/las-10-peliculas-que-mas-dinero-perdieron-en-taquilla-recientemente-1101.jpg",
+    "fecha": "2026-11-13T19:19:08.899873",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-11-01T15:35:52.933913",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Niurka comete nueva infracción como Peón y perjudica a compañeros",
@@ -783,21 +798,6 @@
     "views": 0,
     "categoria": "Cultura",
     "fecha_original": "2026-10-31T07:42:21.531024",
-    "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Las 10 películas que más dinero perdieron en taquilla recientemente",
-    "artista": "las 10 películas que más dinero perdieron (mayores fracasos de taquilla recientes)",
-    "intro": "Un análisis de los mayores fracasos cinematográficos recientes, basado en la relación entre presupuesto y recaudación.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/las-10-peliculas-que-mas-dinero-perdieron-en-taquilla-recientemente-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/las-10-peliculas-que-mas-dinero-perdieron-en-taquilla-recientemente-1101.jpg",
-    "fecha": "2026-11-12T19:20:15.462889",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-01T15:35:52.933913",
     "actualizada": true
   },
   {
