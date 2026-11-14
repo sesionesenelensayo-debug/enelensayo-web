@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-14 10:05",
+ "actualizado": "2026-11-14 13:51",
  "general": [
   {
    "titulo": "Polémica por el doblaje de Wildwood",
@@ -67,9 +67,9 @@
     "visitas": 5
    },
    {
-    "titulo": "Cartel del Vive Latino 2027: edad media, países y quiénes están en el top 100",
-    "url": "https://enelensayomedia.com/notas/cartel-del-vive-latino-2027-edad-media-paises-y-quienes-estan-en-el-to-1106.html",
-    "visitas": 5
+    "titulo": "Peso Pluma participa en el documental de Valentín Elizalde",
+    "url": "https://enelensayomedia.com/notas/peso-pluma-participa-en-el-documental-de-valentin-elizalde-1114.html",
+    "visitas": 4
    },
    {
     "titulo": "Carlos Rivera triunfa en los Heat Latin Music Awards 2026",
@@ -133,6 +133,23 @@
     "visitas": 4
    }
   ],
+  "televisión": [
+   {
+    "titulo": "Prime Video anuncia su calendario completo de estrenos para noviembre 2026",
+    "url": "https://enelensayomedia.com/notas/prime-video-anuncia-su-calendario-completo-de-estrenos-para-noviembre-1105.html",
+    "visitas": 6
+   },
+   {
+    "titulo": "Sony aspira a que Demon Slayer dure 100 años con estrategia Disney",
+    "url": "https://enelensayomedia.com/notas/sony-aspira-a-que-demon-slayer-dure-100-anos-con-estrategia-disney-1113.html",
+    "visitas": 4
+   },
+   {
+    "titulo": "Dragon Ball Super: Beerus – Crítica del capítulo 4 y llegada del doblaje latino",
+    "url": "https://enelensayomedia.com/notas/dragon-ball-super-beerus-critica-del-capitulo-4-y-llegada-del-doblaje-1102.html",
+    "visitas": 4
+   }
+  ],
   "marvel y dcu": [
    {
     "titulo": "Post-créditos de 'VisionQuest' confirma regreso antes de 'Avengers: Doomsday'",
@@ -170,28 +187,6 @@
     "titulo": "WWE Crown Jewel 2026: cartelera estelar y transmisión",
     "url": "https://enelensayomedia.com/notas/wwe-crown-jewel-2026-cartelera-estelar-y-transmision-1108.html",
     "visitas": 4
-   },
-   {
-    "titulo": "Faker critica la preparación de Bilibili Gaming tras eliminación en Worlds 2026",
-    "url": "https://enelensayomedia.com/notas/faker-critica-la-preparacion-de-bilibili-gaming-tras-eliminacion-en-wo-1109.html",
-    "visitas": 3
-   }
-  ],
-  "televisión": [
-   {
-    "titulo": "Prime Video anuncia su calendario completo de estrenos para noviembre 2026",
-    "url": "https://enelensayomedia.com/notas/prime-video-anuncia-su-calendario-completo-de-estrenos-para-noviembre-1105.html",
-    "visitas": 6
-   },
-   {
-    "titulo": "Sony aspira a que Demon Slayer dure 100 años con estrategia Disney",
-    "url": "https://enelensayomedia.com/notas/sony-aspira-a-que-demon-slayer-dure-100-anos-con-estrategia-disney-1113.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "Dragon Ball Super: Beerus – Crítica del capítulo 4 y llegada del doblaje latino",
-    "url": "https://enelensayomedia.com/notas/dragon-ball-super-beerus-critica-del-capitulo-4-y-llegada-del-doblaje-1102.html",
-    "visitas": 4
    }
   ],
   "streaming": [
@@ -201,13 +196,37 @@
     "visitas": 6
    },
    {
-    "titulo": "¡Werevertumorro se arma su propio videojuego y causa revuelo con la IA!",
-    "url": "https://enelensayomedia.com/notas/werevertumorro-se-arma-su-propio-videojuego-y-causa-revuelo-con-la-ia-1110.html",
+    "titulo": "¿Llamará Ibai a Hakimi para la Velada del Año?",
+    "url": "https://enelensayomedia.com/notas/llamara-ibai-a-hakimi-para-la-velada-del-ano-1109.html",
     "visitas": 5
    },
    {
-    "titulo": "¿Llamará Ibai a Hakimi para la Velada del Año?",
-    "url": "https://enelensayomedia.com/notas/llamara-ibai-a-hakimi-para-la-velada-del-ano-1109.html",
+    "titulo": "¡Werevertumorro se arma su propio videojuego y causa revuelo con la IA!",
+    "url": "https://enelensayomedia.com/notas/werevertumorro-se-arma-su-propio-videojuego-y-causa-revuelo-con-la-ia-1110.html",
+    "visitas": 5
+   }
+  ],
+  "conciertos": [
+   {
+    "titulo": "Rels B anuncia tres conciertos en el Palacio de los Deportes",
+    "url": "https://enelensayomedia.com/notas/rels-b-anuncia-tres-conciertos-en-el-palacio-de-los-deportes-1114.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "Andrés Calamaro se presenta en el Pepsi Center de la CDMX",
+    "url": "https://enelensayomedia.com/notas/andres-calamaro-se-presenta-en-el-pepsi-center-de-la-cdmx-1114.html",
+    "visitas": 4
+   },
+   {
+    "titulo": "Morat presenta su gira Yem World Tour en Palacio de los Deportes con shows del 6 al 17 de noviembre",
+    "url": "https://enelensayomedia.com/notas/morat-presenta-su-gira-yem-world-tour-en-palacio-de-los-deportes-con-s-1114.html",
+    "visitas": 3
+   }
+  ],
+  "reality": [
+   {
+    "titulo": "Niurka habla sobre posible salida de La Granja VIP: 'Me voy contenta'",
+    "url": "https://enelensayomedia.com/notas/niurka-habla-sobre-posible-salida-de-la-granja-vip-me-voy-contenta-1113.html",
     "visitas": 5
    }
   ],
@@ -216,6 +235,11 @@
     "titulo": "Místico regresa al Viernes Espectacular de CMLL el 13 de noviembre",
     "url": "https://enelensayomedia.com/notas/mistico-regresa-al-viernes-espectacular-de-cmll-el-13-de-noviembre-1112.html",
     "visitas": 5
+   },
+   {
+    "titulo": "CMLL y NJPW confirman plantel para FantasticaMania 2027",
+    "url": "https://enelensayomedia.com/notas/cmll-y-njpw-confirman-plantel-para-fantasticamania-2027-1114.html",
+    "visitas": 4
    },
    {
     "titulo": "Soberano Jr y Bandido chocan de nuevo en la Arena México",
