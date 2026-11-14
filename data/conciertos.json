@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13 18:32",
+ "actualizado": "2026-11-13 20:43",
  "eventos": [],
  "api": false,
  "ticketmaster": {
@@ -109,6 +109,12 @@
  ],
  "noticias": [
   {
+   "titulo": "Feid su nueva fecha del Ferxxo Tour 2027 en México: Precios de boletos",
+   "fuente": "El Informador",
+   "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSmRnaDI5Rzc4Q0l3R0tXSXNnUUVZNENzUi01MXpmYzB3YlJmMVcwMmtVS2FhU2tSMmZhM2NYdjdVb0w4SGFDTUFWLWpKS0ltc3h0WFRtZi1Kemx2Ny15VndQUjNGM3NzNmM5bEF1NFBwd0ZYVjlhN2pwT1lOMEpWckVXY3dkUVM3Tm9odUh6WjY4NUI1MXFKZmRsNU1hNW1XUUtpSm5ZUmJfc2pITUxLSk9hUmZ5VEgxTVEtaUFfLXctbTR4T2xkZzFB0gHPAUFVX3lxTE5LSVRtN2tBcU8tZ1pwRF9VMFY5U3N6M2dYbTVZZXo4dklISUdldUJLLU9WRnc0RnhwLVpaeUk1d2w4LW5DV0x6RmktY1dVc3FBUHNCNW9WaEVTWndHcTVLRVRjdU4xTkdPVV9rcHBhLWNpTWJIY09YYVNQVFZ6M1owUHZNSUxvVUVwOUN2UW5Sd0poSk5STktRS3JrZ3czZEVNWjl6ekhXQ2M4U21hVEtaemZBcUx3UzhpOU02OV9jMlNOZ0g1MXhGT09PZmtxcw?oc=5",
+   "fecha": "2026-11-14 01:46"
+  },
+  {
    "titulo": "El Buen Fin 2026 llega a Ticketmaster: fechas y descuentos en conciertos y espectáculos",
    "fuente": "Maya Comunicación",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNMlF0bHZrNXZhME9VUmFyQnY4ckVIRmFzOEVrTUFOYW9DbF9FTldwTFdDZGVwZlRMV2hzUGJhaG9Ob0dSUzNQcHdDTVJrcUtMWi0zbTlCRXU5dkRKT2FfS3l3c2tCOGg5WXBGRVMxQU1ScWxLVHg1VWN2c0J4TTlCNjNONTZKYmQ4cU9CYzhFX2dYT3pDQkpMYUR0UUxLZlRBekhmUmRaS2NhZnJ2dDFRQVhEbFA5TXNQT1Vj?oc=5",
@@ -164,7 +170,7 @@
   },
   {
    "titulo": "Feid anuncia NUEVA FECHA de concierto en CdMx tras agotar boletos: ¿Cuándo es y cómo comprarlos?",
-   "fuente": "Milenio",
+   "fuente": "MILENIO",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVE9tLW1iMWh2alZIc2F3WE5BUFVqR1RFOHVRSjR0ZHJIZVdFVVZHQ2NYVlhvU2FXRnNmS0l2ZTdPVThmYnB0YXVjRXBPRGE5aUNNSkZoUmRCaWVtNUxzZjdqc1YtU0xlblNhdm9MY0FxLURDRFJWdjAza2RHajhRakxJUXdMQ21XbnVDVHBCSVBuZUFYWEhycGx5Y2Q3d9IBngFBVV95cUxOLTA2cHl5OGJybnZzMmgxTVJmcTJhZFJTM3pvaF9GZm1MWkpfam5WNlFxTWk4b2xkUEJnU2xCMFdhQWlFUFpxb3h0anhRVHlUNXVrZlZxS3dPajVNOG1sVk1laUxZd3BvX3N5M0dDeWxvaTE0MmhRRGF0QzZ0UHBId2RtLWdfWWdqU18xTGlwdzRiSC10VEczZFpweG01QQ?oc=5",
    "fecha": "2026-11-10 18:19"
   },
@@ -185,12 +191,6 @@
    "fuente": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPemlpMmJmdUZjSkNrYWVYbzlWVlFiOE9JX01pR19qZlBFM3dZTEdtYmhCUnRodW1pQ0F5Q3VjWWk0QnZZQndIeGpXcXh5anNmaHlyaG5icy1DVGE3SGxCSjFkclRqcHhqdUllSjFONlU1VEt2aG0tMXJNUGhrckt3OGJVNk8yaWNKTnRQV2lnbWdIdHc0ZTN0Ri1sREpqR2l4MC11YkNuQVBHbEJvSEh0d2RXZWVXRGNuRUVKcTdIUHBMQXRubHd0Smd6eDFtbTVlT3VJ0gHuAUFVX3lxTE1rVTBJaDdVT05RWEo2NnJEaktHWS1tMHVIOHExR2N0YzA0WWI2RnlGZlFTdDFsWkZUaG94V1VYNF9HcTVGN2hWZlZlUjNrWmtTaGlNQ09wV2djX1JHU1lHQkN6b0VVRjVUQ2dIbS1Pb2lNeXVUYldKNWtkTkdwRU1DRjZaSzZoUzRrdG1ySGstajJjdk9zQmU3cldOdTk3NE5GMmNUWml5a0RWVGZfWXlWM0JGRkZRZTY5cURoTXowWjZTRlROeWZTbDJXbHVyMi1CbEg2N1lETmY4LWt2eGtwSlg4N2ZpQkFWbUJmYlE?oc=5",
    "fecha": "2026-11-09 20:32"
-  },
-  {
-   "titulo": "Karol G CDMX 2026: Precios y cómo comprar boletos de último minuto para el Estadio GNP Seguros",
-   "fuente": "MARCA",
-   "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOcjk0c0ctYU45VGRmZTNxOEJjd0xoR0U0QnU4OEdNMkVjdjFGOWJ2aGN3SkdGOHljWktGdU9WZmJWRU9ya3ZQMDVoZV9JN3pjYndrbVVoaGFCWlVxNXNKajQ1R0VFNXd1ZEM2Q3B4cU00YzdieExLbWlMVW1pT01tUkNEbG52SmJ0Y3Jrd0tQSnh0T0JOQ3VZV0hFWDJsSWdNTTNwczluajc2TDdrZDkzVTYweFFpVDdOSFR5eWFUZTIyazRiX09feHhzVkRDRjTSAc8BQVVfeXFMTnI5NHNHLWFOOVRkZmUzcThCY3dMaEdFNEJ1ODhHTTJFY3YxRjlidmhjd0pHRjh5Y1pLRnVPVmZiVkVPcmt2UDA1aGVfSTd6Y2J3a21VaGhhQlpVcTVzSmo0NUdFRTV3dWRDNkNweHFNNGM3YnhMS21pTFVtaU9NbVJDRGxudkpidGNya3dLUEp4dE9CTkN1WVdIRVgybElnTU0zcHM5bmo3Nkw3a2Q5M1U2MHhRaVQ3TkhUeXlhVGUyMms0Yl9PX3h4c1ZEQ0Y0?oc=5",
-   "fecha": "2026-11-09 18:56"
   }
  ]
 }
