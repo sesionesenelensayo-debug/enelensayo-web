@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "John Cena sorprende en SmackDown 13 nov 2026 y anuncia John Cena Classic",
+    "artista": "John Cena",
+    "intro": "John Cena regresó a la WWE en el SmackDown del 13 de noviembre de 2026 en el Amerant Bank Arena de Fort Lauderdale, Florida, donde venció a Charlotte Flair y se enfrentará a Trick Williams.",
+    "telegraph_url": "https://telegra.ph/John-Cena-sorprende-en-SmackDown-13-nov-2026-y-anuncia-John-Cena-Classic-11-14",
+    "url": "https://enelensayomedia.com/notas/john-cena-sorprende-en-smackdown-13-nov-2026-y-anuncia-john-cena-class-1114.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/john-cena-sorprende-en-smackdown-13-nov-2026-y-anuncia-john-cena-class-1114.jpg",
+    "fecha": "2026-11-14T16:50:14.313500",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Kim Basinger y Michael Keaton: la conexión tras 'Batman' (1989)",
     "artista": "Michael Keaton y Kim Basinger",
     "intro": "La íntima relación entre las estrellas de 'Batman' trasciende la colaboración profesional en la cinta de Tim Burton.",
@@ -5901,20 +5915,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Esports"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Astrid Hadad brilla en el Festival de Día de Muertos de Zacatecas 2026",
-    "artista": "Festival Día de Muertos Zacatecas",
-    "intro": "La cantante y performer Astrid Hadad se presentó en el Festival de Día de Muertos de Zacatecas, consolidándose como una de las figuras centrales del evento 2026.",
-    "telegraph_url": "https://telegra.ph/Astrid-Hadad-brilla-en-el-Festival-de-Día-de-Muertos-de-Zacatecas-2026-11-01",
-    "url": "https://enelensayomedia.com/notas/astrid-hadad-brilla-en-el-festival-de-dia-de-muertos-de-zacatecas-2026-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/astrid-hadad-brilla-en-el-festival-de-dia-de-muertos-de-zacatecas-2026-1101.jpg",
-    "fecha": "2026-11-02T17:28:57.711091",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura",
-    "fecha_original": "2026-11-01T07:09:39.428487",
-    "actualizada": true
   }
 ]
