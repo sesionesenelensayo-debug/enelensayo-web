@@ -1,5 +1,20 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "DCU en caos: comparan gestión de DC con el estándar de Marvel",
+    "artista": "Robert Pattinson",
+    "intro": "En el video 'DCU en caos: ¿Peso o responsabilidad con Robert Pattinson vs Marvel?' el canal En el Ensayo Media analiza la crisis administrativa y creativa del universo cinematográfico de DC (DCU)…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/dcu-en-caos-comparan-gestion-de-dc-con-el-estandar-de-marvel-1113.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/dcu-en-caos-comparan-gestion-de-dc-con-el-estandar-de-marvel-1113.jpg",
+    "fecha": "2026-11-13T19:19:57.852805",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Cine"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Las 10 películas que más dinero perdieron en taquilla recientemente",
     "artista": "las 10 películas que más dinero perdieron (mayores fracasos de taquilla recientes)",
@@ -5595,21 +5610,6 @@
     "views": 0,
     "categoria": "Cultura",
     "fecha_original": "2026-11-01T07:09:39.428487",
-    "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "La película 'Klara y el sol' de Jenna Ortega tropieza en Europa",
-    "artista": "Jenna Ortega",
-    "intro": "La película 'Klara y el sol' de Jenna Ortega tropieza en España y Europa, según lo reportado por el Diario de México. La información difundida por los medios señala el paso del estreno en cines a la i",
-    "telegraph_url": "https://telegra.ph/La-película-Klara-y-el-sol-de-Jenna-Ortega-tropieza-en-Europa-10-30",
-    "url": "https://enelensayomedia.com/notas/la-pelicula-klara-y-el-sol-de-jenna-ortega-tropieza-en-europa-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-pelicula-klara-y-el-sol-de-jenna-ortega-tropieza-en-europa-1030.jpg",
-    "fecha": "2026-11-02T17:25:40.577279",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-10-30T16:57:14.893183",
     "actualizada": true
   },
   {
