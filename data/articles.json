@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Amazon retira Tomb Raider: Catalyst de Switch 2 en listado modificado",
+    "artista": "Tomb Raider: Catalyst",
+    "intro": "Amazon modificó un artículo publicado el 11 de noviembre de 2026 que inicialmente incluyó Nintendo Switch 2 como plataforma para Tomb Raider: Catalyst.",
+    "telegraph_url": "https://telegra.ph/Amazon-retira-Tomb-Raider-Catalyst-de-Switch-2-en-listado-modificado-11-12",
+    "url": "https://enelensayomedia.com/notas/amazon-retira-tomb-raider-catalyst-de-switch-2-en-listado-modificado-1112.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/amazon-retira-tomb-raider-catalyst-de-switch-2-en-listado-modificado-1112.jpg",
+    "fecha": "2026-11-13T22:07:15.561317",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos",
+    "fecha_original": "2026-11-12T17:17:53.517967",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista",
     "artista": "Aria Vega",
     "intro": "La cantante Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista en la edición de los galardones.",
@@ -11,7 +27,7 @@
     "fecha": "2026-11-13T22:05:58.184149",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Música",
+    "categoria": "Chisme",
     "fecha_original": "2026-11-09T21:09:25.354868",
     "actualizada": true
   },
@@ -888,20 +904,6 @@
     "categoria": "Música",
     "fecha_original": "2026-11-04T13:24:01.911777",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Amazon retira Tomb Raider: Catalyst de Switch 2 en listado modificado",
-    "artista": "Tomb Raider: Catalyst",
-    "intro": "Amazon modificó un artículo publicado el 11 de noviembre de 2026 que inicialmente incluyó Nintendo Switch 2 como plataforma para Tomb Raider: Catalyst.",
-    "telegraph_url": "https://telegra.ph/Amazon-retira-Tomb-Raider-Catalyst-de-Switch-2-en-listado-modificado-11-12",
-    "url": "https://enelensayomedia.com/notas/amazon-retira-tomb-raider-catalyst-de-switch-2-en-listado-modificado-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/amazon-retira-tomb-raider-catalyst-de-switch-2-en-listado-modificado-1112.jpg",
-    "fecha": "2026-11-12T17:17:53.517967",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos"
   },
   {
     "opinion": false,
