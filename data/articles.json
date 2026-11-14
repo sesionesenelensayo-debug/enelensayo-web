@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Las curiosidades y la trayectoria de Joan Sebastian",
+    "artista": "Joan Sebastian",
+    "intro": "El 13 de julio de 2015 se registró la muerte de Joan Sebastian, una de las figuras fundamentales de la música mexicana.",
+    "telegraph_url": "https://telegra.ph/Las-curiosidades-y-la-trayectoria-de-Joan-Sebastian-11-14",
+    "url": "https://enelensayomedia.com/notas/las-curiosidades-y-la-trayectoria-de-joan-sebastian-1113.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/las-curiosidades-y-la-trayectoria-de-joan-sebastian-1113.jpg",
+    "fecha": "2026-11-13T20:43:54.030406",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "HBO Max elige a Paapa Essiedu como Snape: ¿Cambia la esencia del personaje?",
@@ -5881,20 +5895,6 @@
     "url": "https://enelensayomedia.com/notas/el-tragico-secreto-detras-de-la-voz-de-laura-branigan-1102.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/el-tragico-secreto-detras-de-la-voz-de-laura-branigan-1102.jpg",
     "fecha": "2026-11-02T02:52:47.068275",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El oscuro secreto del éxito de The Slim Shady LP de Eminem",
-    "artista": "Eminem",
-    "intro": "En el video del canal En el Ensayo Media se relata cómo el alter‑ego de Eminem surgió de la miseria en Detroit…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-oscuro-secreto-del-exito-de-the-slim-shady-lp-de-eminem-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-oscuro-secreto-del-exito-de-the-slim-shady-lp-de-eminem-1102.jpg",
-    "fecha": "2026-11-02T02:39:06.520317",
     "author": "Oliver Ken",
     "views": 0,
     "archivo": true,
