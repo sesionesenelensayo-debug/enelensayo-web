@@ -1,5 +1,21 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Frankie Muniz sufre accidente en práctica de Daytona y es trasladado de emergencia",
+    "artista": "Frankie Muniz",
+    "intro": "El 11 de noviembre de 2026, Frankie Muniz, conocido por 'Malcolm in the Middle' y piloto de NASCAR, sufrió un accidente durante una sesión de práctica en el Daytona International Speedway.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/frankie-muniz-sufre-accidente-en-practica-de-daytona-y-es-trasladado-d-1112.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/frankie-muniz-sufre-accidente-en-practica-de-daytona-y-es-trasladado-d-1112.jpg",
+    "fecha": "2026-11-14T09:30:45.320383",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-12T21:03:04.674177",
+    "actualizada": true
+  },
+  {
     "tipo": "reportaje",
     "titulo": "José Eduardo Derbez y Paola Dalay anuncian separación",
     "artista": "José Eduardo Derbez",
@@ -895,20 +911,6 @@
     "categoria": "Chisme",
     "fecha_original": "2026-11-03T13:34:06.725879",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Frankie Muniz sufre accidente en práctica de Daytona y es trasladado de emergencia",
-    "artista": "Frankie Muniz",
-    "intro": "El 11 de noviembre de 2026, Frankie Muniz, conocido por 'Malcolm in the Middle' y piloto de NASCAR, sufrió un accidente durante una sesión de práctica en el Daytona International Speedway.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/frankie-muniz-sufre-accidente-en-practica-de-daytona-y-es-trasladado-d-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/frankie-muniz-sufre-accidente-en-practica-de-daytona-y-es-trasladado-d-1112.jpg",
-    "fecha": "2026-11-12T21:03:04.674177",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   },
   {
     "opinion": true,
