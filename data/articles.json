@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Frida Kahlo murió en 1954 por embolia pulmonar, confirmada por su enfermera",
+    "artista": "Frida Kahlo: el día de su muerte y la teoría",
+    "intro": "Frida Kahlo falleció en la madrugada del 13 de julio de 1954 en su casa azul en Coyoacán, tras una caída grave de su salud tras décadas de cirugías. Su enfermera la encontró muerta a las 6:00 a.m.",
+    "telegraph_url": "https://telegra.ph/Frida-Kahlo-murió-en-1954-por-embolia-pulmonar-confirmada-por-su-enfermera-11-14",
+    "url": "https://enelensayomedia.com/notas/frida-kahlo-murio-en-1954-por-embolia-pulmonar-confirmada-por-su-enfer-1114.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/frida-kahlo-murio-en-1954-por-embolia-pulmonar-confirmada-por-su-enfer-1114.jpg",
+    "fecha": "2026-11-14T12:47:43.704879",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "In memoriam"
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "HBO Max elige a Paapa Essiedu como Snape: ¿Cambia la esencia del personaje?",
@@ -5893,21 +5907,6 @@
     "url": "https://enelensayomedia.com/notas/a-10-anos-de-su-partida-la-verdad-sobre-los-ultimos-dias-de-juan-gabri-1102.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/a-10-anos-de-su-partida-la-verdad-sobre-los-ultimos-dias-de-juan-gabri-1102.jpg",
     "fecha": "2026-11-02T11:55:45.252254",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "El oscuro secreto de la infancia de Michael Jackson",
-    "artista": "Michael Jackson",
-    "intro": "En este video del canal En el Ensayo Media se explora la oscura infancia de Michael Jackson, marcada por la pobreza extrema, un padre estricto y diez hermanos en Gary, Indiana…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-oscuro-secreto-de-la-infancia-de-michael-jackson-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-oscuro-secreto-de-la-infancia-de-michael-jackson-1102.jpg",
-    "fecha": "2026-11-02T11:43:25.360016",
     "author": "Oliver Ken",
     "views": 0,
     "archivo": true,
