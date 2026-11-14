@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-14 13:51",
+ "actualizado": "2026-11-14 16:59",
  "general": [
   {
    "titulo": "Polémica por el doblaje de Wildwood",
@@ -62,6 +62,11 @@
     "visitas": 11
    },
    {
+    "titulo": "Rels B anuncia tres conciertos en el Palacio de los Deportes",
+    "url": "https://enelensayomedia.com/notas/rels-b-anuncia-tres-conciertos-en-el-palacio-de-los-deportes-1114.html",
+    "visitas": 5
+   },
+   {
     "titulo": "Maluma anuncia siete conciertos en México",
     "url": "https://enelensayomedia.com/notas/maluma-anuncia-siete-conciertos-en-mexico-1106.html",
     "visitas": 5
@@ -69,11 +74,6 @@
    {
     "titulo": "Peso Pluma participa en el documental de Valentín Elizalde",
     "url": "https://enelensayomedia.com/notas/peso-pluma-participa-en-el-documental-de-valentin-elizalde-1114.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "Carlos Rivera triunfa en los Heat Latin Music Awards 2026",
-    "url": "https://enelensayomedia.com/notas/carlos-rivera-triunfa-en-los-heat-latin-music-awards-2026-1106.html",
     "visitas": 4
    }
   ],
@@ -123,14 +123,26 @@
     "visitas": 4
    },
    {
-    "titulo": "¿Star talents en el doblaje de Yo soy Rocky? El debate",
-    "url": "https://enelensayomedia.com/notas/star-talents-en-el-doblaje-de-yo-soy-rocky-el-debate-1109.html",
-    "visitas": 4
-   },
-   {
     "titulo": "¿Lesslie Polinesia y Hermanastras? La polémica por star talents en Netflix",
     "url": "https://enelensayomedia.com/notas/lesslie-polinesia-y-hermanastras-la-polemica-por-star-talents-en-netfl-1108.html",
     "visitas": 4
+   }
+  ],
+  "streaming": [
+   {
+    "titulo": "Maestro Shifu en el afterparty de Karol G",
+    "url": "https://enelensayomedia.com/notas/maestro-shifu-en-el-afterparty-de-karol-g-1108.html",
+    "visitas": 6
+   },
+   {
+    "titulo": "¿Llamará Ibai a Hakimi para la Velada del Año?",
+    "url": "https://enelensayomedia.com/notas/llamara-ibai-a-hakimi-para-la-velada-del-ano-1109.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "¡Werevertumorro se arma su propio videojuego y causa revuelo con la IA!",
+    "url": "https://enelensayomedia.com/notas/werevertumorro-se-arma-su-propio-videojuego-y-causa-revuelo-con-la-ia-1110.html",
+    "visitas": 5
    }
   ],
   "televisión": [
@@ -148,6 +160,11 @@
     "titulo": "Dragon Ball Super: Beerus – Crítica del capítulo 4 y llegada del doblaje latino",
     "url": "https://enelensayomedia.com/notas/dragon-ball-super-beerus-critica-del-capitulo-4-y-llegada-del-doblaje-1102.html",
     "visitas": 4
+   },
+   {
+    "titulo": "Netflix estrena tráiler de la temporada 6 final de Emily in Paris",
+    "url": "https://enelensayomedia.com/notas/netflix-estrena-trailer-de-la-temporada-6-final-de-emily-in-paris-1114.html",
+    "visitas": 3
    }
   ],
   "marvel y dcu": [
@@ -189,40 +206,6 @@
     "visitas": 4
    }
   ],
-  "streaming": [
-   {
-    "titulo": "Maestro Shifu en el afterparty de Karol G",
-    "url": "https://enelensayomedia.com/notas/maestro-shifu-en-el-afterparty-de-karol-g-1108.html",
-    "visitas": 6
-   },
-   {
-    "titulo": "¿Llamará Ibai a Hakimi para la Velada del Año?",
-    "url": "https://enelensayomedia.com/notas/llamara-ibai-a-hakimi-para-la-velada-del-ano-1109.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "¡Werevertumorro se arma su propio videojuego y causa revuelo con la IA!",
-    "url": "https://enelensayomedia.com/notas/werevertumorro-se-arma-su-propio-videojuego-y-causa-revuelo-con-la-ia-1110.html",
-    "visitas": 5
-   }
-  ],
-  "conciertos": [
-   {
-    "titulo": "Rels B anuncia tres conciertos en el Palacio de los Deportes",
-    "url": "https://enelensayomedia.com/notas/rels-b-anuncia-tres-conciertos-en-el-palacio-de-los-deportes-1114.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "Andrés Calamaro se presenta en el Pepsi Center de la CDMX",
-    "url": "https://enelensayomedia.com/notas/andres-calamaro-se-presenta-en-el-pepsi-center-de-la-cdmx-1114.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "Morat presenta su gira Yem World Tour en Palacio de los Deportes con shows del 6 al 17 de noviembre",
-    "url": "https://enelensayomedia.com/notas/morat-presenta-su-gira-yem-world-tour-en-palacio-de-los-deportes-con-s-1114.html",
-    "visitas": 3
-   }
-  ],
   "reality": [
    {
     "titulo": "Niurka habla sobre posible salida de La Granja VIP: 'Me voy contenta'",
@@ -250,6 +233,18 @@
     "titulo": "Resultados y análisis de la Lucha Libre AAA del 7 de noviembre de 2026",
     "url": "https://enelensayomedia.com/notas/resultados-y-analisis-de-la-lucha-libre-aaa-del-7-de-noviembre-de-2026-1109.html",
     "visitas": 4
+   }
+  ],
+  "conciertos": [
+   {
+    "titulo": "Andrés Calamaro se presenta en el Pepsi Center de la CDMX",
+    "url": "https://enelensayomedia.com/notas/andres-calamaro-se-presenta-en-el-pepsi-center-de-la-cdmx-1114.html",
+    "visitas": 4
+   },
+   {
+    "titulo": "Morat presenta su gira Yem World Tour en Palacio de los Deportes con shows del 6 al 17 de noviembre",
+    "url": "https://enelensayomedia.com/notas/morat-presenta-su-gira-yem-world-tour-en-palacio-de-los-deportes-con-s-1114.html",
+    "visitas": 3
    }
   ],
   "internacional": [
