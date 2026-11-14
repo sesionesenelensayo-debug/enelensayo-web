@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "TenZ regresa a T1 para reforzar su escuadrón de VALORANT en 2027",
+    "artista": "T1 se hace de dos reyes",
+    "intro": "El exjugador de Sentinels firma con T1 y debutará en el Pacific Kickoff, reforzando la alineación que busca consolidarse en la escena internacional.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/tenz-regresa-a-t1-para-reforzar-su-escuadron-de-valorant-en-2027-1114.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/tenz-regresa-a-t1-para-reforzar-su-escuadron-de-valorant-en-2027-1114.jpg",
+    "fecha": "2026-11-14T10:19:31.464748",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Karol G arrancó su Tropitour en el GNP con Thalía y hoy da su segundo concierto",
     "artista": "Karol G",
     "intro": "Karol G inició su Tropitour en el Estadio GNP Seguros de la Ciudad de México, donde según reportes de varios medios Thalía fue la invitada especial; hoy, 14 de noviembre, ofrece la segunda de tres funciones, con Becky G como invitada de apertura.",
@@ -5897,19 +5911,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Stuart Sadcliff: el bajista que abandonó la música por el arte y murió a los 21",
-    "artista": "El Beatle olvidado que murió por amor y arte",
-    "intro": "En el video del canal En el Ensayo Media se relata la breve pero intensa vida de Stuart Sadcliff, bajista original de The Pows…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/stuart-sadcliff-el-bajista-que-abandono-la-musica-por-el-arte-y-murio-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/stuart-sadcliff-el-bajista-que-abandono-la-musica-por-el-arte-y-murio-1102.jpg",
-    "fecha": "2026-11-02T06:40:11.402440",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   }
 ]
