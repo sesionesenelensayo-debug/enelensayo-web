@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Multiforo Cultural Alicia publica su cartelera del 14 al 20 de noviembre",
+    "artista": "Multiforo Cultural Alicia",
+    "intro": "El Multiforo Cultural Alicia, el emblemático laboratorio de culturas subterráneas de la Ciudad de México, ha puesto a disposición del público su programación para los próximos siete días.",
+    "telegraph_url": "https://telegra.ph/Multiforo-Cultural-Alicia-publica-su-cartelera-del-14-al-20-de-noviembre-11-14",
+    "url": "https://enelensayomedia.com/notas/multiforo-cultural-alicia-publica-su-cartelera-del-14-al-20-de-noviemb-1114.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/multiforo-cultural-alicia-publica-su-cartelera-del-14-al-20-de-noviemb-1114.jpg",
+    "fecha": "2026-11-14T10:56:09.415511",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Rels B anuncia tres conciertos en el Palacio de los Deportes",
     "artista": "Rels B",
     "intro": "El cantante español Rels B se presentará en la Ciudad de México con tres conciertos confirmados en el Palacio de los Deportes, ubicado en la alcaldía Iztacalco.",
@@ -5898,21 +5912,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Televisión"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Raza Hamidmi al-Wazar regresa en el capítulo 6 de VisionQuest",
-    "artista": "VisionQuest",
-    "intro": "Después de 18 años de ausencia, el villano Raza Hamidmi al-Wazar, interpretado por Faran Tahir…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/raza-hamidmi-al-wazar-regresa-en-el-capitulo-6-de-visionquest-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/raza-hamidmi-al-wazar-regresa-en-el-capitulo-6-de-visionquest-1102.jpg",
-    "fecha": "2026-11-02T09:31:32",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU",
-    "fecha_original": "2026-11-02T09:20:00",
-    "actualizada": true
   }
 ]
