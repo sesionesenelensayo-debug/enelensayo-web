@@ -1,5 +1,21 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "HBO Max elige a Paapa Essiedu como Snape: ¿Cambia la esencia del personaje?",
+    "artista": "Paapa Essiedu como Snape",
+    "intro": "La controversia por el casting de un actor de color en el icónico Severus Snape divide a la audiencia y pone a prueba la lealtad al canon original.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/hbo-max-elige-a-paapa-essiedu-como-snape-cambia-la-esencia-del-persona-1113.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/hbo-max-elige-a-paapa-essiedu-como-snape-cambia-la-esencia-del-persona-1113.jpg",
+    "fecha": "2026-11-13T19:50:04.820473",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Agenda woke",
+    "fecha_original": "2026-11-13T13:45:40.458852",
+    "actualizada": true
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "DCU en caos: comparan gestión de DC con el estándar de Marvel",
@@ -312,20 +328,6 @@
     "categoria": "Música",
     "fecha_original": "2026-11-09T21:09:25.354868",
     "actualizada": true
-  },
-  {
-    "opinion": true,
-    "tipo": "reportaje",
-    "titulo": "HBO Max elige a Paapa Essiedu como Snape: ¿Cambia la esencia del personaje?",
-    "artista": "Paapa Essiedu como Snape",
-    "intro": "La controversia por el casting de un actor de color en el icónico Severus Snape divide a la audiencia y pone a prueba la lealtad al canon original.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/hbo-max-elige-a-paapa-essiedu-como-snape-cambia-la-esencia-del-persona-1113.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/hbo-max-elige-a-paapa-essiedu-como-snape-cambia-la-esencia-del-persona-1113.jpg",
-    "fecha": "2026-11-13T13:45:40.458852",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Agenda woke"
   },
   {
     "opinion": false,

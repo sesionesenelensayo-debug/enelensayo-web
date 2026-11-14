@@ -1,4 +1,46 @@
 {
+ "Cine": {
+  "shorts": [
+   {
+    "id": "ebvgOHqQRGs",
+    "titulo": "El cine latino cruza fronteras en Los Ángeles",
+    "fecha": "2026-11-11",
+    "nota": "https://enelensayomedia.com/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.html"
+   },
+   {
+    "id": "Cv388S5qotA",
+    "titulo": "Tom Hanks rechaza remake de \"El invisible Harvey\" y defiende el canon cinematográfico",
+    "fecha": "2026-11-10",
+    "nota": "https://enelensayomedia.com/notas/tom-hanks-rechaza-remake-de-el-invisible-harvey-y-defiende-el-canon-ci-1110.html"
+   },
+   {
+    "id": "Vn053n5Jkms",
+    "titulo": "A 14 años del fallecimiento de Leonardo Favio",
+    "fecha": "2026-11-05",
+    "nota": "https://enelensayomedia.com/notas/a-14-anos-del-fallecimiento-de-leonardo-favio-1105.html"
+   },
+   {
+    "id": "MDQfrbn4mRc",
+    "titulo": "Mito vs Realidad: ¿James Gunn es un éxito en el universo de DC?",
+    "fecha": "2026-11-03",
+    "nota": "https://enelensayomedia.com/notas/mito-vs-realidad-james-gunn-es-un-exito-en-el-universo-de-dc-1103.html"
+   }
+  ],
+  "longs": [
+   {
+    "id": "EB97vHmGCa4",
+    "titulo": "DCU en caos: comparan gestión de DC con el estándar de Marvel",
+    "fecha": "2026-11-13",
+    "nota": "https://enelensayomedia.com/notas/dcu-en-caos-comparan-gestion-de-dc-con-el-estandar-de-marvel-1113.html"
+   },
+   {
+    "id": "26wn_wAKm5U",
+    "titulo": "La historia detrás de Jorge Negrete, el Charro Cantor",
+    "fecha": "2026-11-06",
+    "nota": "https://enelensayomedia.com/notas/la-historia-detras-de-jorge-negrete-el-charro-cantor-1106.html"
+   }
+  ]
+ },
  "Reportaje": {
   "shorts": [
    {
@@ -81,17 +123,6 @@
     "nota": "https://enelensayomedia.com/notas/el-escandalo-de-las-lavanderas-verdad-traicion-y-disputas-1110.html"
    }
   ]
- },
- "Marvel y DCU": {
-  "shorts": [
-   {
-    "id": "EB97vHmGCa4",
-    "titulo": "El caos del DCU frente al peso de Robert Pattinson y Marvel",
-    "fecha": "2026-11-13",
-    "nota": "https://enelensayomedia.com/notas/el-caos-del-dcu-frente-al-peso-de-robert-pattinson-y-marvel-1113.html"
-   }
-  ],
-  "longs": []
  },
  "Música": {
   "shorts": [
@@ -347,42 +378,6 @@
     "titulo": "El horror del garrote: la sirvienta que incendió una viuda en 1888",
     "fecha": "2026-11-04",
     "nota": "https://enelensayomedia.com/notas/el-horror-del-garrote-la-sirvienta-que-incendio-una-viuda-en-1888-1104.html"
-   }
-  ]
- },
- "Cine": {
-  "shorts": [
-   {
-    "id": "ebvgOHqQRGs",
-    "titulo": "El cine latino cruza fronteras en Los Ángeles",
-    "fecha": "2026-11-11",
-    "nota": "https://enelensayomedia.com/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.html"
-   },
-   {
-    "id": "Cv388S5qotA",
-    "titulo": "Tom Hanks rechaza remake de \"El invisible Harvey\" y defiende el canon cinematográfico",
-    "fecha": "2026-11-10",
-    "nota": "https://enelensayomedia.com/notas/tom-hanks-rechaza-remake-de-el-invisible-harvey-y-defiende-el-canon-ci-1110.html"
-   },
-   {
-    "id": "Vn053n5Jkms",
-    "titulo": "A 14 años del fallecimiento de Leonardo Favio",
-    "fecha": "2026-11-05",
-    "nota": "https://enelensayomedia.com/notas/a-14-anos-del-fallecimiento-de-leonardo-favio-1105.html"
-   },
-   {
-    "id": "MDQfrbn4mRc",
-    "titulo": "Mito vs Realidad: ¿James Gunn es un éxito en el universo de DC?",
-    "fecha": "2026-11-03",
-    "nota": "https://enelensayomedia.com/notas/mito-vs-realidad-james-gunn-es-un-exito-en-el-universo-de-dc-1103.html"
-   }
-  ],
-  "longs": [
-   {
-    "id": "26wn_wAKm5U",
-    "titulo": "La historia detrás de Jorge Negrete, el Charro Cantor",
-    "fecha": "2026-11-06",
-    "nota": "https://enelensayomedia.com/notas/la-historia-detras-de-jorge-negrete-el-charro-cantor-1106.html"
    }
   ]
  },
