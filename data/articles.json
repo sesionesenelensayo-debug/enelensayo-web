@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Mckenna Grace y Joseph Zada responden a rumores",
+    "artista": "Mckenna Grace",
+    "intro": "Mckenna Grace y Joseph Zada respondieron a los rumores durante una aparición pública.",
+    "telegraph_url": "https://telegra.ph/Mckenna-Grace-y-Joseph-Zada-responden-a-rumores-11-05",
+    "url": "https://enelensayomedia.com/notas/mckenna-grace-y-joseph-zada-responden-a-rumores-1104.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/mckenna-grace-y-joseph-zada-responden-a-rumores-1104.jpg",
+    "fecha": "2026-11-14T08:11:54.828544",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-11-04T18:08:36.467354",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Difunden video de Gérard Depardieu acosando a una actriz en rodaje",
     "artista": "Gérard Depardieu",
     "intro": "Sale a la luz un video inédito del rodaje de la película 'Turf' en el que el actor Gérard Depardieu toca repetidamente a una figurante de 22 años sin su consentimiento.",
@@ -4778,20 +4794,6 @@
     "categoria": "Cultura",
     "fecha_original": "2026-10-29T14:15:37",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Mckenna Grace y Joseph Zada responden a rumores",
-    "artista": "Mckenna Grace",
-    "intro": "Mckenna Grace y Joseph Zada respondieron a los rumores durante una aparición pública.",
-    "telegraph_url": "https://telegra.ph/Mckenna-Grace-y-Joseph-Zada-responden-a-rumores-11-05",
-    "url": "https://enelensayomedia.com/notas/mckenna-grace-y-joseph-zada-responden-a-rumores-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/mckenna-grace-y-joseph-zada-responden-a-rumores-1104.jpg",
-    "fecha": "2026-11-04T18:08:36.467354",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   },
   {
     "opinion": false,
