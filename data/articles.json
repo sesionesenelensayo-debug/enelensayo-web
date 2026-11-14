@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Nicola Porcella responde a críticas por su cirugía nasal y muestra su nueva apariencia",
+    "artista": "Nicola Porcella",
+    "intro": "El conductor de Hoy volvió a la pantalla a principios de octubre con una nariz reconstruida tras una intervención quirúrgica en Monterrey.",
+    "telegraph_url": "https://telegra.ph/Nicola-Porcella-responde-a-críticas-por-su-cirugía-nasal-y-muestra-su-nueva-apariencia-11-14",
+    "url": "https://enelensayomedia.com/notas/nicola-porcella-responde-a-criticas-por-su-cirugia-nasal-y-muestra-su-1114.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/nicola-porcella-responde-a-criticas-por-su-cirugia-nasal-y-muestra-su-1114.jpg",
+    "fecha": "2026-11-14T10:47:19.347561",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Niurka comete nueva infracción como Peón y perjudica a compañeros",
     "artista": "La Granja VIP",
     "intro": "Niurka vuelve a incurrir en una infracción como Peón en La Granja VIP, dejando su cama y durmiendo con los Granjeros, según reportes de TV Azteca y TVyNovelas.",
@@ -5900,18 +5914,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El Callejón del Beso: entre historia, leyenda y tradición romántica",
-    "artista": "el Callejón del Beso y otras leyendas de Guanajuato",
-    "intro": "Descubre cómo el estrecho pasaje de Guanajuato mezcla arquitectura del siglo XVIII, una trágica historia de amor y rituales populares que atraen a miles de visitantes.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-callejon-del-beso-entre-historia-leyenda-y-tradicion-romantica-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-callejon-del-beso-entre-historia-leyenda-y-tradicion-romantica-1102.jpg",
-    "fecha": "2026-11-02T08:26:44.735337",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror"
   }
 ]
