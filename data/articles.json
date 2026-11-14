@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Ángela Aguilar revive la música ranchera y consagra su lugar en el regional mexicano",
+    "artista": "Ángela Aguilar",
+    "intro": "El video '¿Qué hay detrás del éxito de Ángela Aguilar? – La joven que revive la música ranchera' del canal En el Ensayo Media explora la trayectoria de la cantante mexicana…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/angela-aguilar-revive-la-musica-ranchera-y-consagra-su-lugar-en-el-reg-1114.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/angela-aguilar-revive-la-musica-ranchera-y-consagra-su-lugar-en-el-reg-1114.jpg",
+    "fecha": "2026-11-14T12:09:36.436986",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Claude Monet, recordado a 186 años de su nacimiento",
     "artista": "Claude Monet",
     "intro": "Hoy, 14 de noviembre de 2026, se conmemora el 186 aniversario del nacimiento de Claude Monet, pintor francés y fundador del impresionismo.",
@@ -5070,20 +5085,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "C. Tangana rompe su silencio musical con el freestyle “Milko Freestyle”",
-    "artista": "C. Tangana",
-    "intro": "C. Tangana vuelve a sonar en la escena con el lanzamiento del freestyle “Milko Freestyle”.",
-    "telegraph_url": "https://telegra.ph/C-Tangana-rompe-su-silencio-musical-con-el-freestyle-Milko-Freestyle-11-04",
-    "url": "https://enelensayomedia.com/notas/c-tangana-rompe-su-silencio-musical-con-el-freestyle-milko-freestyle-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/c-tangana-rompe-su-silencio-musical-con-el-freestyle-milko-freestyle-1104.jpg",
-    "fecha": "2026-11-04T14:30:27.397556",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   },
   {
     "opinion": false,
