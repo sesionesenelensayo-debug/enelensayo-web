@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Morat presenta su gira Yem World Tour en Palacio de los Deportes con shows del 6 al 17 de noviembre",
+    "artista": "Morat",
+    "intro": "La banda colombiana Morat se presenta esta semana en el Palacio de los Deportes de la Ciudad de México como parte de su gira Yem World Tour.",
+    "telegraph_url": "https://telegra.ph/Morat-presenta-su-gira-Yem-World-Tour-en-Palacio-de-los-Deportes-con-shows-del-6-al-17-de-noviembre-11-14",
+    "url": "https://enelensayomedia.com/notas/morat-presenta-su-gira-yem-world-tour-en-palacio-de-los-deportes-con-s-1114.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/morat-presenta-su-gira-yem-world-tour-en-palacio-de-los-deportes-con-s-1114.jpg",
+    "fecha": "2026-11-14T12:28:08.359433",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "La Mansión VIP 2 de HotSpanish: fe y detalles",
     "artista": "HotSpanish",
     "intro": "La segunda temporada del reality de HotSpanish, La Mansión VIP 2, se estrena el domingo 8 de noviembre de 2026 a las 20:00 (hora del centro de México).",
@@ -5898,20 +5912,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Phantom Blade Zero confirma novedades y llega a GeForce NOW",
-    "artista": "Phantom Blade Zero",
-    "intro": "El videojuego Phantom Blade Zero genera expectativa en la industria tras confirmarse novedades recientes sobre sus plataformas de lanzamiento. Según reportes de medios especializados, existen incógnit",
-    "telegraph_url": "https://telegra.ph/Phantom-Blade-Zero-confirma-novedades-y-llega-a-GeForce-NOW-10-30",
-    "url": "https://enelensayomedia.com/notas/phantom-blade-zero-confirma-novedades-y-llega-a-geforce-now-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/phantom-blade-zero-confirma-novedades-y-llega-a-geforce-now-1030.jpg",
-    "fecha": "2026-11-02T11:37:15.710432",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-10-30T17:00:53.758741",
-    "actualizada": true
   }
 ]
