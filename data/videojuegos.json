@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13T22:33",
+ "actualizado": "2026-11-14T04:35",
  "peores": [
   {
    "titulo": "Code Violet",
@@ -438,19 +438,19 @@
    "publica": ""
   },
   {
-   "titulo": "Danganronpa 2×2",
-   "fecha": "2027-01-14",
-   "fecha_txt": "14 de enero",
+   "titulo": "Lucky Luke: The Lonesome Cowboy Collection",
+   "fecha": "2027-01-13",
+   "fecha_txt": "13 de enero",
    "plataformas": [
     "PC",
     "Switch",
     "Switch 2",
-    "PS5",
-    "Xbox Series"
+    "PS4",
+    "PS5"
    ],
-   "genero": "Visual novel, Adventure",
-   "desarrolla": "Gemdrops, Too Kyo Games",
-   "publica": "Spike Chunsoft"
+   "genero": "Shooter",
+   "desarrolla": "Graphite Lab, Implicit Conversions",
+   "publica": "Infogrames"
   }
  ]
 }
