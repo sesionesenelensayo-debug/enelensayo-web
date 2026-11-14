@@ -1,6 +1,22 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Rels B anuncia tres conciertos en el Palacio de los Deportes",
+    "artista": "Rels B",
+    "intro": "El cantante español Rels B se presentará en la Ciudad de México con tres conciertos confirmados en el Palacio de los Deportes, ubicado en la alcaldía Iztacalco.",
+    "telegraph_url": "https://telegra.ph/Rels-B-anuncia-tres-conciertos-en-el-Palacio-de-los-Deportes-11-14",
+    "url": "https://enelensayomedia.com/notas/rels-b-anuncia-tres-conciertos-en-el-palacio-de-los-deportes-1114.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/rels-b-anuncia-tres-conciertos-en-el-palacio-de-los-deportes-1114.jpg",
+    "fecha": "2026-11-14T16:16:18.391296",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos",
+    "fecha_original": "2026-11-14T10:53:30.218134",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Maestro Shifu en el afterparty de Karol G",
     "artista": "Maestro Shifu",
@@ -400,20 +416,6 @@
     "url": "https://enelensayomedia.com/notas/multiforo-cultural-alicia-publica-su-cartelera-del-14-al-20-de-noviemb-1114.html",
     "imagen_url": "https://enelensayomedia.com/img/notas/multiforo-cultural-alicia-publica-su-cartelera-del-14-al-20-de-noviemb-1114.jpg",
     "fecha": "2026-11-14T10:56:09.415511",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Rels B anuncia tres conciertos en el Palacio de los Deportes",
-    "artista": "Rels B",
-    "intro": "El cantante español Rels B se presentará en la Ciudad de México con tres conciertos confirmados en el Palacio de los Deportes, ubicado en la alcaldía Iztacalco.",
-    "telegraph_url": "https://telegra.ph/Rels-B-anuncia-tres-conciertos-en-el-Palacio-de-los-Deportes-11-14",
-    "url": "https://enelensayomedia.com/notas/rels-b-anuncia-tres-conciertos-en-el-palacio-de-los-deportes-1114.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/rels-b-anuncia-tres-conciertos-en-el-palacio-de-los-deportes-1114.jpg",
-    "fecha": "2026-11-14T10:53:30.218134",
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Conciertos"
