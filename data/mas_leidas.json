@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-14 06:56",
+ "actualizado": "2026-11-14 10:05",
  "general": [
   {
    "titulo": "Polémica por el doblaje de Wildwood",
@@ -45,13 +45,13 @@
     "visitas": 6
    },
    {
-    "titulo": "Proyectan 'Godzilla' en la Cineteca Mexiquense",
-    "url": "https://enelensayomedia.com/notas/proyectan-godzilla-en-la-cineteca-mexiquense-1110.html",
+    "titulo": "Sylvester Stallone recuerda su vieja rivalidad con Arnold Schwarzenegger",
+    "url": "https://enelensayomedia.com/notas/sylvester-stallone-recuerda-su-vieja-rivalidad-con-arnold-schwarzenegg-1106.html",
     "visitas": 5
    },
    {
-    "titulo": "CDMX prepara exposición gratuita de Godzilla",
-    "url": "https://enelensayomedia.com/notas/cdmx-prepara-exposicion-gratuita-de-godzilla-1101.html",
+    "titulo": "Proyectan 'Godzilla' en la Cineteca Mexiquense",
+    "url": "https://enelensayomedia.com/notas/proyectan-godzilla-en-la-cineteca-mexiquense-1110.html",
     "visitas": 5
    }
   ],
@@ -133,28 +133,6 @@
     "visitas": 4
    }
   ],
-  "videojuegos": [
-   {
-    "titulo": "GTA VI y Ocarina of Time Remake lideran los lanzamientos de noviembre 2026",
-    "url": "https://enelensayomedia.com/notas/gta-vi-y-ocarina-of-time-remake-lideran-los-lanzamientos-de-noviembre-1103.html",
-    "visitas": 7
-   },
-   {
-    "titulo": "Hogwarts Legacy 2: Warner Bros. confirma la secuela oficial",
-    "url": "https://enelensayomedia.com/notas/hogwarts-legacy-2-warner-bros-confirma-la-secuela-oficial-1108.html",
-    "visitas": 6
-   },
-   {
-    "titulo": "Rockstar confirma versión en la nube de GTA VI para Xbox Series S",
-    "url": "https://enelensayomedia.com/notas/rockstar-confirma-version-en-la-nube-de-gta-vi-para-xbox-series-s-1111.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "WWE Crown Jewel 2026: cartelera estelar y transmisión",
-    "url": "https://enelensayomedia.com/notas/wwe-crown-jewel-2026-cartelera-estelar-y-transmision-1108.html",
-    "visitas": 4
-   }
-  ],
   "marvel y dcu": [
    {
     "titulo": "Post-créditos de 'VisionQuest' confirma regreso antes de 'Avengers: Doomsday'",
@@ -175,6 +153,28 @@
     "titulo": "El Daily Bugle asoma en Spider-Man: Brand New Day y apunta a Spider-Man 5",
     "url": "https://enelensayomedia.com/notas/el-daily-bugle-asoma-en-spider-man-brand-new-day-y-apunta-a-spider-man-1111.html",
     "visitas": 5
+   }
+  ],
+  "videojuegos": [
+   {
+    "titulo": "Hogwarts Legacy 2: Warner Bros. confirma la secuela oficial",
+    "url": "https://enelensayomedia.com/notas/hogwarts-legacy-2-warner-bros-confirma-la-secuela-oficial-1108.html",
+    "visitas": 6
+   },
+   {
+    "titulo": "Rockstar confirma versión en la nube de GTA VI para Xbox Series S",
+    "url": "https://enelensayomedia.com/notas/rockstar-confirma-version-en-la-nube-de-gta-vi-para-xbox-series-s-1111.html",
+    "visitas": 4
+   },
+   {
+    "titulo": "WWE Crown Jewel 2026: cartelera estelar y transmisión",
+    "url": "https://enelensayomedia.com/notas/wwe-crown-jewel-2026-cartelera-estelar-y-transmision-1108.html",
+    "visitas": 4
+   },
+   {
+    "titulo": "Faker critica la preparación de Bilibili Gaming tras eliminación en Worlds 2026",
+    "url": "https://enelensayomedia.com/notas/faker-critica-la-preparacion-de-bilibili-gaming-tras-eliminacion-en-wo-1109.html",
+    "visitas": 3
    }
   ],
   "televisión": [
@@ -209,11 +209,6 @@
     "titulo": "¿Llamará Ibai a Hakimi para la Velada del Año?",
     "url": "https://enelensayomedia.com/notas/llamara-ibai-a-hakimi-para-la-velada-del-ano-1109.html",
     "visitas": 5
-   },
-   {
-    "titulo": "WestCOL la rompe en Kick y manda en el streaming latino",
-    "url": "https://enelensayomedia.com/notas/westcol-la-rompe-en-kick-y-manda-en-el-streaming-latino-1107.html",
-    "visitas": 3
    }
   ],
   "luchas": [
