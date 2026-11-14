@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "CMLL y NJPW confirman plantel para FantasticaMania 2027",
+    "artista": "CMLL y NJPW",
+    "intro": "El Consejo Mundial de Lucha Libre y New Japan Pro Wrestling confirman de manera oficial el contingente mexicano que participará en la gira FantasticaMania 2027…",
+    "telegraph_url": "https://telegra.ph/CMLL-y-NJPW-confirman-plantel-para-FantasticaMania-2027-11-14",
+    "url": "https://enelensayomedia.com/notas/cmll-y-njpw-confirman-plantel-para-fantasticamania-2027-1114.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/cmll-y-njpw-confirman-plantel-para-fantasticamania-2027-1114.jpg",
+    "fecha": "2026-11-14T13:23:50.495516",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
     "tipo": "noticia",
     "titulo": "Daddy Yankee visita Venezuela acompañado de Danny Ocean",
     "artista": "Daddy Yankee",
@@ -5896,20 +5910,5 @@
     "views": 0,
     "nota_dia": true,
     "categoria": "Reportaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "A 10 años de su partida: la verdad sobre los últimos días de Juan Gabriel",
-    "artista": "Juan Gabriel",
-    "intro": "La producción aborda datos sobre su nacimiento, su exitosa trayectoria musical con millones de discos vendidos y los detalles poco conocidos acerca de su muerte y su último concierto en Los Ángeles.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/a-10-anos-de-su-partida-la-verdad-sobre-los-ultimos-dias-de-juan-gabri-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/a-10-anos-de-su-partida-la-verdad-sobre-los-ultimos-dias-de-juan-gabri-1102.jpg",
-    "fecha": "2026-11-02T11:55:45.252254",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   }
 ]
