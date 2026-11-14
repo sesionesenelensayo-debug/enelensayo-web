@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Vincent van Gogh: la verdad sobre el disparo",
+    "artista": "Vincent van Gogh: la verdad sobre el disparo",
+    "intro": "Nuevas investigaciones sugieren que el disparo mortal pudo no haber sido provocado por él mismo, sino por adolescentes locales.",
+    "telegraph_url": "https://telegra.ph/Vincent-van-Gogh-la-verdad-sobre-el-disparo-11-14",
+    "url": "https://enelensayomedia.com/notas/vincent-van-gogh-la-verdad-sobre-el-disparo-1114.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/vincent-van-gogh-la-verdad-sobre-el-disparo-1114.jpg",
+    "fecha": "2026-11-14T13:52:41.930534",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "¿Star talents en el doblaje de Yo soy Rocky? El debate",
     "artista": "Yo soy Rocky",
     "intro": "Lo que está confirmado es que se han cuestionado los doblajes de 'Wildwood' y 'Yo soy Rocky' debido a la inclusión de figuras de la televisión o redes sociales, conocidos como star talents…",
@@ -5635,21 +5649,6 @@
     "views": 0,
     "nota_dia": true,
     "categoria": "Reportaje"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Qué ver este fin de semana en streaming: estrenos en Netflix, Disney+, Prime y HBO",
-    "artista": "Netflix/Disney+/Prime/HBO",
-    "intro": "Los servicios de streaming Netflix, Disney+, Prime Video y HBO Max presentan su programación del fin de semana del 30 de octubre al 1 de noviembre. Según Diario AS, HobbyConsolas y Cinéfilos, la ofert",
-    "telegraph_url": "https://telegra.ph/Qué-ver-este-fin-de-semana-en-streaming-estrenos-en-Netflix-Disney-Prime-y-HBO-10-31",
-    "url": "https://enelensayomedia.com/notas/que-ver-este-fin-de-semana-en-streaming-estrenos-en-netflix-disney-pri-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/que-ver-este-fin-de-semana-en-streaming-estrenos-en-netflix-disney-pri-1031.jpg",
-    "fecha": "2026-11-03T11:54:53.574001",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-10-31T14:00:06.032992",
-    "actualizada": true
   },
   {
     "opinion": false,
