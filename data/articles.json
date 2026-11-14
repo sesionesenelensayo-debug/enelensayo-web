@@ -1,5 +1,21 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Detienen a Gabito Ballesteros en Querétaro por cantar narcocorridos prohibidos",
+    "artista": "Gabito Ballesteros",
+    "intro": "El concierto de Gabito Ballesteros en la Feria Internacional Ganadera de Querétaro fue suspendido el 13 de noviembre de 2026 tras interpretar temas no autorizados, entre ellos 'AMG'.",
+    "telegraph_url": "https://telegra.ph/Detienen-a-Gabito-Ballesteros-en-Querétaro-por-cantar-narcocorridos-prohibidos-11-14",
+    "url": "https://enelensayomedia.com/notas/detienen-a-gabito-ballesteros-en-queretaro-por-cantar-narcocorridos-pr-1114.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/detienen-a-gabito-ballesteros-en-queretaro-por-cantar-narcocorridos-pr-1114.jpg",
+    "fecha": "2026-11-14T14:19:04.611273",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-11-14T09:41:18.662366",
+    "actualizada": true
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Las 10 películas que más dinero perdieron en taquilla recientemente",
     "artista": "las 10 películas que más dinero perdieron (mayores fracasos de taquilla recientes)",
@@ -428,20 +444,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Conciertos"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Detienen a Gabito Ballesteros en Querétaro por cantar narcocorridos prohibidos",
-    "artista": "Gabito Ballesteros",
-    "intro": "El concierto de Gabito Ballesteros en la Feria Internacional Ganadera de Querétaro fue suspendido el 13 de noviembre de 2026 tras interpretar temas no autorizados, entre ellos 'AMG'.",
-    "telegraph_url": "https://telegra.ph/Detienen-a-Gabito-Ballesteros-en-Querétaro-por-cantar-narcocorridos-prohibidos-11-14",
-    "url": "https://enelensayomedia.com/notas/detienen-a-gabito-ballesteros-en-queretaro-por-cantar-narcocorridos-pr-1114.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/detienen-a-gabito-ballesteros-en-queretaro-por-cantar-narcocorridos-pr-1114.jpg",
-    "fecha": "2026-11-14T09:41:18.662366",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   },
   {
     "opinion": false,
