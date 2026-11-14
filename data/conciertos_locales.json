@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-13 19:01",
+ "actualizado": "2026-11-13 19:02",
  "eventos": [
   {
    "id": "reo|guadalajara|foro-independencia|2026-11-13",
@@ -13199,6 +13199,38 @@
   {
    "id": "monir-bautista|oaxaca||x",
    "banda": "Monir Bautista",
+   "ciudad": "Oaxaca",
+   "estado": "Oaxaca",
+   "lat": 17.0732,
+   "lon": -96.7266,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
+  },
+  {
+   "id": "pepe-velazquez|oaxaca||x",
+   "banda": "Pepe Velázquez",
+   "ciudad": "Oaxaca",
+   "estado": "Oaxaca",
+   "lat": 17.0732,
+   "lon": -96.7266,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
+  },
+  {
+   "id": "oaxaca-mi-banda-su-compa-picudo|oaxaca||x",
+   "banda": "*Oaxaca mi banda*su compa picudo!!",
    "ciudad": "Oaxaca",
    "estado": "Oaxaca",
    "lat": 17.0732,
