@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Amanda Seyfried hará su debut como anfitriona de Saturday Night Live el 5 de diciembre",
+    "artista": "Amanda Seyfried",
+    "intro": "La actriz de 40 años, nominada al Óscar, conducirá el programa con Don Toliver como invitado musical.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/amanda-seyfried-hara-su-debut-como-anfitriona-de-saturday-night-live-e-1115.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/amanda-seyfried-hara-su-debut-como-anfitriona-de-saturday-night-live-e-1115.jpg",
+    "fecha": "2026-11-15T09:30:20.719321",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme internacional"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "México: ¿dónde están prohibidos los narcocorridos en 2026?",
     "artista": "narcocorridos",
     "intro": "La música narcocorrido, arraigada en la tradición oral mexicana, enfrenta prohibiciones locales en varios estados.",
@@ -5906,22 +5920,6 @@
     "views": 0,
     "categoria": "Cultura",
     "fecha_original": "2026-10-31T11:38:10.696270",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Petit Planet de HoYoverse confirma fecha para móviles y Switch 2",
-    "artista": "Petit Planet",
-    "intro": "Petit Planet, el nuevo título gratuito desarrollado por HoYoverse, ha confirmado oficialmente su fecha de estreno.",
-    "telegraph_url": "https://telegra.ph/Petit-Planet-de-HoYoverse-confirma-fecha-para-móviles-y-Switch-2-11-02",
-    "url": "https://enelensayomedia.com/notas/petit-planet-de-hoyoverse-confirma-fecha-para-moviles-y-switch-2-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/petit-planet-de-hoyoverse-confirma-fecha-para-moviles-y-switch-2-1102.jpg",
-    "fecha": "2026-11-03T07:53:15.392851",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-11-02T17:27:25.441063",
     "actualizada": true
   }
 ]
