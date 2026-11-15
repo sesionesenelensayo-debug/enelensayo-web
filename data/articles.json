@@ -1,5 +1,20 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "5 curiosidades de Milo J se quedó con cuatro Latin Grammy",
+    "artista": "Milo J",
+    "intro": "En el video del canal En el Ensayo Media se revelan cinco curiosidades sobre el artista Milo Jata, quien se consagró como el más joven en ganar cuatro Latin Grammy en una sola edición.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-milo-j-se-quedo-con-cuatro-latin-grammy-1114.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-milo-j-se-quedo-con-cuatro-latin-grammy-1114.jpg",
+    "fecha": "2026-11-14T21:00:58.198119",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
     "opinion": true,
     "tipo": "noticia",
     "titulo": "Superman: Man of Tomorrow en crisis: Skydance considera streaming para ahorrar costos",
@@ -5149,20 +5164,6 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-03T14:09:47.386773",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Jisoo de BLACKPINK participará en la película Angry Birds 3",
-    "artista": "Jisoo",
-    "intro": "Jisoo llegará a la película \"Angry Birds 3\" con el lanzamiento de una canción destinada al largometraje.",
-    "telegraph_url": "https://telegra.ph/Jisoo-de-BLACKPINK-participará-en-la-película-Angry-Birds-3-11-05",
-    "url": "https://enelensayomedia.com/notas/jisoo-de-blackpink-participara-en-la-pelicula-angry-birds-3-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/jisoo-de-blackpink-participara-en-la-pelicula-angry-birds-3-1104.jpg",
-    "fecha": "2026-11-04T19:12:15.254194",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   },
   {
     "opinion": false,
