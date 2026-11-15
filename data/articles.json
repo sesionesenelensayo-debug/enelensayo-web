@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Morat anuncia concierto sin telonero y setlist estimado en el Palacio de los Deportes",
+    "artista": "Morat",
+    "intro": "Morat se presentará en el Palacio de los Deportes de la Ciudad de México los días 13, 14, 15 y 17 de noviembre de 2026, como parte del \"Ya Es Mañana World Tour\". Las puertas abrirán a las 6:00 p.m.",
+    "telegraph_url": "https://telegra.ph/Morat-anuncia-concierto-sin-telonero-y-setlist-estimado-en-el-Palacio-de-los-Deportes-11-15",
+    "url": "https://enelensayomedia.com/notas/morat-anuncia-concierto-sin-telonero-y-setlist-estimado-en-el-palacio-1115.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/morat-anuncia-concierto-sin-telonero-y-setlist-estimado-en-el-palacio-1115.jpg",
+    "fecha": "2026-11-15T13:31:35.922958",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Dragon Ball Super: Beerus doblado en español con star talents en medio del debate",
     "artista": "Dragon Ball Super",
     "intro": "El doblaje al español latino de Dragon Ball Super: Beerus se estrenó el 12 de noviembre de 2026 en Crunchyroll…",
@@ -5913,20 +5927,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Marvel y DCU"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Outlander: Blood of My Blood replantea viaje a través de las piedras",
-    "artista": "Outlander: Blood of My Blood",
-    "intro": "La serie Outlander: Blood of My Blood ha anunciado que replanteará uno de sus viajes a través de las piedras, un elemento central de la trama que conecta los destinos de los personajes.",
-    "telegraph_url": "https://telegra.ph/Outlander-Blood-of-My-Blood-replantea-viaje-a-través-de-las-piedras-11-02",
-    "url": "https://enelensayomedia.com/notas/outlander-blood-of-my-blood-replantea-viaje-a-traves-de-las-piedras-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/outlander-blood-of-my-blood-replantea-viaje-a-traves-de-las-piedras-1102.jpg",
-    "fecha": "2026-11-03T11:18:56.342452",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Televisión",
-    "fecha_original": "2026-11-02T09:00:45.465926",
-    "actualizada": true
   }
 ]
