@@ -1,5 +1,22 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Claude Monet, recordado a 186 años de su nacimiento",
+    "artista": "Claude Monet",
+    "intro": "Hoy, 14 de noviembre de 2026, se conmemora el 186 aniversario del nacimiento de Claude Monet, pintor francés y fundador del impresionismo.",
+    "telegraph_url": "https://telegra.ph/Claude-Monet-recordado-a-186-años-de-su-nacimiento-11-14",
+    "url": "https://enelensayomedia.com/notas/claude-monet-recordado-a-186-anos-de-su-nacimiento-1114.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/claude-monet-recordado-a-186-anos-de-su-nacimiento-1114.jpg",
+    "fecha": "2026-11-14T18:09:07.129516",
+    "author": "Oliver Ken",
+    "views": 0,
+    "nota_dia": true,
+    "categoria": "Reportaje",
+    "fecha_original": "2026-11-14T12:03:40.333396",
+    "actualizada": true
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Frostpunk llega a Nintendo Switch el 19 de octubre con demo disponible",
     "artista": "Frostpunk",
@@ -357,21 +374,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Música"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Claude Monet, recordado a 186 años de su nacimiento",
-    "artista": "Claude Monet",
-    "intro": "Hoy, 14 de noviembre de 2026, se conmemora el 186 aniversario del nacimiento de Claude Monet, pintor francés y fundador del impresionismo.",
-    "telegraph_url": "https://telegra.ph/Claude-Monet-recordado-a-186-años-de-su-nacimiento-11-14",
-    "url": "https://enelensayomedia.com/notas/claude-monet-recordado-a-186-anos-de-su-nacimiento-1114.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/claude-monet-recordado-a-186-anos-de-su-nacimiento-1114.jpg",
-    "fecha": "2026-11-14T12:03:40.333396",
-    "author": "Oliver Ken",
-    "views": 0,
-    "nota_dia": true,
-    "categoria": "Reportaje"
   },
   {
     "opinion": false,
