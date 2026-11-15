@@ -11,7 +11,7 @@
     "fecha": "2026-11-15T13:31:35.922958",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Reportaje"
+    "categoria": "Conciertos"
   },
   {
     "opinion": false,
@@ -1474,7 +1474,10 @@
     "fecha": "2026-11-13T11:35:04.675879",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Streaming"
+    "categoria": "Streaming",
+    "fecha_original": "2026-11-13T11:35:04.675879",
+    "ultima_actualizacion": "2026-11-15T13:31:37.331591",
+    "actualizada": true
   },
   {
     "opinion": false,
