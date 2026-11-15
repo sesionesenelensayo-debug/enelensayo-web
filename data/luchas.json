@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-15 08:39",
+ "actualizado": "2026-11-15 15:03",
  "campeones": {
   "WWE": [
    {
@@ -385,7 +385,7 @@
    "promocion": "CMLL",
    "fecha": "2026-11-15",
    "lugar": "ARENA MÉXICO",
-   "ciudad": "Ciudad de México",
+   "ciudad": "",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://cmll.com/cartelera/",
@@ -398,7 +398,7 @@
    "promocion": "CMLL",
    "fecha": "2026-11-16",
    "lugar": "ARENA PUEBLA",
-   "ciudad": "Puebla",
+   "ciudad": "",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://cmll.com/cartelera/",
@@ -411,7 +411,7 @@
    "promocion": "CMLL",
    "fecha": "2026-11-16",
    "lugar": "ARENA MÉXICO",
-   "ciudad": "Ciudad de México",
+   "ciudad": "",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://cmll.com/cartelera/",
@@ -424,7 +424,7 @@
    "promocion": "CMLL",
    "fecha": "2026-11-17",
    "lugar": "ARENA COLISEO DE OCCIDENTE",
-   "ciudad": "Occidente",
+   "ciudad": "",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://cmll.com/cartelera/",
@@ -433,63 +433,11 @@
    "credito_url": "https://cmll.com/cartelera/"
   },
   {
-   "nombre": "Presentación de Alejandra Guzmán",
-   "promocion": "AAA",
-   "fecha": "2026-11-27",
-   "lugar": "Arena CDMX",
-   "ciudad": "Ciudad de México",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.infobae.com/mexico/deportes/2026/06/02/triplemania-34-estos-son-los-precios-de-los-boletos-para-ver-el-evento-mas-importante-de-aaa-en-la-arena-cdmx/",
-   "img": "img/luchas/o-aaa-presentacion-de-alejandra-guzman.jpg",
-   "credito": "Imagen: AAA · infobae.com (sitio oficial)",
-   "credito_url": "https://www.infobae.com/mexico/deportes/2026/06/02/triplemania-34-estos-son-los-precios-de-los-boletos-para-ver-el-evento-mas-importante-de-aaa-en-la-arena-cdmx/"
-  },
-  {
-   "nombre": "Survivor Series: WarGames",
-   "promocion": "WWE",
-   "fecha": "2026-11-28",
-   "lugar": "Daikin Park",
-   "ciudad": "Houston",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://sportsbrackets.net/2026/07/29/2026-wwe-ppv-schedule/",
-   "img": "img/luchas/o-wwe-survivor-series-wargames.jpg",
-   "credito": "Imagen: WWE · sportsbrackets.net (sitio oficial)",
-   "credito_url": "https://sportsbrackets.net/2026/07/29/2026-wwe-ppv-schedule/"
-  },
-  {
-   "nombre": "Últimas noches de 2026",
-   "promocion": "CMLL",
-   "fecha": "2026-12-01",
-   "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/",
-   "img": "img/luchas/o-cmll-ultimas-noches-de-2026.jpg",
-   "credito": "Imagen: CMLL · luchamexicoexperience.com (sitio oficial)",
-   "credito_url": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/"
-  },
-  {
-   "nombre": "Últimas noches de 2026",
-   "promocion": "CMLL",
-   "fecha": "2026-12-06",
-   "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/",
-   "img": "img/luchas/o-cmll-ultimas-noches-de-2026.jpg",
-   "credito": "Imagen: CMLL · luchamexicoexperience.com (sitio oficial)",
-   "credito_url": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/"
-  },
-  {
    "nombre": "AEW Dynamite/Collision: Winter Is Coming",
    "promocion": "AEW",
    "fecha": "2026-12-09",
    "lugar": "Arena Monterrey",
-   "ciudad": "Monterrey, MX",
+   "ciudad": "Monterrey",
    "precio": "desde $502",
    "campeonatos": [],
    "fuente": "https://www.allelitewrestling.com/aew-event/aew-dynamite-collision-winter-is-coming",
@@ -497,23 +445,6 @@
    "img": "img/luchas/o-aew-aew-dynamite-collision-winter-is-coming.jpg",
    "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
    "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
-  },
-  {
-   "nombre": "Wrestle Kingdom 21",
-   "promocion": "NJPW",
-   "fecha": "2027-01-04",
-   "lugar": "Tokyo Dome",
-   "ciudad": "Tokyo",
-   "precio": "",
-   "campeonatos": [
-    "IWGP Junior Heavyweight Championship",
-    "IWGP Global Heavyweight Championship",
-    "IWGP Heavyweight Championship"
-   ],
-   "fuente": "https://en.wikipedia.org/wiki/Wrestle_Kingdom_21",
-   "img": "img/luchas/o-njpw-wrestle-kingdom-21.jpg",
-   "credito": "Imagen: NJPW · wrestlekingdom.njpw.co.jp (sitio oficial)",
-   "credito_url": "https://wrestlekingdom.njpw.co.jp/en/"
   }
  ],
  "fuentes": "Campeones: Wikipedia. Funciones: páginas oficiales y de boletos citadas en cada tarjeta. Fotos: Wikimedia Commons (licencias libres) y sitios oficiales, con crédito en cada imagen."
