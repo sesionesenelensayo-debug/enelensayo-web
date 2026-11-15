@@ -11,7 +11,7 @@
     "fecha": "2026-11-15T14:26:35.720144",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Doblaje",
+    "categoria": "Televisión",
     "fecha_original": "2026-11-15T13:16:55.121987",
     "ultima_actualizacion": "2026-11-15T14:26:35.720144",
     "actualizada": true
@@ -1446,7 +1446,8 @@
     "views": 0,
     "categoria": "Reality",
     "fecha_original": "2026-11-13T12:21:32.127645",
-    "actualizada": true
+    "actualizada": true,
+    "ultima_actualizacion": "2026-11-15T14:35:48.944399"
   },
   {
     "opinion": true,
