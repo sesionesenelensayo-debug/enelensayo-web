@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Denuncian a Ari Telch por daños y hostigamiento en Cuernavaca",
+    "artista": "Ari Telch",
+    "intro": "Mientras los escenarios teatrales han sido históricamente su espacio de reconocimiento, la realidad actual del actor mexicano muestra un giro hacia el ámbito judicial y la controversia pública.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/denuncian-a-ari-telch-por-danos-y-hostigamiento-en-cuernavaca-1113.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/denuncian-a-ari-telch-por-danos-y-hostigamiento-en-cuernavaca-1113.jpg",
+    "fecha": "2026-11-15T07:54:54.033532",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-13T21:04:16.464292",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "'La Gran Sangre: Ojo x Ojo' supera los 30 mil espectadores en su estreno",
     "artista": "La Gran Sangre",
     "intro": "La Gran Sangre: Ojo x Ojo superó los 30 mil espectadores en su primer día en cartelera y lideró la taquilla nacional en su estreno el 12 de noviembre de 2026…",
@@ -823,20 +839,6 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-12T17:17:53.517967",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Denuncian a Ari Telch por daños y hostigamiento en Cuernavaca",
-    "artista": "Ari Telch",
-    "intro": "Mientras los escenarios teatrales han sido históricamente su espacio de reconocimiento, la realidad actual del actor mexicano muestra un giro hacia el ámbito judicial y la controversia pública.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/denuncian-a-ari-telch-por-danos-y-hostigamiento-en-cuernavaca-1113.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/denuncian-a-ari-telch-por-danos-y-hostigamiento-en-cuernavaca-1113.jpg",
-    "fecha": "2026-11-13T21:04:16.464292",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   },
   {
     "opinion": false,
