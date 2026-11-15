@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Bettany y Feige acordaron que VisionQuest valiera por sí misma",
+    "artista": "VisionQuest",
+    "intro": "Paul Bettany reveló en una entrevista con The Playlist que él y Kevin Feige acordaron que VisionQuest debía valerse por sí misma, evitando que Wanda Maximoff tuviera un papel central.",
+    "telegraph_url": "https://telegra.ph/Bettany-y-Feige-acordaron-que-VisionQuest-valiera-por-sí-misma-11-15",
+    "url": "https://enelensayomedia.com/notas/bettany-y-feige-acordaron-que-visionquest-valiera-por-si-misma-1115.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/bettany-y-feige-acordaron-que-visionquest-valiera-por-si-misma-1115.jpg",
+    "fecha": "2026-11-15T14:54:20.326577",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Dragon Ball Super: Beerus doblado en español con star talents en medio del debate",
     "artista": "Dragon Ball Super",
     "intro": "El doblaje al español latino de Dragon Ball Super: Beerus se estrenó el 12 de noviembre de 2026 en Crunchyroll…",
@@ -5918,20 +5932,5 @@
     "nota_dia": true,
     "ultima_hora": true,
     "categoria": "In memoriam"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Arturo de Córdova, a 53 años de su fallecimiento",
-    "artista": "Arturo de Córdova",
-    "intro": "Se recuerda a Arturo de Córdova, actor icónico del cine mexicano, a 53 años de su muerte.",
-    "telegraph_url": "https://telegra.ph/Arturo-de-Córdova-a-53-años-de-su-fallecimiento-11-03",
-    "url": "https://enelensayomedia.com/notas/arturo-de-cordova-a-53-anos-de-su-fallecimiento-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/arturo-de-cordova-a-53-anos-de-su-fallecimiento-1103.jpg",
-    "fecha": "2026-11-03T12:02:57.513379",
-    "author": "Oliver Ken",
-    "views": 0,
-    "nota_dia": true,
-    "categoria": "Reportaje"
   }
 ]
