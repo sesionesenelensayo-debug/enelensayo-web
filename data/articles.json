@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Resultados y análisis de la Lucha Libre AAA del 7 de noviembre de 2026",
+    "artista": "AAA",
+    "intro": "Se ha difundido información sobre la jornada de Lucha Libre AAA del 7 de noviembre de 2026, destacando la cobertura en vivo del enfrentamiento entre El Fiscal y Abismo Negro Jr.",
+    "telegraph_url": "https://telegra.ph/Resultados-y-análisis-de-la-Lucha-Libre-AAA-del-7-de-noviembre-de-2026-11-09",
+    "url": "https://enelensayomedia.com/notas/resultados-y-analisis-de-la-lucha-libre-aaa-del-7-de-noviembre-de-2026-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/resultados-y-analisis-de-la-lucha-libre-aaa-del-7-de-noviembre-de-2026-1109.jpg",
+    "fecha": "2026-11-15T10:12:19.890512",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Luchas",
+    "fecha_original": "2026-11-09T10:09:44.000667",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista",
     "artista": "Aria Vega",
     "intro": "La cantante Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista en la edición de los galardones.",
@@ -3490,20 +3506,6 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-08T16:25:51.021428",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Resultados y análisis de la Lucha Libre AAA del 7 de noviembre de 2026",
-    "artista": "AAA",
-    "intro": "Se ha difundido información sobre la jornada de Lucha Libre AAA del 7 de noviembre de 2026, destacando la cobertura en vivo del enfrentamiento entre El Fiscal y Abismo Negro Jr.",
-    "telegraph_url": "https://telegra.ph/Resultados-y-análisis-de-la-Lucha-Libre-AAA-del-7-de-noviembre-de-2026-11-09",
-    "url": "https://enelensayomedia.com/notas/resultados-y-analisis-de-la-lucha-libre-aaa-del-7-de-noviembre-de-2026-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/resultados-y-analisis-de-la-lucha-libre-aaa-del-7-de-noviembre-de-2026-1109.jpg",
-    "fecha": "2026-11-09T10:09:44.000667",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Luchas"
   },
   {
     "tipo": "reportaje",
