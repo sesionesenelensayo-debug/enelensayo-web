@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Robo nocturno en la finca de Chris Hemsworth y Elsa Pataky en Broken Head",
+    "artista": "Chris Hemsworth",
+    "intro": "El miércoles 11 de noviembre de 2026, cuatro hombres encapuchados irrumpieron en la finca de Chris Hemsworth y Elsa Pataky, ubicada en Broken Head, cerca de Byron Bay, Nueva Gales del Sur.",
+    "telegraph_url": "https://telegra.ph/Robo-nocturno-en-la-finca-de-Chris-Hemsworth-y-Elsa-Pataky-en-Broken-Head-11-15",
+    "url": "https://enelensayomedia.com/notas/robo-nocturno-en-la-finca-de-chris-hemsworth-y-elsa-pataky-en-broken-h-1115.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/robo-nocturno-en-la-finca-de-chris-hemsworth-y-elsa-pataky-en-broken-h-1115.jpg",
+    "fecha": "2026-11-15T14:18:28.043300",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Shakira celebra 25 años de 'Laundry Service' con vinilo limitado",
     "artista": "Shakira",
     "intro": "Shakira lanzó una edición especial de 25 años de 'Laundry Service' en vinilo, un doble LP en color 'Metallic Jawbreaker' con 17 canciones…",
@@ -5915,19 +5929,5 @@
     "views": 0,
     "nota_dia": true,
     "categoria": "Reportaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "VisionQuest capítulo 7 'Immolation' se estrena en Disney+ el 3 de noviembre a las 22 h (BRT)",
-    "artista": "VisionQuest capítulo 7",
-    "intro": "El penúltimo episodio de la serie VisionQuest, titulado \"Immolation\", llega a Disney+ el martes 3 de noviembre de 2026.",
-    "telegraph_url": "https://telegra.ph/VisionQuest-capítulo-7-Immolation-se-estrena-en-Disney-el-3-de-noviembre-a-las-22-h-BRT-11-03",
-    "url": "https://enelensayomedia.com/notas/visionquest-capitulo-7-immolation-se-estrena-en-disney-el-3-de-noviemb-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/visionquest-capitulo-7-immolation-se-estrena-en-disney-el-3-de-noviemb-1103.jpg",
-    "fecha": "2026-11-03T11:21:12.258231",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU"
   }
 ]
