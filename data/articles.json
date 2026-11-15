@@ -1,5 +1,19 @@
 [
   {
+    "opinion": true,
+    "tipo": "noticia",
+    "titulo": "Superman: Man of Tomorrow en crisis: Skydance considera streaming para ahorrar costos",
+    "artista": "Superman: Man of Tomorrow",
+    "intro": "Un rumor persistente en el corazón del DCU sacude a los fans más leales. Según insiders y reportes no confirmados, Skydance podría forzar el estreno directo en streaming de 'Superman…",
+    "telegraph_url": "https://telegra.ph/Superman-Man-of-Tomorrow-en-crisis-Skydance-considera-streaming-para-ahorrar-costos-11-15",
+    "url": "https://enelensayomedia.com/notas/superman-man-of-tomorrow-en-crisis-skydance-considera-streaming-para-a-1114.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/superman-man-of-tomorrow-en-crisis-skydance-considera-streaming-para-a-1114.jpg",
+    "fecha": "2026-11-14T20:54:57.365278",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "El Callejón del Beso: la leyenda de amor y tragedia en el corazón de Guanajuato",
@@ -5902,19 +5916,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "David Byrne destaca a la nueva generación argentina en playlist",
-    "artista": "David Byrne",
-    "intro": "David Byrne, figura central del rock y cofundador de Talking Heads, ha sorprendido al incluir a la nueva generación de artistas argentinos en una de sus playlists.",
-    "telegraph_url": "https://telegra.ph/David-Byrne-destaca-a-la-nueva-generación-argentina-en-playlist-11-03",
-    "url": "https://enelensayomedia.com/notas/david-byrne-destaca-a-la-nueva-generacion-argentina-en-playlist-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/david-byrne-destaca-a-la-nueva-generacion-argentina-en-playlist-1102.jpg",
-    "fecha": "2026-11-02T22:09:04.488389",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   }
 ]
