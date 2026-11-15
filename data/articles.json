@@ -1,5 +1,21 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "'La Gran Sangre: Ojo x Ojo' supera los 30 mil espectadores en su estreno",
+    "artista": "La Gran Sangre",
+    "intro": "La Gran Sangre: Ojo x Ojo superó los 30 mil espectadores en su primer día en cartelera y lideró la taquilla nacional en su estreno el 12 de noviembre de 2026…",
+    "telegraph_url": "https://telegra.ph/La-Gran-Sangre-Ojo-x-Ojo-supera-los-30-mil-espectadores-en-su-estreno-11-14",
+    "url": "https://enelensayomedia.com/notas/la-gran-sangre-ojo-x-ojo-supera-los-30-mil-espectadores-en-su-estreno-1114.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-gran-sangre-ojo-x-ojo-supera-los-30-mil-espectadores-en-su-estreno-1114.jpg",
+    "fecha": "2026-11-15T07:29:03.723901",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-11-14T11:52:58.429241",
+    "actualizada": true
+  },
+  {
     "tipo": "noticia",
     "titulo": "Festival Internacional del Globo 2026 revela su canción oficial",
     "artista": "Festival Internacional del Globo",
@@ -510,20 +526,6 @@
     "categoria": "Música",
     "fecha_original": "2026-11-03T09:17:47.839306",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "'La Gran Sangre: Ojo x Ojo' supera los 30 mil espectadores en su estreno",
-    "artista": "La Gran Sangre",
-    "intro": "La Gran Sangre: Ojo x Ojo superó los 30 mil espectadores en su primer día en cartelera y lideró la taquilla nacional en su estreno el 12 de noviembre de 2026…",
-    "telegraph_url": "https://telegra.ph/La-Gran-Sangre-Ojo-x-Ojo-supera-los-30-mil-espectadores-en-su-estreno-11-14",
-    "url": "https://enelensayomedia.com/notas/la-gran-sangre-ojo-x-ojo-supera-los-30-mil-espectadores-en-su-estreno-1114.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-gran-sangre-ojo-x-ojo-supera-los-30-mil-espectadores-en-su-estreno-1114.jpg",
-    "fecha": "2026-11-14T11:52:58.429241",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   },
   {
     "opinion": false,
