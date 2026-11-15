@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Postcréditos de 'VisionQuest' conecta con 'Vengadores: Doomsday'",
+    "artista": "VisionQuest",
+    "intro": "El episodio final de 'VisionQuest' se estrenó el 10 de noviembre de 2026 en Disney+ e incluyó una escena post-créditos que conecta con 'Vengadores: Doomsday'.",
+    "telegraph_url": "https://telegra.ph/Postcréditos-de-VisionQuest-conecta-con-Vengadores-Doomsday-11-15",
+    "url": "https://enelensayomedia.com/notas/postcreditos-de-visionquest-conecta-con-vengadores-doomsday-1115.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/postcreditos-de-visionquest-conecta-con-vengadores-doomsday-1115.jpg",
+    "fecha": "2026-11-15T17:04:47.151031",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Cómo ver Star Wars: guía definitiva con 36 entregas según cronología",
     "artista": "Star Wars",
     "intro": "Se explica el orden recomendado para seguir la saga con continuidad narrativa y maratón.",
@@ -5916,20 +5930,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Pimpinela llevará su historia al cine con película en 2027",
-    "artista": "Pimpinela",
-    "intro": "El dúo argentino Pimpinela, formado por los hermanos Joaquín y Lucía Galán, llevará su historia al cine. Según NVI Noticias, la película está programada para estrenarse en 2027. Este anuncio marca un ",
-    "telegraph_url": "https://telegra.ph/Pimpinela-llevará-su-historia-al-cine-con-película-en-2027-10-31",
-    "url": "https://enelensayomedia.com/notas/pimpinela-llevara-su-historia-al-cine-con-pelicula-en-2027-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/pimpinela-llevara-su-historia-al-cine-con-pelicula-en-2027-1030.jpg",
-    "fecha": "2026-11-03T13:23:13.201694",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-10-30T19:26:40.738018",
-    "actualizada": true
   }
 ]
