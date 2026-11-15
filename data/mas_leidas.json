@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-14 16:59",
+ "actualizado": "2026-11-14 21:11",
  "general": [
   {
    "titulo": "Polémica por el doblaje de Wildwood",
@@ -160,11 +160,6 @@
     "titulo": "Dragon Ball Super: Beerus – Crítica del capítulo 4 y llegada del doblaje latino",
     "url": "https://enelensayomedia.com/notas/dragon-ball-super-beerus-critica-del-capitulo-4-y-llegada-del-doblaje-1102.html",
     "visitas": 4
-   },
-   {
-    "titulo": "Netflix estrena tráiler de la temporada 6 final de Emily in Paris",
-    "url": "https://enelensayomedia.com/notas/netflix-estrena-trailer-de-la-temporada-6-final-de-emily-in-paris-1114.html",
-    "visitas": 3
    }
   ],
   "marvel y dcu": [
@@ -184,8 +179,8 @@
     "visitas": 6
    },
    {
-    "titulo": "El Daily Bugle asoma en Spider-Man: Brand New Day y apunta a Spider-Man 5",
-    "url": "https://enelensayomedia.com/notas/el-daily-bugle-asoma-en-spider-man-brand-new-day-y-apunta-a-spider-man-1111.html",
+    "titulo": "Feige aclara: Doctor Doom no es una variante de Tony Stark en 'Avengers: Doomsday'",
+    "url": "https://enelensayomedia.com/notas/feige-aclara-doctor-doom-no-es-una-variante-de-tony-stark-en-avengers-1113.html",
     "visitas": 5
    }
   ],
@@ -204,6 +199,11 @@
     "titulo": "WWE Crown Jewel 2026: cartelera estelar y transmisión",
     "url": "https://enelensayomedia.com/notas/wwe-crown-jewel-2026-cartelera-estelar-y-transmision-1108.html",
     "visitas": 4
+   },
+   {
+    "titulo": "Faker critica la preparación de Bilibili Gaming tras eliminación en Worlds 2026",
+    "url": "https://enelensayomedia.com/notas/faker-critica-la-preparacion-de-bilibili-gaming-tras-eliminacion-en-wo-1109.html",
+    "visitas": 3
    }
   ],
   "reality": [
@@ -220,6 +220,11 @@
     "visitas": 5
    },
    {
+    "titulo": "John Cena sorprende en SmackDown 13 nov 2026 y anuncia John Cena Classic",
+    "url": "https://enelensayomedia.com/notas/john-cena-sorprende-en-smackdown-13-nov-2026-y-anuncia-john-cena-class-1114.html",
+    "visitas": 4
+   },
+   {
     "titulo": "CMLL y NJPW confirman plantel para FantasticaMania 2027",
     "url": "https://enelensayomedia.com/notas/cmll-y-njpw-confirman-plantel-para-fantasticamania-2027-1114.html",
     "visitas": 4
@@ -228,10 +233,22 @@
     "titulo": "Soberano Jr y Bandido chocan de nuevo en la Arena México",
     "url": "https://enelensayomedia.com/notas/soberano-jr-y-bandido-chocan-de-nuevo-en-la-arena-mexico-1106.html",
     "visitas": 4
+   }
+  ],
+  "reportaje": [
+   {
+    "titulo": "Claude Monet, recordado a 186 años de su nacimiento",
+    "url": "https://enelensayomedia.com/notas/claude-monet-recordado-a-186-anos-de-su-nacimiento-1114.html",
+    "visitas": 4
    },
    {
-    "titulo": "Resultados y análisis de la Lucha Libre AAA del 7 de noviembre de 2026",
-    "url": "https://enelensayomedia.com/notas/resultados-y-analisis-de-la-lucha-libre-aaa-del-7-de-noviembre-de-2026-1109.html",
+    "titulo": "Brittany Murphy: su legado en el cine y la música",
+    "url": "https://enelensayomedia.com/notas/brittany-murphy-su-legado-en-el-cine-y-la-musica-1110.html",
+    "visitas": 4
+   },
+   {
+    "titulo": "Mito vs realidad: ¿Cristiano es mejor que Messi?",
+    "url": "https://enelensayomedia.com/notas/mito-vs-realidad-cristiano-es-mejor-que-messi-1109.html",
     "visitas": 4
    }
   ],
@@ -240,11 +257,6 @@
     "titulo": "Andrés Calamaro se presenta en el Pepsi Center de la CDMX",
     "url": "https://enelensayomedia.com/notas/andres-calamaro-se-presenta-en-el-pepsi-center-de-la-cdmx-1114.html",
     "visitas": 4
-   },
-   {
-    "titulo": "Morat presenta su gira Yem World Tour en Palacio de los Deportes con shows del 6 al 17 de noviembre",
-    "url": "https://enelensayomedia.com/notas/morat-presenta-su-gira-yem-world-tour-en-palacio-de-los-deportes-con-s-1114.html",
-    "visitas": 3
    }
   ],
   "internacional": [
@@ -263,18 +275,6 @@
    {
     "titulo": "Pokkefriends: de Castelli a Pokkelandia con su primer adelanto",
     "url": "https://enelensayomedia.com/notas/pokkefriends-de-castelli-a-pokkelandia-con-su-primer-adelanto-1112.html",
-    "visitas": 4
-   }
-  ],
-  "reportaje": [
-   {
-    "titulo": "Brittany Murphy: su legado en el cine y la música",
-    "url": "https://enelensayomedia.com/notas/brittany-murphy-su-legado-en-el-cine-y-la-musica-1110.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "Mito vs realidad: ¿Cristiano es mejor que Messi?",
-    "url": "https://enelensayomedia.com/notas/mito-vs-realidad-cristiano-es-mejor-que-messi-1109.html",
     "visitas": 4
    }
   ]
