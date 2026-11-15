@@ -1,6 +1,22 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Maestro Shifu en el afterparty de Karol G",
+    "artista": "Maestro Shifu",
+    "intro": "El streamer Adriano Zendejas, conocido como Maestro Shifu, fue visto en el antro Ambia durante el afterparty de Karol G en Monterrey…",
+    "telegraph_url": "https://telegra.ph/Maestro-Shifu-en-el-afterparty-de-Karol-G-11-08",
+    "url": "https://enelensayomedia.com/notas/maestro-shifu-en-el-afterparty-de-karol-g-1108.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/maestro-shifu-en-el-afterparty-de-karol-g-1108.jpg",
+    "fecha": "2026-11-14T18:45:49.012540",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Streaming",
+    "fecha_original": "2026-11-08T10:42:48.850861",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Faker critica la preparación de Bilibili Gaming tras eliminación en Worlds 2026",
     "artista": "Faker",
@@ -103,22 +119,6 @@
     "views": 0,
     "categoria": "Música",
     "fecha_original": "2026-11-14T10:53:30.218134",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Maestro Shifu en el afterparty de Karol G",
-    "artista": "Maestro Shifu",
-    "intro": "El streamer Adriano Zendejas, conocido como Maestro Shifu, fue visto en el antro Ambia durante el afterparty de Karol G en Monterrey…",
-    "telegraph_url": "https://telegra.ph/Maestro-Shifu-en-el-afterparty-de-Karol-G-11-08",
-    "url": "https://enelensayomedia.com/notas/maestro-shifu-en-el-afterparty-de-karol-g-1108.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/maestro-shifu-en-el-afterparty-de-karol-g-1108.jpg",
-    "fecha": "2026-11-14T16:12:19.675501",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Streaming",
-    "fecha_original": "2026-11-08T10:42:48.850861",
     "actualizada": true
   },
   {
