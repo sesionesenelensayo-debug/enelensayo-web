@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Fallece Juan Islas Mendoza, padre del actor Mauricio Islas",
+    "artista": "Mauricio Islas",
+    "intro": "El actor mexicano Mauricio Islas confirmó el fallecimiento de su padre, Juan Islas Mendoza, ocurrido el viernes 13 de noviembre de 2026 en la Ciudad de México.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/fallece-juan-islas-mendoza-padre-del-actor-mauricio-islas-1115.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-juan-islas-mendoza-padre-del-actor-mauricio-islas-1115.jpg",
+    "fecha": "2026-11-15T09:05:51.766387",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Majo Aguilar debuta en el Auditorio Nacional con Lucero y otros invitados",
     "artista": "Majo Aguilar",
     "intro": "Majo Aguilar debutó el viernes 13 de noviembre de 2026 en el Auditorio Nacional como parte del cierre de su gira 'Se Armó El Baile'.",
@@ -4841,20 +4855,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Jorge Herrera, Don Hermes en Betty, la fea, visita México",
-    "artista": "Jorge Herrera",
-    "intro": "El actor colombiano Jorge Herrera, reconocido por interpretar a Hermes Pinzón Galarza en la telenovela 'Yo soy Betty, la fea'…",
-    "telegraph_url": "https://telegra.ph/Jorge-Herrera-Don-Hermes-en-Betty-la-fea-visita-México-11-06",
-    "url": "https://enelensayomedia.com/notas/jorge-herrera-don-hermes-en-betty-la-fea-visita-mexico-1105.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/jorge-herrera-don-hermes-en-betty-la-fea-visita-mexico-1105.jpg",
-    "fecha": "2026-11-05T21:00:57.605544",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   },
   {
     "opinion": false,
