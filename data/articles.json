@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Kunno pide perdón a Bebeshita tras traición en La Granja VIP",
+    "artista": "Kunno y Bebeshita",
+    "intro": "El 13 de noviembre de 2026, durante el Viernes de Traición de la semana 10 de La Granja VIP 2, Kunno no salvó a Bebeshita, quien fue nominada y lloró al sentirse traicionada por su amigo.",
+    "telegraph_url": "https://telegra.ph/Kunno-pide-perdón-a-Bebeshita-tras-traición-en-La-Granja-VIP-11-14",
+    "url": "https://enelensayomedia.com/notas/kunno-pide-perdon-a-bebeshita-tras-traicion-en-la-granja-vip-1114.html",
+    "imagen_url": "/Volumes/NO NAME/EstudioBot_Exportaciones/trabajo/portadas_img/pres_c12bb3c747.jpg",
+    "fecha": "2026-11-15T09:49:59.625827",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reality",
+    "fecha_original": "2026-11-14T09:06:05.644133",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Armando Colina dona la libreta de bocetos de Diego Rivera al Munal",
     "artista": "Diego Rivera",
     "intro": "El galerista Armando Colina donará al Museo Nacional de Arte (Munal) una libreta de bocetos de Diego Rivera que se titula «Diego Rivera en Juchitán».",
@@ -819,20 +835,6 @@
     "categoria": "Chisme",
     "fecha_original": "2026-11-01T16:33:20.695886",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Kunno pide perdón a Bebeshita tras traición en La Granja VIP",
-    "artista": "Kunno y Bebeshita",
-    "intro": "El 13 de noviembre de 2026, durante el Viernes de Traición de la semana 10 de La Granja VIP 2, Kunno no salvó a Bebeshita, quien fue nominada y lloró al sentirse traicionada por su amigo.",
-    "telegraph_url": "https://telegra.ph/Kunno-pide-perdón-a-Bebeshita-tras-traición-en-La-Granja-VIP-11-14",
-    "url": "https://enelensayomedia.com/notas/kunno-pide-perdon-a-bebeshita-tras-traicion-en-la-granja-vip-1114.html",
-    "imagen_url": "/Volumes/NO NAME/EstudioBot_Exportaciones/trabajo/portadas_img/pres_c12bb3c747.jpg",
-    "fecha": "2026-11-14T09:06:05.644133",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reality"
   },
   {
     "opinion": false,
