@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-15 02:32",
+ "actualizado": "2026-11-15 08:39",
  "campeones": {
   "WWE": [
    {
@@ -203,6 +203,10 @@
     "credito_url": "https://commons.wikimedia.org/wiki/File:%E3%82%B7%E3%83%A5%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%AB%E3%82%A4%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AB%E3%83%BC2024.jpg"
    },
    {
+    "titulo": "NJPW TAMASHII Openweight Championship",
+    "campeon": "Don Fale"
+   },
+   {
     "titulo": "IWGP Tag Team Championship",
     "campeon": "Knock Out Brothers ( Yuto-Ice and Oskar )"
    },
@@ -390,19 +394,6 @@
    "credito_url": "https://cmll.com/cartelera/"
   },
   {
-   "nombre": "Lucha Libre en el México",
-   "promocion": "CMLL",
-   "fecha": "2026-11-15",
-   "lugar": "México",
-   "ciudad": "CDMX",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.sportingnews.com/mx/tsn/news/boletos-cmll-lucha-libre-cdmx-como-comprar-precios/e1b1638bad0cfc205a214b4f",
-   "img": "img/luchas/o-cmll-lucha-libre-en-el-mexico.jpg",
-   "credito": "Imagen: CMLL · sportingnews.com (sitio oficial)",
-   "credito_url": "https://www.sportingnews.com/mx/tsn/news/boletos-cmll-lucha-libre-cdmx-como-comprar-precios/e1b1638bad0cfc205a214b4f"
-  },
-  {
    "nombre": "Especial",
    "promocion": "CMLL",
    "fecha": "2026-11-16",
@@ -429,19 +420,6 @@
    "credito_url": "https://cmll.com/cartelera/"
   },
   {
-   "nombre": "Lucha Libre en el México",
-   "promocion": "CMLL",
-   "fecha": "2026-11-16",
-   "lugar": "México",
-   "ciudad": "CDMX",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.sportingnews.com/mx/tsn/news/boletos-cmll-lucha-libre-cdmx-como-comprar-precios/e1b1638bad0cfc205a214b4f",
-   "img": "img/luchas/o-cmll-lucha-libre-en-el-mexico.jpg",
-   "credito": "Imagen: CMLL · sportingnews.com (sitio oficial)",
-   "credito_url": "https://www.sportingnews.com/mx/tsn/news/boletos-cmll-lucha-libre-cdmx-como-comprar-precios/e1b1638bad0cfc205a214b4f"
-  },
-  {
    "nombre": "Martes",
    "promocion": "CMLL",
    "fecha": "2026-11-17",
@@ -455,108 +433,30 @@
    "credito_url": "https://cmll.com/cartelera/"
   },
   {
-   "nombre": "Martes de Arena México",
-   "promocion": "CMLL",
-   "fecha": "2026-11-17",
-   "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/",
-   "img": "img/luchas/o-cmll-martes-de-arena-mexico.jpg",
-   "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
-   "credito_url": "https://cmll.com/cartelera/"
-  },
-  {
-   "nombre": "Viernes Espectacular",
-   "promocion": "CMLL",
-   "fecha": "2026-11-20",
-   "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/",
-   "img": "img/luchas/o-cmll-viernes-espectacular.jpg",
-   "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
-   "credito_url": "https://cmll.com/cartelera/"
-  },
-  {
-   "nombre": "Domingo Familiar",
-   "promocion": "CMLL",
-   "fecha": "2026-11-22",
-   "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/",
-   "img": "img/luchas/o-cmll-domingo-familiar.jpg",
-   "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
-   "credito_url": "https://cmll.com/cartelera/"
-  },
-  {
-   "nombre": "Martes de Arena México",
-   "promocion": "CMLL",
-   "fecha": "2026-11-24",
-   "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/",
-   "img": "img/luchas/o-cmll-martes-de-arena-mexico.jpg",
-   "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
-   "credito_url": "https://cmll.com/cartelera/"
-  },
-  {
-   "nombre": "Viernes Espectacular",
-   "promocion": "CMLL",
+   "nombre": "Presentación de Alejandra Guzmán",
+   "promocion": "AAA",
    "fecha": "2026-11-27",
-   "lugar": "Arena México",
+   "lugar": "Arena CDMX",
    "ciudad": "Ciudad de México",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/",
-   "img": "img/luchas/o-cmll-viernes-espectacular.jpg",
-   "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
-   "credito_url": "https://cmll.com/cartelera/"
+   "fuente": "https://www.infobae.com/mexico/deportes/2026/06/02/triplemania-34-estos-son-los-precios-de-los-boletos-para-ver-el-evento-mas-importante-de-aaa-en-la-arena-cdmx/",
+   "img": "img/luchas/o-aaa-presentacion-de-alejandra-guzman.jpg",
+   "credito": "Imagen: AAA · infobae.com (sitio oficial)",
+   "credito_url": "https://www.infobae.com/mexico/deportes/2026/06/02/triplemania-34-estos-son-los-precios-de-los-boletos-para-ver-el-evento-mas-importante-de-aaa-en-la-arena-cdmx/"
   },
   {
    "nombre": "Survivor Series: WarGames",
    "promocion": "WWE",
    "fecha": "2026-11-28",
    "lugar": "Daikin Park",
-   "ciudad": "Houston, TX",
+   "ciudad": "Houston",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://sportsbrackets.net/2026/07/29/2026-wwe-ppv-schedule/",
    "img": "img/luchas/o-wwe-survivor-series-wargames.jpg",
    "credito": "Imagen: WWE · sportsbrackets.net (sitio oficial)",
    "credito_url": "https://sportsbrackets.net/2026/07/29/2026-wwe-ppv-schedule/"
-  },
-  {
-   "nombre": "Domingo Familiar",
-   "promocion": "CMLL",
-   "fecha": "2026-11-29",
-   "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/",
-   "img": "img/luchas/o-cmll-domingo-familiar.jpg",
-   "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
-   "credito_url": "https://cmll.com/cartelera/"
-  },
-  {
-   "nombre": "NEO GREEN BOYS Audition",
-   "promocion": "PRO-WRESTLING NOAH",
-   "fecha": "2026-11-30",
-   "lugar": "",
-   "ciudad": "",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.noah.co.jp/",
-   "img": "img/luchas/o-pro-wrestling-noah-neo-green-boys-audition.jpg",
-   "credito": "Imagen: PRO-WRESTLING NOAH · noah.co.jp (sitio oficial)",
-   "credito_url": "https://www.noah.co.jp/"
   },
   {
    "nombre": "Últimas noches de 2026",
@@ -572,19 +472,6 @@
    "credito_url": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/"
   },
   {
-   "nombre": "Viernes Espectacular",
-   "promocion": "CMLL",
-   "fecha": "2026-12-04",
-   "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/",
-   "img": "img/luchas/o-cmll-viernes-espectacular.jpg",
-   "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
-   "credito_url": "https://cmll.com/cartelera/"
-  },
-  {
    "nombre": "Últimas noches de 2026",
    "promocion": "CMLL",
    "fecha": "2026-12-06",
@@ -598,43 +485,18 @@
    "credito_url": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/"
   },
   {
-   "nombre": "Martes de Arena México",
-   "promocion": "CMLL",
-   "fecha": "2026-12-08",
-   "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
-   "precio": "",
+   "nombre": "AEW Dynamite/Collision: Winter Is Coming",
+   "promocion": "AEW",
+   "fecha": "2026-12-09",
+   "lugar": "Arena Monterrey",
+   "ciudad": "Monterrey, MX",
+   "precio": "desde $502",
    "campeonatos": [],
-   "fuente": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/",
-   "img": "img/luchas/o-cmll-martes-de-arena-mexico.jpg",
-   "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
-   "credito_url": "https://cmll.com/cartelera/"
-  },
-  {
-   "nombre": "Viernes Espectacular",
-   "promocion": "CMLL",
-   "fecha": "2026-12-11",
-   "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/",
-   "img": "img/luchas/o-cmll-viernes-espectacular.jpg",
-   "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
-   "credito_url": "https://cmll.com/cartelera/"
-  },
-  {
-   "nombre": "Domingo Familiar",
-   "promocion": "CMLL",
-   "fecha": "2026-12-13",
-   "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/",
-   "img": "img/luchas/o-cmll-domingo-familiar.jpg",
-   "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
-   "credito_url": "https://cmll.com/cartelera/"
+   "fuente": "https://www.allelitewrestling.com/aew-event/aew-dynamite-collision-winter-is-coming",
+   "precio_fuente": "https://mvsnoticias.com/nuevo-leon/2026/11/10/aew-winter-is-coming-en-monterrey-fecha-horarios-y-precios-de-los-boletos-en-la-arena-monterrey-752987.html",
+   "img": "img/luchas/o-aew-aew-dynamite-collision-winter-is-coming.jpg",
+   "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
+   "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
   },
   {
    "nombre": "Wrestle Kingdom 21",
@@ -652,19 +514,6 @@
    "img": "img/luchas/o-njpw-wrestle-kingdom-21.jpg",
    "credito": "Imagen: NJPW · wrestlekingdom.njpw.co.jp (sitio oficial)",
    "credito_url": "https://wrestlekingdom.njpw.co.jp/en/"
-  },
-  {
-   "nombre": "All Elite Wrestling Returns To The United Kingdom For Two Historic Events",
-   "promocion": "AEW",
-   "fecha": "2027-02-01",
-   "lugar": "",
-   "ciudad": "United Kingdom",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.allelitewrestling.com/",
-   "img": "img/luchas/o-aew-all-elite-wrestling-returns-to-the-united-king.jpg",
-   "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
-   "credito_url": "https://www.allelitewrestling.com/"
   }
  ],
  "fuentes": "Campeones: Wikipedia. Funciones: páginas oficiales y de boletos citadas en cada tarjeta. Fotos: Wikimedia Commons (licencias libres) y sitios oficiales, con crédito en cada imagen."

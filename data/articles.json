@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "El enigmático abandono del Mary Celeste: hechos y misterios del bergantín fantasma",
+    "artista": "el naufragio del Mary Celeste",
+    "intro": "Una crónica que recorre la construcción, la travesía, el hallazgo y la investigación del caso que sigue sin explicación definitiva.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-enigmatico-abandono-del-mary-celeste-hechos-y-misterios-del-bergant-1107.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-enigmatico-abandono-del-mary-celeste-hechos-y-misterios-del-bergant-1107.jpg",
+    "fecha": "2026-11-15T08:41:17.004957",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Historias de terror",
+    "fecha_original": "2026-11-07T08:27:25.396247",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Denuncian a Ari Telch por daños y hostigamiento en Cuernavaca",
     "artista": "Ari Telch",
     "intro": "Mientras los escenarios teatrales han sido históricamente su espacio de reconocimiento, la realidad actual del actor mexicano muestra un giro hacia el ámbito judicial y la controversia pública.",
@@ -4318,20 +4334,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme internacional"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "El enigmático abandono del Mary Celeste: hechos y misterios del bergantín fantasma",
-    "artista": "el naufragio del Mary Celeste",
-    "intro": "Una crónica que recorre la construcción, la travesía, el hallazgo y la investigación del caso que sigue sin explicación definitiva.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-enigmatico-abandono-del-mary-celeste-hechos-y-misterios-del-bergant-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-enigmatico-abandono-del-mary-celeste-hechos-y-misterios-del-bergant-1107.jpg",
-    "fecha": "2026-11-07T08:27:25.396247",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror"
   },
   {
     "opinion": false,
