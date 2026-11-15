@@ -1,5 +1,21 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista",
+    "artista": "Aria Vega",
+    "intro": "La cantante Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista en la edición de los galardones.",
+    "telegraph_url": "https://telegra.ph/Aria-Vega-compite-por-el-Latin-Grammy-a-Mejor-Nuevo-Artista-11-10",
+    "url": "https://enelensayomedia.com/notas/aria-vega-compite-por-el-latin-grammy-a-mejor-nuevo-artista-1109.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/aria-vega-compite-por-el-latin-grammy-a-mejor-nuevo-artista-1109.jpg",
+    "fecha": "2026-11-14T19:30:44.517786",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-11-09T21:09:25.354868",
+    "actualizada": true
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Las 10 películas que más dinero perdieron en taquilla recientemente",
     "artista": "las 10 películas que más dinero perdieron (mayores fracasos de taquilla recientes)",
@@ -207,22 +223,6 @@
     "views": 0,
     "categoria": "Música",
     "fecha_original": "2026-11-14T09:41:18.662366",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista",
-    "artista": "Aria Vega",
-    "intro": "La cantante Aria Vega compite por el Latin Grammy a Mejor Nuevo Artista en la edición de los galardones.",
-    "telegraph_url": "https://telegra.ph/Aria-Vega-compite-por-el-Latin-Grammy-a-Mejor-Nuevo-Artista-11-10",
-    "url": "https://enelensayomedia.com/notas/aria-vega-compite-por-el-latin-grammy-a-mejor-nuevo-artista-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/aria-vega-compite-por-el-latin-grammy-a-mejor-nuevo-artista-1109.jpg",
-    "fecha": "2026-11-14T14:30:15.728960",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-09T21:09:25.354868",
     "actualizada": true
   },
   {
