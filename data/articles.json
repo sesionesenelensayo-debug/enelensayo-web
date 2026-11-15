@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Karol G llena el Estadio GNP Seguros en CDMX con su Tropitour 2026",
+    "artista": "Karol G",
+    "intro": "¿Qué ofrece el concierto de Karol G en el Estadio GNP Seguros este fin de semana y por qué es relevante para los fans?",
+    "telegraph_url": "https://telegra.ph/Karol-G-llena-el-Estadio-GNP-Seguros-en-CDMX-con-su-Tropitour-2026-11-15",
+    "url": "https://enelensayomedia.com/notas/karol-g-llena-el-estadio-gnp-seguros-en-cdmx-con-su-tropitour-2026-1115.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/karol-g-llena-el-estadio-gnp-seguros-en-cdmx-con-su-tropitour-2026-1115.jpg",
+    "fecha": "2026-11-15T10:17:47.525792",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Resultados y análisis de la Lucha Libre AAA del 7 de noviembre de 2026",
     "artista": "AAA",
     "intro": "Se ha difundido información sobre la jornada de Lucha Libre AAA del 7 de noviembre de 2026, destacando la cobertura en vivo del enfrentamiento entre El Fiscal y Abismo Negro Jr.",
@@ -5909,20 +5923,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Ecatepec vibra con rap y hip hop en el Festival Cultural “El Viento nos Une”",
-    "artista": "Ecatepec",
-    "intro": "El municipio de Ecatepec de Morelos se convirtió este fin de semana en un escenario de rap y hip hop gracias al Festival Cultural “El Viento nos Une”. El evento, reportado por varios medios, marcó una",
-    "telegraph_url": "https://telegra.ph/Ecatepec-vibra-con-rap-y-hip-hop-en-el-Festival-Cultural-El-Viento-nos-Une-10-31",
-    "url": "https://enelensayomedia.com/notas/ecatepec-vibra-con-rap-y-hip-hop-en-el-festival-cultural-el-viento-nos-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/ecatepec-vibra-con-rap-y-hip-hop-en-el-festival-cultural-el-viento-nos-1031.jpg",
-    "fecha": "2026-11-03T09:19:53.522385",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura",
-    "fecha_original": "2026-10-31T16:20:36.470750",
-    "actualizada": true
   }
 ]
