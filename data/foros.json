@@ -495,6 +495,7 @@
    "lat": 19.3137363,
    "lon": -99.2192061,
    "genero": "Foro con música en vivo",
+   "url": "http://artzpedregal.mx/",
    "auto": true
   },
   {
@@ -505,6 +506,7 @@
    "lat": 19.4396767,
    "lon": -99.1373257,
    "genero": "Foro con música en vivo",
+   "url": "https://www.pulqueriastradicionales.com/",
    "auto": true
   },
   {
@@ -515,6 +517,27 @@
    "lat": 19.3470137,
    "lon": -99.1635698,
    "genero": "Foro con música en vivo",
+   "url": "https://cantinamasiosare.mx/",
+   "auto": true
+  },
+  {
+   "nombre": "Multiforo Alicia",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "",
+   "lat": 19.4529545,
+   "lon": -99.1577081,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "Bar La Cueva",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "",
+   "lat": 19.4281285,
+   "lon": -99.1359729,
+   "genero": "Foro con música en vivo",
    "auto": true
   },
   {
@@ -524,6 +547,16 @@
    "zona": "",
    "lat": 19.4343005,
    "lon": -99.1357777,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "La Nueva Cuba",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "Centro",
+   "lat": 19.4373612,
+   "lon": -99.1379675,
    "genero": "Foro con música en vivo",
    "auto": true
   },
