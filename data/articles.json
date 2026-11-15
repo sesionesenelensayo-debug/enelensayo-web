@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Armando Colina dona la libreta de bocetos de Diego Rivera al Munal",
+    "artista": "Diego Rivera",
+    "intro": "El galerista Armando Colina donará al Museo Nacional de Arte (Munal) una libreta de bocetos de Diego Rivera que se titula «Diego Rivera en Juchitán».",
+    "telegraph_url": "https://telegra.ph/Armando-Colina-dona-la-libreta-de-bocetos-de-Diego-Rivera-al-Munal-11-15",
+    "url": "https://enelensayomedia.com/notas/armando-colina-dona-la-libreta-de-bocetos-de-diego-rivera-al-munal-1115.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/armando-colina-dona-la-libreta-de-bocetos-de-diego-rivera-al-munal-1115.jpg",
+    "fecha": "2026-11-15T09:41:23.333706",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Vadhir Derbez enfrenta investigación legal",
     "artista": "Vadhir Derbez",
     "intro": "Vadhir Derbez enfrenta una denuncia por el presunto delito de violación interpuesta por una modelo estadounidense de 19 años.",
@@ -5905,21 +5919,6 @@
     "views": 0,
     "categoria": "Cultura",
     "fecha_original": "2026-10-31T16:20:36.470750",
-    "actualizada": true
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Julieta Venegas abre el Festival Miquixtli con desfile en Cuernavaca",
-    "artista": "Julieta Venegas",
-    "intro": "Julieta Venegas encabezó la inauguración del Festival Miquixtli en Cuernavaca, ofreciendo un desfile y una presentación estelar, según informó El Sol de México. El evento marca el inicio de la program",
-    "telegraph_url": "https://telegra.ph/Julieta-Venegas-abre-el-Festival-Miquixtli-con-desfile-en-Cuernavaca-10-31",
-    "url": "https://enelensayomedia.com/notas/julieta-venegas-abre-el-festival-miquixtli-con-desfile-en-cuernavaca-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/julieta-venegas-abre-el-festival-miquixtli-con-desfile-en-cuernavaca-1031.jpg",
-    "fecha": "2026-11-03T08:10:11.198657",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura",
-    "fecha_original": "2026-10-31T11:38:10.696270",
     "actualizada": true
   }
 ]
