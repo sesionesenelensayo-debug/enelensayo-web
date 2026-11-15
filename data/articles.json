@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Majo Aguilar debuta en el Auditorio Nacional con Lucero y otros invitados",
+    "artista": "Majo Aguilar",
+    "intro": "Majo Aguilar debutó el viernes 13 de noviembre de 2026 en el Auditorio Nacional como parte del cierre de su gira 'Se Armó El Baile'.",
+    "telegraph_url": "https://telegra.ph/Majo-Aguilar-debuta-en-el-Auditorio-Nacional-con-Lucero-y-otros-invitados-11-15",
+    "url": "https://enelensayomedia.com/notas/majo-aguilar-debuta-en-el-auditorio-nacional-con-lucero-y-otros-invita-1115.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/majo-aguilar-debuta-en-el-auditorio-nacional-con-lucero-y-otros-invita-1115.jpg",
+    "fecha": "2026-11-15T08:43:01.929887",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "El enigmático abandono del Mary Celeste: hechos y misterios del bergantín fantasma",
     "artista": "el naufragio del Mary Celeste",
     "intro": "Una crónica que recorre la construcción, la travesía, el hallazgo y la investigación del caso que sigue sin explicación definitiva.",
@@ -5909,19 +5923,5 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-02T17:27:25.441063",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Fallece Steve Ellis, líder de Love Affair, a los 76 años",
-    "artista": "Steve Ellis",
-    "intro": "Steve Ellis, cantante y rostro de la banda británica Love Affair, murió el viernes 30 de octubre de 2026 a los 76 años.",
-    "telegraph_url": "https://telegra.ph/Fallece-Steve-Ellis-líder-de-Love-Affair-a-los-76-años-11-03",
-    "url": "https://enelensayomedia.com/notas/fallece-steve-ellis-lider-de-love-affair-a-los-76-anos-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-steve-ellis-lider-de-love-affair-a-los-76-anos-1103.jpg",
-    "fecha": "2026-11-03T00:18:57.628528",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
