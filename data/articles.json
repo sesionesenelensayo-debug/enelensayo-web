@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "VisionQuest marca récord de reproducciones en Disney+",
+    "artista": "VisionQuest",
+    "intro": "VisionQuest logra el final más visto de una serie de Marvel en Disney+ desde Loki.",
+    "telegraph_url": "https://telegra.ph/VisionQuest-marca-récord-de-reproducciones-en-Disney-11-15",
+    "url": "https://enelensayomedia.com/notas/visionquest-marca-record-de-reproducciones-en-disney-1115.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/visionquest-marca-record-de-reproducciones-en-disney-1115.jpg",
+    "fecha": "2026-11-15T12:44:14.625080",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "s&box será gratuito tras un lanzamiento fallido",
     "artista": "s&box",
     "intro": "Facepunch Studios anunció que s&box pasará a ser gratuito a finales de año, tras un lanzamiento inicial en Steam el 28 de abril de 2026 que generó críticas mixtas y una baja retención de jugadores.",
@@ -762,8 +776,7 @@
     "views": 0,
     "categoria": "Cultura",
     "fecha_original": "2026-11-12T09:39:31.775081",
-    "actualizada": true,
-    "ultima_actualizacion": "2026-11-15T12:47:58.802386"
+    "actualizada": true
   },
   {
     "opinion": false,
@@ -5910,19 +5923,5 @@
     "categoria": "Escena local",
     "fecha_original": "2026-10-30T10:06:33.225736",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Sandra Bullock habla de la pérdida de Bryan Randall y anuncia su regreso al cine",
-    "artista": "Sandra Bullock",
-    "intro": "La actriz revela detalles del duelo, el cuidado durante la enfermedad y su próximo proyecto en Practical Magic 2.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/sandra-bullock-habla-de-la-perdida-de-bryan-randall-y-anuncia-su-regre-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/sandra-bullock-habla-de-la-perdida-de-bryan-randall-y-anuncia-su-regre-1103.jpg",
-    "fecha": "2026-11-03T10:17:36.325439",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme internacional"
   }
 ]
