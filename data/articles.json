@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "El Callejón del Beso: la leyenda de amor y tragedia en el corazón de Guanajuato",
+    "artista": "el Callejón del Beso y otras leyendas de Guanajuato",
+    "intro": "Un pasaje estrecho, una historia de amor prohibido y una tradición que atrae a visitantes en busca de suerte en el amor.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-callejon-del-beso-la-leyenda-de-amor-y-tragedia-en-el-corazon-de-gu-1114.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-callejon-del-beso-la-leyenda-de-amor-y-tragedia-en-el-corazon-de-gu-1114.jpg",
+    "fecha": "2026-11-14T20:19:06.587113",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Historias de terror"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Faker critica la preparación de Bilibili Gaming tras eliminación en Worlds 2026",
     "artista": "Faker",
     "intro": "El legendario mid laner Faker admitió que Bilibili Gaming estuvo mejor preparado tras la eliminación de su equipo en el Campeonato Mundial de 2026.",
@@ -5902,20 +5916,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades de Nelly",
-    "artista": "Nelly",
-    "intro": "El canal En el Ensayo Media presenta un video de un minuto que detalla cinco curiosidades sobre la vida y carrera de Nelly.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-nelly-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-nelly-1102.jpg",
-    "fecha": "2026-11-02T20:36:18.219681",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Datos curiosos"
   }
 ]
