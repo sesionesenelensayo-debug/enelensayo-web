@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-15 09:43",
+ "actualizado": "2026-11-15 13:32",
  "general": [
   {
    "titulo": "Polémica por el doblaje de Wildwood",
@@ -22,13 +22,13 @@
    "visitas": 8
   },
   {
-   "titulo": "¿Doblaje arruinado? Las duras críticas a Yo soy Rocky por Imitandup",
-   "url": "https://enelensayomedia.com/notas/doblaje-arruinado-las-duras-criticas-a-yo-soy-rocky-por-imitandup-1109.html",
+   "titulo": "Fede Vigevani inaugura la cafetería Cremoso en la Ciudad de México",
+   "url": "https://enelensayomedia.com/notas/fede-vigevani-inaugura-la-cafeteria-cremoso-en-la-ciudad-de-mexico-1110.html",
    "visitas": 7
   },
   {
-   "titulo": "Lola Índigo e IlloJuan desmienten rumores",
-   "url": "https://enelensayomedia.com/notas/lola-indigo-e-illojuan-desmienten-rumores-1108.html",
+   "titulo": "¿Doblaje arruinado? Las duras críticas a Yo soy Rocky por Imitandup",
+   "url": "https://enelensayomedia.com/notas/doblaje-arruinado-las-duras-criticas-a-yo-soy-rocky-por-imitandup-1109.html",
    "visitas": 7
   }
  ],
@@ -62,6 +62,11 @@
     "visitas": 11
    },
    {
+    "titulo": "Rels B anuncia tres conciertos en el Palacio de los Deportes",
+    "url": "https://enelensayomedia.com/notas/rels-b-anuncia-tres-conciertos-en-el-palacio-de-los-deportes-1114.html",
+    "visitas": 5
+   },
+   {
     "titulo": "Maluma anuncia siete conciertos en México",
     "url": "https://enelensayomedia.com/notas/maluma-anuncia-siete-conciertos-en-mexico-1106.html",
     "visitas": 5
@@ -70,11 +75,6 @@
     "titulo": "Peso Pluma participa en el documental de Valentín Elizalde",
     "url": "https://enelensayomedia.com/notas/peso-pluma-participa-en-el-documental-de-valentin-elizalde-1114.html",
     "visitas": 4
-   },
-   {
-    "titulo": "Detienen a Gabito Ballesteros en Querétaro por cantar narcocorridos prohibidos",
-    "url": "https://enelensayomedia.com/notas/detienen-a-gabito-ballesteros-en-queretaro-por-cantar-narcocorridos-pr-1114.html",
-    "visitas": 3
    }
   ],
   "cultura": [
@@ -91,6 +91,11 @@
     "visitas": 8
    },
    {
+    "titulo": "Fede Vigevani inaugura la cafetería Cremoso en la Ciudad de México",
+    "url": "https://enelensayomedia.com/notas/fede-vigevani-inaugura-la-cafeteria-cremoso-en-la-ciudad-de-mexico-1110.html",
+    "visitas": 7
+   },
+   {
     "titulo": "Lola Índigo e IlloJuan desmienten rumores",
     "url": "https://enelensayomedia.com/notas/lola-indigo-e-illojuan-desmienten-rumores-1108.html",
     "visitas": 7
@@ -99,11 +104,6 @@
     "titulo": "Olivia Rodrigo lanza su primera canción navideña original, \"Take Me Home (4 Christmas)\"",
     "url": "https://enelensayomedia.com/notas/olivia-rodrigo-lanza-su-primera-cancion-navidena-original-take-me-home-1107.html",
     "visitas": 6
-   },
-   {
-    "titulo": "José Eduardo Derbez y Paola Dalay anuncian separación",
-    "url": "https://enelensayomedia.com/notas/jose-eduardo-derbez-y-paola-dalay-anuncian-separacion-1101.html",
-    "visitas": 4
    }
   ],
   "doblaje": [
@@ -145,28 +145,6 @@
     "visitas": 3
    }
   ],
-  "televisión": [
-   {
-    "titulo": "Prime Video anuncia su calendario completo de estrenos para noviembre 2026",
-    "url": "https://enelensayomedia.com/notas/prime-video-anuncia-su-calendario-completo-de-estrenos-para-noviembre-1105.html",
-    "visitas": 6
-   },
-   {
-    "titulo": "Sony aspira a que Demon Slayer dure 100 años con estrategia Disney",
-    "url": "https://enelensayomedia.com/notas/sony-aspira-a-que-demon-slayer-dure-100-anos-con-estrategia-disney-1113.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "Dragon Ball Super: Beerus – Crítica del capítulo 4 y llegada del doblaje latino",
-    "url": "https://enelensayomedia.com/notas/dragon-ball-super-beerus-critica-del-capitulo-4-y-llegada-del-doblaje-1102.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "Netflix estrena tráiler de la temporada 6 final de Emily in Paris",
-    "url": "https://enelensayomedia.com/notas/netflix-estrena-trailer-de-la-temporada-6-final-de-emily-in-paris-1114.html",
-    "visitas": 3
-   }
-  ],
   "marvel y dcu": [
    {
     "titulo": "Post-créditos de 'VisionQuest' confirma regreso antes de 'Avengers: Doomsday'",
@@ -179,9 +157,9 @@
     "visitas": 6
    },
    {
-    "titulo": "Glen Powell negocia con DC: ¿Otro parche para un universo sin rumbo?",
-    "url": "https://enelensayomedia.com/notas/glen-powell-negocia-con-dc-otro-parche-para-un-universo-sin-rumbo-1108.html",
-    "visitas": 6
+    "titulo": "Feige aclara: Doctor Doom no es una variante de Tony Stark en 'Avengers: Doomsday'",
+    "url": "https://enelensayomedia.com/notas/feige-aclara-doctor-doom-no-es-una-variante-de-tony-stark-en-avengers-1113.html",
+    "visitas": 5
    },
    {
     "titulo": "El Daily Bugle asoma en Spider-Man: Brand New Day y apunta a Spider-Man 5",
@@ -201,14 +179,33 @@
     "visitas": 4
    },
    {
-    "titulo": "WWE Crown Jewel 2026: cartelera estelar y transmisión",
-    "url": "https://enelensayomedia.com/notas/wwe-crown-jewel-2026-cartelera-estelar-y-transmision-1108.html",
+    "titulo": "Faker critica la preparación de Bilibili Gaming tras eliminación en Worlds 2026",
+    "url": "https://enelensayomedia.com/notas/faker-critica-la-preparacion-de-bilibili-gaming-tras-eliminacion-en-wo-1109.html",
+    "visitas": 3
+   }
+  ],
+  "conciertos": [
+   {
+    "titulo": "Karol G llena el Estadio GNP Seguros en CDMX con su Tropitour 2026",
+    "url": "https://enelensayomedia.com/notas/karol-g-llena-el-estadio-gnp-seguros-en-cdmx-con-su-tropitour-2026-1115.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "Majo Aguilar debuta en el Auditorio Nacional con Lucero y otros invitados",
+    "url": "https://enelensayomedia.com/notas/majo-aguilar-debuta-en-el-auditorio-nacional-con-lucero-y-otros-invita-1115.html",
     "visitas": 4
    },
    {
-    "titulo": "'Dome Keeper' llega a PS5 y Switch el 14 de diciembre",
-    "url": "https://enelensayomedia.com/notas/dome-keeper-llega-a-ps5-y-switch-el-14-de-diciembre-1113.html",
-    "visitas": 3
+    "titulo": "Andrés Calamaro se presenta en el Pepsi Center de la CDMX",
+    "url": "https://enelensayomedia.com/notas/andres-calamaro-se-presenta-en-el-pepsi-center-de-la-cdmx-1114.html",
+    "visitas": 4
+   }
+  ],
+  "reality": [
+   {
+    "titulo": "Niurka habla sobre posible salida de La Granja VIP: 'Me voy contenta'",
+    "url": "https://enelensayomedia.com/notas/niurka-habla-sobre-posible-salida-de-la-granja-vip-me-voy-contenta-1113.html",
+    "visitas": 5
    }
   ],
   "luchas": [
@@ -218,6 +215,11 @@
     "visitas": 5
    },
    {
+    "titulo": "Resultados y análisis de la Lucha Libre AAA del 7 de noviembre de 2026",
+    "url": "https://enelensayomedia.com/notas/resultados-y-analisis-de-la-lucha-libre-aaa-del-7-de-noviembre-de-2026-1109.html",
+    "visitas": 4
+   },
+   {
     "titulo": "John Cena sorprende en SmackDown 13 nov 2026 y anuncia John Cena Classic",
     "url": "https://enelensayomedia.com/notas/john-cena-sorprende-en-smackdown-13-nov-2026-y-anuncia-john-cena-class-1114.html",
     "visitas": 4
@@ -225,11 +227,6 @@
    {
     "titulo": "CMLL y NJPW confirman plantel para FantasticaMania 2027",
     "url": "https://enelensayomedia.com/notas/cmll-y-njpw-confirman-plantel-para-fantasticamania-2027-1114.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "Soberano Jr y Bandido chocan de nuevo en la Arena México",
-    "url": "https://enelensayomedia.com/notas/soberano-jr-y-bandido-chocan-de-nuevo-en-la-arena-mexico-1106.html",
     "visitas": 4
    }
   ],
@@ -250,26 +247,16 @@
     "visitas": 4
    }
   ],
-  "conciertos": [
+  "televisión": [
    {
-    "titulo": "Andrés Calamaro se presenta en el Pepsi Center de la CDMX",
-    "url": "https://enelensayomedia.com/notas/andres-calamaro-se-presenta-en-el-pepsi-center-de-la-cdmx-1114.html",
+    "titulo": "Sony aspira a que Demon Slayer dure 100 años con estrategia Disney",
+    "url": "https://enelensayomedia.com/notas/sony-aspira-a-que-demon-slayer-dure-100-anos-con-estrategia-disney-1113.html",
     "visitas": 4
    },
    {
-    "titulo": "Morat presenta su gira Yem World Tour en Palacio de los Deportes con shows del 6 al 17 de noviembre",
-    "url": "https://enelensayomedia.com/notas/morat-presenta-su-gira-yem-world-tour-en-palacio-de-los-deportes-con-s-1114.html",
-    "visitas": 3
-   },
-   {
-    "titulo": "Multiforo Cultural Alicia publica su cartelera del 14 al 20 de noviembre",
-    "url": "https://enelensayomedia.com/notas/multiforo-cultural-alicia-publica-su-cartelera-del-14-al-20-de-noviemb-1114.html",
-    "visitas": 3
-   },
-   {
-    "titulo": "Karol G arrancó su Tropitour en el GNP con Thalía y hoy da su segundo concierto",
-    "url": "https://enelensayomedia.com/notas/karol-g-ofrece-esta-noche-su-segundo-concierto-en-el-estadio-gnp-1114.html",
-    "visitas": 3
+    "titulo": "Dragon Ball Super: Beerus – Crítica del capítulo 4 y llegada del doblaje latino",
+    "url": "https://enelensayomedia.com/notas/dragon-ball-super-beerus-critica-del-capitulo-4-y-llegada-del-doblaje-1102.html",
+    "visitas": 4
    }
   ],
   "internacional": [
@@ -284,11 +271,11 @@
     "visitas": 4
    }
   ],
-  "reality": [
+  "entrevista": [
    {
-    "titulo": "Mono Osuna usa La Traición y la manda a Bebeshita, queda en placa",
-    "url": "https://enelensayomedia.com/notas/mono-osuna-usa-la-traicion-y-la-manda-a-bebeshita-queda-en-placa-1114.html",
-    "visitas": 3
+    "titulo": "Pokkefriends: de Castelli a Pokkelandia con su primer adelanto",
+    "url": "https://enelensayomedia.com/notas/pokkefriends-de-castelli-a-pokkelandia-con-su-primer-adelanto-1112.html",
+    "visitas": 4
    }
   ]
  }
