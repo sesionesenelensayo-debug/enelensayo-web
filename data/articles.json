@@ -11,7 +11,7 @@
     "fecha": "2026-11-15T13:16:55.121987",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Reportaje"
+    "categoria": "Doblaje"
   },
   {
     "opinion": false,
@@ -2155,7 +2155,10 @@
     "fecha": "2026-11-12T10:22:22.596406",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Luchas"
+    "categoria": "Luchas",
+    "fecha_original": "2026-11-12T10:22:22.596406",
+    "ultima_actualizacion": "2026-11-15T13:30:20.417720",
+    "actualizada": true
   },
   {
     "opinion": false,
