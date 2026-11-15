@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Cómo ver Star Wars: guía definitiva con 36 entregas según cronología",
+    "artista": "Star Wars",
+    "intro": "Se explica el orden recomendado para seguir la saga con continuidad narrativa y maratón.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/como-ver-star-wars-guia-definitiva-con-36-entregas-segun-cronologia-1115.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/como-ver-star-wars-guia-definitiva-con-36-entregas-segun-cronologia-1115.jpg",
+    "fecha": "2026-11-15T16:33:49.725118",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme internacional"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Robo nocturno en mansión de Chris Hemsworth en Australia",
     "artista": "Chris Hemsworth",
     "intro": "En el video publicado por En el Ensayo Media se reporta un intento de robo en la mansión ubicada en las montañas de Broken Head, Australia…",
@@ -5917,21 +5931,5 @@
     "categoria": "Cine",
     "fecha_original": "2026-10-30T19:26:40.738018",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Fallece Nicole Taylor, vocalista de Taylor Red, a los 35 años por cáncer de mama",
-    "artista": "Nicole Taylor",
-    "intro": "La cantante Nicole Taylor, principal voz del trío country Taylor Red, murió a los 35 años tras una lucha contra un cáncer agresivo de mama.",
-    "telegraph_url": "https://telegra.ph/Fallece-Nicole-Taylor-vocalista-de-Taylor-Red-a-los-35-años-por-cáncer-de-mama-11-03",
-    "url": "https://enelensayomedia.com/notas/fallece-nicole-taylor-vocalista-de-taylor-red-a-los-35-anos-por-cancer-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-nicole-taylor-vocalista-de-taylor-red-a-los-35-anos-por-cancer-1103.jpg",
-    "fecha": "2026-11-03T12:44:31.674564",
-    "author": "Oliver Ken",
-    "views": 0,
-    "nota_dia": true,
-    "ultima_hora": true,
-    "categoria": "In memoriam"
   }
 ]
