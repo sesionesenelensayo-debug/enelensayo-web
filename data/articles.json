@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Fallece Lauri 'Cyanide' Happonen, campeón mundial de League of Legends con 16 años",
+    "artista": "Cyanide",
+    "intro": "El exjungla de Fnatic, fallecido el 31 de julio a los 31 años, fue anunciado públicamente el 26 de octubre.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/fallece-lauri-cyanide-happonen-campeon-mundial-de-league-of-legends-co-1116.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-lauri-cyanide-happonen-campeon-mundial-de-league-of-legends-co-1116.jpg",
+    "fecha": "2026-11-16T11:15:13.139177",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Abel Robles eliminado en la primera gala de La Mansión VIP 2",
     "artista": "La Mansión VIP 2",
     "intro": "El reality de La Mansión VIP 2 dio su primera eliminación el domingo 15 de noviembre de 2026, cuando Abel Robles, fisicoculturista e influencer…",
@@ -5918,20 +5932,5 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-03T11:52:43.793889",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "No Man's Sky llega a iPhone y iPad: fecha de lanzamiento y características",
-    "artista": "No Man's Sky",
-    "intro": "Hello Games confirma la fecha de salida para el 28 de octubre de 2026 y detalla las especificaciones de la versión móvil.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/no-man-s-sky-llega-a-iphone-y-ipad-fecha-de-lanzamiento-y-caracteristi-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/no-man-s-sky-llega-a-iphone-y-ipad-fecha-de-lanzamiento-y-caracteristi-1104.jpg",
-    "fecha": "2026-11-04T00:21:37.620265",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Videojuegos"
   }
 ]
