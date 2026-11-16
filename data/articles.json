@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "El documental 'You Can See Everything' recauda US$ 45 millones",
+    "artista": "You Can See Everything",
+    "intro": "El documental 'You Can See Everything' recauda 45 millones de dólares en diez días tras su estreno en cines en octubre de 2026.",
+    "telegraph_url": "https://telegra.ph/El-documental-You-Can-See-Everything-recauda-US-45-millones-11-16",
+    "url": "https://enelensayomedia.com/notas/el-documental-you-can-see-everything-recauda-us-45-millones-1116.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-documental-you-can-see-everything-recauda-us-45-millones-1116.jpg",
+    "fecha": "2026-11-16T14:14:37.638577",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Televisión"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Ebenezer: Los fantasmas de Navidad debuta en taquilla argentina con caída del 47%",
     "artista": "Ebenezer",
     "intro": "Del 12 al 15 de noviembre de 2026, 'Ebenezer: Los fantasmas de Navidad' debutó en la taquilla argentina, alcanzando 22.284 espectadores en 225 salas.",
@@ -5912,19 +5926,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "UCAM Esports presenta su nueva plantilla de VALORANT para 2027 y mantiene la élite nacional",
-    "artista": "UCAM Esports VALORANT 2027",
-    "intro": "El club universitario anuncia entrenadores, jugadores y su continuidad en torneos internacionales bajo el nuevo formato del VCT.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/ucam-esports-presenta-su-nueva-plantilla-de-valorant-para-2027-y-manti-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/ucam-esports-presenta-su-nueva-plantilla-de-valorant-para-2027-y-manti-1104.jpg",
-    "fecha": "2026-11-04T10:18:59.008664",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Esports"
   }
 ]
