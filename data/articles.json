@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Fallece Miguel Ángel Félix Gallardo, 'El Jefe de Jefes', a los 80 años",
+    "artista": "Miguel Ángel Félix Gallardo",
+    "intro": "Miguel Ángel Félix Gallardo, conocido como 'El Jefe de Jefes' y fundador del Cártel de Guadalajara…",
+    "telegraph_url": "https://telegra.ph/Fallece-Miguel-Ángel-Félix-Gallardo-El-Jefe-de-Jefes-a-los-80-años-11-16",
+    "url": "https://enelensayomedia.com/notas/fallece-miguel-angel-felix-gallardo-el-jefe-de-jefes-a-los-80-anos-1115.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-miguel-angel-felix-gallardo-el-jefe-de-jefes-a-los-80-anos-1115.jpg",
+    "fecha": "2026-11-15T18:29:51.334561",
+    "author": "Oliver Ken",
+    "views": 0,
+    "nota_dia": true,
+    "ultima_hora": true,
+    "categoria": "In memoriam"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Petula Clark, 92 años, celebra su legado con 'Downtown' en el Top 1",
     "artista": "Petula Clark: 92 años y sigue activa con 'Downtown' en el To",
     "intro": "Petula Clark, la icónica cantante británica, cumple 92 años y mantiene viva la chispa de su música con 'Downtown' en el Top 1.",
@@ -5912,22 +5928,6 @@
     "views": 0,
     "categoria": "Cultura",
     "fecha_original": "2026-11-03T13:46:58.738413",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Raúl Sandoval regresa a Mazatlán con concierto benéfico “México en el Corazón”",
-    "artista": "Raúl Mora",
-    "intro": "El sábado 14 de noviembre de 2026, el cantante y actor Raúl Sandoval, conocido por su paso por la primera generación de La Academia…",
-    "telegraph_url": "https://telegra.ph/Raúl-Sandoval-regresa-a-Mazatlán-con-concierto-benéfico-México-en-el-Corazón-11-03",
-    "url": "https://enelensayomedia.com/notas/raul-sandoval-regresa-a-mazatlan-con-concierto-benefico-mexico-en-el-c-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/raul-sandoval-regresa-a-mazatlan-con-concierto-benefico-mexico-en-el-c-1103.jpg",
-    "fecha": "2026-11-03T13:45:19.236017",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-03T10:24:51.246371",
     "actualizada": true
   }
 ]
