@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "El Hotel Cecil: crónica de un misterio histórico en el corazón de Los Ángeles",
+    "artista": "el Hotel Cecil de Los Ángeles",
+    "intro": "Un hotel con más de noventa años de historia, cargado de crímenes, desapariciones y leyendas que lo convierten en un caso único de terror sin resolver.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-hotel-cecil-cronica-de-un-misterio-historico-en-el-corazon-de-los-a-1116.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-hotel-cecil-cronica-de-un-misterio-historico-en-el-corazon-de-los-a-1116.jpg",
+    "fecha": "2026-11-16T08:14:34.697400",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Historias de terror"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Cleanser Man, jefe de Mega Man diseñado por fans, debuta en tráiler",
     "artista": "Mega Man: Dual Override",
     "intro": "Capcom presentó a Cleanser Man, el nuevo Robot Master de Mega Man: Dual Override, durante la TwitchCon 2026.",
@@ -5919,20 +5933,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Datos curiosos"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Mito vs Realidad: ¿James Gunn es un éxito en el universo de DC?",
-    "artista": "James Gunn",
-    "intro": "En el video del canal En el Ensayo Media se analiza el mito de que James Gunn salvó a DC, presentando cinco datos y números específicos que, según la producción…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/mito-vs-realidad-james-gunn-es-un-exito-en-el-universo-de-dc-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/mito-vs-realidad-james-gunn-es-un-exito-en-el-universo-de-dc-1103.jpg",
-    "fecha": "2026-11-03T20:07:54.952797",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Cine"
   }
 ]
