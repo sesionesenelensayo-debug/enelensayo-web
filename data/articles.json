@@ -1,5 +1,19 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "Rumor y caos: Man of Tomorrow enfrenta regrabaciones y eliminación de cameos",
+    "artista": "Man of Tomorrow",
+    "intro": "El cine de superhéroes cruza por momentos de incertidumbre absoluta mientras la nueva administración toma las riendas y los reportes sobre cambios drásticos multiplican las dudas.",
+    "telegraph_url": "https://telegra.ph/Rumor-y-caos-Man-of-Tomorrow-enfrenta-regrabaciones-y-eliminación-de-cameos-11-16",
+    "url": "https://enelensayomedia.com/notas/rumor-y-caos-man-of-tomorrow-enfrenta-regrabaciones-y-eliminacion-de-c-1116.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/rumor-y-caos-man-of-tomorrow-enfrenta-regrabaciones-y-eliminacion-de-c-1116.jpg",
+    "fecha": "2026-11-16T16:40:27.162857",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Karol G y Thalía cantan '¿A quién le importa?' en el GNP de CDMX",
@@ -5918,21 +5932,6 @@
     "views": 0,
     "categoria": "Reportaje",
     "fecha_original": "2026-11-04T14:21:29.342827",
-    "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Xelhua gana el Campeonato Rey del Inframundo 2026 en el CMLL",
-    "artista": "Xelhua",
-    "intro": "En la celebración del Día de Muertos en la Arena México, Xelhua se alzó con el Campeonato Rey del Inframundo 2026 del Consejo Mundial de Lucha Libre (CMLL).",
-    "telegraph_url": "https://telegra.ph/Xelhua-gana-el-Campeonato-Rey-del-Inframundo-2026-en-el-CMLL-11-01",
-    "url": "https://enelensayomedia.com/notas/xelhua-gana-el-campeonato-rey-del-inframundo-2026-en-el-cmll-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/xelhua-gana-el-campeonato-rey-del-inframundo-2026-en-el-cmll-1101.jpg",
-    "fecha": "2026-11-04T13:41:34.269841",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Luchas",
-    "fecha_original": "2026-11-01T14:19:24.277773",
     "actualizada": true
   }
 ]
