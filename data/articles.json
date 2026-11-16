@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "AEW Full Gear 2026: 3 cambios de campeonato y regreso de MJF",
+    "artista": "AEW",
+    "intro": "El sábado 14 de noviembre de 2026, AEW Full Gear entregó tres cambios de campeonato y una entrada sorpresa de MJF, quien atacó brutalmente a Will Ospreay tras su defensa.",
+    "telegraph_url": "https://telegra.ph/AEW-Full-Gear-2026-3-cambios-de-campeonato-y-regreso-de-MJF-11-16",
+    "url": "https://enelensayomedia.com/notas/aew-full-gear-2026-3-cambios-de-campeonato-y-regreso-de-mjf-1116.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/aew-full-gear-2026-3-cambios-de-campeonato-y-regreso-de-mjf-1116.jpg",
+    "fecha": "2026-11-16T13:43:01.359591",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "¿Quiénes son los actores de doblaje que reemplazaron a los star talents en 'Wildwood'?",
     "artista": "Danna Alcalá y Erick Selim",
     "intro": "El nuevo doblaje latino de 'Wildwood: El Bosque Salvaje' (LAIKA Studios) sustituyó a figuras públicas como Macarena García, Javier Ibarreche y Natalia Téllez por actores de doblaje profesionales.",
@@ -5914,19 +5928,5 @@
     "categoria": "Marvel y DCU",
     "fecha_original": "2026-11-03T20:26:34.381559",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Sony cancela estreno internacional de 'Klara y el Sol' por baja recaudación",
-    "artista": "Klara y el Sol",
-    "intro": "Sony Pictures ha suspendido indefinidamente el estreno en cines de 'Klara y el Sol' en España, previsto para el 30 de octubre de 2026, tras un debut en EE. UU.",
-    "telegraph_url": "https://telegra.ph/Sony-cancela-estreno-internacional-de-Klara-y-el-Sol-por-baja-recaudación-11-04",
-    "url": "https://enelensayomedia.com/notas/sony-cancela-estreno-internacional-de-klara-y-el-sol-por-baja-recaudac-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/sony-cancela-estreno-internacional-de-klara-y-el-sol-por-baja-recaudac-1104.jpg",
-    "fecha": "2026-11-04T09:00:33.212916",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   }
 ]
