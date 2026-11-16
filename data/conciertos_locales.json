@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16 11:20",
+ "actualizado": "2026-11-16 14:00",
  "eventos": [
   {
    "id": "will-of-one|san-luis-potosi||x",
@@ -10202,6 +10202,38 @@
    "fuente": "Multiforo Digital",
    "tipo": "show",
    "fuente_url": "https://www.facebook.com/jazzatlancapital/posts/pfbid0jJqUJgZfNRvoCCPYjNM416xByJXNownQaxagTYv88avexz3F1dx6YpeWx5gqyNCjl"
+  },
+  {
+   "id": "sangre-de-accion|oaxaca||x",
+   "banda": "Sangre de Acción",
+   "ciudad": "Oaxaca",
+   "estado": "Oaxaca",
+   "lat": 17.0732,
+   "lon": -96.7266,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
+  },
+  {
+   "id": "tai|oaxaca||x",
+   "banda": "Tai",
+   "ciudad": "Oaxaca",
+   "estado": "Oaxaca",
+   "lat": 17.0732,
+   "lon": -96.7266,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
   }
  ]
 }
