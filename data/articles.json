@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "5 curiosidades de Pearl Jam",
+    "artista": "Pearl Jam",
+    "intro": "El canal En el Ensayo Media presenta en su video '5 curiosidades de Pearl Jam' cinco datos poco conocidos sobre la banda, abordando temas como la historia familiar de Eddie Vedder…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-pearl-jam-1115.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-pearl-jam-1115.jpg",
+    "fecha": "2026-11-15T23:10:20.499595",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Datos curiosos"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "La Granja VIP 2: Décima gala de eliminación y nominados",
     "artista": "La Granja VIP 2",
     "intro": "La décima gala de eliminación de La Granja VIP 2 se transmite este domingo 15 de noviembre.",
@@ -5918,19 +5933,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Esports"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Pluribus arranca rodaje de su segunda temporada en Albuquerque",
-    "artista": "Pluribus",
-    "intro": "La serie creada por Vince Gilligan, Pluribus, ha iniciado oficialmente el rodaje de su esperada segunda temporada en Albuquerque.",
-    "telegraph_url": "https://telegra.ph/Pluribus-arranca-rodaje-de-su-segunda-temporada-en-Albuquerque-11-03",
-    "url": "https://enelensayomedia.com/notas/pluribus-arranca-rodaje-de-su-segunda-temporada-en-albuquerque-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/pluribus-arranca-rodaje-de-su-segunda-temporada-en-albuquerque-1103.jpg",
-    "fecha": "2026-11-03T17:50:45.892739",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Televisión"
   }
 ]
