@@ -2,6 +2,23 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Majo Aguilar debuta en el Auditorio Nacional con Lucero y otros invitados",
+    "artista": "Majo Aguilar",
+    "intro": "Majo Aguilar debutó el viernes 13 de noviembre de 2026 en el Auditorio Nacional como parte del cierre de su gira 'Se Armó El Baile'.",
+    "telegraph_url": "https://telegra.ph/Majo-Aguilar-debuta-en-el-Auditorio-Nacional-con-Lucero-y-otros-invitados-11-15",
+    "url": "https://enelensayomedia.com/notas/majo-aguilar-debuta-en-el-auditorio-nacional-con-lucero-y-otros-invita-1115.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/majo-aguilar-debuta-en-el-auditorio-nacional-con-lucero-y-otros-invita-1115.jpg",
+    "fecha": "2026-11-15T19:04:25.702715",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos",
+    "fecha_original": "2026-11-15T08:43:01.929887",
+    "ultima_actualizacion": "2026-11-15T19:04:25.702715",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Fallece Miguel Ángel Félix Gallardo, 'El Jefe de Jefes', a los 80 años",
     "artista": "Miguel Ángel Félix Gallardo",
     "intro": "Miguel Ángel Félix Gallardo, conocido como 'El Jefe de Jefes' y fundador del Cártel de Guadalajara…",
@@ -441,20 +458,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Majo Aguilar debuta en el Auditorio Nacional con Lucero y otros invitados",
-    "artista": "Majo Aguilar",
-    "intro": "Majo Aguilar debutó el viernes 13 de noviembre de 2026 en el Auditorio Nacional como parte del cierre de su gira 'Se Armó El Baile'.",
-    "telegraph_url": "https://telegra.ph/Majo-Aguilar-debuta-en-el-Auditorio-Nacional-con-Lucero-y-otros-invitados-11-15",
-    "url": "https://enelensayomedia.com/notas/majo-aguilar-debuta-en-el-auditorio-nacional-con-lucero-y-otros-invita-1115.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/majo-aguilar-debuta-en-el-auditorio-nacional-con-lucero-y-otros-invita-1115.jpg",
-    "fecha": "2026-11-15T08:43:01.929887",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
   },
   {
     "opinion": false,
