@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Eliminado 12 de Exatlón México y Heliud Pulido podría abandonar el reality hoy 15 de noviembre",
+    "artista": "Exatlón México",
+    "intro": "En la noche de este domingo 15 de noviembre de 2026, Exatlón México enfrenta su duelo de eliminación número 12.",
+    "telegraph_url": "https://telegra.ph/Eliminado-12-de-Exatlón-México-y-Heliud-Pulido-podría-abandonar-el-reality-hoy-15-de-noviembre-11-16",
+    "url": "https://enelensayomedia.com/notas/eliminado-12-de-exatlon-mexico-y-heliud-pulido-podria-abandonar-el-rea-1115.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/eliminado-12-de-exatlon-mexico-y-heliud-pulido-podria-abandonar-el-rea-1115.jpg",
+    "fecha": "2026-11-15T18:13:03.670730",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reality"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Postcréditos de 'VisionQuest' conecta con 'Vengadores: Doomsday'",
     "artista": "VisionQuest",
     "intro": "El episodio final de 'VisionQuest' se estrenó el 10 de noviembre de 2026 en Disney+ e incluyó una escena post-créditos que conecta con 'Vengadores: Doomsday'.",
@@ -5916,19 +5930,5 @@
     "categoria": "Luchas",
     "fecha_original": "2026-11-01T20:44:33.446789",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "La película 'Karateka' lleva la historia de Sandra Sánchez a los cines",
-    "artista": "Sandra Sánchez",
-    "intro": "La historia de Sandra Sánchez llega a las salas de cine con el estreno de la película ‘Karateka’. Así se reportó recientemente, marcando el salto a la gran pantalla de la trayectoria de la artista.",
-    "telegraph_url": "https://telegra.ph/La-película-Karateka-lleva-la-historia-de-Sandra-Sánchez-a-los-cines-11-03",
-    "url": "https://enelensayomedia.com/notas/la-pelicula-karateka-lleva-la-historia-de-sandra-sanchez-a-los-cines-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-pelicula-karateka-lleva-la-historia-de-sandra-sanchez-a-los-cines-1103.jpg",
-    "fecha": "2026-11-03T13:23:51.670009",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   }
 ]
