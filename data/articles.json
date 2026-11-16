@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Aguilar cuestiona el doblaje de 'Yo soy Rocky' con Tomás Galván",
+    "artista": "Víctor Hugo Aguilar",
+    "intro": "El actor de doblaje Víctor Hugo Aguilar publicó en TikTok una crítica al uso de Tomás Galván como voz latina de Sylvester Stallone en 'Yo soy Rocky'.",
+    "telegraph_url": "https://telegra.ph/Aguilar-cuestiona-el-doblaje-de-Yo-soy-Rocky-con-Tomás-Galván-11-16",
+    "url": "https://enelensayomedia.com/notas/aguilar-cuestiona-el-doblaje-de-yo-soy-rocky-con-tomas-galvan-1116.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/aguilar-cuestiona-el-doblaje-de-yo-soy-rocky-con-tomas-galvan-1116.jpg",
+    "fecha": "2026-11-16T17:09:03.840904",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Javier Bardem revela por qué estaba nervioso filando con Julia Roberts",
     "artista": "Javier Bardem sobre Julia Roberts",
     "intro": "El actor español confesó en una entrevista que se sintió intimidado por la presencia de la estadounidense durante la grabación de 'Comer, rezar, amar'.",
@@ -5920,19 +5934,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Marvel y DCU"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "El Cascanueces se presenta gratis en un museo del Centro Histórico de CDMX",
-    "artista": "El Cascanueces",
-    "intro": "El ballet clásico El Cascanueces ofrecerá una función sin costo en un museo del Centro Histórico de la Ciudad de México.",
-    "telegraph_url": "https://telegra.ph/El-Cascanueces-se-presenta-gratis-en-un-museo-del-Centro-Histórico-de-CDMX-11-04",
-    "url": "https://enelensayomedia.com/notas/el-cascanueces-se-presenta-gratis-en-un-museo-del-centro-historico-de-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-cascanueces-se-presenta-gratis-en-un-museo-del-centro-historico-de-1104.jpg",
-    "fecha": "2026-11-04T14:32:32.020353",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   }
 ]
