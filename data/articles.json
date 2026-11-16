@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Miami se transforma en Vice City con anticipación al lanzamiento de GTA VI",
+    "artista": "Grand Theft Auto VI",
+    "intro": "Miami se viste de Vice City a pocos días del lanzamiento de GTA VI. Rockstar Games y la NBA celebran el estreno con experiencias inmersivas…",
+    "telegraph_url": "https://telegra.ph/Miami-se-transforma-en-Vice-City-con-anticipación-al-lanzamiento-de-GTA-VI-11-16",
+    "url": "https://enelensayomedia.com/notas/miami-se-transforma-en-vice-city-con-anticipacion-al-lanzamiento-de-gt-1116.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/miami-se-transforma-en-vice-city-con-anticipacion-al-lanzamiento-de-gt-1116.jpg",
+    "fecha": "2026-11-16T15:22:01.995991",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Flor Vigna cambia su look antes de su primer proyecto en Estados Unidos",
     "artista": "Flor Vigna",
     "intro": "Flor Vigna sorprendió a sus seguidores el 15 de noviembre al publicar en Instagram un nuevo look con cabello largo y rojo intenso…",
@@ -5918,19 +5932,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Misterio"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Janis Joplin muere en el Landmark Motor Hotel el 4 de octubre de 1970",
-    "artista": "Janis Joplin: el misterio de su muerte en el Landmark Hotel",
-    "intro": "El domingo 4 de octubre de 1970, la cantante Janis Joplin fue encontrada sin vida en la habitación 105 del Landmark Motor Hotel de Los Ángeles.",
-    "telegraph_url": "https://telegra.ph/Janis-Joplin-muere-en-el-Landmark-Motor-Hotel-el-4-de-octubre-de-1970-11-04",
-    "url": "https://enelensayomedia.com/notas/janis-joplin-muere-en-el-landmark-motor-hotel-el-4-de-octubre-de-1970-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/janis-joplin-muere-en-el-landmark-motor-hotel-el-4-de-octubre-de-1970-1104.jpg",
-    "fecha": "2026-11-04T13:08:46.686839",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
