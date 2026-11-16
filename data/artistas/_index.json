@@ -1,5 +1,12 @@
 [
   {
+    "artista": "Lucero",
+    "slug": "lucero",
+    "imagen": "artistas_img/lucero.jpg",
+    "piezas": 1,
+    "updated": "2026-11-16 12:04"
+  },
+  {
     "artista": "Pampita",
     "slug": "pampita",
     "imagen": "artistas_img/pampita.jpg",

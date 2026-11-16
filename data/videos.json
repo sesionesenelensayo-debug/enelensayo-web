@@ -63,6 +63,11 @@
   ],
   "longs": [
     {
+      "id": "https://www.youtube.com/@enelensayomedia",
+      "titulo": "¿Cuál es el verdadero legado de Lucero? La historia completa",
+      "fecha": "2026-11-16"
+    },
+    {
       "id": "BxBGl_8anPo",
       "titulo": "Pampita y Martín Pepa reaparecen juntos: ¡Desmienten rumores de separación!",
       "fecha": "2026-11-16"
@@ -86,11 +91,6 @@
       "id": "EcKj36Nk4mY",
       "titulo": "¿Cómo nació el coloso del rock? | La historia secreta de Genesis",
       "fecha": "2026-11-13"
-    },
-    {
-      "id": "wjuXqxJMREc",
-      "titulo": "¿Por qué abandonó la música? La historia verdadera de Phil Collins",
-      "fecha": "2026-11-12"
     }
   ],
   "podcast": []

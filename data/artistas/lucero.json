@@ -1,0 +1,16 @@
+{
+  "artista": "Lucero",
+  "slug": "lucero",
+  "imagen": "artistas_img/lucero.jpg",
+  "shorts": [],
+  "longs": [
+    {
+      "titulo": "¿Cuál es el verdadero legado de Lucero? La historia completa",
+      "url": "https://www.youtube.com/@enelensayomedia",
+      "fecha": "2026-11-16",
+      "tipo": "long"
+    }
+  ],
+  "tweets": [],
+  "updated": "2026-11-16 12:04"
+}
