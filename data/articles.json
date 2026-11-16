@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Emma Watson se cae al llegar a fiesta de GQ en Hollywood",
+    "artista": "Emma Watson",
+    "intro": "Emma Watson se cayó al llegar a la 31ª fiesta anual de los Hombres del Año de GQ en el Chateau Marmont de Los Ángeles, celebrada el jueves 14 de noviembre de 2026.",
+    "telegraph_url": "https://telegra.ph/Emma-Watson-se-cae-al-llegar-a-fiesta-de-GQ-en-Hollywood-11-16",
+    "url": "https://enelensayomedia.com/notas/emma-watson-se-cae-al-llegar-a-fiesta-de-gq-en-hollywood-1115.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/emma-watson-se-cae-al-llegar-a-fiesta-de-gq-en-hollywood-1115.jpg",
+    "fecha": "2026-11-15T20:11:15.250905",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Karol G llena el Estadio GNP Seguros en CDMX con su Tropitour 2026",
     "artista": "Karol G",
     "intro": "¿Qué ofrece el concierto de Karol G en el Estadio GNP Seguros este fin de semana y por qué es relevante para los fans?",
@@ -5917,22 +5931,6 @@
     "views": 0,
     "categoria": "Marvel y DCU",
     "fecha_original": "2026-11-02T09:43:51.603932",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "El Ratón Vaquero cumple 90 años de historia",
-    "artista": "Cri-Cri",
-    "intro": "El icónico «Ratón Vaquero» alcanza nueve décadas de existencia mientras la obra de Cri-Cri se mantiene plenamente vigente, según se reporta.",
-    "telegraph_url": "https://telegra.ph/El-Ratón-Vaquero-cumple-90-años-de-historia-11-03",
-    "url": "https://enelensayomedia.com/notas/el-raton-vaquero-cumple-90-anos-de-historia-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-raton-vaquero-cumple-90-anos-de-historia-1103.jpg",
-    "fecha": "2026-11-03T15:35:48.823922",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura",
-    "fecha_original": "2026-11-03T13:46:58.738413",
     "actualizada": true
   }
 ]
