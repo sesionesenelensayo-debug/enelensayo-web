@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Juan García compite en 'Los juegos del hambre' de MrBeast y queda eliminado",
+    "artista": "Juan García",
+    "intro": "El sábado 14 de noviembre de 2026 MrBeast lanzó su nuevo video de \"Los juegos del hambre\", donde el creador mexicano Juan García, oriundo de Santa María Xigui, Hidalgo…",
+    "telegraph_url": "https://telegra.ph/Juan-García-compite-en-Los-juegos-del-hambre-de-MrBeast-y-queda-eliminado-11-16",
+    "url": "https://enelensayomedia.com/notas/juan-garcia-compite-en-los-juegos-del-hambre-de-mrbeast-y-queda-elimin-1116.html",
+    "imagen_url": "/Volumes/NO NAME/EstudioBot_Exportaciones/trabajo/portadas_img/pres_414b924036.jpg",
+    "fecha": "2026-11-16T10:16:52.858189",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Live Streaming"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Ryan Reynolds y Hugh Jackman aparecen en créditos de escritura de Avengers: Doomsday",
     "artista": "Avengers: Doomsday",
     "intro": "¿Podrán Deadpool y Lobezno regresar en la próxima entrega de los Vengadores? Un inesperado listado muestra a Ryan Reynolds y Hugh Jackman en los créditos de escritura de Avengers…",
@@ -5919,19 +5933,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "El Monasterio de Santa Mónica: historia, arquitectura y leyendas del Desierto de los Leones",
-    "artista": "el Monasterio de Santa Mónica del Desierto de los Leones",
-    "intro": "Desde su fundación en 1605 hasta su abandono, el ex convento de Santa Mónica guarda secretos, estructuras únicas y relatos que desafían la realidad.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-monasterio-de-santa-monica-historia-arquitectura-y-leyendas-del-des-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-monasterio-de-santa-monica-historia-arquitectura-y-leyendas-del-des-1103.jpg",
-    "fecha": "2026-11-03T21:20:04.411277",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror"
   }
 ]
