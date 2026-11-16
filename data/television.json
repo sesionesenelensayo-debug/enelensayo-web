@@ -1,5 +1,5 @@
 {
- "actualizado": "16/11/2026 05:04",
+ "actualizado": "16/11/2026 11:04",
  "recomendadas": [
   {
    "slug": "spartacus",
@@ -14,18 +14,6 @@
    "tipo": "Serie",
    "alias": "outlander(?!:? blood)(?!.{0,12}blood of my blood)",
    "noticias": [
-    {
-     "titulo": "Mitsubishi baja de forma radical el precio del Outlander PHEV",
-     "medio": "Motor1.com España",
-     "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xRlctYV9zTUxKaXlvZGdrSkZOWUd4N25Mamw2dExmNjd3cXBBVkJQNXVsZnVCOXFvdjYxNGhOZmRnOUtYcDZhUldiZXpWd2Z4aEhwQVRvQUtIOHNRWXNNM0QwckNyUFZEVmh4TmRJeWNJTW5tOE14Mk55STM?oc=5",
-     "fecha": "2026-11-15"
-    },
-    {
-     "titulo": "Nissan X-Trail frente a Mitsubishi Outlander: duelo de SUV familiares híbridos con siete plazas en 2026",
-     "medio": "Highmotor",
-     "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZlJKdjNqTkpwdEduRkttTjNyNk1ZQ3RDTklsWm14dnZHNFFXVEpGckJSd0ZfU050MmlRSWtEeVYyWFgzcDMxOFcyRHVyNzlEYmRfZjJ2dzdzcGFaWmhqRmVwS1hHbjlhSHRlMGRHZFBqZV9DS0RTcEtIRUl3dUhOcXd5MW9rQmxodzBadjI2NXByeldORzhKWUt1a1MyRGlrT0JINE13WGQzRWtq?oc=5",
-     "fecha": "2026-11-11"
-    },
     {
      "titulo": "Análisis de Outlander: Sangre de mi Sangre. Temporada 2. Episodio 8",
      "medio": "Las cosas que nos hacen felices",
@@ -107,6 +95,12 @@
    "alias": "\\bscrubs\\b",
    "noticias": [
     {
+     "titulo": "Scrubs temporada 2 episodio 8: cuando J.D. entra en modo The Pitt",
+     "medio": "Foro3D",
+     "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMHdIY0dCc2s4UVh3b1BBMXhyMUZkWnBQYzVfMUlVeWxNMHRnZjR0SVJjU3pDQkExSXVIM2ZTZXRSZXUxYXBuSTREeVlpTklNRTdHWndDVXdmN1R3Y2xWY2pRX2N2OUhlclZxcGs4aTI2amF1bmwwNHc0bzNocjJFQ2ZBWFZCT29xNTZ3ZXVOYXNzaVdhcjR0ZEJ4dnlqb1J1bXNn?oc=5",
+     "fecha": "2026-11-16"
+    },
+    {
      "titulo": "Scrubs: la temporada 2 del regreso de J.D. y Turk llega a Disney+",
      "medio": "Sortir à Paris",
      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNOTl0MGJvRDZkNGxjTjBIRGF0dnZoZEFZTG1TRmZucDJKUjRPc2lCbmRiblpOWG5YeDFud3FJQzRWSVVJQnM3YUw3OHc1NkxUR05OaWtBTW55ZVd1OGc4V3RUbTc4b3hTSVBrZnZxekI0OXdfdlhiMEpFWkF2UDY1d3RZQkFTcVNlVEhBOXo4MzEwZ0ZYdEl4aWlXYVBRNnhNTGxvVHJJcjdoN3lDanZRMHlfNklfZFVqV3V3VE1BMHRjWWJ1am5CczUyb1lUejRiNHpFV2ZtUlNZZVk?oc=5",
@@ -153,6 +147,12 @@
    "alias": "blood of my blood",
    "noticias": [
     {
+     "titulo": "Outlander: Blood Of My Blood's Ellen Singlehandedly Saves The Day, And Does Anyone Say Thank You? — Read Episode 8 Recap",
+     "medio": "IMDb",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFaEJBZmYxbEg1aUowUUJwdEVUdWtETmd2aGgwZUNlZHNUdE1SejMzTzRUbU1qUUtxeDUyRkswUXJNNXFsM3l6QllGbTJKZXU3a1E?oc=5",
+     "fecha": "2026-11-16"
+    },
+    {
      "titulo": "‘Outlander: Blood of My Blood’ Stars Explain Series & Behind-the-Scenes Lore",
      "medio": "IMDb",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzel9qS3JaZGw2T1k4WHZJZ3FpZVZYbWNhOU1CaGxDdUM5U1BvRTk5WTlaV3VBdnY2cmxVcGk4cktBRFlES1N6eFktaXRMRk5oSExtWXVoR2hEaWRFTG1CZkNOYTlVbXc2YXc?oc=5",
@@ -163,12 +163,6 @@
      "medio": "VADER News",
      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQX3hiOHhHT1o2Y2VlQnd6b09Ic19Id1M1UXNwY2E3M1NvRWx4dnppMWZldFVUTlliZ1NhVkktVDdTRHJzaW1uSGk0bk5jNGF3a3QwOEw4bzc1bHM4ZGVRZnhWM2t6SW91X25pcUhzWkxkZEhrLWlSMHZDTExiYXFwZU9maHlDa2t3THJVb2o0dVc0VFd5emhtNzFvSlp6V1RnYmoxaU1SNWphREljZDNEdWUyX2JPQmZveXo1aEdfNnJ3Qjl6cFZsSS12ZDJ0R0s0NlZDclJQQmk3NGc?oc=5",
      "fecha": "2026-11-13"
-    },
-    {
-     "titulo": "Outlander: Blood of My Blood vuelve con su segunda temporada en MagentaTV+",
-     "medio": "Foro3D",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS01rWU96Mk16UWxiOGRMdWZoME1zQzhZWVUtQk54M25UbFJxMG52aGx6ajY1S3pSY3RHZnhadUNWZHlCVjJFdEJLazRmajJhWVJrYXJRQm1XM1lHTVBqZVlYOWdIRThDSEJTenppQmdHRlo4NS1oTVdkMHdVbE5QbzJNTFhXSXYtMk9zYTV0cVFidTc0eUxJc1ZTUDdIeU92LTdnWjRnUEdQUjRXLVE?oc=5",
-     "fecha": "2026-11-10"
     }
    ]
   },
@@ -193,16 +187,16 @@
    "alias": "demon slayer|kimetsu",
    "noticias": [
     {
-     "titulo": "Solo Leveling: 5 Demon Slayer Hashira Who Qualify as S-Rank Hunters, Ranked",
-     "medio": "IMDb",
-     "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5ZdGVQbGxRbTNQV3B3YWhCMmxoSUFGMEM2Q2FBS1FJNXgtS2p3RW5yQzBwRTJObHRsWkRna1VRUjdqWmwwZnN3a1lqNm9tWUF3WGh0U0xCTWhoUjJPTW9LOENJbUc2TVVJeDBB?oc=5",
-     "fecha": "2026-11-15"
-    },
-    {
      "titulo": "Sony y Crunchyroll quieren exprimir al máximo el anime de Kimetsu no Yaiba: \"Queremos que dure 10, 20 o 100 años\"",
      "medio": "VidaExtra",
      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOUEtsa2Y0OV92aG1TMFpZZVlIejh4dUVRMkwxNzdaWGlIRERIM080MWZ3STdaM3FGTEc1c0l3VWZBUkYtLWxRSWgtTGRPdnZ2VmN1cS1CZ09xUzN1Y3RLVnlWYWgyMGlVYnFyVk5ycjVnRzZNMlM2VlJPVEUxQWNJeEZwb21jenlZUnRfUFRsLTQ1MWFvZWZRcFlqWnNMYWw0THp4d016bzhzcUZBYmk4aVdZRTJCSUZUNlVTX0tXcWpabTRfRlFHc3JZZTI?oc=5",
      "fecha": "2026-11-14"
+    },
+    {
+     "titulo": "Sony quiere que Demon Slayer dure 100 años, al igual que Dragon Ball y One Piece.",
+     "medio": "Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOM1hEQzVHVy1YS3pfNFNQak50Z2dtS0xJbXRtajR0VnFXWDRFcFMwbHFQRk91RDZLWGVXcVc5QTYxQ2gtSlBwUmFnV0ZMU2NxSEY0M2E4LXd5bGtENDlmajhLYlo2QU00N284WUpFQlpkUHpJTDl5dVJzeVBsVkQ3bG1rRDVvRTRmdHVySVJmTExtd0tHdGdwUTdOdDA5QQ?oc=5",
+     "fecha": "2026-11-13"
     },
     {
      "titulo": "Demon Slayer: cada una de las temporadas y películas del anime antes de Infinity Castle Parte 2",
@@ -354,22 +348,22 @@
    "alias": "\\bnarcos\\b",
    "noticias": [
     {
+     "titulo": "Murió Félix Gallardo, el “jefe de jefes” del narco mexicano que inspiró Narcos: México",
+     "medio": "Enterate Noticias",
+     "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY0x6MHBBRFE5M3pMc2x3bmZoek80TlpHRzF3UHB4a2dFTGJxUzZYc1NyNHNFYVZVWUhISUZyRUxVQ21OQnJLSnBwY0g1dmR6Wk9waWNCWHlOdXVmUl9DV3NjV3dzMHFWcWFuSWd5Y3VTS1lPLWVOZF9TQ0JnNTAyM2d0QXRPVEotMVE?oc=5",
+     "fecha": "2026-11-16"
+    },
+    {
+     "titulo": "Las declaraciones de Diego Luna sobre Félix Gallardo después de interpretarlo en la serie ‘Narcos México’",
+     "medio": "Infobae",
+     "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOcGVMQU9rcG10b2g3TTJHYVVqNFdGNUdjNm5wbkd6Y1JBZ3N3R1FOYndvSjFqSHpWZTFfUVRyei1FQ1BJZ0w1b0Mtb2RMaXhvbmpIbjBEdnc3TEFmZF9EV2h4V2pNLTBieU1UWThtdWRwRnVTa0V1NmJtbkVVSzQwUHluRWNILWZ4cWpQMFlDaGZpSTZjNFl6WjNjRG0wN08tbkUza3NtR1lxSDY1MGJGeGhWQkZnbVZmWVpSWC00NjNXdVVDNk9YbXpNYUxDTFZIeWxJcTNVMkZHOXZPM08w0gH6AUFVX3lxTE1NeG5ITEktSFE2dlV4OTJMTEhMamx3OEVWUXhOLUdURWljT2Nic281SHdfQVhFQnBpUUczc0lJaXU2dTBEOEw1NG1FN2hBZmV6cE9wVzhNWFJZb2RDME51VVVabEotWUJrcVJBdEU1SnVQajZMR3pHMllSOWV3WjdfVmdBZ2U4b3FacUdRSlVwSzJYdmJzZUQwR01PUDhZR2xkT1dLckZsMWo4ZjhxQzZvdG44cnAtaXBFU1ZtUU95aWd1VzYySmRZcFFsY0VCNzRtUGduQzM3RFczRVJKcXVhWWNKaU5MSHoya2gxb0V2aHhTTFNqVVhFWHc?oc=5",
+     "fecha": "2026-11-16"
+    },
+    {
      "titulo": "La opinión de Miguel Ángel Félix Gallardo sobre Narcos México, la serie basada en su vida y el personaje de Diego Luna",
      "medio": "Infobae",
      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPem5IVXY3SHhwRGdIbkpPQUU4TlVlT1pqMllST0hDS1JEU3EySkQ4WUotZDJMOUFfYzFQQ1VkTW16MFk3YzZPcjZqbVNyZEIzYVhOQWZWTVJ4QzMxRzM3STJtQk5Kd2RPTl9UY1RLUkJXOWp0d25KWU5jc1l1LWhFbkotVHA0RlI5eTFnVUFmQ1RwZ2xNXzdBbGZ6YVc1MHJ3N2JId2ZyOEV6bi0wTjZJcmRkei1rWmlQN1RQb0lPUy1LUG5saGkxUHQta1o5cFVPTlcwWUQzdnVObzVNU0FIUkdrODlzRU5iSGtNV2xiaHIwd9IBjAJBVV95cUxPcVZ1LUgxUFNneXNYTkpxdkx6b3lHZUdlcmVMa3NyUVh2SGk2RkEwc2I4TVkzUG9uYU8wak8tZnJxZHdvQUI4bGt2cjhLZ21LY0p6N0M2VjQxcVVWTXJZWklfSXpwQjdDTlotUklJTEY4TEQtTFpCZ1ZfczJQd2g2ZEdRbWtvbGdMRnRRcVVBTW54ckVEM0NhbENtN1JmNGxCOGUzenNVaGNWN3VXdmhLeUpWMTI2WG14MFNjb3hLRDZwOXVmTHlXamlnR2x6Um4yV2o4cFdQbXRmdko4RU1KbTZTbVFZbXhXQjU5WXFBV0pvbDUyc0p2MWhyUzdCUlRQanB1NmVJTHBnZm1O?oc=5",
      "fecha": "2026-11-16"
-    },
-    {
-     "titulo": "Muere Miguel Ángel Félix Gallardo, el 'Jefe de Jefes' del narcotráfico que inspiró la serie 'Narcos'",
-     "medio": "MARCA",
-     "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOOUY3cG1BLWtGNHNYTWVyTmNEZ1NEQ2daMmdjSGVHYlRtRUJjOEhlNERfVDNGclBKMHp1bFJ5cFpqLW1rNlRtaS01c2pNX21DQ2s4T2ZPOFc3QXVyN3FyVXhITG1TM09Pd3hXRm4xYVdTRHhiSmRDNEJmd1A4X2wtRWhzaGdVb3pLem1vQ1BxLWhQNXo5NDhlZFRnUFVxemNUTFBJaG1OdkFvblVSRHdyUzVCZ1BqQ3I1aWV5emVCWFFqWHotTWJ5Q0RyNW9WTEk1Q1HSAdIBQVVfeXFMTkNwSXFfY3NOTi1CUGx5ZHU4NGVzUkxUelhYeWZxSkpLNWhNQ052LVVwSDFwNHJkVldWRENjaERPdlFmNE1PVzl5RkRRR2JoSnY5dDN1Tm1CTEd0WTR2RGtBb2doMkkwU2h6RGgydGFYWWJGVkVjMm9CWGZsZFZjclNjT0VWZW5RZEVkM1JmNjVDRUV2R2Q3ZC1YMFRZQXIzWTBZaTE4ZENueURadVZ4TzRtNnhoN09FNG10Y1FQYTFlakhmeWhoc3lWZVRBMm14WFBB?oc=5",
-     "fecha": "2026-11-16"
-    },
-    {
-     "titulo": "Muere el narcotraficante Miguel Ángel Félix Gallardo: así fue el papel de Diego Luna en la serie de Netflix 'Narcos México'",
-     "medio": "Eje Central",
-     "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdVpGTlRjcG9xZmdBcHpmTHlOZTdsOGVodDZaemllVmJhQTl3OFczTEtiUlhHMUFTcjJuRG5ydzJvRkhZejNYV0E0TDhrbThsQ2JVdm1iUldpLU5Lb3UtMm91dHZGUGt5OC1RSHp2ekduRWNZRmFhVGY5a2Q5cWZHLXlOLWFhcHhpbEhsOXNvcUxIMHRVX2U2bTM0WUR1dzFtT2Frd2loN3otVGFHQ3pnWlhIbU5Sb0FY?oc=5",
-     "fecha": "2026-11-15"
     }
    ]
   },
@@ -411,6 +405,12 @@
    "oliver": true,
    "noticias": [
     {
+     "titulo": "Outlander: Blood Of My Blood's Ellen Singlehandedly Saves The Day, And Does Anyone Say Thank You? — Read Episode 8 Recap",
+     "medio": "IMDb",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBFaEJBZmYxbEg1aUowUUJwdEVUdWtETmd2aGgwZUNlZHNUdE1SejMzTzRUbU1qUUtxeDUyRkswUXJNNXFsM3l6QllGbTJKZXU3a1E?oc=5",
+     "fecha": "2026-11-16"
+    },
+    {
      "titulo": "‘Outlander: Blood of My Blood’ Stars Explain Series & Behind-the-Scenes Lore",
      "medio": "IMDb",
      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzel9qS3JaZGw2T1k4WHZJZ3FpZVZYbWNhOU1CaGxDdUM5U1BvRTk5WTlaV3VBdnY2cmxVcGk4cktBRFlES1N6eFktaXRMRk5oSExtWXVoR2hEaWRFTG1CZkNOYTlVbXc2YXc?oc=5",
@@ -421,12 +421,6 @@
      "medio": "VADER News",
      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQX3hiOHhHT1o2Y2VlQnd6b09Ic19Id1M1UXNwY2E3M1NvRWx4dnppMWZldFVUTlliZ1NhVkktVDdTRHJzaW1uSGk0bk5jNGF3a3QwOEw4bzc1bHM4ZGVRZnhWM2t6SW91X25pcUhzWkxkZEhrLWlSMHZDTExiYXFwZU9maHlDa2t3THJVb2o0dVc0VFd5emhtNzFvSlp6V1RnYmoxaU1SNWphREljZDNEdWUyX2JPQmZveXo1aEdfNnJ3Qjl6cFZsSS12ZDJ0R0s0NlZDclJQQmk3NGc?oc=5",
      "fecha": "2026-11-13"
-    },
-    {
-     "titulo": "Outlander: Blood of My Blood vuelve con su segunda temporada en MagentaTV+",
-     "medio": "Foro3D",
-     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQS01rWU96Mk16UWxiOGRMdWZoME1zQzhZWVUtQk54M25UbFJxMG52aGx6ajY1S3pSY3RHZnhadUNWZHlCVjJFdEJLazRmajJhWVJrYXJRQm1XM1lHTVBqZVlYOWdIRThDSEJTenppQmdHRlo4NS1oTVdkMHdVbE5QbzJNTFhXSXYtMk9zYTV0cVFidTc0eUxJc1ZTUDdIeU92LTdnWjRnUEdQUjRXLVE?oc=5",
-     "fecha": "2026-11-10"
     }
    ]
   },
@@ -492,6 +486,12 @@
    "oliver": false,
    "noticias": [
     {
+     "titulo": "‘It: Welcome to Derry’ Surprise Halloween Episode Drops on HBO Max",
+     "medio": "IMDb",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBhWk5QWUxmYVR6UjFSYUF5OU1tSEFzQ3VJVkp2UGE3dWNHN0NIN19rTXlLdzhBLWFpVUttaFEyWkthWHVPVHkwdmRRYXdHLUpfTnc?oc=5",
+     "fecha": "2026-11-11"
+    },
+    {
      "titulo": "IT: Welcome to Derry amplía el origen de Pennywise con un episodio especial",
      "medio": "La Casa de EL",
      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1GZ3lDcTduZ3ZOME5ZV3d3MFprLTBpWC1uM3BxR3dpTWI3Umc0el9rYVhPSVp4b09rZk0yOHBjVnBrVjJDb2FfQm5tNlRCRVJGbi1pMzFoRHI1TVhkcUpPTXNjT0JjTWpPaXhkRVVxUE1vMnF4Nzk0?oc=5",
@@ -501,12 +501,6 @@
      "titulo": "Se revela el mayor miedo de Pennywise: episodio sorpresa de 'Welcome to Derry' muestra uno de los más grandes misterios del universo de Stephen King",
      "medio": "SensaCine.com.mx",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5fdjZhZU1hQWNZcC1lTHBmTmZISjFrVHUzRGZVTmpybWxYaGR2WWg1VEE0alU2UGFMOWNyTEthN1BXZHVJZkRJTWRQSnlEcThLVEhlaXM2Z0ZpSFZscGg4d1hNbTdMNVVw0gFuQVVfeXFMTmdFaXB3NnN5MTA3WGRGTU5XZWxJdTN6T2hSR3lwRHpabFlMajZLbFFCSXRROWFHZ2tyMURBblBLbEpGR0pPd2RpdFJic2x2Wl9mclE5ZkJ5WmIzaFByRkg0ejhjUmZ4YWotd1VHaGc?oc=5",
-     "fecha": "2026-11-03"
-    },
-    {
-     "titulo": "HBO Max estrena por sorpresa un especial de It: Welcome to Derry",
-     "medio": "Foro3D",
-     "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPXzNLWDNSWWR3d3B2aWxXZEZ3YmhyOTRXVlpyV181LTZfTzVYNFRUMWx6RWY2Q2JSUzlQeHpzV1VhWHhEU3B1bUtObGhUNTBfcUUzM1YzZk1hQ2xva3pYZWdhN3F1bnBiUHAzOU4tYXR0V3N0aUJ6bXRRVWluWE9sS3J2WFhUcms1cERtaXptUTEtcVZZeWFLSXNnM0RyTlFnOHdvcQ?oc=5",
      "fecha": "2026-11-03"
     }
    ]
