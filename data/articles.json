@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Cleanser Man, jefe de Mega Man diseñado por fans, debuta en tráiler",
+    "artista": "Mega Man: Dual Override",
+    "intro": "Capcom presentó a Cleanser Man, el nuevo Robot Master de Mega Man: Dual Override, durante la TwitchCon 2026.",
+    "telegraph_url": "https://telegra.ph/Cleanser-Man-jefe-de-Mega-Man-diseñado-por-fans-debuta-en-tráiler-11-16",
+    "url": "https://enelensayomedia.com/notas/cleanser-man-jefe-de-mega-man-disenado-por-fans-debuta-en-trailer-1116.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/cleanser-man-jefe-de-mega-man-disenado-por-fans-debuta-en-trailer-1116.jpg",
+    "fecha": "2026-11-16T07:29:23.423916",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Ricaldoni inaugura su exposición en La Noche de los Museos",
     "artista": "Ricaldoni",
     "intro": "El artista plástico Hernán Ricaldoni inaugura su muestra \"Paisajes del sur\" en el Museo de Bellas Artes de Tres Arroyos (MUBATA)…",
@@ -5920,19 +5934,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Cine"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Fallece Luis Rico, baluarte de la canción social boliviana",
-    "artista": "Luis Rico",
-    "intro": "Se reporta el fallecimiento de Luis Rico Arancibia a la edad de 81 años. La noticia fue comunicada a la prensa boliviana y a las redes sociales por la familia del reconocido cantautor boliviano.",
-    "telegraph_url": "https://telegra.ph/Fallece-Luis-Rico-baluarte-de-la-canción-social-boliviana-11-04",
-    "url": "https://enelensayomedia.com/notas/fallece-luis-rico-baluarte-de-la-cancion-social-boliviana-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-luis-rico-baluarte-de-la-cancion-social-boliviana-1103.jpg",
-    "fecha": "2026-11-03T20:04:34.669288",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
