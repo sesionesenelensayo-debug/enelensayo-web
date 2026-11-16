@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Pearl Jam sin baterista permanente tras salida de Matt Cameron",
+    "artista": "Pearl Jam",
+    "intro": "Pearl Jam enfrenta una incertidumbre interna tras la partida de Matt Cameron en 2025. La banda, que lleva años rotando bateristas, ahora cuenta con Abe Laboriel Jr.",
+    "telegraph_url": "https://telegra.ph/Pearl-Jam-sin-baterista-permanente-tras-salida-de-Matt-Cameron-11-16",
+    "url": "https://enelensayomedia.com/notas/pearl-jam-sin-baterista-permanente-tras-salida-de-matt-cameron-1115.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/pearl-jam-sin-baterista-permanente-tras-salida-de-matt-cameron-1115.jpg",
+    "fecha": "2026-11-15T20:24:08.609774",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Monasterio de Santa Mónica: Historia y misterios del Desierto de los Leones",
     "artista": "el Monasterio de Santa Mónica del Desierto de los Leones",
     "intro": "Crónica sobre los orígenes, transformaciones y leyendas ocultas del emblemático exconvento carmelita en medio de los bosques de la capital mexicana.",
@@ -5916,19 +5930,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme internacional"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Alfonso Herrera en la película animada El Gato con Sombrero",
-    "artista": "Alfonso Herrera",
-    "intro": "Se reporta la participación del artista mexicano Alfonso Herrera en la nueva adaptación cinematográfica animada de la obra de Dr. Seuss, 'El Gato con Sombrero'.",
-    "telegraph_url": "https://telegra.ph/Alfonso-Herrera-en-la-película-animada-El-Gato-con-Sombrero-11-03",
-    "url": "https://enelensayomedia.com/notas/alfonso-herrera-en-la-pelicula-animada-el-gato-con-sombrero-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/alfonso-herrera-en-la-pelicula-animada-el-gato-con-sombrero-1103.jpg",
-    "fecha": "2026-11-03T16:47:20.239598",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   }
 ]
