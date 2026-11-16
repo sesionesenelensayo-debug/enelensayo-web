@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "18,000 fanáticos asisten a Final Slam en París",
+    "artista": "Lucha libre",
+    "intro": "Dieciocho mil personas asistieron al evento de lucha libre Final Slam, organizado por el streamer de Twitch AmineMaTue.",
+    "telegraph_url": "https://telegra.ph/18000-fanáticos-asisten-a-Final-Slam-en-París-11-16",
+    "url": "https://enelensayomedia.com/notas/18-000-fanaticos-asisten-a-final-slam-en-paris-1116.html",
+    "imagen_url": "/Volumes/NO NAME/EstudioBot_Exportaciones/trabajo/portadas_img/pres_ca5a4312e9.jpg",
+    "fecha": "2026-11-16T10:37:52.346153",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Juan García compite en 'Los juegos del hambre' de MrBeast y queda eliminado",
     "artista": "Juan García",
     "intro": "El sábado 14 de noviembre de 2026 MrBeast lanzó su nuevo video de \"Los juegos del hambre\", donde el creador mexicano Juan García, oriundo de Santa María Xigui, Hidalgo…",
@@ -5919,19 +5933,5 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-03T11:18:34.441995",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Oli presenta su Museo Imaginario en el Grand Palais",
-    "artista": "Oli",
-    "intro": "El rapero Oli, integrante del dúo francés Bigflo & Oli, llega al Grand Palais de París con «El Museo Imaginario», una exposición inmersiva y sensorial.",
-    "telegraph_url": "https://telegra.ph/Oli-presenta-su-Museo-Imaginario-en-el-Grand-Palais-11-04",
-    "url": "https://enelensayomedia.com/notas/oli-presenta-su-museo-imaginario-en-el-grand-palais-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/oli-presenta-su-museo-imaginario-en-el-grand-palais-1103.jpg",
-    "fecha": "2026-11-03T21:32:21.176102",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   }
 ]
