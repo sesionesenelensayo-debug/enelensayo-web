@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Karol G y Thalía cantan '¿A quién le importa?' en el GNP de CDMX",
+    "artista": "Karol G y Thalía",
+    "intro": "Karol G y Thalía colaboraron en '¿A quién le importa?' durante el primer concierto de la gira Viajando por el Mundo Tropitour 2026 en el Estadio GNP Seguros de la Ciudad de México…",
+    "telegraph_url": "https://telegra.ph/Karol-G-y-Thalía-cantan-A-quién-le-importa-en-el-GNP-de-CDMX-11-16",
+    "url": "https://enelensayomedia.com/notas/karol-g-y-thalia-cantan-a-quien-le-importa-en-el-gnp-de-cdmx-1116.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/karol-g-y-thalia-cantan-a-quien-le-importa-en-el-gnp-de-cdmx-1116.jpg",
+    "fecha": "2026-11-16T16:20:06.420001",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Miami se transforma en Vice City con anticipación al lanzamiento de GTA VI",
     "artista": "Grand Theft Auto VI",
     "intro": "Miami se viste de Vice City a pocos días del lanzamiento de GTA VI. Rockstar Games y la NBA celebran el estreno con experiencias inmersivas…",
@@ -5920,20 +5934,5 @@
     "categoria": "Luchas",
     "fecha_original": "2026-11-01T14:19:24.277773",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "El misterio de la muerte de Janis Joplin en el Landmark Hotel",
-    "artista": "Janis Joplin",
-    "intro": "En el video del canal En el Ensayo Media se relata la muerte de Janis Joplin en una habitación del Landmark Motor Hotel de Los Ángeles…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-misterio-de-la-muerte-de-janis-joplin-en-el-landmark-hotel-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-misterio-de-la-muerte-de-janis-joplin-en-el-landmark-hotel-1104.jpg",
-    "fecha": "2026-11-04T13:35:58.898033",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Misterio"
   }
 ]
