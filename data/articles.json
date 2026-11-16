@@ -11,7 +11,7 @@
     "fecha": "2026-11-16T09:25:55.874608",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Televisión",
+    "categoria": "Videojuegos",
     "fecha_original": "2026-11-15T13:16:55.121987",
     "ultima_actualizacion": "2026-11-16T09:25:55.874608",
     "actualizada": true
@@ -1202,7 +1202,8 @@
     "views": 0,
     "categoria": "Reality",
     "fecha_original": "2026-11-13T19:12:31.056722",
-    "actualizada": true
+    "actualizada": true,
+    "ultima_actualizacion": "2026-11-16T09:26:33.247572"
   },
   {
     "opinion": false,
