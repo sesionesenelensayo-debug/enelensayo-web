@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Monasterio de Santa Mónica: Historia y misterios del Desierto de los Leones",
+    "artista": "el Monasterio de Santa Mónica del Desierto de los Leones",
+    "intro": "Crónica sobre los orígenes, transformaciones y leyendas ocultas del emblemático exconvento carmelita en medio de los bosques de la capital mexicana.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/monasterio-de-santa-monica-historia-y-misterios-del-desierto-de-los-le-1115.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/monasterio-de-santa-monica-historia-y-misterios-del-desierto-de-los-le-1115.jpg",
+    "fecha": "2026-11-15T20:19:29.049020",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Historias de terror"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Emma Watson se cae al llegar a fiesta de GQ en Hollywood",
     "artista": "Emma Watson",
     "intro": "Emma Watson se cayó al llegar a la 31ª fiesta anual de los Hombres del Año de GQ en el Chateau Marmont de Los Ángeles, celebrada el jueves 14 de noviembre de 2026.",
@@ -5916,21 +5930,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
-  },
-  {
-    "opinion": true,
-    "tipo": "reportaje",
-    "titulo": "Clayface y el DCU: los números le quedan grandes a Gunn y Safran",
-    "artista": "Clayface y el DCU",
-    "intro": "Clayface abrió en el primer lugar de la taquilla de Estados Unidos y aun así es una mala noticia para DC Studios…",
-    "telegraph_url": "https://telegra.ph/Clayface-y-el-DCU-los-números-le-quedan-grandes-a-Gunn-y-Safran-11-02-2",
-    "url": "https://enelensayomedia.com/notas/clayface-y-el-dcu-los-numeros-le-quedan-grandes-a-gunn-y-safran-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/clayface-y-el-dcu-los-numeros-le-quedan-grandes-a-gunn-y-safran-1102.jpg",
-    "fecha": "2026-11-03T16:26:12.330897",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU",
-    "fecha_original": "2026-11-02T09:43:51.603932",
-    "actualizada": true
   }
 ]
