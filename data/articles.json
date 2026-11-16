@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Javier Bardem revela por qué estaba nervioso filando con Julia Roberts",
+    "artista": "Javier Bardem sobre Julia Roberts",
+    "intro": "El actor español confesó en una entrevista que se sintió intimidado por la presencia de la estadounidense durante la grabación de 'Comer, rezar, amar'.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/javier-bardem-revela-por-que-estaba-nervioso-filando-con-julia-roberts-1116.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/javier-bardem-revela-por-que-estaba-nervioso-filando-con-julia-roberts-1116.jpg",
+    "fecha": "2026-11-16T17:02:27.536837",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme internacional"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "SEGA revela el mapa de India en 'Crazy Taxi: World Tour'",
     "artista": "Crazy Taxi",
     "intro": "SEGA presentó el quinto y último mapa de 'Crazy Taxi: World Tour' ambientado en la India, con tres zonas distintas: Ciudad, Campo e Industrial.",
@@ -5920,21 +5934,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Thomas Markle bajo investigación por presunto material de abuso infantil",
-    "artista": "Thomas Markle",
-    "intro": "El padre de Meghan Markle, Thomas Markle, de 82 años, está siendo investigado tras la supuesta detección de material de abuso sexual infantil en dispositivos electrónicos incautados en su vivienda…",
-    "telegraph_url": "https://telegra.ph/Thomas-Markle-bajo-investigación-por-presunto-material-de-abuso-infantil-11-04",
-    "url": "https://enelensayomedia.com/notas/thomas-markle-bajo-investigacion-por-presunto-material-de-abuso-infant-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/thomas-markle-bajo-investigacion-por-presunto-material-de-abuso-infant-1104.jpg",
-    "fecha": "2026-11-04T14:23:37.385578",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reportaje",
-    "fecha_original": "2026-11-04T14:21:29.342827",
-    "actualizada": true
   }
 ]
