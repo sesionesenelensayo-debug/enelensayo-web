@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "¿Quiénes son los actores de doblaje que reemplazaron a los star talents en 'Wildwood'?",
+    "artista": "Danna Alcalá y Erick Selim",
+    "intro": "El nuevo doblaje latino de 'Wildwood: El Bosque Salvaje' (LAIKA Studios) sustituyó a figuras públicas como Macarena García, Javier Ibarreche y Natalia Téllez por actores de doblaje profesionales.",
+    "telegraph_url": "https://telegra.ph/Quiénes-son-los-actores-de-doblaje-que-reemplazaron-a-los-star-talents-en-Wildwood-11-16",
+    "url": "https://enelensayomedia.com/notas/quienes-son-los-actores-de-doblaje-que-reemplazaron-a-los-star-talents-1116.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/quienes-son-los-actores-de-doblaje-que-reemplazaron-a-los-star-talents-1116.jpg",
+    "fecha": "2026-11-16T13:05:38.280335",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "Chris Pratt y el declive creativo del DCU: la verdad sobre James Gunn",
@@ -5914,19 +5928,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "El Panteón de San Fernando: historia, figuras y leyendas del siglo XIX",
-    "artista": "el Panteón de San Fernando y sus leyendas",
-    "intro": "Un recorrido por su origen, personajes ilustres, actividades actuales y los rumores que envuelven sus pasillos nocturnos.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-panteon-de-san-fernando-historia-figuras-y-leyendas-del-siglo-xix-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-panteon-de-san-fernando-historia-figuras-y-leyendas-del-siglo-xix-1104.jpg",
-    "fecha": "2026-11-04T08:06:12.412428",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror"
   }
 ]
