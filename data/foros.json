@@ -538,6 +538,7 @@
    "lat": 19.4281285,
    "lon": -99.1359729,
    "genero": "Foro con música en vivo",
+   "url": "https://lacuevav44o.setmore.com/",
    "auto": true
   },
   {
@@ -547,6 +548,26 @@
    "zona": "",
    "lat": 19.4343005,
    "lon": -99.1357777,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "La Bodeguita del Medio",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "Roma / Condesa",
+   "lat": 19.4194967,
+   "lon": -99.1710924,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "Bar el Taller",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "",
+   "lat": 19.4246806,
+   "lon": -99.1666828,
    "genero": "Foro con música en vivo",
    "auto": true
   },
