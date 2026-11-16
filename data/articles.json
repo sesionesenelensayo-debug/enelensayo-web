@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Abel Robles eliminado en la primera gala de La Mansión VIP 2",
+    "artista": "La Mansión VIP 2",
+    "intro": "El reality de La Mansión VIP 2 dio su primera eliminación el domingo 15 de noviembre de 2026, cuando Abel Robles, fisicoculturista e influencer…",
+    "telegraph_url": "https://telegra.ph/Abel-Robles-eliminado-en-la-primera-gala-de-La-Mansión-VIP-2-11-16",
+    "url": "https://enelensayomedia.com/notas/abel-robles-eliminado-en-la-primera-gala-de-la-mansion-vip-2-1116.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/abel-robles-eliminado-en-la-primera-gala-de-la-mansion-vip-2-1116.jpg",
+    "fecha": "2026-11-16T10:59:55.662257",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reality"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "18,000 fanáticos asisten a Final Slam en París",
     "artista": "Lucha libre",
     "intro": "Dieciocho mil personas asistieron al evento de lucha libre Final Slam, organizado por el streamer de Twitch AmineMaTue.",
@@ -5917,21 +5931,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Videojuegos"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "No Man’s Sky llega a iPhone y iPad el 28 de octubre de 2026",
-    "artista": "No Man’s Sky",
-    "intro": "Hello Games anunció que la versión móvil de No Man’s Sky se lanzará el 28 de octubre 2026 para iPhone y iPad, diez años después de su polémico debut en 2016.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/no-mans-sky-llega-a-iphone-y-ipad-el-28-de-octubre-de-2026-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/no-mans-sky-llega-a-iphone-y-ipad-el-28-de-octubre-de-2026-1103.jpg",
-    "fecha": "2026-11-03T22:29:45.926887",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-11-03T11:18:34.441995",
-    "actualizada": true
   }
 ]
