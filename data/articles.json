@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Petula Clark celebra 92 años con música que cruzó generaciones",
+    "artista": "Petula Clark",
+    "intro": "El contenido resalta su carrera internacional y sus logros en la música popular.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/petula-clark-celebra-92-anos-con-musica-que-cruzo-generaciones-1115.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/petula-clark-celebra-92-anos-con-musica-que-cruzo-generaciones-1115.jpg",
+    "fecha": "2026-11-15T19:21:10.633706",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Dune: Part Three y Avengers: Doomsday compiten en taquilla navideña 2026",
     "artista": "Dune",
     "intro": "Dune: Part Three y Avengers: Doomsday se enfrentarán en Navidad 2026 al compartir fecha de estreno el 18 de diciembre, en un duelo calificado como 'Dunesday' que recuerda a Barbenheimer.",
@@ -4400,21 +4415,6 @@
     "categoria": "Chisme internacional",
     "fecha_original": "2026-11-06T17:53:52.370846",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Buddy Holly y la tragedia aérea que marcó al rock and roll",
-    "artista": "Buddy Holly",
-    "intro": "En el video del canal En el Ensayo Media se repasa la trayectoria y el trágico final de Buddy Holly, pionero del rock and roll.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/buddy-holly-y-la-tragedia-aerea-que-marco-al-rock-and-roll-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/buddy-holly-y-la-tragedia-aerea-que-marco-al-rock-and-roll-1107.jpg",
-    "fecha": "2026-11-07T16:29:50.931983",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "opinion": false,
