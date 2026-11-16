@@ -1,5 +1,19 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "Chris Pratt y el declive creativo del DCU: la verdad sobre James Gunn",
+    "artista": "Chris Pratt",
+    "intro": "El anuncio de la salida de James Gunn y Peter Safran de la dirección conjunta de DC Studios deja al descubierto el estrepitoso fracaso de una gestión creativa que jamás estuvo a la altura…",
+    "telegraph_url": "https://telegra.ph/Chris-Pratt-y-el-declive-creativo-del-DCU-la-verdad-sobre-James-Gunn-11-16",
+    "url": "https://enelensayomedia.com/notas/chris-pratt-y-el-declive-creativo-del-dcu-la-verdad-sobre-james-gunn-1116.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/chris-pratt-y-el-declive-creativo-del-dcu-la-verdad-sobre-james-gunn-1116.jpg",
+    "fecha": "2026-11-16T12:27:00.626560",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Little Jesus toca en el Teatro Metropólitan este sábado con Río Salvaje completo",
@@ -5914,21 +5928,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Callum Turner lidera las apuestas para el próximo James Bond",
-    "artista": "Callum Turner",
-    "intro": "Los pronósticos de apuestas sitúan a Callum Turner como favorito para encarnar al icónico 007, mientras que Pierce Brosnan, antiguo Bond, sigue sin descartar un papel de mentor en la próxima entrega.",
-    "telegraph_url": "https://telegra.ph/Callum-Turner-lidera-las-apuestas-para-el-próximo-James-Bond-11-04",
-    "url": "https://enelensayomedia.com/notas/callum-turner-lidera-las-apuestas-para-el-proximo-james-bond-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/callum-turner-lidera-las-apuestas-para-el-proximo-james-bond-1104.jpg",
-    "fecha": "2026-11-04T07:51:10.553336",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-04T07:31:42.138758",
-    "actualizada": true
   }
 ]
