@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "La Granja VIP 2: Décima gala de eliminación y nominados",
+    "artista": "La Granja VIP 2",
+    "intro": "La décima gala de eliminación de La Granja VIP 2 se transmite este domingo 15 de noviembre.",
+    "telegraph_url": "https://telegra.ph/La-Granja-VIP-2-Décima-gala-de-eliminación-y-nominados-11-16",
+    "url": "https://enelensayomedia.com/notas/la-granja-vip-2-decima-gala-de-eliminacion-y-nominados-1115.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-granja-vip-2-decima-gala-de-eliminacion-y-nominados-1115.jpg",
+    "fecha": "2026-11-15T21:21:30.071358",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reality"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Pearl Jam sin baterista permanente tras salida de Matt Cameron",
     "artista": "Pearl Jam",
     "intro": "Pearl Jam enfrenta una incertidumbre interna tras la partida de Matt Cameron en 2025. La banda, que lleva años rotando bateristas, ahora cuenta con Abe Laboriel Jr.",
@@ -5918,19 +5932,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Televisión"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "James Acaster desmiente reporte sobre peleas en The Celebrity Traitors",
-    "artista": "James Acaster",
-    "intro": "El comediante James Acaster aclara en un podcast detalles sobre su participación en el reality show y descarta tensiones con sus compañeros de elenco.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/james-acaster-desmiente-reporte-sobre-peleas-en-the-celebrity-traitors-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/james-acaster-desmiente-reporte-sobre-peleas-en-the-celebrity-traitors-1103.jpg",
-    "fecha": "2026-11-03T17:30:11.811816",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme internacional"
   }
 ]
