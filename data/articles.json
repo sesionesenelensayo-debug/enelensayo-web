@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Ryan Reynolds y Hugh Jackman aparecen en créditos de escritura de Avengers: Doomsday",
+    "artista": "Avengers: Doomsday",
+    "intro": "¿Podrán Deadpool y Lobezno regresar en la próxima entrega de los Vengadores? Un inesperado listado muestra a Ryan Reynolds y Hugh Jackman en los créditos de escritura de Avengers…",
+    "telegraph_url": "https://telegra.ph/Ryan-Reynolds-y-Hugh-Jackman-aparecen-en-créditos-de-escritura-de-Avengers-Doomsday-11-16",
+    "url": "https://enelensayomedia.com/notas/ryan-reynolds-y-hugh-jackman-aparecen-en-creditos-de-escritura-de-aven-1116.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/ryan-reynolds-y-hugh-jackman-aparecen-en-creditos-de-escritura-de-aven-1116.jpg",
+    "fecha": "2026-11-16T10:14:01.597414",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Dragon Ball Super: Beerus doblado en español con star talents en medio del debate",
     "artista": "Dragon Ball Super",
     "intro": "El doblaje al español latino de Dragon Ball Super: Beerus se estrenó el 12 de noviembre de 2026 en Crunchyroll…",
@@ -5919,20 +5933,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Arturo de Córdoba, el actor mexicano que brilló en Hollywood y el cine latinoamericano",
-    "artista": "Arturo de Córdova",
-    "intro": "El video publicado por el canal En el Ensayo Media relata la trayectoria del actor mexicano Arturo de Córdoba…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/arturo-de-cordoba-el-actor-mexicano-que-brillo-en-hollywood-y-el-cine-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/arturo-de-cordoba-el-actor-mexicano-que-brillo-en-hollywood-y-el-cine-1103.jpg",
-    "fecha": "2026-11-03T20:43:05.045688",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   }
 ]
