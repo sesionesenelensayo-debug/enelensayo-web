@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17 01:35",
+ "actualizado": "2026-11-17 05:08",
  "general": [
   {
    "titulo": "Maestro Shifu en el afterparty de Karol G",
@@ -187,10 +187,22 @@
     "titulo": "Rockstar confirma versión en la nube de GTA VI para Xbox Series S",
     "url": "https://enelensayomedia.com/notas/rockstar-confirma-version-en-la-nube-de-gta-vi-para-xbox-series-s-1111.html",
     "visitas": 4
+   }
+  ],
+  "conciertos": [
+   {
+    "titulo": "Karol G llena el Estadio GNP Seguros en CDMX con su Tropitour 2026",
+    "url": "https://enelensayomedia.com/notas/karol-g-llena-el-estadio-gnp-seguros-en-cdmx-con-su-tropitour-2026-1115.html",
+    "visitas": 5
    },
    {
-    "titulo": "Faker critica la preparación de Bilibili Gaming tras eliminación en Worlds 2026",
-    "url": "https://enelensayomedia.com/notas/faker-critica-la-preparacion-de-bilibili-gaming-tras-eliminacion-en-wo-1109.html",
+    "titulo": "Andrés Calamaro se presenta en el Pepsi Center de la CDMX",
+    "url": "https://enelensayomedia.com/notas/andres-calamaro-se-presenta-en-el-pepsi-center-de-la-cdmx-1114.html",
+    "visitas": 4
+   },
+   {
+    "titulo": "Morat anuncia concierto sin telonero y setlist estimado en el Palacio de los Deportes",
+    "url": "https://enelensayomedia.com/notas/morat-anuncia-concierto-sin-telonero-y-setlist-estimado-en-el-palacio-1115.html",
     "visitas": 3
    }
   ],
@@ -204,6 +216,11 @@
     "titulo": "Niurka habla sobre posible salida de La Granja VIP: 'Me voy contenta'",
     "url": "https://enelensayomedia.com/notas/niurka-habla-sobre-posible-salida-de-la-granja-vip-me-voy-contenta-1113.html",
     "visitas": 5
+   },
+   {
+    "titulo": "Crisis y lágrimas en el Equipo Rojo de Exatlón México",
+    "url": "https://enelensayomedia.com/notas/crisis-y-lagrimas-en-el-equipo-rojo-de-exatlon-mexico-1116.html",
+    "visitas": 4
    },
    {
     "titulo": "La Granja VIP 2: Décima gala de eliminación y nominados",
@@ -243,18 +260,6 @@
     "titulo": "Brittany Murphy: su legado en el cine y la música",
     "url": "https://enelensayomedia.com/notas/brittany-murphy-su-legado-en-el-cine-y-la-musica-1110.html",
     "visitas": 4
-   }
-  ],
-  "conciertos": [
-   {
-    "titulo": "Andrés Calamaro se presenta en el Pepsi Center de la CDMX",
-    "url": "https://enelensayomedia.com/notas/andres-calamaro-se-presenta-en-el-pepsi-center-de-la-cdmx-1114.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "Morat anuncia concierto sin telonero y setlist estimado en el Palacio de los Deportes",
-    "url": "https://enelensayomedia.com/notas/morat-anuncia-concierto-sin-telonero-y-setlist-estimado-en-el-palacio-1115.html",
-    "visitas": 3
    }
   ],
   "doblaje": [
