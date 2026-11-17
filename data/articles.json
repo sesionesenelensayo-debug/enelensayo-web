@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Gorillaz define precios por zona para su concierto en CDMX el 11 de diciembre",
+    "artista": "Gorillaz",
+    "intro": "El grupo británico confirmó tarifas que van de 1,215 a 4,191 pesos para su presentación en el Palacio de los Deportes.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/gorillaz-define-precios-por-zona-para-su-concierto-en-cdmx-el-11-de-di-1117.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/gorillaz-define-precios-por-zona-para-su-concierto-en-cdmx-el-11-de-di-1117.jpg",
+    "fecha": "2026-11-17T12:08:10.504340",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Tencent invierte 1.000 millones de RMB en Golden Spatula, el TFT móvil de China",
     "artista": "Tencent invierte en TFT China",
@@ -5917,19 +5931,5 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-03T14:09:47.386773",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Amy Winehouse: el día de su muerte en Camden Square",
-    "artista": "Amy Winehouse: el día de su muerte en Camden Square",
-    "intro": "El 23 de julio de 2011, la música perdió a una de sus figuras más icónicas tras confirmarse el fallecimiento de Amy Winehouse en su departamento de Camden Square, en Londres.",
-    "telegraph_url": "https://telegra.ph/Amy-Winehouse-el-día-de-su-muerte-en-Camden-Square-11-05",
-    "url": "https://enelensayomedia.com/notas/amy-winehouse-el-dia-de-su-muerte-en-camden-square-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/amy-winehouse-el-dia-de-su-muerte-en-camden-square-1104.jpg",
-    "fecha": "2026-11-04T18:46:25.792872",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reportaje"
   }
 ]
