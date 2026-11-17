@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Daniel Boaventura vende su concierto en Auditorio Nacional con Orquesta Sinfónica de Minería",
+    "artista": "Daniel Boaventura",
+    "intro": "Daniel Boaventura encabezó este martes un concierto en el Auditorio Nacional, donde combinó espíritu navideño y música disco acompañado por la Orquesta Sinfónica de Minería.",
+    "telegraph_url": "https://telegra.ph/Daniel-Boaventura-vende-su-concierto-en-Auditorio-Nacional-con-Orquesta-Sinfónica-de-Minería-11-17",
+    "url": "https://enelensayomedia.com/notas/daniel-boaventura-vende-su-concierto-en-auditorio-nacional-con-orquest-1117.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/daniel-boaventura-vende-su-concierto-en-auditorio-nacional-con-orquest-1117.jpg",
+    "fecha": "2026-11-17T14:53:52.481720",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "Blancanieves (2025) se convierte en el mayor desastre financiero de Disney en 10 años",
