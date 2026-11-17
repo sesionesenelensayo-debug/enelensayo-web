@@ -1,5 +1,12 @@
 [
   {
+    "artista": "George Michael",
+    "slug": "george-michael",
+    "imagen": "",
+    "piezas": 1,
+    "updated": "2026-11-17 12:02"
+  },
+  {
     "artista": "Lucero",
     "slug": "lucero",
     "imagen": "artistas_img/lucero.jpg",
