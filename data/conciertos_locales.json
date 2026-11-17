@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17 10:25",
+ "actualizado": "2026-11-17 14:01",
  "eventos": [
   {
    "id": "will-of-one|san-luis-potosi||x",
@@ -11172,6 +11172,38 @@
    "fuente": "Multiforo Digital",
    "tipo": "show",
    "fuente_url": "https://www.facebook.com/Foro.del.Tejedor/posts/pfbid0BGWxW5zcEUN1bVUkFFosMceeAwifjDYYdePdkBTCe8AGaqdQuLhdWMHv61Z7uJGnl"
+  },
+  {
+   "id": "breevibes|cuernavaca||x",
+   "banda": "BreeVibes",
+   "ciudad": "Cuernavaca",
+   "estado": "Morelos",
+   "lat": 18.9242,
+   "lon": -99.2216,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
+  },
+  {
+   "id": "0limites|morelia||x",
+   "banda": "0limites",
+   "ciudad": "Morelia",
+   "estado": "Michoacán",
+   "lat": 19.706,
+   "lon": -101.195,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
   }
  ]
 }
