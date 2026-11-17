@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "El legado de Lucero: entre la estrella Venus y la artista mexicana",
+    "artista": "Lucero",
+    "intro": "El video publicado por el canal En el Ensayo Media explora el concepto de “lucero” desde dos perspectivas…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-legado-de-lucero-entre-la-estrella-venus-y-la-artista-mexicana-1117.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-legado-de-lucero-entre-la-estrella-venus-y-la-artista-mexicana-1117.jpg",
+    "fecha": "2026-11-17T01:55:05.751575",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Karol G reprograma concierto en CDMX por problemas de salud",
     "artista": "Karol G",
     "intro": "En el video 'Chisme de pasillo: Karol G reprograma concierto por problemas de salud', el canal En el Ensayo Media informa que la cantante colombiana de reggaetón y pop reprogramó su concierto…",
@@ -5919,19 +5934,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme internacional"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Modern Warfare 4 lanza la Temporada 1 con nuevos mapas y novedades para DMZ",
-    "artista": "Modern Warfare 4",
-    "intro": "Modern Warfare 4 ha anunciado la llegada de su Temporada 1, que incluye nuevos mapas y novedades para el modo DMZ, además de la fecha de estreno.",
-    "telegraph_url": "https://telegra.ph/Modern-Warfare-4-lanza-la-Temporada-1-con-nuevos-mapas-y-novedades-para-DMZ-11-04",
-    "url": "https://enelensayomedia.com/notas/modern-warfare-4-lanza-la-temporada-1-con-nuevos-mapas-y-novedades-par-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/modern-warfare-4-lanza-la-temporada-1-con-nuevos-mapas-y-novedades-par-1104.jpg",
-    "fecha": "2026-11-04T15:58:23.817212",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos"
   }
 ]
