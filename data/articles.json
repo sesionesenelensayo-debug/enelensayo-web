@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Fofo Márquez: captan audio jugando Fortnite desde prisión",
+    "artista": "Fofo Márquez",
+    "intro": "¡Otra vez en el ojo del huracán, pero con el hype intacto! Hoy, 17 de noviembre, se viralizó un clip donde Rodolfo 'Fofo' Márquez aparece supuestamente jugando Fortnite desde su celda.",
+    "telegraph_url": "https://telegra.ph/Fofo-Márquez-captan-audio-jugando-Fortnite-desde-prisión-11-17",
+    "url": "https://enelensayomedia.com/notas/fofo-marquez-captan-audio-jugando-fortnite-desde-prision-1117.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fofo-marquez-captan-audio-jugando-fortnite-desde-prision-1117.jpg",
+    "fecha": "2026-11-17T10:17:37.646117",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Live Streaming"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Charlize Theron: del Oscar a la lucha contra el doble rasero en Hollywood",
     "artista": "Charlize Theron Hollywood",
     "intro": "Con tres décadas de carrera, la sudafricana Oscar y productora denuncia la inequidad de género, revela sus inseguridades y sigue arriesgándose en papeles de acción.",
@@ -5918,20 +5932,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Esports"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Fallece la actriz Elke Sommer a los 85 años en Bel Air",
-    "artista": "",
-    "intro": "La actriz alemana‑americana Elke Sommer murió el miércoles 28 de octubre de 2026 en su residencia de Bel Air, California, a los 85 años. Según los medios a",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fallece-la-actriz-elke-sommer-a-los-85-anos-en-bel-air-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-la-actriz-elke-sommer-a-los-85-anos-en-bel-air-1029.jpg",
-    "fecha": "2026-11-04T17:49:58.832615",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam",
-    "fecha_original": "2026-10-29T03:16:14",
-    "actualizada": true
   }
 ]
