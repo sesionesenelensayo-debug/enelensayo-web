@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Tencent invierte 1.000 millones de RMB en Golden Spatula, el TFT móvil de China",
+    "artista": "Tencent invierte en TFT China",
+    "intro": "La empresa compromete 140 millones de dólares en tres años para potenciar el juego y sus torneos en el mercado asiático.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/tencent-invierte-1-000-millones-de-rmb-en-golden-spatula-el-tft-movil-1117.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/tencent-invierte-1-000-millones-de-rmb-en-golden-spatula-el-tft-movil-1117.jpg",
+    "fecha": "2026-11-17T11:16:16.875937",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Fans exigen doblaje alternativo para Ryan Gosling en Star Wars: Starfighter",
     "artista": "Javier Ibarreche",
     "intro": "El 15 de noviembre de 2026, se reporta que una parte del público mexicano y latino está solicitando que Javier Ibarreche doble a Ryan Gosling en la versión español de 'Star Wars: Starfighter'.",
@@ -5917,20 +5931,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reportaje"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Aleks Syntek y su situación actual",
-    "artista": "",
-    "intro": "El cantautor mexicano Aleks Syntek enfrenta un periodo de cambios y ajustes en su carrera. Reportes de medios señalan situaciones médicas y personales reci",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/aleks-syntek-y-su-situacion-actual-1029.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/aleks-syntek-y-su-situacion-actual-1029.jpg",
-    "fecha": "2026-11-04T18:28:37.664155",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura",
-    "fecha_original": "2026-10-29T14:15:37",
-    "actualizada": true
   }
 ]
