@@ -197,6 +197,16 @@
    "auto": true
   },
   {
+   "nombre": "Dada X",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "Centro",
+   "lat": 19.4237886,
+   "lon": -99.1540341,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
    "nombre": "FORO 28",
    "ciudad": "Ciudad de México",
    "estado": "Distrito Federal",
@@ -559,6 +569,7 @@
    "lat": 19.4194967,
    "lon": -99.1710924,
    "genero": "Foro con música en vivo",
+   "url": "https://www.labodeguitadelmedio.com.mx/",
    "auto": true
   },
   {
@@ -569,6 +580,7 @@
    "lat": 19.4246806,
    "lon": -99.1666828,
    "genero": "Foro con música en vivo",
+   "url": "https://bareltaller.eatbu.com/",
    "auto": true
   },
   {
@@ -579,6 +591,7 @@
    "lat": 19.4373612,
    "lon": -99.1379675,
    "genero": "Foro con música en vivo",
+   "url": "https://la-nueva-cuba.wherevi.com/",
    "auto": true
   },
   {
@@ -588,6 +601,37 @@
    "zona": "Centro",
    "lat": 19.4363558,
    "lon": -99.135569,
+   "genero": "Foro con música en vivo",
+   "url": "https://www.casadonceles.com/",
+   "auto": true
+  },
+  {
+   "nombre": "Bar Bunny",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "CUAUHTÉMOC",
+   "lat": 19.4131971,
+   "lon": -99.1631332,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "Balagan",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "CENTRO",
+   "lat": 19.4271085,
+   "lon": -99.1362527,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "Oxford 11, Col. Juárez, CDMX",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "",
+   "lat": 19.4249808,
+   "lon": -99.1694818,
    "genero": "Foro con música en vivo",
    "auto": true
   }
