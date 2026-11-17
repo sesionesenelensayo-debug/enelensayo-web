@@ -1,5 +1,19 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "Blancanieves (2025) se convierte en el mayor desastre financiero de Disney en 10 años",
+    "artista": "Blancanieves (2025)",
+    "intro": "Con una pérdida directa de más de 168 millones, la película confirma el colapso del modelo de remakes de alto presupuesto.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/blancanieves-2025-se-convierte-en-el-mayor-desastre-financiero-de-disn-1117.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/blancanieves-2025-se-convierte-en-el-mayor-desastre-financiero-de-disn-1117.jpg",
+    "fecha": "2026-11-17T13:26:19.160446",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Agenda woke"
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Little Jesus en el Teatro Metropólitan: detalles del concierto",
@@ -11,7 +25,7 @@
     "fecha": "2026-11-17T13:20:20.437414",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Reportaje"
+    "categoria": "Conciertos"
   },
   {
     "opinion": false,
@@ -357,20 +371,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Marvel y DCU"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Little Jesus toca en el Teatro Metropólitan este sábado con Río Salvaje completo",
-    "artista": "Little Jesus",
-    "intro": "Little Jesus se presenta este sábado 14 de noviembre en el Teatro Metropólitan de la Ciudad de México.",
-    "telegraph_url": "https://telegra.ph/Little-Jesus-toca-en-el-Teatro-Metropólitan-este-sábado-con-Río-Salvaje-completo-11-16",
-    "url": "https://enelensayomedia.com/notas/little-jesus-toca-en-el-teatro-metropolitan-este-sabado-con-rio-salvaj-1116.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/little-jesus-toca-en-el-teatro-metropolitan-este-sabado-con-rio-salvaj-1116.jpg",
-    "fecha": "2026-11-16T11:45:55.013034",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
   },
   {
     "opinion": false,
@@ -5914,20 +5914,5 @@
     "categoria": "Agenda woke",
     "fecha_original": "2026-11-01T21:30:46.118489",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Los últimos momentos de Amy Winehouse",
-    "artista": "Amy Winehouse",
-    "intro": "El video del canal En el Ensayo Media relata los últimos momentos de Amy Jade Winhouse, la cantante británica que falleció en su departamento tras una llamada de emergencia.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/los-ultimos-momentos-de-amy-winehouse-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/los-ultimos-momentos-de-amy-winehouse-1104.jpg",
-    "fecha": "2026-11-04T20:40:40.517248",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   }
 ]
