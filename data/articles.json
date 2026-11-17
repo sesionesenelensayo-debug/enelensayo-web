@@ -1,6 +1,21 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "El enigma de la voz de George Michael: fama, identidad y legado musical",
+    "artista": "George Michael",
+    "intro": "El canal En el Ensayo Media presenta un video de nueve minutos que explora la vida y carrera de George Michael, analizando cómo su voz se convirtió en un icono de la música pop mundial.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-enigma-de-la-voz-de-george-michael-fama-identidad-y-legado-musical-1117.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-enigma-de-la-voz-de-george-michael-fama-identidad-y-legado-musical-1117.jpg",
+    "fecha": "2026-11-17T13:02:14.140550",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Gorillaz define precios por zona para su concierto en CDMX el 11 de diciembre",
     "artista": "Gorillaz",
@@ -5915,21 +5930,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Thief: The Dark Project Remastered ya tiene fecha de estreno",
-    "artista": "Thief: The Dark Project Remastered",
-    "intro": "Thief: The Dark Project Remastered llegará a consolas y PC el próximo 3 de diciembre. El lanzamiento incluirá una campaña nueva, según se ha reportado recientemente.",
-    "telegraph_url": "https://telegra.ph/Thief-The-Dark-Project-Remastered-ya-tiene-fecha-de-estreno-11-03",
-    "url": "https://enelensayomedia.com/notas/thief-the-dark-project-remastered-ya-tiene-fecha-de-estreno-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/thief-the-dark-project-remastered-ya-tiene-fecha-de-estreno-1103.jpg",
-    "fecha": "2026-11-04T19:32:44.747951",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-11-03T14:09:47.386773",
-    "actualizada": true
   }
 ]
