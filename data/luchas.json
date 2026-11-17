@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-16 15:50",
+ "actualizado": "2026-11-16 21:57",
  "campeones": {
   "WWE": [
    {
@@ -25,10 +25,10 @@
    },
    {
     "titulo": "WWE Women's Intercontinental Championship",
-    "campeon": "Raquel Rodriguez",
-    "img": "img/luchas/w-raquel-rodriguez.jpg",
-    "credito": "Foto: Diego Serrano · CC BY 2.0 · Wikimedia Commons",
-    "credito_url": "https://commons.wikimedia.org/wiki/File:Raquel_Rodriguez_RR25_(cropped).jpg"
+    "campeon": "Iyo Sky",
+    "img": "img/luchas/w-iyo-sky.jpg",
+    "credito": "Foto: Carter Sterling · CC BY-SA 2.0 · Wikimedia Commons",
+    "credito_url": "https://commons.wikimedia.org/wiki/File:Iyo_Sky_2024_(cropped).jpg"
    },
    {
     "titulo": "World Tag Team Championship",
@@ -152,10 +152,7 @@
    },
    {
     "titulo": "AAA World Mixed Tag Team Championship",
-    "campeon": "La Hiedra and Laredo Kid",
-    "img": "img/luchas/w-la-hiedra.jpg",
-    "credito": "Foto: Ferfive · CC BY-SA 4.0 · Wikimedia Commons",
-    "credito_url": "https://commons.wikimedia.org/wiki/File:La_Hiedra_in_2026.jpg"
+    "campeon": "Big Mami and Niño Hamburguesa"
    },
    {
     "titulo": "AAA World Trios Championship",
@@ -385,7 +382,7 @@
    "promocion": "CMLL",
    "fecha": "2026-11-16",
    "lugar": "ARENA PUEBLA",
-   "ciudad": "Puebla",
+   "ciudad": "",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://cmll.com/cartelera/",
@@ -398,57 +395,29 @@
    "promocion": "CMLL",
    "fecha": "2026-11-16",
    "lugar": "ARENA MÉXICO",
-   "ciudad": "Ciudad de México",
-   "precio": "desde $344",
+   "ciudad": "",
+   "precio": "",
    "campeonatos": [],
    "fuente": "https://cmll.com/cartelera/",
-   "precio_fuente": "https://mexico.edc.com/tickets/",
    "img": "img/luchas/o-cmll-especial.jpg",
    "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
    "credito_url": "https://cmll.com/cartelera/"
   },
   {
-   "nombre": "WWE Monday Night RAW: Raleigh",
-   "promocion": "WWE",
-   "fecha": "2026-11-16",
-   "lugar": "Lenovo Center",
-   "ciudad": "Raleigh",
-   "precio": "desde $100",
-   "campeonatos": [],
-   "fuente": "https://www.koobit.com/aaa-lucha-libre-worldwide-mexico-city-e237051",
-   "precio_fuente": "https://www.lenovocenter.com/events/detail/wwe-raw-ral26",
-   "img": "img/luchas/o-wwe-wwe-monday-night-raw-raleigh.jpg",
-   "credito": "Imagen: WWE · koobit.com (sitio oficial)",
-   "credito_url": "https://www.koobit.com/aaa-lucha-libre-worldwide-mexico-city-e237051"
-  },
-  {
-   "nombre": "Lucha Libre en el Coliseo",
-   "promocion": "CMLL",
-   "fecha": "2026-11-16",
-   "lugar": "Arena Coliseo",
-   "ciudad": "Ciudad de México",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.sportingnews.com/mx/tsn/news/boletos-cmll-lucha-libre-cdmx-como-comprar-precios/e1b1638bad0cfc205a214b4f",
-   "img": "img/luchas/o-cmll-lucha-libre-en-el-coliseo.jpg",
-   "credito": "Imagen: CMLL · sportingnews.com (sitio oficial)",
-   "credito_url": "https://www.sportingnews.com/mx/tsn/news/boletos-cmll-lucha-libre-cdmx-como-comprar-precios/e1b1638bad0cfc205a214b4f"
-  },
-  {
-   "nombre": "Alianzas",
+   "nombre": "Martes",
    "promocion": "CMLL",
    "fecha": "2026-11-17",
    "lugar": "ARENA COLISEO DE OCCIDENTE",
-   "ciudad": "Occidente",
+   "ciudad": "",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://cmll.com/cartelera/",
-   "img": "img/luchas/o-cmll-alianzas.jpg",
+   "img": "img/luchas/o-cmll-martes.jpg",
    "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
    "credito_url": "https://cmll.com/cartelera/"
   },
   {
-   "nombre": "Lucha Libre en el México",
+   "nombre": "Martes Populares de Lucha Libre",
    "promocion": "CMLL",
    "fecha": "2026-11-17",
    "lugar": "Arena México",
@@ -456,35 +425,75 @@
    "precio": "",
    "campeonatos": [],
    "fuente": "https://www.sportingnews.com/mx/tsn/news/boletos-cmll-lucha-libre-cdmx-como-comprar-precios/e1b1638bad0cfc205a214b4f",
-   "img": "img/luchas/o-cmll-lucha-libre-en-el-mexico.jpg",
+   "img": "img/luchas/o-cmll-martes-populares-de-lucha-libre.jpg",
    "credito": "Imagen: CMLL · sportingnews.com (sitio oficial)",
    "credito_url": "https://www.sportingnews.com/mx/tsn/news/boletos-cmll-lucha-libre-cdmx-como-comprar-precios/e1b1638bad0cfc205a214b4f"
   },
   {
-   "nombre": "WWE Friday Night SmackDown: Evansville",
-   "promocion": "WWE",
-   "fecha": "2026-11-20",
-   "lugar": "Ford Center",
-   "ciudad": "Evansville",
+   "nombre": "Viernes Espectaculares de Lucha Libre",
+   "promocion": "CMLL",
+   "fecha": "2026-11-18",
+   "lugar": "Arena México",
+   "ciudad": "Ciudad de México",
    "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.koobit.com/aaa-lucha-libre-worldwide-mexico-city-e237051",
-   "img": "img/luchas/o-wwe-wwe-friday-night-smackdown-evansville.jpg",
-   "credito": "Imagen: WWE · koobit.com (sitio oficial)",
-   "credito_url": "https://www.koobit.com/aaa-lucha-libre-worldwide-mexico-city-e237051"
+   "fuente": "https://www.sportingnews.com/mx/tsn/news/boletos-cmll-lucha-libre-cdmx-como-comprar-precios/e1b1638bad0cfc205a214b4f",
+   "img": "img/luchas/o-cmll-viernes-espectaculares-de-lucha-libre.jpg",
+   "credito": "Imagen: CMLL · sportingnews.com (sitio oficial)",
+   "credito_url": "https://www.sportingnews.com/mx/tsn/news/boletos-cmll-lucha-libre-cdmx-como-comprar-precios/e1b1638bad0cfc205a214b4f"
   },
   {
-   "nombre": "WWE Monday Night RAW & WWE SmackDown: Wichita",
+   "nombre": "Sábados de Lucha Libre",
+   "promocion": "CMLL",
+   "fecha": "2026-11-19",
+   "lugar": "Arena México",
+   "ciudad": "Ciudad de México",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.sportingnews.com/mx/tsn/news/boletos-cmll-lucha-libre-cdmx-como-comprar-precios/e1b1638bad0cfc205a214b4f",
+   "img": "img/luchas/o-cmll-sabados-de-lucha-libre.jpg",
+   "credito": "Imagen: CMLL · sportingnews.com (sitio oficial)",
+   "credito_url": "https://www.sportingnews.com/mx/tsn/news/boletos-cmll-lucha-libre-cdmx-como-comprar-precios/e1b1638bad0cfc205a214b4f"
+  },
+  {
+   "nombre": "Domingos Familiares de Lucha Libre",
+   "promocion": "CMLL",
+   "fecha": "2026-11-20",
+   "lugar": "Arena México",
+   "ciudad": "Ciudad de México",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.sportingnews.com/mx/tsn/news/boletos-cmll-lucha-libre-cdmx-como-comprar-precios/e1b1638bad0cfc205a214b4f",
+   "img": "img/luchas/o-cmll-domingos-familiares-de-lucha-libre.jpg",
+   "credito": "Imagen: CMLL · sportingnews.com (sitio oficial)",
+   "credito_url": "https://www.sportingnews.com/mx/tsn/news/boletos-cmll-lucha-libre-cdmx-como-comprar-precios/e1b1638bad0cfc205a214b4f"
+  },
+  {
+   "nombre": "WWE Monday Night RAW & WWE SmackDown",
    "promocion": "WWE",
    "fecha": "2026-11-23",
    "lugar": "Intrust Bank Arena",
    "ciudad": "Wichita",
-   "precio": "",
+   "precio": "desde $176",
    "campeonatos": [],
    "fuente": "https://www.koobit.com/aaa-lucha-libre-worldwide-mexico-city-e237051",
-   "img": "img/luchas/o-wwe-wwe-monday-night-raw-wwe-smackdown-wichita.jpg",
+   "precio_fuente": "https://www.koobit.com/monday-night-raw-wwe-smackdown-wichita-e235294",
+   "img": "img/luchas/o-wwe-wwe-monday-night-raw-wwe-smackdown.jpg",
    "credito": "Imagen: WWE · koobit.com (sitio oficial)",
    "credito_url": "https://www.koobit.com/aaa-lucha-libre-worldwide-mexico-city-e237051"
+  },
+  {
+   "nombre": "Martes Populares de Lucha Libre",
+   "promocion": "CMLL",
+   "fecha": "2026-11-24",
+   "lugar": "Arena México",
+   "ciudad": "Ciudad de México",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.sportingnews.com/mx/tsn/news/boletos-cmll-lucha-libre-cdmx-como-comprar-precios/e1b1638bad0cfc205a214b4f",
+   "img": "img/luchas/o-cmll-martes-populares-de-lucha-libre.jpg",
+   "credito": "Imagen: CMLL · sportingnews.com (sitio oficial)",
+   "credito_url": "https://www.sportingnews.com/mx/tsn/news/boletos-cmll-lucha-libre-cdmx-como-comprar-precios/e1b1638bad0cfc205a214b4f"
   },
   {
    "nombre": "WWE AAA Live Tour: Houston",
@@ -526,7 +535,7 @@
    "credito_url": "https://www.koobit.com/aaa-lucha-libre-worldwide-mexico-city-e237051"
   },
   {
-   "nombre": "WWE Monday Night RAW: North Little Rock",
+   "nombre": "WWE Monday Night RAW",
    "promocion": "WWE",
    "fecha": "2026-11-30",
    "lugar": "Simmons Bank Arena",
@@ -534,9 +543,22 @@
    "precio": "",
    "campeonatos": [],
    "fuente": "https://www.koobit.com/aaa-lucha-libre-worldwide-mexico-city-e237051",
-   "img": "img/luchas/o-wwe-wwe-monday-night-raw-north-little-rock.jpg",
+   "img": "img/luchas/o-wwe-wwe-monday-night-raw.jpg",
    "credito": "Imagen: WWE · koobit.com (sitio oficial)",
    "credito_url": "https://www.koobit.com/aaa-lucha-libre-worldwide-mexico-city-e237051"
+  },
+  {
+   "nombre": "Últimas noches de 2026",
+   "promocion": "CMLL",
+   "fecha": "2026-12-01",
+   "lugar": "Arena México",
+   "ciudad": "Ciudad de México",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/",
+   "img": "img/luchas/o-cmll-ultimas-noches-de-2026.jpg",
+   "credito": "Imagen: CMLL · luchamexicoexperience.com (sitio oficial)",
+   "credito_url": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/"
   },
   {
    "nombre": "WWE Holiday Live Tour: Rockford",
@@ -552,7 +574,7 @@
    "credito_url": "https://www.koobit.com/aaa-lucha-libre-worldwide-mexico-city-e237051"
   },
   {
-   "nombre": "WWE Friday Night SmackDown: Grand Rapids",
+   "nombre": "WWE Friday Night SmackDown",
    "promocion": "WWE",
    "fecha": "2026-12-04",
    "lugar": "Van Andel Arena",
@@ -560,7 +582,7 @@
    "precio": "",
    "campeonatos": [],
    "fuente": "https://www.koobit.com/aaa-lucha-libre-worldwide-mexico-city-e237051",
-   "img": "img/luchas/o-wwe-wwe-friday-night-smackdown-grand-rapids.jpg",
+   "img": "img/luchas/o-wwe-wwe-friday-night-smackdown.jpg",
    "credito": "Imagen: WWE · koobit.com (sitio oficial)",
    "credito_url": "https://www.koobit.com/aaa-lucha-libre-worldwide-mexico-city-e237051"
   },
@@ -576,6 +598,32 @@
    "img": "img/luchas/o-wwe-wwe-nxt-holiday-live-tour-oceanside.jpg",
    "credito": "Imagen: WWE · koobit.com (sitio oficial)",
    "credito_url": "https://www.koobit.com/aaa-lucha-libre-worldwide-mexico-city-e237051"
+  },
+  {
+   "nombre": "WWE Holiday Live Tour: Louisville",
+   "promocion": "WWE",
+   "fecha": "2026-12-05",
+   "lugar": "KFC Yum! Center",
+   "ciudad": "Louisville",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.koobit.com/aaa-lucha-libre-worldwide-mexico-city-e237051",
+   "img": "img/luchas/o-wwe-wwe-holiday-live-tour-louisville.jpg",
+   "credito": "Imagen: WWE · koobit.com (sitio oficial)",
+   "credito_url": "https://www.koobit.com/aaa-lucha-libre-worldwide-mexico-city-e237051"
+  },
+  {
+   "nombre": "Últimas noches de 2026",
+   "promocion": "CMLL",
+   "fecha": "2026-12-06",
+   "lugar": "Arena México",
+   "ciudad": "Ciudad de México",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/",
+   "img": "img/luchas/o-cmll-ultimas-noches-de-2026.jpg",
+   "credito": "Imagen: CMLL · luchamexicoexperience.com (sitio oficial)",
+   "credito_url": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/"
   },
   {
    "nombre": "WRESTLE KINGDOM 21",
