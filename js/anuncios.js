@@ -28,7 +28,7 @@
   }
   try {
     var tipo = clasificar(), d = new Date();
-    var ymd = d.getFullYear() + String(d.getMonth() + 1).padStart(2, '0') + String(d.getDate()).padStart(2, '0');
+    var ymd = new Date(d.getTime() - 216e5).toISOString().slice(0, 10).replace(/-/g, '');   // [.leon 2026-11-17] día en hora de México (UTC-6 fijo), como OKpolítico: el día local del navegador repartía visitas en días distintos
     window.eemTipoVisita = tipo;
     if (tipo !== 'real') {
       var pf = tipo === 'bot' ? 'tb' : 'tp';
@@ -50,6 +50,38 @@
       if (o !== 'interna') hit('o-' + o);          // de dónde llegan
       hit('d-' + (/Mobi|Android|iPhone/i.test(navigator.userAgent) ? 'movil' : 'escritorio'));
       if (!localStorage.eem_v) { localStorage.eem_v = '1'; hit('u-nuevos'); } else { hit('u-recurrentes'); }   // visitantes nuevos vs. que regresan
+      // [.leon 2026-11-17] Contador mejorado (copiado del de OKpolítico): por día, sesiones, calidad de lectura, geografía, referidos y clics.
+      try {
+        var dk = ymd, mov = /Mobi|Android|iPhone|iPad/i.test(navigator.userAgent || ''), mes = ymd.slice(0, 6);
+        if (o !== 'interna') hit('o-' + o + '-' + dk);                                            // origen por día
+        if (localStorage.eem_d !== dk) { localStorage.eem_d = dk; hit('u-' + dk); }               // visitantes únicos del día
+        if (!sessionStorage.eem_s) { sessionStorage.eem_s = '1'; hit('s-' + dk); hit((localStorage.eem_vv ? 'ur-' : 'un-') + dk); localStorage.eem_vv = '1'; hit((mov ? 'dm-' : 'de-') + dk); }   // sesiones, nuevos/recurrentes y dispositivo por día
+        if (o === 'directo') { hit('od-' + pag); hit((mov ? 'odm-' : 'ode-') + dk); }              // directos por página y dispositivo
+        if (o === 'otro' && ref) {
+          var rh = (ref.split('/')[2] || '').replace(/^www\./, ''), rn = /news\.google|discover/.test(rh) ? 'gnoticias' : /chatgpt|openai/.test(rh) ? 'chatgpt' : /perplexity/.test(rh) ? 'perplexity' : /reddit/.test(rh) ? 'reddit' :
+            /linkedin|lnkd/.test(rh) ? 'linkedin' : /pinterest/.test(rh) ? 'pinterest' : /msn\.|bing/.test(rh) ? 'msn' : /mail\.|outlook|gmail/.test(rh) ? 'correo' : /brave|ecosia|qwant|yandex|baidu|naver/.test(rh) ? 'otros-buscadores' :
+            /feedly|flipboard|inoreader/.test(rh) ? 'lectores-rss' : /gemini|claude\.ai|copilot/.test(rh) ? 'ia' : 'otros';
+          hit('rf-' + rn + '-' + dk);                                                              // referidos conocidos
+        }
+        var tz = ''; try { tz = Intl.DateTimeFormat().resolvedOptions().timeZone || ''; } catch (e) { }
+        if (!sessionStorage.eem_geo) { sessionStorage.eem_geo = '1'; hit(/^America\/(Mexico_City|Monterrey|Merida|Cancun|Chihuahua|Hermosillo|Mazatlan|Tijuana|Matamoros|Ojinaga|Bahia_Banderas|Ciudad_Juarez)/.test(tz) ? 'geo-mx-' + dk : /^America\/(New_York|Chicago|Denver|Los_Angeles|Phoenix|Detroit|Anchorage|Boise|Indiana|Kentucky|North_Dakota|Menominee|Juneau|Sitka|Nome|Yakutat)|^Pacific\/Honolulu/.test(tz) ? 'geo-us2-' + dk : 'geo-otro-' + dk); }   // México vs EE. UU. vs resto
+        var vis = 0, tmr = setInterval(function () {                                                // calidad: segundos con la página visible
+          if (document.visibilityState === 'visible') { vis++; if (vis === 10) { hit('e10-' + dk); if (o === 'directo') hit('od10-' + dk); } if (vis === 30) hit('e30-' + dk); if (vis === 90) { hit('e90-' + dk); clearInterval(tmr); } }
+        }, 1000);
+        var s50 = 0, s90 = 0;
+        addEventListener('scroll', function () {                                                    // calidad: hasta dónde se lee
+          var m = (scrollY + innerHeight) / Math.max(1, document.documentElement.scrollHeight);
+          if (!s50 && m > .5) { s50 = 1; hit('sc50-' + dk); } if (!s90 && m > .9) { s90 = 1; hit('sc90-' + dk); if (o === 'directo') hit('od90-' + dk); }
+        }, { passive: true });
+        try { var io = new IntersectionObserver(function (es) { es.forEach(function (x) { if (x.isIntersecting) { hit('adi-' + String(x.target.dataset.ad).replace(/[^a-z0-9-]/gi, '').slice(0, 30) + '-' + mes); io.unobserve(x.target); } }); }, { threshold: .5 });
+          setTimeout(function () { document.querySelectorAll('[data-ad]').forEach(function (n) { io.observe(n); }); }, 2500); } catch (e) { }   // anuncios vistos (los anuncios se pintan después de cargar data/anuncios.json)
+        document.addEventListener('click', function (e) {                                           // clics: anuncios por mes, compartir, Telegram y redes
+          var a = e.target.closest && e.target.closest('a'); if (!a) return; var u = a.href || '';
+          if (a.dataset.ad) hit('adc-' + String(a.dataset.ad).replace(/[^a-z0-9-]/gi, '').slice(0, 30) + '-' + mes);
+          if (a.closest('.compartir,.wa-top')) { hit('comp-' + (/wa\.me/.test(u) ? 'whatsapp' : /t\.me/.test(u) ? 'telegram' : /facebook/.test(u) ? 'facebook' : 'x')); return; }
+          var rd = u.match(/(youtube|tiktok|instagram|facebook)\.com/); if (rd) hit('red-' + rd[1]); else if (u.indexOf('t.me/') > -1) hit('tg-' + (a.dataset.f || pag).slice(0, 20));
+        }, true);
+      } catch (e) { }
     }
   } catch (e) { }
   // [e.leo] El espacio de AdSense NO se muestra hasta que Google entrega un anuncio (data-ad-status="filled"); el resultado de las visitas reales
