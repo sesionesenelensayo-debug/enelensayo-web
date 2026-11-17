@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Charlize Theron: del Oscar a la lucha contra el doble rasero en Hollywood",
+    "artista": "Charlize Theron Hollywood",
+    "intro": "Con tres décadas de carrera, la sudafricana Oscar y productora denuncia la inequidad de género, revela sus inseguridades y sigue arriesgándose en papeles de acción.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/charlize-theron-del-oscar-a-la-lucha-contra-el-doble-rasero-en-hollywo-1117.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/charlize-theron-del-oscar-a-la-lucha-contra-el-doble-rasero-en-hollywo-1117.jpg",
+    "fecha": "2026-11-17T09:44:06.503466",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme internacional"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "El misterio de los fantasmas de la Torre de Londres",
     "artista": "el caso del fantasma de la Torre de Londres",
     "intro": "Historias de appariciones y leyendas que han recorrido sus muros durante siglos.",
@@ -5919,19 +5933,5 @@
     "categoria": "In memoriam",
     "fecha_original": "2026-10-29T03:16:14",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Renate Reinsve y el posible papel de Moira MacTaggert en el reboot de X‑Men",
-    "artista": "Renate Reinsve",
-    "intro": "La actriz noruega ha destacado en cine independiente, se reunió con Marvel y su nombre circula entre los candidatos para la icónica científica mutante.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/renate-reinsve-y-el-posible-papel-de-moira-mactaggert-en-el-reboot-de-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/renate-reinsve-y-el-posible-papel-de-moira-mactaggert-en-el-reboot-de-1104.jpg",
-    "fecha": "2026-11-04T16:37:06.408837",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme internacional"
   }
 ]
