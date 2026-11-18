@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Las 10 películas más esperadas de 2026: estreno, estrellas y expectativas",
+    "artista": "las 10 películas más esperadas de 2026",
+    "intro": "Un ranking basado en fechas de estreno, reparto y expectativas del mercado global.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/las-10-peliculas-mas-esperadas-de-2026-estreno-estrellas-y-expectativa-1117.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/las-10-peliculas-mas-esperadas-de-2026-estreno-estrellas-y-expectativa-1117.jpg",
+    "fecha": "2026-11-17T19:15:37.078586",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Anthony Mackie niega haber hecho spoilers sobre Avengers: Doomsday",
     "artista": "Anthony Mackie",
@@ -5915,22 +5929,6 @@
     "views": 0,
     "categoria": "Cultura",
     "fecha_original": "2026-11-04T21:33:10.493136",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Estrenos de noviembre 2026: de Los Juegos del Hambre a Godzilla llegan al cine",
-    "artista": "Estrenos de noviembre 2026",
-    "intro": "Este noviembre se abrirán las puertas de los cines a una serie de estrenos que incluyen la nueva entrega de Los Juegos del Hambre y la última película de Godzilla.",
-    "telegraph_url": "https://telegra.ph/Estrenos-de-noviembre-2026-de-Los-Juegos-del-Hambre-a-Godzilla-llegan-al-cine-11-03",
-    "url": "https://enelensayomedia.com/notas/estrenos-de-noviembre-2026-de-los-juegos-del-hambre-a-godzilla-llegan-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/estrenos-de-noviembre-2026-de-los-juegos-del-hambre-a-godzilla-llegan-1103.jpg",
-    "fecha": "2026-11-05T08:15:16.007414",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-03T09:22:27.591581",
     "actualizada": true
   }
 ]
