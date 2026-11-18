@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Buscar — En el Ensayo Media</title>
+<meta name="description" content="Busca notas, artistas y temas en En el Ensayo Media: música, chisme, cine, cultura, videojuegos y más.">
+<link rel="canonical" href="https://enelensayomedia.com/buscar.html">
+<meta name="robots" content="index, follow">
+<link rel="stylesheet" href="/css/moderno.css?v=20261101d">
+<style>
+body{max-width:860px;margin:0 auto;padding:24px 16px 60px}
+h1{font-size:clamp(1.6rem,4vw,2.2rem);margin:18px 0 6px}
+.bs{display:flex;gap:8px;margin:14px 0 8px}
+.bs input{flex:1;font:inherit;padding:14px 16px;border-radius:14px;border:1px solid rgba(255,255,255,.25);background:rgba(255,255,255,.07);color:inherit}
+.bs input:focus{outline:2px solid #ffeb3b}
+#n{opacity:.7;font-size:.9rem;margin:6px 2px 14px}
+.r{display:block;padding:14px 16px;margin:0 0 10px;border-radius:14px;background:rgba(255,255,255,.05);border:1px solid rgba(255,255,255,.1);text-decoration:none;color:inherit}
+.r:hover{border-color:#ffeb3b}
+.r b{display:block;font-size:1.02rem;line-height:1.3}
+.r small{opacity:.7}.r p{margin:6px 0 0;opacity:.85;font-size:.92rem}
+.c{display:inline-block;padding:2px 9px;border-radius:99px;background:#ffeb3b;color:#111;font-size:.72rem;font-weight:800;margin-right:8px}
+a.v{display:inline-block;margin-top:18px}
+</style>
+</head>
+<body>
+<p><a class="v" href="/">← En el Ensayo Media</a></p>
+<h1>Buscar</h1>
+<form class="bs" onsubmit="return false"><input id="q" type="search" placeholder="Artista, tema o nota…" autocomplete="off" autofocus></form>
+<div id="n">Escribe para buscar entre las notas.</div>
+<div id="res"></div>
+<script>
+(function(){
+  var D=[],q=document.getElementById('q'),R=document.getElementById('res'),N=document.getElementById('n');
+  function norm(s){return String(s||'').toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g,'');}
+  function esc(s){return String(s||'').replace(/[&<>"]/g,function(c){return {'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]})}
+  fetch('/data/busqueda.json').then(function(r){return r.json()}).then(function(d){
+    D=d.map(function(x){x._t=norm(x.t);x._a=norm(x.a);x._c=norm(x.c);x._r=norm(x.r);return x});
+    var p=new URLSearchParams(location.search).get('q'); if(p){q.value=p;go()}
+  }).catch(function(){N.textContent='No se pudo cargar el buscador. Intenta de nuevo.'});
+  function go(){
+    var t=norm(q.value).trim().split(/\s+/).filter(Boolean);
+    if(!t.length){R.innerHTML='';N.textContent='Escribe para buscar entre las notas.';return}
+    var out=[];
+    D.forEach(function(x){var s=0,ok=true;t.forEach(function(w){var m=0;if(x._t.indexOf(w)>-1)m+=5;if(x._a.indexOf(w)>-1)m+=4;if(x._c.indexOf(w)>-1)m+=2;if(x._r.indexOf(w)>-1)m+=1;if(!m)ok=false;s+=m});if(ok)out.push([s,x])});
+    out.sort(function(a,b){return b[0]-a[0]||String(b[1].f).localeCompare(String(a[1].f))});
+    N.textContent=out.length?out.length+' resultado'+(out.length>1?'s':''):'Sin resultados. Prueba con otra palabra.';
+    R.innerHTML=out.slice(0,30).map(function(o){var x=o[1];return '<a class="r" href="'+esc(x.u)+'"><span class="c">'+esc(x.c||'Nota')+'</span><small>'+esc(x.f)+'</small><b>'+esc(x.t)+'</b><p>'+esc(x.r)+'</p></a>'}).join('');
+  }
+  q.addEventListener('input',go);
+})();
+</script>
+</body>
+</html>
