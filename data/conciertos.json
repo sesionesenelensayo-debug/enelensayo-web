@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18 12:34",
+ "actualizado": "2026-11-18 14:35",
  "eventos": [],
  "api": false,
  "ticketmaster": {
@@ -109,10 +109,28 @@
  ],
  "noticias": [
   {
+   "titulo": "Confirma Intocable gira Texicano Tour 2027; terminará en Monterrey",
+   "fuente": "MVS Noticias",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNTNaWk5jUzdncFQ0VTRwU2t3SXF3QTZVNFJDUzBQZEhGUGRsdzJHb1EtQnBWaUJvYzl6czBlTzUyZHo3X2xwcW9rTnN5eUllNk9Dc0lXWjZLLU1QZDdLNTYtdGlOc2hHcDF2S0FKQXFYQVRycEtOZm15T0JSQTA0blFNNHI1aTk5Q3VrR0NhdjR6Sk96bmNqMHdhYzB5NFFwUG9yNnV6MkFHbVdGQXN0RU9NYmNxNWdKWS1iQklHZlc?oc=5",
+   "fecha": "2026-11-18 19:16"
+  },
+  {
    "titulo": "¡Cypress Hill viene a CDMX! Ya hay fecha y preventa para 2027",
    "fuente": "LifeBoxset",
    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1sbW5pdVhiVWRPWEI5Z2traC04U0VtaGNoWTJ3OXpGZnJlRXZvakZOcUJ6R2VOMHNPS1Q2a285c3lTT3NGTFdkSWlfRVFoQ2RXS2k0ZHd2OVJESDZuMmNYbDhB?oc=5",
    "fecha": "2026-11-18 16:07"
+  },
+  {
+   "titulo": "¡Beth Gibbons vuelve a México! Ya hay concierto para 2027",
+   "fuente": "LifeBoxset",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuMk9icmswSF9yZmNxRGg1WVZ3N0N6YWZsNWpLeS1uV0ZYbFRPTFRWYkVqNjg1bm9yT09jeEV4aHNEWDRyb2pzQklZeEZvSFU2UjZmb1ZpSXQ4SWFKU0YzT3pR?oc=5",
+   "fecha": "2026-11-18 16:07"
+  },
+  {
+   "titulo": "Vans Warped Tour México 2027: fechas, sede y boletos",
+   "fuente": "Alternativo.MX",
+   "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5DZjJETU1ld21KZmRzNGNkSms4d1dNbFc4a2tzTDliZTExaVR5R0xVcnQtRGlvLWk3QkF1a04wUmlfUmtEYVdQQ2dYenpBMThSaFlXM2owOGp4UmN0Ty1JX2dwTVhZWFpkb1hWcUE5Znh4dw?oc=5",
+   "fecha": "2026-11-18 07:30"
   },
   {
    "titulo": "Boletos Corona Capital 2026: Disponibilidad, precios por días y abono de tres jornadas en Ticketmaster",
@@ -125,12 +143,6 @@
    "fuente": "El Informador",
    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQSmRnaDI5Rzc4Q0l3R0tXSXNnUUVZNENzUi01MXpmYzB3YlJmMVcwMmtVS2FhU2tSMmZhM2NYdjdVb0w4SGFDTUFWLWpKS0ltc3h0WFRtZi1Kemx2Ny15VndQUjNGM3NzNmM5bEF1NFBwd0ZYVjlhN2pwT1lOMEpWckVXY3dkUVM3Tm9odUh6WjY4NUI1MXFKZmRsNU1hNW1XUUtpSm5ZUmJfc2pITUxLSk9hUmZ5VEgxTVEtaUFfLXctbTR4T2xkZzFB0gHPAUFVX3lxTE5LSVRtN2tBcU8tZ1pwRF9VMFY5U3N6M2dYbTVZZXo4dklISUdldUJLLU9WRnc0RnhwLVpaeUk1d2w4LW5DV0x6RmktY1dVc3FBUHNCNW9WaEVTWndHcTVLRVRjdU4xTkdPVV9rcHBhLWNpTWJIY09YYVNQVFZ6M1owUHZNSUxvVUVwOUN2UW5Sd0poSk5STktRS3JrZ3czZEVNWjl6ekhXQ2M4U21hVEtaemZBcUx3UzhpOU02OV9jMlNOZ0g1MXhGT09PZmtxcw?oc=5",
    "fecha": "2026-11-14 01:46"
-  },
-  {
-   "titulo": "'Las Guerreras K-Pop' tendrán gira mundial, aquí todos los detalles",
-   "fuente": "El Informador",
-   "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPT3NIQTVYdlgwUU13eGNGZm9UbzMyR1Z1dm5OVG9qamJGdnphWkZaVlRMckpHRTdtMEMzQ05mbXU0QjJtRXdnYTVNV3lHbXZ1ek1NX1gzeFVHZFk2ZGdfRHp4V0JhV1A0M09sUGlzcE1GZUFIQlpmcUkxdk84QTlpZEFuVVJuNUlZTVdhekg3VENIRzREZFQzSHZTeGxYUWZZQkZuOWtqT1dMUjVIakNDTXdHNDJtVDIzTTVvWW9VVHhQYnJGdW5iQkkweDRVQmhXVExzNjIzZlhuSWZablZ3TlkwcDdRVGw2SHEw0gHwAUFVX3lxTE50ZTlRWG56SHIwSDNkdDlGZjJOZ2FkSFlib01OMUd0UmFfeWJqSFlfTmtuVmM4YnFla1NId2JVdHdKYkhSRGprNHhFMjJnUllHWnRBNVF4b1RIQ3dnNFRDbU5tVnFPNDFvSXpzLVBXQ3FxYkNMZ0JtbWVudHVSdVF0TmJSZmJjQnlwNjB1bXpjbmgzd1pHWjBKU1ROYnpBem1XZDJzeUE3UFU5X01ZTXpqV1pDQy0tS1Utb1MxN0FTUTBya2kwdExUVWZfNzVUUTVJdzdxSUNTRTdfbUpSbmJPT19NX2ZYNF9JNnotWHhVSQ?oc=5",
-   "fecha": "2026-11-13 22:45"
   },
   {
    "titulo": "El Buen Fin 2026 llega a Ticketmaster: fechas y descuentos en conciertos y espectáculos",
@@ -149,12 +161,6 @@
    "fuente": "Chic Magazine",
    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQc1hoS1RrV0hyVWgtNGN4MGZfTGo2ekVsZmZSMkI2bXB4NzZvNEppeGNPSGpsYTAxRkZ1Um1vLXQzTzE1WHZOLUdDY0hBTVYyUktvZjdhYVhxU0lic3JWbGtUN1AzVVpwWkFsSEJYN0xTRzdKVGl6TklvV09peU9uSkpwOTZoaUVzUjE0YlM2c1hYQ2pWNjBtb3M3S3pZZXNTZGlDZy1xQ21yLS1xSHl3WQ?oc=5",
    "fecha": "2026-11-13 16:18"
-  },
-  {
-   "titulo": "Tame Impala en México 2027: fechas, boletos y preventa",
-   "fuente": "Noir Magazine",
-   "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBqdTh1X1lteDd2REVyMWgydFRuWTVXbUJYcUhyQUlONVQwMk1PRXZBUDNDUkVsZmdHanJfenJXT2F4VkN3d0RzelRrWWVPeFZ5OTZYRWczWFhXbklueVNaOVo3cHNENlVyNU5sbjNqZXBLSGhjcUdzYlJB?oc=5",
-   "fecha": "2026-11-13 15:11"
   },
   {
    "titulo": "Tame Impala regresa a México con el Deadbeat Tour",
@@ -181,14 +187,8 @@
    "fecha": "2026-11-12 13:20"
   },
   {
-   "titulo": "Bad Religion anuncian concierto en el Pabellón Oeste de la Ciudad de México en marzo de 2027",
-   "fuente": "Summa Inferno",
-   "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE15NE1OdFlhTDZNaUFyUGhTSWlxTm9PVW1Jb285bXpRMnpIYjhEbTZIWFBNRXdlNjNveERmVUJiZFIzSnNtbm9hVEtOTW9TQmp3Qk1jS25HUUd2T0ZyN1ZHSDVIWm1Ddk9mWDhIVGpWMV9Bd0d1Si1kd0tyQQ?oc=5",
-   "fecha": "2026-11-11 18:32"
-  },
-  {
    "titulo": "Rels B en CdMx: ¿Cuándo y dónde dará sus conciertos? Fechas y preventa de boletos",
-   "fuente": "MILENIO",
+   "fuente": "Milenio",
    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMFhJbTBMSEJfRE11ZU00NVlIYUJQS1I4RS1DYnd6cHVNUXJCeHlhTlFldG4xZXd5SnNrQlAyQ1NtWEZ5TEY1VWoycFY4UkFyemd3V0FxdzlERC03Tl84SWJOLXZjRkE3NEhSSFdQQzNnOXNFRVNCYkVIWExkek1zTFdyY3dJUHdCUS0tdUkwV0VoaThjZEJtN28yUdIBmwFBVV95cUxQdWtfUm5GbHdzbUpMMmJYMzIyZGxfdzV2cVZ2ckpYRWszRGQ3LU1hRUVSMFZmWktoNzRjSXpCWnlZeDV3QURfbmQwR3czN3NycHFFZnY0cThLQUF2ZE9RYmQtMl9VOWhxZ0c2MGlNcThFdG9adTlBZk9LbzlKVS1MN0VlNk9BZncwcnNyNlUwTEZ2VlJrcVFDN0NqRQ?oc=5",
    "fecha": "2026-11-11 17:49"
   }

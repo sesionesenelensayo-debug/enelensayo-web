@@ -1,33 +1,4 @@
 {
- "In memoriam": {
-  "shorts": [
-   {
-    "id": "mgn-ud1VQqc",
-    "titulo": "Marilyn Monroe murió la madrugada del 5 de agosto de 1962 en su residencia de Los Ángeles",
-    "fecha": "2026-11-18",
-    "nota": "https://enelensayomedia.com/notas/marilyn-monroe-murio-la-madrugada-del-5-de-agosto-de-1962-en-su-reside-1118.html"
-   },
-   {
-    "id": "Dn_keTbqg5A",
-    "titulo": "Frida Kahlo murió en 1954 por embolia pulmonar, confirmada por su enfermera",
-    "fecha": "2026-11-14",
-    "nota": "https://enelensayomedia.com/notas/frida-kahlo-murio-en-1954-por-embolia-pulmonar-confirmada-por-su-enfer-1114.html"
-   },
-   {
-    "id": "aIXc77PZJeI",
-    "titulo": "Vicente Fernández ingresó al Country 2000 el 7‑agosto y murió el 12‑diciembre",
-    "fecha": "2026-11-07",
-    "nota": "https://enelensayomedia.com/notas/vicente-fernandez-ingreso-al-country-2000-el-7agosto-y-murio-el-12dici-1107.html"
-   },
-   {
-    "id": "ZmcGV2_3eOI",
-    "titulo": "Pedro Infante muere en accidente aéreo de Mérida en 1957",
-    "fecha": "2026-11-07",
-    "nota": "https://enelensayomedia.com/notas/pedro-infante-muere-en-accidente-aereo-de-merida-en-1957-1107.html"
-   }
-  ],
-  "longs": []
- },
  "Música": {
   "shorts": [
    {
@@ -99,6 +70,12 @@
   ],
   "longs": [
    {
+    "id": "bDyAjmxPQFY",
+    "titulo": "Maluma: del reguetón en Univisión al estrellato global",
+    "fecha": "2026-11-18",
+    "nota": "https://enelensayomedia.com/notas/maluma-del-regueton-en-univision-al-estrellato-global-1118.html"
+   },
+   {
     "id": "j1toVnlfSaU",
     "titulo": "The Police: la grieta creativa que rompió su gira de 2007",
     "fecha": "2026-11-15",
@@ -115,14 +92,97 @@
     "titulo": "El origen y ascenso de Genesis: de estudiantes a 155 millones de álbumes vendidos",
     "fecha": "2026-11-13",
     "nota": "https://enelensayomedia.com/notas/el-origen-y-ascenso-de-genesis-de-estudiantes-a-155-millones-de-albume-1113.html"
-   },
-   {
-    "id": "VmMsW-grezw",
-    "titulo": "El impulso y la independencia de Pepe Aguilar hacia la leyenda",
-    "fecha": "2026-11-09",
-    "nota": "https://enelensayomedia.com/notas/el-impulso-y-la-independencia-de-pepe-aguilar-hacia-la-leyenda-1109.html"
    }
   ]
+ },
+ "Chisme": {
+  "shorts": [
+   {
+    "id": "XQLtoqx4pyU",
+    "titulo": "Ari Telch desmite crisis y enfrenta denuncia vecinal en video",
+    "fecha": "2026-11-18",
+    "nota": "https://enelensayomedia.com/notas/ari-telch-desmite-crisis-y-enfrenta-denuncia-vecinal-en-video-1118.html"
+   },
+   {
+    "id": "d2HO7CpJp4w",
+    "titulo": "Robo nocturno en mansión de Chris Hemsworth en Australia",
+    "fecha": "2026-11-15",
+    "nota": "https://enelensayomedia.com/notas/robo-nocturno-en-mansion-de-chris-hemsworth-en-australia-1115.html"
+   },
+   {
+    "id": "6wivIUQ6Sv8",
+    "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
+    "fecha": "2026-11-13",
+    "nota": "https://enelensayomedia.com/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.html"
+   },
+   {
+    "id": "PeiNuCpmVZU",
+    "titulo": "Roca Rey y Tana Rivera: Cronología de una ruptura",
+    "fecha": "2026-11-12",
+    "nota": "https://enelensayomedia.com/notas/roca-rey-y-tana-rivera-cronologia-de-una-ruptura-1110.html"
+   },
+   {
+    "id": "VwTPd7NBE3o",
+    "titulo": "Chisme de pasillo: Rebecca Jones y las acusaciones de su exmanager",
+    "fecha": "2026-11-12",
+    "nota": "https://enelensayomedia.com/notas/chisme-de-pasillo-rebecca-jones-y-las-acusaciones-de-su-exmanager-1112.html"
+   },
+   {
+    "id": "xbVpUvMj1gY",
+    "titulo": "Olivia Rodrigo lanza su primera canción navideña original, \"Take Me Home (4 Christmas)\"",
+    "fecha": "2026-11-10",
+    "nota": "https://enelensayomedia.com/notas/olivia-rodrigo-lanza-su-primera-cancion-navidena-original-take-me-home-1107.html"
+   },
+   {
+    "id": "48dTiX8W-ZY",
+    "titulo": "Kimberly Irene enfrenta luto y complicaciones financieras",
+    "fecha": "2026-11-09",
+    "nota": "https://enelensayomedia.com/notas/kimberly-irene-enfrenta-luto-y-complicaciones-financieras-1109.html"
+   },
+   {
+    "id": "P6ueUCN25xI",
+    "titulo": "Fallece la actriz y comediante mexicana María Alicia Delgado a los 77 años",
+    "fecha": "2026-11-08",
+    "nota": "https://enelensayomedia.com/notas/fallece-la-actriz-y-comediante-mexicana-maria-alicia-delgado-a-los-77-1104.html"
+   }
+  ],
+  "longs": [
+   {
+    "id": "pRIXeZ6p9q8",
+    "titulo": "El escándalo de Las Lavanderas: verdad, traición y disputas",
+    "fecha": "2026-11-10",
+    "nota": "https://enelensayomedia.com/notas/el-escandalo-de-las-lavanderas-verdad-traicion-y-disputas-1110.html"
+   }
+  ]
+ },
+ "In memoriam": {
+  "shorts": [
+   {
+    "id": "mgn-ud1VQqc",
+    "titulo": "Marilyn Monroe murió la madrugada del 5 de agosto de 1962 en su residencia de Los Ángeles",
+    "fecha": "2026-11-18",
+    "nota": "https://enelensayomedia.com/notas/marilyn-monroe-murio-la-madrugada-del-5-de-agosto-de-1962-en-su-reside-1118.html"
+   },
+   {
+    "id": "Dn_keTbqg5A",
+    "titulo": "Frida Kahlo murió en 1954 por embolia pulmonar, confirmada por su enfermera",
+    "fecha": "2026-11-14",
+    "nota": "https://enelensayomedia.com/notas/frida-kahlo-murio-en-1954-por-embolia-pulmonar-confirmada-por-su-enfer-1114.html"
+   },
+   {
+    "id": "aIXc77PZJeI",
+    "titulo": "Vicente Fernández ingresó al Country 2000 el 7‑agosto y murió el 12‑diciembre",
+    "fecha": "2026-11-07",
+    "nota": "https://enelensayomedia.com/notas/vicente-fernandez-ingreso-al-country-2000-el-7agosto-y-murio-el-12dici-1107.html"
+   },
+   {
+    "id": "ZmcGV2_3eOI",
+    "titulo": "Pedro Infante muere en accidente aéreo de Mérida en 1957",
+    "fecha": "2026-11-07",
+    "nota": "https://enelensayomedia.com/notas/pedro-infante-muere-en-accidente-aereo-de-merida-en-1957-1107.html"
+   }
+  ],
+  "longs": []
  },
  "Biografía": {
   "shorts": [
@@ -201,60 +261,6 @@
   ],
   "longs": []
  },
- "Chisme": {
-  "shorts": [
-   {
-    "id": "d2HO7CpJp4w",
-    "titulo": "Robo nocturno en mansión de Chris Hemsworth en Australia",
-    "fecha": "2026-11-15",
-    "nota": "https://enelensayomedia.com/notas/robo-nocturno-en-mansion-de-chris-hemsworth-en-australia-1115.html"
-   },
-   {
-    "id": "6wivIUQ6Sv8",
-    "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
-    "fecha": "2026-11-13",
-    "nota": "https://enelensayomedia.com/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.html"
-   },
-   {
-    "id": "PeiNuCpmVZU",
-    "titulo": "Roca Rey y Tana Rivera: Cronología de una ruptura",
-    "fecha": "2026-11-12",
-    "nota": "https://enelensayomedia.com/notas/roca-rey-y-tana-rivera-cronologia-de-una-ruptura-1110.html"
-   },
-   {
-    "id": "VwTPd7NBE3o",
-    "titulo": "Chisme de pasillo: Rebecca Jones y las acusaciones de su exmanager",
-    "fecha": "2026-11-12",
-    "nota": "https://enelensayomedia.com/notas/chisme-de-pasillo-rebecca-jones-y-las-acusaciones-de-su-exmanager-1112.html"
-   },
-   {
-    "id": "xbVpUvMj1gY",
-    "titulo": "Olivia Rodrigo lanza su primera canción navideña original, \"Take Me Home (4 Christmas)\"",
-    "fecha": "2026-11-10",
-    "nota": "https://enelensayomedia.com/notas/olivia-rodrigo-lanza-su-primera-cancion-navidena-original-take-me-home-1107.html"
-   },
-   {
-    "id": "48dTiX8W-ZY",
-    "titulo": "Kimberly Irene enfrenta luto y complicaciones financieras",
-    "fecha": "2026-11-09",
-    "nota": "https://enelensayomedia.com/notas/kimberly-irene-enfrenta-luto-y-complicaciones-financieras-1109.html"
-   },
-   {
-    "id": "P6ueUCN25xI",
-    "titulo": "Fallece la actriz y comediante mexicana María Alicia Delgado a los 77 años",
-    "fecha": "2026-11-08",
-    "nota": "https://enelensayomedia.com/notas/fallece-la-actriz-y-comediante-mexicana-maria-alicia-delgado-a-los-77-1104.html"
-   }
-  ],
-  "longs": [
-   {
-    "id": "pRIXeZ6p9q8",
-    "titulo": "El escándalo de Las Lavanderas: verdad, traición y disputas",
-    "fecha": "2026-11-10",
-    "nota": "https://enelensayomedia.com/notas/el-escandalo-de-las-lavanderas-verdad-traicion-y-disputas-1110.html"
-   }
-  ]
- },
  "Reportaje": {
   "shorts": [
    {
@@ -298,12 +304,6 @@
     "titulo": "Maluma anuncia gira mundial Loco X Volver para 2027 y 2028",
     "fecha": "2026-11-06",
     "nota": "https://enelensayomedia.com/notas/maluma-anuncia-gira-mundial-loco-x-volver-para-2027-y-2028-1106.html"
-   },
-   {
-    "id": "X7cXUTxfHCU",
-    "titulo": "Café Tacvba lanzó su disco de versiones «Avalancha de Éxitos»",
-    "fecha": "2026-11-05",
-    "nota": "https://enelensayomedia.com/notas/cafe-tacvba-lanzo-su-disco-de-versiones-avalancha-de-exitos-1105.html"
    }
   ],
   "longs": []
