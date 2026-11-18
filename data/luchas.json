@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18 04:51",
+ "actualizado": "2026-11-18 11:08",
  "campeones": {
   "WWE": [
    {
@@ -272,10 +272,7 @@
    },
    {
     "titulo": "CMLL World Lightweight Championship",
-    "campeon": "Stigma",
-    "img": "img/luchas/w-stigma.jpg",
-    "credito": "Foto: shstrng · CC BY 2.0 · Wikimedia Commons",
-    "credito_url": "https://commons.wikimedia.org/wiki/File:STIGMA.JPG"
+    "campeon": "Calavera Jr. I"
    },
    {
     "titulo": "CMLL World Mini-Estrellas Championship",
@@ -382,8 +379,8 @@
    "promocion": "CMLL",
    "fecha": "2026-11-19",
    "lugar": "ARENA COLISEO",
-   "ciudad": "Ciudad de México",
-   "precio": "Boletos →",
+   "ciudad": "",
+   "precio": "",
    "campeonatos": [],
    "fuente": "https://cmll.com/cartelera/",
    "img": "img/luchas/o-cmll-especial.jpg",
@@ -395,8 +392,8 @@
    "promocion": "CMLL",
    "fecha": "2026-11-20",
    "lugar": "ARENA MÉXICO",
-   "ciudad": "Ciudad de México",
-   "precio": "Boletos →",
+   "ciudad": "",
+   "precio": "",
    "campeonatos": [],
    "fuente": "https://cmll.com/cartelera/",
    "img": "img/luchas/o-cmll-viernes-espectacular.jpg",
@@ -404,87 +401,35 @@
    "credito_url": "https://cmll.com/cartelera/"
   },
   {
-   "nombre": "Martes Populares de Lucha Libre",
+   "nombre": "Últimas noches de 2026",
    "promocion": "CMLL",
-   "fecha": "2026-11-24",
-   "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.sportingnews.com/mx/tsn/news/boletos-cmll-lucha-libre-cdmx-como-comprar-precios/e1b1638bad0cfc205a214b4f",
-   "img": "img/luchas/o-cmll-martes-populares-de-lucha-libre.jpg",
-   "credito": "Imagen: CMLL · sportingnews.com (sitio oficial)",
-   "credito_url": "https://www.sportingnews.com/mx/tsn/news/boletos-cmll-lucha-libre-cdmx-como-comprar-precios/e1b1638bad0cfc205a214b4f"
-  },
-  {
-   "nombre": "Viernes Espectaculares de Lucha Libre",
-   "promocion": "CMLL",
-   "fecha": "2026-11-25",
-   "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.sportingnews.com/mx/tsn/news/boletos-cmll-lucha-libre-cdmx-como-comprar-precios/e1b1638bad0cfc205a214b4f",
-   "img": "img/luchas/o-cmll-viernes-espectaculares-de-lucha-libre.jpg",
-   "credito": "Imagen: CMLL · sportingnews.com (sitio oficial)",
-   "credito_url": "https://www.sportingnews.com/mx/tsn/news/boletos-cmll-lucha-libre-cdmx-como-comprar-precios/e1b1638bad0cfc205a214b4f"
-  },
-  {
-   "nombre": "Sábados de Lucha Libre",
-   "promocion": "CMLL",
-   "fecha": "2026-11-26",
-   "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.sportingnews.com/mx/tsn/news/boletos-cmll-lucha-libre-cdmx-como-comprar-precios/e1b1638bad0cfc205a214b4f",
-   "img": "img/luchas/o-cmll-sabados-de-lucha-libre.jpg",
-   "credito": "Imagen: CMLL · sportingnews.com (sitio oficial)",
-   "credito_url": "https://www.sportingnews.com/mx/tsn/news/boletos-cmll-lucha-libre-cdmx-como-comprar-precios/e1b1638bad0cfc205a214b4f"
-  },
-  {
-   "nombre": "Domingos Familiares de Lucha Libre",
-   "promocion": "CMLL",
-   "fecha": "2026-11-27",
-   "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.sportingnews.com/mx/tsn/news/boletos-cmll-lucha-libre-cdmx-como-comprar-precios/e1b1638bad0cfc205a214b4f",
-   "img": "img/luchas/o-cmll-domingos-familiares-de-lucha-libre.jpg",
-   "credito": "Imagen: CMLL · sportingnews.com (sitio oficial)",
-   "credito_url": "https://www.sportingnews.com/mx/tsn/news/boletos-cmll-lucha-libre-cdmx-como-comprar-precios/e1b1638bad0cfc205a214b4f"
-  },
-  {
-   "nombre": "Survivor Series: WarGames",
-   "promocion": "WWE",
-   "fecha": "2026-11-28",
-   "lugar": "Daikin Park",
-   "ciudad": "Houston",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://sportsbrackets.net/2026/07/29/2026-wwe-ppv-schedule/",
-   "img": "img/luchas/o-wwe-survivor-series-wargames.jpg",
-   "credito": "Imagen: WWE · sportsbrackets.net (sitio oficial)",
-   "credito_url": "https://sportsbrackets.net/2026/07/29/2026-wwe-ppv-schedule/"
-  },
-  {
-   "nombre": "Viernes Espectacular",
-   "promocion": "CMLL",
-   "fecha": "2026-11-29",
+   "fecha": "2026-12-01",
    "lugar": "Arena México",
    "ciudad": "Ciudad de México",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/",
-   "img": "img/luchas/o-cmll-viernes-espectacular.jpg",
+   "img": "img/luchas/o-cmll-ultimas-noches-de-2026.jpg",
+   "credito": "Imagen: CMLL · luchamexicoexperience.com (sitio oficial)",
+   "credito_url": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/"
+  },
+  {
+   "nombre": "Martes de Arena México",
+   "promocion": "CMLL",
+   "fecha": "2026-12-02",
+   "lugar": "Arena México",
+   "ciudad": "Ciudad de México",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/",
+   "img": "img/luchas/o-cmll-martes-de-arena-mexico.jpg",
    "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
    "credito_url": "https://cmll.com/cartelera/"
   },
   {
    "nombre": "Domingo Familiar",
    "promocion": "CMLL",
-   "fecha": "2026-11-30",
+   "fecha": "2026-12-04",
    "lugar": "Arena México",
    "ciudad": "Ciudad de México",
    "precio": "",
@@ -495,28 +440,17 @@
    "credito_url": "https://cmll.com/cartelera/"
   },
   {
-   "nombre": "Martes Populares de Lucha Libre",
+   "nombre": "Viernes Espectacular",
    "promocion": "CMLL",
-   "fecha": "2026-12-01",
+   "fecha": "2026-12-05",
    "lugar": "Arena México",
    "ciudad": "Ciudad de México",
    "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.sportingnews.com/mx/tsn/news/boletos-cmll-lucha-libre-cdmx-como-comprar-precios/e1b1638bad0cfc205a214b4f",
-   "img": "img/luchas/o-cmll-martes-populares-de-lucha-libre.jpg",
-   "credito": "Imagen: CMLL · sportingnews.com (sitio oficial)",
-   "credito_url": "https://www.sportingnews.com/mx/tsn/news/boletos-cmll-lucha-libre-cdmx-como-comprar-precios/e1b1638bad0cfc205a214b4f"
-  },
-  {
-   "nombre": "Martes de Arena México",
-   "promocion": "CMLL",
-   "fecha": "2026-12-04",
-   "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
-   "precio": "",
-   "campeonatos": [],
+   "campeonatos": [
+    "campeonatos"
+   ],
    "fuente": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/",
-   "img": "img/luchas/o-cmll-martes-de-arena-mexico.jpg",
+   "img": "img/luchas/o-cmll-viernes-espectacular.jpg",
    "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
    "credito_url": "https://cmll.com/cartelera/"
   },
@@ -534,59 +468,6 @@
    "credito_url": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/"
   },
   {
-   "nombre": "Domingo Familiar",
-   "promocion": "CMLL",
-   "fecha": "2026-12-07",
-   "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/",
-   "img": "img/luchas/o-cmll-domingo-familiar.jpg",
-   "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
-   "credito_url": "https://cmll.com/cartelera/"
-  },
-  {
-   "nombre": "Martes Populares de Lucha Libre",
-   "promocion": "CMLL",
-   "fecha": "2026-12-08",
-   "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.sportingnews.com/mx/tsn/news/boletos-cmll-lucha-libre-cdmx-como-comprar-precios/e1b1638bad0cfc205a214b4f",
-   "img": "img/luchas/o-cmll-martes-populares-de-lucha-libre.jpg",
-   "credito": "Imagen: CMLL · sportingnews.com (sitio oficial)",
-   "credito_url": "https://www.sportingnews.com/mx/tsn/news/boletos-cmll-lucha-libre-cdmx-como-comprar-precios/e1b1638bad0cfc205a214b4f"
-  },
-  {
-   "nombre": "AEW: Worlds End",
-   "promocion": "AEW",
-   "fecha": "2026-12-19",
-   "lugar": "Target Center",
-   "ciudad": "Minneapolis, MN",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.allelitewrestling.com/aew-event/aew-worlds-end-2026",
-   "img": "img/luchas/o-aew-aew-worlds-end.jpg",
-   "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
-   "credito_url": "https://www.allelitewrestling.com/aew-event/aew-worlds-end-2026"
-  },
-  {
-   "nombre": "New Year Party!",
-   "promocion": "NJPW",
-   "fecha": "2027-01-02",
-   "lugar": "",
-   "ciudad": "",
-   "precio": "desde $500",
-   "campeonatos": [],
-   "fuente": "https://wrestlekingdom.njpw.co.jp/en/",
-   "precio_fuente": "https://www.ticketfairy.com/event/nye-2027-gitano-beach-31dec2026/?locale=es",
-   "img": "img/luchas/o-njpw-new-year-party.jpg",
-   "credito": "Imagen: NJPW · wrestlekingdom.njpw.co.jp (sitio oficial)",
-   "credito_url": "https://wrestlekingdom.njpw.co.jp/en/"
-  },
-  {
    "nombre": "New Year Party!",
    "promocion": "NJPW",
    "fecha": "2027-01-02",
@@ -600,7 +481,7 @@
    "credito_url": "https://wrestlekingdom.njpw.co.jp/en/"
   },
   {
-   "nombre": "WRESTLE KINGDOM 21",
+   "nombre": "WRESTLE KINGDOM 21 in TOKYO DOME",
    "promocion": "NJPW",
    "fecha": "2027-01-04",
    "lugar": "TOKYO DOME",
@@ -608,7 +489,7 @@
    "precio": "",
    "campeonatos": [],
    "fuente": "https://wrestlekingdom.njpw.co.jp/en/",
-   "img": "img/luchas/o-njpw-wrestle-kingdom-21.jpg",
+   "img": "img/luchas/o-njpw-wrestle-kingdom-21-in-tokyo-dome.jpg",
    "credito": "Imagen: NJPW · wrestlekingdom.njpw.co.jp (sitio oficial)",
    "credito_url": "https://wrestlekingdom.njpw.co.jp/en/"
   },
@@ -617,7 +498,7 @@
    "promocion": "AAA",
    "fecha": "2027-04-11",
    "lugar": "Gimnasio Olimpico",
-   "ciudad": "Mexico City, Mexico",
+   "ciudad": "Mexico City",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://www.wwe.com/event/aaa-lucha-libre-worldwide",
