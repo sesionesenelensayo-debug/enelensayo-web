@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-17 05:08",
+ "actualizado": "2026-11-17 20:49",
  "general": [
   {
    "titulo": "Maestro Shifu en el afterparty de Karol G",
@@ -12,11 +12,6 @@
    "visitas": 12
   },
   {
-   "titulo": "KENDALL estrena \"Dopamina\", sencillo promocional de su nuevo EP",
-   "url": "https://enelensayomedia.com/notas/kendall-estrena-dopamina-sencillo-promocional-de-su-nuevo-ep-1102.html",
-   "visitas": 11
-  },
-  {
    "titulo": "Ryan Reynolds y Hugh Jackman aparecen en créditos de escritura de Avengers: Doomsday",
    "url": "https://enelensayomedia.com/notas/ryan-reynolds-y-hugh-jackman-aparecen-en-creditos-de-escritura-de-aven-1116.html",
    "visitas": 9
@@ -25,6 +20,11 @@
    "titulo": "Prime Video anuncia su calendario completo de estrenos para noviembre 2026",
    "url": "https://enelensayomedia.com/notas/prime-video-anuncia-su-calendario-completo-de-estrenos-para-noviembre-1105.html",
    "visitas": 9
+  },
+  {
+   "titulo": "Daniel Boaventura vende su concierto en Auditorio Nacional con Orquesta Sinfónica de Minería",
+   "url": "https://enelensayomedia.com/notas/daniel-boaventura-vende-su-concierto-en-auditorio-nacional-con-orquest-1117.html",
+   "visitas": 8
   },
   {
    "titulo": "Natalia Téllez habla tras anuncio de redoblaje en 'Wildwood': \"Lo tomo con respeto\"",
@@ -40,6 +40,11 @@
     "visitas": 12
    },
    {
+    "titulo": "Kiko Báez diseña outfits para Wisin y Sech en fin de semana histórico",
+    "url": "https://enelensayomedia.com/notas/kiko-baez-disena-outfits-para-wisin-y-sech-en-fin-de-semana-historico-1117.html",
+    "visitas": 5
+   },
+   {
     "titulo": "¿Llamará Ibai a Hakimi para la Velada del Año?",
     "url": "https://enelensayomedia.com/notas/llamara-ibai-a-hakimi-para-la-velada-del-ano-1109.html",
     "visitas": 5
@@ -48,11 +53,6 @@
     "titulo": "¡Werevertumorro se arma su propio videojuego y causa revuelo con la IA!",
     "url": "https://enelensayomedia.com/notas/werevertumorro-se-arma-su-propio-videojuego-y-causa-revuelo-con-la-ia-1110.html",
     "visitas": 5
-   },
-   {
-    "titulo": "WestCOL la rompe en Kick y manda en el streaming latino",
-    "url": "https://enelensayomedia.com/notas/westcol-la-rompe-en-kick-y-manda-en-el-streaming-latino-1107.html",
-    "visitas": 3
    }
   ],
   "cine": [
@@ -67,35 +67,13 @@
     "visitas": 5
    },
    {
-    "titulo": "Proyectan 'Godzilla' en la Cineteca Mexiquense",
-    "url": "https://enelensayomedia.com/notas/proyectan-godzilla-en-la-cineteca-mexiquense-1110.html",
-    "visitas": 5
-   },
-   {
     "titulo": "Emma Watson se cae al llegar a fiesta de GQ en Hollywood",
     "url": "https://enelensayomedia.com/notas/emma-watson-se-cae-al-llegar-a-fiesta-de-gq-en-hollywood-1115.html",
     "visitas": 4
-   }
-  ],
-  "música": [
-   {
-    "titulo": "KENDALL estrena \"Dopamina\", sencillo promocional de su nuevo EP",
-    "url": "https://enelensayomedia.com/notas/kendall-estrena-dopamina-sencillo-promocional-de-su-nuevo-ep-1102.html",
-    "visitas": 11
    },
    {
-    "titulo": "Rels B anuncia tres conciertos en el Palacio de los Deportes",
-    "url": "https://enelensayomedia.com/notas/rels-b-anuncia-tres-conciertos-en-el-palacio-de-los-deportes-1114.html",
-    "visitas": 6
-   },
-   {
-    "titulo": "Maluma anuncia siete conciertos en México",
-    "url": "https://enelensayomedia.com/notas/maluma-anuncia-siete-conciertos-en-mexico-1106.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "Majo Aguilar debuta en el Auditorio Nacional con Lucero y otros invitados",
-    "url": "https://enelensayomedia.com/notas/majo-aguilar-debuta-en-el-auditorio-nacional-con-lucero-y-otros-invita-1115.html",
+    "titulo": "¿Star talents en el doblaje de Yo soy Rocky? El debate",
+    "url": "https://enelensayomedia.com/notas/star-talents-en-el-doblaje-de-yo-soy-rocky-el-debate-1109.html",
     "visitas": 4
    }
   ],
@@ -116,8 +94,8 @@
     "visitas": 5
    },
    {
-    "titulo": "Feige aclara: Doctor Doom no es una variante de Tony Stark en 'Avengers: Doomsday'",
-    "url": "https://enelensayomedia.com/notas/feige-aclara-doctor-doom-no-es-una-variante-de-tony-stark-en-avengers-1113.html",
+    "titulo": "El Daily Bugle asoma en Spider-Man: Brand New Day y apunta a Spider-Man 5",
+    "url": "https://enelensayomedia.com/notas/el-daily-bugle-asoma-en-spider-man-brand-new-day-y-apunta-a-spider-man-1111.html",
     "visitas": 5
    }
   ],
@@ -133,14 +111,31 @@
     "visitas": 4
    },
    {
-    "titulo": "Dragon Ball Super: Beerus – Crítica del capítulo 4 y llegada del doblaje latino",
-    "url": "https://enelensayomedia.com/notas/dragon-ball-super-beerus-critica-del-capitulo-4-y-llegada-del-doblaje-1102.html",
-    "visitas": 4
-   },
-   {
     "titulo": "El documental 'You Can See Everything' recauda US$ 45 millones",
     "url": "https://enelensayomedia.com/notas/el-documental-you-can-see-everything-recauda-us-45-millones-1116.html",
     "visitas": 3
+   }
+  ],
+  "conciertos": [
+   {
+    "titulo": "Daniel Boaventura vende su concierto en Auditorio Nacional con Orquesta Sinfónica de Minería",
+    "url": "https://enelensayomedia.com/notas/daniel-boaventura-vende-su-concierto-en-auditorio-nacional-con-orquest-1117.html",
+    "visitas": 8
+   },
+   {
+    "titulo": "Little Jesus en el Teatro Metropólitan: detalles del concierto",
+    "url": "https://enelensayomedia.com/notas/little-jesus-en-el-teatro-metropolitan-detalles-del-concierto-1117.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "Karol G llena el Estadio GNP Seguros en CDMX con su Tropitour 2026",
+    "url": "https://enelensayomedia.com/notas/karol-g-llena-el-estadio-gnp-seguros-en-cdmx-con-su-tropitour-2026-1115.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "Morat anuncia concierto sin telonero y setlist estimado en el Palacio de los Deportes",
+    "url": "https://enelensayomedia.com/notas/morat-anuncia-concierto-sin-telonero-y-setlist-estimado-en-el-palacio-1115.html",
+    "visitas": 4
    }
   ],
   "cultura": [
@@ -148,6 +143,11 @@
     "titulo": "Natalia Téllez habla tras anuncio de redoblaje en 'Wildwood': \"Lo tomo con respeto\"",
     "url": "https://enelensayomedia.com/notas/natalia-tellez-habla-tras-anuncio-de-redoblaje-en-wildwood-lo-tomo-con-1112.html",
     "visitas": 8
+   },
+   {
+    "titulo": "Yetus Prime ingresa a La Mansión VIP 2 el 16 de noviembre",
+    "url": "https://enelensayomedia.com/notas/yetus-prime-ingresa-a-la-mansion-vip-2-el-16-de-noviembre-1117.html",
+    "visitas": 4
    }
   ],
   "chisme": [
@@ -157,18 +157,35 @@
     "visitas": 8
    },
    {
-    "titulo": "Fede Vigevani inaugura la cafetería Cremoso en la Ciudad de México",
-    "url": "https://enelensayomedia.com/notas/fede-vigevani-inaugura-la-cafeteria-cremoso-en-la-ciudad-de-mexico-1110.html",
-    "visitas": 8
+    "titulo": "José Eduardo Derbez y Paola Dalay anuncian separación",
+    "url": "https://enelensayomedia.com/notas/jose-eduardo-derbez-y-paola-dalay-anuncian-separacion-1101.html",
+    "visitas": 4
    },
    {
-    "titulo": "Olivia Rodrigo lanza su primera canción navideña original, \"Take Me Home (4 Christmas)\"",
-    "url": "https://enelensayomedia.com/notas/olivia-rodrigo-lanza-su-primera-cancion-navidena-original-take-me-home-1107.html",
+    "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
+    "url": "https://enelensayomedia.com/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.html",
+    "visitas": 4
+   }
+  ],
+  "música": [
+   {
+    "titulo": "Rels B anuncia tres conciertos en el Palacio de los Deportes",
+    "url": "https://enelensayomedia.com/notas/rels-b-anuncia-tres-conciertos-en-el-palacio-de-los-deportes-1114.html",
     "visitas": 6
    },
    {
-    "titulo": "José Eduardo Derbez y Paola Dalay anuncian separación",
-    "url": "https://enelensayomedia.com/notas/jose-eduardo-derbez-y-paola-dalay-anuncian-separacion-1101.html",
+    "titulo": "Maluma anuncia siete conciertos en México",
+    "url": "https://enelensayomedia.com/notas/maluma-anuncia-siete-conciertos-en-mexico-1106.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "Majo Aguilar debuta en el Auditorio Nacional con Lucero y otros invitados",
+    "url": "https://enelensayomedia.com/notas/majo-aguilar-debuta-en-el-auditorio-nacional-con-lucero-y-otros-invita-1115.html",
+    "visitas": 4
+   },
+   {
+    "titulo": "Shakira celebra 25 años de 'Laundry Service' con vinilo limitado",
+    "url": "https://enelensayomedia.com/notas/shakira-celebra-25-anos-de-laundry-service-con-vinilo-limitado-1115.html",
     "visitas": 4
    }
   ],
@@ -187,22 +204,10 @@
     "titulo": "Rockstar confirma versión en la nube de GTA VI para Xbox Series S",
     "url": "https://enelensayomedia.com/notas/rockstar-confirma-version-en-la-nube-de-gta-vi-para-xbox-series-s-1111.html",
     "visitas": 4
-   }
-  ],
-  "conciertos": [
-   {
-    "titulo": "Karol G llena el Estadio GNP Seguros en CDMX con su Tropitour 2026",
-    "url": "https://enelensayomedia.com/notas/karol-g-llena-el-estadio-gnp-seguros-en-cdmx-con-su-tropitour-2026-1115.html",
-    "visitas": 5
    },
    {
-    "titulo": "Andrés Calamaro se presenta en el Pepsi Center de la CDMX",
-    "url": "https://enelensayomedia.com/notas/andres-calamaro-se-presenta-en-el-pepsi-center-de-la-cdmx-1114.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "Morat anuncia concierto sin telonero y setlist estimado en el Palacio de los Deportes",
-    "url": "https://enelensayomedia.com/notas/morat-anuncia-concierto-sin-telonero-y-setlist-estimado-en-el-palacio-1115.html",
+    "titulo": "Faker critica la preparación de Bilibili Gaming tras eliminación en Worlds 2026",
+    "url": "https://enelensayomedia.com/notas/faker-critica-la-preparacion-de-bilibili-gaming-tras-eliminacion-en-wo-1109.html",
     "visitas": 3
    }
   ],
@@ -230,11 +235,6 @@
   ],
   "luchas": [
    {
-    "titulo": "Místico regresa al Viernes Espectacular de CMLL el 13 de noviembre",
-    "url": "https://enelensayomedia.com/notas/mistico-regresa-al-viernes-espectacular-de-cmll-el-13-de-noviembre-1112.html",
-    "visitas": 5
-   },
-   {
     "titulo": "AEW Full Gear 2026: 3 cambios de campeonato y regreso de MJF",
     "url": "https://enelensayomedia.com/notas/aew-full-gear-2026-3-cambios-de-campeonato-y-regreso-de-mjf-1116.html",
     "visitas": 4
@@ -248,6 +248,11 @@
     "titulo": "John Cena sorprende en SmackDown 13 nov 2026 y anuncia John Cena Classic",
     "url": "https://enelensayomedia.com/notas/john-cena-sorprende-en-smackdown-13-nov-2026-y-anuncia-john-cena-class-1114.html",
     "visitas": 4
+   },
+   {
+    "titulo": "CMLL y NJPW confirman plantel para FantasticaMania 2027",
+    "url": "https://enelensayomedia.com/notas/cmll-y-njpw-confirman-plantel-para-fantasticamania-2027-1114.html",
+    "visitas": 4
    }
   ],
   "reportaje": [
@@ -257,9 +262,9 @@
     "visitas": 4
    },
    {
-    "titulo": "Brittany Murphy: su legado en el cine y la música",
-    "url": "https://enelensayomedia.com/notas/brittany-murphy-su-legado-en-el-cine-y-la-musica-1110.html",
-    "visitas": 4
+    "titulo": "Mariana Ochoa gana La Casa de los Famosos 2026",
+    "url": "https://enelensayomedia.com/notas/mariana-ochoa-gana-la-casa-de-los-famosos-2026-1117.html",
+    "visitas": 3
    }
   ],
   "doblaje": [
