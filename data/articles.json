@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Anthony Mackie niega haber hecho spoilers sobre Avengers: Doomsday",
+    "artista": "Anthony Mackie",
+    "intro": "Anthony Mackie negó haber revelado spoilers sobre Avengers: Doomsday tras una entrevista en la que mencionó coincidir con Paul Bettany durante el rodaje.",
+    "telegraph_url": "https://telegra.ph/Anthony-Mackie-niega-haber-hecho-spoilers-sobre-Avengers-Doomsday-11-18",
+    "url": "https://enelensayomedia.com/notas/anthony-mackie-niega-haber-hecho-spoilers-sobre-avengers-doomsday-1117.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/anthony-mackie-niega-haber-hecho-spoilers-sobre-avengers-doomsday-1117.jpg",
+    "fecha": "2026-11-17T18:51:10.938419",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Mariana Ochoa gana La Casa de los Famosos 2026",
     "artista": "Mariana Ochoa: la cantante que ganó La Casa de los Famosos",
@@ -5918,19 +5932,5 @@
     "categoria": "Cine",
     "fecha_original": "2026-11-03T09:22:27.591581",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "El horror del garrote: la sirvienta que incendió una viuda en 1888",
-    "artista": "Crimen de la calle Fuencarral, 1888, Madrid, España: Luciana Borcino, una viuda prestamista, fue hallada muerta y con el cuerpo parcialmente quemado en su casa. Se acusó a su criada Higinia Balaguer, que fue condenada, y a Vicenta Verdier, la hija de la víctima. El caso, con sospechas de fraude y torturas durante el proceso, se convirtió en un escándalo mediático que dividió a la opinión pública y a la prensa de la época.",
-    "intro": "El 2 de julio de 1888, los vecinos del segundo piso izquierda del número 109 de la calle de Fuencarral, en Madrid, alertaron a la policía por un fuerte olor a petróleo y carne quemada.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-horror-del-garrote-la-sirvienta-que-incendio-una-viuda-en-1888-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-horror-del-garrote-la-sirvienta-que-incendio-una-viuda-en-1888-1104.jpg",
-    "fecha": "2026-11-04T23:09:32.307401",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Terror y misterio"
   }
 ]
