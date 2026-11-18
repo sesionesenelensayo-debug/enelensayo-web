@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Critican el doblaje de 'Mi amigo el sol' con star talents; LAIKA mantiene elección",
+    "artista": "Mi amigo el sol",
+    "intro": "La película animada 'Mi amigo el sol' se estrena hoy en cines de México distribuida por Cinemex, pero su doblaje latino con star talents como Macarena García…",
+    "telegraph_url": "https://telegra.ph/Critican-el-doblaje-de-Mi-amigo-el-sol-con-star-talents-LAIKA-mantiene-elección-11-18",
+    "url": "https://enelensayomedia.com/notas/critican-el-doblaje-de-mi-amigo-el-sol-con-star-talents-laika-mantiene-1118.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/critican-el-doblaje-de-mi-amigo-el-sol-con-star-talents-laika-mantiene-1118.jpg",
+    "fecha": "2026-11-18T14:12:15.793094",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Marilyn Monroe murió la madrugada del 5 de agosto de 1962 en su residencia de Los Ángeles",
     "artista": "Marilyn Monroe: la noche del 4 de agosto de 1962",
     "intro": "Marilyn Monroe falleció el 4 de agosto de 1962 en su casa de Brentwood, Los Ángeles. Su ama de llaves, Eunice Murray, la encontró al 3:00 a.m.",
@@ -5899,20 +5913,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reportaje"
-  },
-  {
-    "opinion": true,
-    "tipo": "reportaje",
-    "titulo": "A 14 años del fallecimiento de Leonardo Favio",
-    "artista": "Leonardo Favio",
-    "intro": "Se detalla la fecha y el lugar de su muerte, ocurrida en Buenos Aires, así como su destacada trayectoria artística y su relevancia cultural en toda América Latina.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/a-14-anos-del-fallecimiento-de-leonardo-favio-1105.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/a-14-anos-del-fallecimiento-de-leonardo-favio-1105.jpg",
-    "fecha": "2026-11-05T20:35:50.491704",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Cine"
   }
 ]
