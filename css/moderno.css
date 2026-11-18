@@ -153,6 +153,12 @@ body:has(.cabecera) .ad.libre a{border-radius:14px;border-color:rgba(124,82,204,
 #mx-nl label{flex:1 0 100%;font-size:.74rem;opacity:.75}#mx-nl label a{color:var(--g2)}#mx-nl .msg{font-size:.78rem;color:var(--g4);font-style:normal}
 #mx-nl .wa{justify-self:start;margin-top:2px;padding:8px 14px;border-radius:99px;background:#25D366;color:#06210f;font-weight:800;font-size:.84rem;text-decoration:none}
 
+/* [.leon 2026-11-17] ESCRITORIO: el menú fijo creció a 3 filas (~174 px) y el margen fijo de 64 px dejaba TAPADA la cinta de Spotify y parte de «Última hora» (el texto que corre).
+   Ahora el contenido arranca bajo la barra a cualquier ancho: --nav-h lo mide moderno.js (se actualiza con el tamaño y las fuentes). */
+body{padding-top:var(--nav-h,68px)}
+.tira-sp{margin-top:0}
+html{scroll-padding-top:calc(var(--nav-h,68px) + 12px)}
+
 /* ── Parte superior en móvil [e.leo]: la barra es fija, así que el contenido arranca debajo de ella (antes la ranura de publicidad y el «← Portada»
    quedaban TAPADOS por la barra y la cinta de Spotify dejaba un hueco). --nav-h lo mide moderno.js. ── */
 @media(max-width:900px){
