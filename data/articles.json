@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Karol G en Estadio GNP",
+    "artista": "Karol G",
+    "intro": "Karol G se presenta en el Estadio GNP Seguros de la Ciudad de México. El concierto de hoy 17 de noviembre tiene un horario de inicio confirmado y una setlist que incluye alrededor de 35 canciones.",
+    "telegraph_url": "https://telegra.ph/Karol-G-en-Estadio-GNP-11-18",
+    "url": "https://enelensayomedia.com/notas/karol-g-en-estadio-gnp-1118.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/karol-g-en-estadio-gnp-1118.jpg",
+    "fecha": "2026-11-18T08:42:48.640819",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Precios de boletos para Kanye West en CDMX",
     "artista": "Kanye West",
     "intro": "Kanye West (Ye) se presentará el viernes 19 de marzo de 2027 en el Estadio Banorte (antes Estadio Azteca) de la Ciudad de México, como parte de su gira 'The Greatest Show on Earth'…",
@@ -5908,20 +5922,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "A Perfect Circle llega a CDMX con Dogstar, banda de Keanu Reeves",
-    "artista": "A Perfect Circle",
-    "intro": "Según Time Out México, la banda estadounidense A Perfect Circle tocará en la Ciudad de México acompañada por Dogstar, el grupo liderado por el actor Keanu Reeves. El anuncio confirma la presencia de a",
-    "telegraph_url": "https://telegra.ph/A-Perfect-Circle-llega-a-CDMX-con-Dogstar-banda-de-Keanu-Reeves-10-31",
-    "url": "https://enelensayomedia.com/notas/a-perfect-circle-llega-a-cdmx-con-dogstar-banda-de-keanu-reeves-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/a-perfect-circle-llega-a-cdmx-con-dogstar-banda-de-keanu-reeves-1031.jpg",
-    "fecha": "2026-11-05T11:18:00",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU",
-    "fecha_original": "2026-10-31T09:47:34.163501",
-    "actualizada": true
   }
 ]
