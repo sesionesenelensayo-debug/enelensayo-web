@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Cypress Hill anuncia concierto en el Pepsi Center para 2027",
+    "artista": "Cypress Hill",
+    "intro": "El legendario grupo de hip hop Cypress Hill ofrecerá un esperado concierto en la Ciudad de México durante el año 2027.",
+    "telegraph_url": "https://telegra.ph/Cypress-Hill-anuncia-concierto-en-el-Pepsi-Center-para-2027-11-18",
+    "url": "https://enelensayomedia.com/notas/cypress-hill-anuncia-concierto-en-el-pepsi-center-para-2027-1118.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/cypress-hill-anuncia-concierto-en-el-pepsi-center-para-2027-1118.jpg",
+    "fecha": "2026-11-18T10:20:47.664803",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "Rumor: Clayface no será canon y se vuelve Elseworld",
@@ -5900,21 +5914,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Netflix anuncia estreno en enero 2027 de la temporada 2 de 'Samurái de ojos azules'",
-    "artista": "Samurái de ojos azules",
-    "intro": "Tras cuatro años de ausencia, Netflix reveló el nuevo tráiler de la segunda temporada de 'Samurái de ojos azules' y confirmó su estreno para enero de 2027.",
-    "telegraph_url": "https://telegra.ph/Netflix-anuncia-estreno-en-enero-2027-de-la-temporada-2-de-Samurái-de-ojos-azules-11-04",
-    "url": "https://enelensayomedia.com/notas/netflix-anuncia-estreno-en-enero-2027-de-la-temporada-2-de-samurai-de-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/netflix-anuncia-estreno-en-enero-2027-de-la-temporada-2-de-samurai-de-1104.jpg",
-    "fecha": "2026-11-05T14:21:50.503665",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Televisión",
-    "fecha_original": "2026-11-04T11:29:15.047237",
-    "actualizada": true
   }
 ]
