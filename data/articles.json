@@ -1,5 +1,20 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Mariana Ochoa: la cantante que ganó La Casa de los Famosos",
+    "artista": "Mariana Ochoa",
+    "intro": "En el video 'Mariana Ochoa: la cantante que ganó La Casa de los Famosos', producido por el canal En el Ensayo Media, se recorre la trayectoria de la cantante mexicana…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/mariana-ochoa-la-cantante-que-gano-la-casa-de-los-famosos-1117.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/mariana-ochoa-la-cantante-que-gano-la-casa-de-los-famosos-1117.jpg",
+    "fecha": "2026-11-17T22:33:29.616260",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "Supergirl de Milly Alcock: el colapso taquillero que confirma el fracaso del DCU",
@@ -4885,20 +4900,6 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-08T10:41:02.070808",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Manuel Turizo al half-time show de la NFL en Madrid",
-    "artista": "Manuel Turizo",
-    "intro": "¿Quién será el encargado de poner la música en el descanso del partido de la NFL en Madrid? Manuel Turizo fue anunciado para encabezar el show de medio tiempo del NFL Madrid Game 2026.",
-    "telegraph_url": "https://telegra.ph/Manuel-Turizo-al-half-time-show-de-la-NFL-en-Madrid-11-08",
-    "url": "https://enelensayomedia.com/notas/manuel-turizo-al-half-time-show-de-la-nfl-en-madrid-1108.html",
-    "imagen_url": "https://enelensayomedia.com/img/prensa/cara_6d0856f3f55d.jpg",
-    "fecha": "2026-11-08T11:31:36.337478",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   },
   {
     "opinion": true,
