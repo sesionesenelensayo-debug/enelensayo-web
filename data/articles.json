@@ -1,5 +1,20 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Glastonbury 2027: 63 artistas y datos que nadie más publica",
+    "artista": "Glastonbury",
+    "intro": "El canal En el Ensayo Media publica un video donde se revelan datos poco conocidos sobre el cartel del Glastonbury 2027.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/glastonbury-2027-63-artistas-y-datos-que-nadie-mas-publica-1118.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/glastonbury-2027-63-artistas-y-datos-que-nadie-mas-publica-1118.jpg",
+    "fecha": "2026-11-18T04:46:26.468606",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Cartel del Glastonbury 2027: edad media, países y quiénes están en el top 100",
     "artista": "Glastonbury",
@@ -4711,20 +4726,6 @@
   {
     "opinion": false,
     "tipo": "reportaje",
-    "titulo": "The Weeknd rompe récord con la gira más taquillera para un solista",
-    "artista": "The Weeknd",
-    "intro": "Durante años, las grandes giras mundiales han redefinido los límites comerciales de la música en vivo, dominadas históricamente por nombres legendarios del rock y el pop.",
-    "telegraph_url": "https://telegra.ph/The-Weeknd-rompe-récord-con-la-gira-más-taquillera-para-un-solista-11-09",
-    "url": "https://enelensayomedia.com/notas/the-weeknd-rompe-record-con-la-gira-mas-taquillera-para-un-solista-1108.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/the-weeknd-rompe-record-con-la-gira-mas-taquillera-para-un-solista-1108.jpg",
-    "fecha": "2026-11-08T18:39:15.698369",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
     "titulo": "¿El doblaje en riesgo? Javier Ibarreche y Macarena García responden",
     "artista": "Javier Ibarreche y Macarena García – respuesta",
     "intro": "El doblaje latino de la película animada 'Wildwood', producida por LAIKA Studios, desató una intensa ola de críticas en plataformas como TikTok, Instagram y X.",
@@ -4778,22 +4779,6 @@
     "views": 0,
     "categoria": "Chisme",
     "fecha_original": "2026-11-02T15:02:54.491082",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Kanye West: ¿Nuevo concierto en CDMX?",
-    "artista": "Kanye West",
-    "intro": "¿Regresa Kanye West a México? Trascendió de manera viral un anuncio sobre un posible concierto del rapero en el Estadio Banorte de la Ciudad de México.",
-    "telegraph_url": "https://telegra.ph/Kanye-West-Nuevo-concierto-en-CDMX-11-04",
-    "url": "https://enelensayomedia.com/notas/kanye-west-nuevo-concierto-en-cdmx-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/kanye-west-nuevo-concierto-en-cdmx-1103.jpg",
-    "fecha": "2026-11-08T16:47:26.818817",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-03T19:17:28.974086",
     "actualizada": true
   },
   {
