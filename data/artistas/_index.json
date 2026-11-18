@@ -1,5 +1,12 @@
 [
   {
+    "artista": "Pablo Lyle",
+    "slug": "pablo-lyle",
+    "imagen": "",
+    "piezas": 1,
+    "updated": "2026-11-18 14:56"
+  },
+  {
     "artista": "Maluma",
     "slug": "maluma",
     "imagen": "artistas_img/maluma.jpg",
