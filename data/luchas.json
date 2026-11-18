@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18 11:08",
+ "actualizado": "2026-11-18 17:17",
  "campeones": {
   "WWE": [
    {
@@ -216,7 +216,7 @@
    },
    {
     "titulo": "Strong Openweight Tag Team Championship",
-    "campeon": "Los Hermanos Chávez ( Ángel de Oro and Niebla Roja )"
+    "campeon": "Unbound Co. ( Taiji Ishimori & Titan )"
    },
    {
     "titulo": "NEVER Openweight 6-Man Tag Team Championship",
@@ -378,8 +378,8 @@
    "nombre": "Especial",
    "promocion": "CMLL",
    "fecha": "2026-11-19",
-   "lugar": "ARENA COLISEO",
-   "ciudad": "",
+   "lugar": "Arena Coliseo",
+   "ciudad": "Ciudad de México",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://cmll.com/cartelera/",
@@ -391,14 +391,27 @@
    "nombre": "Viernes Espectacular",
    "promocion": "CMLL",
    "fecha": "2026-11-20",
-   "lugar": "ARENA MÉXICO",
-   "ciudad": "",
+   "lugar": "Arena México",
+   "ciudad": "Ciudad de México",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://cmll.com/cartelera/",
    "img": "img/luchas/o-cmll-viernes-espectacular.jpg",
    "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
    "credito_url": "https://cmll.com/cartelera/"
+  },
+  {
+   "nombre": "Survivor Series: WarGames",
+   "promocion": "WWE",
+   "fecha": "2026-11-28",
+   "lugar": "Daikin Park",
+   "ciudad": "Houston, TX",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://sportsbrackets.net/2026/07/29/2026-wwe-ppv-schedule/",
+   "img": "img/luchas/o-wwe-survivor-series-wargames.jpg",
+   "credito": "Imagen: WWE · sportsbrackets.net (sitio oficial)",
+   "credito_url": "https://sportsbrackets.net/2026/07/29/2026-wwe-ppv-schedule/"
   },
   {
    "nombre": "Últimas noches de 2026",
@@ -414,47 +427,6 @@
    "credito_url": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/"
   },
   {
-   "nombre": "Martes de Arena México",
-   "promocion": "CMLL",
-   "fecha": "2026-12-02",
-   "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/",
-   "img": "img/luchas/o-cmll-martes-de-arena-mexico.jpg",
-   "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
-   "credito_url": "https://cmll.com/cartelera/"
-  },
-  {
-   "nombre": "Domingo Familiar",
-   "promocion": "CMLL",
-   "fecha": "2026-12-04",
-   "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/",
-   "img": "img/luchas/o-cmll-domingo-familiar.jpg",
-   "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
-   "credito_url": "https://cmll.com/cartelera/"
-  },
-  {
-   "nombre": "Viernes Espectacular",
-   "promocion": "CMLL",
-   "fecha": "2026-12-05",
-   "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
-   "precio": "",
-   "campeonatos": [
-    "campeonatos"
-   ],
-   "fuente": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/",
-   "img": "img/luchas/o-cmll-viernes-espectacular.jpg",
-   "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
-   "credito_url": "https://cmll.com/cartelera/"
-  },
-  {
    "nombre": "Últimas noches de 2026",
    "promocion": "CMLL",
    "fecha": "2026-12-06",
@@ -466,6 +438,34 @@
    "img": "img/luchas/o-cmll-ultimas-noches-de-2026.jpg",
    "credito": "Imagen: CMLL · luchamexicoexperience.com (sitio oficial)",
    "credito_url": "https://luchamexicoexperience.com/es/lucha-libre-en-arena-mexico/"
+  },
+  {
+   "nombre": "Worlds End 2026",
+   "promocion": "AEW",
+   "fecha": "2026-12-19",
+   "lugar": "Target Center",
+   "ciudad": "Minneapolis, Minnesota",
+   "precio": "",
+   "campeonatos": [
+    "AEW Continental Championship"
+   ],
+   "fuente": "https://pt.wikipedia.org/wiki/Worlds_End_(2026)",
+   "img": "img/luchas/o-promo-aew.jpg",
+   "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
+   "credito_url": "https://www.allelitewrestling.com/"
+  },
+  {
+   "nombre": "New Year Party!",
+   "promocion": "NJPW",
+   "fecha": "2027-01-02",
+   "lugar": "",
+   "ciudad": "",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://wrestlekingdom.njpw.co.jp/en/",
+   "img": "img/luchas/o-njpw-new-year-party.jpg",
+   "credito": "Imagen: NJPW · wrestlekingdom.njpw.co.jp (sitio oficial)",
+   "credito_url": "https://wrestlekingdom.njpw.co.jp/en/"
   },
   {
    "nombre": "New Year Party!",
@@ -492,19 +492,6 @@
    "img": "img/luchas/o-njpw-wrestle-kingdom-21-in-tokyo-dome.jpg",
    "credito": "Imagen: NJPW · wrestlekingdom.njpw.co.jp (sitio oficial)",
    "credito_url": "https://wrestlekingdom.njpw.co.jp/en/"
-  },
-  {
-   "nombre": "AAA Lucha Libre Worldwide",
-   "promocion": "AAA",
-   "fecha": "2027-04-11",
-   "lugar": "Gimnasio Olimpico",
-   "ciudad": "Mexico City",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.wwe.com/event/aaa-lucha-libre-worldwide",
-   "img": "img/luchas/o-promo-aaa.jpg",
-   "credito": "Imagen: AAA · luchalibreaaa.com (sitio oficial)",
-   "credito_url": "https://luchalibreaaa.com/"
   }
  ],
  "fuentes": "Campeones: Wikipedia. Funciones: páginas oficiales y de boletos citadas en cada tarjeta. Fotos: Wikimedia Commons (licencias libres) y sitios oficiales, con crédito en cada imagen."
