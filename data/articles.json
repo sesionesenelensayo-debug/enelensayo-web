@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Marilyn Monroe murió la madrugada del 5 de agosto de 1962 en su residencia de Los Ángeles",
+    "artista": "Marilyn Monroe: la noche del 4 de agosto de 1962",
+    "intro": "Marilyn Monroe falleció el 4 de agosto de 1962 en su casa de Brentwood, Los Ángeles. Su ama de llaves, Eunice Murray, la encontró al 3:00 a.m.",
+    "telegraph_url": "https://telegra.ph/Marilyn-Monroe-murió-la-madrugada-del-5-de-agosto-de-1962-en-su-residencia-de-Los-Ángeles-11-18",
+    "url": "https://enelensayomedia.com/notas/marilyn-monroe-murio-la-madrugada-del-5-de-agosto-de-1962-en-su-reside-1118.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/marilyn-monroe-murio-la-madrugada-del-5-de-agosto-de-1962-en-su-reside-1118.jpg",
+    "fecha": "2026-11-18T12:56:04.966850",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "In memoriam"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Cypress Hill anuncia concierto en el Pepsi Center para 2027",
     "artista": "Cypress Hill",
     "intro": "El legendario grupo de hip hop Cypress Hill ofrecerá un esperado concierto en la Ciudad de México durante el año 2027.",
@@ -5900,22 +5914,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Cine"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Leonardo Favio, a 14 años de su muerte, se recuerda en la cultura argentina",
-    "artista": "Leonardo Favio",
-    "intro": "El 5 de noviembre de 2026 se cumplen catorce años del fallecimiento de Leonardo Favio, el icónico cantante…",
-    "telegraph_url": "https://telegra.ph/Leonardo-Favio-a-14-años-de-su-muerte-se-recuerda-en-la-cultura-argentina-11-05",
-    "url": "https://enelensayomedia.com/notas/leonardo-favio-a-14-anos-de-su-muerte-se-recuerda-en-la-cultura-argent-1105.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/leonardo-favio-a-14-anos-de-su-muerte-se-recuerda-en-la-cultura-argent-1105.jpg",
-    "fecha": "2026-11-05T18:13:21.390769",
-    "author": "Oliver Ken",
-    "views": 0,
-    "nota_dia": true,
-    "categoria": "Reportaje",
-    "fecha_original": "2026-11-05T12:02:49.908111",
-    "actualizada": true
   }
 ]
