@@ -3,121 +3,121 @@
   {
    "n": 1,
    "nombre": "Bruno Mars",
-   "valor": 123547151,
+   "valor": 123300712,
    "url": "https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C"
   },
   {
    "n": 2,
    "nombre": "The Weeknd",
-   "valor": 116935029,
+   "valor": 116983573,
    "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
   },
   {
    "n": 3,
    "nombre": "Rihanna",
-   "valor": 116532691,
+   "valor": 116510215,
    "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
   },
   {
    "n": 4,
    "nombre": "Justin Bieber",
-   "valor": 111845085,
+   "valor": 111925493,
    "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
   },
   {
    "n": 5,
    "nombre": "Lady Gaga",
-   "valor": 102169957,
+   "valor": 101827814,
    "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
   },
   {
    "n": 6,
    "nombre": "Taylor Swift",
-   "valor": 96606046,
+   "valor": 96534559,
    "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
   },
   {
    "n": 7,
    "nombre": "Ariana Grande",
-   "valor": 95034276,
+   "valor": 95394181,
    "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
   },
   {
    "n": 8,
    "nombre": "Drake",
-   "valor": 94117336,
+   "valor": 94002865,
    "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
   },
   {
    "n": 9,
    "nombre": "Coldplay",
-   "valor": 90325962,
+   "valor": 90388353,
    "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
   },
   {
    "n": 10,
    "nombre": "Michael Jackson",
-   "valor": 90203428,
+   "valor": 89836458,
    "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
   },
   {
    "n": 11,
    "nombre": "Bad Bunny",
-   "valor": 89196935,
+   "valor": 89129630,
    "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
   },
   {
    "n": 12,
    "nombre": "Katy Perry",
-   "valor": 85415090,
+   "valor": 85208413,
    "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
   },
   {
    "n": 13,
    "nombre": "Shakira",
-   "valor": 84765466,
+   "valor": 84650902,
    "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
   },
   {
    "n": 14,
    "nombre": "David Guetta",
-   "valor": 80605078,
+   "valor": 80644373,
    "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
   },
   {
    "n": 15,
    "nombre": "Ed Sheeran",
-   "valor": 80335141,
+   "valor": 80610661,
    "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
   },
   {
    "n": 16,
    "nombre": "Billie Eilish",
-   "valor": 78819980,
+   "valor": 78528054,
    "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
   },
   {
    "n": 17,
    "nombre": "Maroon 5",
-   "valor": 76043150,
+   "valor": 75930175,
    "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
   },
   {
    "n": 18,
    "nombre": "Lana Del Rey",
-   "valor": 75314306,
+   "valor": 75213493,
    "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
   },
   {
    "n": 19,
    "nombre": "Olivia Rodrigo",
-   "valor": 75267630,
+   "valor": 75200143,
    "url": "https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG"
   },
   {
    "n": 20,
    "nombre": "Eminem",
-   "valor": 73665867,
+   "valor": 73657184,
    "url": "https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR"
   }
  ],
@@ -244,5 +244,5 @@
   }
  ],
  "fuente": "Spotify vía kworb.net",
- "actualizado": "2026-11-17 17:22"
+ "actualizado": "2026-11-17 19:25"
 }
