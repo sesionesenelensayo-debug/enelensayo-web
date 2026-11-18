@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Ari Telch desmite crisis y enfrenta denuncia vecinal en video",
+    "artista": "Ari Telch",
+    "intro": "El contenido aborda la negación de una crisis de salud mental por parte del actor y la denuncia presentada por tres vecinos ante la Fiscalía General del Estado.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/ari-telch-desmite-crisis-y-enfrenta-denuncia-vecinal-en-video-1118.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/ari-telch-desmite-crisis-y-enfrenta-denuncia-vecinal-en-video-1118.jpg",
+    "fecha": "2026-11-18T14:22:06.993774",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Netflix anuncia que Monster Hunter Rise llegará a móviles el 24 de noviembre",
     "artista": "Monster Hunter Rise",
     "intro": "Netflix anunció este martes que Monster Hunter Rise, el juego de Capcom lanzado en 2021 para Switch y PC, llegará a iOS y Android el 24 de noviembre de 2026 a través de Netflix Games.",
@@ -5899,19 +5914,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Terror y misterio"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Liam Neeson sorprendido al saber que Meryl Streep será la nueva voz de Aslan",
-    "artista": "Liam Neeson",
-    "intro": "Durante una entrevista reciente, el actor Liam Neeson descubrió que Meryl Streep tomará la voz del león Aslan en el reboot de \"Narnia: El sobrino del mago\".",
-    "telegraph_url": "https://telegra.ph/Liam-Neeson-sorprendido-al-saber-que-Meryl-Streep-será-la-nueva-voz-de-Aslan-11-06",
-    "url": "https://enelensayomedia.com/notas/liam-neeson-sorprendido-al-saber-que-meryl-streep-sera-la-nueva-voz-de-1105.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/liam-neeson-sorprendido-al-saber-que-meryl-streep-sera-la-nueva-voz-de-1105.jpg",
-    "fecha": "2026-11-05T22:25:03.063166",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   }
 ]
