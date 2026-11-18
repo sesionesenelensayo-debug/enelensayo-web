@@ -613,6 +613,7 @@
    "lat": 19.4131971,
    "lon": -99.1631332,
    "genero": "Foro con música en vivo",
+   "url": "https://mrbunny.mx/",
    "auto": true
   },
   {
@@ -623,6 +624,7 @@
    "lat": 19.4271085,
    "lon": -99.1362527,
    "genero": "Foro con música en vivo",
+   "url": "https://balagangym.com/",
    "auto": true
   },
   {
@@ -632,6 +634,16 @@
    "zona": "",
    "lat": 19.4249808,
    "lon": -99.1694818,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "Auditorio Nacional",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "",
+   "lat": 19.4247897,
+   "lon": -99.1948518,
    "genero": "Foro con música en vivo",
    "auto": true
   }
