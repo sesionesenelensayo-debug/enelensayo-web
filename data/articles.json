@@ -1,5 +1,19 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "Supergirl de Milly Alcock: el colapso taquillero que confirma el fracaso del DCU",
+    "artista": "Supergirl (Milly Alcock)",
+    "intro": "Warner Bros. invirtió entre 170 y 186 millones en una película que, tras su estreno, recaudó apenas 126,4 millones mundiales…",
+    "telegraph_url": "https://telegra.ph/Supergirl-de-Milly-Alcock-el-colapso-taquillero-que-confirma-el-fracaso-del-DCU-11-18",
+    "url": "https://enelensayomedia.com/notas/supergirl-de-milly-alcock-el-colapso-taquillero-que-confirma-el-fracas-1117.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/supergirl-de-milly-alcock-el-colapso-taquillero-que-confirma-el-fracas-1117.jpg",
+    "fecha": "2026-11-17T21:21:07.367232",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Excompañeras de La Casa de los Famosos México se reencuentran en Disney en Orlando",
@@ -5912,21 +5926,6 @@
     "views": 0,
     "categoria": "Marvel y DCU",
     "fecha_original": "2026-10-31T09:47:34.163501",
-    "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "El Fausto encabezará el festival FISCUM",
-    "artista": "El Fausto",
-    "intro": "Según el titular publicado, la agrupación El Fausto será la cabeza de cartel del festival FISCUM.",
-    "telegraph_url": "https://telegra.ph/El-Fausto-encabezará-el-festival-FISCUM-11-01",
-    "url": "https://enelensayomedia.com/notas/el-fausto-encabezara-el-festival-fiscum-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-fausto-encabezara-el-festival-fiscum-1101.jpg",
-    "fecha": "2026-11-05T11:02:29.975920",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Escena local",
-    "fecha_original": "2026-11-01T10:04:08.866496",
     "actualizada": true
   }
 ]
