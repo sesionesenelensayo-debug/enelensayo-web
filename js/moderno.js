@@ -70,6 +70,9 @@
   }
 })();
 
+// ── Avisos al celular (push) [.leon 2026-11-18]: botón 🔔 y tarjeta para activarlos (js/avisos.js)
+(function () { try { var sc = document.createElement('script'); sc.src = '/js/avisos.js?v=20261118'; sc.defer = true; document.head.appendChild(sc); } catch (e) { } })();
+
 // ── Retención [e.leo]: instalar como app + barra de suscripción al newsletter (y canal de WhatsApp si existe) ──
 (function () {
   try { if ('serviceWorker' in navigator && location.protocol === 'https:') navigator.serviceWorker.register('/sw.js').catch(function () { }); } catch (e) { }

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-18 09:36",
+ "actualizado": "2026-11-18 14:01",
  "eventos": [
   {
    "id": "will-of-one|san-luis-potosi||x",
@@ -11823,6 +11823,38 @@
    "fuente": "Sitio de Foro del Tejedor",
    "tipo": "show",
    "fuente_url": "https://www.forodeltejedor.com/eventos/"
+  },
+  {
+   "id": "jafetsax|puebla||x",
+   "banda": "Jafetsax",
+   "ciudad": "Puebla",
+   "estado": "Puebla",
+   "lat": 19.0414,
+   "lon": -98.2063,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
+  },
+  {
+   "id": "the-lounge-777|puebla||x",
+   "banda": "THE LOUNGE 777",
+   "ciudad": "Puebla",
+   "estado": "Puebla",
+   "lat": 19.0414,
+   "lon": -98.2063,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
   }
  ]
 }
