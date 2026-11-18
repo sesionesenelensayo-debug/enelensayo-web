@@ -1,5 +1,12 @@
 [
   {
+    "artista": "Maluma",
+    "slug": "maluma",
+    "imagen": "artistas_img/maluma.jpg",
+    "piezas": 1,
+    "updated": "2026-11-18 12:02"
+  },
+  {
     "artista": "George Michael",
     "slug": "george-michael",
     "imagen": "",

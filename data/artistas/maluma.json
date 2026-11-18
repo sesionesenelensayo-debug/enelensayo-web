@@ -1,0 +1,16 @@
+{
+  "artista": "Maluma",
+  "slug": "maluma",
+  "imagen": "artistas_img/maluma.jpg",
+  "shorts": [],
+  "longs": [
+    {
+      "titulo": "¿Qué impulsa al artista que combina reguetón y fútbol? – La historia de Maluma",
+      "url": "https://www.youtube.com/shorts/bDyAjmxPQFY",
+      "fecha": "2026-11-18",
+      "tipo": "long"
+    }
+  ],
+  "tweets": [],
+  "updated": "2026-11-18 12:02"
+}
