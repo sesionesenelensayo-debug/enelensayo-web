@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "El Lago Chapala: entre historia, leyendas y aparecidos",
+    "artista": "el Lago Chapala y sus aparecidos",
+    "intro": "Un cuerpo de agua que guarda secretos ancestrales y relatos de lo sobrenatural.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-lago-chapala-entre-historia-leyendas-y-aparecidos-1117.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-lago-chapala-entre-historia-leyendas-y-aparecidos-1117.jpg",
+    "fecha": "2026-11-17T20:09:28.601339",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Historias de terror"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Kiko Báez diseña outfits para Wisin y Sech en fin de semana histórico",
     "artista": "Kiko Báez",
     "intro": "Kiko Báez se convirtió en el creador de moda detrás de los looks de Wisin y Sech en un fin de semana que marcó la diferencia.",
@@ -5914,19 +5928,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Luchas"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Viola Davis: trayectoria, premios y vida detrás del escenario",
-    "artista": "Viola Davis",
-    "intro": "Recorrido por la infancia, formación, logros profesionales, EGOT, proyectos y su residencia en Los Ángeles de la actriz afroamericana.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/viola-davis-trayectoria-premios-y-vida-detras-del-escenario-1105.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/viola-davis-trayectoria-premios-y-vida-detras-del-escenario-1105.jpg",
-    "fecha": "2026-11-05T09:22:52.291691",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme internacional"
   }
 ]
