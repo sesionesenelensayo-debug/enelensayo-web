@@ -16,7 +16,7 @@
   var A = 'https://abacus.jasoncameron.dev/hit/enelensayo-mx2/';
   // [.leon 2026-11-17] Contador propio en Cloudflare (Worker eem-visitas), en paralelo a Abacus, como el de OKpolítico: UNA sola petición agrupada por visita (sendBeacon al ocultar la página
   // o a los 2.5 s), sin el límite de ~30 peticiones/10 s por IP de Abacus. Vacío = desactivado (solo Abacus).
-  var CF = '';
+  var CF = 'https://eem-visitas.enelensayomedia.workers.dev';
   var Q = [], QT = 0;
   function fl() { if (!Q.length || !CF) return; var b = Q.join(','); Q = []; try { if (navigator.sendBeacon) navigator.sendBeacon(CF + '/b', b); else fetch(CF + '/b', { method: 'POST', body: b, mode: 'no-cors', keepalive: true }); } catch (e) { } }
   addEventListener('pagehide', fl); document.addEventListener('visibilitychange', function () { if (document.visibilityState === 'hidden') fl(); });
