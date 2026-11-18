@@ -14,7 +14,16 @@
   //   bot    = navegadores automatizados y rastreadores (HeadlessChrome, Lighthouse, vistas previas de redes, etc.)
   //   El histórico anterior (mezclado, incluye pruebas) quedó en el namespace enelensayo-mx.
   var A = 'https://abacus.jasoncameron.dev/hit/enelensayo-mx2/';
-  function hit(k) { try { fetch(A + k, { mode: 'no-cors', keepalive: true }); } catch (e) { } }
+  // [.leon 2026-11-17] Contador propio en Cloudflare (Worker eem-visitas), en paralelo a Abacus, como el de OKpolítico: UNA sola petición agrupada por visita (sendBeacon al ocultar la página
+  // o a los 2.5 s), sin el límite de ~30 peticiones/10 s por IP de Abacus. Vacío = desactivado (solo Abacus).
+  var CF = '';
+  var Q = [], QT = 0;
+  function fl() { if (!Q.length || !CF) return; var b = Q.join(','); Q = []; try { if (navigator.sendBeacon) navigator.sendBeacon(CF + '/b', b); else fetch(CF + '/b', { method: 'POST', body: b, mode: 'no-cors', keepalive: true }); } catch (e) { } }
+  addEventListener('pagehide', fl); document.addEventListener('visibilitychange', function () { if (document.visibilityState === 'hidden') fl(); });
+  function hit(k) {
+    try { fetch(A + k, { mode: 'no-cors', keepalive: true }); } catch (e) { }
+    if (CF) { try { Q.push(k); clearTimeout(QT); QT = setTimeout(fl, 2500); } catch (e) { } }
+  }
   function clasificar() {
     var ua = navigator.userAgent || '', yo = false;
     try {
