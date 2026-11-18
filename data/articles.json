@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Don Omar anuncia conciertos",
+    "artista": "Don Omar",
+    "intro": "Don Omar anuncia fechas, sedes y precios de boletos para sus conciertos en México como parte de su gira The Last King World Tour.",
+    "telegraph_url": "https://telegra.ph/Don-Omar-anuncia-conciertos-11-18",
+    "url": "https://enelensayomedia.com/notas/don-omar-anuncia-conciertos-1118.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/don-omar-anuncia-conciertos-1118.jpg",
+    "fecha": "2026-11-18T07:05:29.540151",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Glastonbury 2027: 63 artistas y datos que nadie más publica",
     "artista": "Glastonbury",
     "intro": "El canal En el Ensayo Media publica un video donde se revelan datos poco conocidos sobre el cartel del Glastonbury 2027.",
@@ -4570,21 +4584,6 @@
     "views": 0,
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-08T16:25:51.021428",
-    "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Bad Bunny genera debate en redes tras rumor de nacionalidad mexicana",
-    "artista": "Bad Bunny",
-    "intro": "Un rumor difundido por Cultura Colectiva afirma que Bad Bunny sería mexicano, provocando una ola de comentarios y confusión en redes sociales. La noticia menciona que la actriz Victoria Justice habría",
-    "telegraph_url": "https://telegra.ph/Bad-Bunny-genera-debate-en-redes-tras-rumor-de-nacionalidad-mexicana-10-31",
-    "url": "https://enelensayomedia.com/notas/bad-bunny-genera-debate-en-redes-tras-rumor-de-nacionalidad-mexicana-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/bad-bunny-genera-debate-en-redes-tras-rumor-de-nacionalidad-mexicana-1031.jpg",
-    "fecha": "2026-11-09T08:59:28.858027",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-10-31T09:42:30.829512",
     "actualizada": true
   },
   {
