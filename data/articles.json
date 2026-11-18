@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Doña Alegría acusada de comentarios racistas y envuelta en conflictos en La Mansión VIP",
+    "artista": "La Mansión VIP",
+    "intro": "En La Mansión VIP 2, Doña Alegría, madre de Poncho de Nigris, ha sido acusada de lanzar comentarios racistas contra Deiby Ruiz, lo que provocó una reprimanda de HotSpanish.",
+    "telegraph_url": "https://telegra.ph/Doña-Alegría-acusada-de-comentarios-racistas-y-envuelta-en-conflictos-en-La-Mansión-VIP-11-18",
+    "url": "https://enelensayomedia.com/notas/dona-alegria-acusada-de-comentarios-racistas-y-envuelta-en-conflictos-1118.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/dona-alegria-acusada-de-comentarios-racistas-y-envuelta-en-conflictos-1118.jpg",
+    "fecha": "2026-11-18T09:26:26.594380",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reality"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Blefaroplastia en Hollywood: la mirada que no se queda atrás",
     "artista": "Blefaroplastia en Hollywood",
     "intro": "La blefaroplastia, popular entre celebridades, corrige el exceso de piel y grasa en los párpados, ofreciendo un aspecto más descansado sin alterar la expresión facial.",
@@ -5904,20 +5918,5 @@
     "categoria": "Luchas",
     "fecha_original": "2026-11-02T10:20:39.913036",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Jay-Z: De la venta de crack a la cumbre de Wall Street: la travesía de Jay‑Z",
-    "artista": "Jay-Z",
-    "intro": "En el video de En el Ensayo Media se narra la vida de Sean \"Jay‑Z\" Carter, desde su infancia en el proyecto Marcy Houses de Brooklyn hasta convertirse en el primer rapero billonario del mundo.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/jay-z-de-la-venta-de-crack-a-la-cumbre-de-wall-street-la-travesia-de-j-1105.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/jay-z-de-la-venta-de-crack-a-la-cumbre-de-wall-street-la-travesia-de-j-1105.jpg",
-    "fecha": "2026-11-05T12:04:25.431880",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   }
 ]
