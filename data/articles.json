@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Ginny y Georgia 4",
+    "artista": "Ginny y Georgia",
+    "intro": "Netflix anunció que la temporada 4 de 'Ginny y Georgia' se estrenará el jueves 21 de enero de 2027. La temporada pasó al calendario de 2027 en agosto de 2026.",
+    "telegraph_url": "https://telegra.ph/Ginny-y-Georgia-4-11-19",
+    "url": "https://enelensayomedia.com/notas/ginny-y-georgia-4-1119.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/ginny-y-georgia-4-1119.jpg",
+    "fecha": "2026-11-19T11:10:48.920698",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Televisión"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Milo J interpreta 'Niño' en el show de Jimmy Fallon tras ganar el Grammy Latino",
     "artista": "Milo J",
     "intro": "Milo J interpretó su sencillo 'Niño' en The Tonight Show Starring Jimmy Fallon el 16 de noviembre de 2026, pocos días después de recibir el Latin Grammy de Grabación del Año por la misma canción.",
@@ -5894,20 +5908,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "La historia detrás de Jorge Negrete, el Charro Cantor",
-    "artista": "Jorge Negrete",
-    "intro": "En este video del canal En el Ensayo Media se explora la vida y trayectoria de Jorge Negrete…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-historia-detras-de-jorge-negrete-el-charro-cantor-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-historia-detras-de-jorge-negrete-el-charro-cantor-1106.jpg",
-    "fecha": "2026-11-06T12:18:45.008613",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Cine"
   }
 ]
