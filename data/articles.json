@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Manelyk descarta a Niurka para estrategias en La Granja VIP",
+    "artista": "Manelyk y Niurka",
+    "intro": "Manelyk ha explicado públicamente por qué no confía en Niurka de cara a las estrategias dentro de la segunda temporada de La Granja VIP.",
+    "telegraph_url": "https://telegra.ph/Manelyk-descarta-a-Niurka-para-estrategias-en-La-Granja-VIP-11-19",
+    "url": "https://enelensayomedia.com/notas/manelyk-descarta-a-niurka-para-estrategias-en-la-granja-vip-1118.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/manelyk-descarta-a-niurka-para-estrategias-en-la-granja-vip-1118.jpg",
+    "fecha": "2026-11-18T19:07:55.348367",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reality"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Bruce Lee murió por edema cerebral: el misterio tras su fallecimiento",
     "artista": "Bruce Lee",
     "intro": "Se explica que su fallecimiento no fue causado por un golpe ni por armas de fuego, sino por un edema cerebral, un tema que rodeado de misterio y alimentó diversos mitos.",
@@ -5900,20 +5914,5 @@
     "categoria": "Sesiones en vivo",
     "author": "Oliver Ken",
     "views": 0
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Director de Resident Evil sigue frustrado por la polémica de su película",
-    "artista": "Director de Resident Evil",
-    "intro": "A pesar del éxito comercial y la acogida favorable de la crítica, el director de la última entrega de Resident Evil mantiene una sensación de frustración derivada de la gran polémica que ha generado…",
-    "telegraph_url": "https://telegra.ph/Director-de-Resident-Evil-sigue-frustrado-por-la-polémica-de-su-película-11-02",
-    "url": "https://enelensayomedia.com/notas/director-de-resident-evil-sigue-frustrado-por-la-polemica-de-su-pelicu-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/director-de-resident-evil-sigue-frustrado-por-la-polemica-de-su-pelicu-1102.jpg",
-    "fecha": "2026-11-06T07:34:03.711187",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-02T07:19:08.793370",
-    "actualizada": true
   }
 ]
