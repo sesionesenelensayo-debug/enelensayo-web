@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "FaZe Clan conquista el BLAST R6 Major Osaka 2026",
+    "artista": "FaZe Clan gana el campeonato de Rainbow Six",
+    "intro": "FaZe Clan se coronó campeón en Japón tras derrotar a DarkZero en la gran final y aseguró su lugar en el Six Invitational.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/faze-clan-conquista-el-blast-r6-major-osaka-2026-1118.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/faze-clan-conquista-el-blast-r6-major-osaka-2026-1118.jpg",
+    "fecha": "2026-11-18T21:32:19.768876",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Laura Hidalgo: la Hedy Lamarr del cine argentino nació",
     "artista": "Laura Hidalgo",
     "intro": "A través de su obra, el video resalta su contribución al cine argentino y su legado cinematográfico.",
@@ -5898,22 +5912,6 @@
     "views": 0,
     "categoria": "Cultura",
     "fecha_original": "2026-10-31T22:15:48.481824",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "God of War Laufey se retrasa hasta el 20 de mayo de 2027",
-    "artista": "God of War Laufey",
-    "intro": "El próximo título de Santa Monica Studio, God of War Laufey, ha sido pospuesto. El lanzamiento pasa del 16 de febrero al 20 de mayo de 2027…",
-    "telegraph_url": "https://telegra.ph/God-of-War-Laufey-se-retrasa-hasta-el-20-de-mayo-de-2027-11-05",
-    "url": "https://enelensayomedia.com/notas/god-of-war-laufey-se-retrasa-hasta-el-20-de-mayo-de-2027-1105.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/god-of-war-laufey-se-retrasa-hasta-el-20-de-mayo-de-2027-1105.jpg",
-    "fecha": "2026-11-06T09:25:15.566868",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-11-05T07:05:33.347081",
     "actualizada": true
   }
 ]
