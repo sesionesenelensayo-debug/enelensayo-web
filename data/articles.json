@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Anne Hathaway da a luz a su tercer hijo en Nueva York",
+    "artista": "Anne Hathaway",
+    "intro": "El bebé fue referido cariñosamente como 'buzzer-beater' durante la entrevista en 'Late Night With Seth Meyers'.",
+    "telegraph_url": "https://telegra.ph/Anne-Hathaway-da-a-luz-a-su-tercer-hijo-en-Nueva-York-11-19",
+    "url": "https://enelensayomedia.com/notas/anne-hathaway-da-a-luz-a-su-tercer-hijo-en-nueva-york-1119.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/anne-hathaway-da-a-luz-a-su-tercer-hijo-en-nueva-york-1119.jpg",
+    "fecha": "2026-11-19T13:01:16.377960",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Bellakath confirma su debut boxístico en 2027 y la rivalidad con Yeri Mua sigue en el aire",
     "artista": "Bellakath, Yeri Mua",
     "intro": "¡Boom! Bellakath dejó la pista de baile y se lanzó al ring. En La Mansión VIP 2, la cantante anunció que su primera pelea será en 2027, avivando la polémica con la streamer Yeri Mua.",
@@ -5894,19 +5908,5 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-03T09:41:45.973715",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "La noche que intentaron matar a Rasputín en San Petersburgo",
-    "artista": "Caso de Rasputín, 1916, San Petersburgo (Rusia): el místico de la corte del zar Nicolás II fue asesinado por nobles que lo envenenaron, le dispararon y lo arrojaron al río Nevá; los informes de la autopsia y los relatos de los autores alimentaron la leyenda de que era casi imposible matarlo.",
-    "intro": "El 29 de diciembre de 1916 por la mañana, Grigori Rasputín recibió una llamada con una amenaza de muerte y, a las 11 p.m.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-noche-que-intentaron-matar-a-rasputin-en-san-petersburgo-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-noche-que-intentaron-matar-a-rasputin-en-san-petersburgo-1106.jpg",
-    "fecha": "2026-11-06T23:01:13.791832",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Terror y misterio"
   }
 ]
