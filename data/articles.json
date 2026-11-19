@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Laura Hidalgo: la Hedy Lamarr del cine argentino nació",
+    "artista": "Laura Hidalgo",
+    "intro": "A través de su obra, el video resalta su contribución al cine argentino y su legado cinematográfico.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/laura-hidalgo-la-hedy-lamarr-del-cine-argentino-nacio-1118.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/laura-hidalgo-la-hedy-lamarr-del-cine-argentino-nacio-1118.jpg",
+    "fecha": "2026-11-18T21:17:26.349801",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Cine"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Netflix presenta 'Los secretos de la cortesana' como su nuevo éxito de temporada",
     "artista": "Netflix sustituta de Bridgerton",
     "intro": "La serie, adaptación de la novela de Estefanía Ruiz, se estrenará el 22 de enero de 2027.",
@@ -5900,19 +5915,5 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-05T07:05:33.347081",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Jodie Foster: del ataque de un león a la pantalla francesa y sus reflexiones sobre la fama",
-    "artista": "Jodie Foster",
-    "intro": "Una mirada a la infancia impuesta, el dramático encuentro con un león, sus premios, el debut en francés y sus creencias personales.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/jodie-foster-del-ataque-de-un-leon-a-la-pantalla-francesa-y-sus-reflex-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/jodie-foster-del-ataque-de-un-leon-a-la-pantalla-francesa-y-sus-reflex-1106.jpg",
-    "fecha": "2026-11-06T09:21:47.606975",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme internacional"
   }
 ]
