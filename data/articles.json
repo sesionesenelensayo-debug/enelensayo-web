@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Diego Boneta publica fotos de su visita a Cusco con Natalie Vértiz",
+    "artista": "Diego Boneta",
+    "intro": "Diego Boneta sorprendió a sus seguidores al compartir imágenes de su reciente viaje a Cusco, Perú, acompañado de la modelo Natalie Vértiz.",
+    "telegraph_url": "https://telegra.ph/Diego-Boneta-publica-fotos-de-su-visita-a-Cusco-con-Natalie-Vértiz-11-19",
+    "url": "https://enelensayomedia.com/notas/diego-boneta-publica-fotos-de-su-visita-a-cusco-con-natalie-vertiz-1119.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/diego-boneta-publica-fotos-de-su-visita-a-cusco-con-natalie-vertiz-1119.jpg",
+    "fecha": "2026-11-19T12:59:40.558214",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Godzilla Minus Zero supera los 100 millones de dólares en taquilla mundial",
     "artista": "Godzilla Minus Zero",
     "intro": "La producción de Toho dirigida por Takashi Yamazaki, Godzilla Minus Zero, ha superado la barrera de los 100 millones de dólares en recaudación global tras apenas dos semanas en los cines.",
@@ -5896,19 +5910,5 @@
     "categoria": "Cultura",
     "fecha_original": "2026-11-03T12:55:02.434756",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Catacumbas de los Capuchinos: ocho mil cuerpos bajo Palermo",
-    "artista": "la Catacumba de los Capuchinos de Palermo",
-    "intro": "Un recorrido histórico por el cementerio siciliano donde la muerte se exhibe como archivo social y fenómeno de masas.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/catacumbas-de-los-capuchinos-ocho-mil-cuerpos-bajo-palermo-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/catacumbas-de-los-capuchinos-ocho-mil-cuerpos-bajo-palermo-1106.jpg",
-    "fecha": "2026-11-06T20:38:08.644613",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror"
   }
 ]
