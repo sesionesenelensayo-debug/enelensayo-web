@@ -1,4 +1,15 @@
 {
+ "Misterio": {
+  "shorts": [
+   {
+    "id": "GipvpFTXPLI",
+    "titulo": "Bruce Lee murió por edema cerebral: el misterio tras su fallecimiento",
+    "fecha": "2026-11-18",
+    "nota": "https://enelensayomedia.com/notas/bruce-lee-murio-por-edema-cerebral-el-misterio-tras-su-fallecimiento-1118.html"
+   }
+  ],
+  "longs": []
+ },
  "Música": {
   "shorts": [
    {
@@ -345,12 +356,6 @@
     "titulo": "La noche que intentaron matar a Rasputín en San Petersburgo",
     "fecha": "2026-11-06",
     "nota": "https://enelensayomedia.com/notas/la-noche-que-intentaron-matar-a-rasputin-en-san-petersburgo-1106.html"
-   },
-   {
-    "id": "cG6u5QKK7Xo",
-    "titulo": "Los niños que se esfumaron en Navidad | El caso Sodder",
-    "fecha": "2026-11-05",
-    "nota": "https://enelensayomedia.com/notas/los-ninos-que-se-esfumaron-en-navidad-el-caso-sodder-1105.html"
    }
   ],
   "longs": []

@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Bruce Lee murió por edema cerebral: el misterio tras su fallecimiento",
+    "artista": "Bruce Lee",
+    "intro": "Se explica que su fallecimiento no fue causado por un golpe ni por armas de fuego, sino por un edema cerebral, un tema que rodeado de misterio y alimentó diversos mitos.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/bruce-lee-murio-por-edema-cerebral-el-misterio-tras-su-fallecimiento-1118.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/bruce-lee-murio-por-edema-cerebral-el-misterio-tras-su-fallecimiento-1118.jpg",
+    "fecha": "2026-11-18T19:02:32.755150",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Misterio"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Bruce Lee murió por edema cerebral, confirmado en dossier oficial",
     "artista": "Bruce Lee: ¿cómo murió el artista marcial más influyente?",
     "intro": "Bruce Lee falleció el 20 de julio de 1973 en Kowloon, Hong Kong, a los 32 años. La causa oficial de su muerte fue edema cerebral, una inflamación que comprime el cerebro que rodeado de misterio.",
@@ -5900,19 +5915,5 @@
     "categoria": "Cine",
     "fecha_original": "2026-11-02T07:19:08.793370",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Las Tortugas Ninja volverán al cine con animación y live‑action en 2028",
-    "artista": "Las Tortugas Ninja",
-    "intro": "¿Qué proyectos cinematográficos están preparando las Tortugas Ninja para 2028? La franquicia lanzará simultáneamente una secuela animada y una película híbrida de live‑action y animación…",
-    "telegraph_url": "https://telegra.ph/Las-Tortugas-Ninja-volverán-al-cine-con-animación-y-liveaction-en-2028-11-06",
-    "url": "https://enelensayomedia.com/notas/las-tortugas-ninja-volveran-al-cine-con-animacion-y-liveaction-en-2028-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/las-tortugas-ninja-volveran-al-cine-con-animacion-y-liveaction-en-2028-1106.jpg",
-    "fecha": "2026-11-06T07:10:21.731338",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   }
 ]
