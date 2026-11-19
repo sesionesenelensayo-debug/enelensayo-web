@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "GTA 6 arrasa en streaming: rompe récord histórico",
+    "artista": "Varios streamers",
+    "intro": "¡Una locura total en el mundo del streaming! El lanzamiento de GTA 6 acaba de reventar todos los marcadores históricos de audiencia en directo.",
+    "telegraph_url": "https://telegra.ph/GTA-6-arrasa-en-streaming-rompe-récord-histórico-11-19",
+    "url": "https://enelensayomedia.com/notas/gta-6-arrasa-en-streaming-rompe-record-historico-1119.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/gta-6-arrasa-en-streaming-rompe-record-historico-1119.jpg",
+    "fecha": "2026-11-19T15:04:11.549479",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Live Streaming"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Sheinbaum llega a APEC 2026 en China para defender la postura de México",
     "artista": "Claudia Sheinbaum",
     "intro": "La presidenta Claudia Sheinbaum asistió al segundo día de la Cumbre de Líderes de APEC en Shenzhen, China, el 18 de noviembre de 2026, para presentar la postura de México ante líderes mundiales.",
@@ -5890,22 +5904,6 @@
     "views": 0,
     "categoria": "Esports",
     "fecha_original": "2026-11-06T17:12:19.909128",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Leon Bridges llega a la CDMX el 24 de marzo de 2027 para presentar su nueva gira",
-    "artista": "Leon Bridges",
-    "intro": "El artista estadounidense ofrecerá un concierto en solitario en el Teatro Metropólitan como parte de su gira internacional.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/leon-bridges-llega-a-la-cdmx-el-24-de-marzo-de-2027-para-presentar-su-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/leon-bridges-llega-a-la-cdmx-el-24-de-marzo-de-2027-para-presentar-su-1106.jpg",
-    "fecha": "2026-11-07T12:05:30.450824",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos",
-    "fecha_original": "2026-11-06T11:06:43.287865",
     "actualizada": true
   }
 ]
