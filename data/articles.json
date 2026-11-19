@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "HotSpanish rechaza comparaciones con 'La Casa de los Famosos México'",
+    "artista": "La Casa de los Famosos México",
+    "intro": "El 19 de noviembre de 2026, Roberto González (HotSpanish) rechazó en transmisión en vivo que La Mansión VIP 2 se compare con La Casa de los Famosos México…",
+    "telegraph_url": "https://telegra.ph/HotSpanish-rechaza-comparaciones-con-La-Casa-de-los-Famosos-México-11-19",
+    "url": "https://enelensayomedia.com/notas/hotspanish-rechaza-comparaciones-con-la-casa-de-los-famosos-mexico-1119.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/hotspanish-rechaza-comparaciones-con-la-casa-de-los-famosos-mexico-1119.jpg",
+    "fecha": "2026-11-19T15:45:41.085393",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reality"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Capcom revela a Boat Man en tráiler de Mega Man: Dual Override",
     "artista": "Mega Man",
     "intro": "Capcom presentó a Boat Man, el sexto Robot Master confirmado en Mega Man: Dual Override, mediante un tráiler publicado el 18 de noviembre de 2026.",
@@ -5888,20 +5902,5 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-10-31T11:02:14.372287",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "La trayectoria musical de Ed Sheeran",
-    "artista": "Ed Sheeran",
-    "intro": "En este video del canal En el Ensayo Media se explora la trayectoria de Ed Sheeran, desde sus inicios como un joven pelirrojo que tocaba en el metro de Londres hasta convertirse en una estrella…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-trayectoria-musical-de-ed-sheeran-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-trayectoria-musical-de-ed-sheeran-1107.jpg",
-    "fecha": "2026-11-07T12:07:54.375181",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   }
 ]
