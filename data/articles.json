@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Intocable anuncia Texicano Tour 2027 con cierre en Monterrey",
+    "artista": "Intocable",
+    "intro": "La gira de 21 fechas inicia en Chicago el 20 de febrero y concluirá en Monterrey el 6 de noviembre.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/intocable-anuncia-texicano-tour-2027-con-cierre-en-monterrey-1119.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/intocable-anuncia-texicano-tour-2027-con-cierre-en-monterrey-1119.jpg",
+    "fecha": "2026-11-19T11:55:44.843796",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Robert Pattinson es el nuevo James Bond, rompiendo la regla de oro del casting",
     "artista": "James Bond",
@@ -5893,19 +5907,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Colas masivas y caída de sistemas por el nuevo Zelda",
-    "artista": "Zelda",
-    "intro": "El 5 de noviembre de 2026 salió a la venta 'The Legend of Zelda: Ocarina of Time', el remake del clásico de Nintendo 64 de 1998, en exclusiva para Nintendo Switch 2.",
-    "telegraph_url": "https://telegra.ph/Colas-masivas-y-caída-de-sistemas-por-el-nuevo-Zelda-11-06",
-    "url": "https://enelensayomedia.com/notas/colas-masivas-y-caida-de-sistemas-por-el-nuevo-zelda-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/colas-masivas-y-caida-de-sistemas-por-el-nuevo-zelda-1106.jpg",
-    "fecha": "2026-11-06T14:10:48.180163",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos"
   }
 ]
