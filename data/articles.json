@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Ignacio Meyer asume la presidencia de Universal Music Latin America e Iberia",
+    "artista": "Ignacio Meyer",
+    "intro": "Universal Music Group anunció el 18 de noviembre que Ignacio \"Nacho\" Meyer es el nuevo presidente de Universal Music Latin America & Iberian Peninsula, cargo que ocupa de inmediato.",
+    "telegraph_url": "https://telegra.ph/Ignacio-Meyer-asume-la-presidencia-de-Universal-Music-Latin-America-e-Iberia-11-19",
+    "url": "https://enelensayomedia.com/notas/ignacio-meyer-asume-la-presidencia-de-universal-music-latin-america-e-1119.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/ignacio-meyer-asume-la-presidencia-de-universal-music-latin-america-e-1119.jpg",
+    "fecha": "2026-11-19T11:11:38.234698",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Ginny y Georgia 4",
     "artista": "Ginny y Georgia",
     "intro": "Netflix anunció que la temporada 4 de 'Ginny y Georgia' se estrenará el jueves 21 de enero de 2027. La temporada pasó al calendario de 2027 en agosto de 2026.",
@@ -5894,19 +5908,5 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-10-30T22:02:29.558340",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Massad Altamimi filmará en Cuatro Ciénegas",
-    "artista": "Massad Altamimi",
-    "intro": "El influencer de origen saudí Massad Altamimi visitará Cuatro Ciénegas, Coahuila, este fin de semana para realizar una producción de moda y un cortometraje en los escenarios naturales del municipio.",
-    "telegraph_url": "https://telegra.ph/Massad-Altamimi-filmará-en-Cuatro-Ciénegas-11-06",
-    "url": "https://enelensayomedia.com/notas/massad-altamimi-filmara-en-cuatro-cienegas-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/massad-altamimi-filmara-en-cuatro-cienegas-1106.jpg",
-    "fecha": "2026-11-06T12:24:19.967893",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   }
 ]
