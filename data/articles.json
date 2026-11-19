@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Will Smith enfrenta demanda por presunta agresión sexual",
+    "artista": "Will Smith",
+    "intro": "Will Smith enfrenta una demanda presentada por Bilaal Salaam, excolaborador y examigo del actor…",
+    "telegraph_url": "https://telegra.ph/Will-Smith-enfrenta-demanda-por-presunta-agresión-sexual-11-19",
+    "url": "https://enelensayomedia.com/notas/will-smith-enfrenta-demanda-por-presunta-agresion-sexual-1119.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/will-smith-enfrenta-demanda-por-presunta-agresion-sexual-1119.jpg",
+    "fecha": "2026-11-19T14:17:09.330684",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Prime Video anuncia estreno de temporada 5 de 'Invencible' para febrero de 2027",
     "artista": "Invencible",
     "intro": "Prime Video reveló el 19 de noviembre de 2026 la fecha de estreno de la quinta temporada de la serie animada 'Invencible', programada para el 17 de febrero de 2027.",
@@ -5890,19 +5904,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Marvel y DCU"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Netflix anuncia precuela de 'Stranger Things' ambientada en los 50",
-    "artista": "Stranger Things",
-    "intro": "Netflix ha anunciado de forma oficial el desarrollo de una nueva serie precuela de 'Stranger Things', fijando su estreno para el año 2028.",
-    "telegraph_url": "https://telegra.ph/Netflix-anuncia-precuela-de-Stranger-Things-ambientada-en-los-50-11-07",
-    "url": "https://enelensayomedia.com/notas/netflix-anuncia-precuela-de-stranger-things-ambientada-en-los-50-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/netflix-anuncia-precuela-de-stranger-things-ambientada-en-los-50-1107.jpg",
-    "fecha": "2026-11-07T11:18:29.967862",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Televisión"
   }
 ]
