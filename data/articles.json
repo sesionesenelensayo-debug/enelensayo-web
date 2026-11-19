@@ -1,6 +1,21 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Schubert: el prodigio musical que dejó su obra en 31 años",
+    "artista": "Franz Schubert",
+    "intro": "En el video «Franz Schubert: el compositor que murió a los 31 años», el canal En el Ensayo Media explora la breve pero productiva vida del músico austríaco…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/schubert-el-prodigio-musical-que-dejo-su-obra-en-31-anos-1119.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/schubert-el-prodigio-musical-que-dejo-su-obra-en-31-anos-1119.jpg",
+    "fecha": "2026-11-19T12:07:45.201210",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Intocable anuncia Texicano Tour 2027 con cierre en Monterrey",
     "artista": "Intocable",
@@ -5893,19 +5908,5 @@
     "categoria": "Chisme",
     "fecha_original": "2026-10-30T12:11:31.463526",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Daisy Edgar-Jones protagoniza Sense and Sensibility",
-    "artista": "Daisy Edgar-Jones",
-    "intro": "La película «Sense and Sensibility», protagonizada por Daisy Edgar-Jones como Elinor Dashwood, se encuentra conquistando a los amantes del cine en su estreno reciente.",
-    "telegraph_url": "https://telegra.ph/Daisy-Edgar-Jones-protagoniza-Sense-and-Sensibility-11-06",
-    "url": "https://enelensayomedia.com/notas/daisy-edgar-jones-protagoniza-sense-and-sensibility-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/daisy-edgar-jones-protagoniza-sense-and-sensibility-1106.jpg",
-    "fecha": "2026-11-06T14:58:47.920921",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   }
 ]
