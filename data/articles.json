@@ -1,5 +1,19 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "El caos en DC: Gunn y Safran abandonan, el DCU se desmorona",
+    "artista": "Batman",
+    "intro": "La noticia de hoy no es un rumor: James Gunn y Peter Safran anunciaron su salida de DC Studios el 1 de diciembre de 2026…",
+    "telegraph_url": "https://telegra.ph/El-caos-en-DC-Gunn-y-Safran-abandonan-el-DCU-se-desmorona-11-19",
+    "url": "https://enelensayomedia.com/notas/el-caos-en-dc-gunn-y-safran-abandonan-el-dcu-se-desmorona-1119.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-caos-en-dc-gunn-y-safran-abandonan-el-dcu-se-desmorona-1119.jpg",
+    "fecha": "2026-11-19T12:18:15.409755",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Schubert: el prodigio musical que dejó su obra en 31 años",
@@ -5893,20 +5907,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Victoria Justice visita México, prueba tacos y aparece en Hoy",
-    "artista": "Victoria Justice",
-    "intro": "La actriz y cantante estadounidense Victoria Justice estuvo en la Ciudad de México, donde participó del programa matutino Hoy, degustó tacos junto a Aarón Mercury y recibió una lección de español de G",
-    "telegraph_url": "https://telegra.ph/Victoria-Justice-visita-México-prueba-tacos-y-aparece-en-Hoy-10-30",
-    "url": "https://enelensayomedia.com/notas/victoria-justice-visita-mexico-prueba-tacos-y-aparece-en-hoy-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/victoria-justice-visita-mexico-prueba-tacos-y-aparece-en-hoy-1030.jpg",
-    "fecha": "2026-11-06T15:43:27.771543",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-10-30T12:11:31.463526",
-    "actualizada": true
   }
 ]
