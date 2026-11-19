@@ -1,5 +1,20 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Los 7 hitos que marcaron la trayectoria de Deep Purple",
+    "artista": "Deep Purple",
+    "intro": "En el video de diez minutos publicado por el canal En el Ensayo Media, se recorre la historia de Deep Purple a través de siete momentos clave.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/los-7-hitos-que-marcaron-la-trayectoria-de-deep-purple-1119.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/los-7-hitos-que-marcaron-la-trayectoria-de-deep-purple-1119.jpg",
+    "fecha": "2026-11-19T12:20:23.331102",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "El caos en DC: Gunn y Safran abandonan, el DCU se desmorona",
@@ -4611,20 +4626,6 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-07T17:18:06.029890",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Lasso revela cinco canciones esenciales de su nuevo álbum “Objetos Frágiles en Ambientes Hostiles”",
-    "artista": "Lasso",
-    "intro": "El cantante Lasso explicó en una entrevista para HOLA USA, publicada el 5 de noviembre de 2026, las cinco canciones que considera esenciales dentro de su sexto álbum de estudio…",
-    "telegraph_url": "https://telegra.ph/Lasso-revela-cinco-canciones-esenciales-de-su-nuevo-álbum-Objetos-Frágiles-en-Ambientes-Hostiles-11-10",
-    "url": "https://enelensayomedia.com/notas/lasso-revela-cinco-canciones-esenciales-de-su-nuevo-album-objetos-frag-1110.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/lasso-revela-cinco-canciones-esenciales-de-su-nuevo-album-objetos-frag-1110.jpg",
-    "fecha": "2026-11-10T08:10:18.816125",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   },
   {
     "opinion": false,
