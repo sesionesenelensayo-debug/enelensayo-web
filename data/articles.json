@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Karol G en el Estadio GNP: setlist y detalles",
+    "artista": "Karol G",
+    "intro": "El pasado 13, 14 y 15 de noviembre de 2026, Karol G se presentó en el Estadio GNP Seguros en la Ciudad de México. Las tres fechas programadas ya concluyeron.",
+    "telegraph_url": "https://telegra.ph/Karol-G-en-el-Estadio-GNP-setlist-y-detalles-11-19",
+    "url": "https://enelensayomedia.com/notas/karol-g-en-el-estadio-gnp-setlist-y-detalles-1119.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/karol-g-en-el-estadio-gnp-setlist-y-detalles-1119.jpg",
+    "fecha": "2026-11-19T11:38:51.368123",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Ignacio Meyer asume la presidencia de Universal Music Latin America e Iberia",
     "artista": "Ignacio Meyer",
     "intro": "Universal Music Group anunció el 18 de noviembre que Ignacio \"Nacho\" Meyer es el nuevo presidente de Universal Music Latin America & Iberian Peninsula, cargo que ocupa de inmediato.",
@@ -5893,20 +5907,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Conan Exiles prepara actualización para PS5 y Xbox Series",
-    "artista": "Conan Exiles",
-    "intro": "Conan Exiles, el videojuego de supervivencia ambientado en el mundo de Conan el Bárbaro, está a punto de recibir una transformación para PlayStation 5 y Xbox Series. Según reporta Kotaku en Español, e",
-    "telegraph_url": "https://telegra.ph/Conan-Exiles-prepara-actualización-para-PS5-y-Xbox-Series-10-31",
-    "url": "https://enelensayomedia.com/notas/conan-exiles-prepara-actualizacion-para-ps5-y-xbox-series-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/conan-exiles-prepara-actualizacion-para-ps5-y-xbox-series-1030.jpg",
-    "fecha": "2026-11-06T12:26:39.614420",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-10-30T22:02:29.558340",
-    "actualizada": true
   }
 ]
