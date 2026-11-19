@@ -1,4 +1,39 @@
 {
+ "In memoriam": {
+  "shorts": [
+   {
+    "id": "4Bjy-QjT-s8",
+    "titulo": "Kevin DuBrow, voz de Quiet Riot, fallece en 2007 por combinación de drogas",
+    "fecha": "2026-11-19",
+    "nota": "https://enelensayomedia.com/notas/kevin-dubrow-voz-de-quiet-riot-fallece-en-2007-por-combinacion-de-drog-1119.html"
+   },
+   {
+    "id": "mgn-ud1VQqc",
+    "titulo": "Marilyn Monroe murió la madrugada del 5 de agosto de 1962 en su residencia de Los Ángeles",
+    "fecha": "2026-11-18",
+    "nota": "https://enelensayomedia.com/notas/marilyn-monroe-murio-la-madrugada-del-5-de-agosto-de-1962-en-su-reside-1118.html"
+   },
+   {
+    "id": "Dn_keTbqg5A",
+    "titulo": "Frida Kahlo murió en 1954 por embolia pulmonar, confirmada por su enfermera",
+    "fecha": "2026-11-14",
+    "nota": "https://enelensayomedia.com/notas/frida-kahlo-murio-en-1954-por-embolia-pulmonar-confirmada-por-su-enfer-1114.html"
+   },
+   {
+    "id": "aIXc77PZJeI",
+    "titulo": "Vicente Fernández ingresó al Country 2000 el 7‑agosto y murió el 12‑diciembre",
+    "fecha": "2026-11-07",
+    "nota": "https://enelensayomedia.com/notas/vicente-fernandez-ingreso-al-country-2000-el-7agosto-y-murio-el-12dici-1107.html"
+   },
+   {
+    "id": "ZmcGV2_3eOI",
+    "titulo": "Pedro Infante muere en accidente aéreo de Mérida en 1957",
+    "fecha": "2026-11-07",
+    "nota": "https://enelensayomedia.com/notas/pedro-infante-muere-en-accidente-aereo-de-merida-en-1957-1107.html"
+   }
+  ],
+  "longs": []
+ },
  "Cine": {
   "shorts": [
    {
@@ -242,35 +277,6 @@
     "nota": "https://enelensayomedia.com/notas/el-escandalo-de-las-lavanderas-verdad-traicion-y-disputas-1110.html"
    }
   ]
- },
- "In memoriam": {
-  "shorts": [
-   {
-    "id": "mgn-ud1VQqc",
-    "titulo": "Marilyn Monroe murió la madrugada del 5 de agosto de 1962 en su residencia de Los Ángeles",
-    "fecha": "2026-11-18",
-    "nota": "https://enelensayomedia.com/notas/marilyn-monroe-murio-la-madrugada-del-5-de-agosto-de-1962-en-su-reside-1118.html"
-   },
-   {
-    "id": "Dn_keTbqg5A",
-    "titulo": "Frida Kahlo murió en 1954 por embolia pulmonar, confirmada por su enfermera",
-    "fecha": "2026-11-14",
-    "nota": "https://enelensayomedia.com/notas/frida-kahlo-murio-en-1954-por-embolia-pulmonar-confirmada-por-su-enfer-1114.html"
-   },
-   {
-    "id": "aIXc77PZJeI",
-    "titulo": "Vicente Fernández ingresó al Country 2000 el 7‑agosto y murió el 12‑diciembre",
-    "fecha": "2026-11-07",
-    "nota": "https://enelensayomedia.com/notas/vicente-fernandez-ingreso-al-country-2000-el-7agosto-y-murio-el-12dici-1107.html"
-   },
-   {
-    "id": "ZmcGV2_3eOI",
-    "titulo": "Pedro Infante muere en accidente aéreo de Mérida en 1957",
-    "fecha": "2026-11-07",
-    "nota": "https://enelensayomedia.com/notas/pedro-infante-muere-en-accidente-aereo-de-merida-en-1957-1107.html"
-   }
-  ],
-  "longs": []
  },
  "Biografía": {
   "shorts": [
