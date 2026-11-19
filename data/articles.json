@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Godzilla Minus Zero supera los 100 millones de dólares en taquilla mundial",
+    "artista": "Godzilla Minus Zero",
+    "intro": "La producción de Toho dirigida por Takashi Yamazaki, Godzilla Minus Zero, ha superado la barrera de los 100 millones de dólares en recaudación global tras apenas dos semanas en los cines.",
+    "telegraph_url": "https://telegra.ph/Godzilla-Minus-Zero-supera-los-100-millones-de-dólares-en-taquilla-mundial-11-19",
+    "url": "https://enelensayomedia.com/notas/godzilla-minus-zero-supera-los-100-millones-de-dolares-en-taquilla-mun-1119.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/godzilla-minus-zero-supera-los-100-millones-de-dolares-en-taquilla-mun-1119.jpg",
+    "fecha": "2026-11-19T12:56:30.250384",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Rinden homenaje a Pedro Infante a 109 años de su natalicio en Guamúchil",
     "artista": "Pedro Infante",
     "intro": "El 18 de noviembre de 2026 se cumplieron 109 años del nacimiento de Pedro Infante, y en Guamúchil, Sinaloa, se le rindió homenaje.",
@@ -5896,19 +5910,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "opinion": true,
-    "tipo": "reportaje",
-    "titulo": "La Sirenita (2023): ¿Qué implica el casting de Halle Bailey en la historia original?",
-    "artista": "la polémica por el reparto de La Sirenita (2023)",
-    "intro": "El live‑action de Disney generó polémica al reemplazar a la Ariel azul‑rubia por una actriz afro‑americana, provocando críticas sobre fidelidad al canon y resultados financieros.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-sirenita-2023-que-implica-el-casting-de-halle-bailey-en-la-historia-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-sirenita-2023-que-implica-el-casting-de-halle-bailey-en-la-historia-1106.jpg",
-    "fecha": "2026-11-06T19:58:24.084707",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Agenda woke"
   }
 ]
