@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Romeo Beckham debuta en 'Forty Love', película de tenis y drama LGBTQ+",
+    "artista": "Romeo Beckham en 'Forty Love'",
+    "intro": "El segundo hijo de David y Victoria Beckham interpreta a un rival del protagonista en esta cinta francesa con estreno previsto para 2026.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/romeo-beckham-debuta-en-forty-love-pelicula-de-tenis-y-drama-lgbtq-1119.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/romeo-beckham-debuta-en-forty-love-pelicula-de-tenis-y-drama-lgbtq-1119.jpg",
+    "fecha": "2026-11-19T09:14:26.458965",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme internacional"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Morat conquista CDMX con siete conciertos 'sold out' en el Palacio de los Deportes",
     "artista": "Morat",
     "intro": "La banda colombiana Morat presentó este viernes 6 de noviembre de 2026 el primer concierto de siete fechas 'sold out' en el Palacio de los Deportes de la Ciudad de México…",
@@ -5899,19 +5913,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Psycho Clown lidera el regreso de AAA a Ecatepec",
-    "artista": "Psycho Clown",
-    "intro": "Psycho Clown encabeza el regreso triunfal de AAA a Ecatepec, según reportes de varios medios.",
-    "telegraph_url": "https://telegra.ph/Psycho-Clown-lidera-el-regreso-de-AAA-a-Ecatepec-11-06",
-    "url": "https://enelensayomedia.com/notas/psycho-clown-lidera-el-regreso-de-aaa-a-ecatepec-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/psycho-clown-lidera-el-regreso-de-aaa-a-ecatepec-1106.jpg",
-    "fecha": "2026-11-06T10:08:05.001751",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Luchas"
   }
 ]
