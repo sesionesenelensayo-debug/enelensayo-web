@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Rinden homenaje a Pedro Infante a 109 años de su natalicio en Guamúchil",
+    "artista": "Pedro Infante",
+    "intro": "El 18 de noviembre de 2026 se cumplieron 109 años del nacimiento de Pedro Infante, y en Guamúchil, Sinaloa, se le rindió homenaje.",
+    "telegraph_url": "https://telegra.ph/Rinden-homenaje-a-Pedro-Infante-a-109-años-de-su-natalicio-en-Guamúchil-11-19",
+    "url": "https://enelensayomedia.com/notas/rinden-homenaje-a-pedro-infante-a-109-anos-de-su-natalicio-en-guamuchi-1119.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/rinden-homenaje-a-pedro-infante-a-109-anos-de-su-natalicio-en-guamuchi-1119.jpg",
+    "fecha": "2026-11-19T12:54:27.774524",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Intocable anuncia Texicano Tour 2027 con cierre en Monterrey",
     "artista": "Intocable",
@@ -5896,19 +5910,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Agenda woke"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Maluma anuncia gira mundial Loco X Volver para 2027 y 2028",
-    "artista": "Maluma: el anuncio oficial de su gira mundial Loco X Volver",
-    "intro": "Maluma prepara su regreso definitivo a los escenarios internacionales con el Loco X Volver Tour…",
-    "telegraph_url": "https://telegra.ph/Maluma-anuncia-gira-mundial-Loco-X-Volver-para-2027-y-2028-11-07",
-    "url": "https://enelensayomedia.com/notas/maluma-anuncia-gira-mundial-loco-x-volver-para-2027-y-2028-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/maluma-anuncia-gira-mundial-loco-x-volver-para-2027-y-2028-1106.jpg",
-    "fecha": "2026-11-06T18:09:57.475361",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reportaje"
   }
 ]
