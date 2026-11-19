@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Pity Álvarez estrena 'Te entiendo' con Leiva y revela su origen emocional",
+    "artista": "Pity Álvarez estrena single con Leiva mientras aguarda la de",
+    "intro": "La canción, compuesta antes de su proceso de adicción, refleja resiliencia y segundas oportunidades.",
+    "telegraph_url": "https://telegra.ph/Pity-Álvarez-estrena-Te-entiendo-con-Leiva-y-revela-su-origen-emocional-11-19",
+    "url": "https://enelensayomedia.com/notas/pity-alvarez-estrena-te-entiendo-con-leiva-y-revela-su-origen-emociona-1118.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/pity-alvarez-estrena-te-entiendo-con-leiva-y-revela-su-origen-emociona-1118.jpg",
+    "fecha": "2026-11-18T20:22:42.238516",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Manelyk descarta a Niurka para estrategias en La Granja VIP",
     "artista": "Manelyk y Niurka",
     "intro": "Manelyk ha explicado públicamente por qué no confía en Niurka de cara a las estrategias dentro de la segunda temporada de La Granja VIP.",
@@ -5901,18 +5915,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Tiresias III en Sesiones En el Ensayo: la sesión en vivo, en sus palabras",
-    "artista": "Tiresias III",
-    "intro": "Tiresias III presenta su sesión en vivo, grabada en En el Ensayo. Aquí puedes verla completa y conocer a la banda en sus propias palabras.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/tiresias-iii-en-sesiones-en-el-ensayo-la-sesion-en-vivo-en-sus-palabra-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/tiresias-iii-en-sesiones-en-el-ensayo-la-sesion-en-vivo-en-sus-palabra-1106.jpg",
-    "fecha": "2026-11-06T08:01:04",
-    "categoria": "Sesiones en vivo",
-    "author": "Oliver Ken",
-    "views": 0
   }
 ]
