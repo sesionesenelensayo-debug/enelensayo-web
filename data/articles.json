@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Primavera Sound 2026 revela sus 34 artistas y datos clave",
+    "artista": "Primavera Sound",
+    "intro": "En el video publicado por el canal En el Ensayo Media, se analiza el cartel del Primavera Sound 2026, destacando 34 artistas y presentando cuentas exclusivas sobre sus datos relevantes…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/primavera-sound-2026-revela-sus-34-artistas-y-datos-clave-1119.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/primavera-sound-2026-revela-sus-34-artistas-y-datos-clave-1119.jpg",
+    "fecha": "2026-11-19T12:32:37.536857",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Tony Aguirre lidera votaciones y cinco en riesgo de eliminación en La Mansión VIP 2",
     "artista": "La Mansión VIP 2",
     "intro": "En La Mansión VIP 2, Tony Aguirre lidera las votaciones con 165,726.46 puntos, según reportes de ABC Noticias del 14 de noviembre de 2026.",
@@ -4561,22 +4576,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Luchas"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Zemmoa presenta su sencillo “Roberta”",
-    "artista": "Zemmoa",
-    "intro": "Zemmoa transforma un poema de Roberta Marrero en su nuevo sencillo “Roberta”. La cantautora mexicana amplía su catálogo musical con este lanzamiento que adapta la obra de la reconocida escritora…",
-    "telegraph_url": "https://telegra.ph/Zemmoa-presenta-su-sencillo-Roberta-11-09",
-    "url": "https://enelensayomedia.com/notas/zemmoa-presenta-su-sencillo-roberta-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/zemmoa-presenta-su-sencillo-roberta-1109.jpg",
-    "fecha": "2026-11-10T10:04:20.671341",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-09T16:47:40.087284",
-    "actualizada": true
   },
   {
     "opinion": false,
