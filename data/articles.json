@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Morat conquista CDMX con siete conciertos 'sold out' en el Palacio de los Deportes",
+    "artista": "Morat",
+    "intro": "La banda colombiana Morat presentó este viernes 6 de noviembre de 2026 el primer concierto de siete fechas 'sold out' en el Palacio de los Deportes de la Ciudad de México…",
+    "telegraph_url": "https://telegra.ph/Morat-conquista-CDMX-con-siete-conciertos-sold-out-en-el-Palacio-de-los-Deportes-11-19",
+    "url": "https://enelensayomedia.com/notas/morat-conquista-cdmx-con-siete-conciertos-sold-out-en-el-palacio-de-lo-1119.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/morat-conquista-cdmx-con-siete-conciertos-sold-out-en-el-palacio-de-lo-1119.jpg",
+    "fecha": "2026-11-19T08:35:33.361797",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "La Nahuala: la leyenda de la bruja que habitaba la Casa del Alfeñique",
     "artista": "la Nahuala y las leyendas de los nahuales",
     "intro": "Una figura folclórica mexicana que combina misticismo y terror, arraigada en Puebla.",
@@ -5899,19 +5913,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Luchas"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Sanatorio Durán: del refugio de tuberculosis al escenario turístico de leyendas",
-    "artista": "el Hospital Abandonado de Sanatorio Duran",
-    "intro": "Recorrido histórico y logístico del antiguo hospital que hoy atrae a miles de visitantes entre su arquitectura abandonada y misteriosas narrativas.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/sanatorio-duran-del-refugio-de-tuberculosis-al-escenario-turistico-de-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/sanatorio-duran-del-refugio-de-tuberculosis-al-escenario-turistico-de-1106.jpg",
-    "fecha": "2026-11-06T09:48:29.220913",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror"
   }
 ]
