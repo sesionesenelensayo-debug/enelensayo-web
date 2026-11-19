@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Netflix presenta 'Los secretos de la cortesana' como su nuevo éxito de temporada",
+    "artista": "Netflix sustituta de Bridgerton",
+    "intro": "La serie, adaptación de la novela de Estefanía Ruiz, se estrenará el 22 de enero de 2027.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/netflix-presenta-los-secretos-de-la-cortesana-como-su-nuevo-exito-de-t-1118.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/netflix-presenta-los-secretos-de-la-cortesana-como-su-nuevo-exito-de-t-1118.jpg",
+    "fecha": "2026-11-18T21:04:07.136629",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme internacional"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Laura Hidalgo: la Hedy Lamarr del cine argentino nació en 1927",
     "artista": "Laura Hidalgo: la Hedy Lamarr del cine argentino nació",
@@ -5900,19 +5914,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme internacional"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Majo Aguilar recibe la Estrella Maya en Lynwood, California",
-    "artista": "Majo Aguilar",
-    "intro": "Majo Aguilar fue honrada con la “Estrella Maya” en la nueva etapa del Paseo de las Estrellas de Plaza México, en Lynwood, California, el 30 de octubre.",
-    "telegraph_url": "https://telegra.ph/Majo-Aguilar-recibe-la-Estrella-Maya-en-Lynwood-California-11-06",
-    "url": "https://enelensayomedia.com/notas/majo-aguilar-recibe-la-estrella-maya-en-lynwood-california-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/majo-aguilar-recibe-la-estrella-maya-en-lynwood-california-1106.jpg",
-    "fecha": "2026-11-06T08:16:07.253180",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   }
 ]
