@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Franz Schubert: el compositor que murió a los 31 años",
+    "artista": "Franz Schubert: el compositor que murió a los 31 años",
+    "intro": "Franz Schubert falleció a los 31 años en 1828, dejando un legado musical que sigue sorprendiendo.",
+    "telegraph_url": "https://telegra.ph/Franz-Schubert-el-compositor-que-murió-a-los-31-años-11-19",
+    "url": "https://enelensayomedia.com/notas/franz-schubert-el-compositor-que-murio-a-los-31-anos-1119.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/franz-schubert-el-compositor-que-murio-a-los-31-anos-1119.jpg",
+    "fecha": "2026-11-19T11:06:32.969493",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "In memoriam"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "El TFT Vegas Open 2026 recorre México y Brasil con el cinturón del campeón antes de la final en",
     "artista": "TFT Vegas Open 2026",
     "intro": "El torneo de Teamfight Tactics llega a Latinoamérica con actividades para jugadores y comunidades antes de la competencia principal en diciembre.",
@@ -5897,20 +5911,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Cine"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Mariana Ochoa no ha recibido premio por ganar La Casa de los Famosos México",
-    "artista": "Mariana Ochoa",
-    "intro": "Según reportes de El Heraldo de México e Infobae, Mariana Ochoa, ganadora de la cuarta temporada de La Casa de los Famosos México en 2026, no ha recibido el premio en dinero correspondiente a su victo",
-    "telegraph_url": "https://telegra.ph/Mariana-Ochoa-no-ha-recibido-premio-por-ganar-La-Casa-de-los-Famosos-México-10-31",
-    "url": "https://enelensayomedia.com/notas/mariana-ochoa-no-ha-recibido-premio-por-ganar-la-casa-de-los-famosos-m-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/mariana-ochoa-no-ha-recibido-premio-por-ganar-la-casa-de-los-famosos-m-1030.jpg",
-    "fecha": "2026-11-06T12:00:35.520656",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reality",
-    "fecha_original": "2026-10-30T20:58:50.074904",
-    "actualizada": true
   }
 ]
