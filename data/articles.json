@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "La Nahuala: la leyenda de la bruja que habitaba la Casa del Alfeñique",
+    "artista": "la Nahuala y las leyendas de los nahuales",
+    "intro": "Una figura folclórica mexicana que combina misticismo y terror, arraigada en Puebla.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/la-nahuala-la-leyenda-de-la-bruja-que-habitaba-la-casa-del-alfenique-1118.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-nahuala-la-leyenda-de-la-bruja-que-habitaba-la-casa-del-alfenique-1118.jpg",
+    "fecha": "2026-11-18T21:40:03.994852",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Historias de terror"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "FaZe Clan conquista el BLAST R6 Major Osaka 2026",
     "artista": "FaZe Clan gana el campeonato de Rainbow Six",
     "intro": "FaZe Clan se coronó campeón en Japón tras derrotar a DarkZero en la gran final y aseguró su lugar en el Six Invitational.",
@@ -5898,20 +5912,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "‘La bola negra’ de Los Javis supera los 35,7 millones de euros en taquilla",
-    "artista": "Los Javis",
-    "intro": "La película ‘La bola negra’, dirigida por Los Javis, ha batido un nuevo récord al superar los 35,7 millones de euros en taquilla, destronando a ‘Ocho apellidos catalanes’.",
-    "telegraph_url": "https://telegra.ph/La-bola-negra-de-Los-Javis-supera-los-357-millones-de-euros-en-taquilla-11-01",
-    "url": "https://enelensayomedia.com/notas/la-bola-negra-de-los-javis-supera-los-35-7-millones-de-euros-en-taquil-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-bola-negra-de-los-javis-supera-los-35-7-millones-de-euros-en-taquil-1031.jpg",
-    "fecha": "2026-11-06T09:47:34.270691",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura",
-    "fecha_original": "2026-10-31T22:15:48.481824",
-    "actualizada": true
   }
 ]
