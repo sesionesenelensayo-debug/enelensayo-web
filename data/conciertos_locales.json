@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19 09:26",
+ "actualizado": "2026-11-19 14:00",
  "eventos": [
   {
    "id": "will-of-one|san-luis-potosi||x",
@@ -15057,6 +15057,38 @@
    "fuente": "Multiforo Digital",
    "tipo": "show",
    "fuente_url": "https://www.instagram.com/p/DeiqejfOxEb/"
+  },
+  {
+   "id": "janexsoul|chihuahua||x",
+   "banda": "Janexsoul",
+   "ciudad": "Chihuahua",
+   "estado": "Chihuahua",
+   "lat": 28.6353,
+   "lon": -106.0889,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
+  },
+  {
+   "id": "chokebandmx|chihuahua||x",
+   "banda": "CHOKEBANDMX",
+   "ciudad": "Chihuahua",
+   "estado": "Chihuahua",
+   "lat": 28.6353,
+   "lon": -106.0889,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
   }
  ]
 }
