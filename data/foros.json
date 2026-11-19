@@ -562,6 +562,17 @@
    "auto": true
   },
   {
+   "nombre": "MAXINE",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "",
+   "lat": 19.3430162,
+   "lon": -99.1894781,
+   "genero": "Foro con música en vivo",
+   "url": "https://www.maxinesanangel.com/",
+   "auto": true
+  },
+  {
    "nombre": "La Bodeguita del Medio",
    "ciudad": "Ciudad de México",
    "estado": "Distrito Federal",
@@ -644,6 +655,16 @@
    "zona": "",
    "lat": 19.4247897,
    "lon": -99.1948518,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "LA ESTACION SUR 12",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "EL RODEO",
+   "lat": 19.3987609,
+   "lon": -99.083011,
    "genero": "Foro con música en vivo",
    "auto": true
   }
