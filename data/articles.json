@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Prime Video anuncia estreno de temporada 5 de 'Invencible' para febrero de 2027",
+    "artista": "Invencible",
+    "intro": "Prime Video reveló el 19 de noviembre de 2026 la fecha de estreno de la quinta temporada de la serie animada 'Invencible', programada para el 17 de febrero de 2027.",
+    "telegraph_url": "https://telegra.ph/Prime-Video-anuncia-estreno-de-temporada-5-de-Invencible-para-febrero-de-2027-11-19",
+    "url": "https://enelensayomedia.com/notas/prime-video-anuncia-estreno-de-temporada-5-de-invencible-para-febrero-1119.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/prime-video-anuncia-estreno-de-temporada-5-de-invencible-para-febrero-1119.jpg",
+    "fecha": "2026-11-19T14:14:31.310317",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Televisión"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Meg Ryan cumple 65 años de trayectoria y vida",
     "artista": "Meg Ryan",
     "intro": "Meg Ryan asiste a la cumbre DealBook del New York Times con el cabello ondulado hasta los hombros, un cambio respecto a su característico corte bob…",
@@ -5890,21 +5904,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Televisión"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Detalles y polémicas sobre la separación de Pampita y Martín Pepa",
-    "artista": "Pampita",
-    "intro": "La separación entre la modelo y conductora Carolina 'Pampita' Ardohain y el polista Martín Pepa genera gran atención mediática tras revelarse nuevos detalles sobre la ruptura.",
-    "telegraph_url": "https://telegra.ph/Detalles-y-polémicas-sobre-la-separación-de-Pampita-y-Martín-Pepa-11-06",
-    "url": "https://enelensayomedia.com/notas/detalles-y-polemicas-sobre-la-separacion-de-pampita-y-martin-pepa-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/detalles-y-polemicas-sobre-la-separacion-de-pampita-y-martin-pepa-1106.jpg",
-    "fecha": "2026-11-07T10:47:46.248634",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-06T12:23:14.392071",
-    "actualizada": true
   }
 ]
