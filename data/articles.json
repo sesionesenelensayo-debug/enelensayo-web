@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Concierto de Los Cafres y Los Estrambóticos en el Auditorio Nacional: setlist y telonero para el 19 de noviembre",
+    "artista": "Los Cafres y Los Estrambóticos",
+    "intro": "Esta noche, jueves 19 de noviembre, el Auditorio Nacional de la Ciudad de México recibe a Los Cafres y Los Estrambóticos en una noche de reggae y ska.",
+    "telegraph_url": "https://telegra.ph/Concierto-de-Los-Cafres-y-Los-Estrambóticos-en-el-Auditorio-Nacional-setlist-y-telonero-para-el-19-de-noviembre-11-19",
+    "url": "https://enelensayomedia.com/notas/concierto-de-los-cafres-y-los-estramboticos-en-el-auditorio-nacional-s-1119.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/concierto-de-los-cafres-y-los-estramboticos-en-el-auditorio-nacional-s-1119.jpg",
+    "fecha": "2026-11-19T13:10:35.574759",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Anne Hathaway da a luz a su tercer hijo en Nueva York",
     "artista": "Anne Hathaway",
     "intro": "El bebé fue referido cariñosamente como 'buzzer-beater' durante la entrevista en 'Late Night With Seth Meyers'.",
@@ -5892,21 +5906,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme internacional"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "GTA VI y Ocarina of Time Remake lideran los lanzamientos de noviembre 2026",
-    "artista": "GTA 6 y Ocarina of Time Remake",
-    "intro": "Este noviembre 2026 se anunciará la llegada de dos de los títulos más esperados del año: Grand Theft Auto VI, programado para el 19 de noviembre en PlayStation 5 y Xbox Series X/S…",
-    "telegraph_url": "https://telegra.ph/GTA-VI-y-Ocarina-of-Time-Remake-lideran-los-lanzamientos-de-noviembre-2026-11-03",
-    "url": "https://enelensayomedia.com/notas/gta-vi-y-ocarina-of-time-remake-lideran-los-lanzamientos-de-noviembre-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/gta-vi-y-ocarina-of-time-remake-lideran-los-lanzamientos-de-noviembre-1103.jpg",
-    "fecha": "2026-11-07T07:08:56.324913",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-11-03T09:41:45.973715",
-    "actualizada": true
   }
 ]
