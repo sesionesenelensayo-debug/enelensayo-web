@@ -2,6 +2,23 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "La Nahuala: la leyenda de la bruja que habitaba la Casa del Alfeñique",
+    "artista": "la Nahuala y las leyendas de los nahuales",
+    "intro": "Una figura folclórica mexicana que combina misticismo y terror, arraigada en Puebla.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/la-nahuala-la-leyenda-de-la-bruja-que-habitaba-la-casa-del-alfenique-1118.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-nahuala-la-leyenda-de-la-bruja-que-habitaba-la-casa-del-alfenique-1118.jpg",
+    "fecha": "2026-11-19T08:33:04.880465",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Historias de terror",
+    "fecha_original": "2026-11-18T21:40:03.994852",
+    "ultima_actualizacion": "2026-11-19T08:33:04.880465",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Rosalía recibe el premio Variety 'Obra Maestra de la Década' por 'Lux'",
     "artista": "Rosalía",
     "intro": "Rosalía será galardonada con el primer premio Variety 'Obra Maestra de la Década' por su álbum 'Lux', en la gala Hitmakers que se celebrará el 5 de diciembre en Los Ángeles.",
@@ -12,20 +29,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "La Nahuala: la leyenda de la bruja que habitaba la Casa del Alfeñique",
-    "artista": "la Nahuala y las leyendas de los nahuales",
-    "intro": "Una figura folclórica mexicana que combina misticismo y terror, arraigada en Puebla.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-nahuala-la-leyenda-de-la-bruja-que-habitaba-la-casa-del-alfenique-1118.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-nahuala-la-leyenda-de-la-bruja-que-habitaba-la-casa-del-alfenique-1118.jpg",
-    "fecha": "2026-11-18T21:40:03.994852",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror"
   },
   {
     "opinion": false,

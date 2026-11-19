@@ -1,5 +1,5 @@
 {
- "actualizado": "19/11/2026 02:30",
+ "actualizado": "19/11/2026 08:30",
  "recomendadas": [
   {
    "slug": "spartacus",
@@ -39,7 +39,14 @@
    "titulo": "Los Soprano",
    "tipo": "Serie",
    "alias": "sopranos?\\b",
-   "noticias": []
+   "noticias": [
+    {
+     "titulo": "\"Si él no moría esa noche, ese era su legado\": el guionista de 'Los Soprano' zanjó el enigma del corte a negro 15 años después del final",
+     "medio": "SensaCine",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5CZTItX3M4NUhEbEFqWDhUcWVzY3dEU2VYaGJfRDNpQlRoV3pQWFJ5Sk5rRjhodHpYRGVyYmJZellMaXZ1MHgzMjFjS0FYQlFtMzlJdWFUQU52Ul9jd0lMT2Y3S0lmYWVNT3R2U3JR0gFzQVVfeXFMT3hYWlVsUUVSaW0yZlczeG9hbWUzVkdBSWpaX1drMkhiNGlUWWVqZnFCbC01anVWNW05MmVhdnluTTZ6UXI5ZHM0Qm9aZm9xSUlDYWFBV0stV3lKaFVFNUFSVHJfMERvSHRhNHdNRFowQ0NnMA?oc=5",
+     "fecha": "2026-11-08"
+    }
+   ]
   },
   {
    "slug": "breaking-bad",
@@ -78,6 +85,12 @@
      "medio": "El Intransigente",
      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdGcySWdDSFgtZ0w4NGpBY2x4UzBnUl9ta2dMQnBYeDBkaFVsc1l3cHhuWWhOV25TLUpkcVdILUFzQzd3TG1FdHpWSzJCWlZMQk5ReDV0bU1wZmFmblFYbmdaakJnRWgtTUdqUnEwbWVwVGh4Mm0xd0ZWOEJBNy02T25fWkNnOU9vMmtOdGpoc3l5NHVzOHRj?oc=5",
      "fecha": "2026-11-13"
+    },
+    {
+     "titulo": "Música en serie: Better Call Saul",
+     "medio": "Culturamas",
+     "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QZlBSeTZRUG8xMnJVSmNWYmJjRWl3eEZMb3oyS0xCNnBjbkpFLTBBNzBDaERaeWhYMFhJYUVXSTNSYlcybzV3U2h3cDR5YmM2UTJMQldLc29rZm5Gb2NYaVBVOFVvZHJFNjZjWE1DbG4yQTNQNVZfMEJ3?oc=5",
+     "fecha": "2026-11-10"
     },
     {
      "titulo": "Rhea Seehorn, 54 años, actriz de ‘Better Call Saul’: “Me dijeron muchas veces que no era lo bastante guapa para ser la protagonista romántica ni lo ba",
@@ -120,16 +133,16 @@
    "alias": "game of thrones|juego de tronos",
    "noticias": [
     {
+     "titulo": "🎬 Salen a subasta en Londres piezas icónicas del cine y la televisión como un huevo de dragón de Juego de tronos y la máscara de Batman de Christian B",
+     "medio": "Facebook",
+     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOUEtxam94eUl4ZkVvYVM3M1JxazkyMGFLMVg4dE45VjlEMnk4bkpzOFpiMXV4RmhfMExEbXJaLTctQV9pVjZpMFEzVzJWZ1lpMGRmRHo5REV3Z2hWNzNVQWZZODdQUWtNVG5yUms2dFZaMHpzeHlzRlBMRnRxdURVV0Z5aWtRV2ZsanNKU2JZR2NPbVlGT2tGTnlnRlRUNHNneU5rRDFIeTk3ckVTYmhxeW1udDZHOUJ4OUtYVnRhcTFxVzJmTUhuUjQ5RXgtTHJrdUNLUk1USk9VRE1feE9aTjFGZlFIT0NrQlE?oc=5",
+     "fecha": "2026-11-19"
+    },
+    {
      "titulo": "10 Years Later, a ‘Game of Thrones’ Star’s $208M Gem Is Officially a Netflix Smash Hit",
      "medio": "IMDb",
      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5oYm5rUWJvYm5oTmtNXzJsZGtZbVNNNXM1Z3ZJMjdOSjJEYlFsbWdOOW5MS3NiZFo0b2g5cnowNXJKcnExY2IydHMtYkhIYzI3M1oyMDZLMW9KbVVKMXRjT25taVk?oc=5",
      "fecha": "2026-11-18"
-    },
-    {
-     "titulo": "George R.R. Martin’s Favorite 8-Part Prime Video Fantasy Series is Game of Thrones Meets X-Men",
-     "medio": "IMDb",
-     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE0za2RGd3d2M2h1WlRaY2RGM25WMUJQVTFxTVE0emkwSXlQLW9XbnNjUVJfYkZ6a2ZNTzFuX0FjRms5VFRfRldFbmhaRENBU29KVUhaQ2dvRlpKY1VjckR4WGs5OUFCby1O?oc=5",
-     "fecha": "2026-11-16"
     },
     {
      "titulo": "Mientras muchos siguen sin aceptar el final de Daenerys Targaryen en 'Juego de Tronos', la franquicia va a reemplazarla en un nuevo lanzamiento",
@@ -148,7 +161,7 @@
     {
      "titulo": "Outlander: Blood Of My Blood Sneak Peek: Ahead Of The Season 2 Finale, Will Brian And Ellen Heed An Intriguing Call? (Exclusive)",
      "medio": "IMDb",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkbFZGa2VoOXBqSVcwYTB2cmFsS3laNEJ0NmVvdlJiWW5aQWVJNXd0MjhZMEUtbjlhbHZ2aVBtWjhNdk9Kd0owRnNkb2tDS3YtRjBNN21yQy1mVGZNQURHY3hwVk1aUGlkT2c?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12a1dSRmZGQjlERzFXd2JyODFEMmxzZW9jX2RUREtXbGNUcnRXbGk0d3E1SXAxanlxS2RQazM1dzJja0hUblI0WHhKSVJIcGNyVEtZM0Q2U2wwVmVNN0RGblNaTDQ1Zw?oc=5",
      "fecha": "2026-11-18"
     },
     {
@@ -244,16 +257,16 @@
      "fecha": "2026-11-16"
     },
     {
-     "titulo": "Dragon Ball Super: Beerus adelanta el regreso de Freezer, y un personaje exclusivo del manga por fin podría aparecer en el anime",
-     "medio": "Yahoo",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU0xTLWJLQklNeHFTSVNaWXhyU041Y3VnRVRuTHo5WFN1TVBiN1BqQmRIbThuMGZicGZBa3ZCcVp0SWl2d0EtX1JUQURjeDdnYWo1enQtd2sxLUZPRkZVMTRsdGtJSmVkVWREVWMwbXd0cWxJZFctekFNZVdNaUhYY3ZkakVWdDUt?oc=5",
-     "fecha": "2026-11-15"
-    },
-    {
      "titulo": "Crítica del capítulo 6 de Dragon Ball Super Beerus: la primera saga de la serie llega a su fin con la derrota de Goku",
      "medio": "Hobbyconsolas",
      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVExPUVNNcEtlZ1VlVDBLY2Y3U0lsc0ZRQkp4VUVHNXBwMmdaUTBEYWxZdTNhNUIyeTNWX1hjbWRiNWFTdkFmN083V0xoWXFlRzBVRm0zU09hSGpvY3g1U093emdFa0hBbm1wRkZTVmNSYmoyM2ZTWWYtX050MmJzLW9KUUVqR1dlbnJOWWFpZ1hlcjBtQ0oyanBGQkJKRTJZYTM5bGVaMUJuaFBoSmxvZVEtSWNXVHoycThFRTYwZUpnLVg1ZVUyNERpUU1kbm9OSTF2aWJCWlBTVlZtM08ySQ?oc=5",
      "fecha": "2026-11-15"
+    },
+    {
+     "titulo": "El final de la batalla contra Bills: fecha de estreno, hora y link para ver el Episodio 6 de “Dragon Ball Super: Beerus”",
+     "medio": "El Comercio Perú",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdDVHbjctYU9zZVc3c29YVUMxcVRIM1NKWGFkQ0tFNlJuRFd1cFpFejl0R0d6R1lsUmZjOHVfdno1TS03dERFR2E3VFhDQlZVZ0g0STlhazNzVTRZY2JHNGpfNFcxNndWajBlaVpaOTNHeUdFdmFWeElSMVU2bmF4Z2R4WXpUc2NNTG1KaHR3MGJ5cnlxOHoxTG1LaHppWTNBNEp1NDM2VS1WQTUzWU4wU2xCUkNhZU8wc3YwQVVDWTE5bk9OQzlZQWJVT2FHTEd5aDdjai1HdWhmQWph?oc=5",
+     "fecha": "2026-11-14"
     }
    ]
   },
@@ -400,7 +413,7 @@
     {
      "titulo": "Outlander: Blood Of My Blood Sneak Peek: Ahead Of The Season 2 Finale, Will Brian And Ellen Heed An Intriguing Call? (Exclusive)",
      "medio": "IMDb",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBkbFZGa2VoOXBqSVcwYTB2cmFsS3laNEJ0NmVvdlJiWW5aQWVJNXd0MjhZMEUtbjlhbHZ2aVBtWjhNdk9Kd0owRnNkb2tDS3YtRjBNN21yQy1mVGZNQURHY3hwVk1aUGlkT2c?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE12a1dSRmZGQjlERzFXd2JyODFEMmxzZW9jX2RUREtXbGNUcnRXbGk0d3E1SXAxanlxS2RQazM1dzJja0hUblI0WHhKSVJIcGNyVEtZM0Q2U2wwVmVNN0RGblNaTDQ1Zw?oc=5",
      "fecha": "2026-11-18"
     },
     {
@@ -431,16 +444,16 @@
      "fecha": "2026-11-16"
     },
     {
-     "titulo": "Dragon Ball Super: Beerus adelanta el regreso de Freezer, y un personaje exclusivo del manga por fin podría aparecer en el anime",
-     "medio": "Yahoo",
-     "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU0xTLWJLQklNeHFTSVNaWXhyU041Y3VnRVRuTHo5WFN1TVBiN1BqQmRIbThuMGZicGZBa3ZCcVp0SWl2d0EtX1JUQURjeDdnYWo1enQtd2sxLUZPRkZVMTRsdGtJSmVkVWREVWMwbXd0cWxJZFctekFNZVdNaUhYY3ZkakVWdDUt?oc=5",
-     "fecha": "2026-11-15"
-    },
-    {
      "titulo": "Crítica del capítulo 6 de Dragon Ball Super Beerus: la primera saga de la serie llega a su fin con la derrota de Goku",
      "medio": "Hobbyconsolas",
      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVExPUVNNcEtlZ1VlVDBLY2Y3U0lsc0ZRQkp4VUVHNXBwMmdaUTBEYWxZdTNhNUIyeTNWX1hjbWRiNWFTdkFmN083V0xoWXFlRzBVRm0zU09hSGpvY3g1U093emdFa0hBbm1wRkZTVmNSYmoyM2ZTWWYtX050MmJzLW9KUUVqR1dlbnJOWWFpZ1hlcjBtQ0oyanBGQkJKRTJZYTM5bGVaMUJuaFBoSmxvZVEtSWNXVHoycThFRTYwZUpnLVg1ZVUyNERpUU1kbm9OSTF2aWJCWlBTVlZtM08ySQ?oc=5",
      "fecha": "2026-11-15"
+    },
+    {
+     "titulo": "El final de la batalla contra Bills: fecha de estreno, hora y link para ver el Episodio 6 de “Dragon Ball Super: Beerus”",
+     "medio": "El Comercio Perú",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdDVHbjctYU9zZVc3c29YVUMxcVRIM1NKWGFkQ0tFNlJuRFd1cFpFejl0R0d6R1lsUmZjOHVfdno1TS03dERFR2E3VFhDQlZVZ0g0STlhazNzVTRZY2JHNGpfNFcxNndWajBlaVpaOTNHeUdFdmFWeElSMVU2bmF4Z2R4WXpUc2NNTG1KaHR3MGJ5cnlxOHoxTG1LaHppWTNBNEp1NDM2VS1WQTUzWU4wU2xCUkNhZU8wc3YwQVVDWTE5bk9OQzlZQWJVT2FHTEd5aDdjai1HdWhmQWph?oc=5",
+     "fecha": "2026-11-14"
     }
    ]
   },
@@ -466,7 +479,7 @@
     {
      "titulo": "VisionQuest rompe récord en Disney+ con el final más visto de una serie de Marvel desde Loki",
      "medio": "emsavalles.com",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYVBjQlJUQU0xR3JRZGNDQnlFcHllUWhkVGJNRmtkYnYtZGR0VnM2MkloRlAtTWZ5M0ZNVVZ0THExLVEwTElROXFtRmZmV05vTHBxZ2pPZkQ4MmhrWjdsdE5VUFBwUEFwOFp3OEtBcWZyQTJObXlWWFkxVkRSZG5nZnpNWjFxNFRrQkxzZ1cwMlVVTWJydFk5bjRGaUFOZ3duandrLURiS1JjT0FpQUtiZ2FNbXpFOEhDVFVkdlpuYTc?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWkVDOGczVDFLLWFDaFZYZEZFWkgxNWVaa0NVRlBGM01BejdsS25lU3NfV1NnTGUzZkpZMjBpbl9jYVl0NnlqUkl4TEVMVTMzdXNJTUxhdmI5bjNCMlFLVnFGZ3I0aHctbzVFby1ET3N2N2hDV2I0OVpyTmxxS1JEcThaSzVObEd3TFlic1hMbFZxS0FlaTI2d3h5anZhTDJxZ2xmWExOUUNfVV8yZ0MxOExIZzhWMWxLMWRYdG9BUl9Ydk54N2c?oc=5",
      "fecha": "2026-11-14"
     }
    ]
