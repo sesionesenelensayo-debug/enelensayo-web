@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Sheinbaum llega a APEC 2026 en China para defender la postura de México",
+    "artista": "Claudia Sheinbaum",
+    "intro": "La presidenta Claudia Sheinbaum asistió al segundo día de la Cumbre de Líderes de APEC en Shenzhen, China, el 18 de noviembre de 2026, para presentar la postura de México ante líderes mundiales.",
+    "telegraph_url": "https://telegra.ph/Sheinbaum-llega-a-APEC-2026-en-China-para-defender-la-postura-de-México-11-19",
+    "url": "https://enelensayomedia.com/notas/sheinbaum-llega-a-apec-2026-en-china-para-defender-la-postura-de-mexic-1119.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/sheinbaum-llega-a-apec-2026-en-china-para-defender-la-postura-de-mexic-1119.jpg",
+    "fecha": "2026-11-19T15:02:49.130955",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Cayetano Rivera publica comunicado sobre su relación con Tamara Gorro",
     "artista": "Cayetano Rivera",
     "intro": "El torero Cayetano Rivera difundió un comunicado en vídeo el lunes 18 de noviembre de 2026 en el que aborda su posible separación con Tamara Gorro.",
@@ -5893,19 +5907,5 @@
     "categoria": "Conciertos",
     "fecha_original": "2026-11-06T11:06:43.287865",
     "actualizada": true
-  },
-  {
-    "opinion": true,
-    "tipo": "reportaje",
-    "titulo": "DC contrata guionista para un nuevo Constantine y deja la secuela de Keanu Reeves en el limbo",
-    "artista": "Constantine y Keanu Reeves",
-    "intro": "Según Deadline, DC Studios contrató a Francis Galluppi, director de Evil Dead Wrath, para escribir una película de John Constantine.",
-    "telegraph_url": "https://telegra.ph/DC-contrata-guionista-para-un-nuevo-Constantine-y-deja-la-secuela-de-Keanu-Reeves-en-el-limbo-11-07",
-    "url": "https://enelensayomedia.com/notas/dc-contrata-guionista-para-un-nuevo-constantine-y-deja-la-secuela-de-k-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/dc-contrata-guionista-para-un-nuevo-constantine-y-deja-la-secuela-de-k-1107.jpg",
-    "fecha": "2026-11-07T11:26:44.166191",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU"
   }
 ]
