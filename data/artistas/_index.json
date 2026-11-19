@@ -1,5 +1,12 @@
 [
   {
+    "artista": "Deep Purple",
+    "slug": "deep-purple",
+    "imagen": "",
+    "piezas": 1,
+    "updated": "2026-11-19 12:12"
+  },
+  {
     "artista": "Pablo Lyle",
     "slug": "pablo-lyle",
     "imagen": "",
