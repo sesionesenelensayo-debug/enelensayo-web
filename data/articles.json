@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "The Rock regresa a la WWE en Survivor Series 2026 en Houston",
+    "artista": "The Rock",
+    "intro": "Dwayne Johnson, conocido como The Rock, anunció su regreso a la WWE para el evento Survivor Series 2026 en Houston el 28 de noviembre, celebrado en el 30.º aniversario de su debut en la lucha libre.",
+    "telegraph_url": "https://telegra.ph/The-Rock-regresa-a-la-WWE-en-Survivor-Series-2026-en-Houston-11-19",
+    "url": "https://enelensayomedia.com/notas/the-rock-regresa-a-la-wwe-en-survivor-series-2026-en-houston-1119.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/the-rock-regresa-a-la-wwe-en-survivor-series-2026-en-houston-1119.jpg",
+    "fecha": "2026-11-19T13:32:14.303744",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Concierto de Los Cafres y Los Estrambóticos en el Auditorio Nacional: setlist y telonero para el 19 de noviembre",
     "artista": "Los Cafres y Los Estrambóticos",
     "intro": "Esta noche, jueves 19 de noviembre, el Auditorio Nacional de la Ciudad de México recibe a Los Cafres y Los Estrambóticos en una noche de reggae y ska.",
@@ -5892,19 +5906,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Escena local"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Sigourney Weaver revela su vínculo con Dian Fossey y el legado de 'Gorilas en la niebla'",
-    "artista": "Sigourney Weaver confesión sobre ‘Gorilas en la niebla’",
-    "intro": "La actriz comenta su papel, la película y la situación actual de los gorilas de montaña, entre datos confirmados y rumores persistentes.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/sigourney-weaver-revela-su-vinculo-con-dian-fossey-y-el-legado-de-gori-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/sigourney-weaver-revela-su-vinculo-con-dian-fossey-y-el-legado-de-gori-1107.jpg",
-    "fecha": "2026-11-07T09:36:48.718354",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme internacional"
   }
 ]
