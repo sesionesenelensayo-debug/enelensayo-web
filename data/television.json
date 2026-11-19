@@ -1,5 +1,5 @@
 {
- "actualizado": "18/11/2026 13:31",
+ "actualizado": "18/11/2026 20:00",
  "recomendadas": [
   {
    "slug": "spartacus",
@@ -13,21 +13,33 @@
    "titulo": "Outlander",
    "tipo": "Serie",
    "alias": "outlander(?!:? blood)(?!.{0,12}blood of my blood)",
-   "noticias": []
+   "noticias": [
+    {
+     "titulo": "Se ha revelado el nuevo Mitsubishi Outlander que se lanzará en Vietnam.",
+     "medio": "Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUzJ4OHRvYmZPSV9uNFEwVXFBS1JoLXJoWlZaNl9lNElEN29ja0VGMXJGbTVQbHNYZTVYVTY4WUQycjdqaXhBR001M2paaTM1bFpjdXR0VjA2em1IYUpaajJneDh5SXRZdG1NVUsyVVpNUzJaOEljbWdCalluMkJyUHE1REpJSUE?oc=5",
+     "fecha": "2026-11-18"
+    },
+    {
+     "titulo": "Outlander ya ha terminado tras ocho temporadas y 101 episodios",
+     "medio": "Softonic",
+     "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRTRoSko1TF9sejF4bThuRXVGRnpKVk5hdWdMbnA2eVFHQVlwSTZrNTdKWHlmeWI0WG5tamwwOXRhVW1RanU1b1NyUFNIVGxQS3ZxR0tBMEJxSXNBVHc2MmM3ckdHMmhuMjN6dERJM1NKVjNoTlpqaXBNZ0VBZEhNbUpvSTFYXzdoSTl2NDNOUEYtZ3BfUzQwWmZueUV1Zw?oc=5",
+     "fecha": "2026-11-18"
+    },
+    {
+     "titulo": "Outlander brilló en los BAFTA Escocia 2026: el emotivo discurso de Sam Heughan y su primera alfombra roja junto a su novia",
+     "medio": "Canal26",
+     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxQd09WX2U3NFpreUQxU3kzcHg0SjNSZkVQeHhRZDJMZFkwcktGU2VEdDFucjhGLV9UVkhHa3FyQUlmZGhudjBKM01Qa0ZpQjdMN01ISTZicTdRZTk3VHRaYl9JcGJhOFE0QXhMZUpNUXl4dmU2cTUyT2t3d1puMldlVzdPYzNzWU9oYWhITzk0cnFVeVJ2cmFRWmhBeUpQNUE1VVVzak9jekRUZi00eHkyeU0wRldkeDU3TlBEaG1ib29JQkIzZGI0QUlwbGVYNUkyczdEWVF1a2NXTjVFT3F0ajVQNFBzdU5JMG1nN1dmeGNRNlNtMGFRV2V2XzRxTlU?oc=5",
+     "fecha": "2026-11-16"
+    }
+   ]
   },
   {
    "slug": "los-soprano",
    "titulo": "Los Soprano",
    "tipo": "Serie",
    "alias": "sopranos?\\b",
-   "noticias": [
-    {
-     "titulo": "The Sopranos: el final polémico no era la idea original de David Chase y cómo habría cambiado el destino de Tony",
-     "medio": "VADER News",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNcWxuWmUzZzZibWpXNmoxR2ZNOFZPZ2tuWHk3cW12cENBTEZmUUV5ZGJGQW5TbkVhcXRJazN0V0NmRVQ3bk1TMWFsYWQ0Y21LVlVGTU1PbFZmbnZMWWJ2ZUxlTHZMYTZXZjhvekEyWGp5VmFUYU1lazhqTFI4MC1xRG9rWVdMWndLQTkySzJnbVlfUFhnRkgwdHVPV0lUVUhMUWI0RTJialREWThDQTdYc3VPaFgtVDBnNlR0SDFvdWRSd1ZRdTRGUTZZYVB5WGhkS0pUTmZHVTNUQ2ZvSDczbHdTQXRiM2FSaWdEVQ?oc=5",
-     "fecha": "2026-11-05"
-    }
-   ]
+   "noticias": []
   },
   {
    "slug": "breaking-bad",
@@ -108,16 +120,16 @@
      "fecha": "2026-11-18"
     },
     {
-     "titulo": "Mientras muchos siguen sin aceptar el final de Daenerys Targaryen en 'Juego de Tronos', la franquicia va a reemplazarla en un nuevo lanzamiento",
-     "medio": "La Razón",
-     "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPQWw5MTJVSTJKMkNyRnZmT0c5eVRSTEJYZW9rNXMyS2FaN25UTGl6dGJKVXNEb201ajVIOEl2eENJcFhZaTdMTFNTTEg4Q1RqTEZHN1FMUnhlSnBZQTk3Zl9zQVZFY1VrWnc2Y3QtZVd0blFfWmNURW1aNTZxLUk5VFhUQTJ5eHFjZmVmMHg3bzlBZDkyRXZDbTVoV1c1UVc2aXo4dnBwV1ZCTy1rb3FqMGVUWFlNVUdUMUh2R1BBZElYbkZuQlZoZndKeGJ6QWNld1dEWUxrODZzUU9FaHc5aUZfWmNfQWpWMS1xa0UyUUduN3ctZHNOLVZRaHgtYTVDUVlyZmhxMHRCcnRjU0RlWHFWN2RBa081NXZKZFVqQ3FITlVmand4Tk1R?oc=5",
-     "fecha": "2026-11-15"
-    },
-    {
      "titulo": "George R. R. Martin’s Ned Stark ‘Game of Thrones’ Prequel Officially Arrives in 2027",
      "medio": "IMDb",
      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kRHJQWEh2bjBGVUVtOGNCTHg1REg2am0zc2FZQ1cxWDhlTU1YeWR5TEdFbzVQSzhCek1ISGxxWjBTand2THUxVTRpMWhCazNUWDJHNS05MEJmYzFUNnlScVY2QUVjc2VS?oc=5",
      "fecha": "2026-11-15"
+    },
+    {
+     "titulo": "Estos son los 3 mejores capítulos de Game of Thrones según IMDb",
+     "medio": "TV Azteca",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQQ2s0bFNlNENuUmpxdElKYnVIZk9VT09UQzJDOExKTnV6TTJpX1k3MGZuMHNXX1FIWldHVzZlYmlQMmNvNFduQmdjaGRmX1RGZkNBWm9DRE9jU3VHeWk3Y0ZFV2xjcjhmUkJsdFNTczl5ZmpWRHZGNlplVWw4YXpqRjFBN0JiWVAwUmNvbGxMcmlfM1Vzeng5VHF0UUxPWXZ4VWpEbHJXdw?oc=5",
+     "fecha": "2026-11-13"
     }
    ]
   },
@@ -140,9 +152,9 @@
      "fecha": "2026-11-16"
     },
     {
-     "titulo": "‘Outlander: Blood of My Blood’ Stars Explain Series & Behind-the-Scenes Lore",
-     "medio": "IMDb",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzel9qS3JaZGw2T1k4WHZJZ3FpZVZYbWNhOU1CaGxDdUM5U1BvRTk5WTlaV3VBdnY2cmxVcGk4cktBRFlES1N6eFktaXRMRk5oSExtWXVoR2hEaWRFTG1CZkNOYTlVbXc2YXc?oc=5",
+     "titulo": "Outlander: Blood of My Blood repite la pausa previa al final de temporada y divide a los seguidores",
+     "medio": "VADER News",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQX3hiOHhHT1o2Y2VlQnd6b09Ic19Id1M1UXNwY2E3M1NvRWx4dnppMWZldFVUTlliZ1NhVkktVDdTRHJzaW1uSGk0bk5jNGF3a3QwOEw4bzc1bHM4ZGVRZnhWM2t6SW91X25pcUhzWkxkZEhrLWlSMHZDTExiYXFwZU9maHlDa2t3THJVb2o0dVc0VFd5emhtNzFvSlp6V1RnYmoxaU1SNWphREljZDNEdWUyX2JPQmZveXo1aEdfNnJ3Qjl6cFZsSS12ZDJ0R0s0NlZDclJQQmk3NGc?oc=5",
      "fecha": "2026-11-13"
     }
    ]
@@ -152,7 +164,14 @@
    "titulo": "Twisted Metal",
    "tipo": "Serie",
    "alias": "twisted metal",
-   "noticias": []
+   "noticias": [
+    {
+     "titulo": "“Twisted Metal” prepara su temporada más desatada: Anthony Mackie adelanta el regreso de Calypso",
+     "medio": "aBaNDoMoVieZ",
+     "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBwY0pndl93dlVKaF9FYnJOU1FYd3dOa0NhUXo5eGZQbmN3ZF9tM2d2UGtLLVItQ2xwN0JZNFNzOVdBWTV1aXk5cTJfdVJTNE9KeXZWUTNEaS0yNEdTUmhrZw?oc=5",
+     "fecha": "2026-11-05"
+    }
+   ]
   },
   {
    "slug": "demon-slayer",
@@ -219,16 +238,16 @@
      "fecha": "2026-11-15"
     },
     {
+     "titulo": "El final de la batalla contra Bills: fecha de estreno, hora y link para ver el Episodio 6 de “Dragon Ball Super: Beerus”",
+     "medio": "El Comercio Perú",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdDVHbjctYU9zZVc3c29YVUMxcVRIM1NKWGFkQ0tFNlJuRFd1cFpFejl0R0d6R1lsUmZjOHVfdno1TS03dERFR2E3VFhDQlZVZ0g0STlhazNzVTRZY2JHNGpfNFcxNndWajBlaVpaOTNHeUdFdmFWeElSMVU2bmF4Z2R4WXpUc2NNTG1KaHR3MGJ5cnlxOHoxTG1LaHppWTNBNEp1NDM2VS1WQTUzWU4wU2xCUkNhZU8wc3YwQVVDWTE5bk9OQzlZQWJVT2FHTEd5aDdjai1HdWhmQWph?oc=5",
+     "fecha": "2026-11-14"
+    },
+    {
      "titulo": "Dragon Ball Super: Beerus triunfa en streaming, pero pierde la batalla y es menos popular que otro anime en Crunchyroll",
      "medio": "LEVELUP",
      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObUtBN2EwSzBRZUh3TGdWWjMwYTF2US0yaF9qY180dk1MbVY5dWlYY1Z3ZHZTZVlQM1ZRd1lZNFpSTzdVZDlLNG1ncHlBVUxrcWFveXB6WkdjcC1fcmo0emhyTUhwQXh6Um9NN0dXY2hadWtMZURTM2dkQ3RXWFNVRl9tNjNhWl9KMUtsREFjblZHVU5ScTNyS0lWRlJhMko0ZGhGOVgxTDB6cXVpYWF2dkRvVEs3SWN5QWdIUW1UdmV0cWwzdmdxSFVYbXNGQWZlYWN0NGtmdFU1MHNINF9VQk9mbHlDdw?oc=5",
      "fecha": "2026-11-10"
-    },
-    {
-     "titulo": "'Dragon Ball Super: Beerus' estrena doblaje en español ya mismo. La legendaria voz de Goku regresa una vez más al anime, pero tiene truco",
-     "medio": "Espinof",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTTd4V1doYW11TFZtWWJJZHZxVmlQQU1mX2R3WFRYY0ZyckdaMXlHc2tEa3lHM09YRFBMTXZVOXhUbXVkVnoza3lBY1ZIenZWMWlZN180NE9rU1luQTZiVEZpX1NSb3pwUXBHR2pfR0NGWUhEalRSM0d5UWhaTjJSMno0RGt6U3UzM1F5QjBtcTZWYlJXLVZhY1NxNGdKcmNpRXRlOHB5TjJ5dl9hU3k3aDd1OVhjUktWYVdrQnNWa3VTMV9yQlZUQzVfRdIB0AFBVV95cUxOZGJwV1ExU0M5SnhsRzBpaVlvMWNkdWdJajFmRDZHOVF3aEdyQi0xNUZIUndPYUxxRmVqNG9LVkMxRVRGamVrcDUya21kYUhTQVhOc0p0b3dXQ3VhU1JrRXVYZ3J1cWM1empweE5DaDdUR1VqeEhZN2FaOUxEMHpYQ1FJWlJUYlVTVHNhbTRtYzZjNnVHVEpsQWd2ZmJsd0VHMGdDWEtxVVZTZkc3QXdRa1FsbnBaMGNHb2Y1YkxHU003QVZuM1o0WWM0VmplN1ZS?oc=5",
-     "fecha": "2026-11-08"
     }
    ]
   },
@@ -300,7 +319,14 @@
    "titulo": "Sherlock",
    "tipo": "Serie",
    "alias": "\\bsherlock\\b",
-   "noticias": []
+   "noticias": [
+    {
+     "titulo": "Sherlock de la BBC: el detective que Cumberbatch interpretó antes del MCU",
+     "medio": "Foro3D",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNUnhGWTBDRERuNGlUUXlHNzRNcm4yOG1mR2o2eWpFMTgzUjhWOVJDNW83Zmx5TkRMTTN2cGh0cEhwTXlHQ3RVX3k0T3pTU3RpSUt2NVhuM3RpT0x5R1VzOS0yUXY2VWFOWHVxS0lMLUVJblV6blhiWElSQndiQ2dlN1Frdl8xZF92NjFwcjhqVThnYkI4aW9BOXdoc3BfRWRTVkhha0F1RUMybGpwLUE?oc=5",
+     "fecha": "2026-11-18"
+    }
+   ]
   },
   {
    "slug": "six-feet-under",
@@ -385,9 +411,9 @@
      "fecha": "2026-11-16"
     },
     {
-     "titulo": "‘Outlander: Blood of My Blood’ Stars Explain Series & Behind-the-Scenes Lore",
-     "medio": "IMDb",
-     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBzel9qS3JaZGw2T1k4WHZJZ3FpZVZYbWNhOU1CaGxDdUM5U1BvRTk5WTlaV3VBdnY2cmxVcGk4cktBRFlES1N6eFktaXRMRk5oSExtWXVoR2hEaWRFTG1CZkNOYTlVbXc2YXc?oc=5",
+     "titulo": "Outlander: Blood of My Blood repite la pausa previa al final de temporada y divide a los seguidores",
+     "medio": "VADER News",
+     "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQX3hiOHhHT1o2Y2VlQnd6b09Ic19Id1M1UXNwY2E3M1NvRWx4dnppMWZldFVUTlliZ1NhVkktVDdTRHJzaW1uSGk0bk5jNGF3a3QwOEw4bzc1bHM4ZGVRZnhWM2t6SW91X25pcUhzWkxkZEhrLWlSMHZDTExiYXFwZU9maHlDa2t3THJVb2o0dVc0VFd5emhtNzFvSlp6V1RnYmoxaU1SNWphREljZDNEdWUyX2JPQmZveXo1aEdfNnJ3Qjl6cFZsSS12ZDJ0R0s0NlZDclJQQmk3NGc?oc=5",
      "fecha": "2026-11-13"
     }
    ]
@@ -406,16 +432,16 @@
      "fecha": "2026-11-15"
     },
     {
+     "titulo": "El final de la batalla contra Bills: fecha de estreno, hora y link para ver el Episodio 6 de “Dragon Ball Super: Beerus”",
+     "medio": "El Comercio Perú",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdDVHbjctYU9zZVc3c29YVUMxcVRIM1NKWGFkQ0tFNlJuRFd1cFpFejl0R0d6R1lsUmZjOHVfdno1TS03dERFR2E3VFhDQlZVZ0g0STlhazNzVTRZY2JHNGpfNFcxNndWajBlaVpaOTNHeUdFdmFWeElSMVU2bmF4Z2R4WXpUc2NNTG1KaHR3MGJ5cnlxOHoxTG1LaHppWTNBNEp1NDM2VS1WQTUzWU4wU2xCUkNhZU8wc3YwQVVDWTE5bk9OQzlZQWJVT2FHTEd5aDdjai1HdWhmQWph?oc=5",
+     "fecha": "2026-11-14"
+    },
+    {
      "titulo": "Dragon Ball Super: Beerus triunfa en streaming, pero pierde la batalla y es menos popular que otro anime en Crunchyroll",
      "medio": "LEVELUP",
      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxObUtBN2EwSzBRZUh3TGdWWjMwYTF2US0yaF9qY180dk1MbVY5dWlYY1Z3ZHZTZVlQM1ZRd1lZNFpSTzdVZDlLNG1ncHlBVUxrcWFveXB6WkdjcC1fcmo0emhyTUhwQXh6Um9NN0dXY2hadWtMZURTM2dkQ3RXWFNVRl9tNjNhWl9KMUtsREFjblZHVU5ScTNyS0lWRlJhMko0ZGhGOVgxTDB6cXVpYWF2dkRvVEs3SWN5QWdIUW1UdmV0cWwzdmdxSFVYbXNGQWZlYWN0NGtmdFU1MHNINF9VQk9mbHlDdw?oc=5",
      "fecha": "2026-11-10"
-    },
-    {
-     "titulo": "'Dragon Ball Super: Beerus' estrena doblaje en español ya mismo. La legendaria voz de Goku regresa una vez más al anime, pero tiene truco",
-     "medio": "Espinof",
-     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQTTd4V1doYW11TFZtWWJJZHZxVmlQQU1mX2R3WFRYY0ZyckdaMXlHc2tEa3lHM09YRFBMTXZVOXhUbXVkVnoza3lBY1ZIenZWMWlZN180NE9rU1luQTZiVEZpX1NSb3pwUXBHR2pfR0NGWUhEalRSM0d5UWhaTjJSMno0RGt6U3UzM1F5QjBtcTZWYlJXLVZhY1NxNGdKcmNpRXRlOHB5TjJ5dl9hU3k3aDd1OVhjUktWYVdrQnNWa3VTMV9yQlZUQzVfRdIB0AFBVV95cUxOZGJwV1ExU0M5SnhsRzBpaVlvMWNkdWdJajFmRDZHOVF3aEdyQi0xNUZIUndPYUxxRmVqNG9LVkMxRVRGamVrcDUya21kYUhTQVhOc0p0b3dXQ3VhU1JrRXVYZ3J1cWM1empweE5DaDdUR1VqeEhZN2FaOUxEMHpYQ1FJWlJUYlVTVHNhbTRtYzZjNnVHVEpsQWd2ZmJsd0VHMGdDWEtxVVZTZkc3QXdRa1FsbnBaMGNHb2Y1YkxHU003QVZuM1o0WWM0VmplN1ZS?oc=5",
-     "fecha": "2026-11-08"
     }
    ]
   },
@@ -441,7 +467,7 @@
     {
      "titulo": "VisionQuest rompe récord en Disney+ con el final más visto de una serie de Marvel desde Loki",
      "medio": "emsavalles.com",
-     "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPYVBjQlJUQU0xR3JRZGNDQnlFcHllUWhkVGJNRmtkYnYtZGR0VnM2MkloRlAtTWZ5M0ZNVVZ0THExLVEwTElROXFtRmZmV05vTHBxZ2pPZkQ4MmhrWjdsdE5VUFBwUEFwOFp3OEtBcWZyQTJObXlWWFkxVkRSZG5nZnpNWjFxNFRrQkxzZ1cwMlVVTWJydFk5bjRGaUFOZ3duandrLURiS1JjT0FpQUtiZ2FNbXpFOEhDVFVkdlpuYTc?oc=5",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWkVDOGczVDFLLWFDaFZYZEZFWkgxNWVaa0NVRlBGM01BejdsS25lU3NfV1NnTGUzZkpZMjBpbl9jYVl0NnlqUkl4TEVMVTMzdXNJTUxhdmI5bjNCMlFLVnFGZ3I0aHctbzVFby1ET3N2N2hDV2I0OVpyTmxxS1JEcThaSzVObEd3TFlic1hMbFZxS0FlaTI2d3h5anZhTDJxZ2xmWExOUUNfVV8yZ0MxOExIZzhWMWxLMWRYdG9BUl9Ydk54N2c?oc=5",
      "fecha": "2026-11-14"
     }
    ]
