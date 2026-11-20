@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Robert Downey Jr. voz de Doctor Doom en post-créditos de 'VisionQuest'",
+    "artista": "VisionQuest",
+    "intro": "Robert Downey Jr. sí es la voz de Doctor Doom en 'VisionQuest': Wanda reaparece a un mes de 'Doomsday'.",
+    "telegraph_url": "https://telegra.ph/Robert-Downey-Jr-voz-de-Doctor-Doom-en-post-créditos-de-VisionQuest-11-20",
+    "url": "https://enelensayomedia.com/notas/robert-downey-jr-voz-de-doctor-doom-en-post-creditos-de-visionquest-1120.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/robert-downey-jr-voz-de-doctor-doom-en-post-creditos-de-visionquest-1120.jpg",
+    "fecha": "2026-11-20T10:31:28.631965",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "CMLL y NFL realizan con éxito 'Noche de Cascos y Máscaras' en la Arena México",
     "artista": "CMLL y NFL",
     "intro": "El miércoles 18 de noviembre, la Arena México fue el escenario de la función especial 'Noche de Cascos y Máscaras', organizada conjuntamente por CMLL y NFL.",
@@ -5888,19 +5902,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Thalía rompe con Gaby Herrera",
-    "artista": "Thalía",
-    "intro": "Se reporta la ruptura definitiva entre Chávarri y Thalía Bentín tras una polémica que involucró a Gaby Herrera.",
-    "telegraph_url": "https://telegra.ph/Thalía-rompe-con-Gaby-Herrera-11-07",
-    "url": "https://enelensayomedia.com/notas/thalia-rompe-con-gaby-herrera-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/thalia-rompe-con-gaby-herrera-1107.jpg",
-    "fecha": "2026-11-07T17:40:27.834765",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   }
 ]
