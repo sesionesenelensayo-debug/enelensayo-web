@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19T18:13",
+ "actualizado": "2026-11-20T00:32",
  "peores": [
   {
    "titulo": "Code Violet",
@@ -101,17 +101,6 @@
    "imagen": "https://www.metacritic.com/a/img/catalog/provider/6/3/6-1-1251177-13.jpg"
   },
   {
-   "titulo": "Of Ash and Steel",
-   "score": 57,
-   "resenas": 14,
-   "fecha": "2025-11-24",
-   "plataforma": "PC",
-   "genero": "Action RPG",
-   "sentimiento": "Mixed or average",
-   "slug": "of-ash-and-steel",
-   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1764047447.jpg"
-  },
-  {
    "titulo": "Project Motor Racing",
    "score": 58,
    "resenas": 14,
@@ -132,19 +121,29 @@
    "sentimiento": "Mixed or average",
    "slug": "dark-scrolls",
    "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1779552773.jpg"
+  },
+  {
+   "titulo": "I Hate This Place",
+   "score": 61,
+   "resenas": 16,
+   "fecha": "2026-01-29",
+   "plataforma": "PC",
+   "genero": "Survival",
+   "sentimiento": "Mixed or average",
+   "slug": "i-hate-this-place",
+   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1769618890.jpg"
   }
  ],
  "estrenos": [
   {
-   "titulo": "Grand Theft Auto VI",
-   "fecha": "2026-11-19",
-   "fecha_txt": "19 de noviembre",
+   "titulo": "Mercenaries Grace: Black Feather and the Golden Right Arm",
+   "fecha": "2026-11-25",
+   "fecha_txt": "25 de noviembre",
    "plataformas": [
-    "PS5",
-    "Xbox Series"
+    "PS5"
    ],
-   "genero": "Action-adventure",
-   "desarrolla": "Rockstar Games",
+   "genero": "Tactical RPG",
+   "desarrolla": "RideonJapan",
    "publica": ""
   },
   {
@@ -331,19 +330,6 @@
    "publica": "Koei Tecmo"
   },
   {
-   "titulo": "Caladrius 2/Dark Element",
-   "fecha": "2026-12-10",
-   "fecha_txt": "10 de diciembre",
-   "plataformas": [
-    "PC",
-    "Switch",
-    "PS5"
-   ],
-   "genero": "Shoot 'em up",
-   "desarrolla": "MOSS",
-   "publica": "H2 Interactive"
-  },
-  {
    "titulo": "Ninja Baseball League-Man: Bases Loaded",
    "fecha": "2026-12-10",
    "fecha_txt": "10 de diciembre",
@@ -451,6 +437,21 @@
    "genero": "Shooter",
    "desarrolla": "Graphite Lab, Implicit Conversions",
    "publica": "Infogrames"
+  },
+  {
+   "titulo": "Danganronpa 2×2",
+   "fecha": "2027-01-14",
+   "fecha_txt": "14 de enero",
+   "plataformas": [
+    "PC",
+    "Switch",
+    "Switch 2",
+    "PS5",
+    "Xbox Series"
+   ],
+   "genero": "Visual novel, Adventure",
+   "desarrolla": "Gemdrops, Too Kyo Games",
+   "publica": "Spike Chunsoft"
   }
  ]
 }
