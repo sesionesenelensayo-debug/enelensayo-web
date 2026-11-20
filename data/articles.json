@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Martha Valdés, actriz que dejó el cine en 1959, fallece a los 86",
+    "artista": "Martha Valdés: la actriz que dejó el cine en 1959",
+    "intro": "Martha Valdés, actriz mexicana que dejó el cine en 1959, falleció el 20 de noviembre de 2014. Nació el 1 de enero de 1928 en Tijuana, Baja California.",
+    "telegraph_url": "https://telegra.ph/Martha-Valdés-actriz-que-dejó-el-cine-en-1959-fallece-a-los-86-11-20",
+    "url": "https://enelensayomedia.com/notas/martha-valdes-actriz-que-dejo-el-cine-en-1959-fallece-a-los-86-1120.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/martha-valdes-actriz-que-dejo-el-cine-en-1959-fallece-a-los-86-1120.jpg",
+    "fecha": "2026-11-20T09:42:28.580000",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "In memoriam"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Disney estrena el tráiler de 'Ice Age: En ebullición' con Scrat y el Mundo Perdido",
     "artista": "Ice Age: En ebullición",
     "intro": "La sexta entrega de la saga animada llega a cines el 5 de febrero de 2027 con volcanes y dinosaurios.",
@@ -5893,19 +5907,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Buddy Holly: el accidente aéreo que marcó el fin de una era",
-    "artista": "Buddy Holly: el accidente aéreo que marcó el fin de una era",
-    "intro": "El 3 de febrero de 1959, una avioneta se estrelló en Iowa tras despegar, provocando la muerte de Buddy Holly, Ritchie Valens y J. P. Richardson.",
-    "telegraph_url": "https://telegra.ph/Buddy-Holly-el-accidente-aéreo-que-marcó-el-fin-de-una-era-11-07",
-    "url": "https://enelensayomedia.com/notas/buddy-holly-el-accidente-aereo-que-marco-el-fin-de-una-era-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/buddy-holly-el-accidente-aereo-que-marco-el-fin-de-una-era-1107.jpg",
-    "fecha": "2026-11-07T15:23:22.467688",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reportaje"
   }
 ]
