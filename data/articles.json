@@ -1,6 +1,23 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Intocable anuncia Texicano Tour 2027 con cierre en Monterrey",
+    "artista": "Intocable",
+    "intro": "La gira de 21 fechas inicia en Chicago el 20 de febrero y concluirá en Monterrey el 6 de noviembre.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/intocable-anuncia-texicano-tour-2027-con-cierre-en-monterrey-1119.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/intocable-anuncia-texicano-tour-2027-con-cierre-en-monterrey-1119.jpg",
+    "fecha": "2026-11-20T07:50:36.373079",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos",
+    "fecha_original": "2026-11-19T11:55:44.843796",
+    "ultima_actualizacion": "2026-11-20T07:50:36.373079",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Asesinan al director de Policía de Pueblo Nuevo en emboscada",
     "artista": "Asesinan a director de Policía Municipal en Guanajuato",
@@ -272,23 +289,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Intocable anuncia Texicano Tour 2027 con cierre en Monterrey",
-    "artista": "Intocable",
-    "intro": "La gira de 21 fechas inicia en Chicago el 20 de febrero y concluirá en Monterrey el 6 de noviembre.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/intocable-anuncia-texicano-tour-2027-con-cierre-en-monterrey-1119.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/intocable-anuncia-texicano-tour-2027-con-cierre-en-monterrey-1119.jpg",
-    "fecha": "2026-11-19T12:51:09.478108",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos",
-    "fecha_original": "2026-11-19T11:55:44.843796",
-    "ultima_actualizacion": "2026-11-19T12:51:09.478108",
-    "actualizada": true
   },
   {
     "opinion": false,
