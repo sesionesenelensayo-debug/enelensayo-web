@@ -1,4 +1,40 @@
 {
+ "Cine": {
+  "shorts": [
+   {
+    "id": "Y2zTLbyLFuA",
+    "titulo": "Meg Ryan sorprende con cabello hasta los hombros en cumbre del NYT",
+    "fecha": "2026-11-19",
+    "nota": "https://enelensayomedia.com/notas/meg-ryan-sorprende-con-cabello-hasta-los-hombros-en-cumbre-del-nyt-1119.html"
+   },
+   {
+    "id": "ql-Xu5blV8c",
+    "titulo": "Laura Hidalgo: la Hedy Lamarr del cine argentino nació",
+    "fecha": "2026-11-18",
+    "nota": "https://enelensayomedia.com/notas/laura-hidalgo-la-hedy-lamarr-del-cine-argentino-nacio-1118.html"
+   },
+   {
+    "id": "ebvgOHqQRGs",
+    "titulo": "El cine latino cruza fronteras en Los Ángeles",
+    "fecha": "2026-11-11",
+    "nota": "https://enelensayomedia.com/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.html"
+   },
+   {
+    "id": "Cv388S5qotA",
+    "titulo": "Tom Hanks rechaza remake de \"El invisible Harvey\" y defiende el canon cinematográfico",
+    "fecha": "2026-11-10",
+    "nota": "https://enelensayomedia.com/notas/tom-hanks-rechaza-remake-de-el-invisible-harvey-y-defiende-el-canon-ci-1110.html"
+   }
+  ],
+  "longs": [
+   {
+    "id": "EB97vHmGCa4",
+    "titulo": "DCU en caos: comparan gestión de DC con el estándar de Marvel",
+    "fecha": "2026-11-13",
+    "nota": "https://enelensayomedia.com/notas/dcu-en-caos-comparan-gestion-de-dc-con-el-estandar-de-marvel-1113.html"
+   }
+  ]
+ },
  "Reportaje": {
   "shorts": [
    {
@@ -205,36 +241,6 @@
     "titulo": "Daniel Bisogno: su vida, trayectoria y lucha contra la enfermedad",
     "fecha": "2026-11-10",
     "nota": "https://enelensayomedia.com/notas/daniel-bisogno-su-vida-trayectoria-y-lucha-contra-la-enfermedad-1110.html"
-   }
-  ]
- },
- "Cine": {
-  "shorts": [
-   {
-    "id": "ql-Xu5blV8c",
-    "titulo": "Laura Hidalgo: la Hedy Lamarr del cine argentino nació",
-    "fecha": "2026-11-18",
-    "nota": "https://enelensayomedia.com/notas/laura-hidalgo-la-hedy-lamarr-del-cine-argentino-nacio-1118.html"
-   },
-   {
-    "id": "ebvgOHqQRGs",
-    "titulo": "El cine latino cruza fronteras en Los Ángeles",
-    "fecha": "2026-11-11",
-    "nota": "https://enelensayomedia.com/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.html"
-   },
-   {
-    "id": "Cv388S5qotA",
-    "titulo": "Tom Hanks rechaza remake de \"El invisible Harvey\" y defiende el canon cinematográfico",
-    "fecha": "2026-11-10",
-    "nota": "https://enelensayomedia.com/notas/tom-hanks-rechaza-remake-de-el-invisible-harvey-y-defiende-el-canon-ci-1110.html"
-   }
-  ],
-  "longs": [
-   {
-    "id": "EB97vHmGCa4",
-    "titulo": "DCU en caos: comparan gestión de DC con el estándar de Marvel",
-    "fecha": "2026-11-13",
-    "nota": "https://enelensayomedia.com/notas/dcu-en-caos-comparan-gestion-de-dc-con-el-estandar-de-marvel-1113.html"
    }
   ]
  },

@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Meg Ryan sorprende con cabello hasta los hombros en cumbre del NYT",
+    "artista": "Meg Ryan",
+    "intro": "En el video 'Meg Ryan: el cabello ondulado que sorprendió en la cumbre', el canal En el Ensayo Media analiza la apariencia de Meg Ryan en el dealbook del New York Times…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/meg-ryan-sorprende-con-cabello-hasta-los-hombros-en-cumbre-del-nyt-1119.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/meg-ryan-sorprende-con-cabello-hasta-los-hombros-en-cumbre-del-nyt-1119.jpg",
+    "fecha": "2026-11-19T18:16:46.193910",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Cine"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Jodie Foster y Mel Gibson: de Maverick a The Beaver, amistad y polémica",
     "artista": "Jodie Foster",
     "intro": "La actriz y directora Jodie Foster revisita su vínculo con Mel Gibson, desde el western Maverick hasta la The Beaver, entre apoyo, escándalo y críticas.",
@@ -5886,20 +5901,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Festival de las Almas 2026 ofrecerá conciertos gratuitos en Edomex",
-    "artista": "Festival de las Almas",
-    "intro": "El Festival de las Almas 2026, edición del tradicional encuentro cultural y musical, anunciará conciertos gratuitos en el Estado de México. Según reportes, los espectáculos contarán con la participació",
-    "telegraph_url": "https://telegra.ph/Festival-de-las-Almas-2026-ofrecerá-conciertos-gratuitos-en-Edomex-10-31",
-    "url": "https://enelensayomedia.com/notas/festival-de-las-almas-2026-ofrecera-conciertos-gratuitos-en-edomex-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/festival-de-las-almas-2026-ofrecera-conciertos-gratuitos-en-edomex-1031.jpg",
-    "fecha": "2026-11-07T12:37:23.769450",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura",
-    "fecha_original": "2026-10-31T08:05:16.785603",
-    "actualizada": true
   }
 ]
