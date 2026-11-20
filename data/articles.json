@@ -1,5 +1,20 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Pearl Jam: la gira que salvó al grupo del colapso en 1994",
+    "artista": "Pearl Jam",
+    "intro": "El video 'Pearl Jam: la gira que lo salvó del colapso (1994)' del canal En el Ensayo Media explora cómo la banda estadounidense de rock evitó su desintegración al mantener precios justos…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/pearl-jam-la-gira-que-salvo-al-grupo-del-colapso-en-1994-1120.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/pearl-jam-la-gira-que-salvo-al-grupo-del-colapso-en-1994-1120.jpg",
+    "fecha": "2026-11-20T13:19:39.948997",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "Matt Reeves y el Comisionado Gordon: un cambio que casi nadie criticó",
@@ -4583,20 +4598,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Chichí Peralta recibe el Premio a la Excelencia Musical",
-    "artista": "Chichí Peralta",
-    "intro": "El músico dominicano Chichí Peralta fue galardonado con el Premio a la Excelencia Musical del Latin Grammy 2026, en una ceremonia celebrada el martes en Las Vegas.",
-    "telegraph_url": "https://telegra.ph/Chichí-Peralta-recibe-el-Premio-a-la-Excelencia-Musical-11-11",
-    "url": "https://enelensayomedia.com/notas/chichi-peralta-recibe-el-premio-a-la-excelencia-musical-1111.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/chichi-peralta-recibe-el-premio-a-la-excelencia-musical-1111.jpg",
-    "fecha": "2026-11-11T14:39:42.195386",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   },
   {
     "opinion": false,
