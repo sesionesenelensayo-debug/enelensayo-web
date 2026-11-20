@@ -2,6 +2,23 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Robert Pattinson es el nuevo James Bond, rompiendo la regla de oro del casting",
+    "artista": "James Bond",
+    "intro": "El 16 de noviembre de 2026 Amazon MGM Studios anunció a Robert Pattinson como el nuevo James Bond, sucediendo a Daniel Craig.",
+    "telegraph_url": "https://telegra.ph/Robert-Pattinson-es-el-nuevo-James-Bond-rompiendo-la-regla-de-oro-del-casting-11-19",
+    "url": "https://enelensayomedia.com/notas/robert-pattinson-es-el-nuevo-james-bond-rompiendo-la-regla-de-oro-del-1119.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/robert-pattinson-es-el-nuevo-james-bond-rompiendo-la-regla-de-oro-del-1119.jpg",
+    "fecha": "2026-11-20T08:41:36.911852",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-11-19T11:49:36.810031",
+    "ultima_actualizacion": "2026-11-20T08:41:36.911852",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Bad Bunny lidera la banda sonora latina de GTA 6 con Cocoteo FM",
     "artista": "Fuente de videojuegos",
     "intro": "El 19 de noviembre de 2026 se lanzó Grand Theft Auto VI, cuya banda sonora incluye a Rosalía, Judeline, Bad Bunny y Justin Bieber.",
@@ -390,20 +407,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Robert Pattinson es el nuevo James Bond, rompiendo la regla de oro del casting",
-    "artista": "James Bond",
-    "intro": "El 16 de noviembre de 2026 Amazon MGM Studios anunció a Robert Pattinson como el nuevo James Bond, sucediendo a Daniel Craig.",
-    "telegraph_url": "https://telegra.ph/Robert-Pattinson-es-el-nuevo-James-Bond-rompiendo-la-regla-de-oro-del-casting-11-19",
-    "url": "https://enelensayomedia.com/notas/robert-pattinson-es-el-nuevo-james-bond-rompiendo-la-regla-de-oro-del-1119.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/robert-pattinson-es-el-nuevo-james-bond-rompiendo-la-regla-de-oro-del-1119.jpg",
-    "fecha": "2026-11-19T11:49:36.810031",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   },
   {
     "opinion": false,
