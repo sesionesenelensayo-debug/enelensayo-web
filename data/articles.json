@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "GTA 6 se lanza y supera récords de ventas y recaudación",
+    "artista": "Rockstar Games",
+    "intro": "Rockstar Games confirmó el lanzamiento de Grand Theft Auto VI el 19 de noviembre de 2026…",
+    "telegraph_url": "https://telegra.ph/GTA-6-se-lanza-y-supera-récords-de-ventas-y-recaudación-11-20",
+    "url": "https://enelensayomedia.com/notas/gta-6-se-lanza-y-supera-records-de-ventas-y-recaudacion-1120.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/gta-6-se-lanza-y-supera-records-de-ventas-y-recaudacion-1120.jpg",
+    "fecha": "2026-11-20T17:36:59.475145",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "CMLL celebra Noche de Cascos y Máscaras con NFL y arranca eliminatoria Leyenda Azul 2026",
     "artista": "CMLL",
     "intro": "El miércoles 18 de noviembre de 2026, el CMLL y la NFL organizaron la función especial 'Noche de Cascos y Máscaras' en la Arena México, previa al Mexico City Game del domingo 22 de noviembre.",
@@ -5890,21 +5904,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Cultura"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "WWE Crown Jewel 2026: cartelera estelar y transmisión",
-    "artista": "WWE Crown Jewel",
-    "intro": "El sábado 7 de noviembre de 2026, el mundo de la lucha libre dirigida por la WWE concentró sus miradas en el Riyadh Season Stadium de Riad, Arabia Saudita, con la celebración de WWE Crown Jewel 2026.",
-    "telegraph_url": "https://telegra.ph/WWE-Crown-Jewel-2026-cartelera-estelar-y-transmisión-11-08",
-    "url": "https://enelensayomedia.com/notas/wwe-crown-jewel-2026-cartelera-estelar-y-transmision-1108.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/wwe-crown-jewel-2026-cartelera-estelar-y-transmision-1108.jpg",
-    "fecha": "2026-11-08T12:35:15.427692",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-11-08T10:41:02.070808",
-    "actualizada": true
   }
 ]
