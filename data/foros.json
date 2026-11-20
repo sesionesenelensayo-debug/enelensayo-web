@@ -667,6 +667,16 @@
    "lon": -99.083011,
    "genero": "Foro con música en vivo",
    "auto": true
+  },
+  {
+   "nombre": "Varsovia 6",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "Centro Urbano",
+   "lat": 19.4249005,
+   "lon": -99.168208,
+   "genero": "Foro con música en vivo",
+   "auto": true
   }
  ],
  "agendas": [
