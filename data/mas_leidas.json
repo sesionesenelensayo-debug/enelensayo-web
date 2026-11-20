@@ -1,6 +1,11 @@
 {
- "actualizado": "2026-11-19 18:26",
+ "actualizado": "2026-11-19 23:15",
  "general": [
+  {
+   "titulo": "Maestro Shifu en el afterparty de Karol G",
+   "url": "https://enelensayomedia.com/notas/maestro-shifu-en-el-afterparty-de-karol-g-1108.html",
+   "visitas": 12
+  },
   {
    "titulo": "Yetus Prime ingresa a La Mansión VIP 2 el 16 de noviembre",
    "url": "https://enelensayomedia.com/notas/yetus-prime-ingresa-a-la-mansion-vip-2-el-16-de-noviembre-1117.html",
@@ -25,14 +30,31 @@
    "titulo": "Daniel Boaventura vende su concierto en Auditorio Nacional con Orquesta Sinfónica de Minería",
    "url": "https://enelensayomedia.com/notas/daniel-boaventura-vende-su-concierto-en-auditorio-nacional-con-orquest-1117.html",
    "visitas": 8
-  },
-  {
-   "titulo": "Cartel del Glastonbury 2027: edad media, países y quiénes están en el top 100",
-   "url": "https://enelensayomedia.com/notas/cartel-del-glastonbury-2027-edad-media-paises-y-quienes-estan-en-el-to-1118.html",
-   "visitas": 6
   }
  ],
  "categorias": {
+  "streaming": [
+   {
+    "titulo": "Maestro Shifu en el afterparty de Karol G",
+    "url": "https://enelensayomedia.com/notas/maestro-shifu-en-el-afterparty-de-karol-g-1108.html",
+    "visitas": 12
+   },
+   {
+    "titulo": "Kiko Báez diseña outfits para Wisin y Sech en fin de semana histórico",
+    "url": "https://enelensayomedia.com/notas/kiko-baez-disena-outfits-para-wisin-y-sech-en-fin-de-semana-historico-1117.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "¿Llamará Ibai a Hakimi para la Velada del Año?",
+    "url": "https://enelensayomedia.com/notas/llamara-ibai-a-hakimi-para-la-velada-del-ano-1109.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "WestCOL la rompe en Kick y manda en el streaming latino",
+    "url": "https://enelensayomedia.com/notas/westcol-la-rompe-en-kick-y-manda-en-el-streaming-latino-1107.html",
+    "visitas": 3
+   }
+  ],
   "cultura": [
    {
     "titulo": "Yetus Prime ingresa a La Mansión VIP 2 el 16 de noviembre",
@@ -148,23 +170,6 @@
     "titulo": "HotSpanish rechaza comparaciones con 'La Casa de los Famosos México'",
     "url": "https://enelensayomedia.com/notas/hotspanish-rechaza-comparaciones-con-la-casa-de-los-famosos-mexico-1119.html",
     "visitas": 4
-   }
-  ],
-  "streaming": [
-   {
-    "titulo": "Kiko Báez diseña outfits para Wisin y Sech en fin de semana histórico",
-    "url": "https://enelensayomedia.com/notas/kiko-baez-disena-outfits-para-wisin-y-sech-en-fin-de-semana-historico-1117.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "¿Llamará Ibai a Hakimi para la Velada del Año?",
-    "url": "https://enelensayomedia.com/notas/llamara-ibai-a-hakimi-para-la-velada-del-ano-1109.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "WestCOL la rompe en Kick y manda en el streaming latino",
-    "url": "https://enelensayomedia.com/notas/westcol-la-rompe-en-kick-y-manda-en-el-streaming-latino-1107.html",
-    "visitas": 3
    }
   ],
   "videojuegos": [
