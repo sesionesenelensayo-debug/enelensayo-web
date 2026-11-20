@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "CMLL y NFL realizan con éxito 'Noche de Cascos y Máscaras' en la Arena México",
+    "artista": "CMLL y NFL",
+    "intro": "El miércoles 18 de noviembre, la Arena México fue el escenario de la función especial 'Noche de Cascos y Máscaras', organizada conjuntamente por CMLL y NFL.",
+    "telegraph_url": "https://telegra.ph/CMLL-y-NFL-realizan-con-éxito-Noche-de-Cascos-y-Máscaras-en-la-Arena-México-11-20",
+    "url": "https://enelensayomedia.com/notas/cmll-y-nfl-realizan-con-exito-noche-de-cascos-y-mascaras-en-la-arena-m-1120.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/cmll-y-nfl-realizan-con-exito-noche-de-cascos-y-mascaras-en-la-arena-m-1120.jpg",
+    "fecha": "2026-11-20T10:15:26.639844",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Emmanuel y Mijares tocarán en el Auditorio Nacional el 18 de noviembre",
     "artista": "Emmanuel y Mijares",
     "intro": "Se confirma que Emmanuel y Mijares se presentarán en el Auditorio Nacional de Ciudad de México el próximo 18 de noviembre.",
@@ -5888,20 +5902,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "CDMX prepara exposición gratuita de Godzilla",
-    "artista": "Takashi Yamazaki",
-    "intro": "La Ciudad de México alista una exposición gratuita de Godzilla. Este evento se organiza con motivo del estreno de la nueva película dirigida por Takashi Yamazaki.",
-    "telegraph_url": "https://telegra.ph/CDMX-prepara-exposición-gratuita-de-Godzilla-11-02",
-    "url": "https://enelensayomedia.com/notas/cdmx-prepara-exposicion-gratuita-de-godzilla-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/cdmx-prepara-exposicion-gratuita-de-godzilla-1101.jpg",
-    "fecha": "2026-11-07T17:17:25.341061",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-01T23:16:04.565427",
-    "actualizada": true
   }
 ]
