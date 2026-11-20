@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Morat ofrece siete conciertos en el Palacio de los Deportes y consolida su fenómeno cultural en México",
+    "artista": "Morat",
+    "intro": "Morat presenta esta noche su séptimo concierto en el Palacio de los Deportes de la Ciudad de México, parte de su gira 'Ya Es Mañana'.",
+    "telegraph_url": "https://telegra.ph/Morat-ofrece-siete-conciertos-en-el-Palacio-de-los-Deportes-y-consolida-su-fenómeno-cultural-en-México-11-20",
+    "url": "https://enelensayomedia.com/notas/morat-ofrece-siete-conciertos-en-el-palacio-de-los-deportes-y-consolid-1120.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/morat-ofrece-siete-conciertos-en-el-palacio-de-los-deportes-y-consolid-1120.jpg",
+    "fecha": "2026-11-20T17:43:43.882265",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "GTA 6 se lanza y supera récords de ventas y recaudación",
     "artista": "Rockstar Games",
     "intro": "Rockstar Games confirmó el lanzamiento de Grand Theft Auto VI el 19 de noviembre de 2026…",
@@ -5889,20 +5903,5 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-01T14:00:11.543167",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "La vida y trayectoria del pintor Rufino Tamayo en un video",
-    "artista": "Rufino Tamayo",
-    "intro": "En el video del canal En el Ensayo Media se explora la vida y trayectoria del reconocido pintor Rufino Tamayo…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-vida-y-trayectoria-del-pintor-rufino-tamayo-en-un-video-1108.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-vida-y-trayectoria-del-pintor-rufino-tamayo-en-un-video-1108.jpg",
-    "fecha": "2026-11-08T12:54:52.608818",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Cultura"
   }
 ]
