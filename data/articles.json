@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "¿Doblaje arruinado? La polémica de Macarena García y Javier Ibarreche en Wildwood",
+    "artista": "Star talents en doblaje",
+    "intro": "La llegada de *Wildwood: El bosque salvaje* a las salas de cine mexicanas ha reabierto un debate urgente sobre el estado actual del doblaje en el país.",
+    "telegraph_url": "https://telegra.ph/Doblaje-arruinado-La-polémica-de-Macarena-García-y-Javier-Ibarreche-en-Wildwood-11-20",
+    "url": "https://enelensayomedia.com/notas/doblaje-arruinado-la-polemica-de-macarena-garcia-y-javier-ibarreche-en-1120.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/doblaje-arruinado-la-polemica-de-macarena-garcia-y-javier-ibarreche-en-1120.jpg",
+    "fecha": "2026-11-20T15:49:03.298627",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Mariana Ochoa abucheada en CDMX; Aldo Rendón lamenta su salud",
     "artista": "La Casa de los Famosos",
     "intro": "El 19 de noviembre de 2026, Mariana Ochoa fue abucheada al terminar su presentación en el Festival Multiverso en la Ciudad de México.",
@@ -5892,19 +5906,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Marvel y DCU"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Chovy alcanza la final del Worlds 2026 tras una trayectoria estelar",
-    "artista": "Chovy",
-    "intro": "El mid laner surcoreano, con múltiples títulos locales e internacionales, supera la semifinal y se prepara para la gran final en Nueva York.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/chovy-alcanza-la-final-del-worlds-2026-tras-una-trayectoria-estelar-1108.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/chovy-alcanza-la-final-del-worlds-2026-tras-una-trayectoria-estelar-1108.jpg",
-    "fecha": "2026-11-08T10:52:35.699174",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Esports"
   }
 ]
