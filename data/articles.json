@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Roberto Parada: actor chileno cuya vida marcó la dictadura",
+    "artista": "Roberto Parada",
+    "intro": "El video del canal En el Ensayo Media relata la vida y legado del actor, director y docente chileno Roberto Parada, quien acumuló más de medio siglo de trayectoria.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/roberto-parada-actor-chileno-cuya-vida-marco-la-dictadura-1120.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/roberto-parada-actor-chileno-cuya-vida-marco-la-dictadura-1120.jpg",
+    "fecha": "2026-11-20T11:42:44.612058",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Roberto Parada: un actor chileno en la sombra",
     "artista": "Roberto Parada: un actor chileno en la sombra",
     "intro": "Roberto Parada falleció el 20 de noviembre de 1986 en Moscú, dejando una huella de más de 50 años de trayectoria como actor, director teatral y docente chileno.",
@@ -5885,20 +5900,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Los Concorde anuncian conciertos íntimos en cinco ciudades mexicanas para diciembre 2026",
-    "artista": "Los Concorde",
-    "intro": "Los Concorde, la supergroup mexicana de rock alternativo, confirmó una gira de conciertos íntimos en México durante noviembre y diciembre de 2026.",
-    "telegraph_url": "https://telegra.ph/Los-Concorde-anuncian-conciertos-íntimos-en-cinco-ciudades-mexicanas-para-diciembre-2026-11-01",
-    "url": "https://enelensayomedia.com/notas/los-concorde-anuncian-conciertos-intimos-en-cinco-ciudades-mexicanas-p-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/los-concorde-anuncian-conciertos-intimos-en-cinco-ciudades-mexicanas-p-1101.jpg",
-    "fecha": "2026-11-08T08:16:12.526984",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura",
-    "fecha_original": "2026-11-01T11:59:58.127573",
-    "actualizada": true
   }
 ]
