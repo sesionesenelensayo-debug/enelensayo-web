@@ -1,7 +1,7 @@
 {
- "semana": "2026-W46",
- "rango": "Del 6 al 12 de noviembre",
- "url_nota": "https://enelensayomedia.com/notas/top-10-semanal-lo-mas-escuchado-en-mexico-y-en-el-mundo-13-de-noviembr-1113.html",
+ "semana": "2026-W47",
+ "rango": "Del 13 al 19 de noviembre",
+ "url_nota": "https://enelensayomedia.com/notas/top-10-semanal-lo-mas-escuchado-en-mexico-y-en-el-mundo-20-de-noviembr-1120.html",
  "mx": [
   {
    "pos": 1,
@@ -9,9 +9,9 @@
    "artista": "Fuerza Regida",
    "cancion": "Suzuki (from GTAVI: The Album)",
    "extra": "Grand Theft Auto VI",
-   "semanas": 4,
+   "semanas": 5,
    "pico": 1,
-   "streams": "10,303,456"
+   "streams": "9,711,019"
   },
   {
    "pos": 2,
@@ -19,19 +19,19 @@
    "artista": "KAROL G",
    "cancion": "BbY WOW",
    "extra": "Judeline, rusowsky",
-   "semanas": 13,
+   "semanas": 14,
    "pico": 1,
-   "streams": "8,845,940"
+   "streams": "8,702,332"
   },
   {
    "pos": 3,
-   "mov": "=",
-   "artista": "Natanael Cano",
-   "cancion": "OLIVIA LA FLAKA",
-   "extra": "Tito Double P, Victor Mendivil, Ovi",
-   "semanas": 6,
-   "pico": 2,
-   "streams": "6,845,735"
+   "mov": "+2",
+   "artista": "Neton Vega",
+   "cancion": "Olimpo",
+   "extra": "Fuerza Regida",
+   "semanas": 3,
+   "pico": 3,
+   "streams": "7,688,497"
   },
   {
    "pos": 4,
@@ -39,177 +39,177 @@
    "artista": "Neton Vega",
    "cancion": "RIKI",
    "extra": "",
-   "semanas": 13,
+   "semanas": 14,
    "pico": 1,
-   "streams": "6,654,134"
+   "streams": "6,428,834"
   },
   {
    "pos": 5,
-   "mov": "+16",
-   "artista": "Neton Vega",
-   "cancion": "Olimpo",
-   "extra": "Fuerza Regida",
-   "semanas": 2,
-   "pico": 5,
-   "streams": "6,520,193"
+   "mov": "-2",
+   "artista": "Natanael Cano",
+   "cancion": "OLIVIA LA FLAKA",
+   "extra": "Tito Double P, Victor Mendivil, Ovi",
+   "semanas": 7,
+   "pico": 2,
+   "streams": "6,269,891"
   },
   {
    "pos": 6,
-   "mov": "-1",
-   "artista": "Victor Mendivil",
-   "cancion": "Cansada",
-   "extra": "Victoria Mendivil",
-   "semanas": 2,
-   "pico": 5,
-   "streams": "6,005,396"
-  },
-  {
-   "pos": 7,
-   "mov": "-1",
+   "mov": "+1",
    "artista": "Neton Vega",
    "cancion": "Nalguita y Teta",
    "extra": "",
-   "semanas": 32,
+   "semanas": 33,
    "pico": 1,
-   "streams": "5,737,244"
+   "streams": "5,374,908"
   },
   {
-   "pos": 8,
-   "mov": "-1",
+   "pos": 7,
+   "mov": "+1",
    "artista": "Omar Camacho",
    "cancion": "King of Watches",
    "extra": "",
-   "semanas": 22,
+   "semanas": 23,
    "pico": 6,
-   "streams": "5,516,698"
+   "streams": "5,338,691"
+  },
+  {
+   "pos": 8,
+   "mov": "-2",
+   "artista": "Victor Mendivil",
+   "cancion": "Cansada",
+   "extra": "Victoria Mendivil",
+   "semanas": 3,
+   "pico": 5,
+   "streams": "5,324,525"
   },
   {
    "pos": 9,
-   "mov": "-1",
-   "artista": "LOS DOS DE TAMAULIPAS",
-   "cancion": "Ayúdame",
+   "mov": "+3",
+   "artista": "Neton Vega",
+   "cancion": "Pvta Luna",
    "extra": "",
-   "semanas": 32,
-   "pico": 2,
-   "streams": "5,301,671"
+   "semanas": 59,
+   "pico": 1,
+   "streams": "4,918,838"
   },
   {
    "pos": 10,
    "mov": "-1",
-   "artista": "Junior H",
-   "cancion": "DEMENCIA",
-   "extra": "Gael Valenzuela",
-   "semanas": 38,
-   "pico": 4,
-   "streams": "4,939,356"
+   "artista": "LOS DOS DE TAMAULIPAS",
+   "cancion": "Ayúdame",
+   "extra": "",
+   "semanas": 33,
+   "pico": 2,
+   "streams": "4,797,321"
   }
  ],
  "int": [
   {
    "pos": 1,
-   "mov": "=",
-   "artista": "Tate McRae",
-   "cancion": "Housewife",
-   "extra": "",
-   "semanas": 3,
-   "pico": 1,
-   "streams": "36,335,218"
-  },
-  {
-   "pos": 2,
-   "mov": "=",
+   "mov": "+1",
    "artista": "KAROL G",
    "cancion": "BbY WOW",
    "extra": "Judeline, rusowsky",
-   "semanas": 12,
+   "semanas": 13,
    "pico": 1,
-   "streams": "33,720,659"
+   "streams": "33,199,682"
+  },
+  {
+   "pos": 2,
+   "mov": "-1",
+   "artista": "Tate McRae",
+   "cancion": "Housewife",
+   "extra": "",
+   "semanas": 4,
+   "pico": 1,
+   "streams": "30,766,039"
   },
   {
    "pos": 3,
-   "mov": "=",
-   "artista": "ADÉLA",
-   "cancion": "Nicole Kidman",
-   "extra": "",
-   "semanas": 9,
-   "pico": 2,
-   "streams": "29,446,080"
-  },
-  {
-   "pos": 4,
    "mov": "+1",
    "artista": "Ashe",
    "cancion": "Stop The Wedding!",
    "extra": "",
-   "semanas": 8,
-   "pico": 4,
-   "streams": "26,907,929"
+   "semanas": 9,
+   "pico": 3,
+   "streams": "29,137,725"
+  },
+  {
+   "pos": 4,
+   "mov": "-1",
+   "artista": "ADÉLA",
+   "cancion": "Nicole Kidman",
+   "extra": "",
+   "semanas": 10,
+   "pico": 2,
+   "streams": "25,591,456"
   },
   {
    "pos": 5,
+   "mov": "+1",
+   "artista": "Olivia Rodrigo",
+   "cancion": "the cure",
+   "extra": "",
+   "semanas": 25,
+   "pico": 2,
+   "streams": "23,096,280"
+  },
+  {
+   "pos": 6,
    "mov": "-1",
    "artista": "ADÉLA",
    "cancion": "Ain't In LA",
    "extra": "",
-   "semanas": 14,
+   "semanas": 15,
    "pico": 3,
-   "streams": "23,873,110"
-  },
-  {
-   "pos": 6,
-   "mov": "=",
-   "artista": "Olivia Rodrigo",
-   "cancion": "the cure",
-   "extra": "",
-   "semanas": 24,
-   "pico": 2,
-   "streams": "22,601,393"
+   "streams": "22,317,242"
   },
   {
    "pos": 7,
-   "mov": "+2",
+   "mov": "=",
    "artista": "sombr",
    "cancion": "back to friends",
    "extra": "",
-   "semanas": 85,
+   "semanas": 86,
    "pico": 1,
-   "streams": "19,793,069"
+   "streams": "18,522,483"
   },
   {
    "pos": 8,
-   "mov": "+3",
-   "artista": "Justin Bieber",
-   "cancion": "Beauty And A Beat",
-   "extra": "Nicki Minaj",
-   "semanas": 35,
-   "pico": 1,
-   "streams": "18,998,862"
+   "mov": "+5",
+   "artista": "Jamie Miller",
+   "cancion": "Babydoll",
+   "extra": "",
+   "semanas": 6,
+   "pico": 8,
+   "streams": "18,473,059"
   },
   {
    "pos": 9,
-   "mov": "+1",
-   "artista": "Katy Perry",
-   "cancion": "The One That Got Away",
+   "mov": "+3",
+   "artista": "The Goo Goo Dolls",
+   "cancion": "Iris",
    "extra": "",
-   "semanas": 33,
-   "pico": 4,
-   "streams": "18,197,595"
+   "semanas": 167,
+   "pico": 9,
+   "streams": "18,052,153"
   },
   {
    "pos": 10,
-   "mov": "-2",
+   "mov": "=",
    "artista": "Malcolm Todd",
    "cancion": "Earrings",
    "extra": "",
-   "semanas": 32,
+   "semanas": 33,
    "pico": 1,
-   "streams": "18,024,702"
+   "streams": "17,705,569"
   }
  ],
  "verif": {
-  "mx": 2,
+  "mx": 1,
   "int": 3,
   "mx_dia": 10
  },
- "video": "https://www.youtube.com/shorts/4Ro4XTswE3c"
+ "video": ""
 }
