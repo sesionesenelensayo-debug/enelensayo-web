@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Emmanuel y Mijares tocarán en el Auditorio Nacional el 18 de noviembre",
+    "artista": "Emmanuel y Mijares",
+    "intro": "Se confirma que Emmanuel y Mijares se presentarán en el Auditorio Nacional de Ciudad de México el próximo 18 de noviembre.",
+    "telegraph_url": "https://telegra.ph/Emmanuel-y-Mijares-tocarán-en-el-Auditorio-Nacional-el-18-de-noviembre-11-20",
+    "url": "https://enelensayomedia.com/notas/emmanuel-y-mijares-tocaran-en-el-auditorio-nacional-el-18-de-noviembre-1120.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/emmanuel-y-mijares-tocaran-en-el-auditorio-nacional-el-18-de-noviembre-1120.jpg",
+    "fecha": "2026-11-20T10:04:52.709674",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Mural en San Salvador homenajea a El Komanche con inspiración en GTA VI",
     "artista": "El Komanche",
     "intro": "El artista urbano salvadoreño Efraín Orellana, conocido como TNT Graffiti, pintó un mural en el bulevar Constitución de San Salvador inspirado en GTA VI, en honor al creador de contenido El Komanche.",
@@ -5888,22 +5902,6 @@
     "views": 0,
     "categoria": "Cine",
     "fecha_original": "2026-11-01T23:16:04.565427",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Tyler Kolek tildó de 'falsa' a Taylor Swift en transmisión de TikTok",
-    "artista": "Tyler Kolek y Taylor Swift",
-    "intro": "Jugador de los Knicks cuestionó la autenticidad de la cantante durante una partida en vivo, generando críticas de sus seguidores.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/tyler-kolek-tildo-de-falsa-a-taylor-swift-en-transmision-de-tiktok-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/tyler-kolek-tildo-de-falsa-a-taylor-swift-en-transmision-de-tiktok-1106.jpg",
-    "fecha": "2026-11-07T16:31:33.995934",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme internacional",
-    "fecha_original": "2026-11-06T17:53:52.370846",
     "actualizada": true
   }
 ]
