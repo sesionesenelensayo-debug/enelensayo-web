@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Fallece Luis Y. Aragón, muralista mexicano, a los 96 años",
+    "artista": "Luis Y. Aragón",
+    "intro": "El artista Luis Y. Aragón falleció el 20 de noviembre de 2026, confirmado por fuentes que registran su muerte en ese día.",
+    "telegraph_url": "https://telegra.ph/Fallece-Luis-Y-Aragón-muralista-mexicano-a-los-96-años-11-20",
+    "url": "https://enelensayomedia.com/notas/fallece-luis-y-aragon-muralista-mexicano-a-los-96-anos-1120.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-luis-y-aragon-muralista-mexicano-a-los-96-anos-1120.jpg",
+    "fecha": "2026-11-20T09:44:05.811402",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "In memoriam"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Martha Valdés, actriz que dejó el cine en 1959, fallece a los 86",
     "artista": "Martha Valdés: la actriz que dejó el cine en 1959",
     "intro": "Martha Valdés, actriz mexicana que dejó el cine en 1959, falleció el 20 de noviembre de 2014. Nació el 1 de enero de 1928 en Tijuana, Baja California.",
@@ -5893,19 +5907,5 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-07T13:44:24.219371",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Mariana Echeverría estalla contra elenco de 'Me Caigo de Risa'",
-    "artista": "Mariana Echeverría",
-    "intro": "Mientras ensaya para un nuevo proyecto televisivo en los foros de Televisa, Mariana Echeverría descubrió que integrantes de 'La Familia Disfuncional' pidieron a la producción cambiar de área…",
-    "telegraph_url": "https://telegra.ph/Mariana-Echeverría-estalla-contra-elenco-de-Me-Caigo-de-Risa-11-07",
-    "url": "https://enelensayomedia.com/notas/mariana-echeverria-estalla-contra-elenco-de-me-caigo-de-risa-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/mariana-echeverria-estalla-contra-elenco-de-me-caigo-de-risa-1107.jpg",
-    "fecha": "2026-11-07T15:54:42.284458",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   }
 ]
