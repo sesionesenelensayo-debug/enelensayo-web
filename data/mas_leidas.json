@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-19 23:15",
+ "actualizado": "2026-11-20 17:42",
  "general": [
   {
    "titulo": "Maestro Shifu en el afterparty de Karol G",
@@ -60,6 +60,11 @@
     "titulo": "Yetus Prime ingresa a La Mansión VIP 2 el 16 de noviembre",
     "url": "https://enelensayomedia.com/notas/yetus-prime-ingresa-a-la-mansion-vip-2-el-16-de-noviembre-1117.html",
     "visitas": 9
+   },
+   {
+    "titulo": "Estrenos de series y películas en Netflix, Disney+, Prime Video y HBO Max este jueves",
+    "url": "https://enelensayomedia.com/notas/estrenos-de-series-y-peliculas-en-netflix-disney-prime-video-y-hbo-max-1120.html",
+    "visitas": 3
    }
   ],
   "marvel y dcu": [
@@ -96,13 +101,13 @@
     "visitas": 4
    },
    {
-    "titulo": "Sony aspira a que Demon Slayer dure 100 años con estrategia Disney",
-    "url": "https://enelensayomedia.com/notas/sony-aspira-a-que-demon-slayer-dure-100-anos-con-estrategia-disney-1113.html",
-    "visitas": 4
-   },
-   {
     "titulo": "El documental 'You Can See Everything' recauda US$ 45 millones",
     "url": "https://enelensayomedia.com/notas/el-documental-you-can-see-everything-recauda-us-45-millones-1116.html",
+    "visitas": 3
+   },
+   {
+    "titulo": "Netflix estrena tráiler de la temporada 6 final de Emily in Paris",
+    "url": "https://enelensayomedia.com/notas/netflix-estrena-trailer-de-la-temporada-6-final-de-emily-in-paris-1114.html",
     "visitas": 3
    }
   ],
@@ -128,6 +133,13 @@
     "visitas": 4
    }
   ],
+  "doblaje": [
+   {
+    "titulo": "¿Doblaje arruinado? La polémica de Macarena García y Javier Ibarreche en Wildwood",
+    "url": "https://enelensayomedia.com/notas/doblaje-arruinado-la-polemica-de-macarena-garcia-y-javier-ibarreche-en-1120.html",
+    "visitas": 7
+   }
+  ],
   "música": [
    {
     "titulo": "Cartel del Glastonbury 2027: edad media, países y quiénes están en el top 100",
@@ -150,12 +162,29 @@
     "visitas": 4
    }
   ],
-  "reality": [
+  "luchas": [
    {
-    "titulo": "Niurka habla sobre posible salida de La Granja VIP: 'Me voy contenta'",
-    "url": "https://enelensayomedia.com/notas/niurka-habla-sobre-posible-salida-de-la-granja-vip-me-voy-contenta-1113.html",
-    "visitas": 6
+    "titulo": "CMLL celebra Noche de Cascos y Máscaras con NFL y arranca eliminatoria Leyenda Azul 2026",
+    "url": "https://enelensayomedia.com/notas/cmll-celebra-noche-de-cascos-y-mascaras-con-nfl-y-arranca-eliminatoria-1120.html",
+    "visitas": 5
    },
+   {
+    "titulo": "AEW Full Gear 2026: 3 cambios de campeonato y regreso de MJF",
+    "url": "https://enelensayomedia.com/notas/aew-full-gear-2026-3-cambios-de-campeonato-y-regreso-de-mjf-1116.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "Resultados y análisis de la Lucha Libre AAA del 7 de noviembre de 2026",
+    "url": "https://enelensayomedia.com/notas/resultados-y-analisis-de-la-lucha-libre-aaa-del-7-de-noviembre-de-2026-1109.html",
+    "visitas": 4
+   },
+   {
+    "titulo": "John Cena sorprende en SmackDown 13 nov 2026 y anuncia John Cena Classic",
+    "url": "https://enelensayomedia.com/notas/john-cena-sorprende-en-smackdown-13-nov-2026-y-anuncia-john-cena-class-1114.html",
+    "visitas": 4
+   }
+  ],
+  "reality": [
    {
     "titulo": "Excompañeras de La Casa de los Famosos México se reencuentran en Disney en Orlando",
     "url": "https://enelensayomedia.com/notas/excompaneras-de-la-casa-de-los-famosos-mexico-se-reencuentran-en-disne-1117.html",
@@ -165,6 +194,11 @@
     "titulo": "Eliminado 12 de Exatlón México y Heliud Pulido podría abandonar el reality hoy 15 de noviembre",
     "url": "https://enelensayomedia.com/notas/eliminado-12-de-exatlon-mexico-y-heliud-pulido-podria-abandonar-el-rea-1115.html",
     "visitas": 5
+   },
+   {
+    "titulo": "Taylor Hale retoma el control frente a fans de 'Big Brother'",
+    "url": "https://enelensayomedia.com/notas/taylor-hale-retoma-el-control-frente-a-fans-de-big-brother-1120.html",
+    "visitas": 4
    },
    {
     "titulo": "HotSpanish rechaza comparaciones con 'La Casa de los Famosos México'",
@@ -189,31 +223,9 @@
     "visitas": 4
    },
    {
-    "titulo": "Rockstar confirma versión en la nube de GTA VI para Xbox Series S",
-    "url": "https://enelensayomedia.com/notas/rockstar-confirma-version-en-la-nube-de-gta-vi-para-xbox-series-s-1111.html",
-    "visitas": 4
-   }
-  ],
-  "luchas": [
-   {
-    "titulo": "AEW Full Gear 2026: 3 cambios de campeonato y regreso de MJF",
-    "url": "https://enelensayomedia.com/notas/aew-full-gear-2026-3-cambios-de-campeonato-y-regreso-de-mjf-1116.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "Resultados y análisis de la Lucha Libre AAA del 7 de noviembre de 2026",
-    "url": "https://enelensayomedia.com/notas/resultados-y-analisis-de-la-lucha-libre-aaa-del-7-de-noviembre-de-2026-1109.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "John Cena sorprende en SmackDown 13 nov 2026 y anuncia John Cena Classic",
-    "url": "https://enelensayomedia.com/notas/john-cena-sorprende-en-smackdown-13-nov-2026-y-anuncia-john-cena-class-1114.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "CMLL y NJPW confirman plantel para FantasticaMania 2027",
-    "url": "https://enelensayomedia.com/notas/cmll-y-njpw-confirman-plantel-para-fantasticamania-2027-1114.html",
-    "visitas": 4
+    "titulo": "Faker critica la preparación de Bilibili Gaming tras eliminación en Worlds 2026",
+    "url": "https://enelensayomedia.com/notas/faker-critica-la-preparacion-de-bilibili-gaming-tras-eliminacion-en-wo-1109.html",
+    "visitas": 3
    }
   ],
   "cine": [
@@ -240,6 +252,11 @@
     "visitas": 4
    },
    {
+    "titulo": "Meg Ryan cumple 65 años de trayectoria y vida",
+    "url": "https://enelensayomedia.com/notas/meg-ryan-cumple-65-anos-de-trayectoria-y-vida-1119.html",
+    "visitas": 3
+   },
+   {
     "titulo": "Mariana Ochoa gana La Casa de los Famosos 2026",
     "url": "https://enelensayomedia.com/notas/mariana-ochoa-gana-la-casa-de-los-famosos-2026-1117.html",
     "visitas": 3
@@ -247,15 +264,8 @@
   ],
   "chisme": [
    {
-    "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
-    "url": "https://enelensayomedia.com/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.html",
-    "visitas": 4
-   }
-  ],
-  "doblaje": [
-   {
-    "titulo": "Natalia Téllez y el debate sobre star talents en el doblaje de 'Wildwood'",
-    "url": "https://enelensayomedia.com/notas/natalia-tellez-y-el-debate-sobre-star-talents-en-el-doblaje-de-wildwoo-1113.html",
+    "titulo": "José Eduardo Derbez y Paola Dalay anuncian separación",
+    "url": "https://enelensayomedia.com/notas/jose-eduardo-derbez-y-paola-dalay-anuncian-separacion-1101.html",
     "visitas": 4
    }
   ]
