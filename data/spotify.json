@@ -124,125 +124,125 @@
  "mexico": [
   {
    "n": 1,
-   "nombre": "Fuerza Regida",
-   "valor": 5365415,
-   "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+   "nombre": "Neton Vega",
+   "valor": 5520824,
+   "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
   },
   {
    "n": 2,
-   "nombre": "Neton Vega",
-   "valor": 5288375,
-   "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+   "nombre": "Fuerza Regida",
+   "valor": 5466923,
+   "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
   },
   {
    "n": 3,
    "nombre": "Victor Mendivil",
-   "valor": 3986038,
+   "valor": 4079676,
    "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
   },
   {
    "n": 4,
    "nombre": "Junior H",
-   "valor": 3116062,
+   "valor": 3252482,
    "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
   },
   {
    "n": 5,
-   "nombre": "Natanael Cano",
-   "valor": 2344119,
-   "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+   "nombre": "Omar Camacho",
+   "valor": 2508999,
+   "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
   },
   {
    "n": 6,
-   "nombre": "Omar Camacho",
-   "valor": 2210469,
-   "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+   "nombre": "Natanael Cano",
+   "valor": 2291346,
+   "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
   },
   {
    "n": 7,
    "nombre": "Tito Double P",
-   "valor": 2156489,
+   "valor": 2261807,
    "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
   },
   {
    "n": 8,
    "nombre": "Peso Pluma",
-   "valor": 2031113,
+   "valor": 2235608,
    "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
   },
   {
    "n": 9,
-   "nombre": "KAROL G",
-   "valor": 1989415,
-   "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-  },
-  {
-   "n": 10,
    "nombre": "Calle 24",
-   "valor": 1967767,
+   "valor": 2137240,
    "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
   },
   {
+   "n": 10,
+   "nombre": "KAROL G",
+   "valor": 2092802,
+   "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+  },
+  {
    "n": 11,
-   "nombre": "Bad Bunny",
-   "valor": 1153506,
-   "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+   "nombre": "LOS DOS DE TAMAULIPAS",
+   "valor": 1142143,
+   "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
   },
   {
    "n": 12,
-   "nombre": "El Rabbanito",
-   "valor": 996515,
-   "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+   "nombre": "Bad Bunny",
+   "valor": 1133558,
+   "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
   },
   {
    "n": 13,
-   "nombre": "Grupo Firme",
-   "valor": 993753,
-   "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+   "nombre": "El Rabbanito",
+   "valor": 1093079,
+   "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
   },
   {
    "n": 14,
    "nombre": "Lenin Ramírez",
-   "valor": 991917,
+   "valor": 984833,
    "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
   },
   {
    "n": 15,
-   "nombre": "LOS DOS DE TAMAULIPAS",
-   "valor": 923449,
-   "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+   "nombre": "Oscar Maydon",
+   "valor": 949614,
+   "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
   },
   {
    "n": 16,
    "nombre": "El Bogueto",
-   "valor": 880006,
+   "valor": 872746,
    "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
   },
   {
    "n": 17,
-   "nombre": "Alfredo Olivas",
-   "valor": 807878,
-   "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-  },
-  {
-   "n": 18,
    "nombre": "Clave Especial",
-   "valor": 800672,
+   "valor": 859597,
    "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
   },
   {
+   "n": 18,
+   "nombre": "Chuyin",
+   "valor": 851194,
+   "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+  },
+  {
    "n": 19,
-   "nombre": "Julión Álvarez y su Norteño Banda",
-   "valor": 737594,
-   "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+   "nombre": "Eden Muñoz",
+   "valor": 798122,
+   "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
   },
   {
    "n": 20,
-   "nombre": "Cardenales De Nuevo León",
-   "valor": 735090,
-   "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+   "nombre": "Jósean Log",
+   "valor": 771167,
+   "url": "https://open.spotify.com/artist/1LMyTeRhjaitILs98h3MaF"
   }
  ],
  "fuente": "Spotify vía kworb.net",
- "actualizado": "2026-11-19 16:36"
+ "actualizado": "2026-11-19 18:44"
 }
