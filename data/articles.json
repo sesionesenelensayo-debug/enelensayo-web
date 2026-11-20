@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Asesinan al director de Policía de Pueblo Nuevo en emboscada",
+    "artista": "Asesinan a director de Policía Municipal en Guanajuato",
+    "intro": "Rafael Galván Navarro, director de la Policía Municipal de Pueblo Nuevo, Guanajuato, fue asesinado la noche del jueves 19 de noviembre en una emboscada sobre la vialidad de acceso al municipio.",
+    "telegraph_url": "https://telegra.ph/Asesinan-al-director-de-Policía-de-Pueblo-Nuevo-en-emboscada-11-20",
+    "url": "https://enelensayomedia.com/notas/asesinan-al-director-de-policia-de-pueblo-nuevo-en-emboscada-1120.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/asesinan-al-director-de-policia-de-pueblo-nuevo-en-emboscada-1120.jpg",
+    "fecha": "2026-11-20T02:39:20.142643",
+    "author": "Oliver Ken",
+    "views": 0,
+    "nota_dia": true,
+    "ultima_hora": true,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Meg Ryan sorprende con cabello hasta los hombros en cumbre del NYT",
     "artista": "Meg Ryan",
     "intro": "En el video 'Meg Ryan: el cabello ondulado que sorprendió en la cumbre', el canal En el Ensayo Media analiza la apariencia de Meg Ryan en el dealbook del New York Times…",
@@ -5887,19 +5903,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Pedro Infante muere en accidente aéreo de Mérida en 1957",
-    "artista": "Pedro Infante: el fatal accidente aéreo en Mérida de 1957",
-    "intro": "El 15 de abril de 1957 el icónico actor y cantante mexicano Pedro Infante perdió la vida cuando el C‑87 Liberator Express que pilotaba se estrelló en Mérida.",
-    "telegraph_url": "https://telegra.ph/Pedro-Infante-muere-en-accidente-aéreo-de-Mérida-en-1957-11-07",
-    "url": "https://enelensayomedia.com/notas/pedro-infante-muere-en-accidente-aereo-de-merida-en-1957-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/pedro-infante-muere-en-accidente-aereo-de-merida-en-1957-1107.jpg",
-    "fecha": "2026-11-07T13:20:25.368314",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
