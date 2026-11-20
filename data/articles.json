@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Bad Bunny lidera la banda sonora latina de GTA 6 con Cocoteo FM",
+    "artista": "Fuente de videojuegos",
+    "intro": "El 19 de noviembre de 2026 se lanzó Grand Theft Auto VI, cuya banda sonora incluye a Rosalía, Judeline, Bad Bunny y Justin Bieber.",
+    "telegraph_url": "https://telegra.ph/Bad-Bunny-lidera-la-banda-sonora-latina-de-GTA-6-con-Cocoteo-FM-11-20",
+    "url": "https://enelensayomedia.com/notas/bad-bunny-lidera-la-banda-sonora-latina-de-gta-6-con-cocoteo-fm-1120.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/bad-bunny-lidera-la-banda-sonora-latina-de-gta-6-con-cocoteo-fm-1120.jpg",
+    "fecha": "2026-11-20T08:39:14.464793",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Estrenos de series y películas en Netflix, Disney+, Prime Video y HBO Max este jueves",
     "artista": "Fuente de streaming",
     "intro": "Hoy jueves 20 de noviembre de 2026, las plataformas de streaming presentan nuevos contenidos.",
@@ -5888,20 +5902,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Jim Croce: la verdad sobre el accidente aéreo de 1973",
-    "artista": "Jim Croce",
-    "intro": "En este video del canal En el Ensayo Media se aborda la vida y la trágica muerte del músico folk Jim Croche, quien perdió la vida en un accidente de aviación.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/jim-croce-la-verdad-sobre-el-accidente-aereo-de-1973-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/jim-croce-la-verdad-sobre-el-accidente-aereo-de-1973-1107.jpg",
-    "fecha": "2026-11-07T14:06:47.442836",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   }
 ]
