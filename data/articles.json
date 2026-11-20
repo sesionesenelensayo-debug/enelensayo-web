@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "CMLL celebra Noche de Cascos y Máscaras con NFL y arranca eliminatoria Leyenda Azul 2026",
+    "artista": "CMLL",
+    "intro": "El miércoles 18 de noviembre de 2026, el CMLL y la NFL organizaron la función especial 'Noche de Cascos y Máscaras' en la Arena México, previa al Mexico City Game del domingo 22 de noviembre.",
+    "telegraph_url": "https://telegra.ph/CMLL-celebra-Noche-de-Cascos-y-Máscaras-con-NFL-y-arranca-eliminatoria-Leyenda-Azul-2026-11-20",
+    "url": "https://enelensayomedia.com/notas/cmll-celebra-noche-de-cascos-y-mascaras-con-nfl-y-arranca-eliminatoria-1120.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/cmll-celebra-noche-de-cascos-y-mascaras-con-nfl-y-arranca-eliminatoria-1120.jpg",
+    "fecha": "2026-11-20T16:22:33.898855",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "¿Doblaje arruinado? La polémica de Macarena García y Javier Ibarreche en Wildwood",
     "artista": "Star talents en doblaje",
     "intro": "La llegada de *Wildwood: El bosque salvaje* a las salas de cine mexicanas ha reabierto un debate urgente sobre el estado actual del doblaje en el país.",
@@ -5892,19 +5906,5 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-08T10:41:02.070808",
     "actualizada": true
-  },
-  {
-    "opinion": true,
-    "tipo": "reportaje",
-    "titulo": "Glen Powell negocia con DC: ¿Otro parche para un universo sin rumbo?",
-    "artista": "Glen Powell",
-    "intro": "Glen Powell se encuentra en conversaciones con DC Studios para un papel importante que requiere un gran compromiso y múltiples opciones de contrato.",
-    "telegraph_url": "https://telegra.ph/Glen-Powell-negocia-con-DC-Otro-parche-para-un-universo-sin-rumbo-11-08",
-    "url": "https://enelensayomedia.com/notas/glen-powell-negocia-con-dc-otro-parche-para-un-universo-sin-rumbo-1108.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/glen-powell-negocia-con-dc-otro-parche-para-un-universo-sin-rumbo-1108.jpg",
-    "fecha": "2026-11-08T11:17:04.769750",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU"
   }
 ]
