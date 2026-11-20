@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Rammstein y Paloma Morphy lanzan discos en esta semana de rock y latín",
+    "artista": "Discos de la semana",
+    "intro": "Esta semana se estrenan varios discos en la escena musical, desde rock europeo hasta música latina contemporánea.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/rammstein-y-paloma-morphy-lanzan-discos-en-esta-semana-de-rock-y-latin-1120.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/rammstein-y-paloma-morphy-lanzan-discos-en-esta-semana-de-rock-y-latin-1120.jpg",
+    "fecha": "2026-11-20T14:22:59.808938",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Pearl Jam: la gira que salvó al grupo del colapso en 1994",
     "artista": "Pearl Jam",
     "intro": "El video 'Pearl Jam: la gira que lo salvó del colapso (1994)' del canal En el Ensayo Media explora cómo la banda estadounidense de rock evitó su desintegración al mantener precios justos…",
@@ -3491,20 +3505,6 @@
   {
     "opinion": false,
     "tipo": "reportaje",
-    "titulo": "Duki y YSY A lanzan nuevos discos en esta semana de estreno",
-    "artista": "Discos de la semana",
-    "intro": "Esta semana el cartel de lanzamientos se llena de novedades en música latina y hip-hop.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/duki-y-ysy-a-lanzan-nuevos-discos-en-esta-semana-de-estreno-1113.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/duki-y-ysy-a-lanzan-nuevos-discos-en-esta-semana-de-estreno-1113.jpg",
-    "fecha": "2026-11-13T13:18:30.269202",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reportaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
     "titulo": "Exatlón México 2026: Rojos ganan la Villa 360",
     "artista": "Exatlón México 2026",
     "intro": "El 12 de noviembre de 2026 se disputó una nueva edición de la Batalla por la Villa 360 en Exatlón México…",
@@ -5889,21 +5889,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Esports"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Muere a los 52 años el cineasta chileno Sebastián Lelio",
-    "artista": "Sebastián Lelio",
-    "intro": "¿De qué murió Sebastián Lelio, director de 'Una mujer fantástica' y ganador de un Oscar? El cineasta chileno Sebastián Lelio murió este viernes a los 52 años de edad.",
-    "telegraph_url": "https://telegra.ph/Muere-a-los-52-años-el-cineasta-chileno-Sebastián-Lelio-11-07",
-    "url": "https://enelensayomedia.com/notas/muere-a-los-52-anos-el-cineasta-chileno-sebastian-lelio-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/muere-a-los-52-anos-el-cineasta-chileno-sebastian-lelio-1106.jpg",
-    "fecha": "2026-11-08T10:25:24.177334",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura",
-    "fecha_original": "2026-11-06T18:20:33.944556",
-    "actualizada": true
   }
 ]
