@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Disney estrena el tráiler de 'Ice Age: En ebullición' con Scrat y el Mundo Perdido",
+    "artista": "Ice Age: En ebullición",
+    "intro": "La sexta entrega de la saga animada llega a cines el 5 de febrero de 2027 con volcanes y dinosaurios.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/disney-estrena-el-trailer-de-ice-age-en-ebullicion-con-scrat-y-el-mund-1120.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/disney-estrena-el-trailer-de-ice-age-en-ebullicion-con-scrat-y-el-mund-1120.jpg",
+    "fecha": "2026-11-20T09:08:34.417238",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme internacional"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Edén Muñoz defiende regulaciones",
     "artista": "Edén Muñoz",
     "intro": "La detención ocurrió en Querétaro y afectó el evento. Muñoz afirma que respeta las normas de cada estado y que no hay censura en el género.",
@@ -5893,19 +5907,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reportaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "¿Doblaje arruinado? Víctor Hugo Aguilar explota contra 'Yo soy Rocky'",
-    "artista": "Yo soy Rocky",
-    "intro": "Lo que está confirmado es que el actor de voz Víctor Hugo Aguilar criticó duramente la versión latina de la película 'Yo soy Rocky' tras ver el tráiler…",
-    "telegraph_url": "https://telegra.ph/Doblaje-arruinado-Víctor-Hugo-Aguilar-explota-contra-Yo-soy-Rocky-11-07",
-    "url": "https://enelensayomedia.com/notas/doblaje-arruinado-victor-hugo-aguilar-explota-contra-yo-soy-rocky-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/doblaje-arruinado-victor-hugo-aguilar-explota-contra-yo-soy-rocky-1107.jpg",
-    "fecha": "2026-11-07T15:14:14.795686",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Doblaje"
   }
 ]
