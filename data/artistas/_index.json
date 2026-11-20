@@ -1,5 +1,12 @@
 [
   {
+    "artista": "Pearl Jam",
+    "slug": "pearl-jam",
+    "imagen": "",
+    "piezas": 1,
+    "updated": "2026-11-20 12:02"
+  },
+  {
     "artista": "Deep Purple",
     "slug": "deep-purple",
     "imagen": "",
