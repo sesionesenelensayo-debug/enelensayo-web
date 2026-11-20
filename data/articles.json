@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Don Omar anuncia concierto en El Salvador para el 20 de noviembre de 2027",
+    "artista": "Don Omar",
+    "intro": "Don Omar realizará su presentación en el Estadio Jorge \"El Mágico\" González como parte de su gira The Last King World Tour.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/don-omar-anuncia-concierto-en-el-salvador-para-el-20-de-noviembre-de-2-1120.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/don-omar-anuncia-concierto-en-el-salvador-para-el-20-de-noviembre-de-2-1120.jpg",
+    "fecha": "2026-11-20T11:07:33.919914",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "LaCobraaa lidera crecimiento en Kick con +14 542 seguidores",
     "artista": "LaCobraaa",
@@ -11,7 +25,7 @@
     "fecha": "2026-11-20T11:07:29.927275",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Live Streaming"
+    "categoria": "Streaming"
   },
   {
     "opinion": false,
@@ -5884,22 +5898,6 @@
     "views": 0,
     "categoria": "Chisme",
     "fecha_original": "2026-11-04T17:59:31.575419",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Penélope Cruz revela cómo Salma Hayek la acogió al llegar a México",
-    "artista": "Penélope Cruz",
-    "intro": "Penélope Cruz contó que Salma Hayek la recibió en el aeropuerto mexicano y la invitó a quedarse en su casa, subrayando la dificultad que supone el inicio de una visita al país.",
-    "telegraph_url": "https://telegra.ph/Penélope-Cruz-revela-cómo-Salma-Hayek-la-acogió-al-llegar-a-México-11-07",
-    "url": "https://enelensayomedia.com/notas/penelope-cruz-revela-como-salma-hayek-la-acogio-al-llegar-a-mexico-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/penelope-cruz-revela-como-salma-hayek-la-acogio-al-llegar-a-mexico-1107.jpg",
-    "fecha": "2026-11-07T22:54:31.018351",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-07T07:29:23.469587",
     "actualizada": true
   }
 ]
