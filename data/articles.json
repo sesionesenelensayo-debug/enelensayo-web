@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Alex Montiel responde a críticas por doblajes: 'Es pura porquería de trabajo'",
+    "artista": "Alex Montiel",
+    "intro": "Alex Montiel, creador de contenido conocido como 'El Escorpión Dorado', respondió a críticas recibidas por sus doblajes en redes sociales.",
+    "telegraph_url": "https://telegra.ph/Alex-Montiel-responde-a-críticas-por-doblajes-Es-pura-porquería-de-trabajo-11-20",
+    "url": "https://enelensayomedia.com/notas/alex-montiel-responde-a-criticas-por-doblajes-es-pura-porqueria-de-tra-1120.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/alex-montiel-responde-a-criticas-por-doblajes-es-pura-porqueria-de-tra-1120.jpg",
+    "fecha": "2026-11-20T10:37:10.355597",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Robert Downey Jr. voz de Doctor Doom en post-créditos de 'VisionQuest'",
     "artista": "VisionQuest",
     "intro": "Robert Downey Jr. sí es la voz de Doctor Doom en 'VisionQuest': Wanda reaparece a un mes de 'Doomsday'.",
@@ -5887,20 +5901,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Vicente Fernández: ingreso hospitalario, diagnóstico y fallecimiento en 2021",
-    "artista": "Vicente Fernández",
-    "intro": "En el video publicado por el canal En el Ensayo Media se narra la crónica de los últimos meses de Vicente Fernández, abordando su caída, el ingreso de urgencia al hospital Contry 2000…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/vicente-fernandez-ingreso-hospitalario-diagnostico-y-fallecimiento-en-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/vicente-fernandez-ingreso-hospitalario-diagnostico-y-fallecimiento-en-1107.jpg",
-    "fecha": "2026-11-07T19:22:29.156915",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   }
 ]
