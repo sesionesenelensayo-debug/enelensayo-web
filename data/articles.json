@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Esports Nations Cup 2027: Argentina asegura sus plazas y se expande el torneo",
+    "artista": "Esports Nations Cup 2027",
+    "intro": "La Esports Foundation confirmó la postergación y el nuevo calendario de la Esports Nations Cup 2027, protegiendo las plazas conseguidas por Argentina.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/esports-nations-cup-2027-argentina-asegura-sus-plazas-y-se-expande-el-1120.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/esports-nations-cup-2027-argentina-asegura-sus-plazas-y-se-expande-el-1120.jpg",
+    "fecha": "2026-11-20T11:06:12.949251",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Taylor Hale retoma el control frente a fans de 'Big Brother'",
     "artista": "Big Brother / Gran Hermano",
     "intro": "Taylor Hale, ganadora de 'Big Brother 24' y primera mujer negra en lograrlo, apareció en el episodio del 19 de noviembre de 2026 del pódcast 'The Viall Files', de Nick Viall…",
@@ -5887,19 +5901,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Vicente Fernández ingresó al Country 2000 el 7‑agosto y murió el 12‑diciembre",
-    "artista": "Vicente Fernández: el día de su ingreso hospitalario",
-    "intro": "El 7 de agosto de 2021 el legendario cantante mexicano Vicente Fernández fue admitido de urgencia en el Hospital Country 2000 de Guadalajara tras una caída que le lesionó las vértebras cervicales.",
-    "telegraph_url": "https://telegra.ph/Vicente-Fernández-ingresó-al-Country-2000-el-7agosto-y-murió-el-12diciembre-11-08",
-    "url": "https://enelensayomedia.com/notas/vicente-fernandez-ingreso-al-country-2000-el-7agosto-y-murio-el-12dici-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/vicente-fernandez-ingreso-al-country-2000-el-7agosto-y-murio-el-12dici-1107.jpg",
-    "fecha": "2026-11-07T22:11:41.893660",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
