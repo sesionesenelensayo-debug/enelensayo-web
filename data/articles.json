@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Gears of War: E-Day recibe críticas por 'woke' y review bombing en Steam",
+    "artista": "Gears of War: E-Day",
+    "intro": "Gears of War: E-Day salió el 6 de octubre de 2026 y, aunque la crítica profesional lo recibió con 85/100 en OpenCritic…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/gears-of-war-e-day-recibe-criticas-por-woke-y-review-bombing-en-steam-1120.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/gears-of-war-e-day-recibe-criticas-por-woke-y-review-bombing-en-steam-1120.jpg",
+    "fecha": "2026-11-20T12:07:55.043164",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Top 10 semanal: lo más escuchado en México y en el mundo (20 de noviembre)",
     "artista": "Top 10 semanal",
     "intro": "Como en los viejos conteos de MTV, aquí está la cuenta regresiva de la semana. En México manda «Suzuki (from GTAVI: The Album)» de Fuerza Regida; en el mundo, «BbY WOW» de KAROL G.",
@@ -5887,19 +5901,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme internacional"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "La Casa de Amityville: crímenes, juicios y la sombra del mito",
-    "artista": "la Casa de Amityville",
-    "intro": "Una crónica que recorre los homicidios de 1974, el juicio de DeFeo, la breve estancia de los Lutz y la evolución mediática del caso.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-casa-de-amityville-crimenes-juicios-y-la-sombra-del-mito-1108.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-casa-de-amityville-crimenes-juicios-y-la-sombra-del-mito-1108.jpg",
-    "fecha": "2026-11-08T08:23:32.439026",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror"
   }
 ]
