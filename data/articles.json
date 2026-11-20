@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Mural en San Salvador homenajea a El Komanche con inspiración en GTA VI",
+    "artista": "El Komanche",
+    "intro": "El artista urbano salvadoreño Efraín Orellana, conocido como TNT Graffiti, pintó un mural en el bulevar Constitución de San Salvador inspirado en GTA VI, en honor al creador de contenido El Komanche.",
+    "telegraph_url": "https://telegra.ph/Mural-en-San-Salvador-homenajea-a-El-Komanche-con-inspiración-en-GTA-VI-11-20",
+    "url": "https://enelensayomedia.com/notas/mural-en-san-salvador-homenajea-a-el-komanche-con-inspiracion-en-gta-v-1120.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/mural-en-san-salvador-homenajea-a-el-komanche-con-inspiracion-en-gta-v-1120.jpg",
+    "fecha": "2026-11-20T10:03:08.783721",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Live Streaming"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Fallece Luis Y. Aragón, muralista mexicano, a los 96 años",
     "artista": "Luis Y. Aragón",
     "intro": "El artista Luis Y. Aragón falleció el 20 de noviembre de 2026, confirmado por fuentes que registran su muerte en ese día.",
@@ -5890,22 +5904,6 @@
     "views": 0,
     "categoria": "Chisme internacional",
     "fecha_original": "2026-11-06T17:53:52.370846",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Lanzan la expansión Pokémon TCG Megaevolución-Dominio Delta",
-    "artista": "Pokémon TCG",
-    "intro": "Tras años de ausencia en formato físico, la mecánica de las Megaevoluciones regresa al juego de cartas coleccionables.",
-    "telegraph_url": "https://telegra.ph/Lanzan-la-expansión-Pokémon-TCG-Megaevolución-Dominio-Delta-11-07",
-    "url": "https://enelensayomedia.com/notas/lanzan-la-expansion-pokemon-tcg-megaevolucion-dominio-delta-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/lanzan-la-expansion-pokemon-tcg-megaevolucion-dominio-delta-1107.jpg",
-    "fecha": "2026-11-07T16:14:04.430892",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-11-07T13:44:24.219371",
     "actualizada": true
   }
 ]
