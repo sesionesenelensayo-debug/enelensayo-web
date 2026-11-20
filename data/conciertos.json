@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20 01:32",
+ "actualizado": "2026-11-20 04:02",
  "eventos": [],
  "api": false,
  "ticketmaster": {
@@ -109,16 +109,16 @@
  ],
  "noticias": [
   {
+   "titulo": "Jueves 2x1 Ticketmaster: Estos son los conciertos válidos en la promoción de HOY 19 de noviembre",
+   "fuente": "Reporte Indigo",
+   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMkY0VWhnN2p2UFBycTlRU28wVndyQTNPUm1vb21CT2hmVEkzaHNtdFBTMllZMkhxRDVGczFwLVAyMTRwdUNmMzFzcnZHYk1HSlhjcmhfa1RrTlR6SVMtNWFlMzBxQVRYb1FNTldvZGZJVGJ0OTBHUHZlNmVRbEpSRWtrYTdDdy04Z1V2V1MwUEkydXRGRE5TcGh1Nk9xcVBaSnlYM1hRTWUwLXlNU3I2dWFtTkZTZFQ0S0JCNGVIcXdMTTdjaGNRd2RFNk16YkZ0Q2x5UnJuU05QdGNWTlB3WGEtVFI?oc=5",
+   "fecha": "2026-11-19 13:07"
+  },
+  {
    "titulo": "Confirma Intocable gira Texicano Tour 2027; terminará en Monterrey",
    "fuente": "MVS Noticias",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNTNaWk5jUzdncFQ0VTRwU2t3SXF3QTZVNFJDUzBQZEhGUGRsdzJHb1EtQnBWaUJvYzl6czBlTzUyZHo3X2xwcW9rTnN5eUllNk9Dc0lXWjZLLU1QZDdLNTYtdGlOc2hHcDF2S0FKQXFYQVRycEtOZm15T0JSQTA0blFNNHI1aTk5Q3VrR0NhdjR6Sk96bmNqMHdhYzB5NFFwUG9yNnV6MkFHbVdGQXN0RU9NYmNxNWdKWS1iQklHZlc?oc=5",
    "fecha": "2026-11-18 19:16"
-  },
-  {
-   "titulo": "Don Omar en El Salvador: anuncian lugar del concierto, precios de entradas y fecha de preventa",
-   "fuente": "La Prensa Gráfica",
-   "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOYWtTekxEV3lpZDV0ZHdqMEl4ZFB1RS1tcWx5UFh6TEJGVC1RZ3BqMzhWc1hyZ1VWcC1aM1ptMDdYYXhoa2NLal93eHNEVW9RaUhfQ3l2OFhiWlU1VjFCT3IyTDZFZXdZRDNtaFAxR0pWcWNYa09ISTBObm5SVUhEODFXUVFaMGV2bmpSTzZQdE5fMW5SQVlzQjBXRHAzQnhBZ0tjb1EzUGpqVGdURFA1V2c4UC12RHR1elZfdkcwSThsdGt2clQwcm9jTU5KOW5iZXh2amZmZ0FuZ01hNDI2YmFuV215bHBo?oc=5",
-   "fecha": "2026-11-18 16:35"
   },
   {
    "titulo": "¡Cypress Hill vuelve a CDMX en 2027! Fecha y preventa en el Pepsi Center",
@@ -175,10 +175,10 @@
    "fecha": "2026-11-13 16:18"
   },
   {
-   "titulo": "¿Cuánto cuestan los BOLETOS para el 'Flakk Tour 2027' de Rels B en México y dónde comprar? LINK",
-   "fuente": "Milenio",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVllYOFVKbzVlbFlHRmVYRmZ4aGk1NkVaOFR0Y3g3eTBIRVFsR0t3S3BZVElXSjQ5R1JYbWdPN3dTNkZvbnhKLTFKM3lRdmNhUXRrSE0tZjAxbjZMQ3M5djRjYTVUX3J4UkRrVEFqWmd3TlJ0cFdEcGVLLXByTlJNeGw1bkVRM2pHeTVWVHpSU2FMSF8xM3hsQWtFQzI2Z9IBngFBVV95cUxPQkVoWmdrbWVoODBHRlF1M2ZaYWdXYkZMaXlsckJkcm44TjVscGJ3eW9jS2t4M2haTEt4VEdBQko0cFIxUVVzRDR3dmg2RHR2ZC14NXFiWkN3d0pmMHRSby1KcGxGWC1LY3JCV3I3eWVMTVhDOXdoVHB6SGdiVDMxSEMtaXlGR3djWDh5Vzg2dDVJVUgxOUhGZW1VYmpkUQ?oc=5",
-   "fecha": "2026-11-12 23:40"
+   "titulo": "¡KATSEYE cerrará su gira con dos noches en CDMX! Fechas y boletos",
+   "fuente": "LifeBoxset",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPOWxwU2doNFluS2lsUHFSTmVaekt2MElDVUlobzZINmxhQUNSOWtMaWszNzF6RjJGTlJfVF9NbUhNVFE0N0M5ejltWl8zcHFCQk1rSzlvcjF4clN3Z3l6cTl3?oc=5",
+   "fecha": "2026-11-13 13:00"
   },
   {
    "titulo": "¡Vive Latino 2027 ya tiene precios! Checa cuánto cuestan",
@@ -187,10 +187,10 @@
    "fecha": "2026-11-12 23:25"
   },
   {
-   "titulo": "Tame Impala en México: fechas, boletos, preventa y todo sobre sus conciertos",
-   "fuente": "GQ México y Latinoamérica",
-   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNS3AtWGZ5VWxPQnF3bUs4ZjFEcmtVWHBfTzFQYzBNQThuS1o4a2Q4MkViem1ZY1FiS3BtMEdpcnBQMWgyLU1GR04yUkhTMjN5bldFNk1CNW83U1BhNnc1Q1JOT010TlMwaWNCLU91aFRsZU9pYkZjaUZDWmE3UEpVZVpkYlBzNXQyOWlhZ2oyN1pMZjNvcVRzeXl6WVdsdw?oc=5",
-   "fecha": "2026-11-12 17:51"
+   "titulo": "Rels B en CDMX 2027: precios confirmados y venta de boletos para \"FLAKK TOUR\"",
+   "fuente": "Ambito",
+   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdVd1dFAwUWpWb2U4Z3g4RkhGQmx4ZHF5U01sMF91empNTDNQQnpnR21JaU1lcV9FRTRXS19YZ1l3X0JYX1ZNZ0poVHd4aDdxSGlxTnFtaTR3aG9UU3VPVGk3UG5MZzhwc2VCVUE4QTM2b0tvRmpGX1VmQVh3QW9pRFgtdjZfbHlVbVJQQ0VYcFNfLW52ZldGSTNsZjFWaXFUMUVfOTV6NVFEaURhR3RJ0gG0AUFVX3lxTFBHUE5UWGhfekduMWtqSk9Oam92UGNVLXgxaWQ5UU1XNmlDa2k2VHY4SkdRYmgxN0YzM1R0Zk1hRmpoOTdvREpPZ2NOdnpOR0NMTjNBUm9ZMjRQVmhhcnFjenNidm5WbVFHQ2owOTIxYWxGZWpJaDZJZlhmMFF1aU5ZYm9KV3FGVmh1Q0gzemQwLVRobW0yNUJhamFYLV95azFXdUFNZTlkSGNpcUZrekpORmpVLQ?oc=5",
+   "fecha": "2026-11-12 18:04"
   }
  ]
 }
