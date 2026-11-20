@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "LaCobraaa lidera crecimiento en Kick con +14 542 seguidores",
+    "artista": "LaCobraaa",
+    "intro": "El 19 de noviembre de 2026, LaCobraaa fue el streamer que más creció en Kick, sumando 14.542 nuevos seguidores.",
+    "telegraph_url": "https://telegra.ph/LaCobraaa-lidera-crecimiento-en-Kick-con-14-542-seguidores-11-20",
+    "url": "https://enelensayomedia.com/notas/lacobraaa-lidera-crecimiento-en-kick-con-14-542-seguidores-1120.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/lacobraaa-lidera-crecimiento-en-kick-con-14-542-seguidores-1120.jpg",
+    "fecha": "2026-11-20T11:07:29.927275",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Live Streaming"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Esports Nations Cup 2027: Argentina asegura sus plazas y se expande el torneo",
     "artista": "Esports Nations Cup 2027",
     "intro": "La Esports Foundation confirmó la postergación y el nuevo calendario de la Esports Nations Cup 2027, protegiendo las plazas conseguidas por Argentina.",
@@ -5887,19 +5901,5 @@
     "categoria": "Chisme",
     "fecha_original": "2026-11-07T07:29:23.469587",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "La Isla de las Muñecas: crónica de un misterio en Xochimilco",
-    "artista": "la Isla de las Muñecas de Xochimilco",
-    "intro": "Historia documentada de Julián Santana Barrera, la chinampa y las leyendas que rodean su muerte en los canales.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-isla-de-las-munecas-cronica-de-un-misterio-en-xochimilco-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-isla-de-las-munecas-cronica-de-un-misterio-en-xochimilco-1107.jpg",
-    "fecha": "2026-11-07T22:54:27.027740",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror"
   }
 ]
