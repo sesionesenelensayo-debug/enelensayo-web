@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Rumor: Wanda Maximoff podría regresar en 'Avengers: Doomsday' según postcréditos de 'VisionQuest'",
+    "artista": "VisionQuest",
+    "intro": "El postcréditos de 'VisionQuest', emitido el 10 de noviembre de 2026, revive a Wanda Maximoff / Bruja Escarlata entre los escombros del Monte Wundagore.",
+    "telegraph_url": "https://telegra.ph/Rumor-Wanda-Maximoff-podría-regresar-en-Avengers-Doomsday-según-postcréditos-de-VisionQuest-11-21",
+    "url": "https://enelensayomedia.com/notas/rumor-wanda-maximoff-podria-regresar-en-avengers-doomsday-segun-postcr-1121.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/rumor-wanda-maximoff-podria-regresar-en-avengers-doomsday-segun-postcr-1121.jpg",
+    "fecha": "2026-11-21T16:54:19.125214",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Netflix sube pagos de doblaje alemán y mantiene cláusulas de IA en disputa",
     "artista": "Negociaciones y regulación laboral",
     "intro": "Netflix aumentó el fondo anual de pagos de continuación para actores de doblaje alemán de 475.000 a 750.000 euros, según un acuerdo con el sindicato BFFS.",
@@ -5876,19 +5890,5 @@
     "categoria": "Streaming",
     "fecha_original": "2026-11-08T15:55:25.965485",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "¿Redoblaje de Wildwood? Exigen firmas por los star talents",
-    "artista": "Wildwood",
-    "intro": "El doblaje latino de la película animada Wildwood ha generado una intensa controversia entre los asistentes a los cines y usuarios de redes sociales.",
-    "telegraph_url": "https://telegra.ph/Redoblaje-de-Wildwood-Exigen-firmas-por-los-star-talents-11-10",
-    "url": "https://enelensayomedia.com/notas/redoblaje-de-wildwood-exigen-firmas-por-los-star-talents-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/redoblaje-de-wildwood-exigen-firmas-por-los-star-talents-1109.jpg",
-    "fecha": "2026-11-09T19:49:16.552543",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Doblaje"
   }
 ]
