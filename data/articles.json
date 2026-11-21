@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Sara García: la Abuelita de México y su legado en el cine y el chocolate",
+    "artista": "Sara García",
+    "intro": "Nacida en Orizaba en 1892, destacó en el cine mudo y en la época de oro del cine mexicano, y su rostro se convirtió en la imagen del chocolate Abuelita.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/sara-garcia-la-abuelita-de-mexico-y-su-legado-en-el-cine-y-el-chocolat-1121.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/sara-garcia-la-abuelita-de-mexico-y-su-legado-en-el-cine-y-el-chocolat-1121.jpg",
+    "fecha": "2026-11-21T13:32:31.982323",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Cine"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "WWE registra 'Gringo Anónimo' y 'Anónimo Gringo' para explotar legado de Los Perros del Mal",
     "artista": "WWE",
     "intro": "El 19 de noviembre de 2026 WWE presentó solicitudes de marca ante la Oficina de Patentes y Marcas de EE. UU. (USPTO) para los nombres “Gringo Anónimo” y “Anónimo Gringo”.",
@@ -5878,19 +5893,5 @@
     "categoria": "Reportaje",
     "fecha_original": "2026-11-09T14:16:26.983340",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Jaime Lorente debuta como director con 'El mal hijo'",
-    "artista": "Jaime Lorente",
-    "intro": "¿Qué mueve a un actor consolidado a sentarse detrás de la cámara? Jaime Lorente responde a esa pregunta con su debut en la dirección de largometraje: 'El mal hijo'.",
-    "telegraph_url": "https://telegra.ph/Jaime-Lorente-debuta-como-director-con-El-mal-hijo-11-09",
-    "url": "https://enelensayomedia.com/notas/jaime-lorente-debuta-como-director-con-el-mal-hijo-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/jaime-lorente-debuta-como-director-con-el-mal-hijo-1109.jpg",
-    "fecha": "2026-11-09T13:40:05.389305",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   }
 ]

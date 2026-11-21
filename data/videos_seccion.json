@@ -1,4 +1,46 @@
 {
+ "Cine": {
+  "shorts": [
+   {
+    "id": "xndeEzgOKXE",
+    "titulo": "Sara García: la Abuelita de México y su legado en el cine y el chocolate",
+    "fecha": "2026-11-21",
+    "nota": "https://enelensayomedia.com/notas/sara-garcia-la-abuelita-de-mexico-y-su-legado-en-el-cine-y-el-chocolat-1121.html"
+   },
+   {
+    "id": "Y2zTLbyLFuA",
+    "titulo": "Meg Ryan sorprende con cabello hasta los hombros en cumbre del NYT",
+    "fecha": "2026-11-19",
+    "nota": "https://enelensayomedia.com/notas/meg-ryan-sorprende-con-cabello-hasta-los-hombros-en-cumbre-del-nyt-1119.html"
+   },
+   {
+    "id": "ql-Xu5blV8c",
+    "titulo": "Laura Hidalgo: la Hedy Lamarr del cine argentino nació",
+    "fecha": "2026-11-18",
+    "nota": "https://enelensayomedia.com/notas/laura-hidalgo-la-hedy-lamarr-del-cine-argentino-nacio-1118.html"
+   },
+   {
+    "id": "ebvgOHqQRGs",
+    "titulo": "El cine latino cruza fronteras en Los Ángeles",
+    "fecha": "2026-11-11",
+    "nota": "https://enelensayomedia.com/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.html"
+   },
+   {
+    "id": "Cv388S5qotA",
+    "titulo": "Tom Hanks rechaza remake de \"El invisible Harvey\" y defiende el canon cinematográfico",
+    "fecha": "2026-11-10",
+    "nota": "https://enelensayomedia.com/notas/tom-hanks-rechaza-remake-de-el-invisible-harvey-y-defiende-el-canon-ci-1110.html"
+   }
+  ],
+  "longs": [
+   {
+    "id": "EB97vHmGCa4",
+    "titulo": "DCU en caos: comparan gestión de DC con el estándar de Marvel",
+    "fecha": "2026-11-13",
+    "nota": "https://enelensayomedia.com/notas/dcu-en-caos-comparan-gestion-de-dc-con-el-estandar-de-marvel-1113.html"
+   }
+  ]
+ },
  "Biografía": {
   "shorts": [
    {
@@ -66,35 +108,6 @@
     "titulo": "Los videojuegos peor calificados según reportes en noviembre 2026",
     "fecha": "2026-11-21",
     "nota": "https://enelensayomedia.com/notas/los-videojuegos-peor-calificados-segun-reportes-en-noviembre-2026-1121.html"
-   }
-  ],
-  "longs": []
- },
- "In memoriam": {
-  "shorts": [
-   {
-    "id": "xndeEzgOKXE",
-    "titulo": "Fallece Sara García en 1980, la Abuelita de México que inmortalizó el chocolate",
-    "fecha": "2026-11-21",
-    "nota": "https://enelensayomedia.com/notas/fallece-sara-garcia-en-1980-la-abuelita-de-mexico-que-inmortalizo-el-c-1121.html"
-   },
-   {
-    "id": "MzYhk1JIYDs",
-    "titulo": "Martha Valdés, actriz que dejó el cine en 1959, fallece a los 86",
-    "fecha": "2026-11-20",
-    "nota": "https://enelensayomedia.com/notas/martha-valdes-actriz-que-dejo-el-cine-en-1959-fallece-a-los-86-1120.html"
-   },
-   {
-    "id": "mgn-ud1VQqc",
-    "titulo": "Marilyn Monroe murió la madrugada del 5 de agosto de 1962 en su residencia de Los Ángeles",
-    "fecha": "2026-11-18",
-    "nota": "https://enelensayomedia.com/notas/marilyn-monroe-murio-la-madrugada-del-5-de-agosto-de-1962-en-su-reside-1118.html"
-   },
-   {
-    "id": "Dn_keTbqg5A",
-    "titulo": "Frida Kahlo murió en 1954 por embolia pulmonar, confirmada por su enfermera",
-    "fecha": "2026-11-14",
-    "nota": "https://enelensayomedia.com/notas/frida-kahlo-murio-en-1954-por-embolia-pulmonar-confirmada-por-su-enfer-1114.html"
    }
   ],
   "longs": []
@@ -278,41 +291,28 @@
    }
   ]
  },
- "Cine": {
+ "In memoriam": {
   "shorts": [
    {
-    "id": "Y2zTLbyLFuA",
-    "titulo": "Meg Ryan sorprende con cabello hasta los hombros en cumbre del NYT",
-    "fecha": "2026-11-19",
-    "nota": "https://enelensayomedia.com/notas/meg-ryan-sorprende-con-cabello-hasta-los-hombros-en-cumbre-del-nyt-1119.html"
+    "id": "MzYhk1JIYDs",
+    "titulo": "Martha Valdés, actriz que dejó el cine en 1959, fallece a los 86",
+    "fecha": "2026-11-20",
+    "nota": "https://enelensayomedia.com/notas/martha-valdes-actriz-que-dejo-el-cine-en-1959-fallece-a-los-86-1120.html"
    },
    {
-    "id": "ql-Xu5blV8c",
-    "titulo": "Laura Hidalgo: la Hedy Lamarr del cine argentino nació",
+    "id": "mgn-ud1VQqc",
+    "titulo": "Marilyn Monroe murió la madrugada del 5 de agosto de 1962 en su residencia de Los Ángeles",
     "fecha": "2026-11-18",
-    "nota": "https://enelensayomedia.com/notas/laura-hidalgo-la-hedy-lamarr-del-cine-argentino-nacio-1118.html"
+    "nota": "https://enelensayomedia.com/notas/marilyn-monroe-murio-la-madrugada-del-5-de-agosto-de-1962-en-su-reside-1118.html"
    },
    {
-    "id": "ebvgOHqQRGs",
-    "titulo": "El cine latino cruza fronteras en Los Ángeles",
-    "fecha": "2026-11-11",
-    "nota": "https://enelensayomedia.com/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.html"
-   },
-   {
-    "id": "Cv388S5qotA",
-    "titulo": "Tom Hanks rechaza remake de \"El invisible Harvey\" y defiende el canon cinematográfico",
-    "fecha": "2026-11-10",
-    "nota": "https://enelensayomedia.com/notas/tom-hanks-rechaza-remake-de-el-invisible-harvey-y-defiende-el-canon-ci-1110.html"
+    "id": "Dn_keTbqg5A",
+    "titulo": "Frida Kahlo murió en 1954 por embolia pulmonar, confirmada por su enfermera",
+    "fecha": "2026-11-14",
+    "nota": "https://enelensayomedia.com/notas/frida-kahlo-murio-en-1954-por-embolia-pulmonar-confirmada-por-su-enfer-1114.html"
    }
   ],
-  "longs": [
-   {
-    "id": "EB97vHmGCa4",
-    "titulo": "DCU en caos: comparan gestión de DC con el estándar de Marvel",
-    "fecha": "2026-11-13",
-    "nota": "https://enelensayomedia.com/notas/dcu-en-caos-comparan-gestion-de-dc-con-el-estandar-de-marvel-1113.html"
-   }
-  ]
+  "longs": []
  },
  "Chisme": {
   "shorts": [
