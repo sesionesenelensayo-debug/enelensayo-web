@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-21 08:21",
+ "actualizado": "2026-11-21 09:01",
  "eventos": [
   {
    "id": "will-of-one|san-luis-potosi||x",
@@ -15632,6 +15632,54 @@
    "fuente": "Sitio de Salón Los Ángeles",
    "tipo": "show",
    "fuente_url": "https://salonlosangeles.mx/cartelera-2026/"
+  },
+  {
+   "id": "juanjo-menta|queretaro||x",
+   "banda": "Juanjo Menta",
+   "ciudad": "Querétaro",
+   "estado": "Querétaro",
+   "lat": 20.5888,
+   "lon": -100.3899,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
+  },
+  {
+   "id": "dj-nando|puebla||x",
+   "banda": "DJ NANDO",
+   "ciudad": "Puebla",
+   "estado": "Puebla",
+   "lat": 19.0414,
+   "lon": -98.2063,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
+  },
+  {
+   "id": "kulturi|queretaro||x",
+   "banda": "Kulturi",
+   "ciudad": "Querétaro",
+   "estado": "Querétaro",
+   "lat": 20.5888,
+   "lon": -100.3899,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
   }
  ]
 }
