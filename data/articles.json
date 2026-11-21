@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Dimash Qudaibergen abre el Dimensions Tour en el Palacio de los Deportes",
+    "artista": "Dimash Qudaibergen",
+    "intro": "Esta noche Dimash Qudaibergen presenta el primer concierto de su Dimensions Tour en el Palacio de los Deportes de la Ciudad de México.",
+    "telegraph_url": "https://telegra.ph/Dimash-Qudaibergen-abre-el-Dimensions-Tour-en-el-Palacio-de-los-Deportes-11-21",
+    "url": "https://enelensayomedia.com/notas/dimash-qudaibergen-abre-el-dimensions-tour-en-el-palacio-de-los-deport-1120.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/dimash-qudaibergen-abre-el-dimensions-tour-en-el-palacio-de-los-deport-1120.jpg",
+    "fecha": "2026-11-20T20:45:06.561609",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Julieta Venegas: 5 curiosidades de la artista más creativa",
     "artista": "Julieta Venegas",
     "intro": "Julieta Venegas escribió su parte en Lo Siento BB de Bad Bunny encerrada en casa usando pantuflas.",
@@ -5886,19 +5900,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Doblaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Presentan el documental La mirada de Frida de Trisha Ziff",
-    "artista": "Trisha Ziff",
-    "intro": "La directora y realizadora Trisha Ziff presenta su documental titulado 'La mirada de Frida', conocido también en inglés como 'Frida: The Girl Just Doesn't Go Away'.",
-    "telegraph_url": "https://telegra.ph/Presentan-el-documental-La-mirada-de-Frida-de-Trisha-Ziff-11-08",
-    "url": "https://enelensayomedia.com/notas/presentan-el-documental-la-mirada-de-frida-de-trisha-ziff-1108.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/presentan-el-documental-la-mirada-de-frida-de-trisha-ziff-1108.jpg",
-    "fecha": "2026-11-08T14:11:46.310715",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   }
 ]
