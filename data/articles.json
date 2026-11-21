@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "El cartel del Coachella 2026 revela datos sorprendentes sobre sus artistas",
+    "artista": "Coachella",
+    "intro": "En el video publicado por el canal En el Ensayo Media, se analiza el cartel del Coachella 2026, destacando 51 artistas y presentando cuentas poco conocidas sobre sus perfiles, edades y ubicaciones.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-cartel-del-coachella-2026-revela-datos-sorprendentes-sobre-sus-arti-1121.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-cartel-del-coachella-2026-revela-datos-sorprendentes-sobre-sus-arti-1121.jpg",
+    "fecha": "2026-11-21T17:04:53.165208",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Rumor: Wanda Maximoff podría regresar en 'Avengers: Doomsday' según postcréditos de 'VisionQuest'",
     "artista": "VisionQuest",
     "intro": "El postcréditos de 'VisionQuest', emitido el 10 de noviembre de 2026, revive a Wanda Maximoff / Bruja Escarlata entre los escombros del Monte Wundagore.",
@@ -4493,22 +4508,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Marvel y DCU"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Bobby Pulido, cantante de música tejana, gana el escaño del 15.º distrito de Texas",
-    "artista": "Bobby Pulido",
-    "intro": "El cantante de música tejana Bobby Pulido, candidato demócrata, se impuso en el 15.º distrito congresional de Texas en las elecciones del 3 de noviembre de 2026…",
-    "telegraph_url": "https://telegra.ph/Bobby-Pulido-cantante-de-música-tejana-gana-el-escaño-del-15º-distrito-de-Texas-11-04",
-    "url": "https://enelensayomedia.com/notas/bobby-pulido-cantante-de-musica-tejana-gana-el-escano-del-15-o-distrit-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/bobby-pulido-cantante-de-musica-tejana-gana-el-escano-del-15-o-distrit-1104.jpg",
-    "fecha": "2026-11-12T17:34:06.965709",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-04T13:24:01.911777",
-    "actualizada": true
   },
   {
     "opinion": false,

@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20 23:07",
+ "actualizado": "2026-11-21 17:08",
  "general": [
   {
    "titulo": "Maestro Shifu en el afterparty de Karol G",
@@ -17,11 +17,6 @@
    "visitas": 9
   },
   {
-   "titulo": "Prime Video anuncia su calendario completo de estrenos para noviembre 2026",
-   "url": "https://enelensayomedia.com/notas/prime-video-anuncia-su-calendario-completo-de-estrenos-para-noviembre-1105.html",
-   "visitas": 9
-  },
-  {
    "titulo": "Supergirl de Milly Alcock: el colapso taquillero que confirma el fracaso del DCU",
    "url": "https://enelensayomedia.com/notas/supergirl-de-milly-alcock-el-colapso-taquillero-que-confirma-el-fracas-1117.html",
    "visitas": 8
@@ -30,6 +25,11 @@
    "titulo": "Daniel Boaventura vende su concierto en Auditorio Nacional con Orquesta Sinfónica de Minería",
    "url": "https://enelensayomedia.com/notas/daniel-boaventura-vende-su-concierto-en-auditorio-nacional-con-orquest-1117.html",
    "visitas": 8
+  },
+  {
+   "titulo": "¿Doblaje arruinado? La polémica de Macarena García y Javier Ibarreche en Wildwood",
+   "url": "https://enelensayomedia.com/notas/doblaje-arruinado-la-polemica-de-macarena-garcia-y-javier-ibarreche-en-1120.html",
+   "visitas": 7
   }
  ],
  "categorias": {
@@ -50,9 +50,9 @@
     "visitas": 5
    },
    {
-    "titulo": "¿Llamará Ibai a Hakimi para la Velada del Año?",
-    "url": "https://enelensayomedia.com/notas/llamara-ibai-a-hakimi-para-la-velada-del-ano-1109.html",
-    "visitas": 5
+    "titulo": "WestCOL la rompe en Kick y manda en el streaming latino",
+    "url": "https://enelensayomedia.com/notas/westcol-la-rompe-en-kick-y-manda-en-el-streaming-latino-1107.html",
+    "visitas": 3
    }
   ],
   "cultura": [
@@ -64,7 +64,12 @@
    {
     "titulo": "Estrenos de series y películas en Netflix, Disney+, Prime Video y HBO Max este jueves",
     "url": "https://enelensayomedia.com/notas/estrenos-de-series-y-peliculas-en-netflix-disney-prime-video-y-hbo-max-1120.html",
-    "visitas": 3
+    "visitas": 4
+   },
+   {
+    "titulo": "Sheinbaum llega a APEC 2026 en China para defender la postura de México",
+    "url": "https://enelensayomedia.com/notas/sheinbaum-llega-a-apec-2026-en-china-para-defender-la-postura-de-mexic-1119.html",
+    "visitas": 2
    }
   ],
   "marvel y dcu": [
@@ -87,28 +92,6 @@
     "titulo": "El caos en DC: Gunn y Safran abandonan, el DCU se desmorona",
     "url": "https://enelensayomedia.com/notas/el-caos-en-dc-gunn-y-safran-abandonan-el-dcu-se-desmorona-1119.html",
     "visitas": 5
-   }
-  ],
-  "televisión": [
-   {
-    "titulo": "Prime Video anuncia su calendario completo de estrenos para noviembre 2026",
-    "url": "https://enelensayomedia.com/notas/prime-video-anuncia-su-calendario-completo-de-estrenos-para-noviembre-1105.html",
-    "visitas": 9
-   },
-   {
-    "titulo": "Ginny y Georgia 4",
-    "url": "https://enelensayomedia.com/notas/ginny-y-georgia-4-1119.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "El documental 'You Can See Everything' recauda US$ 45 millones",
-    "url": "https://enelensayomedia.com/notas/el-documental-you-can-see-everything-recauda-us-45-millones-1116.html",
-    "visitas": 3
-   },
-   {
-    "titulo": "Netflix estrena tráiler de la temporada 6 final de Emily in Paris",
-    "url": "https://enelensayomedia.com/notas/netflix-estrena-trailer-de-la-temporada-6-final-de-emily-in-paris-1114.html",
-    "visitas": 3
    }
   ],
   "conciertos": [
@@ -147,9 +130,9 @@
     "visitas": 6
    },
    {
-    "titulo": "Rels B anuncia tres conciertos en el Palacio de los Deportes",
-    "url": "https://enelensayomedia.com/notas/rels-b-anuncia-tres-conciertos-en-el-palacio-de-los-deportes-1114.html",
-    "visitas": 6
+    "titulo": "Cartel del Coachella 2026: edad media, países y quiénes están en el top 100",
+    "url": "https://enelensayomedia.com/notas/cartel-del-coachella-2026-edad-media-paises-y-quienes-estan-en-el-top-1121.html",
+    "visitas": 4
    },
    {
     "titulo": "Majo Aguilar debuta en el Auditorio Nacional con Lucero y otros invitados",
@@ -164,6 +147,11 @@
   ],
   "luchas": [
    {
+    "titulo": "WWE registra 'Gringo Anónimo' y 'Anónimo Gringo' para explotar legado de Los Perros del Mal",
+    "url": "https://enelensayomedia.com/notas/wwe-registra-gringo-anonimo-y-anonimo-gringo-para-explotar-legado-de-l-1121.html",
+    "visitas": 5
+   },
+   {
     "titulo": "CMLL celebra Noche de Cascos y Máscaras con NFL y arranca eliminatoria Leyenda Azul 2026",
     "url": "https://enelensayomedia.com/notas/cmll-celebra-noche-de-cascos-y-mascaras-con-nfl-y-arranca-eliminatoria-1120.html",
     "visitas": 5
@@ -176,11 +164,6 @@
    {
     "titulo": "Resultados y análisis de la Lucha Libre AAA del 7 de noviembre de 2026",
     "url": "https://enelensayomedia.com/notas/resultados-y-analisis-de-la-lucha-libre-aaa-del-7-de-noviembre-de-2026-1109.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "John Cena sorprende en SmackDown 13 nov 2026 y anuncia John Cena Classic",
-    "url": "https://enelensayomedia.com/notas/john-cena-sorprende-en-smackdown-13-nov-2026-y-anuncia-john-cena-class-1114.html",
     "visitas": 4
    }
   ],
@@ -228,21 +211,28 @@
     "visitas": 3
    }
   ],
-  "cine": [
+  "televisión": [
    {
-    "titulo": "Sylvester Stallone recuerda su vieja rivalidad con Arnold Schwarzenegger",
-    "url": "https://enelensayomedia.com/notas/sylvester-stallone-recuerda-su-vieja-rivalidad-con-arnold-schwarzenegg-1106.html",
-    "visitas": 5
+    "titulo": "Ginny y Georgia 4",
+    "url": "https://enelensayomedia.com/notas/ginny-y-georgia-4-1119.html",
+    "visitas": 4
    },
+   {
+    "titulo": "El documental 'You Can See Everything' recauda US$ 45 millones",
+    "url": "https://enelensayomedia.com/notas/el-documental-you-can-see-everything-recauda-us-45-millones-1116.html",
+    "visitas": 3
+   }
+  ],
+  "cine": [
    {
     "titulo": "Emma Watson se cae al llegar a fiesta de GQ en Hollywood",
     "url": "https://enelensayomedia.com/notas/emma-watson-se-cae-al-llegar-a-fiesta-de-gq-en-hollywood-1115.html",
     "visitas": 4
    },
    {
-    "titulo": "Difunden video de Gérard Depardieu acosando a una actriz en rodaje",
-    "url": "https://enelensayomedia.com/notas/difunden-video-de-gerard-depardieu-acosando-a-una-actriz-en-rodaje-1114.html",
-    "visitas": 3
+    "titulo": "Jennifer Lawrence clasifica su peor beso en pantalla: Chris Pratt",
+    "url": "https://enelensayomedia.com/notas/jennifer-lawrence-clasifica-su-peor-beso-en-pantalla-chris-pratt-1121.html",
+    "visitas": 2
    }
   ],
   "reportaje": [
@@ -260,13 +250,18 @@
     "titulo": "Mariana Ochoa gana La Casa de los Famosos 2026",
     "url": "https://enelensayomedia.com/notas/mariana-ochoa-gana-la-casa-de-los-famosos-2026-1117.html",
     "visitas": 3
+   },
+   {
+    "titulo": "Will Smith enfrenta demanda por presunta agresión sexual",
+    "url": "https://enelensayomedia.com/notas/will-smith-enfrenta-demanda-por-presunta-agresion-sexual-1119.html",
+    "visitas": 2
    }
   ],
   "chisme": [
    {
-    "titulo": "José Eduardo Derbez y Paola Dalay anuncian separación",
-    "url": "https://enelensayomedia.com/notas/jose-eduardo-derbez-y-paola-dalay-anuncian-separacion-1101.html",
-    "visitas": 4
+    "titulo": "Mía Rubín confirma ruptura con Tarik Othón por diferencias profesionales",
+    "url": "https://enelensayomedia.com/notas/mia-rubin-confirma-ruptura-con-tarik-othon-por-diferencias-profesional-1121.html",
+    "visitas": 2
    }
   ]
  }
