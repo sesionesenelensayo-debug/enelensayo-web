@@ -1,5 +1,5 @@
 {
- "actualizado": "20/11/2026 15:32",
+ "actualizado": "20/11/2026 21:54",
  "recomendadas": [
   {
    "slug": "spartacus",
@@ -27,10 +27,10 @@
      "fecha": "2026-11-10"
     },
     {
-     "titulo": "Los Mitsubishi más aventureros están de vuelta: al nuevo Montero se une el Outlander Diamond Trail",
-     "medio": "Car and Driver",
-     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN0N6NHhySllBb3F3VGFySktNZ2JzYldPU1JyZXhNU1lpN3hlTGxqWTNvR0ZpSkgzVWpQcmpkV29QaDlnTEZkVUxCNTd4ak9IU2xXM245azlIc25MSUc5YXZuanFjcTJ1M2VRbzU2T0QxMDlSNzd0b0N5dTVRZ3FvZXl2blpoZ284bWhMM0pmcw?oc=5",
-     "fecha": "2026-11-07"
+     "titulo": "La nueva generación del Mitsubishi Outlander ha llegado oficialmente a Vietnam.",
+     "medio": "Vietnam.vn",
+     "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQc3VXeVNSWE9zZEx5ZG1CRGFWcXFUNVBaeVJMY2lVZDJVajNDWDlIR2VuOEVpeG1DYUlNTllqb1UzWnY0dUY4LUNyMzVQb19DUU1XTVhnX0d1eHl1cGxocW9CY2dBN1hzTllrTlRuLVlkNy1DTjI5NERpVXVnM1l1STdQMzJDaWFWNjNsWnh4Yw?oc=5",
+     "fecha": "2026-11-09"
     }
    ]
   },
@@ -53,7 +53,26 @@
    "titulo": "Breaking Bad",
    "tipo": "Serie",
    "alias": "breaking bad",
-   "noticias": []
+   "noticias": [
+    {
+     "titulo": "El spin-off de 'Anatomía de Grey' va directa a urgencias: su traslado a la tierra de 'Breaking Bad' no es buena señal",
+     "medio": "20 Minutos",
+     "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVkQ4aG54WEY3eElfUlpGc1VQM2ZrZHNpamJqcWowWGVVRFh6Qkx4dWJRU2hsbGxyQnhlMU54VGNuc0xoRXFRZ01SczViNjcyYUtVOHJpcG13bVo2UEFpWGlrb1BiU3NGYjAzTmJaU3p1SzFkWGgwZk1lSXk4R1lzdGFCUTlYUGdKVzVQZ3dtMWZsTklKQlowaFNYM3AtQTRtWXpvSDJUVTM5Zw?oc=5",
+     "fecha": "2026-11-19"
+    },
+    {
+     "titulo": "¡Breaking Bad regresa! Bryan Cranston y Aaron Paul se reúnen para un nuevo lanzamiento de la serie de TV",
+     "medio": "Revista Merca2.0",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTHBlbzAyLTdZakdkVm41eTZEbGJVb3FTTnlBbUVMbjhuLUZoVl9JVG9BSl9ESGhoRTJ3SExEX2w1QWhzTG9rMzRJd1Exam4yRDRkeEtXTEtzQXpJMU1VUnpKVWFwZEcxcDZQQUNRLWNScFhkR2VMdDE0QU8wNVBZRFNPSmh1bjFsSy1DSzlvZkpuUzU3eGhZeUJKMWFscTI0VW1NZ3hHNFNBN28xa3JFTnozSUVtbF9sXzJYOE8wSFFSWTdxb1E?oc=5",
+     "fecha": "2026-11-17"
+    },
+    {
+     "titulo": "El actor Bob Odenkirk ('Call Me Saul', 'Breaking Bad') introduce a un ausente Oasis en el Salón de la Fama del Rock: “Una dosis de Viagra para el ego”",
+     "medio": "LOS40",
+     "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPRjlsekpNVTZXTXEyeF9DV1UzN3pTcmE0OV9YcnFUMVVBV3FUV2U0YkJUbEhUMjNpUEJ1d082WVB0Yl9sU2h0ZGdfemJPRUFuV2R4OFpPSlZvSTd2Tk5kam1mQkFvNFM2YkxvamxCYi1wa0ducE1kZWRsaTh5d3Vubmk5NDBGSU9RUzlxcFoyNVNLUzUzdWNjTl90Q2l5a1FzZUtEMlFCTGdyY196TDVhOEp3TlAzZFpGdEFpUUw5LWNBemxpQVVOdjA4ajVGR0h4REhCZ3BBLVFFMUhsYUcyOExBdXNmQ3M3UEEycV9OZVFfd05IVFJzTktTTTFuQUHSAZMCQVVfeXFMTlBwNi1QcGRmcUNTUHU3NXc5b2xIc3d3aG1qT2tRT05XdVJTVVJLQUNMakhRR2xuU0dNSGRiVFRJT0hxb0oxOTZVeUdCZ3VFT3BMMzhPUHVsdFFLQk8wV0tyTE1rRnNNTi1iVHRoUDZaLWQ4akpJdk1FdVQycDhCX1ZCanhLNkRkZ3RwNEF2dTVQUm9jUW1ONjB0aTdKNHdvb0JyWktvaGNZSkNVdmlobHQwRnVpd2UwSTNXLUtDUkphdE1SUVFuc2J0bG8xRlF6Q3p6X1g5RjBPM1JyMkszSmRKZVNPaUF1NnVZWkRac1hiSnRoc2gxMGRaZ0pBYnBoV3h2Q2xmLXZTSU1iUFdubC1lZzQ?oc=5",
+     "fecha": "2026-11-16"
+    }
+   ]
   },
   {
    "slug": "better-call-saul",
@@ -68,15 +87,15 @@
      "fecha": "2026-11-20"
     },
     {
-     "titulo": "Netflix: por qué la serie de Better Call Saul es mejor que Breaking Bad",
-     "medio": "El Intransigente",
-     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQdGcySWdDSFgtZ0w4NGpBY2x4UzBnUl9ta2dMQnBYeDBkaFVsc1l3cHhuWWhOV25TLUpkcVdILUFzQzd3TG1FdHpWSzJCWlZMQk5ReDV0bU1wZmFmblFYbmdaakJnRWgtTUdqUnEwbWVwVGh4Mm0xd0ZWOEJBNy02T25fWkNnOU9vMmtOdGpoc3l5NHVzOHRj?oc=5",
-     "fecha": "2026-11-13"
-    },
-    {
      "titulo": "Música en serie: Better Call Saul",
      "medio": "Culturamas",
      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9QZlBSeTZRUG8xMnJVSmNWYmJjRWl3eEZMb3oyS0xCNnBjbkpFLTBBNzBDaERaeWhYMFhJYUVXSTNSYlcybzV3U2h3cDR5YmM2UTJMQldLc29rZm5Gb2NYaVBVOFVvZHJFNjZjWE1DbG4yQTNQNVZfMEJ3?oc=5",
+     "fecha": "2026-11-10"
+    },
+    {
+     "titulo": "Rhea Seehorn, 54 años, actriz de ‘Better Call Saul’: “Me dijeron muchas veces que no era lo bastante guapa para ser la protagonista romántica ni lo ba",
+     "medio": "La Vanguardia",
+     "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQZGt1Y1NCZk1TN0swdU4teDNHYkJyYzJTTUs2d29uVEIycGFWa0xmYTdLSUJSV2Jtakx3aC1mWjBlZVZwTVdsU01ib1VJSUdhcDYybGEyc2tTVjQySXgyNHlPYmJzQ3ZlempIMXNPT01VZzVmaFBRN3BSMXphR0p5bTdKU2FSOXBrZVozQVVtMG5kcHFpRi1mQy1mUGg5ZFdsOXo0dlpjZ1VWX3JJNWNhbWNrZHZDeFFwNVhvdFJ6VklUOEZIZ0tGZXNlX3RxRFRQYUFVOExCUHQxSG1KV2RUbDhCdzdhZXN1LVlkVUtNaVhZYnRidDlrbHQzU1dZZGFyR21KTUVCeUvSAY4CQVVfeXFMT2VGOU9pRzdXb3pTSENXUUJTbl9lZmdxS0FyR0U4V3IybVpTeW10ZlZ2MlhyY2FScVJrUlFNa2F4NE53OXczT3pFbS14ZHR3X2FWSVc3bTNHUUhjMmRDb1NvQXlUYktkNjA5cXV0UzNCMzZlaTdNRjdzc3dodkpIcTA0S1Q0bjZfT3FqSnFkZlVpeTVkRTVoNnA1dXVrM2EtamxweGRBTV9rLXNrZjEtRnctLWlPTWFHYnU5dkJLQ1ozS3FrcmlVRjQxQlhPTFZIWXZPd0RoQUI1X0wxLXkteEhVU2F1NE1mWGpEc2w3X21KQ1ZBUkRhazZmajFzQ09aQU5yY3F4R0FtZzJSTXR3?oc=5",
      "fecha": "2026-11-10"
     }
    ]
@@ -138,7 +157,26 @@
    "titulo": "Outlander: Blood of My Blood",
    "tipo": "Serie",
    "alias": "blood of my blood",
-   "noticias": []
+   "noticias": [
+    {
+     "titulo": "Outlander: Blood Of My Blood's Sadhbh Malin Talks Jocasta's 'Beautiful And So Intimate' Moment With Murtagh In A Harrowing Episode 9",
+     "medio": "IMDb",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBZkU2VGoxaVZLcU83eFVsX0gwY09hal8yWWJKdVRCTWl3WkVwSWRqVnA4SDB1dkNPVlpJSmRmdWJUSmZwME5vZnlHUjVDWnY0YzFTTWZKVUU2YWdxaXhQOEE5Uzd5YWFkVlJrdENn?oc=5",
+     "fecha": "2026-11-21"
+    },
+    {
+     "titulo": "Outlander: Blood of My Blood Season 2 UK Premiere Interviews: Jamie Roy, Jeremy Irvine & Harriet Slater",
+     "medio": "IMDb",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhR3Fkb1I4bUg5V0IyVDU4QkVxSXptaDRIclpIVnVwLS1ERlRIaVdPRm9GWllXTlEzUE1BcWJQMTdnamZVME1vNVlNNzJRNDlORU82dmFybzRDWUdmM09tVVpUSW8tMjVO?oc=5",
+     "fecha": "2026-11-20"
+    },
+    {
+     "titulo": "Outlander: Blood of My Blood season 2 episode 9 recap and review: 'Another Man's Shadow'",
+     "medio": "IMDb",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JZHNfcTRNRWFNS2hqRTVqVE1SVHpjQ0FGbE42QU1rRTVzeTY4YXAwdTNUZUlGQ0cwN0VISERFazFleElCMzNpYzNQU1FWTS1GaW5mVVBmSllwTE5oVEFoSDd5Qml6ZC1r?oc=5",
+     "fecha": "2026-11-20"
+    }
+   ]
   },
   {
    "slug": "twisted-metal",
@@ -206,22 +244,22 @@
    "alias": "dragon ball super",
    "noticias": [
     {
+     "titulo": "Dragon Ball Super: Beerus estrena el episodio 2 con voces al español latino, y se confirma que hubo redoblaje para Mario Castañeda y José Luis Orozco",
+     "medio": "LEVELUP",
+     "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNYThMLUhzSmVKSWFCRlhpbG1Hd3JCU3M3M3kzQWg1OVFRY3Zmdzk3MGZGNjFnYXZtTGs3bmJ0RGV3WnZUQmtFNnhPeV9PS0hUZEFEX1FYMXYzdy13V1ZyZXltd1ByUWtPX1pIVkkzSm1aRFVQM05OS3NZbDVfT3NEdThDTWJfcVdQUDNNb2JUVTAyUVJrWjh0MkxnWllFZFNhZE5YNFFLN2FWdUs5cHpDV2s3X0dsQklaUkUydDNSLWlpSzJwQzM2bkZibGloalJKQzhUeFN4LTB3Q2p0QUVqQTlZY3NsMDdqak5UXzBhbnB0YVc4d0Yxa1JaTTNjdVI5RnN5WlNEN3djZC1XTUE?oc=5",
+     "fecha": "2026-11-19"
+    },
+    {
+     "titulo": "Dragon Ball Super: Beerus ya tiene doblaje en español en Crunchyroll",
+     "medio": "Nintenderos",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNejJkaGZDdmtNMkFQc0JCOHpzOHowMDZnbDEza1dxVVFsNXVrTzZzRlY0eFVJYzNEcUIzdEVkOXhVUGdtem9Ea1YtMEJJZXBTWXY5WWFmOUVEM254anpOZE5VdGtsRUVFbVhzanQ3MGF4ZGJSVWw3SXpYLV9YNGwxMjV3cVd1Q05lM1pRSkhUcEFUdFI4Zm9UT0R6YS1VVmxSUFZRbE9ZZw?oc=5",
+     "fecha": "2026-11-16"
+    },
+    {
      "titulo": "‘Dragon Ball Super: Beerus’ termina su primera saga con una derrota de Goku: el capítulo 6 sorprende con nuevas escenas",
      "medio": "Nación Flix",
      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaUZjcDFLbjNCM1Y2aklQODk4U2FBSUdlSkc5WVRlVkRRZEpkdmlETjctOU9MQmxsT0ZBWWM3bVk1LXBkNkZoLXQ0M2RzRk43M0lmM2VqSWZ3LTNKZnlQSDE4bDRqY3VmOTFFNzZ3WFZHNTNINk5kdWdkOEJKdDM4SFZjb3duNFFtS0tMNm9tS25jU0FUa1I2cm9aR2JjVGkwc2lrVWNSWWh6ME1ObmFxUTlqcGZXNHpKZUE0VGRQVDZxck9wLWNPZFBMY2plc2dHbUNKeXVocUdwWWdfSW5EaDNPTWo3dGNvdEN3TG9lTlBnbFp3Z2J1US1vcGt4TTg?oc=5",
      "fecha": "2026-11-15"
-    },
-    {
-     "titulo": "Crítica del capítulo 6 de Dragon Ball Super Beerus: la primera saga de la serie llega a su fin con la derrota de Goku",
-     "medio": "Hobbyconsolas",
-     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVExPUVNNcEtlZ1VlVDBLY2Y3U0lsc0ZRQkp4VUVHNXBwMmdaUTBEYWxZdTNhNUIyeTNWX1hjbWRiNWFTdkFmN083V0xoWXFlRzBVRm0zU09hSGpvY3g1U093emdFa0hBbm1wRkZTVmNSYmoyM2ZTWWYtX050MmJzLW9KUUVqR1dlbnJOWWFpZ1hlcjBtQ0oyanBGQkJKRTJZYTM5bGVaMUJuaFBoSmxvZVEtSWNXVHoycThFRTYwZUpnLVg1ZVUyNERpUU1kbm9OSTF2aWJCWlBTVlZtM08ySQ?oc=5",
-     "fecha": "2026-11-15"
-    },
-    {
-     "titulo": "El final de la batalla contra Bills: fecha de estreno, hora y link para ver el Episodio 6 de “Dragon Ball Super: Beerus”",
-     "medio": "El Comercio Perú",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdDVHbjctYU9zZVc3c29YVUMxcVRIM1NKWGFkQ0tFNlJuRFd1cFpFejl0R0d6R1lsUmZjOHVfdno1TS03dERFR2E3VFhDQlZVZ0g0STlhazNzVTRZY2JHNGpfNFcxNndWajBlaVpaOTNHeUdFdmFWeElSMVU2bmF4Z2R4WXpUc2NNTG1KaHR3MGJ5cnlxOHoxTG1LaHppWTNBNEp1NDM2VS1WQTUzWU4wU2xCUkNhZU8wc3YwQVVDWTE5bk9OQzlZQWJVT2FHTEd5aDdjai1HdWhmQWph?oc=5",
-     "fecha": "2026-11-14"
     }
    ]
   },
@@ -259,6 +297,12 @@
    "tipo": "Serie",
    "alias": "\\bsuccession\\b",
    "noticias": [
+    {
+     "titulo": "Kieran Culkin volverá a trabajar con el creador de Succession",
+     "medio": "The Hollywood Reporter",
+     "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYzc3NTBKeWs5RUs5ZFBzVWd2SmdKRkI5VkZPOVNIVUFfdTFxSldZVTVGOG44bDdTQ0RQcGVaOEkxb1hhSDBwVGpHb1RxTUtSODBSQUh4aVFQTHYtcGYzMVE2enJuM0RzelUtREUxWmEtVC0xMllDWGhFdm1Xd3BuWFFXZkJzVnktdW9XMjVsNGRwZFhpY2ZYbWJiUQ?oc=5",
+     "fecha": "2026-11-20"
+    },
     {
      "titulo": "Kieran Culkin vuelve a trabajar con el creador de Succession en este proyecto",
      "medio": "NewsDigitales",
@@ -390,7 +434,26 @@
    "tipo": "Serie",
    "alias": "blood of my blood",
    "oliver": true,
-   "noticias": []
+   "noticias": [
+    {
+     "titulo": "Outlander: Blood Of My Blood's Sadhbh Malin Talks Jocasta's 'Beautiful And So Intimate' Moment With Murtagh In A Harrowing Episode 9",
+     "medio": "IMDb",
+     "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBBZkU2VGoxaVZLcU83eFVsX0gwY09hal8yWWJKdVRCTWl3WkVwSWRqVnA4SDB1dkNPVlpJSmRmdWJUSmZwME5vZnlHUjVDWnY0YzFTTWZKVUU2YWdxaXhQOEE5Uzd5YWFkVlJrdENn?oc=5",
+     "fecha": "2026-11-21"
+    },
+    {
+     "titulo": "Outlander: Blood of My Blood Season 2 UK Premiere Interviews: Jamie Roy, Jeremy Irvine & Harriet Slater",
+     "medio": "IMDb",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBhR3Fkb1I4bUg5V0IyVDU4QkVxSXptaDRIclpIVnVwLS1ERlRIaVdPRm9GWllXTlEzUE1BcWJQMTdnamZVME1vNVlNNzJRNDlORU82dmFybzRDWUdmM09tVVpUSW8tMjVO?oc=5",
+     "fecha": "2026-11-20"
+    },
+    {
+     "titulo": "Outlander: Blood of My Blood season 2 episode 9 recap and review: 'Another Man's Shadow'",
+     "medio": "IMDb",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1JZHNfcTRNRWFNS2hqRTVqVE1SVHpjQ0FGbE42QU1rRTVzeTY4YXAwdTNUZUlGQ0cwN0VISERFazFleElCMzNpYzNQU1FWTS1GaW5mVVBmSllwTE5oVEFoSDd5Qml6ZC1r?oc=5",
+     "fecha": "2026-11-20"
+    }
+   ]
   },
   {
    "slug": "dragon-ball-super",
@@ -400,22 +463,22 @@
    "oliver": true,
    "noticias": [
     {
+     "titulo": "Dragon Ball Super: Beerus estrena el episodio 2 con voces al español latino, y se confirma que hubo redoblaje para Mario Castañeda y José Luis Orozco",
+     "medio": "LEVELUP",
+     "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNYThMLUhzSmVKSWFCRlhpbG1Hd3JCU3M3M3kzQWg1OVFRY3Zmdzk3MGZGNjFnYXZtTGs3bmJ0RGV3WnZUQmtFNnhPeV9PS0hUZEFEX1FYMXYzdy13V1ZyZXltd1ByUWtPX1pIVkkzSm1aRFVQM05OS3NZbDVfT3NEdThDTWJfcVdQUDNNb2JUVTAyUVJrWjh0MkxnWllFZFNhZE5YNFFLN2FWdUs5cHpDV2s3X0dsQklaUkUydDNSLWlpSzJwQzM2bkZibGloalJKQzhUeFN4LTB3Q2p0QUVqQTlZY3NsMDdqak5UXzBhbnB0YVc4d0Yxa1JaTTNjdVI5RnN5WlNEN3djZC1XTUE?oc=5",
+     "fecha": "2026-11-19"
+    },
+    {
+     "titulo": "Dragon Ball Super: Beerus ya tiene doblaje en español en Crunchyroll",
+     "medio": "Nintenderos",
+     "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNejJkaGZDdmtNMkFQc0JCOHpzOHowMDZnbDEza1dxVVFsNXVrTzZzRlY0eFVJYzNEcUIzdEVkOXhVUGdtem9Ea1YtMEJJZXBTWXY5WWFmOUVEM254anpOZE5VdGtsRUVFbVhzanQ3MGF4ZGJSVWw3SXpYLV9YNGwxMjV3cVd1Q05lM1pRSkhUcEFUdFI4Zm9UT0R6YS1VVmxSUFZRbE9ZZw?oc=5",
+     "fecha": "2026-11-16"
+    },
+    {
      "titulo": "‘Dragon Ball Super: Beerus’ termina su primera saga con una derrota de Goku: el capítulo 6 sorprende con nuevas escenas",
      "medio": "Nación Flix",
      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOaUZjcDFLbjNCM1Y2aklQODk4U2FBSUdlSkc5WVRlVkRRZEpkdmlETjctOU9MQmxsT0ZBWWM3bVk1LXBkNkZoLXQ0M2RzRk43M0lmM2VqSWZ3LTNKZnlQSDE4bDRqY3VmOTFFNzZ3WFZHNTNINk5kdWdkOEJKdDM4SFZjb3duNFFtS0tMNm9tS25jU0FUa1I2cm9aR2JjVGkwc2lrVWNSWWh6ME1ObmFxUTlqcGZXNHpKZUE0VGRQVDZxck9wLWNPZFBMY2plc2dHbUNKeXVocUdwWWdfSW5EaDNPTWo3dGNvdEN3TG9lTlBnbFp3Z2J1US1vcGt4TTg?oc=5",
      "fecha": "2026-11-15"
-    },
-    {
-     "titulo": "Crítica del capítulo 6 de Dragon Ball Super Beerus: la primera saga de la serie llega a su fin con la derrota de Goku",
-     "medio": "Hobbyconsolas",
-     "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQVExPUVNNcEtlZ1VlVDBLY2Y3U0lsc0ZRQkp4VUVHNXBwMmdaUTBEYWxZdTNhNUIyeTNWX1hjbWRiNWFTdkFmN083V0xoWXFlRzBVRm0zU09hSGpvY3g1U093emdFa0hBbm1wRkZTVmNSYmoyM2ZTWWYtX050MmJzLW9KUUVqR1dlbnJOWWFpZ1hlcjBtQ0oyanBGQkJKRTJZYTM5bGVaMUJuaFBoSmxvZVEtSWNXVHoycThFRTYwZUpnLVg1ZVUyNERpUU1kbm9OSTF2aWJCWlBTVlZtM08ySQ?oc=5",
-     "fecha": "2026-11-15"
-    },
-    {
-     "titulo": "El final de la batalla contra Bills: fecha de estreno, hora y link para ver el Episodio 6 de “Dragon Ball Super: Beerus”",
-     "medio": "El Comercio Perú",
-     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdDVHbjctYU9zZVc3c29YVUMxcVRIM1NKWGFkQ0tFNlJuRFd1cFpFejl0R0d6R1lsUmZjOHVfdno1TS03dERFR2E3VFhDQlZVZ0g0STlhazNzVTRZY2JHNGpfNFcxNndWajBlaVpaOTNHeUdFdmFWeElSMVU2bmF4Z2R4WXpUc2NNTG1KaHR3MGJ5cnlxOHoxTG1LaHppWTNBNEp1NDM2VS1WQTUzWU4wU2xCUkNhZU8wc3YwQVVDWTE5bk9OQzlZQWJVT2FHTEd5aDdjai1HdWhmQWph?oc=5",
-     "fecha": "2026-11-14"
     }
    ]
   },
