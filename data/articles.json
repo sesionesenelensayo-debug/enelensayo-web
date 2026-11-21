@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "WWE registra 'Gringo Anónimo' y 'Anónimo Gringo' para explotar legado de Los Perros del Mal",
+    "artista": "WWE",
+    "intro": "El 19 de noviembre de 2026 WWE presentó solicitudes de marca ante la Oficina de Patentes y Marcas de EE. UU. (USPTO) para los nombres “Gringo Anónimo” y “Anónimo Gringo”.",
+    "telegraph_url": "https://telegra.ph/WWE-registra-Gringo-Anónimo-y-Anónimo-Gringo-para-explotar-legado-de-Los-Perros-del-Mal-11-21",
+    "url": "https://enelensayomedia.com/notas/wwe-registra-gringo-anonimo-y-anonimo-gringo-para-explotar-legado-de-l-1121.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/wwe-registra-gringo-anonimo-y-anonimo-gringo-para-explotar-legado-de-l-1121.jpg",
+    "fecha": "2026-11-21T13:20:41.439061",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "La Chica Dorada: el ascenso internacional de Paulina Rubio",
     "artista": "La Chica Dorada",
     "intro": "En el video 'La Chica Dorada' del canal En el Ensayo Media se narra la trayectoria de Paulina Rubio…",
@@ -5878,19 +5892,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Hijo de Rey Misterio noquea a fan en Tijuana",
-    "artista": "Hijo de Rey Misterio",
-    "intro": "Trasciende un video en el que el luchador profesional conocido como El Hijo de Rey Misterio noquea a un aficionado que lo atacó durante una función de lucha libre en Tijuana.",
-    "telegraph_url": "https://telegra.ph/Hijo-de-Rey-Misterio-noquea-a-fan-en-Tijuana-11-09",
-    "url": "https://enelensayomedia.com/notas/hijo-de-rey-misterio-noquea-a-fan-en-tijuana-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/prensa/prensa_1150c8811d63.jpg",
-    "fecha": "2026-11-09T13:11:03.812110",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Luchas"
   }
 ]
