@@ -2,6 +2,23 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Los Ángeles Azules llenan el Auditorio Nacional con concierto sinfónico sold out",
+    "artista": "Los Ángeles Azules",
+    "intro": "Los Ángeles Azules llenaron el Auditorio Nacional con un concierto sinfónico sold out, reafirmando su vigencia en la escena musical mexicana.",
+    "telegraph_url": "https://telegra.ph/Los-Ángeles-Azules-llenan-el-Auditorio-Nacional-con-concierto-sinfónico-sold-out-11-21",
+    "url": "https://enelensayomedia.com/notas/los-angeles-azules-llenan-el-auditorio-nacional-con-concierto-sinfonic-1121.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/los-angeles-azules-llenan-el-auditorio-nacional-con-concierto-sinfonic-1121.jpg",
+    "fecha": "2026-11-21T13:43:38.607770",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos",
+    "fecha_original": "2026-11-21T10:03:40.064060",
+    "ultima_actualizacion": "2026-11-21T13:43:38.607770",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Mía Rubín confirma ruptura con Tarik Othón por diferencias profesionales",
     "artista": "Tarik Othón",
     "intro": "Mía Rubín confirmó el jueves 20 de noviembre de 2026 que había terminado su relación con Tarik Othón, atribuyendo la separación a las distintas trayectorias profesionales…",
@@ -214,20 +231,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Streaming"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Los Ángeles Azules llenan el Auditorio Nacional con concierto sinfónico sold out",
-    "artista": "Los Ángeles Azules",
-    "intro": "Los Ángeles Azules llenaron el Auditorio Nacional con un concierto sinfónico sold out, reafirmando su vigencia en la escena musical mexicana.",
-    "telegraph_url": "https://telegra.ph/Los-Ángeles-Azules-llenan-el-Auditorio-Nacional-con-concierto-sinfónico-sold-out-11-21",
-    "url": "https://enelensayomedia.com/notas/los-angeles-azules-llenan-el-auditorio-nacional-con-concierto-sinfonic-1121.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/los-angeles-azules-llenan-el-auditorio-nacional-con-concierto-sinfonic-1121.jpg",
-    "fecha": "2026-11-21T10:03:40.064060",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
   },
   {
     "opinion": false,
