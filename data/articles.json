@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Luis de Llano es arrestado por incumplir sentencia en caso con Sasha Sokol",
+    "artista": "Luis de Llano",
+    "intro": "Luis de Llano, productor de televisión y de Timbiriche, fue arrestado por un juzgado por incumplir su sentencia en el caso con Sasha Sokol, según reportes.",
+    "telegraph_url": "https://telegra.ph/Luis-de-Llano-es-arrestado-por-incumplir-sentencia-en-caso-con-Sasha-Sokol-11-21",
+    "url": "https://enelensayomedia.com/notas/luis-de-llano-es-arrestado-por-incumplir-sentencia-en-caso-con-sasha-s-1121.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/luis-de-llano-es-arrestado-por-incumplir-sentencia-en-caso-con-sasha-s-1121.jpg",
+    "fecha": "2026-11-21T14:15:11.357712",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Streamer paga para jugar GTA 6 y termina estafado con 500 dólares",
     "artista": "Desconocido",
     "intro": "Un streamer reveló que pagó 500 dólares a alguien para que jugara GTA 6 por él, con el fin de ponerse al día con otros streamers, y que terminó siendo estafado.",
@@ -5880,21 +5894,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Chisme"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Mark Wahlberg y Mel Gibson: 'Flight Risk' sale de HBO Max",
-    "artista": "Mark Wahlberg",
-    "intro": "El thriller ‘Flight Risk’, protagonizado por Mark Wahlberg y dirigido por Mel Gibson, tiene los días contados en la plataforma de streaming HBO Max.",
-    "telegraph_url": "https://telegra.ph/Mark-Wahlberg-y-Mel-Gibson-Flight-Risk-sale-de-HBO-Max-11-09",
-    "url": "https://enelensayomedia.com/notas/mark-wahlberg-y-mel-gibson-flight-risk-sale-de-hbo-max-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/mark-wahlberg-y-mel-gibson-flight-risk-sale-de-hbo-max-1109.jpg",
-    "fecha": "2026-11-09T14:22:10.338112",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-09T13:16:40.230775",
-    "actualizada": true
   }
 ]
