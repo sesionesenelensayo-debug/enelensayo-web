@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Edurne y David de Gea confirman su separación tras 16 años",
+    "artista": "Edurne",
+    "intro": "Se ha confirmado la ruptura de Edurne García Almagro y David de Gea, una relación que duró dieciséis años.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/edurne-y-david-de-gea-confirman-su-separacion-tras-16-anos-1121.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/edurne-y-david-de-gea-confirman-su-separacion-tras-16-anos-1121.jpg",
+    "fecha": "2026-11-21T09:06:34.370494",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Maná concierto en el Estadio GNP Seguros 2026: boletos y horarios",
     "artista": "Maná",
     "intro": "Maná tocará en el Estadio GNP Seguros de la Ciudad de México el 17 de diciembre de 2026, según reportes que citan a Ocesa.",
@@ -5885,19 +5899,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "La mercantilización de Frida Kahlo al descubierto en documental",
-    "artista": "Frida Kahlo",
-    "intro": "Un análisis profundo sobre la transformación de la pintora mexicana en un ícono global y marca comercial cobra relevancia actual a través del documental 'La mirada de Frida'.",
-    "telegraph_url": "https://telegra.ph/La-mercantilización-de-Frida-Kahlo-al-descubierto-en-documental-11-08",
-    "url": "https://enelensayomedia.com/notas/la-mercantilizacion-de-frida-kahlo-al-descubierto-en-documental-1108.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-mercantilizacion-de-frida-kahlo-al-descubierto-en-documental-1108.jpg",
-    "fecha": "2026-11-08T17:31:26.348615",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   }
 ]
