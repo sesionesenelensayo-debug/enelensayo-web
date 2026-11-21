@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Los videojuegos peor calificados según reportes en noviembre 2026",
+    "artista": "Metacritic",
+    "intro": "En el video publicado por el canal En el Ensayo Media, se analizan los videojuegos peor calificados por la crítica en el último año, según los datos de Metacritic.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/los-videojuegos-peor-calificados-segun-reportes-en-noviembre-2026-1121.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/los-videojuegos-peor-calificados-segun-reportes-en-noviembre-2026-1121.jpg",
+    "fecha": "2026-11-21T11:35:00.991575",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Videojuegos"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Outlander: Blood of My Blood cierra temporada 2 con muertes y tensiones",
     "artista": "Outlander: Blood of My Blood",
     "intro": "El episodio 9 de 'Outlander: Blood of My Blood', emitido el 20 de noviembre de 2026, cerró la segunda temporada con muertes y conflictos en Broch Tuarach.",
@@ -5876,19 +5891,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "opinion": true,
-    "tipo": "reportaje",
-    "titulo": "¿Es este el límite del nuevo DCU?",
-    "artista": "Clayface",
-    "intro": "¿Puede una cifra de taquilla menor disimular el estado actual del cine de superhéroes?",
-    "telegraph_url": "https://telegra.ph/Es-este-el-límite-del-nuevo-DCU-11-09",
-    "url": "https://enelensayomedia.com/notas/es-este-el-limite-del-nuevo-dcu-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/es-este-el-limite-del-nuevo-dcu-1109.jpg",
-    "fecha": "2026-11-09T11:18:07.187662",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU"
   }
 ]
