@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Mía Rubín confirma ruptura con Tarik Othón por diferencias profesionales",
+    "artista": "Tarik Othón",
+    "intro": "Mía Rubín confirmó el jueves 20 de noviembre de 2026 que había terminado su relación con Tarik Othón, atribuyendo la separación a las distintas trayectorias profesionales…",
+    "telegraph_url": "https://telegra.ph/Mía-Rubín-confirma-ruptura-con-Tarik-Othón-por-diferencias-profesionales-11-21",
+    "url": "https://enelensayomedia.com/notas/mia-rubin-confirma-ruptura-con-tarik-othon-por-diferencias-profesional-1121.html",
+    "imagen_url": "https://enelensayomedia.com/img/prensa/cara_c27ba253d8ae.jpg",
+    "fecha": "2026-11-21T09:22:50.147259",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "La eShop pone nueva fecha a The Wolf Among Us Remastered en Nintendo Switch",
     "artista": "The Wolf Among Us Remastered",
     "intro": "La Nintendo Switch eShop muestra el 29 de noviembre de 2026 como fecha de lanzamiento de The Wolf Among Us Remastered en Switch, según reportes que señalan un listado en la tienda digital.",
@@ -5881,21 +5895,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Lil Uzi Vert llega a Fortnite con su propia crew",
-    "artista": "Lil Uzi Vert",
-    "intro": "Epic Games ha confirmado la llegada de Lil Uzi Vert al universo de Fortnite con el desembarco de la «Lil Uzi Crew» en la isla.",
-    "telegraph_url": "https://telegra.ph/Lil-Uzi-Vert-llega-a-Fortnite-con-su-propia-crew-11-09",
-    "url": "https://enelensayomedia.com/notas/lil-uzi-vert-llega-a-fortnite-con-su-propia-crew-1108.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/lil-uzi-vert-llega-a-fortnite-con-su-propia-crew-1108.jpg",
-    "fecha": "2026-11-08T20:09:19.442073",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-11-08T18:41:16.120965",
-    "actualizada": true
   }
 ]
