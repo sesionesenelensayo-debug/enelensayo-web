@@ -1,4 +1,22 @@
 {
+ "Misterio": {
+  "shorts": [
+   {
+    "id": "GipvpFTXPLI",
+    "titulo": "Bruce Lee murió por edema cerebral: el misterio tras su fallecimiento",
+    "fecha": "2026-11-18",
+    "nota": "https://enelensayomedia.com/notas/bruce-lee-murio-por-edema-cerebral-el-misterio-tras-su-fallecimiento-1118.html"
+   }
+  ],
+  "longs": [
+   {
+    "id": "aI0bvePOlR8",
+    "titulo": "Pearl Jam: El caso de Manuel Blanco Romasanta, el primer asesino serial de España",
+    "fecha": "2026-11-20",
+    "nota": "https://enelensayomedia.com/notas/pearl-jam-el-caso-de-manuel-blanco-romasanta-el-primer-asesino-serial-1120.html"
+   }
+  ]
+ },
  "Reportaje": {
   "shorts": [
    {
@@ -278,17 +296,6 @@
     "nota": "https://enelensayomedia.com/notas/dcu-en-caos-comparan-gestion-de-dc-con-el-estandar-de-marvel-1113.html"
    }
   ]
- },
- "Misterio": {
-  "shorts": [
-   {
-    "id": "GipvpFTXPLI",
-    "titulo": "Bruce Lee murió por edema cerebral: el misterio tras su fallecimiento",
-    "fecha": "2026-11-18",
-    "nota": "https://enelensayomedia.com/notas/bruce-lee-murio-por-edema-cerebral-el-misterio-tras-su-fallecimiento-1118.html"
-   }
-  ],
-  "longs": []
  },
  "Chisme": {
   "shorts": [

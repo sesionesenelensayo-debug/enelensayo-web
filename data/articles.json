@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Pearl Jam: El caso de Manuel Blanco Romasanta, el primer asesino serial de España",
+    "artista": "Pearl Jam",
+    "intro": "En el video del canal En el Ensayo Media se aborda la historia de Manuel Blanco Romasanta, considerado el primer asesino en serie documentado en España.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/pearl-jam-el-caso-de-manuel-blanco-romasanta-el-primer-asesino-serial-1120.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/pearl-jam-el-caso-de-manuel-blanco-romasanta-el-primer-asesino-serial-1120.jpg",
+    "fecha": "2026-11-20T22:33:51.815307",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Misterio"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Christina Aguilera recibe críticas en sus conciertos en México por show corto y falta de conexi",
     "artista": "Christina Aguilera",
     "intro": "Presentaciones en CDMX y Guadalajara generaron polémica por duración y uso excesivo de pistas.",
@@ -5886,19 +5901,5 @@
     "categoria": "Chisme",
     "fecha_original": "2026-11-02T15:02:54.491082",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Dafne Keen revela que le ofrecieron drogas en su infancia",
-    "artista": "Actriz de Marvel",
-    "intro": "La actriz de Marvel confesó que enfrentó situaciones de riesgo en fiestas de Hollywood a temprana edad, según se informó.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/dafne-keen-revela-que-le-ofrecieron-drogas-en-su-infancia-1108.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/dafne-keen-revela-que-le-ofrecieron-drogas-en-su-infancia-1108.jpg",
-    "fecha": "2026-11-08T16:39:28.850643",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme internacional"
   }
 ]
