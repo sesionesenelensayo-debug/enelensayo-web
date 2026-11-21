@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20 16:22",
+ "actualizado": "2026-11-20 18:29",
  "eventos": [],
  "api": false,
  "ticketmaster": {
@@ -109,6 +109,12 @@
  ],
  "noticias": [
   {
+   "titulo": "La gira de Oasis de 2027 llegará a estadios de fútbol: entradas, recintos y fechas",
+   "fuente": "Goal.com",
+   "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNOWxjeVR0VzI2Qm4wVDlqT2hvU3VuYVZmdHpmaTdlR1cwTU51RXg2QzZEQ0RwQkhzU3JHS243dHppY05OVXhMdFN6TXNKQUVCd1YxRTkzeERqWG91Y0dTTzNrdE5Wd0pRdDRWcXBPNk5yZVh1X2RaZmhWeWNoaTJ5OFVUMFVjY3BNRXRyTEdFc3hmSm5nOGRkencxQkxZQk1ocEFwVWk2cXhDNEZJbHpQeVRabXpGd053TDlqMTZheFJPRWVPWmdKbEhlQnB6bVF3Umc?oc=5",
+   "fecha": "2026-11-20 09:58"
+  },
+  {
    "titulo": "Confirma Intocable gira Texicano Tour 2027; terminará en Monterrey",
    "fuente": "MVS Noticias",
    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNTNaWk5jUzdncFQ0VTRwU2t3SXF3QTZVNFJDUzBQZEhGUGRsdzJHb1EtQnBWaUJvYzl6czBlTzUyZHo3X2xwcW9rTnN5eUllNk9Dc0lXWjZLLU1QZDdLNTYtdGlOc2hHcDF2S0FKQXFYQVRycEtOZm15T0JSQTA0blFNNHI1aTk5Q3VrR0NhdjR6Sk96bmNqMHdhYzB5NFFwUG9yNnV6MkFHbVdGQXN0RU9NYmNxNWdKWS1iQklHZlc?oc=5",
@@ -169,28 +175,22 @@
    "fecha": "2026-11-13 18:52"
   },
   {
-   "titulo": "Rels B en CDMX 2027: precios confirmados y venta de boletos para \"FLAKK TOUR\"",
-   "fuente": "Ambito",
-   "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdVd1dFAwUWpWb2U4Z3g4RkhGQmx4ZHF5U01sMF91empNTDNQQnpnR21JaU1lcV9FRTRXS19YZ1l3X0JYX1ZNZ0poVHd4aDdxSGlxTnFtaTR3aG9UU3VPVGk3UG5MZzhwc2VCVUE4QTM2b0tvRmpGX1VmQVh3QW9pRFgtdjZfbHlVbVJQQ0VYcFNfLW52ZldGSTNsZjFWaXFUMUVfOTV6NVFEaURhR3RJ0gG0AUFVX3lxTFBHUE5UWGhfekduMWtqSk9Oam92UGNVLXgxaWQ5UU1XNmlDa2k2VHY4SkdRYmgxN0YzM1R0Zk1hRmpoOTdvREpPZ2NOdnpOR0NMTjNBUm9ZMjRQVmhhcnFjenNidm5WbVFHQ2owOTIxYWxGZWpJaDZJZlhmMFF1aU5ZYm9KV3FGVmh1Q0gzemQwLVRobW0yNUJhamFYLV95azFXdUFNZTlkSGNpcUZrekpORmpVLQ?oc=5",
-   "fecha": "2026-11-12 18:04"
-  },
-  {
-   "titulo": "Tame Impala regresa a México con el Deadbeat Tour",
-   "fuente": "Setlist.me",
-   "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1abWUzckNpX0tmNXE2MzR6bnowR21xWm11ZjBJbTg0cFV1bGdpUTRtcHRjekR5R1pVV0swQ0RrRHVxeTI4OS1nY09XZ2V2WWhSTG1HUnowRlozYS12R05tN0pXVXRRbGhE?oc=5",
-   "fecha": "2026-11-12 17:56"
-  },
-  {
    "titulo": "Karol G trae 460 millones de pesos a la Ciudad de México con tres noches en el GNP Seguros",
    "fuente": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPeTJrZlVZYllXdm1hSFBQOUdIYTJITzM3dHlJZS14dmN2WUxWLVRDYkw0cm1wTFVDZ2drRC1YUWZPd3AtODZJTXQzeUZPZVVyemVSM08xcmdDTVVUbDAwVHU5RHh5QmZHSWJwTkVhQTlPeWtsNzU5NjRaeFdvbnhMN3pKV19mSVVRMkdBQmZ1bUFBT0hSLXVmNm5xSUJDOFJxVWJVUTlmVVdpMXpjS1I2ajZhWGRUczBfUVpMVTR5OVN4aXZWQl8zOHZmM052d9IB6AFBVV95cUxQcC01LXo5bHBaOTIwZG81cTZCNGhVOHUwUWlMcDZpYzY0aG9QNGlKRTlCcDRwSWhJRE5jTXdzTnhWcVNMUElBOXlCWFB5TVZSTEtpaVB4STZGX3dEVlJ6MEV2WU1seE5xVjlCN192TU1VYUNpdHlMM0Mxa2o0TjhBUWs5cTdOQ0dncmEybjhLV2psUG9MakNzMFphQ3lsWUZRLWljU3JQejBobENpRWYxN3UxR3QxeVROWEZ5ZkZhU21YbzhUX3V1NzRfbFY3MEhFaVdIaW1DVGFla2RXTS1PNGlHdlhfaUxU?oc=5",
    "fecha": "2026-11-12 16:35"
   },
   {
-   "titulo": "¡Phoebe Bridgers regresa a México en 2027! Fecha y preventa",
-   "fuente": "LifeBoxset",
-   "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1HajhlRnlJSVFmQmRXSkNJRkJ1d1B3MDFHNWFsdTJzMEw2SnZWTTk3Qzd5S09vck1oZlFDb3d6MWVnRE4wVExHb3F5SF9wOWpPYXAxcjVvN0VNMTZDRzBrZWprQ1VaUQ?oc=5",
-   "fecha": "2026-11-12 16:08"
+   "titulo": "¿Cuánto cuestan los BOLETOS para el 'Flakk Tour 2027' de Rels B en México y dónde comprar? LINK",
+   "fuente": "Milenio",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVllYOFVKbzVlbFlHRmVYRmZ4aGk1NkVaOFR0Y3g3eTBIRVFsR0t3S3BZVElXSjQ5R1JYbWdPN3dTNkZvbnhKLTFKM3lRdmNhUXRrSE0tZjAxbjZMQ3M5djRjYTVUX3J4UkRrVEFqWmd3TlJ0cFdEcGVLLXByTlJNeGw1bkVRM2pHeTVWVHpSU2FMSF8xM3hsQWtFQzI2Z9IBngFBVV95cUxPQkVoWmdrbWVoODBHRlF1M2ZaYWdXYkZMaXlsckJkcm44TjVscGJ3eW9jS2t4M2haTEt4VEdBQko0cFIxUVVzRDR3dmg2RHR2ZC14NXFiWkN3d0pmMHRSby1KcGxGWC1LY3JCV3I3eWVMTVhDOXdoVHB6SGdiVDMxSEMtaXlGR3djWDh5Vzg2dDVJVUgxOUhGZW1VYmpkUQ?oc=5",
+   "fecha": "2026-11-12 08:00"
+  },
+  {
+   "titulo": "Tame Impala regresa a México en 2027 con cuatro conciertos del Deadbeat Tour",
+   "fuente": "Infobae",
+   "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQbXhsZHZqLXRQS2RWSWxmdjdYTUdWSjdKX0JXb19XREJ6TzVyTDkwX3ZFLVhpTUVIeXp2bnVfUVZaTE9jQTVkdHl5R0ktcGwzbnNMdF82NzMySWhMSTgzdmdxQTZfRlhzWTMzV2Jwb0hFNlBuM1pGTUplQzE3bElwN1hWYzZadkNEYjFoeGJqN1BUVER5SVBzcHlLc1N5aWpPYTFuQ0xzaW1nZUgzNmUxZ0xrdDFNTFB5X0Jr0gHWAUFVX3lxTFBHbDB5dThsMWFDWEkyNHRBM0J0SnlZWTh6UlhLQXQ0WHdjX1A1UEtzampUQ0FzTGd5b0loeGhsTExoTTJ4WjRDWUUtS0x4Wko5Qm52YzdGVWNoa1dIQkdIUlZQZ3lmUXZDVzRmak5EbVFvdFJfb3Z4cnNhTXRLVXFlSmdyUlFpSE93NUNiT2VUU1Q3S1o4S3U2ZDJQMzgtRFprYk1LY1otMktnVEVERllsUTRHUDNLMTBsQ09VOFVVSVRWWlhKckxZbHZ2UTk3OUFZdW5aQ0E?oc=5",
+   "fecha": "2026-11-12 08:00"
   }
  ]
 }
