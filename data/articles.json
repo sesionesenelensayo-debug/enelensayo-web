@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Cuarteto de Nos se presenta esta noche en Palacio de los Deportes",
+    "artista": "Cuarteto de Nos",
+    "intro": "El sábado 21 de noviembre de 2026, a las 20:00 horas, el Cuarteto de Nos se subestá en el Palacio de los Deportes de la Ciudad de México.",
+    "telegraph_url": "https://telegra.ph/Cuarteto-de-Nos-se-presenta-esta-noche-en-Palacio-de-los-Deportes-11-21",
+    "url": "https://enelensayomedia.com/notas/cuarteto-de-nos-se-presenta-esta-noche-en-palacio-de-los-deportes-1121.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/cuarteto-de-nos-se-presenta-esta-noche-en-palacio-de-los-deportes-1121.jpg",
+    "fecha": "2026-11-21T16:22:22.014619",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
     "tipo": "reportaje",
     "titulo": "Cartel del Coachella 2026: edad media, países y quiénes están en el top 100",
     "artista": "Coachella",
@@ -4708,22 +4722,6 @@
   },
   {
     "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Daniela Spalla anuncia concierto en el Teatro Metropólitan de la CDMX el 19 de febrero de 2027",
-    "artista": "Daniela Spalla",
-    "intro": "La cantante argentina presentará su nuevo álbum en un show que marcará el inicio de su gira internacional.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/daniela-spalla-anuncia-concierto-en-el-teatro-metropolitan-de-la-cdmx-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/daniela-spalla-anuncia-concierto-en-el-teatro-metropolitan-de-la-cdmx-1102.jpg",
-    "fecha": "2026-11-12T12:53:24.498129",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-02T12:09:40.229809",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Los Anillos de Poder: estreno de la tercera temporada y lo que se sabe",
     "artista": "Los Anillos de Poder",
@@ -5892,19 +5890,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Doblaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Buena Vista Social Club llega a México",
-    "artista": "Buena Vista Social Club",
-    "intro": "El proyecto musical cubano Buena Vista Social Club llega a México para presentarse en el Teatro de los Insurgentes. Se reporta que esta serie de presentaciones funciona como una carta de amor a Cuba.",
-    "telegraph_url": "https://telegra.ph/Buena-Vista-Social-Club-llega-a-México-11-09",
-    "url": "https://enelensayomedia.com/notas/buena-vista-social-club-llega-a-mexico-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/buena-vista-social-club-llega-a-mexico-1109.jpg",
-    "fecha": "2026-11-09T16:41:15.155656",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   }
 ]
