@@ -1,5 +1,19 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "Aaron Pierre y el futuro incierto de John Stewart en el DCU",
+    "artista": "Aaron Pierre",
+    "intro": "Aaron Pierre, actor que dio vida a John Stewart en la serie Lanterns de HBO, dejó claro que su carrera en el DCU se limita a dos proyectos…",
+    "telegraph_url": "https://telegra.ph/Aaron-Pierre-y-el-futuro-incierto-de-John-Stewart-en-el-DCU-11-21",
+    "url": "https://enelensayomedia.com/notas/aaron-pierre-y-el-futuro-incierto-de-john-stewart-en-el-dcu-1121.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/aaron-pierre-y-el-futuro-incierto-de-john-stewart-en-el-dcu-1121.jpg",
+    "fecha": "2026-11-21T10:31:27.315549",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Hechicero busca revancha ante Zack Sabre Jr. en Wrestle Kingdom 21",
@@ -5878,19 +5892,5 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-08T16:25:51.021428",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Centralia: del auge minero al pueblo fantasma bajo fuego eterno",
-    "artista": "el pueblo fantasma de Centralia",
-    "intro": "Una crónica que recorre la historia de Centralia, desde su fundación hasta la desaparición de sus últimos residentes, entre fuego subterráneo y leyendas.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/centralia-del-auge-minero-al-pueblo-fantasma-bajo-fuego-eterno-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/centralia-del-auge-minero-al-pueblo-fantasma-bajo-fuego-eterno-1109.jpg",
-    "fecha": "2026-11-09T08:41:05.238645",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror"
   }
 ]
