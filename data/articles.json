@@ -1,5 +1,19 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "Verónica Lodge en 'Afterlife with Archie': un personaje reescrito por una agenda",
+    "artista": "Afterlife with Archie",
+    "intro": "Disney+ anunció el 19 de noviembre de 2026 el reparto de 'Afterlife with Archie', una serie live-action basada en el cómic de 2013 de Roberto Aguirre-Sacasa y Francesco Francavilla.",
+    "telegraph_url": "https://telegra.ph/Verónica-Lodge-en-Afterlife-with-Archie-un-personaje-reescrito-por-una-agenda-11-21",
+    "url": "https://enelensayomedia.com/notas/veronica-lodge-en-afterlife-with-archie-un-personaje-reescrito-por-una-1121.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/veronica-lodge-en-afterlife-with-archie-un-personaje-reescrito-por-una-1121.jpg",
+    "fecha": "2026-11-21T11:15:09.263744",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Karina Torres llegará a Panamá en 2027",
@@ -5876,19 +5890,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Televisión"
-  },
-  {
-    "opinion": true,
-    "tipo": "reportaje",
-    "titulo": "Mito vs realidad: ¿Cristiano es mejor que Messi?",
-    "artista": "¿Cristiano es mejor que Messi?",
-    "intro": "El mito: Cristiano es mejor que Messi. La realidad: los títulos dicen otra cosa. Esta nota reúne los datos con sus fuentes.",
-    "telegraph_url": "https://telegra.ph/Mito-vs-realidad-Cristiano-es-mejor-que-Messi-11-09",
-    "url": "https://enelensayomedia.com/notas/mito-vs-realidad-cristiano-es-mejor-que-messi-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/mito-vs-realidad-cristiano-es-mejor-que-messi-1109.jpg",
-    "fecha": "2026-11-09T11:13:27.343304",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reportaje"
   }
 ]
