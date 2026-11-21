@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Carlos Segundo califica de 'simple mercadotecnia' la contratación de 'star talents' en el doblaje",
+    "artista": "Carlos Segundo",
+    "intro": "El actor de doblaje Carlos Segundo, conocido por ser la voz de Piccolo en Dragon Ball y de Severus Snape en Harry Potter…",
+    "telegraph_url": "https://telegra.ph/Carlos-Segundo-califica-de-simple-mercadotecnia-la-contratación-de-star-talents-en-el-doblaje-11-21",
+    "url": "https://enelensayomedia.com/notas/carlos-segundo-califica-de-simple-mercadotecnia-la-contratacion-de-sta-1121.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/carlos-segundo-califica-de-simple-mercadotecnia-la-contratacion-de-sta-1121.jpg",
+    "fecha": "2026-11-21T10:29:02.451105",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "IlloJuan borra GTA 6 por error ante medio millón de espectadores",
     "artista": "IlloJuan",
     "intro": "El 18 de noviembre, IlloJuan, el streamer español de Málaga, lanzó en vivo el estreno de GTA 6 a la medianoche española.",
@@ -5879,22 +5893,6 @@
     "views": 0,
     "categoria": "Cultura",
     "fecha_original": "2026-11-08T13:04:46.841552",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Super Mario Galaxy: La película llega a HBO Max",
-    "artista": "Super Mario Galaxy",
-    "intro": "HBO Max ha anunciado de manera oficial la fecha de estreno para Latinoamérica de ‘Super Mario Galaxy: La película’, uno de los grandes éxitos cinematográficos de este año.",
-    "telegraph_url": "https://telegra.ph/Super-Mario-Galaxy-La-película-llega-a-HBO-Max-11-07",
-    "url": "https://enelensayomedia.com/notas/super-mario-galaxy-la-pelicula-llega-a-hbo-max-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/super-mario-galaxy-la-pelicula-llega-a-hbo-max-1107.jpg",
-    "fecha": "2026-11-08T22:47:34.270256",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-07T13:19:05.516522",
     "actualizada": true
   }
 ]
