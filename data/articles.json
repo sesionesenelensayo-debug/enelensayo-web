@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Humberto Vélez llega a Lima para evento temático de Los Simpson",
+    "artista": "Humberto Vélez",
+    "intro": "La voz latina de Homero Simpson, Humberto Vélez, llega a Lima del 27 al 29 de noviembre para participar en un evento de cultura pop.",
+    "telegraph_url": "https://telegra.ph/Humberto-Vélez-llega-a-Lima-para-evento-temático-de-Los-Simpson-11-21",
+    "url": "https://enelensayomedia.com/notas/humberto-velez-llega-a-lima-para-evento-tematico-de-los-simpson-1120.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/humberto-velez-llega-a-lima-para-evento-tematico-de-los-simpson-1120.jpg",
+    "fecha": "2026-11-20T19:05:08.415194",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Doggy Style: el álbum que definió el hip hop de la costa",
     "artista": "Doggystyle",
     "intro": "El contenido destaca cómo el disco introdujo el G-F en el mainstream y marcó el inicio del reinado del hip hop de la costa oeste.",
@@ -5887,21 +5901,6 @@
     "views": 0,
     "categoria": "Luchas",
     "fecha_original": "2026-11-07T16:43:01.519522",
-    "actualizada": true
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "One Piece llega a Fortnite con skins y fechas de estreno",
-    "artista": "One Piece",
-    "intro": "Epic Games ha anunciado que el universo de One Piece se incorporará a Fortnite, incluyendo skins temáticas y la publicación de las fechas de lanzamiento del contenido.",
-    "telegraph_url": "https://telegra.ph/One-Piece-llega-a-Fortnite-con-skins-y-fechas-de-estreno-11-01",
-    "url": "https://enelensayomedia.com/notas/one-piece-llega-a-fortnite-con-skins-y-fechas-de-estreno-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/one-piece-llega-a-fortnite-con-skins-y-fechas-de-estreno-1101.jpg",
-    "fecha": "2026-11-08T13:05:42.990400",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-11-01T14:00:11.543167",
     "actualizada": true
   }
 ]
