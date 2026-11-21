@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Marvel muestra a Rosario Dawson en Spider-Man: Brand New Day",
+    "artista": "Spider-Man: Brand New Day",
+    "intro": "Marvel confirmó la presencia de Rosario Dawson en la próxima versión extendida de Spider-Man: Brand New Day, programada para el 4 de diciembre.",
+    "telegraph_url": "https://telegra.ph/Marvel-muestra-a-Rosario-Dawson-en-Spider-Man-Brand-New-Day-11-21",
+    "url": "https://enelensayomedia.com/notas/marvel-muestra-a-rosario-dawson-en-spider-man-brand-new-day-1121.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/marvel-muestra-a-rosario-dawson-en-spider-man-brand-new-day-1121.jpg",
+    "fecha": "2026-11-21T14:45:53.362792",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Luis de Llano es arrestado por incumplir sentencia en caso con Sasha Sokol",
     "artista": "Luis de Llano",
     "intro": "Luis de Llano, productor de televisión y de Timbiriche, fue arrestado por un juzgado por incumplir su sentencia en el caso con Sasha Sokol, según reportes.",
@@ -5879,20 +5893,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Kimberly Irene enfrenta luto y complicaciones financieras",
-    "artista": "Kimberly Irene",
-    "intro": "En este video del canal En el Ensayo Media se aborda la situación actual de la influencer Kimberly Irene, conocida como la más preciosa.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/kimberly-irene-enfrenta-luto-y-complicaciones-financieras-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/kimberly-irene-enfrenta-luto-y-complicaciones-financieras-1109.jpg",
-    "fecha": "2026-11-09T15:38:27.050837",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Chisme"
   }
 ]
