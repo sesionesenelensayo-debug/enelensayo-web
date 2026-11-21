@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Los Ángeles Azules llenan el Auditorio Nacional con concierto sinfónico sold out",
+    "artista": "Los Ángeles Azules",
+    "intro": "Los Ángeles Azules llenaron el Auditorio Nacional con un concierto sinfónico sold out, reafirmando su vigencia en la escena musical mexicana.",
+    "telegraph_url": "https://telegra.ph/Los-Ángeles-Azules-llenan-el-Auditorio-Nacional-con-concierto-sinfónico-sold-out-11-21",
+    "url": "https://enelensayomedia.com/notas/los-angeles-azules-llenan-el-auditorio-nacional-con-concierto-sinfonic-1121.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/los-angeles-azules-llenan-el-auditorio-nacional-con-concierto-sinfonic-1121.jpg",
+    "fecha": "2026-11-21T10:03:40.064060",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Fallece Sara García en 1980, la Abuelita de México que inmortalizó el chocolate",
     "artista": "Sara García: los últimos días de la Abuelita de México",
     "intro": "Sara García falleció el 21 de noviembre de 1980 en Ciudad de México a los 88 años.",
@@ -5884,19 +5898,5 @@
     "categoria": "Cine",
     "fecha_original": "2026-11-05T22:03:26.415732",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Detienen a Emanuel Noir, cantante de Ke Personajes, por agredir a un policía en Entre Ríos",
-    "artista": "Emanuel Noir",
-    "intro": "El cantante Emanuel Noir, voz principal del grupo Ke Personajes, fue detenido tras golpear a un agente policial en la provincia de Entre Ríos.",
-    "telegraph_url": "https://telegra.ph/Detienen-a-Emanuel-Noir-cantante-de-Ke-Personajes-por-agredir-a-un-policía-en-Entre-Ríos-11-09",
-    "url": "https://enelensayomedia.com/notas/detienen-a-emanuel-noir-cantante-de-ke-personajes-por-agredir-a-un-pol-1108.html",
-    "imagen_url": "https://enelensayomedia.com/img/prensa/cara_efc2a65d9571.jpg",
-    "fecha": "2026-11-08T22:20:21.041596",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   }
 ]
