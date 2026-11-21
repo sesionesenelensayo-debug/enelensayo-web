@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Julieta Venegas: 5 curiosidades de la artista más creativa",
+    "artista": "Julieta Venegas",
+    "intro": "Julieta Venegas escribió su parte en Lo Siento BB de Bad Bunny encerrada en casa usando pantuflas.",
+    "telegraph_url": "https://telegra.ph/Julieta-Venegas-5-curiosidades-de-la-artista-más-creativa-11-21",
+    "url": "https://enelensayomedia.com/notas/julieta-venegas-5-curiosidades-de-la-artista-mas-creativa-1120.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/julieta-venegas-5-curiosidades-de-la-artista-mas-creativa-1120.jpg",
+    "fecha": "2026-11-20T20:29:11.213032",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Humberto Vélez llega a Lima para evento temático de Los Simpson",
     "artista": "Humberto Vélez",
     "intro": "La voz latina de Homero Simpson, Humberto Vélez, llega a Lima del 27 al 29 de noviembre para participar en un evento de cultura pop.",
@@ -5886,21 +5900,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Rey Mysterio propone duelo México vs. USA en Survivor Series",
-    "artista": "Rey Mysterio",
-    "intro": "Rey Mysterio ha puesto sobre la mesa una propuesta directa para el evento Survivor Series: WarGames 2026.",
-    "telegraph_url": "https://telegra.ph/Rey-Mysterio-propone-duelo-México-vs-USA-en-Survivor-Series-11-07",
-    "url": "https://enelensayomedia.com/notas/rey-mysterio-propone-duelo-mexico-vs-usa-en-survivor-series-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/rey-mysterio-propone-duelo-mexico-vs-usa-en-survivor-series-1107.jpg",
-    "fecha": "2026-11-08T13:47:22.188515",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Luchas",
-    "fecha_original": "2026-11-07T16:43:01.519522",
-    "actualizada": true
   }
 ]
