@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Doggy Style: el álbum que definió el hip hop de la costa",
+    "artista": "Doggystyle",
+    "intro": "El contenido destaca cómo el disco introdujo el G-F en el mainstream y marcó el inicio del reinado del hip hop de la costa oeste.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/doggy-style-el-album-que-definio-el-hip-hop-de-la-costa-1120.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/doggy-style-el-album-que-definio-el-hip-hop-de-la-costa-1120.jpg",
+    "fecha": "2026-11-20T18:45:07.113668",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "GTA VI genera $1.8 mil mil millones y desata negocio para creadores",
     "artista": "Creadores de contenido",
     "intro": "GTA VI recaudó $1,840 millones en ventas antes del estreno, desatando un negocio millonario para creadores de contenido.",
@@ -11,7 +26,7 @@
     "fecha": "2026-11-20T18:32:27.333510",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Live Streaming"
+    "categoria": "Streaming"
   },
   {
     "opinion": false,
@@ -4440,21 +4455,6 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-10-31T09:33:41.980255",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Cartel Coachella 2027: datos de edad y origen de los 68 artistas",
-    "artista": "Coachella",
-    "intro": "En el video publicado por el canal En el Ensayo Media se anuncia la publicación del cartel del Coachella 2027, que reúne a 68 artistas.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/cartel-coachella-2027-datos-de-edad-y-origen-de-los-68-artistas-1111.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/cartel-coachella-2027-datos-de-edad-y-origen-de-los-68-artistas-1111.jpg",
-    "fecha": "2026-11-11T23:21:39.101123",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "opinion": false,
