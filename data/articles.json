@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Jennifer Lawrence clasifica su peor beso en pantalla: Chris Pratt",
+    "artista": "Jennifer Lawrence",
+    "intro": "En el programa de entrevistas emitido el jueves 19 de noviembre, Jennifer Lawrence ordenó sus besos en pantalla de mejor a peor, con la presencia de Josh Hutcherson.",
+    "telegraph_url": "https://telegra.ph/Jennifer-Lawrence-clasifica-su-peor-beso-en-pantalla-Chris-Pratt-11-21",
+    "url": "https://enelensayomedia.com/notas/jennifer-lawrence-clasifica-su-peor-beso-en-pantalla-chris-pratt-1121.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/jennifer-lawrence-clasifica-su-peor-beso-en-pantalla-chris-pratt-1121.jpg",
+    "fecha": "2026-11-21T09:18:28.354222",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Chris Tomlin lanza su cuarto álbum navideño 'Good News Of Great Joy'",
     "artista": "Chris Tomlin",
     "intro": "El cantante estadounidense publica un proyecto con 11 canciones, incluyendo temas nuevos y versiones de clásicos.",
@@ -5885,19 +5899,5 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-08T16:01:02.250585",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "¿El doblaje en riesgo? Javier Ibarreche y Macarena García responden",
-    "artista": "Javier Ibarreche y Macarena García – respuesta",
-    "intro": "El doblaje latino de la película animada 'Wildwood', producida por LAIKA Studios, desató una intensa ola de críticas en plataformas como TikTok, Instagram y X.",
-    "telegraph_url": "https://telegra.ph/El-doblaje-en-riesgo-Javier-Ibarreche-y-Macarena-García-responden-11-09",
-    "url": "https://enelensayomedia.com/notas/el-doblaje-en-riesgo-javier-ibarreche-y-macarena-garcia-responden-1108.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-doblaje-en-riesgo-javier-ibarreche-y-macarena-garcia-responden-1108.jpg",
-    "fecha": "2026-11-08T18:05:28.464480",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Doblaje"
   }
 ]
