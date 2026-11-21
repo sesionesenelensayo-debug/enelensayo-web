@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Mundial de Call of Duty: Mobile 2026 se disputa en CDMX con 16 equipos y 500 mil dólares en pre",
+    "artista": "Mundial de Call of Duty: Mobile 2026",
+    "intro": "Del 4 al 6 de diciembre, el evento en el Centro de las Artes Inmersivas reúne a las mejores escuadras internacionales.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/mundial-de-call-of-duty-mobile-2026-se-disputa-en-cdmx-con-16-equipos-1120.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/mundial-de-call-of-duty-mobile-2026-se-disputa-en-cdmx-con-16-equipos-1120.jpg",
+    "fecha": "2026-11-20T20:54:59.759702",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Dimash Qudaibergen abre el Dimensions Tour en el Palacio de los Deportes",
     "artista": "Dimash Qudaibergen",
     "intro": "Esta noche Dimash Qudaibergen presenta el primer concierto de su Dimensions Tour en el Palacio de los Deportes de la Ciudad de México.",
@@ -11,7 +25,7 @@
     "fecha": "2026-11-20T20:45:06.561609",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Reportaje"
+    "categoria": "Conciertos"
   },
   {
     "opinion": false,
@@ -5886,19 +5900,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "¿Lesslie Polinesia y Hermanastras? La polémica por star talents en Netflix",
-    "artista": "Lesslie Polinesia",
-    "intro": "Un tráiler promocional de Netflix desató críticas en redes sociales tras anunciar la participación de Lesslie Polinesia como parte del elenco de voces en español de la película «Hermanastras».",
-    "telegraph_url": "https://telegra.ph/Lesslie-Polinesia-y-Hermanastras-La-polémica-por-star-talents-en-Netflix-11-08",
-    "url": "https://enelensayomedia.com/notas/lesslie-polinesia-y-hermanastras-la-polemica-por-star-talents-en-netfl-1108.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/lesslie-polinesia-y-hermanastras-la-polemica-por-star-talents-en-netfl-1108.jpg",
-    "fecha": "2026-11-08T15:01:59.992039",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Doblaje"
   }
 ]
