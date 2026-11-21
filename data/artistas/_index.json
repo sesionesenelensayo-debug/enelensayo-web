@@ -1,5 +1,19 @@
 [
   {
+    "artista": "Edurne",
+    "slug": "edurne",
+    "imagen": "artistas_img/edurne.jpg",
+    "piezas": 1,
+    "updated": "2026-11-21 12:04"
+  },
+  {
+    "artista": "Paulina Rubio",
+    "slug": "paulina-rubio",
+    "imagen": "",
+    "piezas": 1,
+    "updated": "2026-11-21 12:04"
+  },
+  {
     "artista": "Pearl Jam",
     "slug": "pearl-jam",
     "imagen": "",
