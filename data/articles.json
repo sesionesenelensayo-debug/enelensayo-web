@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Hechicero busca revancha ante Zack Sabre Jr. en Wrestle Kingdom 21",
+    "artista": "Hechicero",
+    "intro": "El enmascarado mexicano Hechicero apunta al escenario más grande de Japón para saldar cuentas pendientes tras perder el Campeonato Mundial Completo del CMLL.",
+    "telegraph_url": "https://telegra.ph/Hechicero-busca-revancha-ante-Zack-Sabre-Jr-en-Wrestle-Kingdom-21-11-21",
+    "url": "https://enelensayomedia.com/notas/hechicero-busca-revancha-ante-zack-sabre-jr-en-wrestle-kingdom-21-1121.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/hechicero-busca-revancha-ante-zack-sabre-jr-en-wrestle-kingdom-21-1121.jpg",
+    "fecha": "2026-11-21T10:30:23.920971",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Carlos Segundo califica de 'simple mercadotecnia' la contratación de 'star talents' en el doblaje",
     "artista": "Carlos Segundo",
     "intro": "El actor de doblaje Carlos Segundo, conocido por ser la voz de Piccolo en Dragon Ball y de Severus Snape en Harry Potter…",
@@ -5878,21 +5892,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Fallece el artista plástico Arnaldo Coen a los 86 años",
-    "artista": "Arnaldo Coen",
-    "intro": "El 8 de noviembre de 2026 se reportó el fallecimiento del artista plástico mexicano Arnaldo Coen a los 86 años.",
-    "telegraph_url": "https://telegra.ph/Fallece-el-artista-plástico-Arnaldo-Coen-a-los-86-años-11-08",
-    "url": "https://enelensayomedia.com/notas/fallece-el-artista-plastico-arnaldo-coen-a-los-86-anos-1108.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-el-artista-plastico-arnaldo-coen-a-los-86-anos-1108.jpg",
-    "fecha": "2026-11-09T02:51:29.365417",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura",
-    "fecha_original": "2026-11-08T13:04:46.841552",
-    "actualizada": true
   }
 ]
