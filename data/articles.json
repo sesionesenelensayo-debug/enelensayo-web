@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Christina Aguilera recibe críticas en sus conciertos en México por show corto y falta de conexi",
+    "artista": "Christina Aguilera",
+    "intro": "Presentaciones en CDMX y Guadalajara generaron polémica por duración y uso excesivo de pistas.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/christina-aguilera-recibe-criticas-en-sus-conciertos-en-mexico-por-sho-1120.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/christina-aguilera-recibe-criticas-en-sus-conciertos-en-mexico-por-sho-1120.jpg",
+    "fecha": "2026-11-20T21:30:43.778911",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme internacional"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Mundial de Call of Duty: Mobile 2026 se disputa en CDMX con 16 equipos y 500 mil dólares en pre",
     "artista": "Mundial de Call of Duty: Mobile 2026",
     "intro": "Del 4 al 6 de diciembre, el evento en el Centro de las Artes Inmersivas reúne a las mejores escuadras internacionales.",
@@ -5886,19 +5900,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme internacional"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Lola Índigo e IlloJuan desmienten rumores",
-    "artista": "Lola Índigo",
-    "intro": "¿Cómo han respondido Lola Índigo e IlloJuan ante las especulaciones sobre su relación?",
-    "telegraph_url": "https://telegra.ph/Lola-Índigo-e-IlloJuan-desmienten-rumores-11-08",
-    "url": "https://enelensayomedia.com/notas/lola-indigo-e-illojuan-desmienten-rumores-1108.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/lola-indigo-e-illojuan-desmienten-rumores-1108.jpg",
-    "fecha": "2026-11-08T16:03:05.923249",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   }
 ]
