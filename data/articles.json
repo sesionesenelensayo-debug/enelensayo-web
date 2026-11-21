@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Outlander: Blood of My Blood cierra temporada 2 con muertes y tensiones",
+    "artista": "Outlander: Blood of My Blood",
+    "intro": "El episodio 9 de 'Outlander: Blood of My Blood', emitido el 20 de noviembre de 2026, cerró la segunda temporada con muertes y conflictos en Broch Tuarach.",
+    "telegraph_url": "https://telegra.ph/Outlander-Blood-of-My-Blood-cierra-temporada-2-con-muertes-y-tensiones-11-21",
+    "url": "https://enelensayomedia.com/notas/outlander-blood-of-my-blood-cierra-temporada-2-con-muertes-y-tensiones-1121.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/outlander-blood-of-my-blood-cierra-temporada-2-con-muertes-y-tensiones-1121.jpg",
+    "fecha": "2026-11-21T11:30:00.729134",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Televisión"
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "Afterlife with Archie: cambian a Verónica y la redacción pregunta para qué",
@@ -5876,19 +5890,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Marvel y DCU"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Calendario y episodios de la temporada 3 de The Rings of Power",
-    "artista": "The Rings of Power",
-    "intro": "Prime Video prepara el terreno para la tercera temporada de The Rings of Power, la superproducción de fantasía con la que busca desafiar el dominio de HBO en la televisión.",
-    "telegraph_url": "https://telegra.ph/Calendario-y-episodios-de-la-temporada-3-de-The-Rings-of-Power-11-09",
-    "url": "https://enelensayomedia.com/notas/calendario-y-episodios-de-la-temporada-3-de-the-rings-of-power-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/calendario-y-episodios-de-la-temporada-3-de-the-rings-of-power-1109.jpg",
-    "fecha": "2026-11-09T11:16:56.900150",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Televisión"
   }
 ]
