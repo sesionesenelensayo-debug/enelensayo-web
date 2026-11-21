@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "La Chica Dorada: el ascenso internacional de Paulina Rubio",
+    "artista": "La Chica Dorada",
+    "intro": "En el video 'La Chica Dorada' del canal En el Ensayo Media se narra la trayectoria de Paulina Rubio…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/la-chica-dorada-el-ascenso-internacional-de-paulina-rubio-1121.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-chica-dorada-el-ascenso-internacional-de-paulina-rubio-1121.jpg",
+    "fecha": "2026-11-21T13:01:07.121753",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Crunchyroll confirma redoblaje en 'Dragon Ball Super: Beerus' para episodio 2",
     "artista": "Dragon Ball Super: Beerus",
     "intro": "Crunchyroll confirmó el redoblaje de diálogos en el episodio 2 de 'Dragon Ball Super: Beerus', con nuevas grabaciones de Mario Castañeda y José Luis Orozco.",
@@ -11,7 +26,7 @@
     "fecha": "2026-11-21T13:00:50.378640",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Reportaje"
+    "categoria": "Doblaje"
   },
   {
     "opinion": false,
@@ -5877,19 +5892,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Luchas"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "¿Tomás Galván como la voz latina en 'Yo soy Rocky'?",
-    "artista": "Tomás Galván",
-    "intro": "El debate sobre la participación de figuras externas en el doblaje latinoamericano suma un nuevo capítulo con la incursión de Tomás Galván en la película 'Yo soy Rocky'.",
-    "telegraph_url": "https://telegra.ph/Tomás-Galván-como-la-voz-latina-en-Yo-soy-Rocky-11-09",
-    "url": "https://enelensayomedia.com/notas/tomas-galvan-como-la-voz-latina-en-yo-soy-rocky-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/tomas-galvan-como-la-voz-latina-en-yo-soy-rocky-1109.jpg",
-    "fecha": "2026-11-09T13:05:23.672728",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Doblaje"
   }
 ]

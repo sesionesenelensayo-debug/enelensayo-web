@@ -1,4 +1,64 @@
 {
+ "Biografía": {
+  "shorts": [
+   {
+    "id": "WIkv3Ay5Crg",
+    "titulo": "Roberto Parada: actor chileno cuya vida marcó la dictadura",
+    "fecha": "2026-11-20",
+    "nota": "https://enelensayomedia.com/notas/roberto-parada-actor-chileno-cuya-vida-marco-la-dictadura-1120.html"
+   },
+   {
+    "id": "kUo8h9dOk7c",
+    "titulo": "Schubert: el prodigio musical que dejó su obra en 31 años",
+    "fecha": "2026-11-19",
+    "nota": "https://enelensayomedia.com/notas/schubert-el-prodigio-musical-que-dejo-su-obra-en-31-anos-1119.html"
+   },
+   {
+    "id": "a5BDRrqxHCg",
+    "titulo": "En el Ensayo Media: la carrera y retiro de Avicii",
+    "fecha": "2026-11-11",
+    "nota": "https://enelensayomedia.com/notas/en-el-ensayo-media-la-carrera-y-retiro-de-avicii-1111.html"
+   },
+   {
+    "id": "5O5nBQ3RCOM",
+    "titulo": "En el Ensayo Media: las últimas horas de Chavela Vargas en Cuernavaca",
+    "fecha": "2026-11-11",
+    "nota": "https://enelensayomedia.com/notas/en-el-ensayo-media-las-ultimas-horas-de-chavela-vargas-en-cuernavaca-1111.html"
+   }
+  ],
+  "longs": [
+   {
+    "id": "MMcU-T0z-tg",
+    "titulo": "La Chica Dorada: el ascenso internacional de Paulina Rubio",
+    "fecha": "2026-11-21",
+    "nota": "https://enelensayomedia.com/notas/la-chica-dorada-el-ascenso-internacional-de-paulina-rubio-1121.html"
+   },
+   {
+    "id": "hmqizcysa48",
+    "titulo": "El enigma de la voz de George Michael: fama, identidad y legado musical",
+    "fecha": "2026-11-17",
+    "nota": "https://enelensayomedia.com/notas/el-enigma-de-la-voz-de-george-michael-fama-identidad-y-legado-musical-1117.html"
+   },
+   {
+    "id": "Sn1dHTURIR4",
+    "titulo": "El legado de Lucero: entre la estrella Venus y la artista mexicana",
+    "fecha": "2026-11-17",
+    "nota": "https://enelensayomedia.com/notas/el-legado-de-lucero-entre-la-estrella-venus-y-la-artista-mexicana-1117.html"
+   },
+   {
+    "id": "wjuXqxJMREc",
+    "titulo": "En el Ensayo Media revela la salud que forzó la salida de Phil Collins",
+    "fecha": "2026-11-12",
+    "nota": "https://enelensayomedia.com/notas/en-el-ensayo-media-revela-la-salud-que-forzo-la-salida-de-phil-collins-1112.html"
+   },
+   {
+    "id": "EGdBPCXaliI",
+    "titulo": "Daniel Bisogno: su vida, trayectoria y lucha contra la enfermedad",
+    "fecha": "2026-11-10",
+    "nota": "https://enelensayomedia.com/notas/daniel-bisogno-su-vida-trayectoria-y-lucha-contra-la-enfermedad-1110.html"
+   }
+  ]
+ },
  "Videojuegos": {
   "shorts": [
    {
@@ -215,60 +275,6 @@
     "titulo": "El origen y ascenso de Genesis: de estudiantes a 155 millones de álbumes vendidos",
     "fecha": "2026-11-13",
     "nota": "https://enelensayomedia.com/notas/el-origen-y-ascenso-de-genesis-de-estudiantes-a-155-millones-de-albume-1113.html"
-   }
-  ]
- },
- "Biografía": {
-  "shorts": [
-   {
-    "id": "WIkv3Ay5Crg",
-    "titulo": "Roberto Parada: actor chileno cuya vida marcó la dictadura",
-    "fecha": "2026-11-20",
-    "nota": "https://enelensayomedia.com/notas/roberto-parada-actor-chileno-cuya-vida-marco-la-dictadura-1120.html"
-   },
-   {
-    "id": "kUo8h9dOk7c",
-    "titulo": "Schubert: el prodigio musical que dejó su obra en 31 años",
-    "fecha": "2026-11-19",
-    "nota": "https://enelensayomedia.com/notas/schubert-el-prodigio-musical-que-dejo-su-obra-en-31-anos-1119.html"
-   },
-   {
-    "id": "a5BDRrqxHCg",
-    "titulo": "En el Ensayo Media: la carrera y retiro de Avicii",
-    "fecha": "2026-11-11",
-    "nota": "https://enelensayomedia.com/notas/en-el-ensayo-media-la-carrera-y-retiro-de-avicii-1111.html"
-   },
-   {
-    "id": "5O5nBQ3RCOM",
-    "titulo": "En el Ensayo Media: las últimas horas de Chavela Vargas en Cuernavaca",
-    "fecha": "2026-11-11",
-    "nota": "https://enelensayomedia.com/notas/en-el-ensayo-media-las-ultimas-horas-de-chavela-vargas-en-cuernavaca-1111.html"
-   }
-  ],
-  "longs": [
-   {
-    "id": "hmqizcysa48",
-    "titulo": "El enigma de la voz de George Michael: fama, identidad y legado musical",
-    "fecha": "2026-11-17",
-    "nota": "https://enelensayomedia.com/notas/el-enigma-de-la-voz-de-george-michael-fama-identidad-y-legado-musical-1117.html"
-   },
-   {
-    "id": "Sn1dHTURIR4",
-    "titulo": "El legado de Lucero: entre la estrella Venus y la artista mexicana",
-    "fecha": "2026-11-17",
-    "nota": "https://enelensayomedia.com/notas/el-legado-de-lucero-entre-la-estrella-venus-y-la-artista-mexicana-1117.html"
-   },
-   {
-    "id": "wjuXqxJMREc",
-    "titulo": "En el Ensayo Media revela la salud que forzó la salida de Phil Collins",
-    "fecha": "2026-11-12",
-    "nota": "https://enelensayomedia.com/notas/en-el-ensayo-media-revela-la-salud-que-forzo-la-salida-de-phil-collins-1112.html"
-   },
-   {
-    "id": "EGdBPCXaliI",
-    "titulo": "Daniel Bisogno: su vida, trayectoria y lucha contra la enfermedad",
-    "fecha": "2026-11-10",
-    "nota": "https://enelensayomedia.com/notas/daniel-bisogno-su-vida-trayectoria-y-lucha-contra-la-enfermedad-1110.html"
    }
   ]
  },
