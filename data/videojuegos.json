@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-20T18:47",
+ "actualizado": "2026-11-21T01:00",
  "peores": [
   {
    "titulo": "Code Violet",
@@ -101,17 +101,6 @@
    "imagen": "https://www.metacritic.com/a/img/catalog/provider/6/3/6-1-1251177-13.jpg"
   },
   {
-   "titulo": "Project Motor Racing",
-   "score": 58,
-   "resenas": 14,
-   "fecha": "2025-11-25",
-   "plataforma": "PlayStation 5",
-   "genero": "Auto Racing Sim",
-   "sentimiento": "Mixed or average",
-   "slug": "project-motor-racing",
-   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1764040218.jpg"
-  },
-  {
    "titulo": "Dark Scrolls",
    "score": 59,
    "resenas": 18,
@@ -132,6 +121,17 @@
    "sentimiento": "Mixed or average",
    "slug": "i-hate-this-place",
    "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1769618890.jpg"
+  },
+  {
+   "titulo": "R-Type Dimensions III",
+   "score": 61,
+   "resenas": 10,
+   "fecha": "2026-05-19",
+   "plataforma": "PlayStation 5",
+   "genero": "Horizontal Shoot-'Em-Up",
+   "sentimiento": "Mixed or average",
+   "slug": "r-type-dimensions-iii",
+   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1779335645.jpg"
   }
  ],
  "estrenos": [
