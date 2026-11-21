@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Chris Tomlin lanza su cuarto álbum navideño 'Good News Of Great Joy'",
+    "artista": "Chris Tomlin",
+    "intro": "El cantante estadounidense publica un proyecto con 11 canciones, incluyendo temas nuevos y versiones de clásicos.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/chris-tomlin-lanza-su-cuarto-album-navideno-good-news-of-great-joy-1121.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/chris-tomlin-lanza-su-cuarto-album-navideno-good-news-of-great-joy-1121.jpg",
+    "fecha": "2026-11-21T09:18:06.497902",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme internacional"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Edurne y David de Gea confirman su separación tras 16 años",
     "artista": "Edurne",
     "intro": "Se ha confirmado la ruptura de Edurne García Almagro y David de Gea, una relación que duró dieciséis años.",
@@ -5885,19 +5899,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Doblaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Ventas de los videojuegos de Spider‑Man se duplican tras el estreno de «Un nuevo día»",
-    "artista": "Spider-Man",
-    "intro": "¿Por qué el último estreno cinematográfico de Spider‑Man ha disparado las cifras de sus videojuegos?",
-    "telegraph_url": "https://telegra.ph/Ventas-de-los-videojuegos-de-SpiderMan-se-duplican-tras-el-estreno-de-Un-nuevo-día-11-08",
-    "url": "https://enelensayomedia.com/notas/ventas-de-los-videojuegos-de-spiderman-se-duplican-tras-el-estreno-de-1108.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/ventas-de-los-videojuegos-de-spiderman-se-duplican-tras-el-estreno-de-1108.jpg",
-    "fecha": "2026-11-08T17:53:55.669578",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos"
   }
 ]
