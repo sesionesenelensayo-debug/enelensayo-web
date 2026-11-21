@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "IlloJuan borra GTA 6 por error ante medio millón de espectadores",
+    "artista": "IlloJuan",
+    "intro": "El 18 de noviembre, IlloJuan, el streamer español de Málaga, lanzó en vivo el estreno de GTA 6 a la medianoche española.",
+    "telegraph_url": "https://telegra.ph/IlloJuan-borra-GTA-6-por-error-ante-medio-millón-de-espectadores-11-21",
+    "url": "https://enelensayomedia.com/notas/illojuan-borra-gta-6-por-error-ante-medio-millon-de-espectadores-1121.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/illojuan-borra-gta-6-por-error-ante-medio-millon-de-espectadores-1121.jpg",
+    "fecha": "2026-11-21T10:06:48.809163",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Live Streaming"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Los Ángeles Azules llenan el Auditorio Nacional con concierto sinfónico sold out",
     "artista": "Los Ángeles Azules",
     "intro": "Los Ángeles Azules llenaron el Auditorio Nacional con un concierto sinfónico sold out, reafirmando su vigencia en la escena musical mexicana.",
@@ -5881,22 +5895,6 @@
     "views": 0,
     "categoria": "Cine",
     "fecha_original": "2026-11-07T13:19:05.516522",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Diego Luna sorprende con Ceniza en la boca",
-    "artista": "Diego Luna",
-    "intro": "El actor y director Diego Luna sorprendió al público al aparecer de manera inesperada en la primera función de su película Ceniza en la boca en México.",
-    "telegraph_url": "https://telegra.ph/Diego-Luna-sorprende-con-Ceniza-en-la-boca-11-06",
-    "url": "https://enelensayomedia.com/notas/diego-luna-sorprende-con-ceniza-en-la-boca-1105.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/diego-luna-sorprende-con-ceniza-en-la-boca-1105.jpg",
-    "fecha": "2026-11-08T22:29:06.289172",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-05T22:03:26.415732",
     "actualizada": true
   }
 ]
