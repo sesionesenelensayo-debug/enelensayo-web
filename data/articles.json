@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Maná concierto en el Estadio GNP Seguros 2026: boletos y horarios",
+    "artista": "Maná",
+    "intro": "Maná tocará en el Estadio GNP Seguros de la Ciudad de México el 17 de diciembre de 2026, según reportes que citan a Ocesa.",
+    "telegraph_url": "https://telegra.ph/Maná-concierto-en-el-Estadio-GNP-Seguros-2026-boletos-y-horarios-11-21",
+    "url": "https://enelensayomedia.com/notas/mana-concierto-en-el-estadio-gnp-seguros-2026-boletos-y-horarios-1121.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/mana-concierto-en-el-estadio-gnp-seguros-2026-boletos-y-horarios-1121.jpg",
+    "fecha": "2026-11-21T08:32:02.630466",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Bruno Mars anuncia la muerte de su padre Peter Hernandez, a los 74 años",
     "artista": "Bruno Mars",
     "intro": "El jueves 19 de noviembre de 2026, Bruno Mars publicó en Instagram el fallecimiento de su padre, Peter Hernandez, a los 74 años.",
@@ -5885,21 +5899,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Sasha Sokol reaparece junto a Alejandro Soberón",
-    "artista": "Sasha Sokol",
-    "intro": "En medio de la polémica reciente en torno a la serie de Timbiriche, Sasha Sokol reapareció públicamente.",
-    "telegraph_url": "https://telegra.ph/Sasha-Sokol-reaparece-junto-a-Alejandro-Soberón-11-02",
-    "url": "https://enelensayomedia.com/notas/sasha-sokol-reaparece-junto-a-alejandro-soberon-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/sasha-sokol-reaparece-junto-a-alejandro-soberon-1102.jpg",
-    "fecha": "2026-11-08T17:08:31.915854",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-02T15:02:54.491082",
-    "actualizada": true
   }
 ]
