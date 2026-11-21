@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Karina Torres llegará a Panamá en 2027",
+    "artista": "Karina Torres",
+    "intro": "La creadora de contenido mexicana Karina Torres se presentará en vivo en Panamá el 16 de enero de 2027 a las 8:00 p. m.",
+    "telegraph_url": "https://telegra.ph/Karina-Torres-llegará-a-Panamá-en-2027-11-21",
+    "url": "https://enelensayomedia.com/notas/karina-torres-llegara-a-panama-en-2027-1121.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/karina-torres-llegara-a-panama-en-2027-1121.jpg",
+    "fecha": "2026-11-21T11:15:06.146020",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reality"
+  },
+  {
     "opinion": true,
     "tipo": "noticia",
     "titulo": "Intocable anuncia el Texicano Tour 2027: fechas, sedes y boletos",
@@ -5876,19 +5890,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reportaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "¡ElZeein la rompe! Es el streamer que más crece en Kick",
-    "artista": "ElZeein",
-    "intro": "¡Una locura total en el streaming! ElZeein se corona como el rey indiscutible del crecimiento en Kick tras sumar nada menos que 5 mil 447 seguidores nuevos.",
-    "telegraph_url": "https://telegra.ph/ElZeein-la-rompe-Es-el-streamer-que-más-crece-en-Kick-11-09",
-    "url": "https://enelensayomedia.com/notas/elzeein-la-rompe-es-el-streamer-que-mas-crece-en-kick-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/elzeein-la-rompe-es-el-streamer-que-mas-crece-en-kick-1109.jpg",
-    "fecha": "2026-11-09T11:04:13.730580",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Streaming"
   }
 ]
