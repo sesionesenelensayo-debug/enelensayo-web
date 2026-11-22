@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Kiana James abandona WWE SmackDown y revela polémico personaje 'Una Percento' en AAA",
+    "artista": "Kiana James",
+    "intro": "El 21 de noviembre de 2026, durante la transmisión de AAA por FOX, se presentó una viñeta anunciando el regreso de Kiana James con un nuevo personaje llamado 'Una Percento'…",
+    "telegraph_url": "https://telegra.ph/Kiana-James-abandona-WWE-SmackDown-y-revela-polémico-personaje-Una-Percento-en-AAA-11-22",
+    "url": "https://enelensayomedia.com/notas/kiana-james-abandona-wwe-smackdown-y-revela-polemico-personaje-una-per-1122.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/kiana-james-abandona-wwe-smackdown-y-revela-polemico-personaje-una-per-1122.jpg",
+    "fecha": "2026-11-22T16:56:51.847172",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Rumor: Hayley Atwell dice que el tráiler de ‘Avengers: Doomsday’ saldrá el lunes 23",
     "artista": "Avengers: Doomsday",
     "intro": "La actriz Hayley Atwell, conocida por su papel de Peggy Carter, dejó entrever que un nuevo tráiler de \"Avengers: Doomsday\" podría publicarse este lunes 23 de noviembre.",
@@ -5861,20 +5875,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Worlds 2026: Definición de la Fase Suiza en Texas",
-    "artista": "Worlds 2026 Swiss Stage Round 5",
-    "intro": "El torneo internacional de League of Legends se desarrolla en Texas con enfrentamientos clave en formato suizo.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/worlds-2026-definicion-de-la-fase-suiza-en-texas-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/worlds-2026-definicion-de-la-fase-suiza-en-texas-1101.jpg",
-    "fecha": "2026-11-10T18:10:05.898300",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Esports",
-    "fecha_original": "2026-11-01T17:29:55.089363",
-    "actualizada": true
   }
 ]
