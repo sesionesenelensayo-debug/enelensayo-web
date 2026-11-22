@@ -1,59 +1,29 @@
 {
- "Reportaje": {
+ "Datos curiosos": {
   "shorts": [
    {
     "id": "z8VceO_oIZs",
-    "titulo": "Apple Records vende 855,000 copias de Anthology 1 en su primera semana en EE. UU.",
+    "titulo": "5 curiosidades de The Beatles",
     "fecha": "2026-11-21",
-    "nota": "https://enelensayomedia.com/notas/apple-records-vende-855-000-copias-de-anthology-1-en-su-primera-semana-1121.html"
+    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-the-beatles-1121.html"
    },
    {
-    "id": "n-AvDpgsOQQ",
-    "titulo": "Luis de Llano es arrestado por incumplir sentencia en caso con Sasha Sokol",
-    "fecha": "2026-11-21",
-    "nota": "https://enelensayomedia.com/notas/luis-de-llano-es-arrestado-por-incumplir-sentencia-en-caso-con-sasha-s-1121.html"
+    "id": "PPkLjwp1VWU",
+    "titulo": "5 curiosidades de Pearl Jam",
+    "fecha": "2026-11-15",
+    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-pearl-jam-1115.html"
    },
    {
-    "id": "fkD6JBW3H3U",
-    "titulo": "Julieta Venegas: 5 curiosidades de la artista más creativa",
-    "fecha": "2026-11-20",
-    "nota": "https://enelensayomedia.com/notas/julieta-venegas-5-curiosidades-de-la-artista-mas-creativa-1120.html"
+    "id": "H12UPdqfPYc",
+    "titulo": "5 curiosidades de Pink Floyd",
+    "fecha": "2026-11-12",
+    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-pink-floyd-1112.html"
    },
    {
-    "id": "6Szc8hXmorc",
-    "titulo": "Will Smith enfrenta demanda por presunta agresión sexual",
-    "fecha": "2026-11-19",
-    "nota": "https://enelensayomedia.com/notas/will-smith-enfrenta-demanda-por-presunta-agresion-sexual-1119.html"
-   },
-   {
-    "id": "17ronMN5wv4",
-    "titulo": "Pity Álvarez estrena 'Te entiendo' con Leiva y revela su origen emocional",
-    "fecha": "2026-11-18",
-    "nota": "https://enelensayomedia.com/notas/pity-alvarez-estrena-te-entiendo-con-leiva-y-revela-su-origen-emociona-1118.html"
-   },
-   {
-    "id": "GBJkBhyZHs0",
-    "titulo": "Claude Monet, recordado a 186 años de su nacimiento",
-    "fecha": "2026-11-14",
-    "nota": "https://enelensayomedia.com/notas/claude-monet-recordado-a-186-anos-de-su-nacimiento-1114.html"
-   },
-   {
-    "id": "0s1BaJ8O-qk",
-    "titulo": "Las curiosidades y la trayectoria de Joan Sebastian",
-    "fecha": "2026-11-13",
-    "nota": "https://enelensayomedia.com/notas/las-curiosidades-y-la-trayectoria-de-joan-sebastian-1113.html"
-   },
-   {
-    "id": "jM2TW4L24GQ",
-    "titulo": "Konami elimina a Mbappé de eFootball en China por controversia diplomática",
-    "fecha": "2026-11-13",
-    "nota": "https://enelensayomedia.com/notas/konami-elimina-a-mbappe-de-efootball-en-china-por-controversia-diploma-1113.html"
-   },
-   {
-    "id": "q9pUI-MGsjE",
-    "titulo": "Chiquito de la Calzada: el humorista que transformó el habla",
-    "fecha": "2026-11-11",
-    "nota": "https://enelensayomedia.com/notas/chiquito-de-la-calzada-el-humorista-que-transformo-el-habla-1111.html"
+    "id": "j48ESWt3Nyk",
+    "titulo": "5 curiosidades de Santana",
+    "fecha": "2026-11-10",
+    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-santana-1110.html"
    }
   ],
   "longs": []
@@ -171,6 +141,59 @@
     "nota": "https://enelensayomedia.com/notas/el-origen-y-ascenso-de-genesis-de-estudiantes-a-155-millones-de-albume-1113.html"
    }
   ]
+ },
+ "Reportaje": {
+  "shorts": [
+   {
+    "id": "n-AvDpgsOQQ",
+    "titulo": "Luis de Llano es arrestado por incumplir sentencia en caso con Sasha Sokol",
+    "fecha": "2026-11-21",
+    "nota": "https://enelensayomedia.com/notas/luis-de-llano-es-arrestado-por-incumplir-sentencia-en-caso-con-sasha-s-1121.html"
+   },
+   {
+    "id": "fkD6JBW3H3U",
+    "titulo": "Julieta Venegas: 5 curiosidades de la artista más creativa",
+    "fecha": "2026-11-20",
+    "nota": "https://enelensayomedia.com/notas/julieta-venegas-5-curiosidades-de-la-artista-mas-creativa-1120.html"
+   },
+   {
+    "id": "6Szc8hXmorc",
+    "titulo": "Will Smith enfrenta demanda por presunta agresión sexual",
+    "fecha": "2026-11-19",
+    "nota": "https://enelensayomedia.com/notas/will-smith-enfrenta-demanda-por-presunta-agresion-sexual-1119.html"
+   },
+   {
+    "id": "17ronMN5wv4",
+    "titulo": "Pity Álvarez estrena 'Te entiendo' con Leiva y revela su origen emocional",
+    "fecha": "2026-11-18",
+    "nota": "https://enelensayomedia.com/notas/pity-alvarez-estrena-te-entiendo-con-leiva-y-revela-su-origen-emociona-1118.html"
+   },
+   {
+    "id": "GBJkBhyZHs0",
+    "titulo": "Claude Monet, recordado a 186 años de su nacimiento",
+    "fecha": "2026-11-14",
+    "nota": "https://enelensayomedia.com/notas/claude-monet-recordado-a-186-anos-de-su-nacimiento-1114.html"
+   },
+   {
+    "id": "0s1BaJ8O-qk",
+    "titulo": "Las curiosidades y la trayectoria de Joan Sebastian",
+    "fecha": "2026-11-13",
+    "nota": "https://enelensayomedia.com/notas/las-curiosidades-y-la-trayectoria-de-joan-sebastian-1113.html"
+   },
+   {
+    "id": "jM2TW4L24GQ",
+    "titulo": "Konami elimina a Mbappé de eFootball en China por controversia diplomática",
+    "fecha": "2026-11-13",
+    "nota": "https://enelensayomedia.com/notas/konami-elimina-a-mbappe-de-efootball-en-china-por-controversia-diploma-1113.html"
+   },
+   {
+    "id": "q9pUI-MGsjE",
+    "titulo": "Chiquito de la Calzada: el humorista que transformó el habla",
+    "fecha": "2026-11-11",
+    "nota": "https://enelensayomedia.com/notas/chiquito-de-la-calzada-el-humorista-que-transformo-el-habla-1111.html"
+   }
+  ],
+  "longs": []
  },
  "Cine": {
   "shorts": [
@@ -373,29 +396,6 @@
     "nota": "https://enelensayomedia.com/notas/el-escandalo-de-las-lavanderas-verdad-traicion-y-disputas-1110.html"
    }
   ]
- },
- "Datos curiosos": {
-  "shorts": [
-   {
-    "id": "PPkLjwp1VWU",
-    "titulo": "5 curiosidades de Pearl Jam",
-    "fecha": "2026-11-15",
-    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-pearl-jam-1115.html"
-   },
-   {
-    "id": "H12UPdqfPYc",
-    "titulo": "5 curiosidades de Pink Floyd",
-    "fecha": "2026-11-12",
-    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-pink-floyd-1112.html"
-   },
-   {
-    "id": "j48ESWt3Nyk",
-    "titulo": "5 curiosidades de Santana",
-    "fecha": "2026-11-10",
-    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-santana-1110.html"
-   }
-  ],
-  "longs": []
  },
  "Pintores": {
   "shorts": [

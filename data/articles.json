@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "5 curiosidades de The Beatles",
+    "artista": "The Beatles",
+    "intro": "El canal En el Ensayo Media presenta un video de menor duración donde se enumeran cinco curiosidades relacionadas con The Beatles, abordando hechos históricos, datos de ventas…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-the-beatles-1121.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-the-beatles-1121.jpg",
+    "fecha": "2026-11-21T21:52:19.038195",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Datos curiosos"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Apple Records vende 855,000 copias de Anthology 1 en su primera semana en EE. UU.",
     "artista": "The Beatles",
     "intro": "El lanzamiento de Anthology 1 sigue marcando récords: Apple Records vendió 855,000 copias en su primera semana en Estados Unidos…",
@@ -5871,19 +5886,5 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-09T12:12:15.368641",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Ninel Conde reaparece con nuevo look",
-    "artista": "Ninel Conde",
-    "intro": "Ninel Conde ha reaparecido públicamente mostrando una nueva imagen que ha capturado la atención general.",
-    "telegraph_url": "https://telegra.ph/Ninel-Conde-reaparece-con-nuevo-look-11-10",
-    "url": "https://enelensayomedia.com/notas/ninel-conde-reaparece-con-nuevo-look-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/ninel-conde-reaparece-con-nuevo-look-1109.jpg",
-    "fecha": "2026-11-09T21:11:40.206673",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   }
 ]
