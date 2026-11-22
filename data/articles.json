@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Reencuentro emotivo de Brianda, Masad, Ximena y Janet tras el reality",
+    "artista": "La Casa de los Famosos México",
+    "intro": "Brianda, Masad Altamimi, Ximena Herrera y Janet García tuvieron un emotivo reencuentro tras La Casa de Los Famosos México…",
+    "telegraph_url": "https://telegra.ph/Reencuentro-emotivo-de-Brianda-Masad-Ximena-y-Janet-tras-el-reality-11-22",
+    "url": "https://enelensayomedia.com/notas/reencuentro-emotivo-de-brianda-masad-ximena-y-janet-tras-el-reality-1122.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/reencuentro-emotivo-de-brianda-masad-ximena-y-janet-tras-el-reality-1122.jpg",
+    "fecha": "2026-11-22T11:05:27.281009",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reality"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Marvel señala a Steve Rogers, Thor, Hulk y Sue Storm por Doctor Doom en 'Doomsday'",
     "artista": "Doctor Doom",
     "intro": "El 19 de noviembre de 2026, Marvel Studios para Latinoamérica publicó un tuit que identificó a Steve Rogers, Thor…",
@@ -5867,22 +5881,6 @@
     "views": 0,
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-10T08:50:12.764264",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Xipto Esports incursiona en Dota 2 con un roster estelar",
-    "artista": "Xipto Esports",
-    "intro": "La organización de Singapur consolida su presencia en el circuito competitivo de Dota 2 tras fichar a experimentados jugadores de la región.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/xipto-esports-incursiona-en-dota-2-con-un-roster-estelar-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/xipto-esports-incursiona-en-dota-2-con-un-roster-estelar-1107.jpg",
-    "fecha": "2026-11-10T08:33:47.948336",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-11-07T17:18:06.029890",
     "actualizada": true
   }
 ]
