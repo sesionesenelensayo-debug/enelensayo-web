@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "La enfermera que salvó a Frusciante y redefinió a RHCP",
+    "artista": "Red Hot Chili Peppers",
+    "intro": "El video 'Lo que nadie cuenta de Red Hot Chili Peppers: la enfermera que salvaría a Frusciante' del canal En el Ensayo Media explora cómo la adicción de John Frusciante casi lo destruyó…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/la-enfermera-que-salvo-a-frusciante-y-redefinio-a-rhcp-1122.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-enfermera-que-salvo-a-frusciante-y-redefinio-a-rhcp-1122.jpg",
+    "fecha": "2026-11-22T12:26:02.067903",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Michael Hutchens: la trágica muerte de un ídolo",
     "artista": "Michael Hutchence",
     "intro": "En el video publicado por el canal En el Ensayo Media se narra la muerte del cantante australiano Michael Hutchens, cofundador de la banda INXS, quien falleció en 1997 en Sydney a los 37 años.",
@@ -4713,20 +4728,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Datos curiosos"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Pink Floyd publica 'Another Brick in the Wall, Part 2' en 1979",
-    "artista": "Pink Floyd",
-    "intro": "El 12 de noviembre de 1979 Pink Floyd lanzó 'Another Brick in the Wall, Part 2', canción que alcanzó el número uno en las listas del Reino Unido y Estados Unidos.",
-    "telegraph_url": "https://telegra.ph/Pink-Floyd-publica-Another-Brick-in-the-Wall-Part-2-en-1979-11-13",
-    "url": "https://enelensayomedia.com/notas/pink-floyd-publica-another-brick-in-the-wall-part-2-en-1979-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/pink-floyd-publica-another-brick-in-the-wall-part-2-en-1979-1112.jpg",
-    "fecha": "2026-11-12T20:17:39.783122",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   },
   {
     "opinion": true,
