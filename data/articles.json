@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Maquia: Una historia de amor eterno llega a YouTube con doblaje latino",
+    "artista": "Maquia",
+    "intro": "La película animada 'Maquia: Una historia de amor eterno' se estrenó oficialmente el 18 de noviembre de 2026 en el canal de YouTube Cine de Emoción.",
+    "telegraph_url": "https://telegra.ph/Maquia-Una-historia-de-amor-eterno-llega-a-YouTube-con-doblaje-latino-11-22",
+    "url": "https://enelensayomedia.com/notas/maquia-una-historia-de-amor-eterno-llega-a-youtube-con-doblaje-latino-1122.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/maquia-una-historia-de-amor-eterno-llega-a-youtube-con-doblaje-latino-1122.jpg",
+    "fecha": "2026-11-22T15:20:06.760928",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Kevin Feige anuncia transformación de Vengadores para 2027",
     "artista": "Avengers: Doomsday",
@@ -5866,20 +5880,5 @@
     "categoria": "Cultura",
     "fecha_original": "2026-11-10T15:24:30.878329",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "El escándalo de Las Lavanderas: verdad, traición y disputas",
-    "artista": "Las Lavanderas",
-    "intro": "En este video del canal En el Ensayo Media se aborda la historia del escándalo de Las Lavanderas…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-escandalo-de-las-lavanderas-verdad-traicion-y-disputas-1110.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-escandalo-de-las-lavanderas-verdad-traicion-y-disputas-1110.jpg",
-    "fecha": "2026-11-10T16:02:39.536159",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Chisme"
   }
 ]
