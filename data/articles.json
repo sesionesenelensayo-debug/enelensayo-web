@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "La Era de Hielo 6: Disney revela tráiler sin confirmar el doblaje",
+    "artista": "La Era de Hielo 6",
+    "intro": "El 19 de noviembre de 2026, Disney publicó un comunicado y un nuevo tráiler de La Era de Hielo: Mundo de Lava, producción que llegará a los cines de Latinoamérica el 28 de enero de 2027.",
+    "telegraph_url": "https://telegra.ph/La-Era-de-Hielo-6-Disney-revela-tráiler-sin-confirmar-el-doblaje-11-22",
+    "url": "https://enelensayomedia.com/notas/la-era-de-hielo-6-disney-revela-trailer-sin-confirmar-el-doblaje-1122.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-era-de-hielo-6-disney-revela-trailer-sin-confirmar-el-doblaje-1122.jpg",
+    "fecha": "2026-11-22T12:45:03.584241",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Músico es baleado tras discusión con su pareja policía en Chorrillos",
     "artista": "Músico",
     "intro": "Un músico de 40 años fue baleado en Chorrillos (Lima) tras una discusión con su pareja, suboficial de la PNP.",
@@ -5870,19 +5884,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Proyectan 'Godzilla' en la Cineteca Mexiquense",
-    "artista": "Good Godzilla",
-    "intro": "La Cineteca Mexiquense programa la proyección de 'Godzilla' durante esta semana.",
-    "telegraph_url": "https://telegra.ph/Proyectan-Godzilla-en-la-Cineteca-Mexiquense-11-10",
-    "url": "https://enelensayomedia.com/notas/proyectan-godzilla-en-la-cineteca-mexiquense-1110.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/proyectan-godzilla-en-la-cineteca-mexiquense-1110.jpg",
-    "fecha": "2026-11-10T11:48:48.563322",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   }
 ]
