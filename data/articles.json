@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Julián Gil responde a Marjorie de Sousa sobre la custodia de su hijo Matías",
+    "artista": "Julián Gil",
+    "intro": "En el video publicado por el canal En el Ensayo Media, Marjorie de Sousa y Julián Gil intercambian declaraciones sobre la custodia de su hijo Matías.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/julian-gil-responde-a-marjorie-de-sousa-sobre-la-custodia-de-su-hijo-m-1122.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/julian-gil-responde-a-marjorie-de-sousa-sobre-la-custodia-de-su-hijo-m-1122.jpg",
+    "fecha": "2026-11-22T11:48:01.023242",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Comienza el rodaje de la temporada 3 de 'Tierra de mafiosos'",
     "artista": "Tierra de mafiosos",
     "intro": "Paramount+ anunció el viernes 20 de noviembre de 2026 el inicio del rodaje de la temporada 3 de 'Tierra de mafiosos' (MobLand), confirmando el regreso de Tom Hardy, Pierce Brosnan y Helen Mirren.",
@@ -5863,19 +5878,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Luchas"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Horacio Palencia y Banda MS recibirán su estrella en Mazatlán",
-    "artista": "Horacio Palencia",
-    "intro": "¿Qué reconocimiento recibirán próximamente Horacio Palencia y Banda MS en Sinaloa?",
-    "telegraph_url": "https://telegra.ph/Horacio-Palencia-y-Banda-MS-recibirán-su-estrella-en-Mazatlán-11-10",
-    "url": "https://enelensayomedia.com/notas/horacio-palencia-y-banda-ms-recibiran-su-estrella-en-mazatlan-1110.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/horacio-palencia-y-banda-ms-recibiran-su-estrella-en-mazatlan-1110.jpg",
-    "fecha": "2026-11-10T09:15:06.100408",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   }
 ]
