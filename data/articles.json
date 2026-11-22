@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "La Mansión VIP 2 revela tabla de votos para segunda eliminación del 22/11",
+    "artista": "La Mansión VIP 2",
+    "intro": "Hoy, domingo 22 de noviembre de 2026, La Mansión VIP 2 publica la tabla de votos que determinará al segundo participante eliminado.",
+    "telegraph_url": "https://telegra.ph/La-Mansión-VIP-2-revela-tabla-de-votos-para-segunda-eliminación-del-2211-11-22",
+    "url": "https://enelensayomedia.com/notas/la-mansion-vip-2-revela-tabla-de-votos-para-segunda-eliminacion-del-22-1122.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-mansion-vip-2-revela-tabla-de-votos-para-segunda-eliminacion-del-22-1122.jpg",
+    "fecha": "2026-11-22T14:19:40.805158",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reality"
+  },
+  {
+    "opinion": false,
     "tipo": "entrevista",
     "titulo": "Julián Gil reclama entrevista en 'Despierta América' como 'condicionada' sobre custodia de Matías",
     "artista": "Julián Gil",
@@ -5868,19 +5882,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "opinion": true,
-    "tipo": "reportaje",
-    "titulo": "Lightyear y el fracaso de la agenda ideológica en Pixar",
-    "artista": "la polémica por Lightyear de Pixar y su taquilla",
-    "intro": "La imposición de contenidos ideológicos en la precuela de Toy Story provocó un estrepitoso rechazo en taquilla y severas pérdidas financieras.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/lightyear-y-el-fracaso-de-la-agenda-ideologica-en-pixar-1110.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/lightyear-y-el-fracaso-de-la-agenda-ideologica-en-pixar-1110.jpg",
-    "fecha": "2026-11-10T13:37:38.913844",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Agenda woke"
   }
 ]
