@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Shemp Howard: el día que murió en un taxi tras un boxeo",
+    "artista": "Shemp Howard",
+    "intro": "En el video publicado por el canal En el Ensayo Media se narra la muerte de Shemp Howard, actor y humorista estadounidense nacido el 11 de marzo de 1895 en Brooklyn, Nueva York…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/shemp-howard-el-dia-que-murio-en-un-taxi-tras-un-boxeo-1122.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/shemp-howard-el-dia-que-murio-en-un-taxi-tras-un-boxeo-1122.jpg",
+    "fecha": "2026-11-22T12:00:28.775320",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Julián Gil responde a Marjorie de Sousa sobre la custodia de su hijo Matías",
     "artista": "Julián Gil",
     "intro": "En el video publicado por el canal En el Ensayo Media, Marjorie de Sousa y Julián Gil intercambian declaraciones sobre la custodia de su hijo Matías.",
@@ -5864,19 +5879,5 @@
     "categoria": "Televisión",
     "fecha_original": "2026-11-02T08:58:00",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Tommaso Ciampa conquista el Campeonato Nacional de AEW",
-    "artista": "Tommaso Ciampa",
-    "intro": "Tommaso Ciampa conquistó el Campeonato Nacional de AEW tras vencer a Andrade El Ídolo en la lucha estelar de AEW Collision, transmitida desde el crucero de Chris Jericho.",
-    "telegraph_url": "https://telegra.ph/Tommaso-Ciampa-conquista-el-Campeonato-Nacional-de-AEW-11-10",
-    "url": "https://enelensayomedia.com/notas/tommaso-ciampa-conquista-el-campeonato-nacional-de-aew-1110.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/tommaso-ciampa-conquista-el-campeonato-nacional-de-aew-1110.jpg",
-    "fecha": "2026-11-10T10:29:13.528244",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Luchas"
   }
 ]
