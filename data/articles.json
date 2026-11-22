@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Lupita D'Alessio en Auditorio Nacional",
+    "artista": "Lupita D’Alessio",
+    "intro": "Lupita D'Alessio celebrará 55 años de carrera con un concierto en el Auditorio Nacional de la Ciudad de México el 26 de febrero de 2027.",
+    "telegraph_url": "https://telegra.ph/Lupita-DAlessio-en-Auditorio-Nacional-11-22",
+    "url": "https://enelensayomedia.com/notas/lupita-d-alessio-en-auditorio-nacional-1122.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/lupita-d-alessio-en-auditorio-nacional-1122.jpg",
+    "fecha": "2026-11-22T08:37:19.804884",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Bad Bunny y Sexy Red en la banda sonora de GTA VI",
     "artista": "Bad Bunny",
     "intro": "El canal En el Ensayo Media informa que Bad Bunny y Sexy Red integran la banda sonora de Grand Theft Auto 6.",
@@ -5874,19 +5888,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Agenda woke"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Poncho de Nigris lanza advertencia por Doña Alegría",
-    "artista": "Poncho de Nigris",
-    "intro": "Poncho de Nigris lanzó una advertencia pública tras la entrada de Doña Alegría a 'La Mansión VIP'.",
-    "telegraph_url": "https://telegra.ph/Poncho-de-Nigris-lanza-advertencia-por-Doña-Alegría-11-10",
-    "url": "https://enelensayomedia.com/notas/poncho-de-nigris-lanza-advertencia-por-dona-alegria-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/poncho-de-nigris-lanza-advertencia-por-dona-alegria-1109.jpg",
-    "fecha": "2026-11-09T21:30:03.198877",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   }
 ]
