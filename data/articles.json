@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Bad Bunny y Sexy Red en la banda sonora de GTA VI",
+    "artista": "Bad Bunny",
+    "intro": "El canal En el Ensayo Media informa que Bad Bunny y Sexy Red integran la banda sonora de Grand Theft Auto 6.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/bad-bunny-y-sexy-red-en-la-banda-sonora-de-gta-vi-1121.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/bad-bunny-y-sexy-red-en-la-banda-sonora-de-gta-vi-1121.jpg",
+    "fecha": "2026-11-21T22:04:28.418470",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Videojuegos"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "5 curiosidades de The Beatles",
     "artista": "The Beatles",
     "intro": "El canal En el Ensayo Media presenta un video de menor duración donde se enumeran cinco curiosidades relacionadas con The Beatles, abordando hechos históricos, datos de ventas…",
@@ -5870,21 +5885,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Rockstar anuncia el festival musical GTA VI en Miami",
-    "artista": "Rockstar",
-    "intro": "Rockstar ha anunciado la realización de GTA VI The Festival, un evento musical propio concebido para celebrar el lanzamiento del esperado videojuego.",
-    "telegraph_url": "https://telegra.ph/Rockstar-anuncia-el-festival-musical-GTA-VI-en-Miami-11-09",
-    "url": "https://enelensayomedia.com/notas/rockstar-anuncia-el-festival-musical-gta-vi-en-miami-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/rockstar-anuncia-el-festival-musical-gta-vi-en-miami-1109.jpg",
-    "fecha": "2026-11-09T21:28:44.878932",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-11-09T12:12:15.368641",
-    "actualizada": true
   }
 ]
