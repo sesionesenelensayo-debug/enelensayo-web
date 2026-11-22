@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "entrevista",
+    "titulo": "Julián Gil reclama entrevista en 'Despierta América' como 'condicionada' sobre custodia de Matías",
+    "artista": "Julián Gil",
+    "intro": "El actor Julián Gil criticó la entrevista de su exnovia Marjorie de Sousa en 'Despierta América', calificándola de 'condicionada' y cuestionando la custodia de su hijo Matías.",
+    "telegraph_url": "https://telegra.ph/Julián-Gil-reclama-entrevista-en-Despierta-América-como-condicionada-sobre-custodia-de-Matías-11-22",
+    "url": "https://enelensayomedia.com/notas/julian-gil-reclama-entrevista-en-despierta-america-como-condicionada-s-1122.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/julian-gil-reclama-entrevista-en-despierta-america-como-condicionada-s-1122.jpg",
+    "fecha": "2026-11-22T14:15:01.127722",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Entrevista"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Los Perros del Mal retoman el Campeonato Mundial de Tríos en AAA",
     "artista": "Perros del Mal, Grande Americano, Rey Fénix y La Parka",
@@ -5865,21 +5879,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Agenda woke"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Soberano Jr y Bandido chocan de nuevo en la Arena México",
-    "artista": "CMLL",
-    "intro": "El viernes 6 de noviembre de 2026, el Consejo Mundial de Lucha Libre programó su tradicional Viernes Espectacular en la Arena México, ubicada en la colonia Doctores de la Ciudad de México.",
-    "telegraph_url": "https://telegra.ph/Soberano-Jr-y-Bandido-chocan-de-nuevo-en-la-Arena-México-11-06",
-    "url": "https://enelensayomedia.com/notas/soberano-jr-y-bandido-chocan-de-nuevo-en-la-arena-mexico-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/soberano-jr-y-bandido-chocan-de-nuevo-en-la-arena-mexico-1106.jpg",
-    "fecha": "2026-11-10T13:32:33.471778",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Luchas",
-    "fecha_original": "2026-11-06T13:33:07.597601",
-    "actualizada": true
   }
 ]
