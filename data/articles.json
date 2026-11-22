@@ -2,6 +2,23 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Los Juegos del Hambre supera taquilla a La Odisea de Nolan en preestrenos",
+    "artista": "Los Juegos del Hambre",
+    "intro": "La nueva película de Los Juegos del Hambre, 'Amanecer en la cosecha', lideró la taquilla con 56 millones de dólares en su estreno en EE. UU.",
+    "telegraph_url": "https://telegra.ph/Los-Juegos-del-Hambre-supera-taquilla-a-La-Odisea-de-Nolan-en-preestrenos-11-22",
+    "url": "https://enelensayomedia.com/notas/los-juegos-del-hambre-supera-taquilla-a-la-odisea-de-nolan-en-preestre-1122.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/los-juegos-del-hambre-supera-taquilla-a-la-odisea-de-nolan-en-preestre-1122.jpg",
+    "fecha": "2026-11-22T12:38:29.557358",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-11-22T09:44:33.534994",
+    "ultima_actualizacion": "2026-11-22T12:38:29.557358",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "La enfermera que salvó a Frusciante y redefinió a RHCP",
     "artista": "Red Hot Chili Peppers",
     "intro": "El video 'Lo que nadie cuenta de Red Hot Chili Peppers: la enfermera que salvaría a Frusciante' del canal En el Ensayo Media explora cómo la adicción de John Frusciante casi lo destruyó…",
@@ -128,20 +145,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reportaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Los Juegos del Hambre supera taquilla a La Odisea de Nolan en preestrenos",
-    "artista": "Los Juegos del Hambre",
-    "intro": "La nueva película de Los Juegos del Hambre, 'Amanecer en la cosecha', lideró la taquilla con 56 millones de dólares en su estreno en EE. UU.",
-    "telegraph_url": "https://telegra.ph/Los-Juegos-del-Hambre-supera-taquilla-a-La-Odisea-de-Nolan-en-preestrenos-11-22",
-    "url": "https://enelensayomedia.com/notas/los-juegos-del-hambre-supera-taquilla-a-la-odisea-de-nolan-en-preestre-1122.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/los-juegos-del-hambre-supera-taquilla-a-la-odisea-de-nolan-en-preestre-1122.jpg",
-    "fecha": "2026-11-22T09:44:33.534994",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   },
   {
     "opinion": false,
