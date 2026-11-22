@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Blue Exorcist vuelve a Netflix con temporada 1 y doblaje original",
+    "artista": "Blue Exorcist",
+    "intro": "Blue Exorcist regresó a Netflix en octubre de 2026 con su primera temporada y doblaje original incluido, según reportes de What's on Netflix.",
+    "telegraph_url": "https://telegra.ph/Blue-Exorcist-vuelve-a-Netflix-con-temporada-1-y-doblaje-original-11-22",
+    "url": "https://enelensayomedia.com/notas/blue-exorcist-vuelve-a-netflix-con-temporada-1-y-doblaje-original-1121.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/blue-exorcist-vuelve-a-netflix-con-temporada-1-y-doblaje-original-1121.jpg",
+    "fecha": "2026-11-21T19:20:11.210952",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
     "tipo": "entrevista",
     "titulo": "Tebin Ramos revela el proceso creativo detrás de 'Fuego' y su enfoque colaborativo en el ensayo",
     "artista": "Tebin Ramos",
@@ -5871,22 +5885,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Harry Styles impulsa ingresos de Madison Square Garden en 37 %",
-    "artista": "Harry Styles",
-    "intro": "Harry Styles ha generado un aumento del 37 % en los ingresos de Madison Square Garden, según reportes.",
-    "telegraph_url": "https://telegra.ph/Harry-Styles-impulsa-ingresos-de-Madison-Square-Garden-en-37-11-04",
-    "url": "https://enelensayomedia.com/notas/harry-styles-impulsa-ingresos-de-madison-square-garden-en-37-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/harry-styles-impulsa-ingresos-de-madison-square-garden-en-37-1104.jpg",
-    "fecha": "2026-11-09T21:03:58.159088",
-    "author": "Oliver Ken",
-    "views": 0,
-    "nota_dia": true,
-    "categoria": "Internacional",
-    "fecha_original": "2026-11-04T14:02:05.901663",
-    "actualizada": true
   }
 ]
