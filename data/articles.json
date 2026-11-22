@@ -1,6 +1,21 @@
 [
   {
     "opinion": false,
+    "tipo": "entrevista",
+    "titulo": "Tebin Ramos revela el proceso creativo detrás de 'Fuego' y su enfoque colaborativo en el ensayo",
+    "artista": "Tebin Ramos",
+    "intro": "Tebin Ramos comparte su proceso creativo en la producción de su álbum Resonar, destacando cómo 'Fuego' pasó de ser una promoción a convertirse en su canción más conectada con la comunidad LGBT+.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/tebin-ramos-revela-el-proceso-creativo-detras-de-fuego-y-su-enfoque-co-1121.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/tebin-ramos-revela-el-proceso-creativo-detras-de-fuego-y-su-enfoque-co-1121.jpg",
+    "fecha": "2026-11-21T18:33:07.254233",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Entrevista",
+    "periodico": true
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "El cartel del Coachella 2026 revela datos sorprendentes sobre sus artistas",
     "artista": "Coachella",
@@ -5872,22 +5887,6 @@
     "nota_dia": true,
     "categoria": "Internacional",
     "fecha_original": "2026-11-04T14:02:05.901663",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Rayados de Monterrey ficha a Pedro Quintero para el Apertura 2026",
-    "artista": "Rayados de Monterrey",
-    "intro": "¡Pura buena vibra para el gaming y las canchas! Rayados de Monterrey hizo oficial el fichaje de Pedro Orlando Quintero Carmona…",
-    "telegraph_url": "https://telegra.ph/Rayados-de-Monterrey-ficha-a-Pedro-Quintero-para-el-Apertura-2026-11-08",
-    "url": "https://enelensayomedia.com/notas/rayados-de-monterrey-ficha-a-pedro-quintero-para-el-apertura-2026-1108.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/rayados-de-monterrey-ficha-a-pedro-quintero-para-el-apertura-2026-1108.jpg",
-    "fecha": "2026-11-09T20:57:22.126101",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Streaming",
-    "fecha_original": "2026-11-08T15:55:25.965485",
     "actualizada": true
   }
 ]
