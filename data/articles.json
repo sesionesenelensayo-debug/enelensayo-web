@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Los Juegos del Hambre supera taquilla a La Odisea de Nolan en preestrenos",
+    "artista": "Los Juegos del Hambre",
+    "intro": "La nueva película de Los Juegos del Hambre, 'Amanecer en la cosecha', lideró la taquilla con 56 millones de dólares en su estreno en EE. UU.",
+    "telegraph_url": "https://telegra.ph/Los-Juegos-del-Hambre-supera-taquilla-a-La-Odisea-de-Nolan-en-preestrenos-11-22",
+    "url": "https://enelensayomedia.com/notas/los-juegos-del-hambre-supera-taquilla-a-la-odisea-de-nolan-en-preestre-1122.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/los-juegos-del-hambre-supera-taquilla-a-la-odisea-de-nolan-en-preestre-1122.jpg",
+    "fecha": "2026-11-22T09:44:33.534994",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Julianne Moore revela cómo Pierce Brosnan exigió silencio en 'Hasta que la ley nos separe'",
     "artista": "Julianne Moore y Pierce Brosnan",
     "intro": "La comunicación entre ambos actores durante la grabación fue clave para el éxito de la película de 2004.",
@@ -5874,19 +5888,5 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-09T14:21:54.921073",
     "actualizada": true
-  },
-  {
-    "opinion": true,
-    "tipo": "reportaje",
-    "titulo": "El fracaso corporativo de DC bajo Gunn y Safran frente al brillo de Snyder y Marvel",
-    "artista": "James Gunn",
-    "intro": "James Gunn y Peter Safran abandonan la cúpula de DC Studios el 1 de diciembre, tras cuatro años de promesas rotas y números desastrosos.",
-    "telegraph_url": "https://telegra.ph/El-fracaso-corporativo-de-DC-bajo-Gunn-y-Safran-frente-al-brillo-de-Snyder-y-Marvel-11-10",
-    "url": "https://enelensayomedia.com/notas/el-fracaso-corporativo-de-dc-bajo-gunn-y-safran-frente-al-brillo-de-sn-1110.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-fracaso-corporativo-de-dc-bajo-gunn-y-safran-frente-al-brillo-de-sn-1110.jpg",
-    "fecha": "2026-11-10T00:07:31.624574",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU"
   }
 ]
