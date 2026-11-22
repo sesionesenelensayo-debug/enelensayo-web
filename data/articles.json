@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Netflix y sindicato pactan pagos en Alemania pero la IA sigue en disputa",
+    "artista": "Netflix y doblaje alemán",
+    "intro": "Netflix y el sindicato de actores BFFS alcanzaron un nuevo acuerdo de regulación de pago para producciones dobladas al alemán, tras reportes dados a conocer el 16 de noviembre de 2026.",
+    "telegraph_url": "https://telegra.ph/Netflix-y-sindicato-pactan-pagos-en-Alemania-pero-la-IA-sigue-en-disputa-11-22",
+    "url": "https://enelensayomedia.com/notas/netflix-y-sindicato-pactan-pagos-en-alemania-pero-la-ia-sigue-en-dispu-1122.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/netflix-y-sindicato-pactan-pagos-en-alemania-pero-la-ia-sigue-en-dispu-1122.jpg",
+    "fecha": "2026-11-22T17:52:03.424443",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Oobah: Scams for a Better Tomorrow llega a HBO Max con un sérum de lágrimas de niños",
     "artista": "Oobah: Scams for a Better Tomorrow",
     "intro": "HBO Max estrena hoy Oobah: Scams for a Better Tomorrow, una serie docu-comedia de cinco episodios protagonizada por Oobah Butler.",
@@ -5861,19 +5875,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reportaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "La tumba de Tutankamón: entre hechos históricos y leyendas de maldición",
-    "artista": "la maldición de la tumba de Tutankamón",
-    "intro": "Descubrimiento de 1922 y muertes de involucrados generaron una historia que mezcla documentos con rumores no confirmados.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-tumba-de-tutankamon-entre-hechos-historicos-y-leyendas-de-maldicion-1110.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-tumba-de-tutankamon-entre-hechos-historicos-y-leyendas-de-maldicion-1110.jpg",
-    "fecha": "2026-11-10T20:29:12.821085",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror"
   }
 ]
