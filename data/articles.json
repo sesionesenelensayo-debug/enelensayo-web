@@ -1,5 +1,19 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "Man of Tomorrow: el DCU se ahonda en la oscuridad con un Superman caído",
+    "artista": "Man of Tomorrow",
+    "intro": "Las filtraciones de noviembre de 2026 revelan un Superman 'muy castigado' en Man of Tomorrow, una secuela que ya muestra los primeros signos de una narrativa desesperada por la gracia.",
+    "telegraph_url": "https://telegra.ph/Man-of-Tomorrow-el-DCU-se-ahonda-en-la-oscuridad-con-un-Superman-caído-11-22",
+    "url": "https://enelensayomedia.com/notas/man-of-tomorrow-el-dcu-se-ahonda-en-la-oscuridad-con-un-superman-caido-1122.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/man-of-tomorrow-el-dcu-se-ahonda-en-la-oscuridad-con-un-superman-caido-1122.jpg",
+    "fecha": "2026-11-22T12:48:47.816377",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Nominados de La Mansión VIP 2: ¿quién se eliminó el 22 de noviembre?",
@@ -5869,20 +5883,5 @@
     "categoria": "Chisme",
     "fecha_original": "2026-11-02T17:25:18.904087",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Brittany Murphy: su legado en el cine y la música",
-    "artista": "Brittany Murphy",
-    "intro": "A 49 años de su nacimiento, se recuerda la trayectoria de Brittany Murphy, una figura destacada tanto en la actuación como en la música.",
-    "telegraph_url": "https://telegra.ph/Brittany-Murphy-su-legado-en-el-cine-y-la-música-11-10",
-    "url": "https://enelensayomedia.com/notas/brittany-murphy-su-legado-en-el-cine-y-la-musica-1110.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/brittany-murphy-su-legado-en-el-cine-y-la-musica-1110.jpg",
-    "fecha": "2026-11-10T12:07:59.352754",
-    "author": "Oliver Ken",
-    "views": 0,
-    "nota_dia": true,
-    "categoria": "Reportaje"
   }
 ]
