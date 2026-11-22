@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Michael Hutchens: la trágica muerte de un ídolo",
+    "artista": "Michael Hutchence",
+    "intro": "En el video publicado por el canal En el Ensayo Media se narra la muerte del cantante australiano Michael Hutchens, cofundador de la banda INXS, quien falleció en 1997 en Sydney a los 37 años.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/michael-hutchens-la-tragica-muerte-de-un-idolo-1122.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/michael-hutchens-la-tragica-muerte-de-un-idolo-1122.jpg",
+    "fecha": "2026-11-22T12:12:52.127011",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Shemp Howard: el día que murió en un taxi tras un boxeo",
     "artista": "Shemp Howard",
     "intro": "En el video publicado por el canal En el Ensayo Media se narra la muerte de Shemp Howard, actor y humorista estadounidense nacido el 11 de marzo de 1895 en Brooklyn, Nueva York…",
@@ -5863,21 +5878,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Streaming"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Dragon Ball Super: Beerus – Crítica del capítulo 4 y llegada del doblaje latino",
-    "artista": "Dragon Ball Super",
-    "intro": "El episodio 4 de la versión remasterizada “Dragon Ball Super: Beerus” ha sido objeto de una crítica que lo describe como un inicio soso y repetitivo…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/dragon-ball-super-beerus-critica-del-capitulo-4-y-llegada-del-doblaje-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/dragon-ball-super-beerus-critica-del-capitulo-4-y-llegada-del-doblaje-1102.jpg",
-    "fecha": "2026-11-10T11:21:50.295596",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Televisión",
-    "fecha_original": "2026-11-02T08:58:00",
-    "actualizada": true
   }
 ]

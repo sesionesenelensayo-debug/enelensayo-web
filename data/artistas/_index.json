@@ -1,5 +1,12 @@
 [
   {
+    "artista": "Red Hot Chili Peppers",
+    "slug": "red-hot-chili-peppers",
+    "imagen": "",
+    "piezas": 1,
+    "updated": "2026-11-22 12:24"
+  },
+  {
     "artista": "Julián Gil",
     "slug": "juli-n-gil",
     "imagen": "",
