@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Marvel señala a Steve Rogers, Thor, Hulk y Sue Storm por Doctor Doom en 'Doomsday'",
+    "artista": "Doctor Doom",
+    "intro": "El 19 de noviembre de 2026, Marvel Studios para Latinoamérica publicó un tuit que identificó a Steve Rogers, Thor…",
+    "telegraph_url": "https://telegra.ph/Marvel-señala-a-Steve-Rogers-Thor-Hulk-y-Sue-Storm-por-Doctor-Doom-en-Doomsday-11-22",
+    "url": "https://enelensayomedia.com/notas/marvel-senala-a-steve-rogers-thor-hulk-y-sue-storm-por-doctor-doom-en-1122.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/marvel-senala-a-steve-rogers-thor-hulk-y-sue-storm-por-doctor-doom-en-1122.jpg",
+    "fecha": "2026-11-22T10:17:17.193381",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Michael Hutchence: la trágica muerte de un ídolo de INXS",
     "artista": "Michael Hutchence: la trágica muerte de un ídolo",
     "intro": "Michael Hutchence murió el 22 de noviembre de 1997 en Sídney, a los 37 años, tras ser encontrado sin vida en la habitación 524 del hotel Ritz-Carlton de Double Bay.",
@@ -5869,22 +5883,6 @@
     "views": 0,
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-07T17:18:06.029890",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "El Charro Negro lidera la taquilla mexicana con 52.6 millones",
-    "artista": "El Charro Negro",
-    "intro": "La película mexicana El Charro Negro ha superado a la franquicia internacional BTS en la recaudación de taquilla en México, alcanzando 52.6 millones de pesos.",
-    "telegraph_url": "https://telegra.ph/El-Charro-Negro-lidera-la-taquilla-mexicana-con-526-millones-11-03",
-    "url": "https://enelensayomedia.com/notas/el-charro-negro-lidera-la-taquilla-mexicana-con-52-6-millones-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-charro-negro-lidera-la-taquilla-mexicana-con-52-6-millones-1102.jpg",
-    "fecha": "2026-11-10T07:45:53.399264",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-02T21:46:02.279322",
     "actualizada": true
   }
 ]
