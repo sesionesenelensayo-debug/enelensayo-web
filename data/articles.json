@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Los Perros del Mal retoman el Campeonato Mundial de Tríos en AAA",
+    "artista": "Perros del Mal, Grande Americano, Rey Fénix y La Parka",
+    "intro": "En el evento estelar de AAA emitido en FOX el 21 de noviembre de 2026, Los Perros del Mal (Daga, Ángel y Berto) retuvieron el Campeonato Mundial de Tríos de AAA ante El Grande Americano…",
+    "telegraph_url": "https://telegra.ph/Los-Perros-del-Mal-retoman-el-Campeonato-Mundial-de-Tríos-en-AAA-11-22",
+    "url": "https://enelensayomedia.com/notas/los-perros-del-mal-retoman-el-campeonato-mundial-de-trios-en-aaa-1122.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/los-perros-del-mal-retoman-el-campeonato-mundial-de-trios-en-aaa-1122.jpg",
+    "fecha": "2026-11-22T13:45:25.820556",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "Man of Tomorrow: el DCU se ahonda en la oscuridad con un Superman caído",
@@ -5866,22 +5880,6 @@
     "views": 0,
     "categoria": "Luchas",
     "fecha_original": "2026-11-06T13:33:07.597601",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Taylor Swift prepara su regreso al género country",
-    "artista": "Taylor Swift",
-    "intro": "Taylor Swift se deja de rodeos: su esperado regreso al 'country' está a la vuelta de la esquina.",
-    "telegraph_url": "https://telegra.ph/Taylor-Swift-prepara-su-regreso-al-género-country-11-02",
-    "url": "https://enelensayomedia.com/notas/taylor-swift-prepara-su-regreso-al-genero-country-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/taylor-swift-prepara-su-regreso-al-genero-country-1102.jpg",
-    "fecha": "2026-11-10T12:10:56.256206",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-02T17:25:18.904087",
     "actualizada": true
   }
 ]
