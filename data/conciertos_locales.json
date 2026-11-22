@@ -3219,7 +3219,7 @@
   },
   {
    "id": "luis-anchia|merida||x",
-   "banda": "Luis Anchia 🍍",
+   "banda": "Luis Anchia",
    "ciudad": "Mérida",
    "estado": "Yucatán",
    "lat": 20.9674,
@@ -4039,7 +4039,7 @@
   },
   {
    "id": "torracjol--jose-torres|guadalajara||x",
-   "banda": "torracjol -Jose Torres-",
+   "banda": "torracjol -Jose Torres",
    "ciudad": "Guadalajara",
    "estado": "Jalisco",
    "lat": 20.6597,
@@ -4151,7 +4151,7 @@
   },
   {
    "id": "reyes-del-movimiento-villero--mty|monterrey||x",
-   "banda": "👉Reyes del Movimiento Villero  Mty",
+   "banda": "Reyes del Movimiento Villero Mty",
    "ciudad": "Monterrey",
    "estado": "Nuevo León",
    "lat": 25.6866,
@@ -5144,7 +5144,7 @@
   },
   {
    "id": "hks--y-allen-aka-fesim|monterrey||x",
-   "banda": "HKS  y Allen Aka Fesim",
+   "banda": "HKS y Allen Aka Fesim",
    "ciudad": "Monterrey",
    "estado": "Nuevo León",
    "lat": 25.6866,
@@ -5752,7 +5752,7 @@
   },
   {
    "id": "banda-nacional-leon-que-ruge|leon||x",
-   "banda": "🥁Banda Nacional León que Ruge🦁",
+   "banda": "Banda Nacional León que Ruge",
    "ciudad": "León",
    "estado": "Guanajuato",
    "lat": 21.125,
@@ -5896,7 +5896,7 @@
   },
   {
    "id": "calendeandoymuerteando-en-oaxaca|oaxaca||x",
-   "banda": "CalendeandoYMuerteando en Oaxaca 🤠🤘",
+   "banda": "CalendeandoYMuerteando en Oaxaca",
    "ciudad": "Oaxaca",
    "estado": "Oaxaca",
    "lat": 17.0732,
@@ -8393,7 +8393,7 @@
   },
   {
    "id": "sebastian-romero--te-extrana-el-cafe|ciudad-de-mexico|foro-del-tejedor|2026-11-27",
-   "banda": "Sebastián Romero -Te extraña el Café-",
+   "banda": "Sebastián Romero -Te extraña el Café",
    "ciudad": "Ciudad de México",
    "estado": "Distrito Federal",
    "lat": null,
@@ -8427,7 +8427,7 @@
   },
   {
    "id": "calacas-jazz-band--puras-de-amor-y-despecho|ciudad-de-mexico|foro-del-tejedor|2026-11-28",
-   "banda": "Calacas Jazz Band -Puras de amor y despecho-",
+   "banda": "Calacas Jazz Band -Puras de amor y despecho",
    "ciudad": "Ciudad de México",
    "estado": "Distrito Federal",
    "lat": null,
@@ -8444,7 +8444,7 @@
   },
   {
    "id": "carla-fantasma--chaotic-neutral|ciudad-de-mexico|foro-del-tejedor|2026-11-29",
-   "banda": "Carla Fantasma -Chaotic Neutral-",
+   "banda": "Carla Fantasma -Chaotic Neutral",
    "ciudad": "Ciudad de México",
    "estado": "Distrito Federal",
    "lat": null,
@@ -8461,7 +8461,7 @@
   },
   {
    "id": "sofia-comas--tecuan-caroca|ciudad-de-mexico|foro-del-tejedor|2026-12-02",
-   "banda": "Sofía Comas -Tecuán Caroca-",
+   "banda": "Sofía Comas -Tecuán Caroca",
    "ciudad": "Ciudad de México",
    "estado": "Distrito Federal",
    "lat": null,
@@ -8495,7 +8495,7 @@
   },
   {
    "id": "jaramar--a-flor-de-tierra|ciudad-de-mexico|foro-del-tejedor|2026-12-04",
-   "banda": "Jaramar -A Flor de Tierra-",
+   "banda": "Jaramar -A Flor de Tierra",
    "ciudad": "Ciudad de México",
    "estado": "Distrito Federal",
    "lat": null,
@@ -8992,7 +8992,7 @@
   },
   {
    "id": "saymon|leon||x",
-   "banda": "SAYMON😜",
+   "banda": "SAYMON",
    "ciudad": "León",
    "estado": "Guanajuato",
    "lat": 21.125,
@@ -10349,7 +10349,7 @@
   },
   {
    "id": "legen-blues---y-3-mas|guadalajara||x",
-   "banda": "LEGEN BLUES🖤  y 3 más",
+   "banda": "LEGEN BLUES y 3 más",
    "ciudad": "Guadalajara",
    "estado": "Jalisco",
    "lat": 20.6597,
@@ -10909,7 +10909,7 @@
   },
   {
    "id": "quintoaniversario----dragonflyrockband|ciudad-de-mexico|la-pulquerida|2026-11-21",
-   "banda": "#QUINTOANIVERSARIO · @dragonflyrockband",
+   "banda": "@dragonflyrockband",
    "ciudad": "Ciudad de México",
    "estado": "Distrito Federal",
    "lat": null,
@@ -12525,7 +12525,7 @@
   },
   {
    "id": "64---besosingapur---princesasalvajemx|ciudad-de-mexico|bar-la-cueva|2026-11-22",
-   "banda": "🏝️ 64, @besosingapur, @princesasalvajemx",
+   "banda": "64, @besosingapur, @princesasalvajemx",
    "ciudad": "Ciudad de México",
    "estado": "Distrito Federal",
    "lat": 19.4281285,
@@ -13727,23 +13727,6 @@
    "zona": "Hipódromo Condesa, Cuauhtémoc"
   },
   {
-   "id": "tba|ciudad-de-mexico|londres-195--col--juarez--ciudad-de-mexico|2026-11-26",
-   "banda": "TBA",
-   "ciudad": "Ciudad de México",
-   "estado": "Distrito Federal",
-   "lat": 19.4242929,
-   "lon": -99.1673655,
-   "recinto": "Londres 195, Col. Juárez, Ciudad de México",
-   "fecha": "2026-11-26",
-   "hora": "",
-   "boletos": "",
-   "precio": "",
-   "genero": "Música en vivo",
-   "fuente": "Multiforo Digital",
-   "tipo": "show",
-   "fuente_url": "https://www.instagram.com/reel/DfVAsUwzki2"
-  },
-  {
    "id": "perfecto-miserable|ciudad-de-mexico|house-of-vans-cdmx|2026-11-26",
    "banda": "PERFECTO MISERABLE",
    "ciudad": "Ciudad de México",
@@ -14046,23 +14029,6 @@
    "fuente": "Multiforo Digital",
    "tipo": "show",
    "fuente_url": "https://www.instagram.com/reel/DfTQtKHxVJT"
-  },
-  {
-   "id": "wig-s-3rd-anniversary|ciudad-de-mexico|cdmx|2026-11-27",
-   "banda": "WiG’s 3rd Anniversary",
-   "ciudad": "Ciudad de México",
-   "estado": "Distrito Federal",
-   "lat": null,
-   "lon": null,
-   "recinto": "CDMX",
-   "fecha": "2026-11-27",
-   "hora": "",
-   "boletos": "",
-   "precio": "Early bird 300MXN; Preventa 350MXN; General 400MXN; Last cal",
-   "genero": "Música en vivo",
-   "fuente": "Multiforo Digital",
-   "tipo": "show",
-   "fuente_url": "https://www.instagram.com/p/DfSsqCsJIcR"
   },
   {
    "id": "tributo-bunbury-x-sdh|ciudad-de-mexico|segundo-piso-live|2026-11-27",
