@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Rumor: Hayley Atwell dice que el tráiler de ‘Avengers: Doomsday’ saldrá el lunes 23",
+    "artista": "Avengers: Doomsday",
+    "intro": "La actriz Hayley Atwell, conocida por su papel de Peggy Carter, dejó entrever que un nuevo tráiler de \"Avengers: Doomsday\" podría publicarse este lunes 23 de noviembre.",
+    "telegraph_url": "https://telegra.ph/Rumor-Hayley-Atwell-dice-que-el-tráiler-de-Avengers-Doomsday-saldrá-el-lunes-23-11-22",
+    "url": "https://enelensayomedia.com/notas/rumor-hayley-atwell-dice-que-el-trailer-de-avengers-doomsday-saldra-el-1122.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/rumor-hayley-atwell-dice-que-el-trailer-de-avengers-doomsday-saldra-el-1122.jpg",
+    "fecha": "2026-11-22T16:55:54.179502",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Moisés Peñaloza no olvida el pleito con Yahir en La Casa de los Famosos México",
     "artista": "Moisés Peñaloza y Yahir",
     "intro": "Moisés Peñaloza reveló en una entrevista reciente que aún no olvida el conflicto con Yahir durante su participación en La Casa de los Famosos México.",
@@ -5861,22 +5875,6 @@
     "views": 0,
     "categoria": "Esports",
     "fecha_original": "2026-11-01T17:29:55.089363",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Avengers: Doomsday rompe récords de preventa con más de 125 millones de dólares",
-    "artista": "Avengers: Doomsday",
-    "intro": "La nueva entrega de Marvel, Avengers: Doomsday, ha superado en preventas la recaudación total de la película Supergirl, alcanzando ya más de 125 millones de dólares antes de su estreno.",
-    "telegraph_url": "https://telegra.ph/Avengers-Doomsday-rompe-récords-de-preventa-con-más-de-125-millones-de-dólares-11-02",
-    "url": "https://enelensayomedia.com/notas/avengers-doomsday-rompe-records-de-preventa-con-mas-de-125-millones-de-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/avengers-doomsday-rompe-records-de-preventa-con-mas-de-125-millones-de-1102.jpg",
-    "fecha": "2026-11-10T17:51:41.329887",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU",
-    "fecha_original": "2026-11-02T11:10:31.180970",
     "actualizada": true
   }
 ]
