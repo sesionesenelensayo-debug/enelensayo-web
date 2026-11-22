@@ -1,5 +1,12 @@
 [
   {
+    "artista": "Man of Tomorrow",
+    "slug": "man-of-tomorrow",
+    "imagen": "",
+    "piezas": 1,
+    "updated": "2026-11-22 13:28"
+  },
+  {
     "artista": "Red Hot Chili Peppers",
     "slug": "red-hot-chili-peppers",
     "imagen": "",
