@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Rihanna: 5 curiosidades de la artista barbadense",
+    "artista": "Rihanna",
+    "intro": "Rihanna no soñaba con ser cantante; quería estudiar en el extranjero y salir de Barbados. Antes de su primer contrato, vivió meses en casa del productor Evan Rogers, grabando canciones no publicadas.",
+    "telegraph_url": "https://telegra.ph/Rihanna-5-curiosidades-de-la-artista-barbadense-11-23",
+    "url": "https://enelensayomedia.com/notas/rihanna-5-curiosidades-de-la-artista-barbadense-1122.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/rihanna-5-curiosidades-de-la-artista-barbadense-1122.jpg",
+    "fecha": "2026-11-22T20:17:42.333719",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Mundial Sub-17 Qatar 2026: 48 selecciones, 104 partidos y el reto de la seguridad",
     "artista": "Mundial Sub 17",
     "intro": "La Copa Mundial Sub-17 de la FIFA en Qatar 2026 contará con 48 equipos, 12 grupos y 104 partidos entre el 19 de noviembre y el 13 de diciembre.",
@@ -5858,20 +5872,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Cine"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades de Santana",
-    "artista": "Santana",
-    "intro": "El canal En el Ensayo Media presenta un video de un minuto donde se enumeran cinco curiosidades sobre la carrera del músico Carlos Santana…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-santana-1110.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-santana-1110.jpg",
-    "fecha": "2026-11-10T21:11:29.397588",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Datos curiosos"
   }
 ]
