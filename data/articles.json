@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Solo Leveling: serie live-action no se estrenaría hasta 2028 en Netflix",
+    "artista": "Solo Leveling",
+    "intro": "La serie live-action de Solo Leveling no se estrenaría hasta 2028 en Netflix, según reveló esta semana el Financial Times de Corea del Sur.",
+    "telegraph_url": "https://telegra.ph/Solo-Leveling-serie-live-action-no-se-estrenaría-hasta-2028-en-Netflix-11-23",
+    "url": "https://enelensayomedia.com/notas/solo-leveling-serie-live-action-no-se-estrenaria-hasta-2028-en-netflix-1122.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/solo-leveling-serie-live-action-no-se-estrenaria-hasta-2028-en-netflix-1122.jpg",
+    "fecha": "2026-11-22T21:27:12.184597",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Red Hot Chili Peppers: Mundial Sub-17 Qatar 2026: 48 selecciones y el reto de la seguridad",
     "artista": "Red Hot Chili Peppers",
     "intro": "En el video publicado por el canal En el Ensayo Media, se analiza el Mundial Sub-17 Qatar 2026, un torneo que reunió a 48 selecciones en 104 partidos distribuidos en 12 grupos de cuatro equipos.",
@@ -5854,22 +5868,6 @@
     "views": 0,
     "categoria": "Luchas",
     "fecha_original": "2026-11-07T13:36:46.150205",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Tencent destina $140 M a impulsar el ecosistema chino de TFT",
-    "artista": "Tencent commits $140 million to develop TFT's Chinese ecosystem",
-    "intro": "La compañía china invierte masivamente en IA, hardware y alianzas para consolidar su posición en los esports y el mercado digital.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/tencent-destina-140-m-a-impulsar-el-ecosistema-chino-de-tft-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/tencent-destina-140-m-a-impulsar-el-ecosistema-chino-de-tft-1109.jpg",
-    "fecha": "2026-11-11T10:16:36.845121",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Esports",
-    "fecha_original": "2026-11-09T11:22:04.584302",
     "actualizada": true
   }
 ]
