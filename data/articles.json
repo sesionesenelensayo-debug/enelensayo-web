@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Rod Contreras es eliminado en la segunda gala de La Mansión VIP 2",
+    "artista": "La Casa de los Famosos México",
+    "intro": "La gala del domingo 22 de noviembre de 2026 de La Mansión VIP 2 registró la eliminación de Rod Contreras, quien se consolidó como el segundo eliminado del reality.",
+    "telegraph_url": "https://telegra.ph/Rod-Contreras-es-eliminado-en-la-segunda-gala-de-La-Mansión-VIP-2-11-23",
+    "url": "https://enelensayomedia.com/notas/rod-contreras-es-eliminado-en-la-segunda-gala-de-la-mansion-vip-2-1123.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/rod-contreras-es-eliminado-en-la-segunda-gala-de-la-mansion-vip-2-1123.jpg",
+    "fecha": "2026-11-23T12:47:49.317776",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reality"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Football Manager 27 llega con novedades para recuperar confianza tras FM26",
     "artista": "Football Manager 27",
     "intro": "Football Manager 27 se lanzó el 10 de noviembre de 2026 para PC, Mac, PlayStation 5, Xbox, versiones Touch y Mobile…",
@@ -5847,19 +5861,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Marvel y DCU"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Stream Fighters 5: Valdiri regresa y WestCol confirma fecha y cartelera",
-    "artista": "Stream Fighters",
-    "intro": "¡Se acabó la espera! Stream Fighters 5 ya tiene fecha, lugar y cartelera confirmada.",
-    "telegraph_url": "https://telegra.ph/Stream-Fighters-5-Valdiri-regresa-y-WestCol-confirma-fecha-y-cartelera-11-11",
-    "url": "https://enelensayomedia.com/notas/stream-fighters-5-valdiri-regresa-y-westcol-confirma-fecha-y-cartelera-1111.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/stream-fighters-5-valdiri-regresa-y-westcol-confirma-fecha-y-cartelera-1111.jpg",
-    "fecha": "2026-11-11T16:29:38.832115",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Streaming"
   }
 ]
