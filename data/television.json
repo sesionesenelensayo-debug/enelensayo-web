@@ -1,5 +1,5 @@
 {
- "actualizado": "23/11/2026 06:31",
+ "actualizado": "23/11/2026 12:37",
  "recomendadas": [
   {
    "slug": "spartacus",
@@ -54,16 +54,16 @@
      "fecha": "2026-11-23"
     },
     {
+     "titulo": "Breaking Bad: Fe-Li-Na, el final de la escapada",
+     "medio": "Nokton Magazine",
+     "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1oU29PdlBqYkh2bVRCeFBtSU12NjlUbFYyY3g4SXBpeTVYZDl0Qm55TzdRQnNzZXhPZHhXQU55WGNNSGl5NmZlVnFkejhpQ1d3SlBFOEhVZw?oc=5",
+     "fecha": "2026-11-22"
+    },
+    {
      "titulo": "El spin-off de 'Anatomía de Grey' va directa a urgencias: su traslado a la tierra de 'Breaking Bad' no es buena señal",
      "medio": "20 Minutos",
      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVkQ4aG54WEY3eElfUlpGc1VQM2ZrZHNpamJqcWowWGVVRFh6Qkx4dWJRU2hsbGxyQnhlMU54VGNuc0xoRXFRZ01SczViNjcyYUtVOHJpcG13bVo2UEFpWGlrb1BiU3NGYjAzTmJaU3p1SzFkWGgwZk1lSXk4R1lzdGFCUTlYUGdKVzVQZ3dtMWZsTklKQlowaFNYM3AtQTRtWXpvSDJUVTM5Zw?oc=5",
      "fecha": "2026-11-19"
-    },
-    {
-     "titulo": "¡Breaking Bad regresa! Bryan Cranston y Aaron Paul se reúnen para un nuevo lanzamiento de la serie de TV",
-     "medio": "Revista Merca2.0",
-     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOTHBlbzAyLTdZakdkVm41eTZEbGJVb3FTTnlBbUVMbjhuLUZoVl9JVG9BSl9ESGhoRTJ3SExEX2w1QWhzTG9rMzRJd1Exam4yRDRkeEtXTEtzQXpJMU1VUnpKVWFwZEcxcDZQQUNRLWNScFhkR2VMdDE0QU8wNVBZRFNPSmh1bjFsSy1DSzlvZkpuUzU3eGhZeUJKMWFscTI0VW1NZ3hHNFNBN28xa3JFTnozSUVtbF9sXzJYOE8wSFFSWTdxb1E?oc=5",
-     "fecha": "2026-11-17"
     }
    ]
   },
@@ -124,14 +124,52 @@
    "titulo": "Game of Thrones",
    "tipo": "Serie",
    "alias": "game of thrones|juego de tronos",
-   "noticias": []
+   "noticias": [
+    {
+     "titulo": "Los fans de «Juego de tronos» tienen su revancha: una nueva estrategia permitirá reescribir el final de la serie",
+     "medio": "iXBT.games",
+     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOalhEbk9YMFk0ZUR3TDdQTGNGalViY2dXRnFLNG5jb2xXZGRuRVp1N3NVd1pjOEM3RzNYZ0ZCM3JQa2RhZXlHNHQwZURScUdfbnVFM3p3eXpmemF2U3diXzd2M24yZ0lnNkRSbkRuNVJGTUFmZlU4d003bHNXMEcxYWN3LTBHeXpCdkl6NXIyeGNCbmViOXMtRlFFN3JNSkY2NXcybVpfeHBnNjRZeUk4dlFQbEx2SHNpaThFRmFMc1A4R2NJa2ZtMzY1eljSAdIBQVVfeXFMTlRYMnB3bFNnMHRlU19FNk9kdU9RT1o5WmxGZ0V6Y0JSN3Y4VlRqVkg0RkYxcWRnTzNUSFVVZ0tZR1NFbFRwd1J6a1VieU8tTHBCS0dGMExtVTRWYU5LZm96X093b2xLZXdvLXg1Z3VwRERvX0dOOVc0OU14Nm1TQ0NKbjBoSV9zcVdoN2JwMDQ2NEg5MWhQdHFudS1XMGROOFpLZ0xhaGMzbkd1QnUyWVcyZ05uaHlldVQtREJkZTF6SXRVTmxLRHpXUjE5aWpMRUV3?oc=5",
+     "fecha": "2026-11-23"
+    },
+    {
+     "titulo": "Game of Thrones tendrá un nuevo videojuego que permitirá cambiar el polémico final de la serie",
+     "medio": "Kotaku en Español",
+     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObk5obWFPMVpiWkdlTTBPY2czN3BDUXNVbXBqNjVnUWpfZGlTR2JGelpEQ3UzX1hPVDV0OUR6WnFrZUdTMW0xbHRUcGNMdnZtcHVTb0RjMjg4bXp3eDBkUllYOTFHVVZ2bV9mczJjSURyVE5wRjcxM2lsMkpscXVtMHU1ay10RWlLX3NqOFl5Q0RxdHpRWUItc3oxcmdPeUVVUGxwaS1PUUNhbEZtUnBJZktDUkJCTXZ2Z3BnaGpha290S001T0E?oc=5",
+     "fecha": "2026-11-21"
+    },
+    {
+     "titulo": "Jason Statham pedía 11 millones de dólares por esta película de acción: fue reemplazado por un actor de 'Game of Thrones'",
+     "medio": "SensaCine.com.mx",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9OZlJyME94Uk8taWgwS290TXZVbXJfMmtrb2NKRjVoNzJVTUtEdkd4T3B6TlNGNTdzSjdPbTRuSW1YTk1LQ2llVThCWkRYeWRjR29DX2dPS3BsRzllZkZRUU15OGhRX25m0gFuQVVfeXFMUG9hZEFCbFdhanFxeDNhOG84eXhmYXBOM3ZqcnJIYnV0TlpBYUxpdFo0cmpyaFRyMndVNHpFNHlkeEVGanItUEIwelYtRkZuQ0tUVmlBZ1FWRHZQNEhGNFg0ZVJtcVJFVVRWd3BLaGc?oc=5",
+     "fecha": "2026-11-21"
+    }
+   ]
   },
   {
    "slug": "outlander-blood-of-my-blood",
    "titulo": "Outlander: Blood of My Blood",
    "tipo": "Serie",
    "alias": "blood of my blood",
-   "noticias": []
+   "noticias": [
+    {
+     "titulo": "Outlander: Blood of My Blood cierra temporada con tensiones en Broch Tuarach",
+     "medio": "Foro3D",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVmVjdTM2ck5YY0hpRzRJZzhNb2FMWjE4YmZGME5rTGxaTklCeTVfaGtDV01ZazNXVHBEdVZsTHNaSFdXZ1RUQjhwOHp1SFJvMk9meVlPSXBycTFTMk1KOTNWX0RqQXZ1ZkZ1TlZCdWtaa2hSbmxIWXliaExCWDdmVEJsMjJMbG9aQ3VLamtWQk1YRXFfUlVaVVMtcDMtZXlHbnhDQmlnQVpJQjFxbVE?oc=5",
+     "fecha": "2026-11-21"
+    },
+    {
+     "titulo": "‘Outlander: Blood of My Blood’ Season 2 Episode 10 Release Date, Time and Where to Watch the Finale",
+     "medio": "IMDb",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jWkthbjdHYlRDRm9ObkdjYTFDeXhIYkZpT0s3bXlZM1ZSVmJRV0tBVlNDZzFXMXA5ZGYtbUlqSFdqR2JmUjRJb2VPU0VoTThtaWhWVTFtUDdLM0ZQOG0ycDRpb3pQU3Jn?oc=5",
+     "fecha": "2026-11-21"
+    },
+    {
+     "titulo": "Outlander: Blood of my Blood Season 2 Episode 9 Recap: “Another Man’s Shadow”",
+     "medio": "IMDb",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jR0lEQjFPbkhJOVdRM0syZXk4VDVpMGtoNGYyM3F2aEhSdjVyVFBnY1ZsZ2lzbUV1Yk40aTlEVEtjc1ktYWYwNl95MzBWZHdpQ3pPZkFLb2xPOUVkeUVIZEdxN2FHM0h6?oc=5",
+     "fecha": "2026-11-21"
+    }
+   ]
   },
   {
    "slug": "twisted-metal",
@@ -153,16 +191,16 @@
      "fecha": "2026-11-19"
     },
     {
+     "titulo": "'Kimetsu no Yaiba' podría durar \"10, 20, o incluso 100 años más\". Tras 'La fortaleza infinita', Sony está lista para explotar al máximo el anime de fa",
+     "medio": "Espinof",
+     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPU04wNkRKVTVvVmtHckl6cC1RaE45Xy05OFBoRFhhNDJLVXlUQzV2TFNQQ2lFbjUteTBtLWJCQW1JbW5UWGtTZlZlRjN6R1N4X0RiQU9uOTRMZjd3MGJ2WHpFV0ZPVGZ2cm9YZFdjd0QzQmN1MWY4TV9iYUtnUlVvX0t5Q2Vlcnhpb0JvdW10dDNMc1k1NFZzTXNBaWtQaUVwRnNwT1owY1RURmM5ZGs2Y3p1UkhESVpHa2lQNjlkVHhENi1XOEFfS2xmcTM1aHZEdHJ0QzBxTko3T3Q0NGZsR19qVkRYQ1JuOVZHTNIB8gFBVV95cUxPXzdvRWhpV1JrS3VlN3A5TWNvdGdmSGQ5VG85OW9oZkpBSHJlSzF5OXVQRTRlT3k5VkljZlAxaEVhY29rQnFBSnc5bDNzN2ZQWFlENU5ISWhCR2tEWnhkWU1EQlkzUzE3SHZNbGJxdjdFTjB2VjcxX1JQdlJGZm9tenlOY29XOVdmUldFbDRPT2h0MWFSTF9OdmxJS0tiRUFzYVczejRsMC1ybUhabUtIU0lXU0pDbTVtMnhpNWNUcG9HUGpqZnc5cHZOZDBHZnJJdkxmVWxvbEZmY003QXg5MUl1eHVkUEk1N2Y3bXNTRTFjQQ?oc=5",
+     "fecha": "2026-11-17"
+    },
+    {
      "titulo": "¿Demon Slayer en los Grammy 2027? Quién es LiSA, la voz emblemática del anime nominada en la categoría Best Asian Pop Music Performance",
      "medio": "TV Azteca",
      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNUXRISWhkOXVFTkdYSko0bm5BOThWSVdqZ2FlVEhpMEFnZEVKdlQxZmxwMXNiS3laZ3I2QnI2QmVQSHM0ODFBaHcyU1I3ekZKQVBhaVRXLVlBclB4OTBhdzV4MEEzNEFEMzBGNWgyeDN6V3pGaUplTXFrS09sckxnWktSaVhlOTFPeEExRFVVVERvSXhraEpjQ2FtdlN3XzB5SEI3bGNEajJJdVY1bngybExRLU9ob25KS1JnVnRNd3ctNU1vY0ZqcXZmcE9GaURTVW5YbkdVZXVxOXN2dkNGRUV4S2lUb3BIWFZpQ0ZRUWJZZ21XU2YtcUJIcTNjYzFIWkZQLU5PZmZpVWNHU3hZ?oc=5",
      "fecha": "2026-11-17"
-    },
-    {
-     "titulo": "'Kimetsu no Yaiba' podría durar \"10, 20, o incluso 100 años más\". Tras 'La fortaleza infinita', Sony está lista para explotar al máximo el anime de fa",
-     "medio": "Espinof",
-     "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPU04wNkRKVTVvVmtHckl6cC1RaE45Xy05OFBoRFhhNDJLVXlUQzV2TFNQQ2lFbjUteTBtLWJCQW1JbW5UWGtTZlZlRjN6R1N4X0RiQU9uOTRMZjd3MGJ2WHpFV0ZPVGZ2cm9YZFdjd0QzQmN1MWY4TV9iYUtnUlVvX0t5Q2Vlcnhpb0JvdW10dDNMc1k1NFZzTXNBaWtQaUVwRnNwT1owY1RURmM5ZGs2Y3p1UkhESVpHa2lQNjlkVHhENi1XOEFfS2xmcTM1aHZEdHJ0QzBxTko3T3Q0NGZsR19qVkRYQ1JuOVZHTNIB8gFBVV95cUxPXzdvRWhpV1JrS3VlN3A5TWNvdGdmSGQ5VG85OW9oZkpBSHJlSzF5OXVQRTRlT3k5VkljZlAxaEVhY29rQnFBSnc5bDNzN2ZQWFlENU5ISWhCR2tEWnhkWU1EQlkzUzE3SHZNbGJxdjdFTjB2VjcxX1JQdlJGZm9tenlOY29XOVdmUldFbDRPT2h0MWFSTF9OdmxJS0tiRUFzYVczejRsMC1ybUhabUtIU0lXU0pDbTVtMnhpNWNUcG9HUGpqZnc5cHZOZDBHZnJJdkxmVWxvbEZmY003QXg5MUl1eHVkUEk1N2Y3bXNTRTFjQQ?oc=5",
-     "fecha": "2026-11-16"
     }
    ]
   },
@@ -197,7 +235,26 @@
    "titulo": "Dragon Ball Super",
    "tipo": "Anime",
    "alias": "dragon ball super",
-   "noticias": []
+   "noticias": [
+    {
+     "titulo": "¿Por qué rehacer Dragon Ball Super? Dragon Ball Super: Beerus existe por una buena razón que quizás hayas pasado por alto",
+     "medio": "VidaExtra",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNjNSdzNhN3VuQzZQS3pTdFRUVDJJcUNOT2JZdWNPaUtKQ0lRTzM2MThDam0xeTBZTlVuSlFnVzFzcEJrTEhzRG5UUVpyV2NYbVNyWEc1RzVOeXZHMlFRSW1mVWREa0Q4M3A0bWVLVDJjSXpQZ2h5aE1hUGhQNmNjZV9SdWJjd0pXcmdMbl9tUDdkNFVxa3RQNzBfbXR4QUdfSldRclpaay03MnVkOUhBZjBLMWNheWRJcFdXUXRTY2RMNEtua0h4Y29QSk9RRGJY?oc=5",
+     "fecha": "2026-11-22"
+    },
+    {
+     "titulo": "Arranca la resurrección de Freezer: fecha de estreno, hora y link para ver el Episodio 7 de “Dragon Ball Super: Beerus”",
+     "medio": "El Comercio Perú",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSjBucF9mWXp6RU1nMnR3Q0lHRlVodi1PT2NhMmRxQmRyV1NrV2h3c1hObjYwNC05UXFPeS1fWmp3TVpldWQ0aEdScWZ0dEhZaFBjdmJrbHBUOEl4ZHpGc2t2ejVETU42bHFUM0lUSW9rVHFoeWhmWWZfQ1BtNnlTWWk2cUZuZzNLV1JrbmUwLU42b2tYTm4tQVdTcWRCVUtJczhjY1BvZnRaSzV1QmNBVFctcng3cmlWNWFsVWw1M0Y4SWQ0TDBHZkZ5Z1N5OXJnaDIxZlJwOU1KcFF0?oc=5",
+     "fecha": "2026-11-21"
+    },
+    {
+     "titulo": "Dragon Ball Super: Beerus estrena el episodio 2 con voces al español latino, y se confirma que hubo redoblaje para Mario Castañeda y José Luis Orozco",
+     "medio": "LEVELUP",
+     "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNYThMLUhzSmVKSWFCRlhpbG1Hd3JCU3M3M3kzQWg1OVFRY3Zmdzk3MGZGNjFnYXZtTGs3bmJ0RGV3WnZUQmtFNnhPeV9PS0hUZEFEX1FYMXYzdy13V1ZyZXltd1ByUWtPX1pIVkkzSm1aRFVQM05OS3NZbDVfT3NEdThDTWJfcVdQUDNNb2JUVTAyUVJrWjh0MkxnWllFZFNhZE5YNFFLN2FWdUs5cHpDV2s3X0dsQklaUkUydDNSLWlpSzJwQzM2bkZibGloalJKQzhUeFN4LTB3Q2p0QUVqQTlZY3NsMDdqak5UXzBhbnB0YVc4d0Yxa1JaTTNjdVI5RnN5WlNEN3djZC1XTUE?oc=5",
+     "fecha": "2026-11-19"
+    }
+   ]
   },
   {
    "slug": "black-sails",
@@ -225,7 +282,26 @@
    "titulo": "Succession",
    "tipo": "Serie",
    "alias": "\\bsuccession\\b",
-   "noticias": []
+   "noticias": [
+    {
+     "titulo": "Succession: Kieran Culkin duda sobre una posible continuación",
+     "medio": "24matins.es",
+     "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMXVBM1ZzZU92RjdnLVdZN3k1TTVXS3Jka202V25tRC1QU29NNzFJc19Uc3hobGdoaUtGTThvUXBqNEJpaDNldWFFRmVpYnBkMTY5THY5QnRORGgyZ0xxNUtXcUp3SG9BMkYwSXF2YWhKcFdLWFAwdk1SbWwzbFpTa2ExY2RYX0s5RlZhYWhQZ3VSb1JOUmc?oc=5",
+     "fecha": "2026-11-23"
+    },
+    {
+     "titulo": "Kieran Culkin dice que no le interesa una secuela de ‘Succession’: ‘Sería una terrible idea’",
+     "medio": "Yahoo en Español Vida y Estilo",
+     "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNODlOQ0hqc3RxWFFLQWZrTUxYOGF3SGxBWjVwVzN3YVRZb1dvZWE1N05ucTN4SlJnRXpBRzJadkRrMVozOFF1T08tOVlvMTlYb2NOaWRhOXctbWFXNUU3YkQ4QzJUMXR5Q2VkaDYwQWM5VVdKU0xjOThhQk9LT0huLTB0X3JnbFNVejhvQjdrZEZPOGxVd3ow?oc=5",
+     "fecha": "2026-11-22"
+    },
+    {
+     "titulo": "No habrá más Succession: Kieran Culkin rechaza cualquier spin-off de la serie",
+     "medio": "MUNDIARIO",
+     "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObVhKaUNmNDVDb3haeTY0RE83MjZldVNzWDlLM0wzbk5YTE84LTl6WXFNVjdseFN3MnJQdW1DVWJnc1pZNDdDU1U1TnNCWDA1dy1PNHZ6WmhSbkdrRmp1d3pUUllwbGV6Ry10R3VsTThDeGR5a3dyN2YzZldXMmpxUG4tZ3E0bUxXSE8xZFFkbWpTY1Jkemh2WlVtaXAyZF9IVzJCUGhMclFfWkQ4bGRwTWRR0gG3AUFVX3lxTE1NVEU3VkVPRTVrWXpkZUVLWEVQS2dPbnFsRHRWX2l5djdBVkRMNERIemFYZGNqWEx5OTNuQUZPVG1tSWZKM3ZEajNMQ3NyVU5XSTczZERMUEJhaHFBcjBETTM1ZF92b0N5V2lGbXViZlBCd2FreWdLeTRCTWhQQzI5VC1IYzB3SkN6Ym1XM2xTOXNfRW50cHNaWDRiMG9ORXNKTzN5NG00UXhGQnZhLW9IMTkwYnRkOA?oc=5",
+     "fecha": "2026-11-22"
+    }
+   ]
   },
   {
    "slug": "parks-and-recreation",
@@ -239,7 +315,14 @@
    "titulo": "Arrow",
    "tipo": "Serie",
    "alias": "\\barrow\\b",
-   "noticias": []
+   "noticias": [
+    {
+     "titulo": "Baywatch Premiere Night Set And Arrow Star Stephen Amell Says \"It's A Superhero Show\"",
+     "medio": "IMDb",
+     "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE12eXQ3WlhRLTRFVkdhaEF1ci1jd1A2em1CZ3pyZFFXb19YWVFHRElzTkFwVGNnR1J2MUU1bC1YQzRsTWlrbU1UZHpQZTFWSHNia2c?oc=5",
+     "fecha": "2026-11-22"
+    }
+   ]
   },
   {
    "slug": "legends-of-tomorrow",
@@ -349,7 +432,26 @@
    "tipo": "Serie",
    "alias": "blood of my blood",
    "oliver": true,
-   "noticias": []
+   "noticias": [
+    {
+     "titulo": "Outlander: Blood of My Blood cierra temporada con tensiones en Broch Tuarach",
+     "medio": "Foro3D",
+     "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVmVjdTM2ck5YY0hpRzRJZzhNb2FMWjE4YmZGME5rTGxaTklCeTVfaGtDV01ZazNXVHBEdVZsTHNaSFdXZ1RUQjhwOHp1SFJvMk9meVlPSXBycTFTMk1KOTNWX0RqQXZ1ZkZ1TlZCdWtaa2hSbmxIWXliaExCWDdmVEJsMjJMbG9aQ3VLamtWQk1YRXFfUlVaVVMtcDMtZXlHbnhDQmlnQVpJQjFxbVE?oc=5",
+     "fecha": "2026-11-21"
+    },
+    {
+     "titulo": "‘Outlander: Blood of My Blood’ Season 2 Episode 10 Release Date, Time and Where to Watch the Finale",
+     "medio": "IMDb",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jWkthbjdHYlRDRm9ObkdjYTFDeXhIYkZpT0s3bXlZM1ZSVmJRV0tBVlNDZzFXMXA5ZGYtbUlqSFdqR2JmUjRJb2VPU0VoTThtaWhWVTFtUDdLM0ZQOG0ycDRpb3pQU3Jn?oc=5",
+     "fecha": "2026-11-21"
+    },
+    {
+     "titulo": "Outlander: Blood of my Blood Season 2 Episode 9 Recap: “Another Man’s Shadow”",
+     "medio": "IMDb",
+     "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jR0lEQjFPbkhJOVdRM0syZXk4VDVpMGtoNGYyM3F2aEhSdjVyVFBnY1ZsZ2lzbUV1Yk40aTlEVEtjc1ktYWYwNl95MzBWZHdpQ3pPZkFLb2xPOUVkeUVIZEdxN2FHM0h6?oc=5",
+     "fecha": "2026-11-21"
+    }
+   ]
   },
   {
    "slug": "dragon-ball-super",
@@ -357,7 +459,26 @@
    "tipo": "Anime",
    "alias": "dragon ball super",
    "oliver": true,
-   "noticias": []
+   "noticias": [
+    {
+     "titulo": "¿Por qué rehacer Dragon Ball Super? Dragon Ball Super: Beerus existe por una buena razón que quizás hayas pasado por alto",
+     "medio": "VidaExtra",
+     "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNjNSdzNhN3VuQzZQS3pTdFRUVDJJcUNOT2JZdWNPaUtKQ0lRTzM2MThDam0xeTBZTlVuSlFnVzFzcEJrTEhzRG5UUVpyV2NYbVNyWEc1RzVOeXZHMlFRSW1mVWREa0Q4M3A0bWVLVDJjSXpQZ2h5aE1hUGhQNmNjZV9SdWJjd0pXcmdMbl9tUDdkNFVxa3RQNzBfbXR4QUdfSldRclpaay03MnVkOUhBZjBLMWNheWRJcFdXUXRTY2RMNEtua0h4Y29QSk9RRGJY?oc=5",
+     "fecha": "2026-11-22"
+    },
+    {
+     "titulo": "Arranca la resurrección de Freezer: fecha de estreno, hora y link para ver el Episodio 7 de “Dragon Ball Super: Beerus”",
+     "medio": "El Comercio Perú",
+     "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSjBucF9mWXp6RU1nMnR3Q0lHRlVodi1PT2NhMmRxQmRyV1NrV2h3c1hObjYwNC05UXFPeS1fWmp3TVpldWQ0aEdScWZ0dEhZaFBjdmJrbHBUOEl4ZHpGc2t2ejVETU42bHFUM0lUSW9rVHFoeWhmWWZfQ1BtNnlTWWk2cUZuZzNLV1JrbmUwLU42b2tYTm4tQVdTcWRCVUtJczhjY1BvZnRaSzV1QmNBVFctcng3cmlWNWFsVWw1M0Y4SWQ0TDBHZkZ5Z1N5OXJnaDIxZlJwOU1KcFF0?oc=5",
+     "fecha": "2026-11-21"
+    },
+    {
+     "titulo": "Dragon Ball Super: Beerus estrena el episodio 2 con voces al español latino, y se confirma que hubo redoblaje para Mario Castañeda y José Luis Orozco",
+     "medio": "LEVELUP",
+     "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNYThMLUhzSmVKSWFCRlhpbG1Hd3JCU3M3M3kzQWg1OVFRY3Zmdzk3MGZGNjFnYXZtTGs3bmJ0RGV3WnZUQmtFNnhPeV9PS0hUZEFEX1FYMXYzdy13V1ZyZXltd1ByUWtPX1pIVkkzSm1aRFVQM05OS3NZbDVfT3NEdThDTWJfcVdQUDNNb2JUVTAyUVJrWjh0MkxnWllFZFNhZE5YNFFLN2FWdUs5cHpDV2s3X0dsQklaUkUydDNSLWlpSzJwQzM2bkZibGloalJKQzhUeFN4LTB3Q2p0QUVqQTlZY3NsMDdqak5UXzBhbnB0YVc4d0Yxa1JaTTNjdVI5RnN5WlNEN3djZC1XTUE?oc=5",
+     "fecha": "2026-11-19"
+    }
+   ]
   },
   {
    "slug": "visionquest",
@@ -365,7 +486,26 @@
    "tipo": "Serie",
    "alias": "vision ?quest",
    "oliver": false,
-   "noticias": []
+   "noticias": [
+    {
+     "titulo": "‘VisionQuest’ rompe un récord de Marvel en Disney+: su final consigue 3.7 millones de reproducciones en un día",
+     "medio": "Nación Flix",
+     "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOeDRPTjlxaFowVGRUTy1udnR1RlloUEk0anB1clA3enZmR0hRY2dxNjY3ZFUtQUhNZDFzZ2YyVU1ZX0NYaW9KOFF0S2J1aWZuajFHQnlLUlFHZjJNelZKNmtPSW1fQjRIdkhWdVYzNW5CNTZqOHlyN1J1LU5nR0dhdHdqWVdkd0xjemlDSjRzcWQ0MzRIMXJnNVpMbjdNWUNReEwyTE9kZVRLUVp3Tk9NaUthMm5YMzM2UTBrVkpLVVBQWk9hZkRyT056dUdhX21ackZ6eDRSU05nQ0o5c2ZGZjVwQ3RKMTJhb2piVkxleXMxSk0?oc=5",
+     "fecha": "2026-11-15"
+    },
+    {
+     "titulo": "¿Cuál es la próxima serie de Marvel después de ‘VisionQuest’?",
+     "medio": "Hipertextual",
+     "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNWVdFYnhCWjhEWWl3Ykk1LXBLWnFLZFNEUzd1cnlJa29qc1B1VFZKTzZiMUV0c3o2a1ZiNGRlZndKWFlrT1M4ZTVMOGtzRjV0VjZkdUpFMnV1a1FNWmFLbWR6aFI1X01zT0pHUW91TGpVaEg2cU45VFprVk1XN0R4WkExZ2dIRFRmQVdYMjUzMjJvUUJleGFWVGhuV0k1T1Bi?oc=5",
+     "fecha": "2026-11-15"
+    },
+    {
+     "titulo": "El final de VisionQuest consiguió 3.7 millones de reproducciones en Disney+",
+     "medio": "MUNDIARIO",
+     "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOb2N4X2ZUY01IakV6QW5MYlpPVlNuSUkxaFUxS1V3RFdsMUlVVG53bDZNNzVydi0xekpYWE5yeUMxcHMwWGg5MlBsOXNaS28zbEQySmthVG9pTi1rdHpocjhNbEtJRzBoMFRVWk5rb1EwYXdDaW5ha1Zyd3dUUlFBU09FTnZFSTF5ZXR2S2NpbEI2R2VCU1BLSDdsU0dPaU13aWRIQ2dWQmNRRmlkU1JlaTF1VUQ4M1JyRGU1MS1tVlR5RThBM1ZsV3VOZ9IB0AFBVV95cUxQc1o4ODZmd1JXR2E0X1M2TFJkbUdtZDF4NURLSkxlTjNLTFhqUXE1YVFBdDl5enhGZzVlVi1YR2Q3LXU4bDljLXBpeGpRWkpadTBveFB3UVhrR1hOY2ZlcTBCT01EZXEtUjItMEQ4ajVSdkFCZlRaUGUxRGoxOUxZTDc4ZE9XMFlKQUVoNWc1Y2ZOLW91TWhscHZ0MUU4LWtGQkszeHlGSHdwNnU3SFU2QVRFaHg4RmQ5UjVicEVZRklIaW1pYXF6b2RHTk1lYUgx?oc=5",
+     "fecha": "2026-11-14"
+    }
+   ]
   },
   {
    "slug": "it-welcome-to-derry",

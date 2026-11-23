@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Football Manager 27 llega con novedades para recuperar confianza tras FM26",
+    "artista": "Football Manager 27",
+    "intro": "Football Manager 27 se lanzó el 10 de noviembre de 2026 para PC, Mac, PlayStation 5, Xbox, versiones Touch y Mobile…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/football-manager-27-llega-con-novedades-para-recuperar-confianza-tras-1123.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/football-manager-27-llega-con-novedades-para-recuperar-confianza-tras-1123.jpg",
+    "fecha": "2026-11-23T12:40:22.473143",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Miley Cyrus cumple 34 años y se casa con Maxx Morando en California",
     "artista": "Miley Cyrus",
     "intro": "Miley Cyrus celebra hoy sus 34 años mientras se prepara para un matrimonio secreto con el baterista Maxx Morando, según informó TMZ el 19 de noviembre.",
@@ -5847,19 +5861,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Streaming"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "David Walliams enfrenta graves acusaciones de mala conducta",
-    "artista": "David Walliams acusado de grooming",
-    "intro": "Una investigación periodística vincula al comediante y autor británico David Walliams con denuncias de conducta sexual inapropiada y una fallida batalla legal.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/david-walliams-enfrenta-graves-acusaciones-de-mala-conducta-1111.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/david-walliams-enfrenta-graves-acusaciones-de-mala-conducta-1111.jpg",
-    "fecha": "2026-11-11T16:13:12.254257",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme internacional"
   }
 ]
