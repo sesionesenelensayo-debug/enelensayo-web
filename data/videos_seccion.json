@@ -1,17 +1,12 @@
 {
- "Esports": {
-  "shorts": [
-   {
-    "id": "qEmUf8Ye2n8",
-    "titulo": "Mundial Sub-17 Qatar 2026: 48 selecciones, 104 partidos y el reto de la seguridad",
-    "fecha": "2026-11-22",
-    "nota": "https://enelensayomedia.com/notas/mundial-sub-17-qatar-2026-48-selecciones-104-partidos-y-el-reto-de-la-1122.html"
-   }
-  ],
-  "longs": []
- },
  "Reportaje": {
   "shorts": [
+   {
+    "id": "JvL-5LZjCm8",
+    "titulo": "Rihanna: 5 curiosidades de la artista barbadense",
+    "fecha": "2026-11-22",
+    "nota": "https://enelensayomedia.com/notas/rihanna-5-curiosidades-de-la-artista-barbadense-1122.html"
+   },
    {
     "id": "VpF0VS-J_p0",
     "titulo": "Steven Van Zandt: el guitarrista que debutó como actor",
@@ -65,6 +60,17 @@
     "titulo": "Chiquito de la Calzada: el humorista que transformó el habla",
     "fecha": "2026-11-11",
     "nota": "https://enelensayomedia.com/notas/chiquito-de-la-calzada-el-humorista-que-transformo-el-habla-1111.html"
+   }
+  ],
+  "longs": []
+ },
+ "Esports": {
+  "shorts": [
+   {
+    "id": "qEmUf8Ye2n8",
+    "titulo": "Mundial Sub-17 Qatar 2026: 48 selecciones, 104 partidos y el reto de la seguridad",
+    "fecha": "2026-11-22",
+    "nota": "https://enelensayomedia.com/notas/mundial-sub-17-qatar-2026-48-selecciones-104-partidos-y-el-reto-de-la-1122.html"
    }
   ],
   "longs": []
@@ -344,12 +350,6 @@
     "titulo": "5 curiosidades de Pink Floyd",
     "fecha": "2026-11-12",
     "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-pink-floyd-1112.html"
-   },
-   {
-    "id": "j48ESWt3Nyk",
-    "titulo": "5 curiosidades de Santana",
-    "fecha": "2026-11-10",
-    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-santana-1110.html"
    }
   ],
   "longs": []
@@ -379,12 +379,6 @@
     "titulo": "El cine latino cruza fronteras en Los Ángeles",
     "fecha": "2026-11-11",
     "nota": "https://enelensayomedia.com/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.html"
-   },
-   {
-    "id": "Cv388S5qotA",
-    "titulo": "Tom Hanks rechaza remake de \"El invisible Harvey\" y defiende el canon cinematográfico",
-    "fecha": "2026-11-10",
-    "nota": "https://enelensayomedia.com/notas/tom-hanks-rechaza-remake-de-el-invisible-harvey-y-defiende-el-canon-ci-1110.html"
    }
   ],
   "longs": [
