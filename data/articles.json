@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Manelyk le advierte a Julio Camejo: '¡Para ti no existo!' en La Granja VIP",
+    "artista": "Manelyk",
+    "intro": "En La Granja VIP, Manelyk González le lanza una contundente advertencia a Julio Camejo: '¡Para ti no existo!'.",
+    "telegraph_url": "https://telegra.ph/Manelyk-le-advierte-a-Julio-Camejo-Para-ti-no-existo-en-La-Granja-VIP-11-23",
+    "url": "https://enelensayomedia.com/notas/manelyk-le-advierte-a-julio-camejo-para-ti-no-existo-en-la-granja-vip-1123.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/manelyk-le-advierte-a-julio-camejo-para-ti-no-existo-en-la-granja-vip-1123.jpg",
+    "fecha": "2026-11-23T10:51:49.671907",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reality"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Myke Towers y Rauw Alejandro estrenan 'Tremendo desastre' en reguetón renovado",
     "artista": "Myke Towers",
     "intro": "Este nuevo estreno marca parte de una ola de lanzamientos que incluyen a Nicki Nicole, Estopa, Kapo y otros artistas latinos que redefinen sus sonidos urbanos y folclóricos.",
@@ -5848,20 +5862,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Pintores"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "En el Ensayo Media: las últimas horas de Chavela Vargas en Cuernavaca",
-    "artista": "Chavela Vargas",
-    "intro": "El canal En el Ensayo Media presenta un video breve que detalla los últimos días de la vida de Chavela Vargas.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/en-el-ensayo-media-las-ultimas-horas-de-chavela-vargas-en-cuernavaca-1111.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/en-el-ensayo-media-las-ultimas-horas-de-chavela-vargas-en-cuernavaca-1111.jpg",
-    "fecha": "2026-11-11T13:53:46.586867",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   }
 ]
