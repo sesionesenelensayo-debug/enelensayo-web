@@ -1,4 +1,33 @@
 {
+ "In memoriam": {
+  "shorts": [
+   {
+    "id": "vEOqYHY7n34",
+    "titulo": "Gerardo Masana, fundador de Les Luthiers, falleció el 23 de noviembre de 1973",
+    "fecha": "2026-11-23",
+    "nota": "https://enelensayomedia.com/notas/gerardo-masana-fundador-de-les-luthiers-fallecio-el-23-de-noviembre-de-1123.html"
+   },
+   {
+    "id": "MzYhk1JIYDs",
+    "titulo": "Martha Valdés, actriz que dejó el cine en 1959, fallece a los 86",
+    "fecha": "2026-11-20",
+    "nota": "https://enelensayomedia.com/notas/martha-valdes-actriz-que-dejo-el-cine-en-1959-fallece-a-los-86-1120.html"
+   },
+   {
+    "id": "mgn-ud1VQqc",
+    "titulo": "Marilyn Monroe murió la madrugada del 5 de agosto de 1962 en su residencia de Los Ángeles",
+    "fecha": "2026-11-18",
+    "nota": "https://enelensayomedia.com/notas/marilyn-monroe-murio-la-madrugada-del-5-de-agosto-de-1962-en-su-reside-1118.html"
+   },
+   {
+    "id": "Dn_keTbqg5A",
+    "titulo": "Frida Kahlo murió en 1954 por embolia pulmonar, confirmada por su enfermera",
+    "fecha": "2026-11-14",
+    "nota": "https://enelensayomedia.com/notas/frida-kahlo-murio-en-1954-por-embolia-pulmonar-confirmada-por-su-enfer-1114.html"
+   }
+  ],
+  "longs": []
+ },
  "Biografía": {
   "shorts": [
    {
@@ -402,29 +431,6 @@
     "nota": "https://enelensayomedia.com/notas/pearl-jam-el-caso-de-manuel-blanco-romasanta-el-primer-asesino-serial-1120.html"
    }
   ]
- },
- "In memoriam": {
-  "shorts": [
-   {
-    "id": "MzYhk1JIYDs",
-    "titulo": "Martha Valdés, actriz que dejó el cine en 1959, fallece a los 86",
-    "fecha": "2026-11-20",
-    "nota": "https://enelensayomedia.com/notas/martha-valdes-actriz-que-dejo-el-cine-en-1959-fallece-a-los-86-1120.html"
-   },
-   {
-    "id": "mgn-ud1VQqc",
-    "titulo": "Marilyn Monroe murió la madrugada del 5 de agosto de 1962 en su residencia de Los Ángeles",
-    "fecha": "2026-11-18",
-    "nota": "https://enelensayomedia.com/notas/marilyn-monroe-murio-la-madrugada-del-5-de-agosto-de-1962-en-su-reside-1118.html"
-   },
-   {
-    "id": "Dn_keTbqg5A",
-    "titulo": "Frida Kahlo murió en 1954 por embolia pulmonar, confirmada por su enfermera",
-    "fecha": "2026-11-14",
-    "nota": "https://enelensayomedia.com/notas/frida-kahlo-murio-en-1954-por-embolia-pulmonar-confirmada-por-su-enfer-1114.html"
-   }
-  ],
-  "longs": []
  },
  "Pintores": {
   "shorts": [
