@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Caifanes dará histórico concierto en Estadio GNP el 11 de julio",
+    "artista": "Caifanes",
+    "intro": "Caifanes dará un histórico concierto en el Estadio GNP de la Ciudad de México el 11 de julio. El evento marca un hito en la trayectoria de la banda, que regresa al escenario con su formación actual.",
+    "telegraph_url": "https://telegra.ph/Caifanes-dará-histórico-concierto-en-Estadio-GNP-el-11-de-julio-11-23",
+    "url": "https://enelensayomedia.com/notas/caifanes-dara-historico-concierto-en-estadio-gnp-el-11-de-julio-1123.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/caifanes-dara-historico-concierto-en-estadio-gnp-el-11-de-julio-1123.jpg",
+    "fecha": "2026-11-23T11:52:50.305456",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Oasis Live ’27: gira de 2027 inicia en Glasgow el 21 de mayo",
     "artista": "Oasis",
@@ -5846,20 +5860,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Televisión"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "En el Ensayo Media: la carrera y retiro de Avicii",
-    "artista": "Avicii",
-    "intro": "La pieza detalla su origen en Suecia, el inicio de su producción musical a los 16 años y su ascenso internacional con éxitos como Levels y el álbum True, antes de abordar las causas de su retiro.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/en-el-ensayo-media-la-carrera-y-retiro-de-avicii-1111.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/en-el-ensayo-media-la-carrera-y-retiro-de-avicii-1111.jpg",
-    "fecha": "2026-11-11T14:42:51.015125",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   }
 ]
