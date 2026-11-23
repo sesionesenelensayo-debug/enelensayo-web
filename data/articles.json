@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Hailee Steinfeld confirma su regreso como Kate Bishop en Avengers: Doomsday",
+    "artista": "Hailee Steinfeld",
+    "intro": "Hailee Steinfeld anunció su regreso al Universo Cinematográfico Marvel como Kate Bishop en la próxima película Avengers: Doomsday.",
+    "telegraph_url": "https://telegra.ph/Hailee-Steinfeld-confirma-su-regreso-como-Kate-Bishop-en-Avengers-Doomsday-11-23",
+    "url": "https://enelensayomedia.com/notas/hailee-steinfeld-confirma-su-regreso-como-kate-bishop-en-avengers-doom-1123.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/hailee-steinfeld-confirma-su-regreso-como-kate-bishop-en-avengers-doom-1123.jpg",
+    "fecha": "2026-11-23T14:53:51.982927",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Estrena la temporada 3 de 'Percy Jackson' en Disney+ con nuevos dioses",
     "artista": "Percy Jackson",
     "intro": "El 20 de noviembre de 2026 la tercera temporada de \"Percy Jackson y los dioses del Olimpo\" debutó en Disney+ y, en Estados Unidos, también en Hulu.",
@@ -5839,21 +5853,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Terror y misterio"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "GTA 6 podrá precargarse a partir del 12 de noviembre antes de su lanzamiento",
-    "artista": "GTA 6",
-    "intro": "Los jugadores que adquieran la versión digital de GTA 6 podrán iniciar la precarga del juego el 12 de noviembre de 2026, siete días antes de su salida oficial el 19 de noviembre.",
-    "telegraph_url": "https://telegra.ph/GTA-6-podrá-precargarse-a-partir-del-12-de-noviembre-antes-de-su-lanzamiento-11-06",
-    "url": "https://enelensayomedia.com/notas/gta-6-podra-precargarse-a-partir-del-12-de-noviembre-antes-de-su-lanza-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/gta-6-podra-precargarse-a-partir-del-12-de-noviembre-antes-de-su-lanza-1106.jpg",
-    "fecha": "2026-11-11T22:57:13.438474",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-11-06T07:31:53.812283",
-    "actualizada": true
   }
 ]
