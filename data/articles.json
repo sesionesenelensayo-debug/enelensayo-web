@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Gerardo Masana, fundador de Les Luthiers, falleció el 23 de noviembre de 1973",
+    "artista": "Gerardo Masana: el fundador de Les Luthiers falleció en 1973",
+    "intro": "El 23 de noviembre de 1973 murió Gerardo Héctor Masana, arquitecto, músico y creador del grupo humorístico argentino Les Luthiers.",
+    "telegraph_url": "https://telegra.ph/Gerardo-Masana-fundador-de-Les-Luthiers-falleció-el-23-de-noviembre-de-1973-11-23",
+    "url": "https://enelensayomedia.com/notas/gerardo-masana-fundador-de-les-luthiers-fallecio-el-23-de-noviembre-de-1123.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/gerardo-masana-fundador-de-les-luthiers-fallecio-el-23-de-noviembre-de-1123.jpg",
+    "fecha": "2026-11-23T09:48:38.492070",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "In memoriam"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "El origen oculto de Peso Pluma: el misterioso pueblo familiar",
     "artista": "Peso Pluma",
     "intro": "Peso Pluma, Hassan Emilio Kabande Laija, nació el 15 de junio de 1999 en Zapopan, Jalisco.",
@@ -5850,21 +5864,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Doblaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Penta Zero Miedo y Je’Von Evans ganan los Campeonatos de Parejas de WWE",
-    "artista": "Penta Zero Miedo",
-    "intro": "Penta Zero Miedo y Je’Von Evans conquistaron los Campeonatos Mundiales de Parejas de WWE en el evento Crown Jewel 2026, celebrado en Riad el 7 de noviembre de 2026.",
-    "telegraph_url": "https://telegra.ph/Penta-Zero-Miedo-y-JeVon-Evans-ganan-los-Campeonatos-de-Parejas-de-WWE-11-07",
-    "url": "https://enelensayomedia.com/notas/penta-zero-miedo-y-jevon-evans-ganan-los-campeonatos-de-parejas-de-wwe-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/penta-zero-miedo-y-jevon-evans-ganan-los-campeonatos-de-parejas-de-wwe-1107.jpg",
-    "fecha": "2026-11-11T10:30:13.971669",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Luchas",
-    "fecha_original": "2026-11-07T13:36:46.150205",
-    "actualizada": true
   }
 ]
