@@ -1,5 +1,22 @@
 [
   {
+    "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Scorpions anuncia giras 2027 en México y Europa con fechas confirmadas",
+    "artista": "Scorpions",
+    "intro": "La banda alemana Scorpions reprogramó sus conciertos en Guadalajara, Ciudad de México y Monterrey para 2027.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/scorpions-anuncia-giras-2027-en-mexico-y-europa-con-fechas-confirmadas-1123.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/scorpions-anuncia-giras-2027-en-mexico-y-europa-con-fechas-confirmadas-1123.jpg",
+    "fecha": "2026-11-23T13:37:15.723201",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos",
+    "fecha_original": "2026-11-23T11:53:45.878994",
+    "ultima_actualizacion": "2026-11-23T13:37:15.723201",
+    "actualizada": true
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "Bud Light pierde más de 6.000 millones en valor tras asociarse con Dylan Mulvaney",
@@ -100,20 +117,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Streaming"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Scorpions anuncia giras 2027 en México y Europa con fechas confirmadas",
-    "artista": "Scorpions",
-    "intro": "La banda alemana Scorpions reprogramó sus conciertos en Guadalajara, Ciudad de México y Monterrey para 2027.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/scorpions-anuncia-giras-2027-en-mexico-y-europa-con-fechas-confirmadas-1123.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/scorpions-anuncia-giras-2027-en-mexico-y-europa-con-fechas-confirmadas-1123.jpg",
-    "fecha": "2026-11-23T11:53:45.878994",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
   },
   {
     "opinion": false,
