@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Thalía y Yolanda Andrade se reúnen en México tras actuación con Karol G",
+    "artista": "Thalía",
+    "intro": "Thalía regresó a la Ciudad de México el 13 de noviembre de 2026 como sorpresa de Karol G en el Estadio GNP, donde interpretaron juntas tres de sus clásicos.",
+    "telegraph_url": "https://telegra.ph/Thalía-y-Yolanda-Andrade-se-reúnen-en-México-tras-actuación-con-Karol-G-11-23",
+    "url": "https://enelensayomedia.com/notas/thalia-y-yolanda-andrade-se-reunen-en-mexico-tras-actuacion-con-karol-1123.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/thalia-y-yolanda-andrade-se-reunen-en-mexico-tras-actuacion-con-karol-1123.jpg",
+    "fecha": "2026-11-23T10:17:59.222472",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Britney Spears llega a Londres para explorar grabaciones musicales",
     "artista": "Britney Spears",
     "intro": "Britney Spears llegó a Londres el 19 de noviembre de 2026, según reportes de medios, con el objetivo de grabar nuevas canciones.",
@@ -5849,19 +5863,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Luchas"
-  },
-  {
-    "opinion": false,
-    "tipo": "entrevista",
-    "titulo": "Santiago Abascal cancela entrevista en The Wild Project por polémica con Vox",
-    "artista": "Santiago Abascal",
-    "intro": "El líder de Vox, Santiago Abascal, dio la sorpresa al cancelar su aparición en The Wild Project, el programa de Jordi Wild, programado para el miércoles 11 de noviembre.",
-    "telegraph_url": "https://telegra.ph/Santiago-Abascal-cancela-entrevista-en-The-Wild-Project-por-polémica-con-Vox-11-11",
-    "url": "https://enelensayomedia.com/notas/santiago-abascal-cancela-entrevista-en-the-wild-project-por-polemica-c-1111.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/santiago-abascal-cancela-entrevista-en-the-wild-project-por-polemica-c-1111.jpg",
-    "fecha": "2026-11-11T13:33:22.889546",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Streaming"
   }
 ]
