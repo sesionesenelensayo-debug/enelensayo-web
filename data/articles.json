@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Bud Light y Jaguar pagan por asociarse con la agenda 'woke'",
+    "artista": "MITO vs REALIDAD",
+    "intro": "En el video 'MITO vs REALIDAD: Asociarse con la agenda woke no le cuesta nada a una marca'…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/bud-light-y-jaguar-pagan-por-asociarse-con-la-agenda-woke-1123.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/bud-light-y-jaguar-pagan-por-asociarse-con-la-agenda-woke-1123.jpg",
+    "fecha": "2026-11-23T17:30:26.162921",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Kid Voodoo es el primer chileno en ganar Los40 Music Awards",
     "artista": "Kid Voodoo",
     "intro": "Kid Voodoo se consolida como el primer artista chileno en alzarse con un premio Los40 Music Awards, un hito que marca la presencia internacional de la música chilena en el circuito hispanohablante.",
@@ -5838,19 +5853,5 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-10-31T09:33:41.980255",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Nueve rusos cortaron su tienda desde adentro: El misterio del paso Dyatlov",
-    "artista": "Caso del Dyatlov Pass, febrero de 1959, montes Urales (Rusia): nueve excursionistas murieron en una noche helada tras cortar su tienda desde adentro y salir descalzos; algunos tenían fracturas graves y rastros de radiación en la ropa, y aunque en 2020 se atribuyó a un alud de nieve, el caso sigue debatiéndose y es muy popular en México.",
-    "intro": "En enero de 1959, nueve estudiantes del Instituto Politécnico de los Urales, liderados por Igor Dyatlov, realizaron una expedición de esquí hacia el monte Otorten en los montes Urales.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/nueve-rusos-cortaron-su-tienda-desde-adentro-el-misterio-del-paso-dyat-1111.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/nueve-rusos-cortaron-su-tienda-desde-adentro-el-misterio-del-paso-dyat-1111.jpg",
-    "fecha": "2026-11-11T23:02:15.269424",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Terror y misterio"
   }
 ]
