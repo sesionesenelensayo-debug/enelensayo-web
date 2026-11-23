@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Steven Van Zandt: el guitarrista que debutó como actor",
+    "artista": "Steven Van Zandt: el guitarrista que debutó como actor",
+    "intro": "El 22 de noviembre de 2026, Steven Van Zandt alcanza una nueva fecha en su vida personal mientras su legado en la música y la televisión sigue vigente.",
+    "telegraph_url": "https://telegra.ph/Steven-Van-Zandt-el-guitarrista-que-debutó-como-actor-11-23",
+    "url": "https://enelensayomedia.com/notas/steven-van-zandt-el-guitarrista-que-debuto-como-actor-1122.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/steven-van-zandt-el-guitarrista-que-debuto-como-actor-1122.jpg",
+    "fecha": "2026-11-22T18:15:33.983317",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Netflix y sindicato pactan pagos en Alemania pero la IA sigue en disputa",
     "artista": "Netflix y doblaje alemán",
     "intro": "Netflix y el sindicato de actores BFFS alcanzaron un nuevo acuerdo de regulación de pago para producciones dobladas al alemán, tras reportes dados a conocer el 16 de noviembre de 2026.",
@@ -5861,19 +5875,5 @@
     "categoria": "Streaming",
     "fecha_original": "2026-11-10T14:32:31.669197",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Santana celebra ocho Grammys y dos hits número uno en Billboard",
-    "artista": "Santana",
-    "intro": "Una publicación reciente enumeró cinco datos sobresalientes de la carrera de Carlos Santana…",
-    "telegraph_url": "https://telegra.ph/Santana-celebra-ocho-Grammys-y-dos-hits-número-uno-en-Billboard-11-11",
-    "url": "https://enelensayomedia.com/notas/santana-celebra-ocho-grammys-y-dos-hits-numero-uno-en-billboard-1110.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/santana-celebra-ocho-grammys-y-dos-hits-numero-uno-en-billboard-1110.jpg",
-    "fecha": "2026-11-10T20:41:02.054749",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reportaje"
   }
 ]
