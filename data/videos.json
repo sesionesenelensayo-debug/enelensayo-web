@@ -63,6 +63,11 @@
   ],
   "longs": [
     {
+      "id": "PJVvi_wWTxE",
+      "titulo": "Bruce Lee: El dragón que conquistó el mundo",
+      "fecha": "2026-11-23"
+    },
+    {
       "id": "qEmUf8Ye2n8",
       "titulo": "Mundial Sub-17 Qatar 2026: 48 selecciones, 104 partidos y el reto de la seguridad",
       "fecha": "2026-11-22"
@@ -85,11 +90,6 @@
     {
       "id": "dBY2oZFE1bQ",
       "titulo": "Edurne y David de Gea: ¿Se separan? Lo que dice la prensa",
-      "fecha": "2026-11-21"
-    },
-    {
-      "id": "MMcU-T0z-tg",
-      "titulo": "La Chica Dorada",
       "fecha": "2026-11-21"
     }
   ],

@@ -1,5 +1,12 @@
 [
   {
+    "artista": "Bruce Lee",
+    "slug": "bruce-lee",
+    "imagen": "",
+    "piezas": 1,
+    "updated": "2026-11-23 12:04"
+  },
+  {
     "artista": "Mundial Sub-17 Qatar 2026",
     "slug": "mundial-sub-17-qatar-2026",
     "imagen": "",

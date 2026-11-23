@@ -1,0 +1,16 @@
+{
+  "artista": "Bruce Lee",
+  "slug": "bruce-lee",
+  "imagen": "",
+  "shorts": [],
+  "longs": [
+    {
+      "titulo": "Bruce Lee: El dragón que conquistó el mundo",
+      "url": "https://www.youtube.com/shorts/PJVvi_wWTxE",
+      "fecha": "2026-11-23",
+      "tipo": "long"
+    }
+  ],
+  "tweets": [],
+  "updated": "2026-11-23 12:04"
+}
