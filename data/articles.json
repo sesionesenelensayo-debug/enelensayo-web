@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Mundial Sub-17 Qatar 2026: 48 selecciones, 104 partidos y el reto de la seguridad",
+    "artista": "Mundial Sub 17",
+    "intro": "La Copa Mundial Sub-17 de la FIFA en Qatar 2026 contará con 48 equipos, 12 grupos y 104 partidos entre el 19 de noviembre y el 13 de diciembre.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/mundial-sub-17-qatar-2026-48-selecciones-104-partidos-y-el-reto-de-la-1122.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/mundial-sub-17-qatar-2026-48-selecciones-104-partidos-y-el-reto-de-la-1122.jpg",
+    "fecha": "2026-11-22T19:19:47.522191",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Steven Van Zandt: el guitarrista que debutó como actor",
     "artista": "Steven Van Zandt: el guitarrista que debutó como actor",
     "intro": "El 22 de noviembre de 2026, Steven Van Zandt alcanza una nueva fecha en su vida personal mientras su legado en la música y la televisión sigue vigente.",
@@ -5859,21 +5873,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Datos curiosos"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "¡Werevertumorro se arma su propio videojuego y causa revuelo con la IA!",
-    "artista": "Werevertumorro",
-    "intro": "¡Ay, mi gente! ¡El buen Gabo Montiel lo volvió a hacer y anda desatado en el mundo del gaming!",
-    "telegraph_url": "https://telegra.ph/Werevertumorro-se-arma-su-propio-videojuego-y-causa-revuelo-con-la-IA-11-10",
-    "url": "https://enelensayomedia.com/notas/werevertumorro-se-arma-su-propio-videojuego-y-causa-revuelo-con-la-ia-1110.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/werevertumorro-se-arma-su-propio-videojuego-y-causa-revuelo-con-la-ia-1110.jpg",
-    "fecha": "2026-11-10T20:55:43.868877",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Streaming",
-    "fecha_original": "2026-11-10T14:32:31.669197",
-    "actualizada": true
   }
 ]
