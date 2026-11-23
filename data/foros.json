@@ -217,6 +217,16 @@
    "auto": true
   },
   {
+   "nombre": "Foro 304",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "Pedro Ascencio",
+   "lat": 19.359991,
+   "lon": -99.164767,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
    "nombre": "Bar Oriente",
    "ciudad": "Ciudad de México",
    "estado": "Distrito Federal",
