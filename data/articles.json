@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "entrevista",
+    "titulo": "Cody Rhodes destaca diferencia entre cine y WWE en entrevista reciente",
+    "artista": "Cody Rhodes",
+    "intro": "Cody Rhodes, talentoso luchador y actor de la WWE, ha compartido recientemente su perspectiva sobre la diferencia entre rodar una película y producir un show de lucha libre.",
+    "telegraph_url": "https://telegra.ph/Cody-Rhodes-destaca-diferencia-entre-cine-y-WWE-en-entrevista-reciente-11-23",
+    "url": "https://enelensayomedia.com/notas/cody-rhodes-destaca-diferencia-entre-cine-y-wwe-en-entrevista-reciente-1123.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/cody-rhodes-destaca-diferencia-entre-cine-y-wwe-en-entrevista-reciente-1123.jpg",
+    "fecha": "2026-11-23T13:40:21.369221",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Entrevista"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Scorpions anuncia giras 2027 en México y Europa con fechas confirmadas",
     "artista": "Scorpions",
@@ -5847,19 +5861,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reportaje"
-  },
-  {
-    "opinion": true,
-    "tipo": "reportaje",
-    "titulo": "El caos del DCU: Lanterns y la farsa de su segunda temporada",
-    "artista": "Lanterns",
-    "intro": "El fallido universo de DC Studios vuelve a demostrar su absoluta ineptitud organizativa tras el cierre de la primera temporada de Lanterns el pasado 4 de octubre de 2026.",
-    "telegraph_url": "https://telegra.ph/El-caos-del-DCU-Lanterns-y-la-farsa-de-su-segunda-temporada-11-12",
-    "url": "https://enelensayomedia.com/notas/el-caos-del-dcu-lanterns-y-la-farsa-de-su-segunda-temporada-1111.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-caos-del-dcu-lanterns-y-la-farsa-de-su-segunda-temporada-1111.jpg",
-    "fecha": "2026-11-11T18:05:30.349751",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU"
   }
 ]
