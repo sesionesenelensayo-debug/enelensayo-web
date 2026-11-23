@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Twenty One Pilots y The Offspring se apoderan del Corona Capital 2026",
+    "artista": "Twenty One Pilots",
+    "intro": "Twenty One Pilots y The Offspring encabezaron el segundo día del Corona Capital 2026 en el Autódromo Hermanos Rodríguez, con Twenty One Pilots cerrando la jornada entre las 23:05 y las 00:35.",
+    "telegraph_url": "https://telegra.ph/Twenty-One-Pilots-y-The-Offspring-se-apoderan-del-Corona-Capital-2026-11-23",
+    "url": "https://enelensayomedia.com/notas/twenty-one-pilots-y-the-offspring-se-apoderan-del-corona-capital-2026-1123.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/twenty-one-pilots-y-the-offspring-se-apoderan-del-corona-capital-2026-1123.jpg",
+    "fecha": "2026-11-23T11:16:06.334567",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Beth Gibbons concierto en México el 5 de junio de 2027",
     "artista": "Beth Gibbons",
@@ -5847,19 +5861,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Avicii: el día que se retiró de los escenarios en 2016",
-    "artista": "Avicii: el día que se retiró de los escenarios en 2016",
-    "intro": "El 2016 marcó un punto de inflexión definitivo para la música electrónica global cuando Avicii decidió abandonar los escenarios.",
-    "telegraph_url": "https://telegra.ph/Avicii-el-día-que-se-retiró-de-los-escenarios-en-2016-11-11",
-    "url": "https://enelensayomedia.com/notas/avicii-el-dia-que-se-retiro-de-los-escenarios-en-2016-1111.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/avicii-el-dia-que-se-retiro-de-los-escenarios-en-2016-1111.jpg",
-    "fecha": "2026-11-11T14:33:06.344315",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reportaje"
   }
 ]
