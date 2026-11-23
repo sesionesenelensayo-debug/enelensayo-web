@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Donnie Wahlberg comparte su 'lista de reproducción' tras bautismo y colaboración con música cri",
+    "artista": "Donnie Wahlberg y su lista de reproducción",
+    "intro": "El actor y cantante de New Kids on the Block reveló su nueva fe en Cristo mediante videos y un remix con Forrest Frank.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/donnie-wahlberg-comparte-su-lista-de-reproduccion-tras-bautismo-y-cola-1122.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/donnie-wahlberg-comparte-su-lista-de-reproduccion-tras-bautismo-y-cola-1122.jpg",
+    "fecha": "2026-11-22T20:22:19.026979",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme internacional"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Rihanna: 5 curiosidades de la artista barbadense",
     "artista": "Rihanna",
     "intro": "Rihanna no soñaba con ser cantante; quería estudiar en el extranjero y salir de Barbados. Antes de su primer contrato, vivió meses en casa del productor Evan Rogers, grabando canciones no publicadas.",
@@ -5857,20 +5871,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Doblaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Tom Hanks rechaza remake de \"El invisible Harvey\" y defiende el canon cinematográfico",
-    "artista": "MITO vs REALIDAD",
-    "intro": "El video de En el Ensayo Media contrasta el mito de que cambiar al actor en un remake no afecta la esencia con la postura real de Tom Hanks…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/tom-hanks-rechaza-remake-de-el-invisible-harvey-y-defiende-el-canon-ci-1110.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/tom-hanks-rechaza-remake-de-el-invisible-harvey-y-defiende-el-canon-ci-1110.jpg",
-    "fecha": "2026-11-10T21:24:11.810115",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Cine"
   }
 ]
