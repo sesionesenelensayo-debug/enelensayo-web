@@ -1,39 +1,44 @@
 {
- "actualizado": "2026-11-22 02:57",
+ "actualizado": "2026-11-23 02:19",
  "general": [
+  {
+   "titulo": "Rumor: Hayley Atwell dice que el tráiler de ‘Avengers: Doomsday’ saldrá el lunes 23",
+   "url": "https://enelensayomedia.com/notas/rumor-hayley-atwell-dice-que-el-trailer-de-avengers-doomsday-saldra-el-1122.html",
+   "visitas": 6
+  },
+  {
+   "titulo": "Oobah: Scams for a Better Tomorrow llega a HBO Max con un sérum de lágrimas de niños",
+   "url": "https://enelensayomedia.com/notas/oobah-scams-for-a-better-tomorrow-llega-a-hbo-max-con-un-serum-de-lagr-1122.html",
+   "visitas": 5
+  },
+  {
+   "titulo": "Los Perros del Mal retoman el Campeonato Mundial de Tríos en AAA",
+   "url": "https://enelensayomedia.com/notas/los-perros-del-mal-retoman-el-campeonato-mundial-de-trios-en-aaa-1122.html",
+   "visitas": 5
+  },
   {
    "titulo": "Rumor: Wanda Maximoff podría regresar en 'Avengers: Doomsday' según postcréditos de 'VisionQuest'",
    "url": "https://enelensayomedia.com/notas/rumor-wanda-maximoff-podria-regresar-en-avengers-doomsday-segun-postcr-1121.html",
    "visitas": 5
   },
   {
-   "titulo": "WWE registra 'Gringo Anónimo' y 'Anónimo Gringo' para explotar legado de Los Perros del Mal",
-   "url": "https://enelensayomedia.com/notas/wwe-registra-gringo-anonimo-y-anonimo-gringo-para-explotar-legado-de-l-1121.html",
-   "visitas": 5
-  },
-  {
-   "titulo": "Blue Exorcist vuelve a Netflix con temporada 1 y doblaje original",
-   "url": "https://enelensayomedia.com/notas/blue-exorcist-vuelve-a-netflix-con-temporada-1-y-doblaje-original-1121.html",
+   "titulo": "Solo Leveling: serie live-action no se estrenaría hasta 2028 en Netflix",
+   "url": "https://enelensayomedia.com/notas/solo-leveling-serie-live-action-no-se-estrenaria-hasta-2028-en-netflix-1122.html",
    "visitas": 4
   },
   {
-   "titulo": "Cartel del Coachella 2026: edad media, países y quiénes están en el top 100",
-   "url": "https://enelensayomedia.com/notas/cartel-del-coachella-2026-edad-media-paises-y-quienes-estan-en-el-top-1121.html",
-   "visitas": 4
-  },
-  {
-   "titulo": "Marvel muestra a Rosario Dawson en Spider-Man: Brand New Day",
-   "url": "https://enelensayomedia.com/notas/marvel-muestra-a-rosario-dawson-en-spider-man-brand-new-day-1121.html",
-   "visitas": 4
-  },
-  {
-   "titulo": "Mía Rubín confirma ruptura con Tarik Othón por diferencias profesionales",
-   "url": "https://enelensayomedia.com/notas/mia-rubin-confirma-ruptura-con-tarik-othon-por-diferencias-profesional-1121.html",
+   "titulo": "Mundial Sub-17 Qatar 2026: 48 selecciones, 104 partidos y el reto de la seguridad",
+   "url": "https://enelensayomedia.com/notas/mundial-sub-17-qatar-2026-48-selecciones-104-partidos-y-el-reto-de-la-1122.html",
    "visitas": 4
   }
  ],
  "categorias": {
   "marvel y dcu": [
+   {
+    "titulo": "Rumor: Hayley Atwell dice que el tráiler de ‘Avengers: Doomsday’ saldrá el lunes 23",
+    "url": "https://enelensayomedia.com/notas/rumor-hayley-atwell-dice-que-el-trailer-de-avengers-doomsday-saldra-el-1122.html",
+    "visitas": 6
+   },
    {
     "titulo": "Rumor: Wanda Maximoff podría regresar en 'Avengers: Doomsday' según postcréditos de 'VisionQuest'",
     "url": "https://enelensayomedia.com/notas/rumor-wanda-maximoff-podria-regresar-en-avengers-doomsday-segun-postcr-1121.html",
@@ -43,25 +48,81 @@
     "titulo": "Marvel muestra a Rosario Dawson en Spider-Man: Brand New Day",
     "url": "https://enelensayomedia.com/notas/marvel-muestra-a-rosario-dawson-en-spider-man-brand-new-day-1121.html",
     "visitas": 4
+   },
+   {
+    "titulo": "Man of Tomorrow: el DCU se ahonda en la oscuridad con un Superman caído",
+    "url": "https://enelensayomedia.com/notas/man-of-tomorrow-el-dcu-se-ahonda-en-la-oscuridad-con-un-superman-caido-1122.html",
+    "visitas": 3
+   }
+  ],
+  "televisión": [
+   {
+    "titulo": "Oobah: Scams for a Better Tomorrow llega a HBO Max con un sérum de lágrimas de niños",
+    "url": "https://enelensayomedia.com/notas/oobah-scams-for-a-better-tomorrow-llega-a-hbo-max-con-un-serum-de-lagr-1122.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "Comienza el rodaje de la temporada 3 de 'Tierra de mafiosos'",
+    "url": "https://enelensayomedia.com/notas/comienza-el-rodaje-de-la-temporada-3-de-tierra-de-mafiosos-1122.html",
+    "visitas": 3
    }
   ],
   "luchas": [
    {
-    "titulo": "WWE registra 'Gringo Anónimo' y 'Anónimo Gringo' para explotar legado de Los Perros del Mal",
-    "url": "https://enelensayomedia.com/notas/wwe-registra-gringo-anonimo-y-anonimo-gringo-para-explotar-legado-de-l-1121.html",
+    "titulo": "Los Perros del Mal retoman el Campeonato Mundial de Tríos en AAA",
+    "url": "https://enelensayomedia.com/notas/los-perros-del-mal-retoman-el-campeonato-mundial-de-trios-en-aaa-1122.html",
     "visitas": 5
    },
    {
-    "titulo": "Hechicero busca revancha ante Zack Sabre Jr. en Wrestle Kingdom 21",
-    "url": "https://enelensayomedia.com/notas/hechicero-busca-revancha-ante-zack-sabre-jr-en-wrestle-kingdom-21-1121.html",
+    "titulo": "Kiana James abandona WWE SmackDown y revela polémico personaje 'Una Percento' en AAA",
+    "url": "https://enelensayomedia.com/notas/kiana-james-abandona-wwe-smackdown-y-revela-polemico-personaje-una-per-1122.html",
     "visitas": 3
    }
   ],
   "doblaje": [
    {
+    "titulo": "Solo Leveling: serie live-action no se estrenaría hasta 2028 en Netflix",
+    "url": "https://enelensayomedia.com/notas/solo-leveling-serie-live-action-no-se-estrenaria-hasta-2028-en-netflix-1122.html",
+    "visitas": 4
+   },
+   {
+    "titulo": "Netflix y sindicato pactan pagos en Alemania pero la IA sigue en disputa",
+    "url": "https://enelensayomedia.com/notas/netflix-y-sindicato-pactan-pagos-en-alemania-pero-la-ia-sigue-en-dispu-1122.html",
+    "visitas": 4
+   },
+   {
     "titulo": "Blue Exorcist vuelve a Netflix con temporada 1 y doblaje original",
     "url": "https://enelensayomedia.com/notas/blue-exorcist-vuelve-a-netflix-con-temporada-1-y-doblaje-original-1121.html",
     "visitas": 4
+   }
+  ],
+  "esports": [
+   {
+    "titulo": "Mundial Sub-17 Qatar 2026: 48 selecciones, 104 partidos y el reto de la seguridad",
+    "url": "https://enelensayomedia.com/notas/mundial-sub-17-qatar-2026-48-selecciones-104-partidos-y-el-reto-de-la-1122.html",
+    "visitas": 4
+   }
+  ],
+  "reality": [
+   {
+    "titulo": "Bebeshita y Bicolor llegan a La Granja VIP por caminos distintos",
+    "url": "https://enelensayomedia.com/notas/bebeshita-y-bicolor-llegan-a-la-granja-vip-por-caminos-distintos-1122.html",
+    "visitas": 4
+   },
+   {
+    "titulo": "Moisés Peñaloza no olvida el pleito con Yahir en La Casa de los Famosos México",
+    "url": "https://enelensayomedia.com/notas/moises-penaloza-no-olvida-el-pleito-con-yahir-en-la-casa-de-los-famoso-1122.html",
+    "visitas": 4
+   },
+   {
+    "titulo": "La Mansión VIP 2 revela tabla de votos para segunda eliminación del 22/11",
+    "url": "https://enelensayomedia.com/notas/la-mansion-vip-2-revela-tabla-de-votos-para-segunda-eliminacion-del-22-1122.html",
+    "visitas": 4
+   },
+   {
+    "titulo": "Reencuentro emotivo de Brianda, Masad, Ximena y Janet tras el reality",
+    "url": "https://enelensayomedia.com/notas/reencuentro-emotivo-de-brianda-masad-ximena-y-janet-tras-el-reality-1122.html",
+    "visitas": 2
    }
   ],
   "música": [
@@ -71,11 +132,18 @@
     "visitas": 4
    }
   ],
-  "chisme": [
+  "reportaje": [
    {
-    "titulo": "Mía Rubín confirma ruptura con Tarik Othón por diferencias profesionales",
-    "url": "https://enelensayomedia.com/notas/mia-rubin-confirma-ruptura-con-tarik-othon-por-diferencias-profesional-1121.html",
-    "visitas": 4
+    "titulo": "Músico es baleado tras discusión con su pareja policía en Chorrillos",
+    "url": "https://enelensayomedia.com/notas/musico-es-baleado-tras-discusion-con-su-pareja-policia-en-chorrillos-1122.html",
+    "visitas": 3
+   }
+  ],
+  "conciertos": [
+   {
+    "titulo": "Lupita D'Alessio en Auditorio Nacional",
+    "url": "https://enelensayomedia.com/notas/lupita-d-alessio-en-auditorio-nacional-1122.html",
+    "visitas": 3
    }
   ],
   "entrevista": [
