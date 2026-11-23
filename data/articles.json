@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Atresplayer anuncia séptima temporada de Drag Race España",
+    "artista": "Drag Race España",
+    "intro": "Atresplayer confirmó este lunes 23 de noviembre que la sexta edición de Drag Race España continuará con una séptima temporada.",
+    "telegraph_url": "https://telegra.ph/Atresplayer-anuncia-séptima-temporada-de-Drag-Race-España-11-23",
+    "url": "https://enelensayomedia.com/notas/atresplayer-anuncia-septima-temporada-de-drag-race-espana-1123.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/atresplayer-anuncia-septima-temporada-de-drag-race-espana-1123.jpg",
+    "fecha": "2026-11-23T11:47:21.152721",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Televisión"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Gerardo Masana, fundador de Les Luthiers, fallece en 1973",
     "artista": "Gerardo Masana",
     "intro": "En el video «Gerardo Masana: el fundador de Les Luthiers falleció en 1973», el canal En el Ensayo Media recuerda la vida y legado de Gerardo Héctor Maana, arquitecto…",
@@ -5847,20 +5861,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reportaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "El misterio del movimiento natural en la Ronda de noche de Rembrandt",
-    "artista": "Rembrandt",
-    "intro": "El video explora la ilusión óptica de la pintura, que parece nocturna pero representa una escena diurna…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-misterio-del-movimiento-natural-en-la-ronda-de-noche-de-rembrandt-1111.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-misterio-del-movimiento-natural-en-la-ronda-de-noche-de-rembrandt-1111.jpg",
-    "fecha": "2026-11-11T14:30:22.253453",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Pintores"
   }
 ]
