@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Red Hot Chili Peppers: Mundial Sub-17 Qatar 2026: 48 selecciones y el reto de la seguridad",
+    "artista": "Red Hot Chili Peppers",
+    "intro": "En el video publicado por el canal En el Ensayo Media, se analiza el Mundial Sub-17 Qatar 2026, un torneo que reunió a 48 selecciones en 104 partidos distribuidos en 12 grupos de cuatro equipos.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/red-hot-chili-peppers-mundial-sub-17-qatar-2026-48-selecciones-y-el-re-1122.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/red-hot-chili-peppers-mundial-sub-17-qatar-2026-48-selecciones-y-el-re-1122.jpg",
+    "fecha": "2026-11-22T21:07:54.440323",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Raphael es hospitalizado de emergencia en España",
     "artista": "Raphael",
     "intro": "El cantante español Raphael fue hospitalizado de emergencia en A Coruña, España, tras sufrir un malestar minutos antes de ofrecer un concierto en el Coliseum.",
@@ -5856,19 +5871,5 @@
     "categoria": "Esports",
     "fecha_original": "2026-11-09T11:22:04.584302",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "The Later Daters regresa con segunda temporada y nuevo elenco de celebridades",
-    "artista": "Later Daters temporada 2",
-    "intro": "Netflix confirmó que la serie de citas para estrellas debutará el 30 de diciembre de 2026 con un grupo renovado y guía experta.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/the-later-daters-regresa-con-segunda-temporada-y-nuevo-elenco-de-celeb-1111.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/the-later-daters-regresa-con-segunda-temporada-y-nuevo-elenco-de-celeb-1111.jpg",
-    "fecha": "2026-11-11T09:22:00.621914",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme internacional"
   }
 ]
