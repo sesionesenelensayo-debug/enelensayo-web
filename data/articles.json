@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Miley Cyrus cumple 34 años y se casa con Maxx Morando en California",
+    "artista": "Miley Cyrus",
+    "intro": "Miley Cyrus celebra hoy sus 34 años mientras se prepara para un matrimonio secreto con el baterista Maxx Morando, según informó TMZ el 19 de noviembre.",
+    "telegraph_url": "https://telegra.ph/Miley-Cyrus-cumple-34-años-y-se-casa-con-Maxx-Morando-en-California-11-23",
+    "url": "https://enelensayomedia.com/notas/miley-cyrus-cumple-34-anos-y-se-casa-con-maxx-morando-en-california-1123.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/miley-cyrus-cumple-34-anos-y-se-casa-con-maxx-morando-en-california-1123.jpg",
+    "fecha": "2026-11-23T12:03:26.231942",
+    "author": "Oliver Ken",
+    "views": 0,
+    "nota_dia": true,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "CostaKid agrediendo a una mujer en transmisión en vivo en Kick",
     "artista": "CostaKid",
     "intro": "El streamer británico CostaKid fue captado agrediendo a una mujer durante una transmisión en vivo en la plataforma Kick.",
@@ -5846,19 +5861,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme internacional"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Warhammer Survivors llega a consolas, PC y móviles con Game Pass",
-    "artista": "Warhammer Survivors",
-    "intro": "El lanzamiento de Warhammer Survivors marca un movimiento importante en la industria al estrenarse de manera simultánea en consolas, PC y dispositivos móviles…",
-    "telegraph_url": "https://telegra.ph/Warhammer-Survivors-llega-a-consolas-PC-y-móviles-con-Game-Pass-11-11",
-    "url": "https://enelensayomedia.com/notas/warhammer-survivors-llega-a-consolas-pc-y-moviles-con-game-pass-1111.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/warhammer-survivors-llega-a-consolas-pc-y-moviles-con-game-pass-1111.jpg",
-    "fecha": "2026-11-11T15:25:11.539204",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos"
   }
 ]
