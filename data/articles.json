@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Da Itatí Cantoral dobla a la Reina Celeste en 'Hechizo: Bienvenidos a Hexe'",
+    "artista": "Reina malvada",
+    "intro": "Da Itatí Cantoral da voz a la Reina Celeste, villana de la próxima película animada de Disney 'Hechizo: Bienvenidos a Hexe', que se estrena este jueves 26 de noviembre.",
+    "telegraph_url": "https://telegra.ph/Da-Itatí-Cantoral-dobla-a-la-Reina-Celeste-en-Hechizo-Bienvenidos-a-Hexe-11-23",
+    "url": "https://enelensayomedia.com/notas/da-itati-cantoral-dobla-a-la-reina-celeste-en-hechizo-bienvenidos-a-he-1123.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/da-itati-cantoral-dobla-a-la-reina-celeste-en-hechizo-bienvenidos-a-he-1123.jpg",
+    "fecha": "2026-11-23T13:53:30.616262",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
     "tipo": "entrevista",
     "titulo": "Cody Rhodes destaca diferencia entre cine y WWE en entrevista reciente",
     "artista": "Cody Rhodes",
@@ -5847,19 +5861,5 @@
     "categoria": "Cine",
     "fecha_original": "2026-10-31T15:14:16.845601",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Chiquito de la Calzada: el humorista que transformó el habla",
-    "artista": "Chiquito de la Calzada: invirtió 'fistro' en el habla",
-    "intro": "Chiquito de la Calzada transformó el habla cotidiana de España con la invención de vocablos únicos.",
-    "telegraph_url": "https://telegra.ph/Chiquito-de-la-Calzada-el-humorista-que-transformó-el-habla-11-12",
-    "url": "https://enelensayomedia.com/notas/chiquito-de-la-calzada-el-humorista-que-transformo-el-habla-1111.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/chiquito-de-la-calzada-el-humorista-que-transformo-el-habla-1111.jpg",
-    "fecha": "2026-11-11T18:14:47.138772",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reportaje"
   }
 ]
