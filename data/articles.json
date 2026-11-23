@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "5 curiosidades de Rihanna",
+    "artista": "Rihanna",
+    "intro": "El canal En el Ensayo Media publicó un video de un minuto titulado “5 curiosidades de Rihanna”, en el que se presentan datos poco conocidos sobre la cantante barbadense.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-rihanna-1122.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-rihanna-1122.jpg",
+    "fecha": "2026-11-22T20:43:17.263815",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Datos curiosos"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Donnie Wahlberg comparte su 'lista de reproducción' tras bautismo y colaboración con música cri",
     "artista": "Donnie Wahlberg y su lista de reproducción",
     "intro": "El actor y cantante de New Kids on the Block reveló su nueva fe en Cristo mediante videos y un remix con Forrest Frank.",
@@ -5857,19 +5872,5 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-10T11:46:51.987685",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "¿Leslie Polinesia o Diana Galván? La guerra de voces en Netflix",
-    "artista": "Actores de doblaje",
-    "intro": "La industria del doblaje latinoamericano enfrenta una crisis de identidad. Actores profesionales denuncian la suplantación de voces por parte de celebridades y creadores de contenido…",
-    "telegraph_url": "https://telegra.ph/Leslie-Polinesia-o-Diana-Galván-La-guerra-de-voces-en-Netflix-11-11",
-    "url": "https://enelensayomedia.com/notas/leslie-polinesia-o-diana-galvan-la-guerra-de-voces-en-netflix-1110.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/leslie-polinesia-o-diana-galvan-la-guerra-de-voces-en-netflix-1110.jpg",
-    "fecha": "2026-11-10T21:30:31.664465",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Doblaje"
   }
 ]
