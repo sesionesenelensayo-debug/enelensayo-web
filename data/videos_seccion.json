@@ -1,12 +1,46 @@
 {
- "Reportaje": {
+ "Datos curiosos": {
   "shorts": [
    {
     "id": "JvL-5LZjCm8",
-    "titulo": "Rihanna: 5 curiosidades de la artista barbadense",
+    "titulo": "5 curiosidades de Rihanna",
     "fecha": "2026-11-22",
-    "nota": "https://enelensayomedia.com/notas/rihanna-5-curiosidades-de-la-artista-barbadense-1122.html"
+    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-rihanna-1122.html"
    },
+   {
+    "id": "z8VceO_oIZs",
+    "titulo": "5 curiosidades de The Beatles",
+    "fecha": "2026-11-21",
+    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-the-beatles-1121.html"
+   },
+   {
+    "id": "PPkLjwp1VWU",
+    "titulo": "5 curiosidades de Pearl Jam",
+    "fecha": "2026-11-15",
+    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-pearl-jam-1115.html"
+   },
+   {
+    "id": "H12UPdqfPYc",
+    "titulo": "5 curiosidades de Pink Floyd",
+    "fecha": "2026-11-12",
+    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-pink-floyd-1112.html"
+   }
+  ],
+  "longs": []
+ },
+ "Esports": {
+  "shorts": [
+   {
+    "id": "qEmUf8Ye2n8",
+    "titulo": "Mundial Sub-17 Qatar 2026: 48 selecciones, 104 partidos y el reto de la seguridad",
+    "fecha": "2026-11-22",
+    "nota": "https://enelensayomedia.com/notas/mundial-sub-17-qatar-2026-48-selecciones-104-partidos-y-el-reto-de-la-1122.html"
+   }
+  ],
+  "longs": []
+ },
+ "Reportaje": {
+  "shorts": [
    {
     "id": "VpF0VS-J_p0",
     "titulo": "Steven Van Zandt: el guitarrista que debutó como actor",
@@ -60,17 +94,6 @@
     "titulo": "Chiquito de la Calzada: el humorista que transformó el habla",
     "fecha": "2026-11-11",
     "nota": "https://enelensayomedia.com/notas/chiquito-de-la-calzada-el-humorista-que-transformo-el-habla-1111.html"
-   }
-  ],
-  "longs": []
- },
- "Esports": {
-  "shorts": [
-   {
-    "id": "qEmUf8Ye2n8",
-    "titulo": "Mundial Sub-17 Qatar 2026: 48 selecciones, 104 partidos y el reto de la seguridad",
-    "fecha": "2026-11-22",
-    "nota": "https://enelensayomedia.com/notas/mundial-sub-17-qatar-2026-48-selecciones-104-partidos-y-el-reto-de-la-1122.html"
    }
   ],
   "longs": []
@@ -327,29 +350,6 @@
     "titulo": "Los videojuegos peor calificados según reportes en noviembre 2026",
     "fecha": "2026-11-21",
     "nota": "https://enelensayomedia.com/notas/los-videojuegos-peor-calificados-segun-reportes-en-noviembre-2026-1121.html"
-   }
-  ],
-  "longs": []
- },
- "Datos curiosos": {
-  "shorts": [
-   {
-    "id": "z8VceO_oIZs",
-    "titulo": "5 curiosidades de The Beatles",
-    "fecha": "2026-11-21",
-    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-the-beatles-1121.html"
-   },
-   {
-    "id": "PPkLjwp1VWU",
-    "titulo": "5 curiosidades de Pearl Jam",
-    "fecha": "2026-11-15",
-    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-pearl-jam-1115.html"
-   },
-   {
-    "id": "H12UPdqfPYc",
-    "titulo": "5 curiosidades de Pink Floyd",
-    "fecha": "2026-11-12",
-    "nota": "https://enelensayomedia.com/notas/5-curiosidades-de-pink-floyd-1112.html"
    }
   ],
   "longs": []

@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Raphael es hospitalizado de emergencia en España",
+    "artista": "Raphael",
+    "intro": "El cantante español Raphael fue hospitalizado de emergencia en A Coruña, España, tras sufrir un malestar minutos antes de ofrecer un concierto en el Coliseum.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/raphael-es-hospitalizado-de-emergencia-en-espana-1122.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/raphael-es-hospitalizado-de-emergencia-en-espana-1122.jpg",
+    "fecha": "2026-11-22T21:03:05.263905",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "5 curiosidades de Rihanna",
     "artista": "Rihanna",
     "intro": "El canal En el Ensayo Media publicó un video de un minuto titulado “5 curiosidades de Rihanna”, en el que se presentan datos poco conocidos sobre la cantante barbadense.",
@@ -5856,21 +5870,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme internacional"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Novedades y juegos gratis de PS Plus Extra y Premium",
-    "artista": "PS Plus",
-    "intro": "Sony anunció la tanda de juegos de PS Plus Extra y Premium para noviembre de 2026, destacando la llegada de Death Stranding 2: On the Beach como el título principal del catálogo.",
-    "telegraph_url": "https://telegra.ph/Novedades-y-juegos-gratis-de-PS-Plus-Extra-y-Premium-11-10",
-    "url": "https://enelensayomedia.com/notas/novedades-y-juegos-gratis-de-ps-plus-extra-y-premium-1110.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/novedades-y-juegos-gratis-de-ps-plus-extra-y-premium-1110.jpg",
-    "fecha": "2026-11-10T23:00:20.987462",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-11-10T11:46:51.987685",
-    "actualizada": true
   }
 ]
