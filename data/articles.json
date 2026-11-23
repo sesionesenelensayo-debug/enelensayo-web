@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Oasis Live ’27: gira de 2027 inicia en Glasgow el 21 de mayo",
+    "artista": "Oasis",
+    "intro": "La banda británica anunció su gira de reunión 2027, con 38‑39 conciertos en ocho países, comenzando en Glasgow y cerrando en Knebworth durante el verano.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/oasis-live-27-gira-de-2027-inicia-en-glasgow-el-21-de-mayo-1123.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/oasis-live-27-gira-de-2027-inicia-en-glasgow-el-21-de-mayo-1123.jpg",
+    "fecha": "2026-11-23T11:52:01.254117",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Atresplayer anuncia séptima temporada de Drag Race España",
     "artista": "Drag Race España",
@@ -5847,19 +5861,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Avicii: el día que se retiró de los escenarios en 2016",
-    "artista": "Avicii: el día que se retiró de los escenarios en 2016",
-    "intro": "El 2016 marcó un punto de inflexión definitivo para la música electrónica global cuando Avicii decidió abandonar los escenarios.",
-    "telegraph_url": "https://telegra.ph/Avicii-el-día-que-se-retiró-de-los-escenarios-en-2016-11-11",
-    "url": "https://enelensayomedia.com/notas/avicii-el-dia-que-se-retiro-de-los-escenarios-en-2016-1111.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/avicii-el-dia-que-se-retiro-de-los-escenarios-en-2016-1111.jpg",
-    "fecha": "2026-11-11T14:33:06.344315",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reportaje"
   }
 ]
