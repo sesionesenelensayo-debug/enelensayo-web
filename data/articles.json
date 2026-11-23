@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Britney Spears llega a Londres para explorar grabaciones musicales",
+    "artista": "Britney Spears",
+    "intro": "Britney Spears llegó a Londres el 19 de noviembre de 2026, según reportes de medios, con el objetivo de grabar nuevas canciones.",
+    "telegraph_url": "https://telegra.ph/Britney-Spears-llega-a-Londres-para-explorar-grabaciones-musicales-11-23",
+    "url": "https://enelensayomedia.com/notas/britney-spears-llega-a-londres-para-explorar-grabaciones-musicales-1123.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/britney-spears-llega-a-londres-para-explorar-grabaciones-musicales-1123.jpg",
+    "fecha": "2026-11-23T10:13:35.251513",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Centavrvs publica 'La Partida': cierre de etapa y nueva fase en su trayectoria",
     "artista": "Centavrvs",
     "intro": "El 20 de noviembre de 2026, Centavrvs lanzó el sencillo 'La Partida', una pieza retrofuturista y de aire folclórico que reinterpreta una composición del músico chileno Víctor Jara.",
@@ -5849,19 +5863,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Streaming"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Chavela Vargas muere en Cuernavaca; su último suspiro: 'Me voy con México'",
-    "artista": "Chavela Vargas: sus últimas palabras en Cuernavaca",
-    "intro": "El 30 de julio de 2012, la legendaria cantante Chavela Vargas fue ingresada en un hospital de Cuernavaca por fallas crónicas en corazón, pulmones y riñones. Seis días después, a los 93 años, falleció.",
-    "telegraph_url": "https://telegra.ph/Chavela-Vargas-muere-en-Cuernavaca-su-último-suspiro-Me-voy-con-México-11-11",
-    "url": "https://enelensayomedia.com/notas/chavela-vargas-muere-en-cuernavaca-su-ultimo-suspiro-me-voy-con-mexico-1111.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/chavela-vargas-muere-en-cuernavaca-su-ultimo-suspiro-me-voy-con-mexico-1111.jpg",
-    "fecha": "2026-11-11T13:04:59.183532",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
