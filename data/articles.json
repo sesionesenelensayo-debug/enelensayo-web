@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Beth Gibbons concierto en México el 5 de junio de 2027",
+    "artista": "Beth Gibbons",
+    "intro": "Beth Gibbons regresa a México con su álbum 'Lives Outgrown' en el Teatro Metropólitan.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/beth-gibbons-concierto-en-mexico-el-5-de-junio-de-2027-1123.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/beth-gibbons-concierto-en-mexico-el-5-de-junio-de-2027-1123.jpg",
+    "fecha": "2026-11-23T11:09:29.386929",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Manelyk le advierte a Julio Camejo: '¡Para ti no existo!' en La Granja VIP",
     "artista": "Manelyk",
@@ -5847,20 +5861,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reportaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "El misterio del movimiento natural en la Ronda de noche de Rembrandt",
-    "artista": "Rembrandt",
-    "intro": "El video explora la ilusión óptica de la pintura, que parece nocturna pero representa una escena diurna…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-misterio-del-movimiento-natural-en-la-ronda-de-noche-de-rembrandt-1111.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-misterio-del-movimiento-natural-en-la-ronda-de-noche-de-rembrandt-1111.jpg",
-    "fecha": "2026-11-11T14:30:22.253453",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Pintores"
   }
 ]
