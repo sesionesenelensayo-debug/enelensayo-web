@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Niurka genera polémica y enfrentamientos en La Granja VIP",
+    "artista": "Niurka (La Granja VIP)",
+    "intro": "Niurka Marcos protagonizó polémica y enfrentamientos en La Granja VIP, donde criticó a Manelyk González y recibió condena de Flor Rubio y el Capi.",
+    "telegraph_url": "https://telegra.ph/Niurka-genera-polémica-y-enfrentamientos-en-La-Granja-VIP-11-23",
+    "url": "https://enelensayomedia.com/notas/niurka-genera-polemica-y-enfrentamientos-en-la-granja-vip-1123.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/niurka-genera-polemica-y-enfrentamientos-en-la-granja-vip-1123.jpg",
+    "fecha": "2026-11-23T14:22:43.236458",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reality"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Paola Dalay y César Romo escapan a Cancún en medio de polémica familiar",
     "artista": "Paola Dalay y César Romo",
     "intro": "Paola Dalay y César Romo se escaparon a la playa en Cancún este fin de semana, en un contexto de polémica tras la ruptura de Dalay con José Eduardo Derbez.",
@@ -5841,20 +5855,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "El cine latino cruza fronteras en Los Ángeles",
-    "artista": "Cine Latino",
-    "intro": "Se reporta que el cine latino está cruzando fronteras en Los Ángeles, un hecho que destaca la expansión de la producción audiovisual hispana en la capital californiana.",
-    "telegraph_url": "https://telegra.ph/El-cine-latino-cruza-fronteras-en-Los-Ángeles-11-02",
-    "url": "https://enelensayomedia.com/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-cine-latino-cruza-fronteras-en-los-angeles-1102.jpg",
-    "fecha": "2026-11-11T20:37:13.052566",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-02T09:01:26.357011",
-    "actualizada": true
   }
 ]
