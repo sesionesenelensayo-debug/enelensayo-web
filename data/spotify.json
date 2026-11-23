@@ -125,124 +125,124 @@
   {
    "n": 1,
    "nombre": "Fuerza Regida",
-   "valor": 6073283,
+   "valor": 5446510,
    "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
   },
   {
    "n": 2,
    "nombre": "Neton Vega",
-   "valor": 5935361,
+   "valor": 5283233,
    "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
   },
   {
    "n": 3,
    "nombre": "Victor Mendivil",
-   "valor": 3779305,
+   "valor": 3332362,
    "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
   },
   {
    "n": 4,
    "nombre": "Junior H",
-   "valor": 3211926,
+   "valor": 2872900,
    "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
   },
   {
    "n": 5,
-   "nombre": "Natanael Cano",
-   "valor": 2985888,
-   "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+   "nombre": "Omar Camacho",
+   "valor": 2474222,
+   "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
   },
   {
    "n": 6,
-   "nombre": "Omar Camacho",
-   "valor": 2792872,
-   "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
+   "nombre": "Natanael Cano",
+   "valor": 2262012,
+   "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
   },
   {
    "n": 7,
    "nombre": "Tito Double P",
-   "valor": 2448193,
+   "valor": 2142435,
    "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
   },
   {
    "n": 8,
    "nombre": "Peso Pluma",
-   "valor": 2439920,
+   "valor": 2130572,
    "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
   },
   {
    "n": 9,
    "nombre": "Calle 24",
-   "valor": 2272341,
+   "valor": 2060842,
    "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
   },
   {
    "n": 10,
    "nombre": "KAROL G",
-   "valor": 2099691,
+   "valor": 1546105,
    "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
   },
   {
    "n": 11,
-   "nombre": "El Rabbanito",
-   "valor": 1284471,
-   "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
-  },
-  {
-   "n": 12,
    "nombre": "LOS DOS DE TAMAULIPAS",
-   "valor": 1279579,
+   "valor": 1167199,
    "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
   },
   {
+   "n": 12,
+   "nombre": "El Rabbanito",
+   "valor": 1140522,
+   "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
+  },
+  {
    "n": 13,
-   "nombre": "Bad Bunny",
-   "valor": 1185035,
-   "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+   "nombre": "Lenin Ramírez",
+   "valor": 1042298,
+   "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
   },
   {
    "n": 14,
-   "nombre": "Lenin Ramírez",
-   "valor": 1169387,
-   "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+   "nombre": "Bad Bunny",
+   "valor": 1005243,
+   "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
   },
   {
    "n": 15,
    "nombre": "Grupo Firme",
-   "valor": 1092548,
+   "valor": 955344,
    "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
   },
   {
    "n": 16,
-   "nombre": "Oscar Maydon",
-   "valor": 1022438,
-   "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-  },
-  {
-   "n": 17,
-   "nombre": "El Bogueto",
-   "valor": 922681,
-   "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-  },
-  {
-   "n": 18,
-   "nombre": "Eden Muñoz",
-   "valor": 920260,
-   "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-  },
-  {
-   "n": 19,
    "nombre": "Clave Especial",
-   "valor": 899909,
+   "valor": 807441,
    "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
   },
   {
-   "n": 20,
+   "n": 17,
+   "nombre": "Eden Muñoz",
+   "valor": 806055,
+   "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+  },
+  {
+   "n": 18,
+   "nombre": "El Bogueto",
+   "valor": 802977,
+   "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+  },
+  {
+   "n": 19,
    "nombre": "Cardenales De Nuevo León",
-   "valor": 844942,
+   "valor": 789136,
    "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+  },
+  {
+   "n": 20,
+   "nombre": "Bobby Pulido",
+   "valor": 749025,
+   "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
   }
  ],
  "fuente": "Spotify vía kworb.net",
- "actualizado": "2026-11-23 12:47"
+ "actualizado": "2026-11-23 14:53"
 }
