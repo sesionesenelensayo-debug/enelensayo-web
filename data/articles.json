@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Scorpions anuncia giras 2027 en México y Europa con fechas confirmadas",
+    "artista": "Scorpions",
+    "intro": "La banda alemana Scorpions reprogramó sus conciertos en Guadalajara, Ciudad de México y Monterrey para 2027.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/scorpions-anuncia-giras-2027-en-mexico-y-europa-con-fechas-confirmadas-1123.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/scorpions-anuncia-giras-2027-en-mexico-y-europa-con-fechas-confirmadas-1123.jpg",
+    "fecha": "2026-11-23T11:53:45.878994",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Caifanes dará histórico concierto en Estadio GNP el 11 de julio",
     "artista": "Caifanes",
@@ -5846,19 +5860,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Marvel y DCU"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Dean Norris vende su mansión en California por 3,2 millones",
-    "artista": "Breaking Bad",
-    "intro": "Dean Norris, reconocido por interpretar a Hank Schrader en Breaking Bad, puso a la venta su finca ubicada en Temecula, California, por un precio de lista de 3.199.267 dólares.",
-    "telegraph_url": "https://telegra.ph/Dean-Norris-vende-su-mansión-en-California-por-32-millones-11-11",
-    "url": "https://enelensayomedia.com/notas/dean-norris-vende-su-mansion-en-california-por-3-2-millones-1111.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/dean-norris-vende-su-mansion-en-california-por-3-2-millones-1111.jpg",
-    "fecha": "2026-11-11T14:54:59.330677",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Televisión"
   }
 ]
