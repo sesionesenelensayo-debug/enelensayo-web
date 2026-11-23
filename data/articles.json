@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Lesslie Polinesia debuta en el doblaje de 'Hermanastras' de Netflix",
+    "artista": "Lesslie Polinesia",
+    "intro": "Lesslie Polinesia, creadora de contenido mexicana conocida por YouTube y redes sociales, da voz a Margot, una de las hermanastras…",
+    "telegraph_url": "https://telegra.ph/Lesslie-Polinesia-debuta-en-el-doblaje-de-Hermanastras-de-Netflix-11-23",
+    "url": "https://enelensayomedia.com/notas/lesslie-polinesia-debuta-en-el-doblaje-de-hermanastras-de-netflix-1123.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/lesslie-polinesia-debuta-en-el-doblaje-de-hermanastras-de-netflix-1123.jpg",
+    "fecha": "2026-11-23T11:19:17.484474",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Twenty One Pilots y The Offspring se apoderan del Corona Capital 2026",
     "artista": "Twenty One Pilots",
     "intro": "Twenty One Pilots y The Offspring encabezaron el segundo día del Corona Capital 2026 en el Autódromo Hermanos Rodríguez, con Twenty One Pilots cerrando la jornada entre las 23:05 y las 00:35.",
@@ -5846,20 +5860,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Televisión"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "En el Ensayo Media: la carrera y retiro de Avicii",
-    "artista": "Avicii",
-    "intro": "La pieza detalla su origen en Suecia, el inicio de su producción musical a los 16 años y su ascenso internacional con éxitos como Levels y el álbum True, antes de abordar las causas de su retiro.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/en-el-ensayo-media-la-carrera-y-retiro-de-avicii-1111.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/en-el-ensayo-media-la-carrera-y-retiro-de-avicii-1111.jpg",
-    "fecha": "2026-11-11T14:42:51.015125",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   }
 ]
