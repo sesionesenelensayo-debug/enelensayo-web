@@ -1,85 +1,100 @@
 {
- "actualizado": "2026-11-23 02:19",
+ "actualizado": "2026-11-23 15:32",
  "general": [
   {
-   "titulo": "Rumor: Hayley Atwell dice que el tráiler de ‘Avengers: Doomsday’ saldrá el lunes 23",
-   "url": "https://enelensayomedia.com/notas/rumor-hayley-atwell-dice-que-el-trailer-de-avengers-doomsday-saldra-el-1122.html",
+   "titulo": "Yetus Prime ingresa a La Mansión VIP 2 el 16 de noviembre",
+   "url": "https://enelensayomedia.com/notas/yetus-prime-ingresa-a-la-mansion-vip-2-el-16-de-noviembre-1117.html",
+   "visitas": 9
+  },
+  {
+   "titulo": "Estrenos de series y películas en Netflix, Disney+, Prime Video y HBO Max este jueves",
+   "url": "https://enelensayomedia.com/notas/estrenos-de-series-y-peliculas-en-netflix-disney-prime-video-y-hbo-max-1120.html",
+   "visitas": 8
+  },
+  {
+   "titulo": "Supergirl de Milly Alcock: el colapso taquillero que confirma el fracaso del DCU",
+   "url": "https://enelensayomedia.com/notas/supergirl-de-milly-alcock-el-colapso-taquillero-que-confirma-el-fracas-1117.html",
+   "visitas": 8
+  },
+  {
+   "titulo": "Daniel Boaventura vende su concierto en Auditorio Nacional con Orquesta Sinfónica de Minería",
+   "url": "https://enelensayomedia.com/notas/daniel-boaventura-vende-su-concierto-en-auditorio-nacional-con-orquest-1117.html",
+   "visitas": 8
+  },
+  {
+   "titulo": "¿Doblaje arruinado? La polémica de Macarena García y Javier Ibarreche en Wildwood",
+   "url": "https://enelensayomedia.com/notas/doblaje-arruinado-la-polemica-de-macarena-garcia-y-javier-ibarreche-en-1120.html",
+   "visitas": 7
+  },
+  {
+   "titulo": "Estrena la temporada 3 de 'Percy Jackson' en Disney+ con nuevos dioses",
+   "url": "https://enelensayomedia.com/notas/estrena-la-temporada-3-de-percy-jackson-en-disney-con-nuevos-dioses-1123.html",
    "visitas": 6
-  },
-  {
-   "titulo": "Oobah: Scams for a Better Tomorrow llega a HBO Max con un sérum de lágrimas de niños",
-   "url": "https://enelensayomedia.com/notas/oobah-scams-for-a-better-tomorrow-llega-a-hbo-max-con-un-serum-de-lagr-1122.html",
-   "visitas": 5
-  },
-  {
-   "titulo": "Los Perros del Mal retoman el Campeonato Mundial de Tríos en AAA",
-   "url": "https://enelensayomedia.com/notas/los-perros-del-mal-retoman-el-campeonato-mundial-de-trios-en-aaa-1122.html",
-   "visitas": 5
-  },
-  {
-   "titulo": "Rumor: Wanda Maximoff podría regresar en 'Avengers: Doomsday' según postcréditos de 'VisionQuest'",
-   "url": "https://enelensayomedia.com/notas/rumor-wanda-maximoff-podria-regresar-en-avengers-doomsday-segun-postcr-1121.html",
-   "visitas": 5
-  },
-  {
-   "titulo": "Solo Leveling: serie live-action no se estrenaría hasta 2028 en Netflix",
-   "url": "https://enelensayomedia.com/notas/solo-leveling-serie-live-action-no-se-estrenaria-hasta-2028-en-netflix-1122.html",
-   "visitas": 4
-  },
-  {
-   "titulo": "Mundial Sub-17 Qatar 2026: 48 selecciones, 104 partidos y el reto de la seguridad",
-   "url": "https://enelensayomedia.com/notas/mundial-sub-17-qatar-2026-48-selecciones-104-partidos-y-el-reto-de-la-1122.html",
-   "visitas": 4
   }
  ],
  "categorias": {
+  "cultura": [
+   {
+    "titulo": "Yetus Prime ingresa a La Mansión VIP 2 el 16 de noviembre",
+    "url": "https://enelensayomedia.com/notas/yetus-prime-ingresa-a-la-mansion-vip-2-el-16-de-noviembre-1117.html",
+    "visitas": 9
+   },
+   {
+    "titulo": "Estrenos de series y películas en Netflix, Disney+, Prime Video y HBO Max este jueves",
+    "url": "https://enelensayomedia.com/notas/estrenos-de-series-y-peliculas-en-netflix-disney-prime-video-y-hbo-max-1120.html",
+    "visitas": 8
+   }
+  ],
   "marvel y dcu": [
+   {
+    "titulo": "Supergirl de Milly Alcock: el colapso taquillero que confirma el fracaso del DCU",
+    "url": "https://enelensayomedia.com/notas/supergirl-de-milly-alcock-el-colapso-taquillero-que-confirma-el-fracas-1117.html",
+    "visitas": 8
+   },
    {
     "titulo": "Rumor: Hayley Atwell dice que el tráiler de ‘Avengers: Doomsday’ saldrá el lunes 23",
     "url": "https://enelensayomedia.com/notas/rumor-hayley-atwell-dice-que-el-trailer-de-avengers-doomsday-saldra-el-1122.html",
     "visitas": 6
    },
    {
+    "titulo": "Hailee Steinfeld confirma su regreso como Kate Bishop en Avengers: Doomsday",
+    "url": "https://enelensayomedia.com/notas/hailee-steinfeld-confirma-su-regreso-como-kate-bishop-en-avengers-doom-1123.html",
+    "visitas": 5
+   },
+   {
     "titulo": "Rumor: Wanda Maximoff podría regresar en 'Avengers: Doomsday' según postcréditos de 'VisionQuest'",
     "url": "https://enelensayomedia.com/notas/rumor-wanda-maximoff-podria-regresar-en-avengers-doomsday-segun-postcr-1121.html",
     "visitas": 5
+   }
+  ],
+  "conciertos": [
+   {
+    "titulo": "Daniel Boaventura vende su concierto en Auditorio Nacional con Orquesta Sinfónica de Minería",
+    "url": "https://enelensayomedia.com/notas/daniel-boaventura-vende-su-concierto-en-auditorio-nacional-con-orquest-1117.html",
+    "visitas": 8
    },
    {
-    "titulo": "Marvel muestra a Rosario Dawson en Spider-Man: Brand New Day",
-    "url": "https://enelensayomedia.com/notas/marvel-muestra-a-rosario-dawson-en-spider-man-brand-new-day-1121.html",
+    "titulo": "Little Jesus en el Teatro Metropólitan: detalles del concierto",
+    "url": "https://enelensayomedia.com/notas/little-jesus-en-el-teatro-metropolitan-detalles-del-concierto-1117.html",
+    "visitas": 6
+   },
+   {
+    "titulo": "Maná concierto en el Estadio GNP Seguros 2026: boletos y horarios",
+    "url": "https://enelensayomedia.com/notas/mana-concierto-en-el-estadio-gnp-seguros-2026-boletos-y-horarios-1121.html",
     "visitas": 4
    },
    {
-    "titulo": "Man of Tomorrow: el DCU se ahonda en la oscuridad con un Superman caído",
-    "url": "https://enelensayomedia.com/notas/man-of-tomorrow-el-dcu-se-ahonda-en-la-oscuridad-con-un-superman-caido-1122.html",
-    "visitas": 3
-   }
-  ],
-  "televisión": [
-   {
-    "titulo": "Oobah: Scams for a Better Tomorrow llega a HBO Max con un sérum de lágrimas de niños",
-    "url": "https://enelensayomedia.com/notas/oobah-scams-for-a-better-tomorrow-llega-a-hbo-max-con-un-serum-de-lagr-1122.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "Comienza el rodaje de la temporada 3 de 'Tierra de mafiosos'",
-    "url": "https://enelensayomedia.com/notas/comienza-el-rodaje-de-la-temporada-3-de-tierra-de-mafiosos-1122.html",
-    "visitas": 3
-   }
-  ],
-  "luchas": [
-   {
-    "titulo": "Los Perros del Mal retoman el Campeonato Mundial de Tríos en AAA",
-    "url": "https://enelensayomedia.com/notas/los-perros-del-mal-retoman-el-campeonato-mundial-de-trios-en-aaa-1122.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "Kiana James abandona WWE SmackDown y revela polémico personaje 'Una Percento' en AAA",
-    "url": "https://enelensayomedia.com/notas/kiana-james-abandona-wwe-smackdown-y-revela-polemico-personaje-una-per-1122.html",
+    "titulo": "Caifanes dará histórico concierto en Estadio GNP el 11 de julio",
+    "url": "https://enelensayomedia.com/notas/caifanes-dara-historico-concierto-en-estadio-gnp-el-11-de-julio-1123.html",
     "visitas": 3
    }
   ],
   "doblaje": [
+   {
+    "titulo": "¿Doblaje arruinado? La polémica de Macarena García y Javier Ibarreche en Wildwood",
+    "url": "https://enelensayomedia.com/notas/doblaje-arruinado-la-polemica-de-macarena-garcia-y-javier-ibarreche-en-1120.html",
+    "visitas": 7
+   },
    {
     "titulo": "Solo Leveling: serie live-action no se estrenaría hasta 2028 en Netflix",
     "url": "https://enelensayomedia.com/notas/solo-leveling-serie-live-action-no-se-estrenaria-hasta-2028-en-netflix-1122.html",
@@ -93,6 +108,101 @@
    {
     "titulo": "Blue Exorcist vuelve a Netflix con temporada 1 y doblaje original",
     "url": "https://enelensayomedia.com/notas/blue-exorcist-vuelve-a-netflix-con-temporada-1-y-doblaje-original-1121.html",
+    "visitas": 4
+   }
+  ],
+  "televisión": [
+   {
+    "titulo": "Estrena la temporada 3 de 'Percy Jackson' en Disney+ con nuevos dioses",
+    "url": "https://enelensayomedia.com/notas/estrena-la-temporada-3-de-percy-jackson-en-disney-con-nuevos-dioses-1123.html",
+    "visitas": 6
+   },
+   {
+    "titulo": "Oobah: Scams for a Better Tomorrow llega a HBO Max con un sérum de lágrimas de niños",
+    "url": "https://enelensayomedia.com/notas/oobah-scams-for-a-better-tomorrow-llega-a-hbo-max-con-un-serum-de-lagr-1122.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "Ginny y Georgia 4",
+    "url": "https://enelensayomedia.com/notas/ginny-y-georgia-4-1119.html",
+    "visitas": 4
+   },
+   {
+    "titulo": "Comienza el rodaje de la temporada 3 de 'Tierra de mafiosos'",
+    "url": "https://enelensayomedia.com/notas/comienza-el-rodaje-de-la-temporada-3-de-tierra-de-mafiosos-1122.html",
+    "visitas": 3
+   }
+  ],
+  "luchas": [
+   {
+    "titulo": "Cody Rhodes destaca diferencia entre cine y WWE en entrevista reciente",
+    "url": "https://enelensayomedia.com/notas/cody-rhodes-destaca-diferencia-entre-cine-y-wwe-en-entrevista-reciente-1123.html",
+    "visitas": 6
+   },
+   {
+    "titulo": "Los Perros del Mal retoman el Campeonato Mundial de Tríos en AAA",
+    "url": "https://enelensayomedia.com/notas/los-perros-del-mal-retoman-el-campeonato-mundial-de-trios-en-aaa-1122.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "WWE registra 'Gringo Anónimo' y 'Anónimo Gringo' para explotar legado de Los Perros del Mal",
+    "url": "https://enelensayomedia.com/notas/wwe-registra-gringo-anonimo-y-anonimo-gringo-para-explotar-legado-de-l-1121.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "CMLL celebra Noche de Cascos y Máscaras con NFL y arranca eliminatoria Leyenda Azul 2026",
+    "url": "https://enelensayomedia.com/notas/cmll-celebra-noche-de-cascos-y-mascaras-con-nfl-y-arranca-eliminatoria-1120.html",
+    "visitas": 5
+   }
+  ],
+  "música": [
+   {
+    "titulo": "Cartel del Glastonbury 2027: edad media, países y quiénes están en el top 100",
+    "url": "https://enelensayomedia.com/notas/cartel-del-glastonbury-2027-edad-media-paises-y-quienes-estan-en-el-to-1118.html",
+    "visitas": 6
+   },
+   {
+    "titulo": "Nicki Nicole estrena el doble sencillo 'Rayo de Sol' y 'Eterna Soledad'",
+    "url": "https://enelensayomedia.com/notas/nicki-nicole-estrena-el-doble-sencillo-rayo-de-sol-y-eterna-soledad-1123.html",
+    "visitas": 4
+   },
+   {
+    "titulo": "Cartel del Coachella 2026: edad media, países y quiénes están en el top 100",
+    "url": "https://enelensayomedia.com/notas/cartel-del-coachella-2026-edad-media-paises-y-quienes-estan-en-el-top-1121.html",
+    "visitas": 4
+   },
+   {
+    "titulo": "Thalía y Yolanda Andrade se reúnen en México tras actuación con Karol G",
+    "url": "https://enelensayomedia.com/notas/thalia-y-yolanda-andrade-se-reunen-en-mexico-tras-actuacion-con-karol-1123.html",
+    "visitas": 3
+   }
+  ],
+  "streaming": [
+   {
+    "titulo": "Kiko Báez diseña outfits para Wisin y Sech en fin de semana histórico",
+    "url": "https://enelensayomedia.com/notas/kiko-baez-disena-outfits-para-wisin-y-sech-en-fin-de-semana-historico-1117.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "CostaKid agrediendo a una mujer en transmisión en vivo en Kick",
+    "url": "https://enelensayomedia.com/notas/costakid-agrediendo-a-una-mujer-en-transmision-en-vivo-en-kick-1123.html",
+    "visitas": 4
+   }
+  ],
+  "videojuegos": [
+   {
+    "titulo": "SEGA revela el mapa de India en 'Crazy Taxi: World Tour'",
+    "url": "https://enelensayomedia.com/notas/sega-revela-el-mapa-de-india-en-crazy-taxi-world-tour-1116.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "Bad Bunny lidera la banda sonora latina de GTA 6 con Cocoteo FM",
+    "url": "https://enelensayomedia.com/notas/bad-bunny-lidera-la-banda-sonora-latina-de-gta-6-con-cocoteo-fm-1120.html",
+    "visitas": 4
+   },
+   {
+    "titulo": "Capcom revela a Boat Man en tráiler de Mega Man: Dual Override",
+    "url": "https://enelensayomedia.com/notas/capcom-revela-a-boat-man-en-trailer-de-mega-man-dual-override-1119.html",
     "visitas": 4
    }
   ],
@@ -120,16 +230,21 @@
     "visitas": 4
    },
    {
-    "titulo": "Reencuentro emotivo de Brianda, Masad, Ximena y Janet tras el reality",
-    "url": "https://enelensayomedia.com/notas/reencuentro-emotivo-de-brianda-masad-ximena-y-janet-tras-el-reality-1122.html",
-    "visitas": 2
+    "titulo": "Taylor Hale retoma el control frente a fans de 'Big Brother'",
+    "url": "https://enelensayomedia.com/notas/taylor-hale-retoma-el-control-frente-a-fans-de-big-brother-1120.html",
+    "visitas": 4
    }
   ],
-  "música": [
+  "chisme": [
    {
-    "titulo": "Cartel del Coachella 2026: edad media, países y quiénes están en el top 100",
-    "url": "https://enelensayomedia.com/notas/cartel-del-coachella-2026-edad-media-paises-y-quienes-estan-en-el-top-1121.html",
+    "titulo": "Mía Rubín confirma ruptura con Tarik Othón por diferencias profesionales",
+    "url": "https://enelensayomedia.com/notas/mia-rubin-confirma-ruptura-con-tarik-othon-por-diferencias-profesional-1121.html",
     "visitas": 4
+   },
+   {
+    "titulo": "Paola Dalay y César Romo escapan a Cancún en medio de polémica familiar",
+    "url": "https://enelensayomedia.com/notas/paola-dalay-y-cesar-romo-escapan-a-cancun-en-medio-de-polemica-familia-1123.html",
+    "visitas": 2
    }
   ],
   "reportaje": [
@@ -137,13 +252,21 @@
     "titulo": "Músico es baleado tras discusión con su pareja policía en Chorrillos",
     "url": "https://enelensayomedia.com/notas/musico-es-baleado-tras-discusion-con-su-pareja-policia-en-chorrillos-1122.html",
     "visitas": 3
-   }
-  ],
-  "conciertos": [
+   },
    {
-    "titulo": "Lupita D'Alessio en Auditorio Nacional",
-    "url": "https://enelensayomedia.com/notas/lupita-d-alessio-en-auditorio-nacional-1122.html",
+    "titulo": "Meg Ryan cumple 65 años de trayectoria y vida",
+    "url": "https://enelensayomedia.com/notas/meg-ryan-cumple-65-anos-de-trayectoria-y-vida-1119.html",
     "visitas": 3
+   },
+   {
+    "titulo": "Mariana Ochoa gana La Casa de los Famosos 2026",
+    "url": "https://enelensayomedia.com/notas/mariana-ochoa-gana-la-casa-de-los-famosos-2026-1117.html",
+    "visitas": 3
+   },
+   {
+    "titulo": "Miley Cyrus cumple 34 años y se casa con Maxx Morando en California",
+    "url": "https://enelensayomedia.com/notas/miley-cyrus-cumple-34-anos-y-se-casa-con-maxx-morando-en-california-1123.html",
+    "visitas": 2
    }
   ],
   "entrevista": [
