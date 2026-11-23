@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-23 06:57",
+ "actualizado": "2026-11-23 09:00",
  "eventos": [
   {
    "id": "will-of-one|san-luis-potosi||x",
@@ -14082,6 +14082,38 @@
    "tipo": "show",
    "fuente_url": "https://www.facebook.com/Cafebreria.el.Pendulo/posts/pfbid02SD74Z81V3rV2aPt6K7P651HfKETdrep5tJVQHx4CWbkZungkP84zB4kBXFhE6YZBl",
    "zona": "Centro, Cuauhtémoc"
+  },
+  {
+   "id": "metal-passport|ciudad-de-mexico||x",
+   "banda": "Metal Passport",
+   "ciudad": "Ciudad de México",
+   "estado": "CDMX",
+   "lat": 19.4326,
+   "lon": -99.1332,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
+  },
+  {
+   "id": "yosoy-siddhartha|ciudad-de-mexico||x",
+   "banda": "Yosoy Siddhartha",
+   "ciudad": "Ciudad de México",
+   "estado": "CDMX",
+   "lat": 19.4326,
+   "lon": -99.1332,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
   }
  ]
 }
