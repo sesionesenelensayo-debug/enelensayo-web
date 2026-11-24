@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Arknights: Endfield anuncia actualización 2.0 en The Game Awards",
+    "artista": "Arknights",
+    "intro": "Arknights: Endfield presentó una actualización 2.0 durante una transmisión en vivo el 21 de noviembre de 2026, enmarcada en la nominación a The Game Awards 2026.",
+    "telegraph_url": "https://telegra.ph/Arknights-Endfield-anuncia-actualización-20-en-The-Game-Awards-11-24",
+    "url": "https://enelensayomedia.com/notas/arknights-endfield-anuncia-actualizacion-2-0-en-the-game-awards-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/arknights-endfield-anuncia-actualizacion-2-0-en-the-game-awards-1124.jpg",
+    "fecha": "2026-11-24T07:21:32.789299",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Blanca Romero rompe con Quique",
     "artista": "Blanca Romero",
     "intro": "Blanca Romero rompió su relación con Quique Sánchez Flores. La ruptura se hizo pública entre el 23 y el 24 de noviembre de 2026. La pareja estuvo junta aproximadamente un año.",
@@ -5830,21 +5844,6 @@
     "views": 0,
     "categoria": "Cine",
     "fecha_original": "2026-11-11T14:41:18.301626",
-    "actualizada": true
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "U2 anuncia tres conciertos en el Estadio GNP Seguros en febrero 2027",
-    "artista": "U2",
-    "intro": "La banda irlandesa confirma fechas, invitados y detalles de preventa para su gira The Greatest Show On Earth World Tour 2027.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/u2-anuncia-tres-conciertos-en-el-estadio-gnp-seguros-en-febrero-2027-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/u2-anuncia-tres-conciertos-en-el-estadio-gnp-seguros-en-febrero-2027-1101.jpg",
-    "fecha": "2026-11-12T11:07:25.480435",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos",
-    "fecha_original": "2026-11-01T16:36:52.567321",
     "actualizada": true
   }
 ]
