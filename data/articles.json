@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Pat Morita, actor de The Karate Kid, fallece a los 73 años por insuficiencia renal",
+    "artista": "Pat Morita: murió a los 73 en 2005 por insuficiencia renal",
+    "intro": "Pat Morita, reconocido actor de The Karate Kid, falleció el 24 de noviembre de 2005 en Las Vegas a los 73 años debido a insuficiencia renal derivada de una infección urinaria y bacteriana.",
+    "telegraph_url": "https://telegra.ph/Pat-Morita-actor-de-The-Karate-Kid-fallece-a-los-73-años-por-insuficiencia-renal-11-24",
+    "url": "https://enelensayomedia.com/notas/pat-morita-actor-de-the-karate-kid-fallece-a-los-73-anos-por-insuficie-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/pat-morita-actor-de-the-karate-kid-fallece-a-los-73-anos-por-insuficie-1124.jpg",
+    "fecha": "2026-11-24T11:29:55.080411",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "In memoriam"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Deborah Ann Woll regresa como Faye en la serie live-action de God of War",
     "artista": "God of War",
     "intro": "Deborah Ann Woll se ha unido a la adaptación live-action de God of War para interpretar a Faye, la esposa de Kratos y madre de Atreus.",
@@ -5825,19 +5839,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reportaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Post-créditos de 'VisionQuest' confirma regreso antes de 'Avengers: Doomsday'",
-    "artista": "VisionQuest",
-    "intro": "La escena post-créditos del episodio final de 'VisionQuest', emitido el 10 de noviembre de 2026, ha generado especulación sobre su posible conexión con 'Avengers: Doomsday'.",
-    "telegraph_url": "https://telegra.ph/Post-créditos-de-VisionQuest-confirma-regreso-antes-de-Avengers-Doomsday-11-12",
-    "url": "https://enelensayomedia.com/notas/post-creditos-de-visionquest-confirma-regreso-antes-de-avengers-doomsd-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/post-creditos-de-visionquest-confirma-regreso-antes-de-avengers-doomsd-1112.jpg",
-    "fecha": "2026-11-12T13:44:48.301722",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU"
   }
 ]
