@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "T1 recupera a TenZ para VALORANT 2027",
+    "artista": "T1 recupera a TenZ para VALORANT 2027",
+    "intro": "TenZ regresa a la competencia después de 2 años",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/t1-recupera-a-tenz-para-valorant-2027-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/t1-recupera-a-tenz-para-valorant-2027-1124.jpg",
+    "fecha": "2026-11-24T12:00:08.116578",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Actor de doblaje de Spider-Man publica mensaje preocupante y luego se disculpa",
     "artista": "Spider-Man",
     "intro": "El 23 de noviembre de 2026, Alberto Bernal, el doblador mexicano de Spider-Man en la versión UCM…",
@@ -5827,20 +5841,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reality"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Chisme de pasillo: Rebecca Jones y las acusaciones de su exmanager",
-    "artista": "Rebecca Jones",
-    "intro": "En el video publicado por el canal En el Ensayo Media se aborda el caso de la actriz de cine de lobos Rebecca Jones, fallecida en marzo de 2023…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/chisme-de-pasillo-rebecca-jones-y-las-acusaciones-de-su-exmanager-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/chisme-de-pasillo-rebecca-jones-y-las-acusaciones-de-su-exmanager-1112.jpg",
-    "fecha": "2026-11-12T14:55:12.516550",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Chisme"
   }
 ]
