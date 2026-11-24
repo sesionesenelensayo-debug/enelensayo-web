@@ -1,5 +1,19 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "Pattinson habría escapado de la trilogía de Reeves: pésima señal",
+    "artista": "Robert Pattinson",
+    "intro": "Robert Pattinson será el próximo James Bond y, de acuerdo con reportes, ya no estaría obligado a hacer una tercera película de The Batman.",
+    "telegraph_url": "https://telegra.ph/Pattinson-habría-escapado-de-la-trilogía-de-Reeves-pésima-señal-11-24",
+    "url": "https://enelensayomedia.com/notas/pattinson-habria-escapado-de-la-trilogia-de-reeves-pesima-senal-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/pattinson-habria-escapado-de-la-trilogia-de-reeves-pesima-senal-1124.jpg",
+    "fecha": "2026-11-24T13:03:48.085166",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
     "opinion": false,
     "tipo": "noticia",
     "titulo": "Maluma confirma concierto en San Luis Potosí en 2027",
@@ -5827,22 +5841,6 @@
     "views": 0,
     "categoria": "Cine",
     "fecha_original": "2026-11-07T12:52:57.053972",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Natalia Téllez habla tras anuncio de redoblaje en 'Wildwood': \"Lo tomo con respeto\"",
-    "artista": "Natalia Téllez",
-    "intro": "Natalia Téllez rompió el silencio el martes 10 de noviembre sobre la controversia que envuelve al doblaje latino de 'Wildwood: El bosque salvaje' (LAIKA Studios).",
-    "telegraph_url": "https://telegra.ph/Natalia-Téllez-habla-tras-anuncio-de-redoblaje-en-Wildwood-Lo-tomo-con-respeto-11-12",
-    "url": "https://enelensayomedia.com/notas/natalia-tellez-habla-tras-anuncio-de-redoblaje-en-wildwood-lo-tomo-con-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/natalia-tellez-habla-tras-anuncio-de-redoblaje-en-wildwood-lo-tomo-con-1112.jpg",
-    "fecha": "2026-11-12T16:54:34.196179",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura",
-    "fecha_original": "2026-11-12T10:31:28.408119",
     "actualizada": true
   }
 ]
