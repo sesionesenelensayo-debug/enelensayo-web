@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Cuatro exatlonistas llegan a La Granja VIP y Daniela Alexis es eliminada",
+    "artista": "La Granja VIP",
+    "intro": "En la gala del domingo 22 de noviembre, La Granja VIP (segunda temporada) incorporó a cuatro atletas de Exatlón México como nuevos granjeros peones, mientras la concursante Daniela Alexis…",
+    "telegraph_url": "https://telegra.ph/Cuatro-exatlonistas-llegan-a-La-Granja-VIP-y-Daniela-Alexis-es-eliminada-11-24",
+    "url": "https://enelensayomedia.com/notas/cuatro-exatlonistas-llegan-a-la-granja-vip-y-daniela-alexis-es-elimina-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/cuatro-exatlonistas-llegan-a-la-granja-vip-y-daniela-alexis-es-elimina-1124.jpg",
+    "fecha": "2026-11-24T13:04:23.741185",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reality"
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "Pattinson habría escapado de la trilogía de Reeves: pésima señal",
@@ -5826,21 +5840,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Esports"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Polémica por el doblaje de Wildwood",
-    "artista": "Wildwood",
-    "intro": "El doblaje al español latino de la película «Wildwood» ha desatado una intensa controversia en redes sociales.",
-    "telegraph_url": "https://telegra.ph/Polémica-por-el-doblaje-de-Wildwood-11-07",
-    "url": "https://enelensayomedia.com/notas/polemica-por-el-doblaje-de-wildwood-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/polemica-por-el-doblaje-de-wildwood-1107.jpg",
-    "fecha": "2026-11-12T17:13:56.614961",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-07T12:52:57.053972",
-    "actualizada": true
   }
 ]
