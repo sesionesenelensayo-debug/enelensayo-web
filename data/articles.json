@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Cypress Hill en CDMX: 1 de abril en el Pepsi Center WTC",
+    "artista": "Cypress Hill",
+    "intro": "Cypress Hill regresará a la Ciudad de México el jueves 1 de abril de 2027 con un concierto en el Pepsi Center WTC. El show se realizará a las 9:00 p.m.",
+    "telegraph_url": "https://telegra.ph/Cypress-Hill-en-CDMX-1-de-abril-en-el-Pepsi-Center-WTC-11-24",
+    "url": "https://enelensayomedia.com/notas/cypress-hill-en-cdmx-1-de-abril-en-el-pepsi-center-wtc-1123.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/cypress-hill-en-cdmx-1-de-abril-en-el-pepsi-center-wtc-1123.jpg",
+    "fecha": "2026-11-23T18:15:09.584835",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Bud Light y Jaguar pagan por asociarse con la agenda 'woke'",
     "artista": "MITO vs REALIDAD",
     "intro": "En el video 'MITO vs REALIDAD: Asociarse con la agenda woke no le cuesta nada a una marca'…",
@@ -5838,20 +5852,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Xbox Game Pass anuncia 7 nuevos títulos para noviembre de 2026",
-    "artista": "Xbox Game Pass",
-    "intro": "Xbox Game Pass confirmó la incorporación de siete juegos al catálogo para noviembre de 2026, según reportes de Kotaku en Español y Vandal. La noticia incluye fechas de lanzamiento y los títulos que es",
-    "telegraph_url": "https://telegra.ph/Xbox-Game-Pass-anuncia-7-nuevos-títulos-para-noviembre-de-2026-10-31",
-    "url": "https://enelensayomedia.com/notas/xbox-game-pass-anuncia-7-nuevos-titulos-para-noviembre-de-2026-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/xbox-game-pass-anuncia-7-nuevos-titulos-para-noviembre-de-2026-1031.jpg",
-    "fecha": "2026-11-12T07:29:55.310631",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-10-31T09:33:41.980255",
-    "actualizada": true
   }
 ]
