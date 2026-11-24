@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Actor de doblaje de Spider-Man publica mensaje preocupante y luego se disculpa",
+    "artista": "Spider-Man",
+    "intro": "El 23 de noviembre de 2026, Alberto Bernal, el doblador mexicano de Spider-Man en la versión UCM…",
+    "telegraph_url": "https://telegra.ph/Actor-de-doblaje-de-Spider-Man-publica-mensaje-preocupante-y-luego-se-disculpa-11-24",
+    "url": "https://enelensayomedia.com/notas/actor-de-doblaje-de-spider-man-publica-mensaje-preocupante-y-luego-se-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/actor-de-doblaje-de-spider-man-publica-mensaje-preocupante-y-luego-se-1124.jpg",
+    "fecha": "2026-11-24T11:47:00.764225",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Pat Morita, actor de The Karate Kid, fallece a los 73 años por insuficiencia renal",
     "artista": "Pat Morita: murió a los 73 en 2005 por insuficiencia renal",
     "intro": "Pat Morita, reconocido actor de The Karate Kid, falleció el 24 de noviembre de 2005 en Las Vegas a los 73 años debido a insuficiencia renal derivada de una infección urinaria y bacteriana.",
@@ -5825,19 +5839,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Chisme"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Las polémicas declaraciones sobre Rebecca Jones",
-    "artista": "Rebecca Jones",
-    "intro": "A tres años del fallecimiento de la actriz Rebecca Jones, su exrepresentante Emilio Morales lanzó severas acusaciones en su contra durante una entrevista en un pódcast.",
-    "telegraph_url": "https://telegra.ph/Las-polémicas-declaraciones-sobre-Rebecca-Jones-11-12",
-    "url": "https://enelensayomedia.com/notas/las-polemicas-declaraciones-sobre-rebecca-jones-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/las-polemicas-declaraciones-sobre-rebecca-jones-1112.jpg",
-    "fecha": "2026-11-12T14:15:40.327279",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reportaje"
   }
 ]
