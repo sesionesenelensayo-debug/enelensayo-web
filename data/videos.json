@@ -63,6 +63,11 @@
   ],
   "longs": [
     {
+      "id": "9SjcCvjWBwE",
+      "titulo": "¡Miley Cyrus cumple 34 años y se casa con Maxx Morando en California!",
+      "fecha": "2026-11-24"
+    },
+    {
       "id": "PJVvi_wWTxE",
       "titulo": "Bruce Lee: El dragón que conquistó el mundo",
       "fecha": "2026-11-23"
@@ -86,11 +91,6 @@
       "id": "z-i8RZBOgl4",
       "titulo": "Julián Gil responde a Marjorie de Sousa sobre su hijo Matías",
       "fecha": "2026-11-22"
-    },
-    {
-      "id": "dBY2oZFE1bQ",
-      "titulo": "Edurne y David de Gea: ¿Se separan? Lo que dice la prensa",
-      "fecha": "2026-11-21"
     }
   ],
   "podcast": []
