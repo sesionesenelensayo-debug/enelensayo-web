@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Sergio Mayer niega haber pedido nueva licencia para 'Secreto millonario'",
+    "artista": "Sergio Mayer",
+    "intro": "El legislador Sergio Mayer negó en una entrevista publicada el 22 de noviembre de 2026 haber solicitado una nueva licencia en San Lázaro para participar en el reality de Netflix 'Secreto millonario'.",
+    "telegraph_url": "https://telegra.ph/Sergio-Mayer-niega-haber-pedido-nueva-licencia-para-Secreto-millonario-11-24",
+    "url": "https://enelensayomedia.com/notas/sergio-mayer-niega-haber-pedido-nueva-licencia-para-secreto-millonario-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/sergio-mayer-niega-haber-pedido-nueva-licencia-para-secreto-millonario-1124.jpg",
+    "fecha": "2026-11-24T17:11:11.850704",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "The Rock volverá a WWE el 28 de noviembre",
     "artista": "WWE",
     "intro": "The Rock volverá a WWE el próximo 28 de noviembre en el Daikin Park de Houston, Texas, durante la celebración del evento Survivor Series: WarGames.",
@@ -5831,19 +5845,5 @@
     "categoria": "Conciertos",
     "fecha_original": "2026-10-31T12:06:25.268186",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Ciara y Russell Wilson anuncian el embarazo de su quinto hijo",
-    "artista": "Ciara y Russell Wilson",
-    "intro": "La pareja publica en Instagram el anuncio y comparte detalles sobre su familia y próximos proyectos.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/ciara-y-russell-wilson-anuncian-el-embarazo-de-su-quinto-hijo-1113.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/ciara-y-russell-wilson-anuncian-el-embarazo-de-su-quinto-hijo-1113.jpg",
-    "fecha": "2026-11-13T09:18:32.309080",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme internacional"
   }
 ]
