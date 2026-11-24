@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Marjorie de Sousa niega recibir pensión alimenticia para su hijo Matías",
+    "artista": "Marjorie de Sousa",
+    "intro": "Marjorie de Sousa afirmó que no recibe pensión alimenticia desde hace años para su hijo Matías, nieto de Julián Gil.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/marjorie-de-sousa-niega-recibir-pension-alimenticia-para-su-hijo-matia-1123.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/marjorie-de-sousa-niega-recibir-pension-alimenticia-para-su-hijo-matia-1123.jpg",
+    "fecha": "2026-11-23T21:07:45.845044",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "La salida de James Gunn deja DC en crisis creativa y profesional",
@@ -5839,19 +5853,5 @@
     "views": 0,
     "categoria": "Entrevista",
     "periodico": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "La Llorona: origen, evolución y presencia en el folclore hispanoamericano",
-    "artista": "la Llorona (origen en México, versiones y primeros testimonios)",
-    "intro": "Una crónica que recorre la tradición oral, los antecedentes prehispánicos y la documentación colonial de la figura fantasmagórica más conocida de México.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-llorona-origen-evolucion-y-presencia-en-el-folclore-hispanoamerican-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-llorona-origen-evolucion-y-presencia-en-el-folclore-hispanoamerican-1112.jpg",
-    "fecha": "2026-11-12T08:28:19.495379",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror"
   }
 ]
