@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Voces en Doctor Who",
+    "artista": "Doctor Who",
+    "intro": "Se reporta que voces y tratamientos sonoros hacen extrañas las conversaciones en la serie Doctor Who. Esto se debe a la combinación de actuación y tecnología.",
+    "telegraph_url": "https://telegra.ph/Voces-en-Doctor-Who-11-24",
+    "url": "https://enelensayomedia.com/notas/voces-en-doctor-who-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/voces-en-doctor-who-1124.jpg",
+    "fecha": "2026-11-24T10:07:16.147364",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Gabito Ballesteros y Natanael Cano se reencuentran al aire libre",
     "artista": "Gabito Ballesteros",
     "intro": "Gabito Ballesteros y Natanael Cano se reencuentran al aire libre, según fotos publicadas por el primero en Instagram el 23 de noviembre de 2026.",
@@ -5826,20 +5840,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Beyoncé recrea la portada de Love Deluxe de Sade",
-    "artista": "Beyoncé",
-    "intro": "Una nueva sesión de fotos muestra a Beyoncé recreando la icónica portada del álbum Love Deluxe de Sade, publicado originalmente en 1992.",
-    "telegraph_url": "https://telegra.ph/Beyoncé-recrea-la-portada-de-Love-Deluxe-de-Sade-11-12",
-    "url": "https://enelensayomedia.com/notas/beyonce-recrea-la-portada-de-love-deluxe-de-sade-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/beyonce-recrea-la-portada-de-love-deluxe-de-sade-1112.jpg",
-    "fecha": "2026-11-12T12:02:51.721296",
-    "author": "Oliver Ken",
-    "views": 0,
-    "nota_dia": true,
-    "categoria": "Internacional"
   }
 ]
