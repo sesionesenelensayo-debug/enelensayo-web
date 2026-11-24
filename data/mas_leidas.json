@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-23 15:32",
+ "actualizado": "2026-11-23 19:39",
  "general": [
   {
    "titulo": "Yetus Prime ingresa a La Mansión VIP 2 el 16 de noviembre",
@@ -172,12 +172,17 @@
     "visitas": 4
    },
    {
-    "titulo": "Thalía y Yolanda Andrade se reúnen en México tras actuación con Karol G",
-    "url": "https://enelensayomedia.com/notas/thalia-y-yolanda-andrade-se-reunen-en-mexico-tras-actuacion-con-karol-1123.html",
+    "titulo": "Kid Voodoo es el primer chileno en ganar Los40 Music Awards",
+    "url": "https://enelensayomedia.com/notas/kid-voodoo-es-el-primer-chileno-en-ganar-los40-music-awards-1123.html",
     "visitas": 3
    }
   ],
   "streaming": [
+   {
+    "titulo": "GTA VI genera $1.8 mil mil millones y desata negocio para creadores",
+    "url": "https://enelensayomedia.com/notas/gta-vi-genera-1-8-mil-mil-millones-y-desata-negocio-para-creadores-1120.html",
+    "visitas": 5
+   },
    {
     "titulo": "Kiko Báez diseña outfits para Wisin y Sech en fin de semana histórico",
     "url": "https://enelensayomedia.com/notas/kiko-baez-disena-outfits-para-wisin-y-sech-en-fin-de-semana-historico-1117.html",
@@ -189,31 +194,12 @@
     "visitas": 4
    }
   ],
-  "videojuegos": [
+  "reality": [
    {
-    "titulo": "SEGA revela el mapa de India en 'Crazy Taxi: World Tour'",
-    "url": "https://enelensayomedia.com/notas/sega-revela-el-mapa-de-india-en-crazy-taxi-world-tour-1116.html",
+    "titulo": "Excompañeras de La Casa de los Famosos México se reencuentran en Disney en Orlando",
+    "url": "https://enelensayomedia.com/notas/excompaneras-de-la-casa-de-los-famosos-mexico-se-reencuentran-en-disne-1117.html",
     "visitas": 5
    },
-   {
-    "titulo": "Bad Bunny lidera la banda sonora latina de GTA 6 con Cocoteo FM",
-    "url": "https://enelensayomedia.com/notas/bad-bunny-lidera-la-banda-sonora-latina-de-gta-6-con-cocoteo-fm-1120.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "Capcom revela a Boat Man en tráiler de Mega Man: Dual Override",
-    "url": "https://enelensayomedia.com/notas/capcom-revela-a-boat-man-en-trailer-de-mega-man-dual-override-1119.html",
-    "visitas": 4
-   }
-  ],
-  "esports": [
-   {
-    "titulo": "Mundial Sub-17 Qatar 2026: 48 selecciones, 104 partidos y el reto de la seguridad",
-    "url": "https://enelensayomedia.com/notas/mundial-sub-17-qatar-2026-48-selecciones-104-partidos-y-el-reto-de-la-1122.html",
-    "visitas": 4
-   }
-  ],
-  "reality": [
    {
     "titulo": "Bebeshita y Bicolor llegan a La Granja VIP por caminos distintos",
     "url": "https://enelensayomedia.com/notas/bebeshita-y-bicolor-llegan-a-la-granja-vip-por-caminos-distintos-1122.html",
@@ -228,10 +214,12 @@
     "titulo": "La Mansión VIP 2 revela tabla de votos para segunda eliminación del 22/11",
     "url": "https://enelensayomedia.com/notas/la-mansion-vip-2-revela-tabla-de-votos-para-segunda-eliminacion-del-22-1122.html",
     "visitas": 4
-   },
+   }
+  ],
+  "esports": [
    {
-    "titulo": "Taylor Hale retoma el control frente a fans de 'Big Brother'",
-    "url": "https://enelensayomedia.com/notas/taylor-hale-retoma-el-control-frente-a-fans-de-big-brother-1120.html",
+    "titulo": "Mundial Sub-17 Qatar 2026: 48 selecciones, 104 partidos y el reto de la seguridad",
+    "url": "https://enelensayomedia.com/notas/mundial-sub-17-qatar-2026-48-selecciones-104-partidos-y-el-reto-de-la-1122.html",
     "visitas": 4
    }
   ],
@@ -247,15 +235,22 @@
     "visitas": 2
    }
   ],
+  "videojuegos": [
+   {
+    "titulo": "Bad Bunny lidera la banda sonora latina de GTA 6 con Cocoteo FM",
+    "url": "https://enelensayomedia.com/notas/bad-bunny-lidera-la-banda-sonora-latina-de-gta-6-con-cocoteo-fm-1120.html",
+    "visitas": 4
+   },
+   {
+    "titulo": "Capcom revela a Boat Man en tráiler de Mega Man: Dual Override",
+    "url": "https://enelensayomedia.com/notas/capcom-revela-a-boat-man-en-trailer-de-mega-man-dual-override-1119.html",
+    "visitas": 4
+   }
+  ],
   "reportaje": [
    {
     "titulo": "Músico es baleado tras discusión con su pareja policía en Chorrillos",
     "url": "https://enelensayomedia.com/notas/musico-es-baleado-tras-discusion-con-su-pareja-policia-en-chorrillos-1122.html",
-    "visitas": 3
-   },
-   {
-    "titulo": "Meg Ryan cumple 65 años de trayectoria y vida",
-    "url": "https://enelensayomedia.com/notas/meg-ryan-cumple-65-anos-de-trayectoria-y-vida-1119.html",
     "visitas": 3
    },
    {
