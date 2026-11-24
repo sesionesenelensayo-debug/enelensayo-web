@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "La isla de las muñecas de Xochimilco: crónica de un misterio sin resolver",
+    "artista": "la Isla de las Muñecas de Xochimilco",
+    "intro": "Una chinampa convertida en símbolo de terror y leyenda urbana en el corazón de la Ciudad de México.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/la-isla-de-las-munecas-de-xochimilco-cronica-de-un-misterio-sin-resolv-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-isla-de-las-munecas-de-xochimilco-cronica-de-un-misterio-sin-resolv-1124.jpg",
+    "fecha": "2026-11-24T12:37:54.781982",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Historias de terror"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Netflix lleva a Brad Pitt a los cines IMAX, pero Regal y Cinemark se niegan",
     "artista": "Netflix lleva a Brad Pitt a los cines IMAX",
     "intro": "La película de David Fincher se estrenará en 28 días en cines y luego llegará a Netflix.",
@@ -5826,19 +5840,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Mark Ruffalo critica el auge de la derecha en 'Siendo Heumann'",
-    "artista": "Mark Ruffalo",
-    "intro": "Mark Ruffalo criticó en una entrevista publicada el 11 de noviembre de 2026 el giro hacia la derecha en la presentación de su nueva película 'Siendo Heumann'.",
-    "telegraph_url": "https://telegra.ph/Mark-Ruffalo-critica-el-auge-de-la-derecha-en-Siendo-Heumann-11-12",
-    "url": "https://enelensayomedia.com/notas/mark-ruffalo-critica-el-auge-de-la-derecha-en-siendo-heumann-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/mark-ruffalo-critica-el-auge-de-la-derecha-en-siendo-heumann-1112.jpg",
-    "fecha": "2026-11-12T16:32:00.101819",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   }
 ]
