@@ -1,5 +1,19 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "La salida de James Gunn deja DC en crisis creativa y profesional",
+    "artista": "James Gunn",
+    "intro": "James Gunn y Peter Safran abandonaron DC Studios el 9 de noviembre de 2026, desatando una crisis creativa que ya se siente en los pasillos de Hollywood.",
+    "telegraph_url": "https://telegra.ph/La-salida-de-James-Gunn-deja-DC-en-crisis-creativa-y-profesional-11-24",
+    "url": "https://enelensayomedia.com/notas/la-salida-de-james-gunn-deja-dc-en-crisis-creativa-y-profesional-1123.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-salida-de-james-gunn-deja-dc-en-crisis-creativa-y-profesional-1123.jpg",
+    "fecha": "2026-11-23T20:31:31.913163",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Miley Cyrus celebra 34 años con anuncio de boda secreta",
@@ -5839,19 +5853,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Brad Pitt afirma que el ‘no’ pesa más que el ‘sí’ en su carrera",
-    "artista": "Brad Pitt",
-    "intro": "El actor Oscar 2026, Brad Pitt, declaró que la palabra ‘no’ es la más fuerte que posee un artista, y que su éxito depende más de lo que rechaza que de lo que acepta.",
-    "telegraph_url": "https://telegra.ph/Brad-Pitt-afirma-que-el-no-pesa-más-que-el-sí-en-su-carrera-11-12",
-    "url": "https://enelensayomedia.com/notas/brad-pitt-afirma-que-el-no-pesa-mas-que-el-si-en-su-carrera-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/brad-pitt-afirma-que-el-no-pesa-mas-que-el-si-en-su-carrera-1112.jpg",
-    "fecha": "2026-11-12T07:52:53.845404",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   }
 ]
