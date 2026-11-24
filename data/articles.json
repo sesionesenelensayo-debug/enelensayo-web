@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Richard Gere: de 'Días de gloria' a su vida personal y activismo",
+    "artista": "Richard Gere",
+    "intro": "El actor comparte su trayectoria desde el cine hasta su compromiso con causas sociales.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/richard-gere-de-dias-de-gloria-a-su-vida-personal-y-activismo-1123.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/richard-gere-de-dias-de-gloria-a-su-vida-personal-y-activismo-1123.jpg",
+    "fecha": "2026-11-23T21:54:00.925558",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme internacional"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Marjorie de Sousa niega recibir pensión alimenticia para su hijo Matías",
     "artista": "Marjorie de Sousa",
     "intro": "Marjorie de Sousa afirmó que no recibe pensión alimenticia desde hace años para su hijo Matías, nieto de Julián Gil.",
@@ -5838,20 +5852,5 @@
     "fecha_original": "2026-11-12T10:22:22.596406",
     "ultima_actualizacion": "2026-11-15T13:30:20.417720",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "entrevista",
-    "titulo": "Pokkefriends: de Castelli a Pokkelandia con su primer adelanto",
-    "artista": "POKKEFRIENDS",
-    "intro": "La banda argentina POKKEFRIENDS, originaria de Castelli, provincia de Buenos Aires, se formó en 2018 entre amigos para tocar versiones.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/pokkefriends-de-castelli-a-pokkelandia-con-su-primer-adelanto-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/pokkefriends-de-castelli-a-pokkelandia-con-su-primer-adelanto-1112.jpg",
-    "fecha": "2026-11-12T09:45:49.924148",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Entrevista",
-    "periodico": true
   }
 ]
