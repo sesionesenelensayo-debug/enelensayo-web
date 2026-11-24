@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Hayden Panettiere encontrada muerta en Nueva York",
+    "artista": "Hayden Panettiere",
+    "intro": "La actriz Hayden Panettiere fue encontrada muerta en Nueva York, según reportes recientes. La noticia ha generado sorpresa y condolencias en la industria del entretenimiento.",
+    "telegraph_url": "https://telegra.ph/Hayden-Panettiere-encontrada-muerta-en-Nueva-York-11-24",
+    "url": "https://enelensayomedia.com/notas/hayden-panettiere-encontrada-muerta-en-nueva-york-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/hayden-panettiere-encontrada-muerta-en-nueva-york-1124.jpg",
+    "fecha": "2026-11-24T06:54:36.624498",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Richard Gere: de 'Días de gloria' a su vida personal y activismo",
     "artista": "Richard Gere",
     "intro": "El actor comparte su trayectoria desde el cine hasta su compromiso con causas sociales.",
@@ -5835,22 +5849,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Místico regresa al Viernes Espectacular de CMLL el 13 de noviembre",
-    "artista": "Místico",
-    "intro": "El 13 de noviembre de 2026, la Arena México será el escenario del regreso de Místico al Viernes Espectacular de CMLL.",
-    "telegraph_url": "https://telegra.ph/Místico-regresa-al-Viernes-Espectacular-de-CMLL-el-13-de-noviembre-11-12",
-    "url": "https://enelensayomedia.com/notas/mistico-regresa-al-viernes-espectacular-de-cmll-el-13-de-noviembre-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/mistico-regresa-al-viernes-espectacular-de-cmll-el-13-de-noviembre-1112.jpg",
-    "fecha": "2026-11-12T10:22:22.596406",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Luchas",
-    "fecha_original": "2026-11-12T10:22:22.596406",
-    "ultima_actualizacion": "2026-11-15T13:30:20.417720",
-    "actualizada": true
   }
 ]
