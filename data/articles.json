@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Voten hoy martes 24 de noviembre en La Granja VIP para Duelo de Nominación",
+    "artista": "Votación en La Granja VIP",
+    "intro": "Hoy martes 24 de noviembre se realiza el Duelo de Nominación de La Granja VIP. La audiencia puede votar en la app DIRECTA o en el portal oficial para enviar a un Peón o Granjero al duelo…",
+    "telegraph_url": "https://telegra.ph/Voten-hoy-martes-24-de-noviembre-en-La-Granja-VIP-para-Duelo-de-Nominación-11-24",
+    "url": "https://enelensayomedia.com/notas/voten-hoy-martes-24-de-noviembre-en-la-granja-vip-para-duelo-de-nomina-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/voten-hoy-martes-24-de-noviembre-en-la-granja-vip-para-duelo-de-nomina-1124.jpg",
+    "fecha": "2026-11-24T14:45:55.969046",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reality"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Apple TV confirma quinta temporada de 'Ted Lasso' con Jason Sudeikis",
     "artista": "Ted Lasso",
     "intro": "Apple TV confirmó oficialmente la renovación de 'Ted Lasso' para una quinta temporada, con el retorno de Jason Sudeikis como protagonista y productor ejecutivo.",
@@ -5831,19 +5845,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Marvel y DCU"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "El Palacio de Lecumberri: historia de un penal brutal y su transformación en archivo histórico",
-    "artista": "el Palacio de Lecumberri",
-    "intro": "Construido en 1900, el complejo fue famoso por su sistema panóptico y condenas extremas, hasta su conversión en Archivo General de la Nación en 1982.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-palacio-de-lecumberri-historia-de-un-penal-brutal-y-su-transformaci-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-palacio-de-lecumberri-historia-de-un-penal-brutal-y-su-transformaci-1112.jpg",
-    "fecha": "2026-11-12T20:33:19.588574",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror"
   }
 ]
