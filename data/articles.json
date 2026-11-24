@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "The Rock volverá a WWE el 28 de noviembre",
+    "artista": "WWE",
+    "intro": "The Rock volverá a WWE el próximo 28 de noviembre en el Daikin Park de Houston, Texas, durante la celebración del evento Survivor Series: WarGames.",
+    "telegraph_url": "https://telegra.ph/The-Rock-volverá-a-WWE-el-28-de-noviembre-11-24",
+    "url": "https://enelensayomedia.com/notas/the-rock-volvera-a-wwe-el-28-de-noviembre-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/the-rock-volvera-a-wwe-el-28-de-noviembre-1124.jpg",
+    "fecha": "2026-11-24T16:24:04.940596",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Emma Thompson revela que ha trabajado más con Hugh Grant que con otros actores",
     "artista": "Emma Thompson sobre Hugh Grant",
     "intro": "La actriz y guionista destaca la trayectoria compartida con el reconocido intérprete británico.",
@@ -5831,21 +5845,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme internacional"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Godzilla Minus Zero llega a cines mexicanos el 5 de noviembre de 2026",
-    "artista": "Godzilla",
-    "intro": "El icónico monstruo Godzilla vuelve a la gran pantalla con 'Godzilla Minus Zero', programado para estrenarse en México el jueves 5 de noviembre de 2026.",
-    "telegraph_url": "https://telegra.ph/Godzilla-Minus-Zero-llega-a-cines-mexicanos-el-5-de-noviembre-de-2026-11-04",
-    "url": "https://enelensayomedia.com/notas/godzilla-minus-zero-llega-a-cines-mexicanos-el-5-de-noviembre-de-2026-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/godzilla-minus-zero-llega-a-cines-mexicanos-el-5-de-noviembre-de-2026-1104.jpg",
-    "fecha": "2026-11-13T08:30:31.841452",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-04T13:02:46.637493",
-    "actualizada": true
   }
 ]
