@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Maluma confirma concierto en San Luis Potosí en 2027",
+    "artista": "Maluma",
+    "intro": "El artista anunció su gira 'Loco X Volver World Tour 2027' con siete fechas en México.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/maluma-confirma-concierto-en-san-luis-potosi-en-2027-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/maluma-confirma-concierto-en-san-luis-potosi-en-2027-1124.jpg",
+    "fecha": "2026-11-24T11:11:54.086244",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "The Warning se presenta en el medio tiempo de la NFL en México",
     "artista": "The Warning",
@@ -5821,21 +5835,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Marvel y DCU"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Muere Regina Torné a los 82 años",
-    "artista": "Regina Torné",
-    "intro": "La actriz mexicana Regina Torné falleció el 11 de noviembre de 2026 a los 82 años de edad en su domicilio de la Ciudad de México.",
-    "telegraph_url": "https://telegra.ph/Muere-Regina-Torné-a-los-82-años-11-12",
-    "url": "https://enelensayomedia.com/notas/muere-regina-torne-a-los-82-anos-1111.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/muere-regina-torne-a-los-82-anos-1111.jpg",
-    "fecha": "2026-11-12T13:02:56.271558",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-11T20:03:31.106964",
-    "actualizada": true
   }
 ]
