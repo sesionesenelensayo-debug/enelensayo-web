@@ -1,6 +1,38 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Maluma confirma concierto en San Luis Potosí en 2027",
+    "artista": "Maluma",
+    "intro": "El artista anunció su gira 'Loco X Volver World Tour 2027' con siete fechas en México.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/maluma-confirma-concierto-en-san-luis-potosi-en-2027-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/maluma-confirma-concierto-en-san-luis-potosi-en-2027-1124.jpg",
+    "fecha": "2026-11-24T12:45:49.073864",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos",
+    "fecha_original": "2026-11-24T11:11:54.086244",
+    "ultima_actualizacion": "2026-11-24T12:45:49.073864",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "El error que cambió la vida de Marilyn Monroe",
+    "artista": "Marilyn Monroe",
+    "intro": "El canal En el Ensayo Media presenta un video de ocho minutos que explora la vida y muerte de Marilyn Monroe…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-error-que-cambio-la-vida-de-marilyn-monroe-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-error-que-cambio-la-vida-de-marilyn-monroe-1124.jpg",
+    "fecha": "2026-11-24T12:45:38.807302",
+    "author": "Oliver Ken",
+    "views": 0,
+    "archivo": true,
+    "categoria": "Biografía"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "La isla de las muñecas de Xochimilco: crónica de un misterio sin resolver",
     "artista": "la Isla de las Muñecas de Xochimilco",
@@ -170,20 +202,6 @@
     "fecha_original": "2026-11-23T11:52:01.254117",
     "ultima_actualizacion": "2026-11-24T11:13:59.695922",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Maluma confirma concierto en San Luis Potosí en 2027",
-    "artista": "Maluma",
-    "intro": "El artista anunció su gira 'Loco X Volver World Tour 2027' con siete fechas en México.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/maluma-confirma-concierto-en-san-luis-potosi-en-2027-1124.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/maluma-confirma-concierto-en-san-luis-potosi-en-2027-1124.jpg",
-    "fecha": "2026-11-24T11:11:54.086244",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
   },
   {
     "opinion": false,
@@ -5826,19 +5844,5 @@
     "categoria": "Cultura",
     "fecha_original": "2026-11-12T10:31:28.408119",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Familia Elizalde se deslinda del documental 'Valentín: La Muerte del Gallo de Oro'",
-    "artista": "Valentín Elizalde",
-    "intro": "La familia de Valentín Elizalde emitió un comunicado deslindándose de la producción del documental 'Valentín: La Muerte del Gallo de Oro', que HBO Max estrenará el 12 de noviembre de 2026.",
-    "telegraph_url": "https://telegra.ph/Familia-Elizalde-se-deslinda-del-documental-Valentín-La-Muerte-del-Gallo-de-Oro-11-12",
-    "url": "https://enelensayomedia.com/notas/familia-elizalde-se-deslinda-del-documental-valentin-la-muerte-del-gal-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/familia-elizalde-se-deslinda-del-documental-valentin-la-muerte-del-gal-1112.jpg",
-    "fecha": "2026-11-12T16:52:53.679276",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   }
 ]
