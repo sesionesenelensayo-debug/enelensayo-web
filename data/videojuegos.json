@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-24T09:05",
+ "actualizado": "2026-11-24T15:15",
  "peores": [
   {
    "titulo": "Code Violet",
@@ -11,6 +11,28 @@
    "sentimiento": "Generally unfavorable",
    "slug": "code-violet",
    "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1767942816.jpg"
+  },
+  {
+   "titulo": "Code Violet",
+   "score": 29,
+   "resenas": 16,
+   "fecha": "2026-01-10",
+   "plataforma": "PlayStation 5",
+   "genero": "Survival",
+   "sentimiento": "Generally unfavorable",
+   "slug": "code-violet",
+   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1767942816.jpg"
+  },
+  {
+   "titulo": "Agefield High: Rock the School",
+   "score": 29,
+   "resenas": 14,
+   "fecha": "2026-08-12",
+   "plataforma": "PC",
+   "genero": "Open-World Action",
+   "sentimiento": "Generally unfavorable",
+   "slug": "agefield-high-rock-the-school",
+   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1786578220.jpg"
   },
   {
    "titulo": "Agefield High: Rock the School",
@@ -35,6 +57,17 @@
    "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1771488401.jpg"
   },
   {
+   "titulo": "Tokyo Scramble",
+   "score": 43,
+   "resenas": 11,
+   "fecha": "2026-02-11",
+   "plataforma": "Nintendo Switch 2",
+   "genero": "Survival",
+   "sentimiento": "Generally unfavorable",
+   "slug": "tokyo-scramble",
+   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1771488401.jpg"
+  },
+  {
    "titulo": "1348 Ex Voto",
    "score": 50,
    "resenas": 19,
@@ -44,6 +77,28 @@
    "sentimiento": "Mixed or average",
    "slug": "1348-ex-voto",
    "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1773330261.jpg"
+  },
+  {
+   "titulo": "1348 Ex Voto",
+   "score": 50,
+   "resenas": 19,
+   "fecha": "2026-03-12",
+   "plataforma": "PC",
+   "genero": "Action Adventure",
+   "sentimiento": "Mixed or average",
+   "slug": "1348-ex-voto",
+   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1773330261.jpg"
+  },
+  {
+   "titulo": "Samson",
+   "score": 51,
+   "resenas": 33,
+   "fecha": "2026-04-08",
+   "plataforma": "PC",
+   "genero": "Open-World Action",
+   "sentimiento": "Mixed or average",
+   "slug": "samson",
+   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1775578115.jpg"
   },
   {
    "titulo": "Samson",
@@ -68,70 +123,15 @@
    "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1785220152.jpg"
   },
   {
-   "titulo": "Disgaea Mayhem",
-   "score": 52,
-   "resenas": 10,
-   "fecha": "2026-07-23",
-   "plataforma": "Nintendo Switch 2",
+   "titulo": "The Relic: First Guardian",
+   "score": 51,
+   "resenas": 12,
+   "fecha": "2026-07-31",
+   "plataforma": "PlayStation 5",
    "genero": "Action RPG",
    "sentimiento": "Mixed or average",
-   "slug": "disgaea-mayhem",
-   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1784176288.jpg"
-  },
-  {
-   "titulo": "Legacy of Kain: Ascendance",
-   "score": 53,
-   "resenas": 18,
-   "fecha": "2026-03-31",
-   "plataforma": "PlayStation 5",
-   "genero": "2D Platformer",
-   "sentimiento": "Mixed or average",
-   "slug": "legacy-of-kain-ascendance",
-   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1773261213.jpg"
-  },
-  {
-   "titulo": "Sonic Frontiers: Definitive Edition",
-   "score": 56,
-   "resenas": 12,
-   "fecha": "2026-06-23",
-   "plataforma": "Nintendo Switch 2",
-   "genero": "3D Platformer",
-   "sentimiento": "Mixed or average",
-   "slug": "sonic-frontiers-definitive-edition",
-   "imagen": "https://www.metacritic.com/a/img/catalog/provider/6/3/6-1-1251177-13.jpg"
-  },
-  {
-   "titulo": "Dark Scrolls",
-   "score": 59,
-   "resenas": 18,
-   "fecha": "2026-06-22",
-   "plataforma": "PC",
-   "genero": "2D Platformer",
-   "sentimiento": "Mixed or average",
-   "slug": "dark-scrolls",
-   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1779552773.jpg"
-  },
-  {
-   "titulo": "I Hate This Place",
-   "score": 61,
-   "resenas": 16,
-   "fecha": "2026-01-29",
-   "plataforma": "PC",
-   "genero": "Survival",
-   "sentimiento": "Mixed or average",
-   "slug": "i-hate-this-place",
-   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1769618890.jpg"
-  },
-  {
-   "titulo": "R-Type Dimensions III",
-   "score": 61,
-   "resenas": 10,
-   "fecha": "2026-05-19",
-   "plataforma": "PlayStation 5",
-   "genero": "Horizontal Shoot-'Em-Up",
-   "sentimiento": "Mixed or average",
-   "slug": "r-type-dimensions-iii",
-   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1779335645.jpg"
+   "slug": "the-relic-first-guardian",
+   "imagen": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1785220152.jpg"
   }
  ],
  "estrenos": [
