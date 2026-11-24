@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Blanca Romero rompe con Quique",
+    "artista": "Blanca Romero",
+    "intro": "Blanca Romero rompió su relación con Quique Sánchez Flores. La ruptura se hizo pública entre el 23 y el 24 de noviembre de 2026. La pareja estuvo junta aproximadamente un año.",
+    "telegraph_url": "https://telegra.ph/Blanca-Romero-rompe-con-Quique-11-24",
+    "url": "https://enelensayomedia.com/notas/blanca-romero-rompe-con-quique-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/blanca-romero-rompe-con-quique-1124.jpg",
+    "fecha": "2026-11-24T07:18:20.365189",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Miley Cyrus cumple 34 años y se casa con Maxx Morando en California",
     "artista": "Miley Cyrus",
     "intro": "Miley Cyrus celebra hoy sus 34 años mientras se prepara para un matrimonio secreto con el baterista Maxx Morando, según informó TMZ el 19 de noviembre.",
@@ -5832,19 +5846,5 @@
     "categoria": "Conciertos",
     "fecha_original": "2026-11-01T16:36:52.567321",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Spotify Wrapped 2026: la fecha prevista es el 2 de diciembre",
-    "artista": "Spotify",
-    "intro": "Spotify no ha confirmado oficialmente la fecha de lanzamiento de su Wrapped 2026.",
-    "telegraph_url": "https://telegra.ph/Spotify-Wrapped-2026-la-fecha-prevista-es-el-2-de-diciembre-11-12",
-    "url": "https://enelensayomedia.com/notas/spotify-wrapped-2026-la-fecha-prevista-es-el-2-de-diciembre-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/spotify-wrapped-2026-la-fecha-prevista-es-el-2-de-diciembre-1112.jpg",
-    "fecha": "2026-11-12T10:29:24.987238",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos"
   }
 ]
