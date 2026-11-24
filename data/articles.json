@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Anya Taylor-Joy se queda muda al ver a Ian McKellen como Gandalf en el set de 'El señor de los anillos'",
+    "artista": "Anya Taylor-Joy",
+    "intro": "Anya Taylor-Joy confesó que se quedó sin habla al ver a Ian McKellen interpretando a Gandalf en el set de 'El señor de los anillos: La caza de Gollum'.",
+    "telegraph_url": "https://telegra.ph/Anya-Taylor-Joy-se-queda-muda-al-ver-a-Ian-McKellen-como-Gandalf-en-el-set-de-El-señor-de-los-anillos-11-24",
+    "url": "https://enelensayomedia.com/notas/anya-taylor-joy-se-queda-muda-al-ver-a-ian-mckellen-como-gandalf-en-el-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/anya-taylor-joy-se-queda-muda-al-ver-a-ian-mckellen-como-gandalf-en-el-1124.jpg",
+    "fecha": "2026-11-24T07:52:44.146295",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Arknights: Endfield anuncia actualización 2.0 en The Game Awards",
     "artista": "Arknights",
     "intro": "Arknights: Endfield presentó una actualización 2.0 durante una transmisión en vivo el 21 de noviembre de 2026, enmarcada en la nominación a The Game Awards 2026.",
@@ -5829,21 +5843,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Streaming"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "«Wildwood» tendrá redoblaje en México tras críticas",
-    "artista": "Javier Ibarreche",
-    "intro": "¿Puede una película animada cambiar por completo sus voces en México debido al rechazo masivo de la audiencia?",
-    "telegraph_url": "https://telegra.ph/Wildwood-tendrá-redoblaje-en-México-tras-críticas-11-11",
-    "url": "https://enelensayomedia.com/notas/wildwood-tendra-redoblaje-en-mexico-tras-criticas-1111.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/wildwood-tendra-redoblaje-en-mexico-tras-criticas-1111.jpg",
-    "fecha": "2026-11-12T11:08:37.372567",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-11T14:41:18.301626",
-    "actualizada": true
   }
 ]
