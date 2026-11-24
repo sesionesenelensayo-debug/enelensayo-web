@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Maite Perroni regresa a las telenovelas",
+    "artista": "Maite Perroni",
+    "intro": "¿Cuándo será el esperado regreso de Maite Perroni a las telenovelas como protagonista?",
+    "telegraph_url": "https://telegra.ph/Maite-Perroni-regresa-a-las-telenovelas-11-24",
+    "url": "https://enelensayomedia.com/notas/maite-perroni-regresa-a-las-telenovelas-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/maite-perroni-regresa-a-las-telenovelas-1124.jpg",
+    "fecha": "2026-11-24T15:20:40.213344",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "K-Pop: The Debut publica tráiler y póster, estreno en México pendiente",
     "artista": "K-Pop: The Debut",
     "intro": "Paramount Pictures lanzó el primer tráiler oficial y el póster de 'K-Pop: The Debut' el 23 de noviembre de 2026…",
@@ -5832,19 +5846,5 @@
     "categoria": "Streaming",
     "fecha_original": "2026-11-11T19:05:40.808286",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Vadhir Derbez obtiene segundo amparo contra orden de aprehensión por violación",
-    "artista": "Eugenio Derbez",
-    "intro": "El 6 de noviembre de 2026, Vadhir Derbez, hijo de Eugenio Derbez, logró un segundo amparo que suspende la orden de aprehensión emitida por la Fiscalía de la CDMX por presunta violación o abuso sexual.",
-    "telegraph_url": "https://telegra.ph/Vadhir-Derbez-obtiene-segundo-amparo-contra-orden-de-aprehensión-por-violación-11-13",
-    "url": "https://enelensayomedia.com/notas/vadhir-derbez-obtiene-segundo-amparo-contra-orden-de-aprehension-por-v-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/vadhir-derbez-obtiene-segundo-amparo-contra-orden-de-aprehension-por-v-1112.jpg",
-    "fecha": "2026-11-12T22:32:55.460565",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   }
 ]
