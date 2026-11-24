@@ -12149,23 +12149,6 @@
    "zona": "Hipódromo Condesa, Cuauhtémoc"
   },
   {
-   "id": "tba|ciudad-de-mexico|londres-195--col--juarez--ciudad-de-mexico|2026-11-26",
-   "banda": "TBA",
-   "ciudad": "Ciudad de México",
-   "estado": "Distrito Federal",
-   "lat": 19.4242929,
-   "lon": -99.1673655,
-   "recinto": "Londres 195, Col. Juárez, Ciudad de México",
-   "fecha": "2026-11-26",
-   "hora": "",
-   "boletos": "",
-   "precio": "",
-   "genero": "Música en vivo",
-   "fuente": "Multiforo Digital",
-   "tipo": "show",
-   "fuente_url": "https://www.instagram.com/reel/DfVAsUwzki2"
-  },
-  {
    "id": "perfecto-miserable|ciudad-de-mexico|house-of-vans-cdmx|2026-11-26",
    "banda": "PERFECTO MISERABLE",
    "ciudad": "Ciudad de México",
@@ -12701,23 +12684,6 @@
    "fuente": "Multiforo Digital",
    "tipo": "show",
    "fuente_url": "https://www.instagram.com/reel/DfTQtKHxVJT"
-  },
-  {
-   "id": "wig-s-3rd-anniversary|ciudad-de-mexico|cdmx|2026-11-27",
-   "banda": "WiG’s 3rd Anniversary",
-   "ciudad": "Ciudad de México",
-   "estado": "Distrito Federal",
-   "lat": null,
-   "lon": null,
-   "recinto": "CDMX",
-   "fecha": "2026-11-27",
-   "hora": "",
-   "boletos": "",
-   "precio": "Early bird 300MXN; Preventa 350MXN; General 400MXN; Last cal",
-   "genero": "Música en vivo",
-   "fuente": "Multiforo Digital",
-   "tipo": "show",
-   "fuente_url": "https://www.instagram.com/p/DfSsqCsJIcR"
   },
   {
    "id": "tributo-bunbury-x-sdh|ciudad-de-mexico|segundo-piso-live|2026-11-27",
