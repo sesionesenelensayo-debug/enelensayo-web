@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Gabito Ballesteros y Natanael Cano se reencuentran al aire libre",
+    "artista": "Gabito Ballesteros",
+    "intro": "Gabito Ballesteros y Natanael Cano se reencuentran al aire libre, según fotos publicadas por el primero en Instagram el 23 de noviembre de 2026.",
+    "telegraph_url": "https://telegra.ph/Gabito-Ballesteros-y-Natanael-Cano-se-reencuentran-al-aire-libre-11-24",
+    "url": "https://enelensayomedia.com/notas/gabito-ballesteros-y-natanael-cano-se-reencuentran-al-aire-libre-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/gabito-ballesteros-y-natanael-cano-se-reencuentran-al-aire-libre-1124.jpg",
+    "fecha": "2026-11-24T09:23:27.833029",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Lupita D'Alessio celebra 55 años",
     "artista": "Lupita D'Alessio",
@@ -5827,19 +5841,5 @@
     "views": 0,
     "nota_dia": true,
     "categoria": "Internacional"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Cristinini recibe la Gran Cruz de la Orden del Mérito Civil",
-    "artista": "Cristinini",
-    "intro": "Pedro Sánchez condecora a la streamer Cristinini con la Gran Cruz de la Orden del Mérito Civil.",
-    "telegraph_url": "https://telegra.ph/Cristinini-recibe-la-Gran-Cruz-de-la-Orden-del-Mérito-Civil-11-12",
-    "url": "https://enelensayomedia.com/notas/cristinini-recibe-la-gran-cruz-de-la-orden-del-merito-civil-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/cristinini-recibe-la-gran-cruz-de-la-orden-del-merito-civil-1112.jpg",
-    "fecha": "2026-11-12T11:21:46.206681",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Streaming"
   }
 ]
