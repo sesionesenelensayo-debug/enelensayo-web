@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Apple TV confirma quinta temporada de 'Ted Lasso' con Jason Sudeikis",
+    "artista": "Ted Lasso",
+    "intro": "Apple TV confirmó oficialmente la renovación de 'Ted Lasso' para una quinta temporada, con el retorno de Jason Sudeikis como protagonista y productor ejecutivo.",
+    "telegraph_url": "https://telegra.ph/Apple-TV-confirma-quinta-temporada-de-Ted-Lasso-con-Jason-Sudeikis-11-24",
+    "url": "https://enelensayomedia.com/notas/apple-tv-confirma-quinta-temporada-de-ted-lasso-con-jason-sudeikis-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/apple-tv-confirma-quinta-temporada-de-ted-lasso-con-jason-sudeikis-1124.jpg",
+    "fecha": "2026-11-24T14:30:40.158146",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Televisión"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Inés Gómez Mont liberada tras fianza migratoria en Florida",
     "artista": "Inés Gómez Mont",
     "intro": "Inés Gómez Mont, exconductora de Ventaneando y hija de Lila Downs, fue liberada el 24 de noviembre de 2026 en Estados Unidos tras pagar una fianza migratoria.",
@@ -5831,20 +5845,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades de Pink Floyd",
-    "artista": "Pink Floyd",
-    "intro": "El canal En el Ensayo Media presenta un video corto donde se destacan cinco curiosidades poco conocidas sobre la banda Pink Floyd, abordando hechos históricos…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-pink-floyd-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-pink-floyd-1112.jpg",
-    "fecha": "2026-11-12T20:19:50.811943",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Datos curiosos"
   }
 ]
