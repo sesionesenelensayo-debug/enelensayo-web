@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Alex Loro, el actor Patricio Borghetti, es desenmascarado en '¿Quién es la máscara?' 2026",
+    "artista": "¿Quién es la máscara?",
+    "intro": "En el episodio 7 de '¿Quién es la máscara?' 2026, emitido el 22 de noviembre en Las Estrellas…",
+    "telegraph_url": "https://telegra.ph/Alex-Loro-el-actor-Patricio-Borghetti-es-desenmascarado-en-Quién-es-la-máscara-2026-11-24",
+    "url": "https://enelensayomedia.com/notas/alex-loro-el-actor-patricio-borghetti-es-desenmascarado-en-quien-es-la-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/alex-loro-el-actor-patricio-borghetti-es-desenmascarado-en-quien-es-la-1124.jpg",
+    "fecha": "2026-11-24T10:15:17.433059",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Los Provos llevarán el punk mexicano a Ruido Ibérico 2026",
     "artista": "Los Provos",
     "intro": "Los Provos serán la única banda representante de México en el festival Ruido Ibérico 2026, que se celebrará el 28 de noviembre.",
@@ -5825,19 +5839,5 @@
     "categoria": "Televisión",
     "fecha_original": "2026-11-09T09:30:06.107096",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Los 10 mejores memes de la salida de James Gunn y Peter Safran de DC Studios",
-    "artista": "Marvel y DCU",
-    "intro": "La comunidad de fans de DC no se quedó callada ante la inesperada salida de James Gunn y Peter Safran. Entre risas y sarcasmo, surgieron memes que critican la situación, las decisiones y el futuro inc",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/los-10-memes-que-celebran-y-lamentan-la-salida-de-gunn-y-safran-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/los-10-memes-que-celebran-y-lamentan-la-salida-de-gunn-y-safran-1112.jpg",
-    "fecha": "2026-11-12T12:45:17.646187",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU"
   }
 ]
