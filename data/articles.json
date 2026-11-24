@@ -2,6 +2,34 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Hayley Williams regresa a CDMX con concierto en Auditorio Nacional",
+    "artista": "Hayley Williams",
+    "intro": "El martes 24 de noviembre de 2026, a las 12:01 horas (hora de México), Hayley Williams regresa a la Ciudad de México para presentar su show en el Auditorio Nacional.",
+    "telegraph_url": "https://telegra.ph/Hayley-Williams-regresa-a-CDMX-con-concierto-en-Auditorio-Nacional-11-24",
+    "url": "https://enelensayomedia.com/notas/hayley-williams-regresa-a-cdmx-con-concierto-en-auditorio-nacional-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/hayley-williams-regresa-a-cdmx-con-concierto-en-auditorio-nacional-1124.jpg",
+    "fecha": "2026-11-24T12:03:03.185574",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Vans Warped Tour México 2027 llega al Autódromo Hermanos Rodríguez el 11 y 12 de septiembre",
+    "artista": "Warped Tour México 2027",
+    "intro": "El festival vuelve a México con su segunda edición en la Ciudad de México, confirmada para septiembre de 2027.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/vans-warped-tour-mexico-2027-llega-al-autodromo-hermanos-rodriguez-el-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/vans-warped-tour-mexico-2027-llega-al-autodromo-hermanos-rodriguez-el-1124.jpg",
+    "fecha": "2026-11-24T12:02:57.029975",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "T1 recupera a TenZ para VALORANT 2027",
     "artista": "T1 recupera a TenZ para VALORANT 2027",
     "intro": "TenZ regresa a la competencia después de 2 años",
@@ -5811,35 +5839,5 @@
     "categoria": "Cultura",
     "fecha_original": "2026-10-31T07:05:46.742759",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Amazon inicia pruebas de cámara para elegir al nuevo James Bond",
-    "artista": "Casting James Bond",
-    "intro": "Jack Lowden, Callum Turner y Josh O'Connor son los candidatos confirmados para el papel.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/amazon-inicia-pruebas-de-camara-para-elegir-al-nuevo-james-bond-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/amazon-inicia-pruebas-de-camara-para-elegir-al-nuevo-james-bond-1112.jpg",
-    "fecha": "2026-11-12T16:20:31.027822",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme internacional",
-    "fecha_original": "2026-11-12T09:19:49.891891",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Karely Ruiz y Jorge Durán en tenso momento en La Mansión VIP 2",
-    "artista": "Karely Ruiz",
-    "intro": "La llegada de Jorge Durán a La Mansión VIP 2 desató un momento tenso con Karely Ruiz, generando reacciones divididas entre los seguidores del reality.",
-    "telegraph_url": "https://telegra.ph/Karely-Ruiz-y-Jorge-Durán-en-tenso-momento-en-La-Mansión-VIP-2-11-12",
-    "url": "https://enelensayomedia.com/notas/karely-ruiz-y-jorge-duran-en-tenso-momento-en-la-mansion-vip-2-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/karely-ruiz-y-jorge-duran-en-tenso-momento-en-la-mansion-vip-2-1112.jpg",
-    "fecha": "2026-11-12T15:08:03.044436",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reality"
   }
 ]
