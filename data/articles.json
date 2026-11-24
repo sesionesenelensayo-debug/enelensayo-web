@@ -2,6 +2,23 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Blanca Romero rompe con Quique",
+    "artista": "Blanca Romero",
+    "intro": "Blanca Romero rompió su relación con Quique Sánchez Flores. La ruptura se hizo pública entre el 23 y el 24 de noviembre de 2026. La pareja estuvo junta aproximadamente un año.",
+    "telegraph_url": "https://telegra.ph/Blanca-Romero-rompe-con-Quique-11-24",
+    "url": "https://enelensayomedia.com/notas/blanca-romero-rompe-con-quique-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/blanca-romero-rompe-con-quique-1124.jpg",
+    "fecha": "2026-11-24T13:29:06.882124",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-24T07:18:20.365189",
+    "ultima_actualizacion": "2026-11-24T13:29:06.882124",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Rey Mysterio anuncia al último integrante del Team México en WWE Raw",
     "artista": "Rey Mysterio",
     "intro": "En el episodio de WWE Raw del 23 de noviembre de 2026 en Wichita, Kansas, Rey Mysterio reveló a El Grande Americano como el quinto y definitivo miembro del Team México para Survivor Series: WarGames.",
@@ -384,20 +401,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Blanca Romero rompe con Quique",
-    "artista": "Blanca Romero",
-    "intro": "Blanca Romero rompió su relación con Quique Sánchez Flores. La ruptura se hizo pública entre el 23 y el 24 de noviembre de 2026. La pareja estuvo junta aproximadamente un año.",
-    "telegraph_url": "https://telegra.ph/Blanca-Romero-rompe-con-Quique-11-24",
-    "url": "https://enelensayomedia.com/notas/blanca-romero-rompe-con-quique-1124.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/blanca-romero-rompe-con-quique-1124.jpg",
-    "fecha": "2026-11-24T07:18:20.365189",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   },
   {
     "opinion": false,
