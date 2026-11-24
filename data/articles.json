@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Netflix lleva a Brad Pitt a los cines IMAX, pero Regal y Cinemark se niegan",
+    "artista": "Netflix lleva a Brad Pitt a los cines IMAX",
+    "intro": "La película de David Fincher se estrenará en 28 días en cines y luego llegará a Netflix.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/netflix-lleva-a-brad-pitt-a-los-cines-imax-pero-regal-y-cinemark-se-ni-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/netflix-lleva-a-brad-pitt-a-los-cines-imax-pero-regal-y-cinemark-se-ni-1124.jpg",
+    "fecha": "2026-11-24T12:27:25.823130",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme internacional"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Ariana Grande anuncia documental y película de concierto de su gira 'Eternal Sunshine'",
     "artista": "Ariana Grande",
     "intro": "Ariana Grande presenta dos proyectos sobre su gira 'Eternal Sunshine': un documental y una película de concierto, que Peacock estrenará en diciembre de 2026.",
@@ -5826,21 +5840,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Roca Rey y Tana Rivera: Cronología de una ruptura",
-    "artista": "Andrés Roca Rey",
-    "intro": "Tras reportes sobre su separación sentimental, la relación entre el torero peruano Andrés Roca Rey y Tana Rivera ha acaparado la atención mediática.",
-    "telegraph_url": "https://telegra.ph/Roca-Rey-y-Tana-Rivera-Cronología-de-una-ruptura-11-10",
-    "url": "https://enelensayomedia.com/notas/roca-rey-y-tana-rivera-cronologia-de-una-ruptura-1110.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/roca-rey-y-tana-rivera-cronologia-de-una-ruptura-1110.jpg",
-    "fecha": "2026-11-12T16:30:26.631871",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-10T14:15:05.037239",
-    "actualizada": true
   }
 ]
