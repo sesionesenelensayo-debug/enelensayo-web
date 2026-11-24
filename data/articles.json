@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Charlie Cox fue rechazado para ser James Bond por su edad",
+    "artista": "Charlie Cox",
+    "intro": "Antes, interpretar a James Bond era una meta aspiracional compartida por gran parte de los actores británicos de diversas generaciones en la industria del cine.",
+    "telegraph_url": "https://telegra.ph/Charlie-Cox-fue-rechazado-para-ser-James-Bond-por-su-edad-11-24",
+    "url": "https://enelensayomedia.com/notas/charlie-cox-fue-rechazado-para-ser-james-bond-por-su-edad-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/charlie-cox-fue-rechazado-para-ser-james-bond-por-su-edad-1124.jpg",
+    "fecha": "2026-11-24T14:49:22.671632",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Voten hoy martes 24 de noviembre en La Granja VIP para Duelo de Nominación",
     "artista": "Votación en La Granja VIP",
     "intro": "Hoy martes 24 de noviembre se realiza el Duelo de Nominación de La Granja VIP. La audiencia puede votar en la app DIRECTA o en el portal oficial para enviar a un Peón o Granjero al duelo…",
@@ -5831,19 +5845,5 @@
     "categoria": "Chisme",
     "fecha_original": "2026-11-03T13:34:06.725879",
     "actualizada": true
-  },
-  {
-    "opinion": true,
-    "tipo": "reportaje",
-    "titulo": "Latcham sucede a Gunn-Safran en DC Studios: Marvel se abre paso en un DCU en crisis",
-    "artista": "Jeremy Latcham",
-    "intro": "Skydance Motion Picture Group anunció el 9 de noviembre de 2026 que Jeremy Latcham asumirá la presidencia y dirección creativa de DC Studios el 1 de diciembre…",
-    "telegraph_url": "https://telegra.ph/Latcham-sucede-a-Gunn-Safran-en-DC-Studios-Marvel-se-abre-paso-en-un-DCU-en-crisis-11-13",
-    "url": "https://enelensayomedia.com/notas/latcham-sucede-a-gunn-safran-en-dc-studios-marvel-se-abre-paso-en-un-d-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/latcham-sucede-a-gunn-safran-en-dc-studios-marvel-se-abre-paso-en-un-d-1112.jpg",
-    "fecha": "2026-11-12T20:38:21.156795",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU"
   }
 ]
