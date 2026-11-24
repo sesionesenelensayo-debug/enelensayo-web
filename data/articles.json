@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Lupita D'Alessio celebra 55 años",
+    "artista": "Lupita D'Alessio",
+    "intro": "Lupita D'Alessio celebrará 55 años de trayectoria en el Auditorio Nacional. La cantante y actriz mexicana ha tenido una carrera destacada en la música y la televisión.",
+    "telegraph_url": "https://telegra.ph/Lupita-DAlessio-celebra-55-años-11-24",
+    "url": "https://enelensayomedia.com/notas/lupita-d-alessio-celebra-55-anos-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/lupita-d-alessio-celebra-55-anos-1124.jpg",
+    "fecha": "2026-11-24T09:19:30.693251",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Anya Taylor-Joy se queda muda al ver a Ian McKellen como Gandalf en el set de 'El señor de los anillos'",
     "artista": "Anya Taylor-Joy",
@@ -4131,22 +4145,6 @@
     "views": 0,
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-09T07:26:33.842949",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Feid lanza “Paradixe Remix” con Omar Courtz, Myke Towers y más",
-    "artista": "Feid",
-    "intro": "El cantante colombiano Feid ha presentado “Paradixe Remix”, una nueva versión del tema que incorpora a los artistas urbanos Omar Courtz, Myke Towers, El Americano 4KT y Pirlo.",
-    "telegraph_url": "https://telegra.ph/Feid-lanza-Paradixe-Remix-con-Omar-Courtz-Myke-Towers-y-más-11-03",
-    "url": "https://enelensayomedia.com/notas/feid-lanza-paradixe-remix-con-omar-courtz-myke-towers-y-mas-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/feid-lanza-paradixe-remix-con-omar-courtz-myke-towers-y-mas-1103.jpg",
-    "fecha": "2026-11-15T11:10:40.075730",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-03T09:17:47.839306",
     "actualizada": true
   },
   {

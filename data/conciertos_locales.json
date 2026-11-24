@@ -16208,6 +16208,38 @@
    "genero": "",
    "fuente": "búsqueda de bandas EEM",
    "tipo": "banda"
+  },
+  {
+   "id": "combine-the-band|leon||x",
+   "banda": "Combine The Band",
+   "ciudad": "León",
+   "estado": "Guanajuato",
+   "lat": 21.125,
+   "lon": -101.686,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
+  },
+  {
+   "id": "onza|leon||x",
+   "banda": "Onza",
+   "ciudad": "León",
+   "estado": "Guanajuato",
+   "lat": 21.125,
+   "lon": -101.686,
+   "recinto": "",
+   "fecha": "",
+   "hora": "",
+   "boletos": "",
+   "precio": "",
+   "genero": "",
+   "fuente": "búsqueda de bandas EEM",
+   "tipo": "banda"
   }
  ]
 }
