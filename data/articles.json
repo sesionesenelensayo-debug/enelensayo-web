@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Ariana Grande anuncia documental y película de concierto de su gira 'Eternal Sunshine'",
+    "artista": "Ariana Grande",
+    "intro": "Ariana Grande presenta dos proyectos sobre su gira 'Eternal Sunshine': un documental y una película de concierto, que Peacock estrenará en diciembre de 2026.",
+    "telegraph_url": "https://telegra.ph/Ariana-Grande-anuncia-documental-y-película-de-concierto-de-su-gira-Eternal-Sunshine-11-24",
+    "url": "https://enelensayomedia.com/notas/ariana-grande-anuncia-documental-y-pelicula-de-concierto-de-su-gira-et-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/ariana-grande-anuncia-documental-y-pelicula-de-concierto-de-su-gira-et-1124.jpg",
+    "fecha": "2026-11-24T12:04:03.148178",
+    "author": "Oliver Ken",
+    "views": 0,
+    "nota_dia": true,
+    "categoria": "Internacional"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Hayley Williams regresa a CDMX con concierto en Auditorio Nacional",
     "artista": "Hayley Williams",
     "intro": "El martes 24 de noviembre de 2026, a las 12:01 horas (hora de México), Hayley Williams regresa a la Ciudad de México para presentar su show en el Auditorio Nacional.",
@@ -5823,21 +5838,6 @@
     "views": 0,
     "categoria": "Chisme",
     "fecha_original": "2026-11-10T14:15:05.037239",
-    "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Nuevas películas y exposiciones llegan a la cartelera de noviembre en la Cineteca Nacional",
-    "artista": "Cineteca Nacional",
-    "intro": "La Cineteca Nacional Chapultepec anunció su programación de noviembre, incorporando una serie de películas y exposiciones que ampliarán la oferta cultural del recinto. Según Edomex Al Día, la actualiz",
-    "telegraph_url": "https://telegra.ph/Nuevas-películas-y-exposiciones-llegan-a-la-cartelera-de-noviembre-en-la-Cineteca-Nacional-10-31",
-    "url": "https://enelensayomedia.com/notas/nuevas-peliculas-y-exposiciones-llegan-a-la-cartelera-de-noviembre-en-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/nuevas-peliculas-y-exposiciones-llegan-a-la-cartelera-de-noviembre-en-1031.jpg",
-    "fecha": "2026-11-12T16:28:50.081394",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura",
-    "fecha_original": "2026-10-31T07:05:46.742759",
     "actualizada": true
   }
 ]
