@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Rey Mysterio anuncia al último integrante del Team México en WWE Raw",
+    "artista": "Rey Mysterio",
+    "intro": "En el episodio de WWE Raw del 23 de noviembre de 2026 en Wichita, Kansas, Rey Mysterio reveló a El Grande Americano como el quinto y definitivo miembro del Team México para Survivor Series: WarGames.",
+    "telegraph_url": "https://telegra.ph/Rey-Mysterio-anuncia-al-último-integrante-del-Team-México-en-WWE-Raw-11-24",
+    "url": "https://enelensayomedia.com/notas/rey-mysterio-anuncia-al-ultimo-integrante-del-team-mexico-en-wwe-raw-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/rey-mysterio-anuncia-al-ultimo-integrante-del-team-mexico-en-wwe-raw-1124.jpg",
+    "fecha": "2026-11-24T13:16:08.059289",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Cuatro exatlonistas llegan a La Granja VIP y Daniela Alexis es eliminada",
     "artista": "La Granja VIP",
     "intro": "En la gala del domingo 22 de noviembre, La Granja VIP (segunda temporada) incorporó a cuatro atletas de Exatlón México como nuevos granjeros peones, mientras la concursante Daniela Alexis…",
@@ -5826,19 +5840,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Marvel y DCU"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Fox Sports México cierra y da la bienvenida a Nación Deportes",
-    "artista": "Adiós Fox Sports México; hola Nación Deportes",
-    "intro": "El 11 de noviembre se despeptó la marca Fox Sports tras 25 años en la televisión deportiva mexicana.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fox-sports-mexico-cierra-y-da-la-bienvenida-a-nacion-deportes-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fox-sports-mexico-cierra-y-da-la-bienvenida-a-nacion-deportes-1112.jpg",
-    "fecha": "2026-11-12T17:14:20.799213",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Esports"
   }
 ]
