@@ -1,0 +1,16 @@
+{
+  "artista": "Marilyn Monroe",
+  "slug": "marilyn-monroe",
+  "imagen": "",
+  "shorts": [],
+  "longs": [
+    {
+      "titulo": "El error que cambió la vida de Marilyn Monroe",
+      "url": "https://www.youtube.com/shorts/FfKkdPXyqcs",
+      "fecha": "2026-11-24",
+      "tipo": "long"
+    }
+  ],
+  "tweets": [],
+  "updated": "2026-11-24 12:02"
+}
