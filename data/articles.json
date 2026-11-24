@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "K-Pop: The Debut publica tráiler y póster, estreno en México pendiente",
+    "artista": "K-Pop: The Debut",
+    "intro": "Paramount Pictures lanzó el primer tráiler oficial y el póster de 'K-Pop: The Debut' el 23 de noviembre de 2026…",
+    "telegraph_url": "https://telegra.ph/K-Pop-The-Debut-publica-tráiler-y-póster-estreno-en-México-pendiente-11-24",
+    "url": "https://enelensayomedia.com/notas/k-pop-the-debut-publica-trailer-y-poster-estreno-en-mexico-pendiente-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/k-pop-the-debut-publica-trailer-y-poster-estreno-en-mexico-pendiente-1124.jpg",
+    "fecha": "2026-11-24T15:01:28.855020",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Charlie Cox fue rechazado para ser James Bond por su edad",
     "artista": "Charlie Cox",
     "intro": "Antes, interpretar a James Bond era una meta aspiracional compartida por gran parte de los actores británicos de diversas generaciones en la industria del cine.",
@@ -5829,21 +5843,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Kygo en México 2027: fechas, sedes y boletos",
-    "artista": "Kygo",
-    "intro": "El productor noruego Kygo regresará a México en 2027 con dos conciertos que incluirán música electrónica y un cartel con invitados especiales.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/kygo-en-mexico-2027-fechas-sedes-y-boletos-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/kygo-en-mexico-2027-fechas-sedes-y-boletos-1103.jpg",
-    "fecha": "2026-11-12T21:06:40.579976",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-03T13:34:06.725879",
-    "actualizada": true
   }
 ]
