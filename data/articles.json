@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "ALTER aparece en Billboard 2027 Grammy Preview",
+    "artista": "ALTER",
+    "intro": "El 21 de noviembre de 2026 Metro Ecuador informó que ALTER, banda mexicana de pop‑rock 100 % independiente liderada por Diego Lopmuz, figura en el Billboard 2027 Grammy Preview…",
+    "telegraph_url": "https://telegra.ph/ALTER-aparece-en-Billboard-2027-Grammy-Preview-11-24",
+    "url": "https://enelensayomedia.com/notas/alter-aparece-en-billboard-2027-grammy-preview-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/alter-aparece-en-billboard-2027-grammy-preview-1124.jpg",
+    "fecha": "2026-11-24T11:15:51.849915",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Escena local"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Oasis Live ’27: gira de 2027 inicia en Glasgow el 21 de mayo",
     "artista": "Oasis",
@@ -5824,19 +5838,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Luchas"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "El final de VisionQuest estrena y confirma escena postcréditos",
-    "artista": "VisionQuest",
-    "intro": "El octavo y último episodio de 'VisionQuest' se estrenó el 10 de noviembre de 2026 en Disney+. Con una duración de más de una hora, es el capítulo más largo de la serie.",
-    "telegraph_url": "https://telegra.ph/El-final-de-VisionQuest-estrena-y-confirma-escena-postcréditos-11-12",
-    "url": "https://enelensayomedia.com/notas/el-final-de-visionquest-estrena-y-confirma-escena-postcreditos-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-final-de-visionquest-estrena-y-confirma-escena-postcreditos-1112.jpg",
-    "fecha": "2026-11-12T13:20:43.749597",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU"
   }
 ]
