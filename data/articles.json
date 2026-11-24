@@ -1542,7 +1542,10 @@
     "fecha": "2026-11-22T11:05:27.281009",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Reality"
+    "categoria": "Reality",
+    "fecha_original": "2026-11-22T11:05:27.281009",
+    "ultima_actualizacion": "2026-11-24T16:23:54.307413",
+    "actualizada": true
   },
   {
     "opinion": false,
