@@ -2,6 +2,24 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Miley Cyrus cumple 34 años y se casa con Maxx Morando en California",
+    "artista": "Miley Cyrus",
+    "intro": "Miley Cyrus celebra hoy sus 34 años mientras se prepara para un matrimonio secreto con el baterista Maxx Morando, según informó TMZ el 19 de noviembre.",
+    "telegraph_url": "https://telegra.ph/Miley-Cyrus-cumple-34-años-y-se-casa-con-Maxx-Morando-en-California-11-23",
+    "url": "https://enelensayomedia.com/notas/miley-cyrus-cumple-34-anos-y-se-casa-con-maxx-morando-en-california-1123.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/miley-cyrus-cumple-34-anos-y-se-casa-con-maxx-morando-en-california-1123.jpg",
+    "fecha": "2026-11-23T18:34:29.185592",
+    "author": "Oliver Ken",
+    "views": 0,
+    "nota_dia": true,
+    "categoria": "Reportaje",
+    "fecha_original": "2026-11-23T12:03:26.231942",
+    "ultima_actualizacion": "2026-11-23T18:34:29.185592",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Cypress Hill en CDMX: 1 de abril en el Pepsi Center WTC",
     "artista": "Cypress Hill",
     "intro": "Cypress Hill regresará a la Ciudad de México el jueves 1 de abril de 2027 con un concierto en el Pepsi Center WTC. El show se realizará a las 9:00 p.m.",
@@ -243,21 +261,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Miley Cyrus cumple 34 años y se casa con Maxx Morando en California",
-    "artista": "Miley Cyrus",
-    "intro": "Miley Cyrus celebra hoy sus 34 años mientras se prepara para un matrimonio secreto con el baterista Maxx Morando, según informó TMZ el 19 de noviembre.",
-    "telegraph_url": "https://telegra.ph/Miley-Cyrus-cumple-34-años-y-se-casa-con-Maxx-Morando-en-California-11-23",
-    "url": "https://enelensayomedia.com/notas/miley-cyrus-cumple-34-anos-y-se-casa-con-maxx-morando-en-california-1123.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/miley-cyrus-cumple-34-anos-y-se-casa-con-maxx-morando-en-california-1123.jpg",
-    "fecha": "2026-11-23T12:03:26.231942",
-    "author": "Oliver Ken",
-    "views": 0,
-    "nota_dia": true,
-    "categoria": "Reportaje"
   },
   {
     "opinion": false,
