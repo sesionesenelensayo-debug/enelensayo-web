@@ -446,6 +446,16 @@
    "auto": true
   },
   {
+   "nombre": "Bar Oriente 181",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "",
+   "lat": 19.419961,
+   "lon": -99.1653304,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
    "nombre": "FORO",
    "ciudad": "Ciudad de México",
    "estado": "Distrito Federal",
@@ -685,6 +695,16 @@
    "zona": "Centro Urbano",
    "lat": 19.4249005,
    "lon": -99.168208,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
+   "nombre": "La Comuna",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "",
+   "lat": 19.3747518,
+   "lon": -99.2130153,
    "genero": "Foro con música en vivo",
    "auto": true
   }
