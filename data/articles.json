@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Emma Thompson revela que ha trabajado más con Hugh Grant que con otros actores",
+    "artista": "Emma Thompson sobre Hugh Grant",
+    "intro": "La actriz y guionista destaca la trayectoria compartida con el reconocido intérprete británico.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/emma-thompson-revela-que-ha-trabajado-mas-con-hugh-grant-que-con-otros-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/emma-thompson-revela-que-ha-trabajado-mas-con-hugh-grant-que-con-otros-1124.jpg",
+    "fecha": "2026-11-24T16:14:21.241208",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme internacional"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Alberto Bernal aclara mensaje preocupante en redes: 'Nada más para aclarar que estoy bien'",
     "artista": "GTA VI",
     "intro": "El 23 de noviembre de 2026, Alberto Bernal, el doblador mexicano conocido por interpretar a Peter Parker/Spider-Man…",
@@ -5830,19 +5844,5 @@
     "categoria": "Cine",
     "fecha_original": "2026-11-04T13:02:46.637493",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "La mansión Winchester: 38 años de construcción obsesiva en San José",
-    "artista": "la mansión Winchester",
-    "intro": "La residencia de Sarah Winchester alberga 161 habitaciones y sigue siendo un misterio histórico y paranormal.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/la-mansion-winchester-38-anos-de-construccion-obsesiva-en-san-jose-1113.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-mansion-winchester-38-anos-de-construccion-obsesiva-en-san-jose-1113.jpg",
-    "fecha": "2026-11-13T08:22:32.832361",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror"
   }
 ]
