@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25 07:00",
+ "actualizado": "2026-11-25 08:01",
  "destacado": {
   "pelicula": "Wildwood: El bosque salvaje",
   "estudio": "LAIKA Studios",
@@ -80,6 +80,18 @@
    ],
    "estado": "polémica",
    "resumen": "Los star talents, en especial Lesslie Polinesia, generan polémica por su participación en el doblaje latino de \"Hermanastras\".",
+   "anio": "2026",
+   "auto": true
+  },
+  {
+   "pelicula": "Hechizo: Bienvenidos a Hexe",
+   "star_talents": [
+    "Aldo Rendón",
+    "Erick Elías",
+    "Erick Selim"
+   ],
+   "estado": "polémica",
+   "resumen": "Aldo Rendón quedó fuera del doblaje de 'Hechizo: Bienvenidos a Hexe' y usuarios reviven la polémica con 'Wildwood'; Erick Elías y Erick Selim ganan doblaje y seguidores en la película",
    "anio": "2026",
    "auto": true
   }
