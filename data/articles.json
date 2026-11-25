@@ -2,6 +2,37 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Team Cherry anuncia el evento Cherry Time! sobre Silksong",
+    "artista": "Hollow Knight: Silksong",
+    "intro": "Team Cherry programó un evento de transmisión en vivo titulado \"Cherry Time!\" para este viernes 27 de noviembre de 2026.",
+    "telegraph_url": "https://telegra.ph/Team-Cherry-anuncia-el-evento-Cherry-Time-sobre-Silksong-11-25",
+    "url": "https://enelensayomedia.com/notas/team-cherry-anuncia-el-evento-cherry-time-sobre-silksong-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/team-cherry-anuncia-el-evento-cherry-time-sobre-silksong-1125.jpg",
+    "fecha": "2026-11-25T17:39:11.693406",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos",
+    "fecha_original": "2026-11-25T16:13:24.204882",
+    "ultima_actualizacion": "2026-11-25T17:39:11.693406",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Karrueche Tran y Jason Kennedy triunfan con el programa digital 'The Pop Exchange'",
+    "artista": "Jason Kennedy y Karrueche Tran",
+    "intro": "Karrueche Tran consolida su faceta como conductora y productora en su nuevo proyecto digital, mientras su historial personal y profesional genera constante atención mediática.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/karrueche-tran-y-jason-kennedy-triunfan-con-el-programa-digital-the-po-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/karrueche-tran-y-jason-kennedy-triunfan-con-el-programa-digital-the-po-1125.jpg",
+    "fecha": "2026-11-25T17:38:41.878789",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme internacional"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Nuevas dinámicas y reencuentros en La Mansión VIP 2",
     "artista": "La Mansión VIP 2",
     "intro": "La Mansión VIP 2 registra movimientos clave en sus posiciones y dinámicas recientes.",
@@ -40,20 +71,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Team Cherry anuncia el evento Cherry Time! sobre Silksong",
-    "artista": "Hollow Knight: Silksong",
-    "intro": "Team Cherry programó un evento de transmisión en vivo titulado \"Cherry Time!\" para este viernes 27 de noviembre de 2026.",
-    "telegraph_url": "https://telegra.ph/Team-Cherry-anuncia-el-evento-Cherry-Time-sobre-Silksong-11-25",
-    "url": "https://enelensayomedia.com/notas/team-cherry-anuncia-el-evento-cherry-time-sobre-silksong-1125.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/team-cherry-anuncia-el-evento-cherry-time-sobre-silksong-1125.jpg",
-    "fecha": "2026-11-25T16:13:24.204882",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos"
   },
   {
     "opinion": false,
@@ -5804,21 +5821,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Conciertos"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Frankie Muniz sufre accidente en práctica de Daytona y es trasladado de emergencia",
-    "artista": "Frankie Muniz",
-    "intro": "El 11 de noviembre de 2026, Frankie Muniz, conocido por 'Malcolm in the Middle' y piloto de NASCAR, sufrió un accidente durante una sesión de práctica en el Daytona International Speedway.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/frankie-muniz-sufre-accidente-en-practica-de-daytona-y-es-trasladado-d-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/frankie-muniz-sufre-accidente-en-practica-de-daytona-y-es-trasladado-d-1112.jpg",
-    "fecha": "2026-11-14T09:30:45.320383",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-12T21:03:04.674177",
-    "actualizada": true
   }
 ]
