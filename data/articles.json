@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Cinépolis confirma funciones especiales de 'El Grinch' en diciembre",
+    "artista": "El Grinch",
+    "intro": "Cinépolis anunció la proyección de 'El Grinch' con funciones especiales durante diciembre, como parte de su programa 'Miércoles de clásicos navideños'.",
+    "telegraph_url": "https://telegra.ph/Cinépolis-confirma-funciones-especiales-de-El-Grinch-en-diciembre-11-25",
+    "url": "https://enelensayomedia.com/notas/cinepolis-confirma-funciones-especiales-de-el-grinch-en-diciembre-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/cinepolis-confirma-funciones-especiales-de-el-grinch-en-diciembre-1124.jpg",
+    "fecha": "2026-11-24T20:27:47.274592",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Las 10 películas más caras que perdieron dinero en 2026 según Teleamazonas",
     "artista": "las 10 películas que más dinero perdieron (mayores fracasos de taquilla recientes)",
     "intro": "Un ranking basado en comparación entre presupuestos y recaudación mundial de estrenas en el primer semestre.",
@@ -5833,19 +5847,5 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-11T07:47:19.285789",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Natalia Téllez y el debate sobre star talents en el doblaje de 'Wildwood'",
-    "artista": "Natalia Téllez",
-    "intro": "La actriz mexicana Natalia Téllez se posiciona a favor de la participación de figuras públicas en el doblaje de 'Wildwood…",
-    "telegraph_url": "https://telegra.ph/Natalia-Téllez-y-el-debate-sobre-star-talents-en-el-doblaje-de-Wildwood-11-13",
-    "url": "https://enelensayomedia.com/notas/natalia-tellez-y-el-debate-sobre-star-talents-en-el-doblaje-de-wildwoo-1113.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/natalia-tellez-y-el-debate-sobre-star-talents-en-el-doblaje-de-wildwoo-1113.jpg",
-    "fecha": "2026-11-13T10:35:24.665814",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Doblaje"
   }
 ]
