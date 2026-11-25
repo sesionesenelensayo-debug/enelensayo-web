@@ -1,169 +1,101 @@
 {
- "actualizado": "2026-11-24 23:45",
+ "actualizado": "2026-11-25 13:06",
  "general": [
   {
-   "titulo": "Lupita D'Alessio celebra 55 años",
-   "url": "https://enelensayomedia.com/notas/lupita-d-alessio-celebra-55-anos-1124.html",
-   "visitas": 10
-  },
-  {
-   "titulo": "Cinépolis confirma funciones especiales de 'El Grinch' en diciembre",
-   "url": "https://enelensayomedia.com/notas/cinepolis-confirma-funciones-especiales-de-el-grinch-en-diciembre-1124.html",
-   "visitas": 7
-  },
-  {
-   "titulo": "Hayden Panettiere encontrada muerta en Nueva York",
-   "url": "https://enelensayomedia.com/notas/hayden-panettiere-encontrada-muerta-en-nueva-york-1124.html",
-   "visitas": 6
-  },
-  {
-   "titulo": "Estrena la temporada 3 de 'Percy Jackson' en Disney+ con nuevos dioses",
-   "url": "https://enelensayomedia.com/notas/estrena-la-temporada-3-de-percy-jackson-en-disney-con-nuevos-dioses-1123.html",
-   "visitas": 6
-  },
-  {
-   "titulo": "Cody Rhodes destaca diferencia entre cine y WWE en entrevista reciente",
-   "url": "https://enelensayomedia.com/notas/cody-rhodes-destaca-diferencia-entre-cine-y-wwe-en-entrevista-reciente-1123.html",
-   "visitas": 6
-  },
-  {
-   "titulo": "The Rock volverá a WWE el 28 de noviembre",
-   "url": "https://enelensayomedia.com/notas/the-rock-volvera-a-wwe-el-28-de-noviembre-1124.html",
+   "titulo": "Plex entrevista a Sánchez y Feijóo en YouTube antes de las elecciones 29N",
+   "url": "https://enelensayomedia.com/notas/plex-entrevista-a-sanchez-y-feijoo-en-youtube-antes-de-las-elecciones-1125.html",
    "visitas": 5
+  },
+  {
+   "titulo": "Roca Rey y Tana Rivera: una llamada de madrugada para cerrar las heridas",
+   "url": "https://enelensayomedia.com/notas/roca-rey-y-tana-rivera-una-llamada-de-madrugada-para-cerrar-las-herida-1125.html",
+   "visitas": 4
+  },
+  {
+   "titulo": "'Amanecer en la Cosecha' recaudó USD 224,3 millones en su estreno mundial",
+   "url": "https://enelensayomedia.com/notas/amanecer-en-la-cosecha-recaudo-usd-224-3-millones-en-su-estreno-mundia-1125.html",
+   "visitas": 3
+  },
+  {
+   "titulo": "Lords of the Fallen II llegará en abril de 2027",
+   "url": "https://enelensayomedia.com/notas/lords-of-the-fallen-ii-llegara-en-abril-de-2027-1125.html",
+   "visitas": 3
+  },
+  {
+   "titulo": "Keanu Reeves sorprende en CDMX con visita inesperada para firmar su nuevo libro",
+   "url": "https://enelensayomedia.com/notas/keanu-reeves-sorprende-en-cdmx-con-visita-inesperada-para-firmar-su-nu-1125.html",
+   "visitas": 3
+  },
+  {
+   "titulo": "Netflix estrena hoy 56 contenidos en guía de Espinof para 25 de noviembre",
+   "url": "https://enelensayomedia.com/notas/netflix-estrena-hoy-56-contenidos-en-guia-de-espinof-para-25-de-noviem-1125.html",
+   "visitas": 3
   }
  ],
  "categorias": {
-  "conciertos": [
+  "streaming": [
    {
-    "titulo": "Lupita D'Alessio celebra 55 años",
-    "url": "https://enelensayomedia.com/notas/lupita-d-alessio-celebra-55-anos-1124.html",
-    "visitas": 10
+    "titulo": "Plex entrevista a Sánchez y Feijóo en YouTube antes de las elecciones 29N",
+    "url": "https://enelensayomedia.com/notas/plex-entrevista-a-sanchez-y-feijoo-en-youtube-antes-de-las-elecciones-1125.html",
+    "visitas": 5
+   }
+  ],
+  "chisme": [
+   {
+    "titulo": "Roca Rey y Tana Rivera: una llamada de madrugada para cerrar las heridas",
+    "url": "https://enelensayomedia.com/notas/roca-rey-y-tana-rivera-una-llamada-de-madrugada-para-cerrar-las-herida-1125.html",
+    "visitas": 4
+   }
+  ],
+  "cine": [
+   {
+    "titulo": "'Amanecer en la Cosecha' recaudó USD 224,3 millones en su estreno mundial",
+    "url": "https://enelensayomedia.com/notas/amanecer-en-la-cosecha-recaudo-usd-224-3-millones-en-su-estreno-mundia-1125.html",
+    "visitas": 3
    },
    {
-    "titulo": "Caifanes dará histórico concierto en Estadio GNP el 11 de julio",
-    "url": "https://enelensayomedia.com/notas/caifanes-dara-historico-concierto-en-estadio-gnp-el-11-de-julio-1123.html",
+    "titulo": "Netflix estrena hoy 56 contenidos en guía de Espinof para 25 de noviembre",
+    "url": "https://enelensayomedia.com/notas/netflix-estrena-hoy-56-contenidos-en-guia-de-espinof-para-25-de-noviem-1125.html",
+    "visitas": 3
+   }
+  ],
+  "videojuegos": [
+   {
+    "titulo": "Lords of the Fallen II llegará en abril de 2027",
+    "url": "https://enelensayomedia.com/notas/lords-of-the-fallen-ii-llegara-en-abril-de-2027-1125.html",
     "visitas": 3
    }
   ],
   "cultura": [
    {
-    "titulo": "Cinépolis confirma funciones especiales de 'El Grinch' en diciembre",
-    "url": "https://enelensayomedia.com/notas/cinepolis-confirma-funciones-especiales-de-el-grinch-en-diciembre-1124.html",
-    "visitas": 7
-   },
-   {
-    "titulo": "Maite Perroni regresa a las telenovelas",
-    "url": "https://enelensayomedia.com/notas/maite-perroni-regresa-a-las-telenovelas-1124.html",
-    "visitas": 4
-   }
-  ],
-  "reportaje": [
-   {
-    "titulo": "Hayden Panettiere encontrada muerta en Nueva York",
-    "url": "https://enelensayomedia.com/notas/hayden-panettiere-encontrada-muerta-en-nueva-york-1124.html",
-    "visitas": 6
-   }
-  ],
-  "televisión": [
-   {
-    "titulo": "Estrena la temporada 3 de 'Percy Jackson' en Disney+ con nuevos dioses",
-    "url": "https://enelensayomedia.com/notas/estrena-la-temporada-3-de-percy-jackson-en-disney-con-nuevos-dioses-1123.html",
-    "visitas": 6
-   },
-   {
-    "titulo": "Apple TV confirma quinta temporada de 'Ted Lasso' con Jason Sudeikis",
-    "url": "https://enelensayomedia.com/notas/apple-tv-confirma-quinta-temporada-de-ted-lasso-con-jason-sudeikis-1124.html",
-    "visitas": 2
-   }
-  ],
-  "luchas": [
-   {
-    "titulo": "Cody Rhodes destaca diferencia entre cine y WWE en entrevista reciente",
-    "url": "https://enelensayomedia.com/notas/cody-rhodes-destaca-diferencia-entre-cine-y-wwe-en-entrevista-reciente-1123.html",
-    "visitas": 6
-   },
-   {
-    "titulo": "The Rock volverá a WWE el 28 de noviembre",
-    "url": "https://enelensayomedia.com/notas/the-rock-volvera-a-wwe-el-28-de-noviembre-1124.html",
-    "visitas": 5
+    "titulo": "Keanu Reeves sorprende en CDMX con visita inesperada para firmar su nuevo libro",
+    "url": "https://enelensayomedia.com/notas/keanu-reeves-sorprende-en-cdmx-con-visita-inesperada-para-firmar-su-nu-1125.html",
+    "visitas": 3
    }
   ],
   "marvel y dcu": [
    {
-    "titulo": "Hailee Steinfeld confirma su regreso como Kate Bishop en Avengers: Doomsday",
-    "url": "https://enelensayomedia.com/notas/hailee-steinfeld-confirma-su-regreso-como-kate-bishop-en-avengers-doom-1123.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "Pattinson habría escapado de la trilogía de Reeves: pésima señal",
-    "url": "https://enelensayomedia.com/notas/pattinson-habria-escapado-de-la-trilogia-de-reeves-pesima-senal-1124.html",
-    "visitas": 4
-   }
-  ],
-  "música": [
-   {
-    "titulo": "Nicki Nicole estrena el doble sencillo 'Rayo de Sol' y 'Eterna Soledad'",
-    "url": "https://enelensayomedia.com/notas/nicki-nicole-estrena-el-doble-sencillo-rayo-de-sol-y-eterna-soledad-1123.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "Kid Voodoo es el primer chileno en ganar Los40 Music Awards",
-    "url": "https://enelensayomedia.com/notas/kid-voodoo-es-el-primer-chileno-en-ganar-los40-music-awards-1123.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "Thalía y Yolanda Andrade se reúnen en México tras actuación con Karol G",
-    "url": "https://enelensayomedia.com/notas/thalia-y-yolanda-andrade-se-reunen-en-mexico-tras-actuacion-con-karol-1123.html",
-    "visitas": 3
-   },
-   {
-    "titulo": "Eduin Caz apoya a Ballesteros y revela que Grupo Firme dejó corridos en presentaciones",
-    "url": "https://enelensayomedia.com/notas/eduin-caz-apoya-a-ballesteros-y-revela-que-grupo-firme-dejo-corridos-e-1123.html",
+    "titulo": "Clayface: una película de horror DC que fracasa en salir de la sombra",
+    "url": "https://enelensayomedia.com/notas/clayface-una-pelicula-de-horror-dc-que-fracasa-en-salir-de-la-sombra-1125.html",
     "visitas": 2
-   }
-  ],
-  "videojuegos": [
-   {
-    "titulo": "Análisis de Pikmin 4 Nintendo Switch 2 Edition",
-    "url": "https://enelensayomedia.com/notas/analisis-de-pikmin-4-nintendo-switch-2-edition-1124.html",
-    "visitas": 4
-   }
-  ],
-  "chisme": [
-   {
-    "titulo": "Miley Cyrus cumple 34 años y se casa con Maxx Morando en California",
-    "url": "https://enelensayomedia.com/notas/miley-cyrus-cumple-34-anos-y-se-casa-con-maxx-morando-en-california-1123.html",
-    "visitas": 4
    },
    {
-    "titulo": "Paola Dalay y César Romo escapan a Cancún en medio de polémica familiar",
-    "url": "https://enelensayomedia.com/notas/paola-dalay-y-cesar-romo-escapan-a-cancun-en-medio-de-polemica-familia-1123.html",
+    "titulo": "Marvel revela el tráiler final de 'Avengers: Doomsday' con Doctor Doom como nuevo líder",
+    "url": "https://enelensayomedia.com/notas/marvel-revela-el-trailer-final-de-avengers-doomsday-con-doctor-doom-co-1125.html",
     "visitas": 2
-   }
-  ],
-  "streaming": [
-   {
-    "titulo": "CostaKid agrediendo a una mujer en transmisión en vivo en Kick",
-    "url": "https://enelensayomedia.com/notas/costakid-agrediendo-a-una-mujer-en-transmision-en-vivo-en-kick-1123.html",
-    "visitas": 4
-   }
-  ],
-  "doblaje": [
-   {
-    "titulo": "Solo Leveling: serie live-action no se estrenaría hasta 2028 en Netflix",
-    "url": "https://enelensayomedia.com/notas/solo-leveling-serie-live-action-no-se-estrenaria-hasta-2028-en-netflix-1122.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "Da Itatí Cantoral dobla a la Reina Celeste en 'Hechizo: Bienvenidos a Hexe'",
-    "url": "https://enelensayomedia.com/notas/da-itati-cantoral-dobla-a-la-reina-celeste-en-hechizo-bienvenidos-a-he-1123.html",
-    "visitas": 3
    }
   ],
   "reality": [
    {
-    "titulo": "Manelyk le advierte a Julio Camejo: '¡Para ti no existo!' en La Granja VIP",
-    "url": "https://enelensayomedia.com/notas/manelyk-le-advierte-a-julio-camejo-para-ti-no-existo-en-la-granja-vip-1123.html",
+    "titulo": "Exatlón México 2026: ¿Quién gana la Supervivencia hoy 25 de noviembre? Azules o Rojos",
+    "url": "https://enelensayomedia.com/notas/exatlon-mexico-2026-quien-gana-la-supervivencia-hoy-25-de-noviembre-az-1125.html",
+    "visitas": 2
+   }
+  ],
+  "doblaje": [
+   {
+    "titulo": "PSYREN anuncia voces de seis nuevos psíquicos, incluyendo a la familia Tenjuin",
+    "url": "https://enelensayomedia.com/notas/psyren-anuncia-voces-de-seis-nuevos-psiquicos-incluyendo-a-la-familia-1125.html",
     "visitas": 2
    }
   ]
