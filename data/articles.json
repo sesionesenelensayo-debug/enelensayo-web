@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Marvel revela el tráiler final de 'Avengers: Doomsday' con Doctor Doom como nuevo líder",
+    "artista": "Avengers: Doomsday",
+    "intro": "Marvel Studios publicó el tráiler final de 'Avengers: Doomsday', en el que Doctor Doom toma el liderazgo del Universo Cinematográfico Marvel.",
+    "telegraph_url": "https://telegra.ph/Marvel-revela-el-tráiler-final-de-Avengers-Doomsday-con-Doctor-Doom-como-nuevo-líder-11-25",
+    "url": "https://enelensayomedia.com/notas/marvel-revela-el-trailer-final-de-avengers-doomsday-con-doctor-doom-co-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/marvel-revela-el-trailer-final-de-avengers-doomsday-con-doctor-doom-co-1125.jpg",
+    "fecha": "2026-11-25T10:25:12.813572",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "PSYREN anuncia voces de seis nuevos psíquicos, incluyendo a la familia Tenjuin",
     "artista": "PSYREN",
     "intro": "El 23 de noviembre de 2026, la cuenta oficial de X de PSYREN reveló las voces de seis nuevos integrantes del reparto japonés del anime, entre ellos el resto de la familia Tenjuin.",
@@ -11,7 +25,7 @@
     "fecha": "2026-11-25T10:24:59.907694",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Reportaje"
+    "categoria": "Doblaje"
   },
   {
     "opinion": false,
@@ -5816,19 +5830,5 @@
     "categoria": "Cine",
     "fecha_original": "2026-11-13T13:59:40.277784",
     "actualizada": true
-  },
-  {
-    "opinion": true,
-    "tipo": "reportaje",
-    "titulo": "Essiedu como Snape: el canon se escribe con tinta diversa",
-    "artista": "Paapa Essiedu",
-    "intro": "Paapa Essiedu, actor negro elegido para interpretar a Severus Snape en la serie de HBO sobre Harry Potter, se distancia de J.K. Rowling y rechaza ser su portavoz.",
-    "telegraph_url": "https://telegra.ph/Essiedu-como-Snape-el-canon-se-escribe-con-tinta-diversa-11-13",
-    "url": "https://enelensayomedia.com/notas/essiedu-como-snape-el-canon-se-escribe-con-tinta-diversa-1113.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/essiedu-como-snape-el-canon-se-escribe-con-tinta-diversa-1113.jpg",
-    "fecha": "2026-11-13T14:38:19.091729",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reportaje"
   }
 ]
