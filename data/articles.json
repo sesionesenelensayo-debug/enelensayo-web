@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Babasónicos toca este miércoles en el Palacio de los Deportes",
+    "artista": "Babasónicos",
+    "intro": "Babasónicos ofrecerá un concierto en el Palacio de los Deportes de la Ciudad de México el miércoles 25 de noviembre de 2026 a las 8:00 p.m.",
+    "telegraph_url": "https://telegra.ph/Babasónicos-toca-este-miércoles-en-el-Palacio-de-los-Deportes-11-25",
+    "url": "https://enelensayomedia.com/notas/babasonicos-toca-este-miercoles-en-el-palacio-de-los-deportes-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/babasonicos-toca-este-miercoles-en-el-palacio-de-los-deportes-1125.jpg",
+    "fecha": "2026-11-25T16:27:41.807543",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Silvana Prince publica reflexión tras acusaciones contra Vadhir Derbez",
     "artista": "Vadhir Derbez",
     "intro": "El 24 de noviembre de 2026, Silvana Prince, madre de Vadhir Derbez, publicó historias en Instagram en las que lanzó una reflexión sobre el chisme y la moralidad ajena…",
@@ -5806,22 +5820,6 @@
     "views": 0,
     "categoria": "Chisme",
     "fecha_original": "2026-11-01T16:33:20.695886",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Romancing SaGa 3: Destinies United se estrena en febrero 2027",
-    "artista": "Romancing SaGa 3",
-    "intro": "Square Enix adelantó el lanzamiento de Romancing SaGa 3: Destinies United al 4 de febrero de 2027, anticipándolo 12 días respecto a la fecha original del 16 de febrero.",
-    "telegraph_url": "https://telegra.ph/Romancing-SaGa-3-Destinies-United-se-estrena-en-febrero-2027-11-13",
-    "url": "https://enelensayomedia.com/notas/romancing-saga-3-destinies-united-se-estrena-en-febrero-2027-1113.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/romancing-saga-3-destinies-united-se-estrena-en-febrero-2027-1113.jpg",
-    "fecha": "2026-11-14T08:33:37.843259",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-11-13T08:53:49.331031",
     "actualizada": true
   }
 ]
