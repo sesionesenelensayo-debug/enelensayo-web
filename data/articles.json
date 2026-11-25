@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Lion RFC: 5 discos, 7 giras y 16 años llevando el reggae con mensaje de esperanza",
+    "artista": "LION RFC",
+    "intro": "Formada en 2009 en Ilopango, San Salvador, Lion RFC se consolida como una banda de reggae comprometida con la fe y la labor social.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/lion-rfc-5-discos-7-giras-y-16-anos-llevando-el-reggae-con-mensaje-de-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/lion-rfc-5-discos-7-giras-y-16-anos-llevando-el-reggae-con-mensaje-de-1125.jpg",
+    "fecha": "2026-11-25T10:06:50.076767",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "escena_local": true,
+    "portada_parcial": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Vanity Fair publica investigación sobre la adolescencia de Taylor Swift",
     "artista": "Taylor Swift",
     "intro": "El reportaje del 23 de noviembre de 2026 recopila testimonios que contrastan con la narrativa pública de la artista sobre su etapa escolar.",
@@ -4579,23 +4595,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Marvel y DCU"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Majo Aguilar debuta en el Auditorio Nacional con Lucero y otros invitados",
-    "artista": "Majo Aguilar",
-    "intro": "Majo Aguilar debutó el viernes 13 de noviembre de 2026 en el Auditorio Nacional como parte del cierre de su gira 'Se Armó El Baile'.",
-    "telegraph_url": "https://telegra.ph/Majo-Aguilar-debuta-en-el-Auditorio-Nacional-con-Lucero-y-otros-invitados-11-15",
-    "url": "https://enelensayomedia.com/notas/majo-aguilar-debuta-en-el-auditorio-nacional-con-lucero-y-otros-invita-1115.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/majo-aguilar-debuta-en-el-auditorio-nacional-con-lucero-y-otros-invita-1115.jpg",
-    "fecha": "2026-11-15T19:04:25.702715",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música",
-    "fecha_original": "2026-11-15T08:43:01.929887",
-    "ultima_actualizacion": "2026-11-15T19:04:25.702715",
-    "actualizada": true
   },
   {
     "opinion": false,
