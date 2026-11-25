@@ -1,5 +1,20 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Timberlake y Fallon cantan 'Cha Cha Slide' en adelanto de Acción de Gracias de NBC",
+    "artista": "Justin Timberlake, Jimmy Fallon",
+    "intro": "Un avance del episodio de Acción de Gracias de The Tonight Show Starring Jimmy Fallon, publicado por Billboard el 25 de noviembre de 2026…",
+    "telegraph_url": "https://telegra.ph/Timberlake-y-Fallon-cantan-Cha-Cha-Slide-en-adelanto-de-Acción-de-Gracias-de-NBC-11-25",
+    "url": "https://enelensayomedia.com/notas/timberlake-y-fallon-cantan-cha-cha-slide-en-adelanto-de-accion-de-grac-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/timberlake-y-fallon-cantan-cha-cha-slide-en-adelanto-de-accion-de-grac-1125.jpg",
+    "fecha": "2026-11-25T13:07:30.178941",
+    "author": "Oliver Ken",
+    "views": 0,
+    "nota_dia": true,
+    "categoria": "Internacional"
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "Rockstar confirma personaje no binario en GTA VI con actriz transgénero",
@@ -5816,20 +5831,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reportaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "DCU en caos: comparan gestión de DC con el estándar de Marvel",
-    "artista": "Robert Pattinson",
-    "intro": "En el video 'DCU en caos: ¿Peso o responsabilidad con Robert Pattinson vs Marvel?' el canal En el Ensayo Media analiza la crisis administrativa y creativa del universo cinematográfico de DC (DCU)…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/dcu-en-caos-comparan-gestion-de-dc-con-el-estandar-de-marvel-1113.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/dcu-en-caos-comparan-gestion-de-dc-con-el-estandar-de-marvel-1113.jpg",
-    "fecha": "2026-11-13T19:19:57.852805",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Cine"
   }
 ]
