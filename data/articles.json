@@ -1,5 +1,19 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "Clayface: una película de horror DC que fracasa en salir de la sombra",
+    "artista": "Clayface",
+    "intro": "Clayface estrenó en cines el 23 de octubre de 2026 y ahora, a 33 días de su lanzamiento, sigue sin tener fecha oficial de streaming.",
+    "telegraph_url": "https://telegra.ph/Clayface-una-película-de-horror-DC-que-fracasa-en-salir-de-la-sombra-11-25",
+    "url": "https://enelensayomedia.com/notas/clayface-una-pelicula-de-horror-dc-que-fracasa-en-salir-de-la-sombra-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/clayface-una-pelicula-de-horror-dc-que-fracasa-en-salir-de-la-sombra-1125.jpg",
+    "fecha": "2026-11-25T12:31:12.253313",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Natanael Cano reaparece en público tras suspender gira por salud",
@@ -5814,21 +5828,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Marvel y DCU"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Dani Flow abandona 'La Mansión VIP 2'",
-    "artista": "Dani Flow",
-    "intro": "El cantante mexicano Dani Flow abandonó el reality show 'La Mansión VIP 2' a pocas horas de haber iniciado el programa.",
-    "telegraph_url": "https://telegra.ph/Dani-Flow-abandona-La-Mansión-VIP-2-11-09",
-    "url": "https://enelensayomedia.com/notas/dani-flow-abandona-la-mansion-vip-2-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/dani-flow-abandona-la-mansion-vip-2-1109.jpg",
-    "fecha": "2026-11-13T17:35:05.067618",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reality",
-    "fecha_original": "2026-11-09T11:10:47.074633",
-    "actualizada": true
   }
 ]
