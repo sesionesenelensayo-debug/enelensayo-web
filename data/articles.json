@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Prime Video confirma cuarta temporada de 'El Señor de los Anillos: Los Anillos de Poder'",
+    "artista": "El Señor de los Anillos: Los Anillos de Poder",
+    "intro": "Prime Video confirmó oficialmente la cuarta temporada de 'El Señor de los Anillos: Los Anillos de Poder' el 24 de noviembre de 2026…",
+    "telegraph_url": "https://telegra.ph/Prime-Video-confirma-cuarta-temporada-de-El-Señor-de-los-Anillos-Los-Anillos-de-Poder-11-25",
+    "url": "https://enelensayomedia.com/notas/prime-video-confirma-cuarta-temporada-de-el-senor-de-los-anillos-los-a-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/prime-video-confirma-cuarta-temporada-de-el-senor-de-los-anillos-los-a-1125.jpg",
+    "fecha": "2026-11-25T11:24:09.879870",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Televisión"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "GTA VI genera polémica por nominación a Juego del Año antes del lanzamiento",
     "artista": "GTA VI",
     "intro": "Rockstar Games lanzó GTA VI el 19 de noviembre de 2026 para PlayStation 5 y Xbox Series X/S, pero la anticipada nominación a The Game Awards 2026 desató críticas por considerarse inusual.",
@@ -5814,19 +5828,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Marvel y DCU"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "MasterChef Celebrity mantiene liderazgo en rating, pero con cifras por debajo de picos anterior",
-    "artista": "MasterChef Celebrity mantiene el liderazgo en rating pero con cifras inferiores a semanas ",
-    "intro": "El programa de Telefe se consolidó como la principal apuesta de la noche, aunque su pico de 10.8 puntos queda por debajo de los 14 alcanzados el jueves previo.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/masterchef-celebrity-mantiene-liderazgo-en-rating-pero-con-cifras-por-1113.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/masterchef-celebrity-mantiene-liderazgo-en-rating-pero-con-cifras-por-1113.jpg",
-    "fecha": "2026-11-13T16:19:57.682615",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme internacional"
   }
 ]
