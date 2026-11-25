@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Jennifer Barreto corona Miss Universo 2026: la primera madre en ganar el título",
+    "artista": "Jennifer Barreto",
+    "intro": "Jennifer Barreto, de Puerto Rico, fue coronada Miss Universo 2026 en la 75.ª edición del certamen, celebrada el 24 de noviembre en el Coliseo de Puerto Rico José Miguel Agrelot en San Juan.",
+    "telegraph_url": "https://telegra.ph/Jennifer-Barreto-corona-Miss-Universo-2026-la-primera-madre-en-ganar-el-título-11-25",
+    "url": "https://enelensayomedia.com/notas/jennifer-barreto-corona-miss-universo-2026-la-primera-madre-en-ganar-e-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/jennifer-barreto-corona-miss-universo-2026-la-primera-madre-en-ganar-e-1125.jpg",
+    "fecha": "2026-11-25T10:39:29.572024",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
+    "opinion": false,
     "tipo": "entrevista",
     "titulo": "Plex entrevista a Sánchez y Feijóo en YouTube antes de las elecciones 29N",
     "artista": "Plex",
@@ -5811,22 +5825,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Marvel y DCU"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Karla Souza debuta en 'Grey's Anatomy' y protagonizará spin-off en Texas",
-    "artista": "Grey's Anatomy",
-    "intro": "Karla Souza debuta en 'Grey's Anatomy' y será la primera actriz confirmada para el spin-off ambientado en el oeste de Texas. El anuncio del casting se hizo el 11 de noviembre de 2026.",
-    "telegraph_url": "https://telegra.ph/Karla-Souza-debuta-en-Greys-Anatomy-y-protagonizará-spin-off-en-Texas-11-12",
-    "url": "https://enelensayomedia.com/notas/karla-souza-debuta-en-grey-s-anatomy-y-protagonizara-spin-off-en-texas-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/karla-souza-debuta-en-grey-s-anatomy-y-protagonizara-spin-off-en-texas-1112.jpg",
-    "fecha": "2026-11-13T14:58:46.482248",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Televisión",
-    "fecha_original": "2026-11-12T14:37:43.086688",
-    "actualizada": true,
-    "ultima_actualizacion": "2026-11-15T21:03:45.758174"
   }
 ]
