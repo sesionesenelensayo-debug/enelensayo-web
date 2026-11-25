@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Silvana Prince publica reflexión tras acusaciones contra Vadhir Derbez",
+    "artista": "Vadhir Derbez",
+    "intro": "El 24 de noviembre de 2026, Silvana Prince, madre de Vadhir Derbez, publicó historias en Instagram en las que lanzó una reflexión sobre el chisme y la moralidad ajena…",
+    "telegraph_url": "https://telegra.ph/Silvana-Prince-publica-reflexión-tras-acusaciones-contra-Vadhir-Derbez-11-25",
+    "url": "https://enelensayomedia.com/notas/silvana-prince-publica-reflexion-tras-acusaciones-contra-vadhir-derbez-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/silvana-prince-publica-reflexion-tras-acusaciones-contra-vadhir-derbez-1125.jpg",
+    "fecha": "2026-11-25T16:17:16.340889",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Team Cherry anuncia el evento Cherry Time! sobre Silksong",
     "artista": "Hollow Knight: Silksong",
     "intro": "Team Cherry programó un evento de transmisión en vivo titulado \"Cherry Time!\" para este viernes 27 de noviembre de 2026.",
@@ -5808,22 +5822,6 @@
     "views": 0,
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-13T08:53:49.331031",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Mckenna Grace y Joseph Zada responden a rumores",
-    "artista": "Mckenna Grace",
-    "intro": "Mckenna Grace y Joseph Zada respondieron a los rumores durante una aparición pública.",
-    "telegraph_url": "https://telegra.ph/Mckenna-Grace-y-Joseph-Zada-responden-a-rumores-11-05",
-    "url": "https://enelensayomedia.com/notas/mckenna-grace-y-joseph-zada-responden-a-rumores-1104.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/mckenna-grace-y-joseph-zada-responden-a-rumores-1104.jpg",
-    "fecha": "2026-11-14T08:11:54.828544",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura",
-    "fecha_original": "2026-11-04T18:08:36.467354",
     "actualizada": true
   }
 ]
