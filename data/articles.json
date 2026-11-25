@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "La Dama Blanca de la Condesa: crónica de un misterio sin resolver en CDMX",
+    "artista": "el Fantasma de la Dama Blanca de la Condesa en CDMX",
+    "intro": "Una leyenda urbana que mezcla historia, arquitectura y testimonios de fenómenos paranormales en la colonia Condesa.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/la-dama-blanca-de-la-condesa-cronica-de-un-misterio-sin-resolver-en-cd-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-dama-blanca-de-la-condesa-cronica-de-un-misterio-sin-resolver-en-cd-1125.jpg",
+    "fecha": "2026-11-25T10:20:57.470877",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Historias de terror"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "El Cascanueces celebra 25 años en el Auditorio Nacional con 240 artistas",
     "artista": "El Cascanueces",
     "intro": "El Cascanueces, ballet de la Compañía Nacional de Danza, marca 25 años en el Auditorio Nacional con siete funciones del 18 al 23 de diciembre de 2026.",
@@ -5818,22 +5832,6 @@
     "categoria": "Reality",
     "fecha_original": "2026-11-13T14:31:55.155733",
     "ultima_actualizacion": "2026-11-15T13:03:23.512458",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Las 10 grandes decepciones de 2026 en el cine según la crítica",
-    "artista": "las 10 grandes decepciones de 2026 según la crítica (peor calificadas con más expectativa)",
-    "intro": "Un repaso detallado por las producciones cinematográficas estrenadas en 2026 que no lograron convencer a la crítica especializada ni cumplir con las expectativas.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/las-10-grandes-decepciones-de-2026-en-el-cine-segun-la-critica-1103.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/las-10-grandes-decepciones-de-2026-en-el-cine-segun-la-critica-1103.jpg",
-    "fecha": "2026-11-13T14:13:10.712336",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-03T14:21:02.989864",
     "actualizada": true
   }
 ]
