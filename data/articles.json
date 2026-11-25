@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Vanity Fair publica investigación sobre la adolescencia de Taylor Swift",
+    "artista": "Taylor Swift",
+    "intro": "El reportaje del 23 de noviembre de 2026 recopila testimonios que contrastan con la narrativa pública de la artista sobre su etapa escolar.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/vanity-fair-publica-investigacion-sobre-la-adolescencia-de-taylor-swif-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/vanity-fair-publica-investigacion-sobre-la-adolescencia-de-taylor-swif-1125.jpg",
+    "fecha": "2026-11-25T10:02:09.015609",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme internacional"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "EL ÁNGEL DE LA MUERTE DE TORREÓN: 19 AÑOS, 3 DISPAROS Y UN SECRETO",
     "artista": "El Ángel de la Muerte de Torreón (19 de noviembre de 1995, Torreón, Coahuila): Lauro Ángel Gómez Jáquez",
     "intro": "El 19 de noviembre de 1995, Lauro Ángel Gómez Jáquez, de 19 años, asesinó a su padre, madre y hermano menor, Cristian, en la colonia Campestre La Rosita de Torreón, Coahuila.",
@@ -5827,21 +5841,5 @@
     "fecha_original": "2026-11-13T11:45:16.515275",
     "actualizada": true,
     "ultima_actualizacion": "2026-11-17T10:54:25.083652"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Alejandra Guzmán confirma encuentro con Frida Sofía",
-    "artista": "Alejandra Guzmán y Frida Sofía",
-    "intro": "Tras años de distanciamiento mediático, la relación entre Alejandra Guzmán y Frida Sofía vuelve al centro de la conversación pública.",
-    "telegraph_url": "https://telegra.ph/Alejandra-Guzmán-confirma-encuentro-con-Frida-Sofía-11-06",
-    "url": "https://enelensayomedia.com/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/alejandra-guzman-confirma-encuentro-con-frida-sofia-1106.jpg",
-    "fecha": "2026-11-13T13:38:16.775209",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-06T11:37:52.319357",
-    "actualizada": true
   }
 ]
