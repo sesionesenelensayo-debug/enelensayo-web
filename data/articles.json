@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "entrevista",
+    "titulo": "Plex entrevista a Sánchez y Feijóo en YouTube antes de las elecciones 29N",
+    "artista": "Plex",
+    "intro": "El youtuber Plex (Daniel Alonso Agúndez) anunció que este miércoles 25 de noviembre publicará en su canal dos entrevistas inéditas con el presidente del Gobierno Pedro Sánchez y el presidente…",
+    "telegraph_url": "https://telegra.ph/Plex-entrevista-a-Sánchez-y-Feijóo-en-YouTube-antes-de-las-elecciones-29N-11-25",
+    "url": "https://enelensayomedia.com/notas/plex-entrevista-a-sanchez-y-feijoo-en-youtube-antes-de-las-elecciones-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/plex-entrevista-a-sanchez-y-feijoo-en-youtube-antes-de-las-elecciones-1125.jpg",
+    "fecha": "2026-11-25T10:26:22.572310",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Live Streaming"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Marvel revela el tráiler final de 'Avengers: Doomsday' con Doctor Doom como nuevo líder",
     "artista": "Avengers: Doomsday",
@@ -5814,21 +5828,5 @@
     "fecha_original": "2026-11-12T14:37:43.086688",
     "actualizada": true,
     "ultima_actualizacion": "2026-11-15T21:03:45.758174"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "John Malkovich elogia el guion de 'Wild Horse Nine' como 'único caso en 20 años'",
-    "artista": "Wild Horse Nine",
-    "intro": "John Malkovich, premiado actor en 'Wild Horse Nine', calificó el guion de la cinepieza como uno de los pocos que ha leído en dos décadas, destacando su enfoque en la CIA y el golpe de Estado chileno.",
-    "telegraph_url": "https://telegra.ph/John-Malkovich-elogia-el-guion-de-Wild-Horse-Nine-como-único-caso-en-20-años-11-13",
-    "url": "https://enelensayomedia.com/notas/john-malkovich-elogia-el-guion-de-wild-horse-nine-como-unico-caso-en-2-1113.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/john-malkovich-elogia-el-guion-de-wild-horse-nine-como-unico-caso-en-2-1113.jpg",
-    "fecha": "2026-11-13T14:40:32.778060",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-13T13:59:40.277784",
-    "actualizada": true
   }
 ]
