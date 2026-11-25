@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "VCT 2027 refuerza integridad competitiva con nuevas reglas y supervisión rigurosa",
+    "artista": "VCT 2027 integridad competitiva",
+    "intro": "Riot Games y el INE implementan medidas estrictas para garantizar la transparencia en torneos y elecciones de 2027.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/vct-2027-refuerza-integridad-competitiva-con-nuevas-reglas-y-supervisi-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/vct-2027-refuerza-integridad-competitiva-con-nuevas-reglas-y-supervisi-1124.jpg",
+    "fecha": "2026-11-24T18:13:44.353761",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Riot Games anuncia 'New Dawn', una renovación histórica de League of Legends",
     "artista": "League of Legends",
     "intro": "Riot Games presentó oficialmente 'League of Legends: New Dawn' durante el Campeonato Mundial de League of Legends 2026, en un video revelado en la final del 14 de noviembre.",
@@ -5833,20 +5847,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Marvel y DCU"
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Sofi Tukker anuncia nueva gira en México y EE.UU. para 2027",
-    "artista": "SOFI TUKKER",
-    "intro": "El dúo presentará su espectáculo \"ANIMAL TALK\" en Zapopan y participará en el Ultra Music Festival en Miami.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/sofi-tukker-anuncia-nueva-gira-en-mexico-y-ee-uu-para-2027-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/sofi-tukker-anuncia-nueva-gira-en-mexico-y-ee-uu-para-2027-1031.jpg",
-    "fecha": "2026-11-13T10:02:30.399466",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos",
-    "fecha_original": "2026-10-31T12:06:25.268186",
-    "actualizada": true
   }
 ]
