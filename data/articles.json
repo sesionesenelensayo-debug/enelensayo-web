@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Las 10 películas más caras que perdieron dinero en 2026 según Teleamazonas",
+    "artista": "las 10 películas que más dinero perdieron (mayores fracasos de taquilla recientes)",
+    "intro": "Un ranking basado en comparación entre presupuestos y recaudación mundial de estrenas en el primer semestre.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/las-10-peliculas-mas-caras-que-perdieron-dinero-en-2026-segun-teleamaz-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/las-10-peliculas-mas-caras-que-perdieron-dinero-en-2026-segun-teleamaz-1124.jpg",
+    "fecha": "2026-11-24T20:08:15.036410",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Análisis de Pikmin 4 Nintendo Switch 2 Edition",
     "artista": "Pikmin 4",
     "intro": "Pikmin 4 Nintendo Switch 2 Edition llega al mercado con mejoras técnicas significativas, incluyendo soporte para resolución de hasta 4K en modo televisor…",
@@ -5833,19 +5847,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Doblaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "G2 Esports reconfigura plantilla para 2027 con múltiples cambios clave",
-    "artista": "G2 Esports",
-    "intro": "G2 Esports anuncia una reorganización completa de su elenco para la temporada 2027, con salidas y llegadas significativas.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/g2-esports-reconfigura-plantilla-para-2027-con-multiples-cambios-clave-1113.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/g2-esports-reconfigura-plantilla-para-2027-con-multiples-cambios-clave-1113.jpg",
-    "fecha": "2026-11-13T10:16:07.766546",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Esports"
   }
 ]
