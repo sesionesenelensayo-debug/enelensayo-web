@@ -125,124 +125,124 @@
   {
    "n": 1,
    "nombre": "Fuerza Regida",
-   "valor": 5438588,
+   "valor": 5823264,
    "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
   },
   {
    "n": 2,
    "nombre": "Neton Vega",
-   "valor": 5365451,
+   "valor": 5486584,
    "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
   },
   {
    "n": 3,
    "nombre": "Victor Mendivil",
-   "valor": 3443337,
+   "valor": 3558231,
    "url": "https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce"
   },
   {
    "n": 4,
    "nombre": "Junior H",
-   "valor": 2861305,
+   "valor": 3158996,
    "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
   },
   {
    "n": 5,
    "nombre": "Omar Camacho",
-   "valor": 2467445,
+   "valor": 2545586,
    "url": "https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ"
   },
   {
    "n": 6,
    "nombre": "Natanael Cano",
-   "valor": 2426318,
+   "valor": 2482006,
    "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
   },
   {
    "n": 7,
-   "nombre": "Tito Double P",
-   "valor": 2163449,
-   "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+   "nombre": "Peso Pluma",
+   "valor": 2194369,
+   "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
   },
   {
    "n": 8,
-   "nombre": "Peso Pluma",
-   "valor": 2132067,
-   "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+   "nombre": "Tito Double P",
+   "valor": 2167809,
+   "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
   },
   {
    "n": 9,
    "nombre": "Calle 24",
-   "valor": 2012012,
+   "valor": 2052015,
    "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
   },
   {
    "n": 10,
    "nombre": "KAROL G",
-   "valor": 1592956,
+   "valor": 1596711,
    "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
   },
   {
    "n": 11,
    "nombre": "LOS DOS DE TAMAULIPAS",
-   "valor": 1107724,
+   "valor": 1106156,
    "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
   },
   {
    "n": 12,
    "nombre": "Bad Bunny",
-   "valor": 1055136,
+   "valor": 1090939,
    "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
   },
   {
    "n": 13,
    "nombre": "El Rabbanito",
-   "valor": 1042339,
+   "valor": 1006547,
    "url": "https://open.spotify.com/artist/4VPLEp6rYxqpf6n0QEkS5z"
   },
   {
    "n": 14,
    "nombre": "Lenin Ramírez",
-   "valor": 977966,
+   "valor": 969542,
    "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
   },
   {
    "n": 15,
    "nombre": "Oscar Maydon",
-   "valor": 880899,
+   "valor": 894612,
    "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
   },
   {
    "n": 16,
-   "nombre": "Eden Muñoz",
-   "valor": 823582,
-   "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-  },
-  {
-   "n": 17,
    "nombre": "El Bogueto",
-   "valor": 793817,
+   "valor": 845405,
    "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
   },
   {
+   "n": 17,
+   "nombre": "Chuyin",
+   "valor": 838814,
+   "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+  },
+  {
    "n": 18,
-   "nombre": "Clave Especial",
-   "valor": 743908,
-   "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+   "nombre": "Rey Quinto",
+   "valor": 794944,
+   "url": "https://open.spotify.com/artist/7EpdzasUopr1eDw9i66Of0"
   },
   {
    "n": 19,
-   "nombre": "Bobby Pulido",
-   "valor": 682371,
-   "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+   "nombre": "Clave Especial",
+   "valor": 710750,
+   "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
   },
   {
    "n": 20,
    "nombre": "La Arrolladora Banda El Limón De Rene Camacho",
-   "valor": 677200,
+   "valor": 696039,
    "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
   }
  ],
  "fuente": "Spotify vía kworb.net",
- "actualizado": "2026-11-25 14:55"
+ "actualizado": "2026-11-25 17:00"
 }

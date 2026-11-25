@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25 14:54",
+ "actualizado": "2026-11-25 17:00",
  "eventos": [],
  "api": false,
  "ticketmaster": {
@@ -109,6 +109,12 @@
  ],
  "noticias": [
   {
+   "titulo": "Mon Laferte dará concierto en el Estadio GNP por primera vez; cuándo es la preventa de boletos",
+   "fuente": "Telediario",
+   "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd3VlVGFVWWFudUVSUE1XTl94STBfdGVQVGx4aFNsMDltcmM0WFA1VFV0TlNPU3l1OG9OLVQxSmtVdGJ1ekxTT0duRF92cENIY0h2WmlPb1QtbFZiR2Y3WmQyNlVoZjQ2a3ZvTXU4eE1MSS1ETDBtdFZmNVpSSWlWY1gwS2lXUW9Xa0tfUC1MZGtydWU5cm1JOVVrT1ZtZ9IBngFBVV95cUxNLXM1VnhydDdUUXYzYjZ4TU9aZ21jOEZoNFJTeERtUkYwUVI2MHczcDN4WU1SYmlVSEdxVmEwZHdDOUJpeXk0RmdiaGVvc1hhQWRTampKRktpLXJSczZlenhTTW9UNUY4TVcxUEd6bzBNUHBMTnRlekZaVGdsb2RXOFBVR1VvV2NfTEYzYzU1dnRqb29mSTVqQzFSUjJNdw?oc=5",
+   "fecha": "2026-11-25 21:24"
+  },
+  {
    "titulo": "Lasso regresa a México en 2027 con tres conciertos de La Última y Nos Vamos",
    "fuente": "Almomento.mx",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd3RXQmdCQjBYc2UtYzlQYWpJdkRMRE0xeHRYdFRkX3NTWjFCYjNUVlJrQVIwck9XNGxSb24xaGlUeng3Q0FGaTQ4Qm5hRlNBXzFYWTVMZFBlOVliOXVGdVFxc0pwd1E2SEpieUkyOG5Sa0RpX0YxZWF3MV90RWRwT05pY3ZoMUpwczFvaEhhVnhmaXV3QWxObDFYbFhMQQ?oc=5",
@@ -163,8 +169,14 @@
    "fecha": "2026-11-18 16:35"
   },
   {
+   "titulo": "¡Beth Gibbons vuelve a México! Ya hay concierto para 2027",
+   "fuente": "LifeBoxset",
+   "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBuMk9icmswSF9yZmNxRGg1WVZ3N0N6YWZsNWpLeS1uV0ZYbFRPTFRWYkVqNjg1bm9yT09jeEV4aHNEWDRyb2pzQklZeEZvSFU2UjZmb1ZpSXQ4SWFKU0YzT3pR?oc=5",
+   "fecha": "2026-11-18 16:07"
+  },
+  {
    "titulo": "¿Cuánto cuestan los BOLETOS para Tame Impala en México 2027? Lista de PRECIOS por sección para sus conciertos",
-   "fuente": "Milenio",
+   "fuente": "MILENIO",
    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRm9lYXVfZlktWkthQ0JXZFk2Sm94WlMzYXE3ZFkxbzExU0pLX2Ffc045VEFaQmJkQU4xMTVfa29ZbWlIOVotWGRlcXdUb0FDRVNGbW94V3JFcWVsQTlfQWEyWHRxRnpHd3JFejRVUzFUbkZHYTFSa1FCN2VDanBnUmxwTHdkM3Bu0gGIAUFVX3lxTE5QWjN2TTRxc25GcE1hUXhLdUloZG9GYUlNOTRZVC1kUk5VOXZQMUJYMjR3V1BBZ3VkemZ0VHF4dnBCMmJaVGZpczNnelNHZGw5anhRZXRmZDZZMWNaTk5yRjFqdURrdHVDQnVId0NPQXB4M180bUFGeUtIel9lVFRtTjVIWEJDX1g?oc=5",
    "fecha": "2026-11-18 14:57"
   },
@@ -179,18 +191,6 @@
    "fuente": "MARCA",
    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUGpNOEZpbXJNdEJ2WlA3cVZhbi1WMzRFVmUwVUYtT1Aycmw4UkkzZ0Nkak9aTGJFMmQ1Yjk3WWpWcVQzT3F5T1ZFcTJOdV9QRnVFMUtONTdBM09oczR0WHQ3dFM4TWlDaWlpTUFUcHI2Y2JJU2F4R09xd0VxZ3owZUVSQWx4SGFTQ3RGT3pEN05TNzNXbEJUTm5HUDQwb3NPWkZfbFZJVW9oSVZrcndxMHJ4MDY2b2VqaW9GcFdZaFlFeW54bGh1OUpGZ09HSVNkQUpXQS1tYlRKSUg5NEHSAd4BQVVfeXFMTW9wOTBIQ2JJN1c1VUhRYU9xeHV5bGYtVnBIMnViMEZyMjUwNXlRUEtFU0FPZl9uXzRRSjZXX2tkcERoTlQ3dmRka2ZKTUVNMUNvSWxJLW5XUGtGZHdsM0RyQWlkS0VZNmQyV01jOE44VUk0TDJoLTNYeUI3bHdRQW9laHlFcG9TWnQxWVhvS3Rnd2pSbnlxZ3JNYU53TjM3dDdxbjF0WlVfbkttQkthZmhBeHdSLVRhcVBGV2xHS1VRbHQwS2JoNmptUHg3Q3NWaXhWSlFUTzJ3TXBkYjFR?oc=5",
    "fecha": "2026-11-17 16:58"
-  },
-  {
-   "titulo": "Don Omar hace importante anuncio para adquirir sus boletos para su concierto en Guatemala",
-   "fuente": "Emisoras Unidas",
-   "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSFB4WEhWbkNKV1U3R2gtclJfRmNjTjVtdld5THZWc1RUWEprbnFqZkRyUkp1WDdZd2hLb3p5N2RTdlB0SlZ5MnFXbm9HOEJockN5Q1AtRU5KdXpXM1VTX2o2MElaRlJHdjdiUmpGUXhGTTNBS1hPYnhuYTFFVS1OVkJUeG45RkdyeVpUQjEyaTBKT1NzZU4tM2JEamJxXzN5TlJz?oc=5",
-   "fecha": "2026-11-17 08:00"
-  },
-  {
-   "titulo": "Phoebe Bridgers en CDMX 2027: precios confirmados y venta de boletos para \"The Lost Tour\"",
-   "fuente": "Ambito",
-   "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVWlta1dWdjZ0c0JWV21XOVJybDFWOHlab3M1UlNmYnBnTktYQl9pazJWRk10MTdUaDA5UnZXN3lYUHljLWNqa2JrcFNTMldiako2b2xXZ1I0NWZYN3NPQVJGN1dvVmZhUGlWRXRLV2Nha0hFZnRBWW9KVjRsQ0UyWU5Ja1VtYVJUQ0NqS1lMN3ZzdEtTUER0anZYTzRTS3UyeHlfRzFhMlhXMWFIQUZQU3UyLTlTT3psSlc3Ti1xWdIBxAFBVV95cUxOX19iRUtaX25JOHBncnFRMVJVcnU0TzhxM0RGZTJvSHprRVpuZU51MHlxUWVRSWFVNld5N3RobkMzUDZFN25YYk9EM3MzdVVoeExZMGlFbmZhWU1sWEMxdVd3aHd3dTgzdkc5S1lTbUJZU3IwWlpEVFdfUEZvSFJXQ0tlcjU5eHVONUUxTlF5ZXZfd1ZEUnp5eld2RmhKRU9CQWRCQjktVWdybnVxeGVRaHY4a0pIV21ZYXE5dGd1a0RTb19y?oc=5",
-   "fecha": "2026-11-17 08:00"
   }
  ]
 }
