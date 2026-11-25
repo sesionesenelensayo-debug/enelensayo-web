@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Spider-Man: Brand New Day se reestrena en diciembre con versión extendida",
+    "artista": "Spider-Man: Brand New Day",
+    "intro": "Sony Pictures anunció el reestreno de Spider-Man: Brand New Day para el 4 de diciembre de 2026, presentándolo como una versión con nuevas escenas y duración ampliada.",
+    "telegraph_url": "https://telegra.ph/Spider-Man-Brand-New-Day-se-reestrena-en-diciembre-con-versión-extendida-11-25",
+    "url": "https://enelensayomedia.com/notas/spider-man-brand-new-day-se-reestrena-en-diciembre-con-version-extendi-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/spider-man-brand-new-day-se-reestrena-en-diciembre-con-version-extendi-1125.jpg",
+    "fecha": "2026-11-25T14:44:06.483222",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Las 10 películas más decepcionantes de 2026 según la crítica",
     "artista": "las 10 grandes decepciones de 2026 según la crítica (peor calificadas con más expectativa)",
     "intro": "Un ranking basado en calificaciones de Rotten Tomatoes y expectativas no cumplidas.",
@@ -5815,21 +5829,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Terror y misterio"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Amazon retira Tomb Raider: Catalyst de Switch 2 en listado modificado",
-    "artista": "Tomb Raider: Catalyst",
-    "intro": "Amazon modificó un artículo publicado el 11 de noviembre de 2026 que inicialmente incluyó Nintendo Switch 2 como plataforma para Tomb Raider: Catalyst.",
-    "telegraph_url": "https://telegra.ph/Amazon-retira-Tomb-Raider-Catalyst-de-Switch-2-en-listado-modificado-11-12",
-    "url": "https://enelensayomedia.com/notas/amazon-retira-tomb-raider-catalyst-de-switch-2-en-listado-modificado-1112.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/amazon-retira-tomb-raider-catalyst-de-switch-2-en-listado-modificado-1112.jpg",
-    "fecha": "2026-11-13T22:07:15.561317",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-11-12T17:17:53.517967",
-    "actualizada": true
   }
 ]
