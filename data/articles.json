@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Mid-South Wrestling se registra y WWE solicita la marca",
+    "artista": "Mid-South Wrestling",
+    "intro": "El 23 de noviembre de 2026, Mid-South Wrestling anunció su regreso con un evento programado para el 21 de febrero de 2027 en Fayetteville, Arkansas.",
+    "telegraph_url": "https://telegra.ph/Mid-South-Wrestling-se-registra-y-WWE-solicita-la-marca-11-25",
+    "url": "https://enelensayomedia.com/notas/mid-south-wrestling-se-registra-y-wwe-solicita-la-marca-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/mid-south-wrestling-se-registra-y-wwe-solicita-la-marca-1125.jpg",
+    "fecha": "2026-11-25T13:59:27.847622",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Timberlake y Fallon cantan 'Cha Cha Slide' en adelanto de Acción de Gracias de NBC",
     "artista": "Justin Timberlake, Jimmy Fallon",
     "intro": "Un avance del episodio de Acción de Gracias de The Tonight Show Starring Jimmy Fallon, publicado por Billboard el 25 de noviembre de 2026…",
@@ -5817,19 +5831,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Las curiosidades y la trayectoria de Joan Sebastian",
-    "artista": "Joan Sebastian",
-    "intro": "El 13 de julio de 2015 se registró la muerte de Joan Sebastian, una de las figuras fundamentales de la música mexicana.",
-    "telegraph_url": "https://telegra.ph/Las-curiosidades-y-la-trayectoria-de-Joan-Sebastian-11-14",
-    "url": "https://enelensayomedia.com/notas/las-curiosidades-y-la-trayectoria-de-joan-sebastian-1113.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/las-curiosidades-y-la-trayectoria-de-joan-sebastian-1113.jpg",
-    "fecha": "2026-11-13T20:43:54.030406",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reportaje"
   }
 ]
