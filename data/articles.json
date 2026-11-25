@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Christian Nodal anuncia retiro temporal de sus giras en México",
+    "artista": "Christian Nodal",
+    "intro": "Christian Nodal anunció el viernes 22 y el sábado 23 de noviembre de 2026 una pausa en sus presentaciones en México, hasta nuevo aviso.",
+    "telegraph_url": "https://telegra.ph/Christian-Nodal-anuncia-retiro-temporal-de-sus-giras-en-México-11-25",
+    "url": "https://enelensayomedia.com/notas/christian-nodal-anuncia-retiro-temporal-de-sus-giras-en-mexico-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/christian-nodal-anuncia-retiro-temporal-de-sus-giras-en-mexico-1125.jpg",
+    "fecha": "2026-11-25T15:05:50.048669",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Yann Lobo, hijo de exvocal de Flans, es fan del Tío Pepe y debuta en La Granja VIP",
     "artista": "Yann Lobo",
     "intro": "Yann Lobo, participante de La Granja VIP en TV Azteca, es hijo de Ilse María Olivo, exvocal de Flans.",
@@ -5812,22 +5826,6 @@
     "views": 0,
     "categoria": "Cine",
     "fecha_original": "2026-11-06T16:29:22.168559",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Primeras reacciones destacan el trabajo de Johnny Depp en 'Ebenizer'",
-    "artista": "Johnny Depp",
-    "intro": "Las primeras reacciones a la película 'Ebenizer' señalan que Johnny Depp ofrece una compleja interpretación del personaje de Scrooge.",
-    "telegraph_url": "https://telegra.ph/Primeras-reacciones-destacan-el-trabajo-de-Johnny-Depp-en-Ebenizer-11-10",
-    "url": "https://enelensayomedia.com/notas/primeras-reacciones-destacan-el-trabajo-de-johnny-depp-en-ebenizer-1110.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/primeras-reacciones-destacan-el-trabajo-de-johnny-depp-en-ebenizer-1110.jpg",
-    "fecha": "2026-11-14T07:28:13.917913",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-10T13:59:38.950369",
     "actualizada": true
   }
 ]
