@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Exatlón México 2026: ¿Quién gana la Supervivencia hoy 25 de noviembre? Azules o Rojos",
+    "artista": "Exatlón México 2026",
+    "intro": "En El Ensayo Media | Hoy 25 de noviembre de 2026, Exatlón México 2026 enfrenta la decisión crucial de la Supervivencia entre los equipos Azules y Rojos.",
+    "telegraph_url": "https://telegra.ph/Exatlón-México-2026-Quién-gana-la-Supervivencia-hoy-25-de-noviembre-Azules-o-Rojos-11-25",
+    "url": "https://enelensayomedia.com/notas/exatlon-mexico-2026-quien-gana-la-supervivencia-hoy-25-de-noviembre-az-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/exatlon-mexico-2026-quien-gana-la-supervivencia-hoy-25-de-noviembre-az-1125.jpg",
+    "fecha": "2026-11-25T11:27:37.491006",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reality"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Prime Video confirma cuarta temporada de 'El Señor de los Anillos: Los Anillos de Poder'",
     "artista": "El Señor de los Anillos: Los Anillos de Poder",
     "intro": "Prime Video confirmó oficialmente la cuarta temporada de 'El Señor de los Anillos: Los Anillos de Poder' el 24 de noviembre de 2026…",
@@ -5814,19 +5828,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reportaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "El final de VisionQuest 'Forever' alcanza 3.7 M de vistas en su primer día",
-    "artista": "VisionQuest",
-    "intro": "El episodio final de VisionQuest, titulado 'Forever', registró 3.7 millones de visualizaciones globales en Disney+ durante su primer día de streaming…",
-    "telegraph_url": "https://telegra.ph/El-final-de-VisionQuest-Forever-alcanza-37-M-de-vistas-en-su-primer-día-11-13",
-    "url": "https://enelensayomedia.com/notas/el-final-de-visionquest-forever-alcanza-3-7-m-de-vistas-en-su-primer-d-1113.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-final-de-visionquest-forever-alcanza-3-7-m-de-vistas-en-su-primer-d-1113.jpg",
-    "fecha": "2026-11-13T17:05:42.908003",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU"
   }
 ]
