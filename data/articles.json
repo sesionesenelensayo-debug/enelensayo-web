@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Las 10 películas más decepcionantes de 2026 según la crítica",
+    "artista": "las 10 grandes decepciones de 2026 según la crítica (peor calificadas con más expectativa)",
+    "intro": "Un ranking basado en calificaciones de Rotten Tomatoes y expectativas no cumplidas.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/las-10-peliculas-mas-decepcionantes-de-2026-segun-la-critica-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/las-10-peliculas-mas-decepcionantes-de-2026-segun-la-critica-1125.jpg",
+    "fecha": "2026-11-25T14:25:31.668529",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Mid-South Wrestling se registra y WWE solicita la marca",
     "artista": "Mid-South Wrestling",
     "intro": "El 23 de noviembre de 2026, Mid-South Wrestling anunció su regreso con un evento programado para el 21 de febrero de 2027 en Fayetteville, Arkansas.",
@@ -5817,19 +5831,5 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-12T17:17:53.517967",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "El misterio de los Niños de Ojos Negros: origen de la leyenda urbana",
-    "artista": "los Niños de Ojos Negros",
-    "intro": "Una serie de encuentros inexplicables con menores de mirada totalmente oscura ha desconcertado a testigos en diversas partes del mundo desde la década de 1990.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-misterio-de-los-ninos-de-ojos-negros-origen-de-la-leyenda-urbana-1113.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-misterio-de-los-ninos-de-ojos-negros-origen-de-la-leyenda-urbana-1113.jpg",
-    "fecha": "2026-11-13T20:45:32.159101",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror"
   }
 ]
