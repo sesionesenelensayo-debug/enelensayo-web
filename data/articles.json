@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Team Cherry anuncia el evento Cherry Time! sobre Silksong",
+    "artista": "Hollow Knight: Silksong",
+    "intro": "Team Cherry programó un evento de transmisión en vivo titulado \"Cherry Time!\" para este viernes 27 de noviembre de 2026.",
+    "telegraph_url": "https://telegra.ph/Team-Cherry-anuncia-el-evento-Cherry-Time-sobre-Silksong-11-25",
+    "url": "https://enelensayomedia.com/notas/team-cherry-anuncia-el-evento-cherry-time-sobre-silksong-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/team-cherry-anuncia-el-evento-cherry-time-sobre-silksong-1125.jpg",
+    "fecha": "2026-11-25T16:13:24.204882",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Muere Michael Giles, baterista y cofundador de King Crimson, a los 84 años",
     "artista": "King Crimson",
     "intro": "El lunes 23 de noviembre de 2026, el mundo de la música progresiva despidió a Michael Giles, baterista y cofundador de King Crimson, quien falleció a los 84 años.",
@@ -5811,19 +5825,5 @@
     "categoria": "Cultura",
     "fecha_original": "2026-11-04T18:08:36.467354",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Difunden video de Gérard Depardieu acosando a una actriz en rodaje",
-    "artista": "Gérard Depardieu",
-    "intro": "Sale a la luz un video inédito del rodaje de la película 'Turf' en el que el actor Gérard Depardieu toca repetidamente a una figurante de 22 años sin su consentimiento.",
-    "telegraph_url": "https://telegra.ph/Difunden-video-de-Gérard-Depardieu-acosando-a-una-actriz-en-rodaje-11-14",
-    "url": "https://enelensayomedia.com/notas/difunden-video-de-gerard-depardieu-acosando-a-una-actriz-en-rodaje-1114.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/difunden-video-de-gerard-depardieu-acosando-a-una-actriz-en-rodaje-1114.jpg",
-    "fecha": "2026-11-14T08:11:07.797621",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   }
 ]
