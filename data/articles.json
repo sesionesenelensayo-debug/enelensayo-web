@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Jorge Medina, exvocalista de La Arrolladora, se vuelve viral cantando en Osaka",
+    "artista": "Jorge Medina",
+    "intro": "Jorge Medina, exvocalista de La Arrolladora Banda El Limón, se volvió viral al grabar un video en una calle de Osaka, Japón, donde interpretó 'Mi segunda vida' con una guitarra prestada.",
+    "telegraph_url": "https://telegra.ph/Jorge-Medina-exvocalista-de-La-Arrolladora-se-vuelve-viral-cantando-en-Osaka-11-25",
+    "url": "https://enelensayomedia.com/notas/jorge-medina-exvocalista-de-la-arrolladora-se-vuelve-viral-cantando-en-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/jorge-medina-exvocalista-de-la-arrolladora-se-vuelve-viral-cantando-en-1125.jpg",
+    "fecha": "2026-11-25T12:10:53.608409",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "VCT 2027 refuerza integridad competitiva con nuevas reglas y supervisión rigurosa",
     "artista": "VCT 2027 integridad competitiva",
     "intro": "Riot Games y el INE implementan medidas estrictas para garantizar la transparencia en torneos y elecciones de 2027.",
@@ -5817,19 +5831,5 @@
     "categoria": "Reality",
     "fecha_original": "2026-11-09T11:10:47.074633",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Konami elimina a Mbappé de eFootball en China por controversia diplomática",
-    "artista": "eFootball: Konami elimina a Kylian Mbappé de su juego en China debido a una controversia diplomática por un me",
-    "intro": "Konami retiró a Kylian Mbappé de las versiones chinas de eFootball tras una polémica diplomática generada por un comentario político del futbolista.",
-    "telegraph_url": "https://telegra.ph/Konami-elimina-a-Mbappé-de-eFootball-en-China-por-controversia-diplomática-11-13",
-    "url": "https://enelensayomedia.com/notas/konami-elimina-a-mbappe-de-efootball-en-china-por-controversia-diploma-1113.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/konami-elimina-a-mbappe-de-efootball-en-china-por-controversia-diploma-1113.jpg",
-    "fecha": "2026-11-13T17:31:05.225681",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reportaje"
   }
 ]
