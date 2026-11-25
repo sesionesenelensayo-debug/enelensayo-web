@@ -1951,7 +1951,10 @@
     "fecha": "2026-11-22T09:04:05.093257",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Chisme"
+    "categoria": "Chisme",
+    "fecha_original": "2026-11-22T09:04:05.093257",
+    "ultima_actualizacion": "2026-11-25T10:40:22.676594",
+    "actualizada": true
   },
   {
     "opinion": false,
