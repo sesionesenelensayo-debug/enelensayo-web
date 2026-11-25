@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Keanu Reeves sorprende en CDMX con visita inesperada para firmar su nuevo libro",
+    "artista": "Keanu Reeves",
+    "intro": "La librería Gandhi informó que el actor firmó copias que posteriormente se venderán en su sucursal Achar, mientras los asistentes cuestionaron la organización del evento.",
+    "telegraph_url": "https://telegra.ph/Keanu-Reeves-sorprende-en-CDMX-con-visita-inesperada-para-firmar-su-nuevo-libro-11-25",
+    "url": "https://enelensayomedia.com/notas/keanu-reeves-sorprende-en-cdmx-con-visita-inesperada-para-firmar-su-nu-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/keanu-reeves-sorprende-en-cdmx-con-visita-inesperada-para-firmar-su-nu-1125.jpg",
+    "fecha": "2026-11-25T08:36:30.467579",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Soda Stereo revive a Gustavo Cerati con la gira 'Ecos' en la Ciudad de México",
     "artista": "Soda Stereo",
     "intro": "Soda Stereo ofreció el 23 de noviembre de 2026 una función de su gira 'Ecos' en el Palacio de los Deportes de la Ciudad de México.",
@@ -5835,22 +5849,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reality"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "IShowSpeed gana por tercera vez en los Streamer Awards 2026",
-    "artista": "IShowSpeed",
-    "intro": "IShowSpeed se coronó Streamer of the Year en los Streamer Awards 2026, logrando su tercer triunfo consecutivo en esa categoría.",
-    "telegraph_url": "https://telegra.ph/IShowSpeed-gana-por-tercera-vez-en-los-Streamer-Awards-2026-11-13",
-    "url": "https://enelensayomedia.com/notas/ishowspeed-gana-por-tercera-vez-en-los-streamer-awards-2026-1113.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/ishowspeed-gana-por-tercera-vez-en-los-streamer-awards-2026-1113.jpg",
-    "fecha": "2026-11-13T11:35:04.675879",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Streaming",
-    "fecha_original": "2026-11-13T11:35:04.675879",
-    "ultima_actualizacion": "2026-11-16T09:46:30.587527",
-    "actualizada": true
   }
 ]
