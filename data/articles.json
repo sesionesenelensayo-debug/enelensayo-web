@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "El Cascanueces celebra 25 años en el Auditorio Nacional con 240 artistas",
+    "artista": "El Cascanueces",
+    "intro": "El Cascanueces, ballet de la Compañía Nacional de Danza, marca 25 años en el Auditorio Nacional con siete funciones del 18 al 23 de diciembre de 2026.",
+    "telegraph_url": "https://telegra.ph/El-Cascanueces-celebra-25-años-en-el-Auditorio-Nacional-con-240-artistas-11-25",
+    "url": "https://enelensayomedia.com/notas/el-cascanueces-celebra-25-anos-en-el-auditorio-nacional-con-240-artist-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-cascanueces-celebra-25-anos-en-el-auditorio-nacional-con-240-artist-1125.jpg",
+    "fecha": "2026-11-25T10:10:07.726003",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "La Adictiva lanza 'Cuando Nos Encerramos', nuevo sencillo de banda",
     "artista": "La Adictiva",
     "intro": "El viernes 20 de noviembre La Adictiva presentó su nuevo sencillo 'Cuando Nos Encerramos', una canción de banda sinaloense que narra la vida de una persona atrapada entre dos amores…",
@@ -5820,22 +5834,6 @@
     "views": 0,
     "categoria": "Cine",
     "fecha_original": "2026-11-03T14:21:02.989864",
-    "actualizada": true
-  },
-  {
-    "opinion": true,
-    "tipo": "reportaje",
-    "titulo": "Snape negro en Harry Potter: la ideología contra el canon",
-    "artista": "Paapa Essiedu como Snape en Harry Potter",
-    "intro": "La industria cultural insiste en imponer una agenda woke que altera sin justificación el canon de las grandes obras literarias. El anuncio de que HBO eligió a Paapa Essiedu para interpretar a Severus Snape en la nueva serie de Harry Potter demuestra cómo la corrección política prioriza la polémica artificial por encima de la fidelidad artística. En los libros originales de J.K. Rowling, Snape es descrito de forma inequívoca como un hombre pálido, con tez cetrina y pelo negro y grasiento; cambiar su etnia no es una simple decisión de casting, sino una maniobra ideológica deliberada. Se reporta que la serie, anunciada en la primavera de 2023 con Francesca Gardiner y Mark Mylod como productores ejecutivos, adapta cada libro por temporada. Lejos de ser un debate neutral, la imposición de este cambio genera una polarización innecesaria, donde cualquier crítica fundamentada en el texto original es descalificada de inmediato.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/polemica-por-el-casting-de-paapa-essiedu-como-severus-snape-1108.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/polemica-por-el-casting-de-paapa-essiedu-como-severus-snape-1108.jpg",
-    "fecha": "2026-11-13T14:07:06.289480",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Agenda woke",
-    "fecha_original": "2026-11-08T16:16:39.285293",
     "actualizada": true
   }
 ]
