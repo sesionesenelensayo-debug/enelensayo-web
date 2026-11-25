@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Lords of the Fallen II llegará en abril de 2027",
+    "artista": "Lords of the Fallen II",
+    "intro": "Lords of the Fallen II se lanzará en abril de 2027 para Nintendo Switch 2, PlayStation 5, Xbox Series X|S y PC.",
+    "telegraph_url": "https://telegra.ph/Lords-of-the-Fallen-II-llegará-en-abril-de-2027-11-25",
+    "url": "https://enelensayomedia.com/notas/lords-of-the-fallen-ii-llegara-en-abril-de-2027-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/lords-of-the-fallen-ii-llegara-en-abril-de-2027-1125.jpg",
+    "fecha": "2026-11-25T08:37:27.818432",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Keanu Reeves sorprende en CDMX con visita inesperada para firmar su nuevo libro",
     "artista": "Keanu Reeves",
     "intro": "La librería Gandhi informó que el actor firmó copias que posteriormente se venderán en su sucursal Achar, mientras los asistentes cuestionaron la organización del evento.",
@@ -5835,19 +5849,5 @@
     "fecha_original": "2026-11-13T12:35:24.399455",
     "ultima_actualizacion": "2026-11-16T14:53:52.373326",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Secretaría de Turismo de Baja California se deslinda de publicidad estatal en 'La Casa de los Famosos'",
-    "artista": "Secretaría de Turismo",
-    "intro": "El 12 de noviembre de 2026, en Mexicali, el secretario de Turismo de Baja California, Miguel Ángel Badiola Montaño…",
-    "telegraph_url": "https://telegra.ph/Secretaría-de-Turismo-de-Baja-California-se-deslinda-de-publicidad-estatal-en-La-Casa-de-los-Famosos-11-13",
-    "url": "https://enelensayomedia.com/notas/secretaria-de-turismo-de-baja-california-se-deslinda-de-publicidad-est-1113.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/secretaria-de-turismo-de-baja-california-se-deslinda-de-publicidad-est-1113.jpg",
-    "fecha": "2026-11-13T12:28:55.683437",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reality"
   }
 ]
