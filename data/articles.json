@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Yann Lobo, hijo de exvocal de Flans, es fan del Tío Pepe y debuta en La Granja VIP",
+    "artista": "Yann Lobo",
+    "intro": "Yann Lobo, participante de La Granja VIP en TV Azteca, es hijo de Ilse María Olivo, exvocal de Flans.",
+    "telegraph_url": "https://telegra.ph/Yann-Lobo-hijo-de-exvocal-de-Flans-es-fan-del-Tío-Pepe-y-debuta-en-La-Granja-VIP-11-25",
+    "url": "https://enelensayomedia.com/notas/yann-lobo-hijo-de-exvocal-de-flans-es-fan-del-tio-pepe-y-debuta-en-la-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/yann-lobo-hijo-de-exvocal-de-flans-es-fan-del-tio-pepe-y-debuta-en-la-1125.jpg",
+    "fecha": "2026-11-25T14:48:58.703312",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reality"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Spider-Man: Brand New Day se reestrena en diciembre con versión extendida",
     "artista": "Spider-Man: Brand New Day",
     "intro": "Sony Pictures anunció el reestreno de Spider-Man: Brand New Day para el 4 de diciembre de 2026, presentándolo como una versión con nuevas escenas y duración ampliada.",
@@ -5815,19 +5829,5 @@
     "categoria": "Cine",
     "fecha_original": "2026-11-10T13:59:38.950369",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Ovni Infrarrojo Campeche 2004 | La prueba que la Sedena compartió",
-    "artista": "Ovni de Campeche, 5 de marzo de 2004, Campeche (México): una patrulla antidrogas de la Fuerza Aérea Mexicana filmó con cámara infrarroja varias luces que parecían seguir al avión, y la Secretaría de Defensa difundió el video; algunos expertos lo atribuyeron a quemadores de gas de pozos petroleros, pero hay quien lo sigue considerando inexplicado.",
-    "intro": "El 5 de marzo de 2004, pilotos de la Fuerza Aérea Mexicana registraron objetos luminosos durante una vigilancia nocturna contra el narcotráfico sobre el sur de Campeche.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/ovni-infrarrojo-campeche-2004-la-prueba-que-la-sedena-compartio-1113.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/ovni-infrarrojo-campeche-2004-la-prueba-que-la-sedena-compartio-1113.jpg",
-    "fecha": "2026-11-13T23:02:24.586084",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Terror y misterio"
   }
 ]
