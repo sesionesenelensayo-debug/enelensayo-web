@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "GTA VI genera polémica por nominación a Juego del Año antes del lanzamiento",
+    "artista": "GTA VI",
+    "intro": "Rockstar Games lanzó GTA VI el 19 de noviembre de 2026 para PlayStation 5 y Xbox Series X/S, pero la anticipada nominación a The Game Awards 2026 desató críticas por considerarse inusual.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/gta-vi-genera-polemica-por-nominacion-a-juego-del-ano-antes-del-lanzam-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/gta-vi-genera-polemica-por-nominacion-a-juego-del-ano-antes-del-lanzam-1125.jpg",
+    "fecha": "2026-11-25T11:23:35.752558",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "She No More lanza 'Más allá de la tormenta' sobre el duelo y la memoria",
     "artista": "She No More",
     "intro": "La banda mexicana de metal sinfónico She No More presentó el sencillo 'Más allá de la tormenta' el 22 de noviembre de 2026.",
@@ -5814,19 +5828,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme internacional"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "'Dome Keeper' llega a PS5 y Switch el 14 de diciembre",
-    "artista": "Dome Keeper",
-    "intro": "Raw Fury y el estudio alemán Bippinbits anunciaron el 12 de noviembre de 2026 la portada de 'Dome Keeper' a PlayStation 5 y Nintendo Switch para el 14 de diciembre.",
-    "telegraph_url": "https://telegra.ph/Dome-Keeper-llega-a-PS5-y-Switch-el-14-de-diciembre-11-13",
-    "url": "https://enelensayomedia.com/notas/dome-keeper-llega-a-ps5-y-switch-el-14-de-diciembre-1113.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/dome-keeper-llega-a-ps5-y-switch-el-14-de-diciembre-1113.jpg",
-    "fecha": "2026-11-13T16:07:31.100045",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos"
   }
 ]
