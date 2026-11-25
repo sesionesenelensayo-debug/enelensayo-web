@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Roca Rey y Tana Rivera: una llamada de madrugada para cerrar las heridas",
+    "artista": "Roca Rey y Tana Rivera",
+    "intro": "Roca Rey llamó a Tana Rivera en plena madrugada tras una noche de fiesta y la ruptura que ambos habían anunciado a principios de octubre de 2026.",
+    "telegraph_url": "https://telegra.ph/Roca-Rey-y-Tana-Rivera-una-llamada-de-madrugada-para-cerrar-las-heridas-11-25",
+    "url": "https://enelensayomedia.com/notas/roca-rey-y-tana-rivera-una-llamada-de-madrugada-para-cerrar-las-herida-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/prensa/cara_eaf2f5676584.jpg",
+    "fecha": "2026-11-25T07:16:29.700420",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Netflix estrena hoy 56 contenidos en guía de Espinof para 25 de noviembre",
     "artista": "Netflix",
     "intro": "El 25 de noviembre de 2026 Netflix lanzó una ola de 56 series, películas y documentales en su plataforma y otras como Prime Video, HBO Max, Disney+, Movistar Plus, Apple TV y SkyShowtime…",
@@ -5838,20 +5852,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Televisión"
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "Nuevos lanzamientos y cifras para Nintendo Switch y Switch 2",
-    "artista": "Nintendo Switch",
-    "intro": "El panorama actual de las consolas de Nintendo se mueve con anuncios recientes en el mercado de los videojuegos. Según la información reportada por diferentes medios, se han confirmado nuevos títulos ",
-    "telegraph_url": "https://telegra.ph/Nuevos-lanzamientos-y-cifras-para-Nintendo-Switch-y-Switch-2-10-31",
-    "url": "https://enelensayomedia.com/notas/nuevos-lanzamientos-y-cifras-para-nintendo-switch-y-switch-2-1030.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/nuevos-lanzamientos-y-cifras-para-nintendo-switch-y-switch-2-1030.jpg",
-    "fecha": "2026-11-13T10:42:29.850488",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-10-30T18:14:48.601392",
-    "actualizada": true
   }
 ]
