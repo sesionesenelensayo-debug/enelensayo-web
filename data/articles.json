@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "La Adictiva lanza 'Cuando Nos Encerramos', nuevo sencillo de banda",
+    "artista": "La Adictiva",
+    "intro": "El viernes 20 de noviembre La Adictiva presentó su nuevo sencillo 'Cuando Nos Encerramos', una canción de banda sinaloense que narra la vida de una persona atrapada entre dos amores…",
+    "telegraph_url": "https://telegra.ph/La-Adictiva-lanza-Cuando-Nos-Encerramos-nuevo-sencillo-de-banda-11-25",
+    "url": "https://enelensayomedia.com/notas/la-adictiva-lanza-cuando-nos-encerramos-nuevo-sencillo-de-banda-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-adictiva-lanza-cuando-nos-encerramos-nuevo-sencillo-de-banda-1125.jpg",
+    "fecha": "2026-11-25T10:09:30.007150",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Escena local"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Lion RFC: 5 discos, 7 giras y 16 años llevando el reggae con mensaje de esperanza",
     "artista": "LION RFC",
     "intro": "Formada en 2009 en Ilopango, San Salvador, Lion RFC se consolida como una banda de reggae comprometida con la fe y la labor social.",
@@ -5823,22 +5837,5 @@
     "categoria": "Agenda woke",
     "fecha_original": "2026-11-08T16:16:39.285293",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Disney+ transmitirá The Game Awards 2026 en vivo",
-    "artista": "The Game Awards",
-    "intro": "The Game Awards 2026 se transmitirán por primera vez en vivo a través de Disney+.",
-    "telegraph_url": "https://telegra.ph/Disney-transmitirá-The-Game-Awards-2026-en-vivo-11-13",
-    "url": "https://enelensayomedia.com/notas/disney-transmitira-the-game-awards-2026-en-vivo-1113.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/disney-transmitira-the-game-awards-2026-en-vivo-1113.jpg",
-    "fecha": "2026-11-13T14:01:12.989304",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-11-13T11:45:16.515275",
-    "actualizada": true,
-    "ultima_actualizacion": "2026-11-17T10:54:25.083652"
   }
 ]
