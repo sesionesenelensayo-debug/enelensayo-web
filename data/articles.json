@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Leonardo Aguilar anuncia compromiso con Adriana Caballero y rechaza boda",
+    "artista": "Leonardo Aguilar",
+    "intro": "Leonardo Aguilar confirmó este domingo 24 de noviembre de 2026 su compromiso con la reina de belleza Adriana Caballero Fridstein a través de redes sociales…",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/leonardo-aguilar-anuncia-compromiso-con-adriana-caballero-y-rechaza-bo-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/leonardo-aguilar-anuncia-compromiso-con-adriana-caballero-y-rechaza-bo-1124.jpg",
+    "fecha": "2026-11-24T21:04:18.285665",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Cinépolis confirma funciones especiales de 'El Grinch' en diciembre",
     "artista": "El Grinch",
     "intro": "Cinépolis anunció la proyección de 'El Grinch' con funciones especiales durante diciembre, como parte de su programa 'Miércoles de clásicos navideños'.",
@@ -5830,22 +5844,6 @@
     "views": 0,
     "categoria": "Videojuegos",
     "fecha_original": "2026-10-30T18:14:48.601392",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Rockstar confirma versión en la nube de GTA VI para Xbox Series S",
-    "artista": "GTA VI",
-    "intro": "Rockstar y Xbox anunciaron que GTA VI estará disponible en Xbox Cloud Gaming desde su lanzamiento.",
-    "telegraph_url": "https://telegra.ph/Rockstar-confirma-versión-en-la-nube-de-GTA-VI-para-Xbox-Series-S-11-11",
-    "url": "https://enelensayomedia.com/notas/rockstar-confirma-version-en-la-nube-de-gta-vi-para-xbox-series-s-1111.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/rockstar-confirma-version-en-la-nube-de-gta-vi-para-xbox-series-s-1111.jpg",
-    "fecha": "2026-11-13T10:41:14.596827",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-11-11T07:47:19.285789",
     "actualizada": true
   }
 ]
