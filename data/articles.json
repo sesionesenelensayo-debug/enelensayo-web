@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Museo de Fotografía de Huete inaugura tres exposiciones hasta 31 de enero",
+    "artista": "Museo de Fotografía de Huete",
+    "intro": "El pasado 21 de noviembre el Museo de Fotografía de Huete abrió sus puertas a tres nuevas propuestas expositivas que permanecerán disponibles para el público hasta el 31 de enero de 2027.",
+    "telegraph_url": "https://telegra.ph/Museo-de-Fotografía-de-Huete-inaugura-tres-exposiciones-hasta-31-de-enero-11-25",
+    "url": "https://enelensayomedia.com/notas/museo-de-fotografia-de-huete-inaugura-tres-exposiciones-hasta-31-de-en-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/museo-de-fotografia-de-huete-inaugura-tres-exposiciones-hasta-31-de-en-1125.jpg",
+    "fecha": "2026-11-25T10:42:57.486484",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Jennifer Barreto corona Miss Universo 2026: la primera madre en ganar el título",
     "artista": "Jennifer Barreto",
     "intro": "Jennifer Barreto, de Puerto Rico, fue coronada Miss Universo 2026 en la 75.ª edición del certamen, celebrada el 24 de noviembre en el Coliseo de Puerto Rico José Miguel Agrelot en San Juan.",
@@ -5814,19 +5828,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Doblaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Feige aclara: Doctor Doom no es una variante de Tony Stark en 'Avengers: Doomsday'",
-    "artista": "Doctor Doom",
-    "intro": "Kevin Feige confirmó a la revista Empire que el Doctor Doom de Robert Downey Jr. no es una variante de Tony Stark en 'Avengers: Doomsday', desmintiendo una teoría popular entre los fans.",
-    "telegraph_url": "https://telegra.ph/Feige-aclara-Doctor-Doom-no-es-una-variante-de-Tony-Stark-en-Avengers-Doomsday-11-13",
-    "url": "https://enelensayomedia.com/notas/feige-aclara-doctor-doom-no-es-una-variante-de-tony-stark-en-avengers-1113.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/feige-aclara-doctor-doom-no-es-una-variante-de-tony-stark-en-avengers-1113.jpg",
-    "fecha": "2026-11-13T15:02:27.726513",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU"
   }
 ]
