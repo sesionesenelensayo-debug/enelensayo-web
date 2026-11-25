@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Nuevas dinámicas y reencuentros en La Mansión VIP 2",
+    "artista": "La Mansión VIP 2",
+    "intro": "La Mansión VIP 2 registra movimientos clave en sus posiciones y dinámicas recientes.",
+    "telegraph_url": "https://telegra.ph/Nuevas-dinámicas-y-reencuentros-en-La-Mansión-VIP-2-11-25",
+    "url": "https://enelensayomedia.com/notas/nuevas-dinamicas-y-reencuentros-en-la-mansion-vip-2-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/nuevas-dinamicas-y-reencuentros-en-la-mansion-vip-2-1125.jpg",
+    "fecha": "2026-11-25T16:29:38.493143",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reality"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Babasónicos toca este miércoles en el Palacio de los Deportes",
     "artista": "Babasónicos",
     "intro": "Babasónicos ofrecerá un concierto en el Palacio de los Deportes de la Ciudad de México el miércoles 25 de noviembre de 2026 a las 8:00 p.m.",
@@ -5805,21 +5819,6 @@
     "views": 0,
     "categoria": "Chisme",
     "fecha_original": "2026-11-12T21:03:04.674177",
-    "actualizada": true
-  },
-  {
-    "tipo": "reportaje",
-    "titulo": "José Eduardo Derbez y Paola Dalay anuncian separación",
-    "artista": "José Eduardo Derbez",
-    "intro": "El actor mexicano José Eduardo Derbez y Paola Dalay confirmaron el 1 de noviembre de 2026 su separación tras siete años de relación.",
-    "telegraph_url": "https://telegra.ph/José-Eduardo-Derbez-y-Paola-Dalay-anuncian-separación-11-01",
-    "url": "https://enelensayomedia.com/notas/jose-eduardo-derbez-y-paola-dalay-anuncian-separacion-1101.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/jose-eduardo-derbez-y-paola-dalay-anuncian-separacion-1101.jpg",
-    "fecha": "2026-11-14T09:18:58.382071",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-01T16:33:20.695886",
     "actualizada": true
   }
 ]
