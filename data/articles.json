@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "'Amanecer en la Cosecha' recaudó USD 224,3 millones en su estreno mundial",
+    "artista": "The Hunger Games",
+    "intro": "La nueva entrega de 'Los Juegos del Hambre', 'Amanecer en la Cosecha', recaudó 224,3 millones de dólares en su estreno mundial del 20 al 22 de noviembre de 2026…",
+    "telegraph_url": "https://telegra.ph/Amanecer-en-la-Cosecha-recaudó-USD-2243-millones-en-su-estreno-mundial-11-25",
+    "url": "https://enelensayomedia.com/notas/amanecer-en-la-cosecha-recaudo-usd-224-3-millones-en-su-estreno-mundia-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/amanecer-en-la-cosecha-recaudo-usd-224-3-millones-en-su-estreno-mundia-1125.jpg",
+    "fecha": "2026-11-25T09:49:34.485009",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Gabito Ballesteros y Natanael Cano reaparecen juntos en Instagram",
     "artista": "Gabito Ballesteros y Natanael Cano",
     "intro": "Gabito Ballesteros y Natanael Cano reaparecen juntos en Instagram, al día de ayer, tras semanas de ausencia pública.",
@@ -5832,22 +5846,5 @@
     "fecha_original": "2026-11-13T12:21:32.127645",
     "actualizada": true,
     "ultima_actualizacion": "2026-11-16T14:05:53.482233"
-  },
-  {
-    "opinion": true,
-    "tipo": "reportaje",
-    "titulo": "El caos del DCU frente al peso de Robert Pattinson y Marvel",
-    "artista": "Robert Pattinson",
-    "intro": "El fallido universo de DC sigue dando tumbos mientras la maquinaria de Marvel y el legado de Zack Snyder se consolidan como el estándar de oro de la industria.",
-    "telegraph_url": "https://telegra.ph/El-caos-del-DCU-frente-al-peso-de-Robert-Pattinson-y-Marvel-11-13",
-    "url": "https://enelensayomedia.com/notas/el-caos-del-dcu-frente-al-peso-de-robert-pattinson-y-marvel-1113.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-caos-del-dcu-frente-al-peso-de-robert-pattinson-y-marvel-1113.jpg",
-    "fecha": "2026-11-13T12:35:24.399455",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU",
-    "fecha_original": "2026-11-13T12:35:24.399455",
-    "ultima_actualizacion": "2026-11-16T14:53:52.373326",
-    "actualizada": true
   }
 ]
