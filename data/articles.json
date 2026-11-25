@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Análisis de Pikmin 4 Nintendo Switch 2 Edition",
+    "artista": "Pikmin 4",
+    "intro": "Pikmin 4 Nintendo Switch 2 Edition llega al mercado con mejoras técnicas significativas, incluyendo soporte para resolución de hasta 4K en modo televisor…",
+    "telegraph_url": "https://telegra.ph/Análisis-de-Pikmin-4-Nintendo-Switch-2-Edition-11-25",
+    "url": "https://enelensayomedia.com/notas/analisis-de-pikmin-4-nintendo-switch-2-edition-1124.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/analisis-de-pikmin-4-nintendo-switch-2-edition-1124.jpg",
+    "fecha": "2026-11-24T19:37:56.239411",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "VCT 2027 refuerza integridad competitiva con nuevas reglas y supervisión rigurosa",
     "artista": "VCT 2027 integridad competitiva",
     "intro": "Riot Games y el INE implementan medidas estrictas para garantizar la transparencia en torneos y elecciones de 2027.",
@@ -5833,19 +5847,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Esports"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Avengers: Endgame Encore llega a streaming con escenas inéditas",
-    "artista": "Avengers: Endgame Encore",
-    "intro": "El viernes 13 de noviembre de 2026 se estrena en exclusiva en Disney+ la versión titulada Avengers: Endgame Encore.",
-    "telegraph_url": "https://telegra.ph/Avengers-Endgame-Encore-llega-a-streaming-con-escenas-inéditas-11-13",
-    "url": "https://enelensayomedia.com/notas/avengers-endgame-encore-llega-a-streaming-con-escenas-ineditas-1113.html",
-    "imagen_url": "https://enelensayomedia.com/img/og.jpg",
-    "fecha": "2026-11-13T10:05:05.570255",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU"
   }
 ]
