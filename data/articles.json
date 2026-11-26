@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Mon Laferte concierto en Estadio GNP Seguros CDMX 22 de mayo de 2027",
+    "artista": "Mon Laferte",
+    "intro": "La artista chilena realizará su primer concierto en un estadio de gran capacidad en la capital, como parte del Femme Fatale Tour.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/mon-laferte-concierto-en-estadio-gnp-seguros-cdmx-22-de-mayo-de-2027-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/mon-laferte-concierto-en-estadio-gnp-seguros-cdmx-22-de-mayo-de-2027-1126.jpg",
+    "fecha": "2026-11-26T13:27:59.590899",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Cintia Cossio y Karely Ruiz disputan batalla de rap en La Mansión VIP 2",
     "artista": "Cintia Cossio y Karely Ruiz",
@@ -5789,23 +5803,6 @@
     "views": 0,
     "categoria": "Streaming",
     "fecha_original": "2026-11-08T10:42:48.850861",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Claude Monet, recordado a 186 años de su nacimiento",
-    "artista": "Claude Monet",
-    "intro": "Hoy, 14 de noviembre de 2026, se conmemora el 186 aniversario del nacimiento de Claude Monet, pintor francés y fundador del impresionismo.",
-    "telegraph_url": "https://telegra.ph/Claude-Monet-recordado-a-186-años-de-su-nacimiento-11-14",
-    "url": "https://enelensayomedia.com/notas/claude-monet-recordado-a-186-anos-de-su-nacimiento-1114.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/claude-monet-recordado-a-186-anos-de-su-nacimiento-1114.jpg",
-    "fecha": "2026-11-14T18:09:07.129516",
-    "author": "Oliver Ken",
-    "views": 0,
-    "nota_dia": true,
-    "categoria": "Reportaje",
-    "fecha_original": "2026-11-14T12:03:40.333396",
     "actualizada": true
   }
 ]
