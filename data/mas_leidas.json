@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-25 20:14",
+ "actualizado": "2026-11-25 23:36",
  "general": [
   {
    "titulo": "Lupita D'Alessio celebra 55 años",
@@ -72,9 +72,9 @@
     "visitas": 4
    },
    {
-    "titulo": "Thalía y Yolanda Andrade se reúnen en México tras actuación con Karol G",
-    "url": "https://enelensayomedia.com/notas/thalia-y-yolanda-andrade-se-reunen-en-mexico-tras-actuacion-con-karol-1123.html",
-    "visitas": 3
+    "titulo": "Top 10 semanal: lo más escuchado en México y en el mundo (20 de noviembre)",
+    "url": "https://enelensayomedia.com/notas/top-10-semanal-lo-mas-escuchado-en-mexico-y-en-el-mundo-20-de-noviembr-1120.html",
+    "visitas": 4
    }
   ],
   "cultura": [
@@ -106,19 +106,19 @@
     "visitas": 7
    },
    {
+    "titulo": "Boruto aterriza en Netflix con doblaje al castellano",
+    "url": "https://enelensayomedia.com/notas/boruto-aterriza-en-netflix-con-doblaje-al-castellano-1125.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "Solo Leveling: serie live-action no se estrenaría hasta 2028 en Netflix",
+    "url": "https://enelensayomedia.com/notas/solo-leveling-serie-live-action-no-se-estrenaria-hasta-2028-en-netflix-1122.html",
+    "visitas": 4
+   },
+   {
     "titulo": "Netflix y sindicato pactan pagos en Alemania pero la IA sigue en disputa",
     "url": "https://enelensayomedia.com/notas/netflix-y-sindicato-pactan-pagos-en-alemania-pero-la-ia-sigue-en-dispu-1122.html",
     "visitas": 4
-   },
-   {
-    "titulo": "Blue Exorcist vuelve a Netflix con temporada 1 y doblaje original",
-    "url": "https://enelensayomedia.com/notas/blue-exorcist-vuelve-a-netflix-con-temporada-1-y-doblaje-original-1121.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "El CEIP San Agustín canta 'Nuestra voz será vuestro silencio' este 25 de noviembre",
-    "url": "https://enelensayomedia.com/notas/el-ceip-san-agustin-canta-nuestra-voz-sera-vuestro-silencio-este-25-de-1125.html",
-    "visitas": 3
    }
   ],
   "reportaje": [
@@ -126,11 +126,6 @@
     "titulo": "Hayden Panettiere encontrada muerta en Nueva York",
     "url": "https://enelensayomedia.com/notas/hayden-panettiere-encontrada-muerta-en-nueva-york-1124.html",
     "visitas": 6
-   },
-   {
-    "titulo": "Músico es baleado tras discusión con su pareja policía en Chorrillos",
-    "url": "https://enelensayomedia.com/notas/musico-es-baleado-tras-discusion-con-su-pareja-policia-en-chorrillos-1122.html",
-    "visitas": 3
    }
   ],
   "televisión": [
@@ -216,6 +211,28 @@
     "visitas": 4
    }
   ],
+  "reality": [
+   {
+    "titulo": "Nuevas dinámicas y reencuentros en La Mansión VIP 2",
+    "url": "https://enelensayomedia.com/notas/nuevas-dinamicas-y-reencuentros-en-la-mansion-vip-2-1125.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "La Mansión VIP 2 revela tabla de votos para segunda eliminación del 22/11",
+    "url": "https://enelensayomedia.com/notas/la-mansion-vip-2-revela-tabla-de-votos-para-segunda-eliminacion-del-22-1122.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "Bebeshita y Bicolor llegan a La Granja VIP por caminos distintos",
+    "url": "https://enelensayomedia.com/notas/bebeshita-y-bicolor-llegan-a-la-granja-vip-por-caminos-distintos-1122.html",
+    "visitas": 4
+   },
+   {
+    "titulo": "Moisés Peñaloza no olvida el pleito con Yahir en La Casa de los Famosos México",
+    "url": "https://enelensayomedia.com/notas/moises-penaloza-no-olvida-el-pleito-con-yahir-en-la-casa-de-los-famoso-1122.html",
+    "visitas": 4
+   }
+  ],
   "internacional": [
    {
     "titulo": "Timberlake y Fallon cantan 'Cha Cha Slide' en adelanto de Acción de Gracias de NBC",
@@ -240,28 +257,6 @@
     "visitas": 4
    }
   ],
-  "reality": [
-   {
-    "titulo": "La Mansión VIP 2 revela tabla de votos para segunda eliminación del 22/11",
-    "url": "https://enelensayomedia.com/notas/la-mansion-vip-2-revela-tabla-de-votos-para-segunda-eliminacion-del-22-1122.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "Nuevas dinámicas y reencuentros en La Mansión VIP 2",
-    "url": "https://enelensayomedia.com/notas/nuevas-dinamicas-y-reencuentros-en-la-mansion-vip-2-1125.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "Bebeshita y Bicolor llegan a La Granja VIP por caminos distintos",
-    "url": "https://enelensayomedia.com/notas/bebeshita-y-bicolor-llegan-a-la-granja-vip-por-caminos-distintos-1122.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "Moisés Peñaloza no olvida el pleito con Yahir en La Casa de los Famosos México",
-    "url": "https://enelensayomedia.com/notas/moises-penaloza-no-olvida-el-pleito-con-yahir-en-la-casa-de-los-famoso-1122.html",
-    "visitas": 4
-   }
-  ],
   "cine": [
    {
     "titulo": "Netflix estrena hoy 56 contenidos en guía de Espinof para 25 de noviembre",
@@ -274,14 +269,12 @@
     "visitas": 3
    }
   ],
-  "esports": [
-   {
-    "titulo": "Mundial Sub-17 Qatar 2026: 48 selecciones, 104 partidos y el reto de la seguridad",
-    "url": "https://enelensayomedia.com/notas/mundial-sub-17-qatar-2026-48-selecciones-104-partidos-y-el-reto-de-la-1122.html",
-    "visitas": 4
-   }
-  ],
   "videojuegos": [
+   {
+    "titulo": "Análisis de Pikmin 4 Nintendo Switch 2 Edition",
+    "url": "https://enelensayomedia.com/notas/analisis-de-pikmin-4-nintendo-switch-2-edition-1124.html",
+    "visitas": 4
+   },
    {
     "titulo": "Bad Bunny lidera la banda sonora latina de GTA 6 con Cocoteo FM",
     "url": "https://enelensayomedia.com/notas/bad-bunny-lidera-la-banda-sonora-latina-de-gta-6-con-cocoteo-fm-1120.html",
@@ -296,11 +289,13 @@
     "titulo": "Team Cherry anuncia el evento Cherry Time! sobre Silksong",
     "url": "https://enelensayomedia.com/notas/team-cherry-anuncia-el-evento-cherry-time-sobre-silksong-1125.html",
     "visitas": 3
-   },
+   }
+  ],
+  "esports": [
    {
-    "titulo": "Lords of the Fallen II llegará en abril de 2027",
-    "url": "https://enelensayomedia.com/notas/lords-of-the-fallen-ii-llegara-en-abril-de-2027-1125.html",
-    "visitas": 3
+    "titulo": "Mundial Sub-17 Qatar 2026: 48 selecciones, 104 partidos y el reto de la seguridad",
+    "url": "https://enelensayomedia.com/notas/mundial-sub-17-qatar-2026-48-selecciones-104-partidos-y-el-reto-de-la-1122.html",
+    "visitas": 4
    }
   ]
  }
