@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "William Levy y Kailey debutan juntos en la premiere de 'Bajo un fuego'",
+    "artista": "William Levy",
+    "intro": "William Levy y su hija Kailey Alexandra, de 16 años, debutaron como actores en la película 'Bajo un fuego', secuela de 'Bajo un volcán'.",
+    "telegraph_url": "https://telegra.ph/William-Levy-y-Kailey-debutan-juntos-en-la-premiere-de-Bajo-un-fuego-11-26",
+    "url": "https://enelensayomedia.com/notas/william-levy-y-kailey-debutan-juntos-en-la-premiere-de-bajo-un-fuego-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/william-levy-y-kailey-debutan-juntos-en-la-premiere-de-bajo-un-fuego-1126.jpg",
+    "fecha": "2026-11-26T11:13:12.304672",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "The Witcher 4 lanzará simultáneamente en PS5, Xbox y PC",
     "artista": "CD Projekt Red",
     "intro": "CD Projekt Red confirma que The Witcher 4 saldrá al mismo tiempo en PS5, Xbox y PC, dejando fuera a Nintendo Switch 2.",
@@ -5795,19 +5809,5 @@
     "fecha_original": "2026-11-14T15:49:12.662516",
     "ultima_actualizacion": "2026-11-16T15:41:46.707904",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Netflix estrena tráiler de la temporada 6 final de Emily in Paris",
-    "artista": "Emily in Paris",
-    "intro": "Netflix presenta el primer tráiler de la sexta y última temporada de Emily in Paris, que se estrenará el 24 de diciembre de 2026.",
-    "telegraph_url": "https://telegra.ph/Netflix-estrena-tráiler-de-la-temporada-6-final-de-Emily-in-Paris-11-14",
-    "url": "https://enelensayomedia.com/notas/netflix-estrena-trailer-de-la-temporada-6-final-de-emily-in-paris-1114.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/netflix-estrena-trailer-de-la-temporada-6-final-de-emily-in-paris-1114.jpg",
-    "fecha": "2026-11-14T14:44:06.883310",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Televisión"
   }
 ]
