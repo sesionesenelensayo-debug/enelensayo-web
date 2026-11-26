@@ -332,6 +332,16 @@
    "auto": true
   },
   {
+   "nombre": "Álvaro Obregón 154, Roma Norte, CDMX",
+   "ciudad": "Ciudad de México",
+   "estado": "Distrito Federal",
+   "zona": "",
+   "lat": 19.4179915,
+   "lon": -99.162206,
+   "genero": "Foro con música en vivo",
+   "auto": true
+  },
+  {
    "nombre": "Planta Baja",
    "ciudad": "Ciudad de México",
    "estado": "Distrito Federal",
