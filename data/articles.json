@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "El Callejón del Muerto: una leyenda oscura en el corazón de Oaxaca",
+    "artista": "el Callejón del Muerto en Zacatecas",
+    "intro": "Un cuento de terror colonial que mezcla historia, fe y la sombra de un sereno asesinado en un callejón del centro histórico.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/el-callejon-del-muerto-una-leyenda-oscura-en-el-corazon-de-oaxaca-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-callejon-del-muerto-una-leyenda-oscura-en-el-corazon-de-oaxaca-1125.jpg",
+    "fecha": "2026-11-25T20:15:23.650454",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Historias de terror"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "El CEIP San Agustín canta 'Nuestra voz será vuestro silencio' este 25 de noviembre",
     "artista": "“Nuestra voz será vuestro silencio”, una canción que invita desde el CEIP San Agustín a plantar árboles en recuerdo de las víctimas de violencia de género",
     "intro": "El CEIP San Agustín en Écija celebra este 25 de noviembre con la interpretación de 'Nuestra voz será vuestro silencio'…",
@@ -5804,22 +5818,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Niurka comete nueva infracción como Peón y perjudica a compañeros",
-    "artista": "La Granja VIP",
-    "intro": "Niurka vuelve a incurrir en una infracción como Peón en La Granja VIP, dejando su cama y durmiendo con los Granjeros, según reportes de TV Azteca y TVyNovelas.",
-    "telegraph_url": "https://telegra.ph/Niurka-comete-nueva-infracción-como-Peón-y-perjudica-a-compañeros-11-14",
-    "url": "https://enelensayomedia.com/notas/niurka-comete-nueva-infraccion-como-peon-y-perjudica-a-companeros-1113.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/niurka-comete-nueva-infraccion-como-peon-y-perjudica-a-companeros-1113.jpg",
-    "fecha": "2026-11-14T10:39:19.633711",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reality",
-    "fecha_original": "2026-11-13T19:12:31.056722",
-    "actualizada": true,
-    "ultima_actualizacion": "2026-11-16T09:26:33.247572"
   }
 ]
