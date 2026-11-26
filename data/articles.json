@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "La Quinta del Sordo: la casa donde Goya vivió antes del exilio y cosechó sus últimas obras",
+    "artista": "la Casa Sorda de Goya",
+    "intro": "Descubre cómo la finca de Goya pasó de ser su refugio creativo a convertirse en un mito urbano de Madrid.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/la-quinta-del-sordo-la-casa-donde-goya-vivio-antes-del-exilio-y-cosech-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-quinta-del-sordo-la-casa-donde-goya-vivio-antes-del-exilio-y-cosech-1126.jpg",
+    "fecha": "2026-11-26T08:22:58.438011",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Historias de terror"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Un marinero muere tras hundimiento del buque Med Emre cerca de Ibiza",
     "artista": "Marinero",
     "intro": "Un marinero falleció y seis tripulantes resultaron heridos tras el hundimiento del buque Med Emre, con 7.000 toneladas de gasóleo…",
@@ -5802,19 +5816,5 @@
     "fecha_original": "2026-11-12T09:39:31.775081",
     "actualizada": true,
     "ultima_actualizacion": "2026-11-16T07:04:52.163573"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Jaime Camil defiende a star talents en polémica de doblaje de 'Wildwood'",
-    "artista": "Jaime Camil",
-    "intro": "Jaime Camil, promoviendo 'Atrápelo quien pueda', defendió a los star talents del doblaje de 'Wildwood: El bosque salvaje' en 'Sale el Sol'.",
-    "telegraph_url": "https://telegra.ph/Jaime-Camil-defiende-a-star-talents-en-polémica-de-doblaje-de-Wildwood-11-14",
-    "url": "https://enelensayomedia.com/notas/jaime-camil-defiende-a-star-talents-en-polemica-de-doblaje-de-wildwood-1114.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/jaime-camil-defiende-a-star-talents-en-polemica-de-doblaje-de-wildwood-1114.jpg",
-    "fecha": "2026-11-14T11:25:13.740055",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Doblaje"
   }
 ]

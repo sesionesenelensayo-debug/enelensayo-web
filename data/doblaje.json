@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26 06:05",
+ "actualizado": "2026-11-26 08:05",
  "destacado": {
   "pelicula": "Wildwood: El bosque salvaje",
   "estudio": "LAIKA Studios",
@@ -92,6 +92,16 @@
    ],
    "estado": "polémica",
    "resumen": "Aldo Rendón quedó fuera del doblaje de 'Hechizo: Bienvenidos a Hexe' y usuarios reviven la polémica con 'Wildwood'; Erick Elías y Erick Selim ganan doblaje y seguidores en la película",
+   "anio": "2026",
+   "auto": true
+  },
+  {
+   "pelicula": "Avengers: Doomsday",
+   "star_talents": [
+    "influencers"
+   ],
+   "estado": "anunciado",
+   "resumen": "Se menciona la presencia de influencers en el doblaje de Avengers: Doomsday",
    "anio": "2026",
    "auto": true
   }
