@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Netflix estrena 'Gordon', serie argentina con Rodrigo de la Serna",
+    "artista": "Gordon",
+    "intro": "Netflix estrenó la serie argentina limitada 'Gordon' el 18 de noviembre de 2026.",
+    "telegraph_url": "https://telegra.ph/Netflix-estrena-Gordon-serie-argentina-con-Rodrigo-de-la-Serna-11-26",
+    "url": "https://enelensayomedia.com/notas/netflix-estrena-gordon-serie-argentina-con-rodrigo-de-la-serna-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/netflix-estrena-gordon-serie-argentina-con-rodrigo-de-la-serna-1126.jpg",
+    "fecha": "2026-11-26T11:03:20.746265",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Televisión"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Hechicero y Bárbaro Cavernario disputarán la Leyenda Azul",
     "artista": "Hechicero y Bárbaro Cavernario",
     "intro": "Hechicero y Bárbaro Cavernario se enfrentarán en la gran final del Torneo La Leyenda Azul 2026 del Consejo Mundial de Lucha Libre.",
@@ -5795,21 +5809,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reportaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "¿Star talents en el doblaje de Yo soy Rocky? El debate",
-    "artista": "Yo soy Rocky",
-    "intro": "Lo que está confirmado es que se han cuestionado los doblajes de 'Wildwood' y 'Yo soy Rocky' debido a la inclusión de figuras de la televisión o redes sociales, conocidos como star talents…",
-    "telegraph_url": "https://telegra.ph/Star-talents-en-el-doblaje-de-Yo-soy-Rocky-El-debate-11-09",
-    "url": "https://enelensayomedia.com/notas/star-talents-en-el-doblaje-de-yo-soy-rocky-el-debate-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/star-talents-en-el-doblaje-de-yo-soy-rocky-el-debate-1109.jpg",
-    "fecha": "2026-11-14T13:46:48.238171",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-09T11:04:09.696643",
-    "actualizada": true
   }
 ]
