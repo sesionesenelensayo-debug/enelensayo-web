@@ -1,20 +1,10 @@
 {
- "actualizado": "2026-11-25 23:36",
+ "actualizado": "2026-11-26 15:21",
  "general": [
   {
-   "titulo": "Lupita D'Alessio celebra 55 años",
-   "url": "https://enelensayomedia.com/notas/lupita-d-alessio-celebra-55-anos-1124.html",
+   "titulo": "Omega Hardcore de Guadalajara revela su lucha contra el abandono y la solidaridad en sus filas",
+   "url": "https://enelensayomedia.com/notas/omega-hardcore-de-guadalajara-revela-su-lucha-contra-el-abandono-y-la-1126.html",
    "visitas": 10
-  },
-  {
-   "titulo": "Cartel del Coachella 2026: edad media, países y quiénes están en el top 100",
-   "url": "https://enelensayomedia.com/notas/cartel-del-coachella-2026-edad-media-paises-y-quienes-estan-en-el-top-1121.html",
-   "visitas": 9
-  },
-  {
-   "titulo": "Estrenos de series y películas en Netflix, Disney+, Prime Video y HBO Max este jueves",
-   "url": "https://enelensayomedia.com/notas/estrenos-de-series-y-peliculas-en-netflix-disney-prime-video-y-hbo-max-1120.html",
-   "visitas": 8
   },
   {
    "titulo": "Cinépolis confirma funciones especiales de 'El Grinch' en diciembre",
@@ -22,88 +12,56 @@
    "visitas": 7
   },
   {
-   "titulo": "¿Doblaje arruinado? La polémica de Macarena García y Javier Ibarreche en Wildwood",
-   "url": "https://enelensayomedia.com/notas/doblaje-arruinado-la-polemica-de-macarena-garcia-y-javier-ibarreche-en-1120.html",
-   "visitas": 7
+   "titulo": "LaConve - Animex anuncia la FanParty 2026 en Cintermex",
+   "url": "https://enelensayomedia.com/notas/laconve-animex-anuncia-la-fanparty-2026-en-cintermex-1126.html",
+   "visitas": 5
   },
   {
-   "titulo": "Hayden Panettiere encontrada muerta en Nueva York",
-   "url": "https://enelensayomedia.com/notas/hayden-panettiere-encontrada-muerta-en-nueva-york-1124.html",
-   "visitas": 6
+   "titulo": "Regreso de Downey Jr.",
+   "url": "https://enelensayomedia.com/notas/regreso-de-downey-jr-1126.html",
+   "visitas": 5
+  },
+  {
+   "titulo": "Boruto aterriza en Netflix con doblaje al castellano",
+   "url": "https://enelensayomedia.com/notas/boruto-aterriza-en-netflix-con-doblaje-al-castellano-1125.html",
+   "visitas": 5
+  },
+  {
+   "titulo": "Yeferson Cossio y Carolina Gómez confirman su ruptura tras cuatro años",
+   "url": "https://enelensayomedia.com/notas/yeferson-cossio-y-carolina-gomez-confirman-su-ruptura-tras-cuatro-anos-1125.html",
+   "visitas": 5
   }
  ],
  "categorias": {
-  "conciertos": [
-   {
-    "titulo": "Lupita D'Alessio celebra 55 años",
-    "url": "https://enelensayomedia.com/notas/lupita-d-alessio-celebra-55-anos-1124.html",
-    "visitas": 10
-   },
-   {
-    "titulo": "Babasónicos toca este miércoles en el Palacio de los Deportes",
-    "url": "https://enelensayomedia.com/notas/babasonicos-toca-este-miercoles-en-el-palacio-de-los-deportes-1125.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "Maná concierto en el Estadio GNP Seguros 2026: boletos y horarios",
-    "url": "https://enelensayomedia.com/notas/mana-concierto-en-el-estadio-gnp-seguros-2026-boletos-y-horarios-1121.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "Caifanes dará histórico concierto en Estadio GNP el 11 de julio",
-    "url": "https://enelensayomedia.com/notas/caifanes-dara-historico-concierto-en-estadio-gnp-el-11-de-julio-1123.html",
-    "visitas": 3
-   }
-  ],
   "música": [
    {
-    "titulo": "Cartel del Coachella 2026: edad media, países y quiénes están en el top 100",
-    "url": "https://enelensayomedia.com/notas/cartel-del-coachella-2026-edad-media-paises-y-quienes-estan-en-el-top-1121.html",
-    "visitas": 9
-   },
-   {
-    "titulo": "Nicki Nicole estrena el doble sencillo 'Rayo de Sol' y 'Eterna Soledad'",
-    "url": "https://enelensayomedia.com/notas/nicki-nicole-estrena-el-doble-sencillo-rayo-de-sol-y-eterna-soledad-1123.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "Kid Voodoo es el primer chileno en ganar Los40 Music Awards",
-    "url": "https://enelensayomedia.com/notas/kid-voodoo-es-el-primer-chileno-en-ganar-los40-music-awards-1123.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "Top 10 semanal: lo más escuchado en México y en el mundo (20 de noviembre)",
-    "url": "https://enelensayomedia.com/notas/top-10-semanal-lo-mas-escuchado-en-mexico-y-en-el-mundo-20-de-noviembr-1120.html",
-    "visitas": 4
+    "titulo": "Omega Hardcore de Guadalajara revela su lucha contra el abandono y la solidaridad en sus filas",
+    "url": "https://enelensayomedia.com/notas/omega-hardcore-de-guadalajara-revela-su-lucha-contra-el-abandono-y-la-1126.html",
+    "visitas": 10
    }
   ],
   "cultura": [
-   {
-    "titulo": "Estrenos de series y películas en Netflix, Disney+, Prime Video y HBO Max este jueves",
-    "url": "https://enelensayomedia.com/notas/estrenos-de-series-y-peliculas-en-netflix-disney-prime-video-y-hbo-max-1120.html",
-    "visitas": 8
-   },
    {
     "titulo": "Cinépolis confirma funciones especiales de 'El Grinch' en diciembre",
     "url": "https://enelensayomedia.com/notas/cinepolis-confirma-funciones-especiales-de-el-grinch-en-diciembre-1124.html",
     "visitas": 7
    },
    {
-    "titulo": "Maite Perroni regresa a las telenovelas",
-    "url": "https://enelensayomedia.com/notas/maite-perroni-regresa-a-las-telenovelas-1124.html",
-    "visitas": 4
-   },
-   {
     "titulo": "Keanu Reeves sorprende en CDMX con visita inesperada para firmar su nuevo libro",
     "url": "https://enelensayomedia.com/notas/keanu-reeves-sorprende-en-cdmx-con-visita-inesperada-para-firmar-su-nu-1125.html",
     "visitas": 3
+   },
+   {
+    "titulo": "Christian Nodal anuncia retiro temporal de sus giras en México",
+    "url": "https://enelensayomedia.com/notas/christian-nodal-anuncia-retiro-temporal-de-sus-giras-en-mexico-1125.html",
+    "visitas": 2
    }
   ],
   "doblaje": [
    {
-    "titulo": "¿Doblaje arruinado? La polémica de Macarena García y Javier Ibarreche en Wildwood",
-    "url": "https://enelensayomedia.com/notas/doblaje-arruinado-la-polemica-de-macarena-garcia-y-javier-ibarreche-en-1120.html",
-    "visitas": 7
+    "titulo": "LaConve - Animex anuncia la FanParty 2026 en Cintermex",
+    "url": "https://enelensayomedia.com/notas/laconve-animex-anuncia-la-fanparty-2026-en-cintermex-1126.html",
+    "visitas": 5
    },
    {
     "titulo": "Boruto aterriza en Netflix con doblaje al castellano",
@@ -111,67 +69,21 @@
     "visitas": 5
    },
    {
-    "titulo": "Solo Leveling: serie live-action no se estrenaría hasta 2028 en Netflix",
-    "url": "https://enelensayomedia.com/notas/solo-leveling-serie-live-action-no-se-estrenaria-hasta-2028-en-netflix-1122.html",
-    "visitas": 4
+    "titulo": "El CEIP San Agustín canta 'Nuestra voz será vuestro silencio' este 25 de noviembre",
+    "url": "https://enelensayomedia.com/notas/el-ceip-san-agustin-canta-nuestra-voz-sera-vuestro-silencio-este-25-de-1125.html",
+    "visitas": 3
    },
    {
-    "titulo": "Netflix y sindicato pactan pagos en Alemania pero la IA sigue en disputa",
-    "url": "https://enelensayomedia.com/notas/netflix-y-sindicato-pactan-pagos-en-alemania-pero-la-ia-sigue-en-dispu-1122.html",
-    "visitas": 4
-   }
-  ],
-  "reportaje": [
-   {
-    "titulo": "Hayden Panettiere encontrada muerta en Nueva York",
-    "url": "https://enelensayomedia.com/notas/hayden-panettiere-encontrada-muerta-en-nueva-york-1124.html",
-    "visitas": 6
-   }
-  ],
-  "televisión": [
-   {
-    "titulo": "Estrena la temporada 3 de 'Percy Jackson' en Disney+ con nuevos dioses",
-    "url": "https://enelensayomedia.com/notas/estrena-la-temporada-3-de-percy-jackson-en-disney-con-nuevos-dioses-1123.html",
-    "visitas": 6
-   },
-   {
-    "titulo": "Oobah: Scams for a Better Tomorrow llega a HBO Max con un sérum de lágrimas de niños",
-    "url": "https://enelensayomedia.com/notas/oobah-scams-for-a-better-tomorrow-llega-a-hbo-max-con-un-serum-de-lagr-1122.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "Ginny y Georgia 4",
-    "url": "https://enelensayomedia.com/notas/ginny-y-georgia-4-1119.html",
-    "visitas": 4
-   }
-  ],
-  "luchas": [
-   {
-    "titulo": "Cody Rhodes destaca diferencia entre cine y WWE en entrevista reciente",
-    "url": "https://enelensayomedia.com/notas/cody-rhodes-destaca-diferencia-entre-cine-y-wwe-en-entrevista-reciente-1123.html",
-    "visitas": 6
-   },
-   {
-    "titulo": "The Rock volverá a WWE el 28 de noviembre",
-    "url": "https://enelensayomedia.com/notas/the-rock-volvera-a-wwe-el-28-de-noviembre-1124.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "Los Perros del Mal retoman el Campeonato Mundial de Tríos en AAA",
-    "url": "https://enelensayomedia.com/notas/los-perros-del-mal-retoman-el-campeonato-mundial-de-trios-en-aaa-1122.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "WWE registra 'Gringo Anónimo' y 'Anónimo Gringo' para explotar legado de Los Perros del Mal",
-    "url": "https://enelensayomedia.com/notas/wwe-registra-gringo-anonimo-y-anonimo-gringo-para-explotar-legado-de-l-1121.html",
-    "visitas": 5
+    "titulo": "Avengers: Doomsday revela elenco de doblaje latino con voces veteranas",
+    "url": "https://enelensayomedia.com/notas/avengers-doomsday-revela-elenco-de-doblaje-latino-con-voces-veteranas-1126.html",
+    "visitas": 2
    }
   ],
   "marvel y dcu": [
    {
-    "titulo": "Rumor: Hayley Atwell dice que el tráiler de ‘Avengers: Doomsday’ saldrá el lunes 23",
-    "url": "https://enelensayomedia.com/notas/rumor-hayley-atwell-dice-que-el-trailer-de-avengers-doomsday-saldra-el-1122.html",
-    "visitas": 6
+    "titulo": "Regreso de Downey Jr.",
+    "url": "https://enelensayomedia.com/notas/regreso-de-downey-jr-1126.html",
+    "visitas": 5
    },
    {
     "titulo": "Spider-Man: Brand New Day se reestrena en diciembre con versión extendida",
@@ -179,14 +91,14 @@
     "visitas": 5
    },
    {
-    "titulo": "Hailee Steinfeld confirma su regreso como Kate Bishop en Avengers: Doomsday",
-    "url": "https://enelensayomedia.com/notas/hailee-steinfeld-confirma-su-regreso-como-kate-bishop-en-avengers-doom-1123.html",
-    "visitas": 5
+    "titulo": "Clayface: una película de horror DC que fracasa en salir de la sombra",
+    "url": "https://enelensayomedia.com/notas/clayface-una-pelicula-de-horror-dc-que-fracasa-en-salir-de-la-sombra-1125.html",
+    "visitas": 2
    },
    {
-    "titulo": "Rumor: Wanda Maximoff podría regresar en 'Avengers: Doomsday' según postcréditos de 'VisionQuest'",
-    "url": "https://enelensayomedia.com/notas/rumor-wanda-maximoff-podria-regresar-en-avengers-doomsday-segun-postcr-1121.html",
-    "visitas": 5
+    "titulo": "Marvel revela el tráiler final de 'Avengers: Doomsday' con Doctor Doom como nuevo líder",
+    "url": "https://enelensayomedia.com/notas/marvel-revela-el-trailer-final-de-avengers-doomsday-con-doctor-doom-co-1125.html",
+    "visitas": 2
    }
   ],
   "chisme": [
@@ -206,31 +118,21 @@
     "visitas": 4
    },
    {
-    "titulo": "Miley Cyrus cumple 34 años y se casa con Maxx Morando en California",
-    "url": "https://enelensayomedia.com/notas/miley-cyrus-cumple-34-anos-y-se-casa-con-maxx-morando-en-california-1123.html",
-    "visitas": 4
+    "titulo": "Fátima Bosch confirma su relación con Alejandro Canahuati",
+    "url": "https://enelensayomedia.com/notas/fatima-bosch-confirma-su-relacion-con-alejandro-canahuati-1126.html",
+    "visitas": 2
    }
   ],
-  "reality": [
+  "conciertos": [
    {
-    "titulo": "Nuevas dinámicas y reencuentros en La Mansión VIP 2",
-    "url": "https://enelensayomedia.com/notas/nuevas-dinamicas-y-reencuentros-en-la-mansion-vip-2-1125.html",
+    "titulo": "Babasónicos toca este miércoles en el Palacio de los Deportes",
+    "url": "https://enelensayomedia.com/notas/babasonicos-toca-este-miercoles-en-el-palacio-de-los-deportes-1125.html",
     "visitas": 5
    },
    {
-    "titulo": "La Mansión VIP 2 revela tabla de votos para segunda eliminación del 22/11",
-    "url": "https://enelensayomedia.com/notas/la-mansion-vip-2-revela-tabla-de-votos-para-segunda-eliminacion-del-22-1122.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "Bebeshita y Bicolor llegan a La Granja VIP por caminos distintos",
-    "url": "https://enelensayomedia.com/notas/bebeshita-y-bicolor-llegan-a-la-granja-vip-por-caminos-distintos-1122.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "Moisés Peñaloza no olvida el pleito con Yahir en La Casa de los Famosos México",
-    "url": "https://enelensayomedia.com/notas/moises-penaloza-no-olvida-el-pleito-con-yahir-en-la-casa-de-los-famoso-1122.html",
-    "visitas": 4
+    "titulo": "Multiforo Alicia ofrece esta noche Nosferatu con Ensamble Orlok y cierra la semana con sonidos de la tierra",
+    "url": "https://enelensayomedia.com/notas/multiforo-alicia-ofrece-esta-noche-nosferatu-con-ensamble-orlok-y-cier-1126.html",
+    "visitas": 3
    }
   ],
   "internacional": [
@@ -247,14 +149,50 @@
     "visitas": 5
    },
    {
-    "titulo": "GTA VI genera $1.8 mil mil millones y desata negocio para creadores",
-    "url": "https://enelensayomedia.com/notas/gta-vi-genera-1-8-mil-mil-millones-y-desata-negocio-para-creadores-1120.html",
+    "titulo": "Itatí López y Anahí Ríos enfrentan polémica en La Mansión VIP 2",
+    "url": "https://enelensayomedia.com/notas/itati-lopez-y-anahi-rios-enfrentan-polemica-en-la-mansion-vip-2-1126.html",
+    "visitas": 4
+   },
+   {
+    "titulo": "Lara Magalí Rapallo es detenida en Pinamar por maniobras imprudentes en camioneta rosa",
+    "url": "https://enelensayomedia.com/notas/lara-magali-rapallo-es-detenida-en-pinamar-por-maniobras-imprudentes-e-1125.html",
+    "visitas": 2
+   }
+  ],
+  "luchas": [
+   {
+    "titulo": "The Rock volverá a WWE el 28 de noviembre",
+    "url": "https://enelensayomedia.com/notas/the-rock-volvera-a-wwe-el-28-de-noviembre-1124.html",
     "visitas": 5
    },
    {
-    "titulo": "CostaKid agrediendo a una mujer en transmisión en vivo en Kick",
-    "url": "https://enelensayomedia.com/notas/costakid-agrediendo-a-una-mujer-en-transmision-en-vivo-en-kick-1123.html",
+    "titulo": "Hechicero y Bárbaro Cavernario disputarán la Leyenda Azul",
+    "url": "https://enelensayomedia.com/notas/hechicero-y-barbaro-cavernario-disputaran-la-leyenda-azul-1126.html",
     "visitas": 4
+   }
+  ],
+  "in memoriam": [
+   {
+    "titulo": "Un marinero muere tras hundimiento del buque Med Emre cerca de Ibiza",
+    "url": "https://enelensayomedia.com/notas/un-marinero-muere-tras-hundimiento-del-buque-med-emre-cerca-de-ibiza-1126.html",
+    "visitas": 4
+   }
+  ],
+  "videojuegos": [
+   {
+    "titulo": "Team Cherry anuncia el evento Cherry Time! sobre Silksong",
+    "url": "https://enelensayomedia.com/notas/team-cherry-anuncia-el-evento-cherry-time-sobre-silksong-1125.html",
+    "visitas": 4
+   },
+   {
+    "titulo": "Análisis de Pikmin 4 Nintendo Switch 2 Edition",
+    "url": "https://enelensayomedia.com/notas/analisis-de-pikmin-4-nintendo-switch-2-edition-1124.html",
+    "visitas": 4
+   },
+   {
+    "titulo": "Lords of the Fallen II llegará en abril de 2027",
+    "url": "https://enelensayomedia.com/notas/lords-of-the-fallen-ii-llegara-en-abril-de-2027-1125.html",
+    "visitas": 3
    }
   ],
   "cine": [
@@ -264,38 +202,31 @@
     "visitas": 4
    },
    {
+    "titulo": "Angelina Jolie y Brad Pitt resuelven batalla legal por bodega francesa",
+    "url": "https://enelensayomedia.com/notas/angelina-jolie-y-brad-pitt-resuelven-batalla-legal-por-bodega-francesa-1126.html",
+    "visitas": 3
+   },
+   {
     "titulo": "'Amanecer en la Cosecha' recaudó USD 224,3 millones en su estreno mundial",
     "url": "https://enelensayomedia.com/notas/amanecer-en-la-cosecha-recaudo-usd-224-3-millones-en-su-estreno-mundia-1125.html",
     "visitas": 3
    }
   ],
-  "videojuegos": [
+  "reality": [
    {
-    "titulo": "Análisis de Pikmin 4 Nintendo Switch 2 Edition",
-    "url": "https://enelensayomedia.com/notas/analisis-de-pikmin-4-nintendo-switch-2-edition-1124.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "Bad Bunny lidera la banda sonora latina de GTA 6 con Cocoteo FM",
-    "url": "https://enelensayomedia.com/notas/bad-bunny-lidera-la-banda-sonora-latina-de-gta-6-con-cocoteo-fm-1120.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "Capcom revela a Boat Man en tráiler de Mega Man: Dual Override",
-    "url": "https://enelensayomedia.com/notas/capcom-revela-a-boat-man-en-trailer-de-mega-man-dual-override-1119.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "Team Cherry anuncia el evento Cherry Time! sobre Silksong",
-    "url": "https://enelensayomedia.com/notas/team-cherry-anuncia-el-evento-cherry-time-sobre-silksong-1125.html",
+    "titulo": "Cintia Cossio y Karely Ruiz disputan batalla de rap en La Mansión VIP 2",
+    "url": "https://enelensayomedia.com/notas/cintia-cossio-y-karely-ruiz-disputan-batalla-de-rap-en-la-mansion-vip-1126.html",
     "visitas": 3
-   }
-  ],
-  "esports": [
+   },
    {
-    "titulo": "Mundial Sub-17 Qatar 2026: 48 selecciones, 104 partidos y el reto de la seguridad",
-    "url": "https://enelensayomedia.com/notas/mundial-sub-17-qatar-2026-48-selecciones-104-partidos-y-el-reto-de-la-1122.html",
-    "visitas": 4
+    "titulo": "Yann Lobo, hijo de exvocal de Flans, es fan del Tío Pepe y debuta en La Granja VIP",
+    "url": "https://enelensayomedia.com/notas/yann-lobo-hijo-de-exvocal-de-flans-es-fan-del-tio-pepe-y-debuta-en-la-1125.html",
+    "visitas": 3
+   },
+   {
+    "titulo": "Exatlón México 2026: ¿Quién gana la Supervivencia hoy 25 de noviembre? Azules o Rojos",
+    "url": "https://enelensayomedia.com/notas/exatlon-mexico-2026-quien-gana-la-supervivencia-hoy-25-de-noviembre-az-1125.html",
+    "visitas": 2
    }
   ]
  }
