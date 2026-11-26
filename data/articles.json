@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "The Witcher 4 lanzará simultáneamente en PS5, Xbox y PC",
+    "artista": "CD Projekt Red",
+    "intro": "CD Projekt Red confirma que The Witcher 4 saldrá al mismo tiempo en PS5, Xbox y PC, dejando fuera a Nintendo Switch 2.",
+    "telegraph_url": "https://telegra.ph/The-Witcher-4-lanzará-simultáneamente-en-PS5-Xbox-y-PC-11-26",
+    "url": "https://enelensayomedia.com/notas/the-witcher-4-lanzara-simultaneamente-en-ps5-xbox-y-pc-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/the-witcher-4-lanzara-simultaneamente-en-ps5-xbox-y-pc-1126.jpg",
+    "fecha": "2026-11-26T11:09:55.822473",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Netflix estrena 'Gordon', serie argentina con Rodrigo de la Serna",
     "artista": "Gordon",
     "intro": "Netflix estrenó la serie argentina limitada 'Gordon' el 18 de noviembre de 2026.",
@@ -5795,19 +5809,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Televisión"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Vincent van Gogh: la verdad sobre el disparo",
-    "artista": "Vincent van Gogh: la verdad sobre el disparo",
-    "intro": "Nuevas investigaciones sugieren que el disparo mortal pudo no haber sido provocado por él mismo, sino por adolescentes locales.",
-    "telegraph_url": "https://telegra.ph/Vincent-van-Gogh-la-verdad-sobre-el-disparo-11-14",
-    "url": "https://enelensayomedia.com/notas/vincent-van-gogh-la-verdad-sobre-el-disparo-1114.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/vincent-van-gogh-la-verdad-sobre-el-disparo-1114.jpg",
-    "fecha": "2026-11-14T13:52:41.930534",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reportaje"
   }
 ]
