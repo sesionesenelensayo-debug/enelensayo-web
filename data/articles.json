@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Itatí López y Anahí Ríos enfrentan polémica en La Mansión VIP 2",
+    "artista": "Itatí López",
+    "intro": "Itatí López, influencer y empresaria de 26 años, generó polémica en La Mansión VIP 2 al protagonizar una discusión con Anahí Ríos, hija de El Komander.",
+    "telegraph_url": "https://telegra.ph/Itatí-López-y-Anahí-Ríos-enfrentan-polémica-en-La-Mansión-VIP-2-11-26",
+    "url": "https://enelensayomedia.com/notas/itati-lopez-y-anahi-rios-enfrentan-polemica-en-la-mansion-vip-2-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/itati-lopez-y-anahi-rios-enfrentan-polemica-en-la-mansion-vip-2-1126.jpg",
+    "fecha": "2026-11-26T10:15:32.304103",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Live Streaming"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Omega Hardcore de Guadalajara revela su lucha contra el abandono y la solidaridad en sus filas",
     "artista": "Omega Hardcore",
     "intro": "Omega Hardcore, banda de hardcore formada en 2012 en Guadalajara, Jalisco, compone canciones para expresar lo difícil de compartir en la cotidianidad.",
@@ -5799,19 +5813,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Luchas"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Frida Kahlo murió en 1954 por embolia pulmonar, confirmada por su enfermera",
-    "artista": "Frida Kahlo: el día de su muerte y la teoría",
-    "intro": "Frida Kahlo falleció en la madrugada del 13 de julio de 1954 en su casa azul en Coyoacán, tras una caída grave de su salud tras décadas de cirugías. Su enfermera la encontró muerta a las 6:00 a.m.",
-    "telegraph_url": "https://telegra.ph/Frida-Kahlo-murió-en-1954-por-embolia-pulmonar-confirmada-por-su-enfermera-11-14",
-    "url": "https://enelensayomedia.com/notas/frida-kahlo-murio-en-1954-por-embolia-pulmonar-confirmada-por-su-enfer-1114.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/frida-kahlo-murio-en-1954-por-embolia-pulmonar-confirmada-por-su-enfer-1114.jpg",
-    "fecha": "2026-11-14T12:47:43.704879",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "In memoriam"
   }
 ]
