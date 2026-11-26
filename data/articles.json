@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Omega Hardcore de Guadalajara revela su lucha contra el abandono y la solidaridad en sus filas",
+    "artista": "Omega Hardcore",
+    "intro": "Omega Hardcore, banda de hardcore formada en 2012 en Guadalajara, Jalisco, compone canciones para expresar lo difícil de compartir en la cotidianidad.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/omega-hardcore-de-guadalajara-revela-su-lucha-contra-el-abandono-y-la-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/omega-hardcore-de-guadalajara-revela-su-lucha-contra-el-abandono-y-la-1126.jpg",
+    "fecha": "2026-11-26T10:12:30.740256",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "escena_local": true,
+    "portada_parcial": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Avengers: Doomsday revela elenco de doblaje latino con voces veteranas",
     "artista": "Avengers: Doomsday, película",
     "intro": "Avengers: Doomsday perfila su llegada a las salas con un reparto de doblaje latinoamericano integrado por actores de amplia trayectoria, alejándose de la inclusión de figuras de internet.",
@@ -11,7 +27,7 @@
     "fecha": "2026-11-26T10:11:37.225731",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Reportaje"
+    "categoria": "Doblaje"
   },
   {
     "opinion": false,
@@ -4691,21 +4707,6 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Karol G reprograma concierto en CDMX por problemas de salud",
-    "artista": "Karol G",
-    "intro": "En el video 'Chisme de pasillo: Karol G reprograma concierto por problemas de salud', el canal En el Ensayo Media informa que la cantante colombiana de reggaetón y pop reprogramó su concierto…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/karol-g-reprograma-concierto-en-cdmx-por-problemas-de-salud-1117.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/karol-g-reprograma-concierto-en-cdmx-por-problemas-de-salud-1117.jpg",
-    "fecha": "2026-11-17T01:42:18.344400",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "opinion": false,
