@@ -1,6 +1,23 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Hechicero y Bárbaro Cavernario disputarán la Leyenda Azul",
+    "artista": "Hechicero y Bárbaro Cavernario",
+    "intro": "Hechicero y Bárbaro Cavernario se enfrentarán en la gran final del Torneo La Leyenda Azul 2026 del Consejo Mundial de Lucha Libre.",
+    "telegraph_url": "https://telegra.ph/Hechicero-y-Bárbaro-Cavernario-disputarán-la-Leyenda-Azul-11-26",
+    "url": "https://enelensayomedia.com/notas/hechicero-y-barbaro-cavernario-disputaran-la-leyenda-azul-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/hechicero-y-barbaro-cavernario-disputaran-la-leyenda-azul-1126.jpg",
+    "fecha": "2026-11-26T13:36:50.949327",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Luchas",
+    "fecha_original": "2026-11-26T10:24:35.112915",
+    "ultima_actualizacion": "2026-11-26T13:36:50.949327",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Mon Laferte concierto en Estadio GNP Seguros CDMX 22 de mayo de 2027",
     "artista": "Mon Laferte",
@@ -153,20 +170,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Televisión"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Hechicero y Bárbaro Cavernario disputarán la Leyenda Azul",
-    "artista": "Hechicero y Bárbaro Cavernario",
-    "intro": "Hechicero y Bárbaro Cavernario se enfrentarán en la gran final del Torneo La Leyenda Azul 2026 del Consejo Mundial de Lucha Libre.",
-    "telegraph_url": "https://telegra.ph/Hechicero-y-Bárbaro-Cavernario-disputarán-la-Leyenda-Azul-11-26",
-    "url": "https://enelensayomedia.com/notas/hechicero-y-barbaro-cavernario-disputaran-la-leyenda-azul-1126.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/hechicero-y-barbaro-cavernario-disputaran-la-leyenda-azul-1126.jpg",
-    "fecha": "2026-11-26T10:24:35.112915",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Luchas"
   },
   {
     "opinion": false,
