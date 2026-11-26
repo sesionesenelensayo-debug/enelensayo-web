@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "El CEIP San Agustín canta 'Nuestra voz será vuestro silencio' este 25 de noviembre",
+    "artista": "“Nuestra voz será vuestro silencio”, una canción que invita desde el CEIP San Agustín a plantar árboles en recuerdo de las víctimas de violencia de género",
+    "intro": "El CEIP San Agustín en Écija celebra este 25 de noviembre con la interpretación de 'Nuestra voz será vuestro silencio'…",
+    "telegraph_url": "https://telegra.ph/El-CEIP-San-Agustín-canta-Nuestra-voz-será-vuestro-silencio-este-25-de-noviembre-11-26",
+    "url": "https://enelensayomedia.com/notas/el-ceip-san-agustin-canta-nuestra-voz-sera-vuestro-silencio-este-25-de-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-ceip-san-agustin-canta-nuestra-voz-sera-vuestro-silencio-este-25-de-1125.jpg",
+    "fecha": "2026-11-25T18:02:01.730448",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Lucía Celasco y Nicolás Figal se separan tras discusiones constantes",
     "artista": "Lucía Celasco",
     "intro": "Lucía Celasco y Nicolás Figal anunciaron su separación a mediados de octubre de 2026, tras aproximadamente un año de relación.",
@@ -5807,19 +5821,5 @@
     "fecha_original": "2026-11-13T19:12:31.056722",
     "actualizada": true,
     "ultima_actualizacion": "2026-11-16T09:26:33.247572"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "TenZ regresa a T1 para reforzar su escuadrón de VALORANT en 2027",
-    "artista": "T1 se hace de dos reyes",
-    "intro": "El exjugador de Sentinels firma con T1 y debutará en el Pacific Kickoff, reforzando la alineación que busca consolidarse en la escena internacional.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/tenz-regresa-a-t1-para-reforzar-su-escuadron-de-valorant-en-2027-1114.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/tenz-regresa-a-t1-para-reforzar-su-escuadron-de-valorant-en-2027-1114.jpg",
-    "fecha": "2026-11-14T10:19:31.464748",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Esports"
   }
 ]
