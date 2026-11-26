@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Jamie Lee Curtis y Mel Gibson: la confesión que despertó rumores en 1992",
+    "artista": "Jamie Lee Curtis",
+    "intro": "La actriz reveló su admiración por el compañero de papel en 'Eternamente joven', generando conversaciones sobre su química fuera de cámara.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/jamie-lee-curtis-y-mel-gibson-la-confesion-que-desperto-rumores-en-199-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/jamie-lee-curtis-y-mel-gibson-la-confesion-que-desperto-rumores-en-199-1126.jpg",
+    "fecha": "2026-11-26T09:32:18.014276",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme internacional"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Multiforo Alicia ofrece esta noche Nosferatu con Ensamble Orlok y cierra la semana con sonidos de la tierra",
     "artista": "Multiforo Cultural Alicia",
     "intro": "El Multiforo Cultural Alicia presenta esta noche una proyección de Nosferatu (1922) acompañada del Ensamble Orlok, Maquiladora All Stars, Mauricio Delgadillo y Jen Totk a las 19:15 horas.",
@@ -5802,19 +5816,5 @@
     "categoria": "Reality",
     "fecha_original": "2026-11-07T17:52:25.331869",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Figueroa revela confesión familiar y ataca a Ninel Conde en video de Telemundo",
-    "artista": "José Manuel Figueroa",
-    "intro": "José Manuel Figueroa apareció en un video de Telemundo del 13 de noviembre de 2026 donde abordó su orden de restricción contra Ninel Conde…",
-    "telegraph_url": "https://telegra.ph/Figueroa-revela-confesión-familiar-y-ataca-a-Ninel-Conde-en-video-de-Telemundo-11-14",
-    "url": "https://enelensayomedia.com/notas/figueroa-revela-confesion-familiar-y-ataca-a-ninel-conde-en-video-de-t-1114.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/figueroa-revela-confesion-familiar-y-ataca-a-ninel-conde-en-video-de-t-1114.jpg",
-    "fecha": "2026-11-14T12:16:43.483477",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   }
 ]
