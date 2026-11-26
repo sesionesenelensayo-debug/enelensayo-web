@@ -2,6 +2,21 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Los mayores éxitos de Duran Duran en Billboard",
+    "artista": "Duran Duran",
+    "intro": "Un ranking oficial publicado en noviembre de 2026 recopila los 15 mayores éxitos de Duran Duran en la lista Hot 100 de Billboard.",
+    "telegraph_url": "https://telegra.ph/Los-mayores-éxitos-de-Duran-Duran-en-Billboard-11-26",
+    "url": "https://enelensayomedia.com/notas/los-mayores-exitos-de-duran-duran-en-billboard-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/los-mayores-exitos-de-duran-duran-en-billboard-1126.jpg",
+    "fecha": "2026-11-26T12:04:54.823054",
+    "author": "Oliver Ken",
+    "views": 0,
+    "nota_dia": true,
+    "categoria": "Internacional"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Julio César Chávez niega que Natanael Cano esté en sus clínicas de rehabilitación",
     "artista": "Julio César Chávez",
     "intro": "El ex boxeador Julio César Chávez negó este miércoles que Natanael Cano esté internado en alguna de sus clínicas de rehabilitación, desmintiendo rumores que se habían viralizado en redes.",
@@ -5790,19 +5805,5 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-10-31T15:39:06.830295",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Mono Osuna usa La Traición y la manda a Bebeshita, queda en placa",
-    "artista": "Mono Osuna",
-    "intro": "El pasado 9 de noviembre, durante la semana 9 de La Granja VIP 2026, Mono Osuna activó La Traición para intercambiar a Bebeshita por Julio Camejo.",
-    "telegraph_url": "https://telegra.ph/Mono-Osuna-usa-La-Traición-y-la-manda-a-Bebeshita-queda-en-placa-11-14",
-    "url": "https://enelensayomedia.com/notas/mono-osuna-usa-la-traicion-y-la-manda-a-bebeshita-queda-en-placa-1114.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/mono-osuna-usa-la-traicion-y-la-manda-a-bebeshita-queda-en-placa-1114.jpg",
-    "fecha": "2026-11-14T17:24:18.331759",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reality"
   }
 ]
