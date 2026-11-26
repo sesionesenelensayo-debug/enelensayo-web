@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Influencer paga 200 pesos por torta de huevo y desata polémica en redes",
+    "artista": "Influencer desconocido",
+    "intro": "El influencer Saúl Becerril subió un video a TikTok en el que señaló que una torta de huevo en Maggie's, en Roma Norte, costó 200 pesos.",
+    "telegraph_url": "https://telegra.ph/Influencer-paga-200-pesos-por-torta-de-huevo-y-desata-polémica-en-redes-11-26",
+    "url": "https://enelensayomedia.com/notas/influencer-paga-200-pesos-por-torta-de-huevo-y-desata-polemica-en-rede-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/influencer-paga-200-pesos-por-torta-de-huevo-y-desata-polemica-en-rede-1126.jpg",
+    "fecha": "2026-11-26T11:50:00.091843",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Live Streaming"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "LaConve - Animex anuncia la FanParty 2026 en Cintermex",
     "artista": "LaConve - Animex",
     "intro": "LaConve - Animex anunció la realización de la FanParty 2026, un evento enfocado en celebrar el mundo del doblaje que se llevará a cabo los días 19 y 20 de diciembre de 2026.",
@@ -5791,19 +5805,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Luchas"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Kim Basinger y Michael Keaton: la conexión tras 'Batman' (1989)",
-    "artista": "Michael Keaton y Kim Basinger",
-    "intro": "La íntima relación entre las estrellas de 'Batman' trasciende la colaboración profesional en la cinta de Tim Burton.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/kim-basinger-y-michael-keaton-la-conexion-tras-batman-1989-1114.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/kim-basinger-y-michael-keaton-la-conexion-tras-batman-1989-1114.jpg",
-    "fecha": "2026-11-14T16:23:21.278637",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme internacional"
   }
 ]
