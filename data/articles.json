@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "G2 Esports cierra con SkewMond y apunta a Lyncas para 2027",
+    "artista": "G2 Esports y SkewMond (LEC offseason)",
+    "intro": "G2 Esports anuncia la salida de SkewMond y la incorporación de Lyncas como jungla para la LEC 2027.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/g2-esports-cierra-con-skewmond-y-apunta-a-lyncas-para-2027-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/g2-esports-cierra-con-skewmond-y-apunta-a-lyncas-para-2027-1126.jpg",
+    "fecha": "2026-11-26T10:16:25.244450",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Itatí López y Anahí Ríos enfrentan polémica en La Mansión VIP 2",
     "artista": "Itatí López",
     "intro": "Itatí López, influencer y empresaria de 26 años, generó polémica en La Mansión VIP 2 al protagonizar una discusión con Anahí Ríos, hija de El Komander.",
@@ -11,7 +25,7 @@
     "fecha": "2026-11-26T10:15:32.304103",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Live Streaming"
+    "categoria": "Streaming"
   },
   {
     "opinion": false,
@@ -5799,19 +5813,5 @@
     "categoria": "Streaming",
     "fecha_original": "2026-11-09T10:33:47.114523",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "CMLL y NJPW confirman plantel para FantasticaMania 2027",
-    "artista": "CMLL y NJPW",
-    "intro": "El Consejo Mundial de Lucha Libre y New Japan Pro Wrestling confirman de manera oficial el contingente mexicano que participará en la gira FantasticaMania 2027…",
-    "telegraph_url": "https://telegra.ph/CMLL-y-NJPW-confirman-plantel-para-FantasticaMania-2027-11-14",
-    "url": "https://enelensayomedia.com/notas/cmll-y-njpw-confirman-plantel-para-fantasticamania-2027-1114.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/cmll-y-njpw-confirman-plantel-para-fantasticamania-2027-1114.jpg",
-    "fecha": "2026-11-14T13:23:50.495516",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Luchas"
   }
 ]
