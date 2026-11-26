@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Manelyk pone a prueba a Yann Lobo y le lanza fuerte reclamo en La Granja VIP",
+    "artista": "Manelyk y Yann Lobo",
+    "intro": "El jueves 25 de noviembre de 2026, durante la Asamblea de La Granja VIP, Manelyk definió la Tabla de Nominados con el poder del Huevo Dorado.",
+    "telegraph_url": "https://telegra.ph/Manelyk-pone-a-prueba-a-Yann-Lobo-y-le-lanza-fuerte-reclamo-en-La-Granja-VIP-11-26",
+    "url": "https://enelensayomedia.com/notas/manelyk-pone-a-prueba-a-yann-lobo-y-le-lanza-fuerte-reclamo-en-la-gran-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/manelyk-pone-a-prueba-a-yann-lobo-y-le-lanza-fuerte-reclamo-en-la-gran-1126.jpg",
+    "fecha": "2026-11-26T15:11:12.961622",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reality"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "La Noche Dorada 2: Zein promete boxeo en vivo y gratis desde Lima",
     "artista": "Zein",
     "intro": "El próximo sábado 28 de noviembre, Zein presenta 'La Noche Dorada 2', un evento de boxeo entre creadores de contenido en el Coliseo Eduardo Dibós de Lima. El show comenzará a las 3:00 p.m.",
@@ -5791,19 +5805,5 @@
     "categoria": "Cine",
     "fecha_original": "2026-11-01T15:35:52.933913",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Wanda Maximoff regresa al UCM y aparecerá en 'Avengers: Doomsday'",
-    "artista": "Wanda Maximoff",
-    "intro": "El episodio final de la serie VisionQuest, titulado \"Forever\", se estrenó en Disney+ el 10 de noviembre de 2026 y, mediante dos escenas postcréditos…",
-    "telegraph_url": "https://telegra.ph/Wanda-Maximoff-regresa-al-UCM-y-aparecerá-en-Avengers-Doomsday-11-15",
-    "url": "https://enelensayomedia.com/notas/wanda-maximoff-regresa-al-ucm-y-aparecera-en-avengers-doomsday-1114.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/wanda-maximoff-regresa-al-ucm-y-aparecera-en-avengers-doomsday-1114.jpg",
-    "fecha": "2026-11-14T18:50:28.104644",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU"
   }
 ]
