@@ -7,6 +7,7 @@
 <url><loc>https://enelensayomedia.com/como-trabajamos.html</loc><changefreq>monthly</changefreq><priority>0.4</priority></url>
 <url><loc>https://enelensayomedia.com/correcciones.html</loc><changefreq>weekly</changefreq><priority>0.3</priority></url>
 <url><loc>https://enelensayomedia.com/privacy.html</loc><changefreq>yearly</changefreq><priority>0.2</priority></url>
+<url><loc>https://enelensayomedia.com/notas/soda-stereo-revive-en-palacio-de-los-deportes-con-ecos-y-tecnologia-3d-1126.html</loc><lastmod>2026-11-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://enelensayomedia.com/notas/la-quinta-del-sordo-la-casa-donde-goya-vivio-antes-del-exilio-y-cosech-1126.html</loc><lastmod>2026-11-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://enelensayomedia.com/notas/un-marinero-muere-tras-hundimiento-del-buque-med-emre-cerca-de-ibiza-1126.html</loc><lastmod>2026-11-26</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://enelensayomedia.com/notas/boruto-aterriza-en-netflix-con-doblaje-al-castellano-1125.html</loc><lastmod>2026-11-25</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
@@ -406,7 +407,6 @@
 <url><loc>https://enelensayomedia.com/notas/hbo-max-elige-a-paapa-essiedu-como-snape-cambia-la-esencia-del-persona-1113.html</loc><lastmod>2026-11-14</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://enelensayomedia.com/notas/la-mansion-vip-2-de-hotspanish-fe-y-detalles-1107.html</loc><lastmod>2026-11-14</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://enelensayomedia.com/notas/figueroa-revela-confesion-familiar-y-ataca-a-ninel-conde-en-video-de-t-1114.html</loc><lastmod>2026-11-14</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
-<url><loc>https://enelensayomedia.com/notas/tame-impala-anuncia-posible-fecha-en-monterrey-para-2027-1112.html</loc><lastmod>2026-11-14</lastmod><changefreq>weekly</changefreq><priority>0.8</priority></url>
 <url><loc>https://enelensayomedia.com/notas/2pac-shakur-se-pensaba-accidente-era-asesinato-1031.html</loc><lastmod>2026-10-31</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/4-de-octubre-de-2009-5-15-am-se-apago-la-negra-1029.html</loc><lastmod>2026-10-29</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/5-curiosidades-de-alejandro-sanz-1029.html</loc><lastmod>2026-10-29</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -1246,7 +1246,6 @@
 <url><loc>https://enelensayomedia.com/notas/sigourney-weaver-revela-su-vinculo-con-dian-fossey-y-el-legado-de-gori-1107.html</loc><lastmod>2026-11-07</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/sinead-o-connor-el-grito-de-la-mujer-que-desafio-al-vaticano-1029.html</loc><lastmod>2026-10-29</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/soberano-jr-y-bandido-chocan-de-nuevo-en-la-arena-mexico-1106.html</loc><lastmod>2026-11-06</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
-<url><loc>https://enelensayomedia.com/notas/soda-stereo-revive-en-palacio-de-los-deportes-con-ecos-y-tecnologia-3d-1126.html</loc><lastmod>2026-11-26</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/sofi-tukker-anuncia-nueva-gira-en-mexico-y-ee-uu-para-2027-1031.html</loc><lastmod>2026-10-31</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/solary-se-corona-en-la-eva-pro-league-y-el-eva-summit-muestra-la-nueva-1030.html</loc><lastmod>2026-10-30</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/solo-leveling-arise-overdrive-confirma-su-estreno-en-ps5-y-xbox-series-1030.html</loc><lastmod>2026-10-30</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
@@ -1272,6 +1271,7 @@
 <url><loc>https://enelensayomedia.com/notas/sylvester-stallone-recuerda-su-vieja-rivalidad-con-arnold-schwarzenegg-1106.html</loc><lastmod>2026-11-06</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/t1-anuncia-la-salida-de-meteor-munchkin-y-dh-tras-su-mejor-temporada-h-1102.html</loc><lastmod>2026-11-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/t1-y-movistar-koi-chocan-en-worlds-2026-1029.html</loc><lastmod>2026-10-29</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
+<url><loc>https://enelensayomedia.com/notas/tame-impala-anuncia-posible-fecha-en-monterrey-para-2027-1112.html</loc><lastmod>2026-11-12</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/taylor-swift-5-datos-y-el-debut-de-begin-again-1030.html</loc><lastmod>2026-10-30</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/taylor-swift-prepara-su-regreso-al-genero-country-1102.html</loc><lastmod>2026-11-02</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
 <url><loc>https://enelensayomedia.com/notas/teamfight-tactics-superbrawl-emea-formato-inscripcion-y-camino-a-los-t-1031.html</loc><lastmod>2026-10-31</lastmod><changefreq>monthly</changefreq><priority>0.6</priority></url>
