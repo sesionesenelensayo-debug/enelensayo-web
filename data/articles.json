@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Avengers: Doomsday revela elenco de doblaje latino con voces veteranas",
+    "artista": "Avengers: Doomsday, película",
+    "intro": "Avengers: Doomsday perfila su llegada a las salas con un reparto de doblaje latinoamericano integrado por actores de amplia trayectoria, alejándose de la inclusión de figuras de internet.",
+    "telegraph_url": "https://telegra.ph/Avengers-Doomsday-revela-elenco-de-doblaje-latino-con-voces-veteranas-11-26",
+    "url": "https://enelensayomedia.com/notas/avengers-doomsday-revela-elenco-de-doblaje-latino-con-voces-veteranas-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/avengers-doomsday-revela-elenco-de-doblaje-latino-con-voces-veteranas-1126.jpg",
+    "fecha": "2026-11-26T10:11:37.225731",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Regreso de Downey Jr.",
     "artista": "Regreso de Robert Downey Jr. en Avengers: Doomsday",
     "intro": "El 18 de noviembre de 2026, Marvel Studios publicó un video titulado 'The Return', donde Robert Downey Jr. habla sobre su regreso a la franquicia Avengers. Downey Jr.",
@@ -5798,21 +5812,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "opinion": true,
-    "tipo": "reportaje",
-    "titulo": "HBO Max elige a Paapa Essiedu como Snape: ¿Cambia la esencia del personaje?",
-    "artista": "Paapa Essiedu como Snape",
-    "intro": "La controversia por el casting de un actor de color en el icónico Severus Snape divide a la audiencia y pone a prueba la lealtad al canon original.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/hbo-max-elige-a-paapa-essiedu-como-snape-cambia-la-esencia-del-persona-1113.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/hbo-max-elige-a-paapa-essiedu-como-snape-cambia-la-esencia-del-persona-1113.jpg",
-    "fecha": "2026-11-14T12:39:59.833121",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Agenda woke",
-    "fecha_original": "2026-11-13T13:45:40.458852",
-    "actualizada": true
   }
 ]
