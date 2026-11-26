@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Angelina Jolie y Brad Pitt resuelven batalla legal por bodega francesa",
+    "artista": "Brad Pitt",
+    "intro": "Angelina Jolie y Brad Pitt llegaron a un acuerdo extrajudicial para poner fin a su prolongada batalla legal por el control del Château Miraval…",
+    "telegraph_url": "https://telegra.ph/Angelina-Jolie-y-Brad-Pitt-resuelven-batalla-legal-por-bodega-francesa-11-26",
+    "url": "https://enelensayomedia.com/notas/angelina-jolie-y-brad-pitt-resuelven-batalla-legal-por-bodega-francesa-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/angelina-jolie-y-brad-pitt-resuelven-batalla-legal-por-bodega-francesa-1126.jpg",
+    "fecha": "2026-11-26T11:52:49.102823",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Influencer paga 200 pesos por torta de huevo y desata polémica en redes",
     "artista": "Influencer desconocido",
     "intro": "El influencer Saúl Becerril subió un video a TikTok en el que señaló que una torta de huevo en Maggie's, en Roma Norte, costó 200 pesos.",
@@ -5791,19 +5805,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reality"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "John Cena sorprende en SmackDown 13 nov 2026 y anuncia John Cena Classic",
-    "artista": "John Cena",
-    "intro": "John Cena regresó a la WWE en el SmackDown del 13 de noviembre de 2026 en el Amerant Bank Arena de Fort Lauderdale, Florida, donde venció a Charlotte Flair y se enfrentará a Trick Williams.",
-    "telegraph_url": "https://telegra.ph/John-Cena-sorprende-en-SmackDown-13-nov-2026-y-anuncia-John-Cena-Classic-11-14",
-    "url": "https://enelensayomedia.com/notas/john-cena-sorprende-en-smackdown-13-nov-2026-y-anuncia-john-cena-class-1114.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/john-cena-sorprende-en-smackdown-13-nov-2026-y-anuncia-john-cena-class-1114.jpg",
-    "fecha": "2026-11-14T16:50:14.313500",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Luchas"
   }
 ]
