@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "LaConve - Animex anuncia la FanParty 2026 en Cintermex",
+    "artista": "LaConve - Animex",
+    "intro": "LaConve - Animex anunció la realización de la FanParty 2026, un evento enfocado en celebrar el mundo del doblaje que se llevará a cabo los días 19 y 20 de diciembre de 2026.",
+    "telegraph_url": "https://telegra.ph/LaConve---Animex-anuncia-la-FanParty-2026-en-Cintermex-11-26",
+    "url": "https://enelensayomedia.com/notas/laconve-animex-anuncia-la-fanparty-2026-en-cintermex-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/laconve-animex-anuncia-la-fanparty-2026-en-cintermex-1126.jpg",
+    "fecha": "2026-11-26T11:49:22.005922",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Fátima Bosch confirma su relación con Alejandro Canahuati",
     "artista": "Fátima Bosch",
     "intro": "Fátima Bosch, la ex Miss Universo 2025 originaria de Teapa, Tabasco, confirmó públicamente que mantiene una relación sentimental con el empresario hondureño Alejandro Canahuati Farah.",
@@ -5791,20 +5805,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme internacional"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Vincent van Gogh: el mito del disparo en el pecho se cuestiona",
-    "artista": "Vincent van Gogh",
-    "intro": "En el video 'Vincent van Gogh: la verdad sobre el disparo', el canal En el Ensayo Media revisa la historia trágica del artista neerlandés…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/vincent-van-gogh-el-mito-del-disparo-en-el-pecho-se-cuestiona-1114.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/vincent-van-gogh-el-mito-del-disparo-en-el-pecho-se-cuestiona-1114.jpg",
-    "fecha": "2026-11-14T15:59:42.429207",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Pintores"
   }
 ]
