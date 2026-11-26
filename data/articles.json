@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "El Cascanueces celebra 25 años con 240 artistas en el Auditorio Nacional",
+    "artista": "El Cascanueces",
+    "intro": "El Cascanueces marca medio siglo de tradición navideña en el Auditorio Nacional con una temporada especial que reúne a 240 artistas en escena.",
+    "telegraph_url": "https://telegra.ph/El-Cascanueces-celebra-25-años-con-240-artistas-en-el-Auditorio-Nacional-11-26",
+    "url": "https://enelensayomedia.com/notas/el-cascanueces-celebra-25-anos-con-240-artistas-en-el-auditorio-nacion-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-cascanueces-celebra-25-anos-con-240-artistas-en-el-auditorio-nacion-1126.jpg",
+    "fecha": "2026-11-26T10:21:12.381703",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "G2 Esports cierra con SkewMond y apunta a Lyncas para 2027",
     "artista": "G2 Esports y SkewMond (LEC offseason)",
     "intro": "G2 Esports anuncia la salida de SkewMond y la incorporación de Lyncas como jungla para la LEC 2027.",
@@ -5796,22 +5810,6 @@
     "views": 0,
     "categoria": "Cine",
     "fecha_original": "2026-11-09T11:04:09.696643",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "¿Llamará Ibai a Hakimi para la Velada del Año?",
-    "artista": "Ibai Llanos",
-    "intro": "¡Una locura total en el mundo del streaming! Tras viralizarse un video donde se muestra la habilidad de Hakimi en el boxeo previo a su fichaje por el PSG…",
-    "telegraph_url": "https://telegra.ph/Llamará-Ibai-a-Hakimi-para-la-Velada-del-Año-11-09",
-    "url": "https://enelensayomedia.com/notas/llamara-ibai-a-hakimi-para-la-velada-del-ano-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/llamara-ibai-a-hakimi-para-la-velada-del-ano-1109.jpg",
-    "fecha": "2026-11-14T13:30:08.134470",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Streaming",
-    "fecha_original": "2026-11-09T10:33:47.114523",
     "actualizada": true
   }
 ]
