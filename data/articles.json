@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Lara Magalí Rapallo es detenida en Pinamar por maniobras imprudentes en camioneta rosa",
+    "artista": "Lara Magalí Rapallo",
+    "intro": "Lara Magalí Rapallo, streamer e influencer de unos 20 años, fue detenida en Pinamar (Buenos Aires) por realizar maniobras peligrosas con su Dodge RAM 1500 Laramie rosa en los médanos.",
+    "telegraph_url": "https://telegra.ph/Lara-Magalí-Rapallo-es-detenida-en-Pinamar-por-maniobras-imprudentes-en-camioneta-rosa-11-26",
+    "url": "https://enelensayomedia.com/notas/lara-magali-rapallo-es-detenida-en-pinamar-por-maniobras-imprudentes-e-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/lara-magali-rapallo-es-detenida-en-pinamar-por-maniobras-imprudentes-e-1125.jpg",
+    "fecha": "2026-11-25T20:40:44.827752",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Live Streaming"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "El Callejón del Muerto: una leyenda oscura en el corazón de Oaxaca",
     "artista": "el Callejón del Muerto en Zacatecas",
     "intro": "Un cuento de terror colonial que mezcla historia, fe y la sombra de un sereno asesinado en un callejón del centro histórico.",
@@ -5804,19 +5818,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Conciertos"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Nicola Porcella responde a críticas por su cirugía nasal y muestra su nueva apariencia",
-    "artista": "Nicola Porcella",
-    "intro": "El conductor de Hoy volvió a la pantalla a principios de octubre con una nariz reconstruida tras una intervención quirúrgica en Monterrey.",
-    "telegraph_url": "https://telegra.ph/Nicola-Porcella-responde-a-críticas-por-su-cirugía-nasal-y-muestra-su-nueva-apariencia-11-14",
-    "url": "https://enelensayomedia.com/notas/nicola-porcella-responde-a-criticas-por-su-cirugia-nasal-y-muestra-su-1114.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/nicola-porcella-responde-a-criticas-por-su-cirugia-nasal-y-muestra-su-1114.jpg",
-    "fecha": "2026-11-14T10:47:19.347561",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   }
 ]
