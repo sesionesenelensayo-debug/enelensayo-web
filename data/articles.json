@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "La Noche Dorada 2: Zein promete boxeo en vivo y gratis desde Lima",
+    "artista": "Zein",
+    "intro": "El próximo sábado 28 de noviembre, Zein presenta 'La Noche Dorada 2', un evento de boxeo entre creadores de contenido en el Coliseo Eduardo Dibós de Lima. El show comenzará a las 3:00 p.m.",
+    "telegraph_url": "https://telegra.ph/La-Noche-Dorada-2-Zein-promete-boxeo-en-vivo-y-gratis-desde-Lima-11-26",
+    "url": "https://enelensayomedia.com/notas/la-noche-dorada-2-zein-promete-boxeo-en-vivo-y-gratis-desde-lima-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-noche-dorada-2-zein-promete-boxeo-en-vivo-y-gratis-desde-lima-1126.jpg",
+    "fecha": "2026-11-26T15:05:53.699932",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Live Streaming"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Hechicero y Bárbaro Cavernario disputarán la Leyenda Azul",
     "artista": "Hechicero y Bárbaro Cavernario",
     "intro": "Hechicero y Bárbaro Cavernario se enfrentarán en la gran final del Torneo La Leyenda Azul 2026 del Consejo Mundial de Lucha Libre.",
@@ -5791,21 +5805,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Marvel y DCU"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Maestro Shifu en el afterparty de Karol G",
-    "artista": "Maestro Shifu",
-    "intro": "El streamer Adriano Zendejas, conocido como Maestro Shifu, fue visto en el antro Ambia durante el afterparty de Karol G en Monterrey…",
-    "telegraph_url": "https://telegra.ph/Maestro-Shifu-en-el-afterparty-de-Karol-G-11-08",
-    "url": "https://enelensayomedia.com/notas/maestro-shifu-en-el-afterparty-de-karol-g-1108.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/maestro-shifu-en-el-afterparty-de-karol-g-1108.jpg",
-    "fecha": "2026-11-14T18:45:49.012540",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Streaming",
-    "fecha_original": "2026-11-08T10:42:48.850861",
-    "actualizada": true
   }
 ]
