@@ -1306,7 +1306,10 @@
     "fecha": "2026-11-24T12:02:57.029975",
     "author": "Oliver Ken",
     "views": 0,
-    "categoria": "Conciertos"
+    "categoria": "Conciertos",
+    "fecha_original": "2026-11-24T12:02:57.029975",
+    "ultima_actualizacion": "2026-11-26T13:26:04.659361",
+    "actualizada": true
   },
   {
     "opinion": false,
