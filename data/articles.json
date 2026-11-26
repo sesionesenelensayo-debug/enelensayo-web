@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Boruto aterriza en Netflix con doblaje al castellano",
+    "artista": "Boruto",
+    "intro": "Netflix amplió su catálogo con la llegada de 'Boruto: Naruto Next Generations', la secuela de Naruto, con episodios doblados al castellano.",
+    "telegraph_url": "https://telegra.ph/Boruto-aterriza-en-Netflix-con-doblaje-al-castellano-11-26",
+    "url": "https://enelensayomedia.com/notas/boruto-aterriza-en-netflix-con-doblaje-al-castellano-1125.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/boruto-aterriza-en-netflix-con-doblaje-al-castellano-1125.jpg",
+    "fecha": "2026-11-25T21:04:55.578522",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Lara Magalí Rapallo es detenida en Pinamar por maniobras imprudentes en camioneta rosa",
     "artista": "Lara Magalí Rapallo",
     "intro": "Lara Magalí Rapallo, streamer e influencer de unos 20 años, fue detenida en Pinamar (Buenos Aires) por realizar maniobras peligrosas con su Dodge RAM 1500 Laramie rosa en los médanos.",
@@ -5804,19 +5818,5 @@
     "categoria": "Televisión",
     "fecha_original": "2026-11-05T11:15:41.670311",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Multiforo Cultural Alicia publica su cartelera del 14 al 20 de noviembre",
-    "artista": "Multiforo Cultural Alicia",
-    "intro": "El Multiforo Cultural Alicia, el emblemático laboratorio de culturas subterráneas de la Ciudad de México, ha puesto a disposición del público su programación para los próximos siete días.",
-    "telegraph_url": "https://telegra.ph/Multiforo-Cultural-Alicia-publica-su-cartelera-del-14-al-20-de-noviembre-11-14",
-    "url": "https://enelensayomedia.com/notas/multiforo-cultural-alicia-publica-su-cartelera-del-14-al-20-de-noviemb-1114.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/multiforo-cultural-alicia-publica-su-cartelera-del-14-al-20-de-noviemb-1114.jpg",
-    "fecha": "2026-11-14T10:56:09.415511",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
   }
 ]
