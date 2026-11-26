@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26 11:04",
+ "actualizado": "2026-11-26 17:33",
  "campeones": {
   "WWE": [
    {
@@ -159,85 +159,6 @@
     "campeon": "Los Perros del Mal ( Daga , Angel , and Berto )"
    }
   ],
-  "NJPW": [
-   {
-    "titulo": "IWGP Heavyweight Championship",
-    "campeon": "Yota Tsuji",
-    "img": "img/luchas/w-yota-tsuji.jpg",
-    "credito": "Foto: 結牙 · CC BY-SA 4.0 · Wikimedia Commons",
-    "credito_url": "https://commons.wikimedia.org/wiki/File:Yota_Tsuji_20250105_(cropped).jpg"
-   },
-   {
-    "titulo": "IWGP Global Heavyweight Championship",
-    "campeon": "Gabe Kidd",
-    "img": "img/luchas/w-gabe-kidd.jpg",
-    "credito": "Foto: 結牙 · CC BY 4.0 · Wikimedia Commons",
-    "credito_url": "https://commons.wikimedia.org/wiki/File:Gabe_Kidd_with_the_Strong_Openweight_Championship.jpg"
-   },
-   {
-    "titulo": "IWGP Junior Heavyweight Championship",
-    "campeon": "Yoh",
-    "img": "img/luchas/w-yoh.jpg",
-    "credito": "Foto: Monaco njpw · CC BY-SA 4.0 · Wikimedia Commons",
-    "credito_url": "https://commons.wikimedia.org/wiki/File:YOHnjpw.jpg"
-   },
-   {
-    "titulo": "NEVER Openweight Championship",
-    "campeon": "Aaron Wolf"
-   },
-   {
-    "titulo": "Strong Openweight Championship",
-    "campeon": "Boltin Oleg",
-    "img": "img/luchas/w-boltin-oleg.jpg",
-    "credito": "Foto: 結牙 · CC BY 4.0 · Wikimedia Commons",
-    "credito_url": "https://commons.wikimedia.org/wiki/File:%E3%83%9C%E3%83%AB%E3%83%81%E3%83%B3%E3%83%BB%E3%82%AA%E3%83%AC%E3%83%83%E3%82%B020240810.jpg"
-   },
-   {
-    "titulo": "NJPW World Television Championship",
-    "campeon": "Toru Yano",
-    "img": "img/luchas/w-toru-yano.jpg",
-    "credito": "Foto: ゾーヒョー · CC BY-SA 4.0 · Wikimedia Commons",
-    "credito_url": "https://commons.wikimedia.org/wiki/File:Toru_Yano_NEVER_Openweight_6-Man_Tag_Team_Champion.JPG"
-   },
-   {
-    "titulo": "NJPW TAMASHII Openweight Championship",
-    "campeon": "Don Fale"
-   },
-   {
-    "titulo": "IWGP Tag Team Championship",
-    "campeon": "Knock Out Brothers ( Yuto-Ice and Oskar )"
-   },
-   {
-    "titulo": "IWGP Junior Heavyweight Tag Team Championship",
-    "campeon": "Fukuoka, Japan"
-   },
-   {
-    "titulo": "Strong Openweight Tag Team Championship",
-    "campeon": "Unbound Co. ( Taiji Ishimori and Titán )"
-   },
-   {
-    "titulo": "NEVER Openweight 6-Man Tag Team Championship",
-    "campeon": "Unbound Co. ( Yuto-Ice , Oskar , and Jeff Cobb )"
-   },
-   {
-    "titulo": "NJPW TAMASHII Tag Team Championship",
-    "campeon": "Ungrateful 1s (T.J. Illes and Trent Hooper)"
-   },
-   {
-    "titulo": "IWGP Women's Championship",
-    "campeon": "Syuri",
-    "img": "img/luchas/w-syuri.jpg",
-    "credito": "Foto: J O Y F U L 🐻 V I O L E N C E · CC BY 2.0 · Wikimedia Commons",
-    "credito_url": "https://commons.wikimedia.org/wiki/File:Syuri_in_April_2025_(cropped).jpg"
-   },
-   {
-    "titulo": "Strong Women's Championship",
-    "campeon": "Alex Windsor",
-    "img": "img/luchas/w-alex-windsor.jpg",
-    "credito": "Foto: KMcWrestling Photography · CC BY-SA 4.0 · Wikimedia Commons",
-    "credito_url": "https://commons.wikimedia.org/wiki/File:Alex_Windsor_(cropped).jpg"
-   }
-  ],
   "CMLL": [
    {
     "titulo": "CMLL World Heavyweight Championship",
@@ -372,15 +293,15 @@
  },
  "eventos": [
   {
-   "nombre": "Especial jueves",
+   "nombre": "Especial",
    "promocion": "CMLL",
    "fecha": "2026-11-26",
-   "lugar": "Arena Coliseo",
-   "ciudad": "Ciudad de México",
+   "lugar": "ARENA COLISEO",
+   "ciudad": "CDMX",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://cmll.com/cartelera/",
-   "img": "img/luchas/o-cmll-especial-jueves.jpg",
+   "img": "img/luchas/o-cmll-especial.jpg",
    "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
    "credito_url": "https://cmll.com/cartelera/"
   },
@@ -388,8 +309,8 @@
    "nombre": "Viernes Espectacular",
    "promocion": "CMLL",
    "fecha": "2026-11-27",
-   "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
+   "lugar": "ARENA MÉXICO",
+   "ciudad": "CDMX",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://cmll.com/cartelera/",
@@ -398,11 +319,24 @@
    "credito_url": "https://cmll.com/cartelera/"
   },
   {
+   "nombre": "CD9",
+   "promocion": "Otras",
+   "fecha": "2026-11-27",
+   "lugar": "Arena Monterrey",
+   "ciudad": "Monterrey",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026",
+   "img": "img/luchas/o-otras-cd9.jpg",
+   "credito": "Imagen: Otras · conciertosenmonterrey.com (sitio oficial)",
+   "credito_url": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026"
+  },
+  {
    "nombre": "Sábado",
    "promocion": "CMLL",
    "fecha": "2026-11-28",
-   "lugar": "Arena Coliseo",
-   "ciudad": "Ciudad de México",
+   "lugar": "ARENA COLISEO",
+   "ciudad": "CDMX",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://cmll.com/cartelera/",
@@ -427,8 +361,8 @@
    "nombre": "Domingo Familiar",
    "promocion": "CMLL",
    "fecha": "2026-11-29",
-   "lugar": "Arena México",
-   "ciudad": "Ciudad de México",
+   "lugar": "ARENA MÉXICO",
+   "ciudad": "CDMX",
    "precio": "",
    "campeonatos": [],
    "fuente": "https://cmll.com/cartelera/",
@@ -454,7 +388,7 @@
    "nombre": "Lunes Clásico",
    "promocion": "CMLL",
    "fecha": "2026-11-30",
-   "lugar": "Arena Puebla",
+   "lugar": "ARENA PUEBLA",
    "ciudad": "Puebla",
    "precio": "",
    "campeonatos": [],
@@ -478,6 +412,32 @@
    "credito_url": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026"
   },
   {
+   "nombre": "Martes Populares de Lucha Libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-12-01",
+   "lugar": "Arena México",
+   "ciudad": "CDMX",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-martes-populares-de-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+  },
+  {
+   "nombre": "Martes de Glamour, Lucha libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-12-01",
+   "lugar": "Arena Coliseo de Guadalajara",
+   "ciudad": "Guadalajara",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-martes-de-glamour-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+  },
+  {
    "nombre": "AEW Dynamite: Laredo",
    "promocion": "AEW",
    "fecha": "2026-12-02",
@@ -491,18 +451,57 @@
    "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
   },
   {
+   "nombre": "Lucha Libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-12-03",
+   "lugar": "Arena Coliseo",
+   "ciudad": "CDMX",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+  },
+  {
+   "nombre": "Viernes Espectacular de Lucha Libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-12-04",
+   "lugar": "Arena México",
+   "ciudad": "CDMX",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-viernes-espectacular-de-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+  },
+  {
    "nombre": "ROH: Final Battle",
    "promocion": "ROH",
    "fecha": "2026-12-04",
    "lugar": "Boeing Center at Tech Port",
    "ciudad": "San Antonio, TX",
-   "precio": "desde $109",
+   "precio": "desde $121",
    "campeonatos": [],
    "fuente": "https://www.allelitewrestling.com/aew-events?lang=es",
    "precio_fuente": "https://san-antonio.events/sports/ring-of-honor-final-battle/",
    "img": "img/luchas/o-roh-roh-final-battle.jpg",
    "credito": "Imagen: ROH · allelitewrestling.com (sitio oficial)",
    "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
+  },
+  {
+   "nombre": "Sábados de lucha libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-12-05",
+   "lugar": "Arena Coliseo",
+   "ciudad": "CDMX",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-sabados-de-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
   },
   {
    "nombre": "AEW Collision: San Antonio",
@@ -518,7 +517,59 @@
    "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
   },
   {
-   "nombre": "AEW Dynamite & Collision en Monterrey 2026",
+   "nombre": "Domingo Familiar de Lucha Libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-12-06",
+   "lugar": "Arena México",
+   "ciudad": "CDMX",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-domingo-familiar-de-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+  },
+  {
+   "nombre": "Lucha Libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-12-07",
+   "lugar": "Arena Puebla",
+   "ciudad": "Puebla",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+  },
+  {
+   "nombre": "Martes Populares de Lucha Libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-12-08",
+   "lugar": "Arena México",
+   "ciudad": "CDMX",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-martes-populares-de-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+  },
+  {
+   "nombre": "Martes de Glamour, Lucha libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-12-08",
+   "lugar": "Arena Coliseo de Guadalajara",
+   "ciudad": "Guadalajara",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-martes-de-glamour-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+  },
+  {
+   "nombre": "AEW Dynamite & Collision",
    "promocion": "AEW",
    "fecha": "2026-12-09",
    "lugar": "Arena Monterrey",
@@ -526,23 +577,35 @@
    "precio": "Desde $502 pesos",
    "campeonatos": [],
    "fuente": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026",
-   "img": "img/luchas/o-aew-aew-dynamite-collision-en-monterrey-2026.jpg",
+   "img": "img/luchas/o-aew-aew-dynamite-collision.jpg",
    "credito": "Imagen: AEW · conciertosenmonterrey.com (sitio oficial)",
    "credito_url": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026"
   },
   {
-   "nombre": "AEW Dynamite/Collision: Winter Is Coming",
-   "promocion": "AEW",
-   "fecha": "2026-12-09",
-   "lugar": "Arena",
-   "ciudad": "Monterrey, MX",
-   "precio": "desde $502",
+   "nombre": "Lucha Libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-12-10",
+   "lugar": "Arena Coliseo",
+   "ciudad": "CDMX",
+   "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.allelitewrestling.com/aew-events?lang=es",
-   "precio_fuente": "https://mvsnoticias.com/nuevo-leon/2026/11/10/aew-winter-is-coming-en-monterrey-fecha-horarios-y-precios-de-los-boletos-en-la-arena-monterrey-752987.html",
-   "img": "img/luchas/o-aew-aew-dynamite-collision-winter-is-coming.jpg",
-   "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
-   "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+  },
+  {
+   "nombre": "Viernes Espectacular de Lucha Libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-12-11",
+   "lugar": "Arena México",
+   "ciudad": "CDMX",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-viernes-espectacular-de-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
   },
   {
    "nombre": "Wrestlepalooza Perth",
@@ -550,10 +613,35 @@
    "fecha": "2026-12-12",
    "lugar": "RAC Arena",
    "ciudad": "Perth, WA, US",
-   "precio": "desde $170",
+   "precio": "",
    "campeonatos": [],
-   "fuente": "https://www.wweschedule.com/wwe-ple-schedule",
-   "precio_fuente": "https://www.thepricer.org/how-much-does-wrestlepalooza-cost/"
+   "fuente": "https://www.wweschedule.com/wwe-ple-schedule"
+  },
+  {
+   "nombre": "Sábados de lucha libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-12-12",
+   "lugar": "Arena Coliseo",
+   "ciudad": "CDMX",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-sabados-de-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+  },
+  {
+   "nombre": "Domingo Familiar de Lucha Libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-12-13",
+   "lugar": "Arena México",
+   "ciudad": "CDMX",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-domingo-familiar-de-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
   },
   {
    "nombre": "John Cena Classic",
@@ -566,6 +654,19 @@
    "fuente": "https://www.wweschedule.com/wwe-ple-schedule"
   },
   {
+   "nombre": "Lucha Libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-12-14",
+   "lugar": "Arena Puebla",
+   "ciudad": "Puebla",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
+  },
+  {
    "nombre": "Worlds Collide: Doomsday",
    "promocion": "WWE",
    "fecha": "2026-12-15",
@@ -574,6 +675,19 @@
    "precio": "",
    "campeonatos": [],
    "fuente": "https://www.wweschedule.com/wwe-ple-schedule"
+  },
+  {
+   "nombre": "Martes Populares de Lucha Libre CMLL",
+   "promocion": "CMLL",
+   "fecha": "2026-12-15",
+   "lugar": "Arena México",
+   "ciudad": "CDMX",
+   "precio": "",
+   "campeonatos": [],
+   "fuente": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538",
+   "img": "img/luchas/o-cmll-martes-populares-de-lucha-libre-cmll.jpg",
+   "credito": "Imagen: CMLL · ticketmaster.com.mx (sitio oficial)",
+   "credito_url": "https://www.ticketmaster.com.mx/lucha-libre-cmll-boletos/artist/1156538"
   },
   {
    "nombre": "AEW Dynamite/Collision: Oklahoma City",
@@ -651,30 +765,15 @@
    "credito_url": "https://www.allelitewrestling.com/aew-events?lang=es"
   },
   {
-   "nombre": "Wrestle Kingdom 21",
-   "promocion": "New Japan Pro-Wrestl",
+   "nombre": "WRESTLE KINGDOM 21",
+   "promocion": "NJPW",
    "fecha": "2027-01-04",
    "lugar": "Tokyo Dome",
    "ciudad": "Tokyo",
-   "precio": "",
-   "campeonatos": [
-    "IWGP Junior Heavyweight Tag Team Championship",
-    "IWGP Junior Heavyweight Championship",
-    "CMLL World Heavyweight Championship",
-    "IWGP Global Heavyweight Championship"
-   ],
-   "fuente": "https://en.wikipedia.org/wiki/Wrestle_Kingdom_21"
-  },
-  {
-   "nombre": "WRESTLE KINGDOM 21 in TOKYO DOME",
-   "promocion": "NJPW",
-   "fecha": "2027-01-04",
-   "lugar": "TOKYO DOME",
-   "ciudad": "Tokyo",
-   "precio": "",
+   "precio": "Royal Seat Front row SOLD OUT ADVANCE ¥230,000",
    "campeonatos": [],
    "fuente": "https://wrestlekingdom.njpw.co.jp/en/",
-   "img": "img/luchas/o-njpw-wrestle-kingdom-21-in-tokyo-dome.jpg",
+   "img": "img/luchas/o-njpw-wrestle-kingdom-21.jpg",
    "credito": "Imagen: NJPW · wrestlekingdom.njpw.co.jp (sitio oficial)",
    "credito_url": "https://wrestlekingdom.njpw.co.jp/en/"
   },
