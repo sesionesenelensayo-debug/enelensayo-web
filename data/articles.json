@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Reestreno de 'Spider-Man: Brand New Day' llegará a cines con nuevas escenas y sorpresas",
+    "artista": "Spider-Man: Brand New Day",
+    "intro": "Sony Pictures y Marvel Studios anunciaron que el 3 de diciembre en México y el 4 de diciembre en EE. UU.",
+    "telegraph_url": "https://telegra.ph/Reestreno-de-Spider-Man-Brand-New-Day-llegará-a-cines-con-nuevas-escenas-y-sorpresas-11-26",
+    "url": "https://enelensayomedia.com/notas/reestreno-de-spider-man-brand-new-day-llegara-a-cines-con-nuevas-escen-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/reestreno-de-spider-man-brand-new-day-llegara-a-cines-con-nuevas-escen-1126.jpg",
+    "fecha": "2026-11-26T17:26:36.952967",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Juliette Binoche y Ralph Fiennes: tres décadas después de 'Cumbres borrascosas'",
     "artista": "Juliette Binoche",
     "intro": "La actriz francesa recuerda su rodaje con Fiennes y su próxima colaboración en 'El regreso de Ulises'.",
@@ -5790,19 +5804,5 @@
     "categoria": "Chisme",
     "fecha_original": "2026-11-09T09:44:05.896515",
     "actualizada": true
-  },
-  {
-    "opinion": true,
-    "tipo": "noticia",
-    "titulo": "Superman: Man of Tomorrow en crisis: Skydance considera streaming para ahorrar costos",
-    "artista": "Superman: Man of Tomorrow",
-    "intro": "Un rumor persistente en el corazón del DCU sacude a los fans más leales. Según insiders y reportes no confirmados, Skydance podría forzar el estreno directo en streaming de 'Superman…",
-    "telegraph_url": "https://telegra.ph/Superman-Man-of-Tomorrow-en-crisis-Skydance-considera-streaming-para-ahorrar-costos-11-15",
-    "url": "https://enelensayomedia.com/notas/superman-man-of-tomorrow-en-crisis-skydance-considera-streaming-para-a-1114.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/superman-man-of-tomorrow-en-crisis-skydance-considera-streaming-para-a-1114.jpg",
-    "fecha": "2026-11-14T20:54:57.365278",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU"
   }
 ]
