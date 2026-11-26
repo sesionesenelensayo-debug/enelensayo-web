@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Fátima Bosch confirma su relación con Alejandro Canahuati",
+    "artista": "Fátima Bosch",
+    "intro": "Fátima Bosch, la ex Miss Universo 2025 originaria de Teapa, Tabasco, confirmó públicamente que mantiene una relación sentimental con el empresario hondureño Alejandro Canahuati Farah.",
+    "telegraph_url": "https://telegra.ph/Fátima-Bosch-confirma-su-relación-con-Alejandro-Canahuati-11-26",
+    "url": "https://enelensayomedia.com/notas/fatima-bosch-confirma-su-relacion-con-alejandro-canahuati-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fatima-bosch-confirma-su-relacion-con-alejandro-canahuati-1126.jpg",
+    "fecha": "2026-11-26T11:20:34.414611",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "William Levy y Kailey debutan juntos en la premiere de 'Bajo un fuego'",
     "artista": "William Levy",
     "intro": "William Levy y su hija Kailey Alexandra, de 16 años, debutaron como actores en la película 'Bajo un fuego', secuela de 'Bajo un volcán'.",
@@ -5792,22 +5806,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Pintores"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Incidente con Paola Suárez en La Mansión VIP 2",
-    "artista": "La Mansión VIP",
-    "intro": "El viernes 13 de noviembre de 2026, durante la primera fiesta de la segunda temporada de La Mansión VIP, Paola Suárez mostró signos de ebriedad y elevó el tono contra varios compañeros.",
-    "telegraph_url": "https://telegra.ph/Incidente-con-Paola-Suárez-en-La-Mansión-VIP-2-11-14",
-    "url": "https://enelensayomedia.com/notas/incidente-con-paola-suarez-en-la-mansion-vip-2-1114.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/incidente-con-paola-suarez-en-la-mansion-vip-2-1114.jpg",
-    "fecha": "2026-11-14T15:49:12.662516",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reality",
-    "fecha_original": "2026-11-14T15:49:12.662516",
-    "ultima_actualizacion": "2026-11-16T15:41:46.707904",
-    "actualizada": true
   }
 ]
