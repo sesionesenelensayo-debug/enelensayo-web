@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Juliette Binoche y Ralph Fiennes: tres décadas después de 'Cumbres borrascosas'",
+    "artista": "Juliette Binoche",
+    "intro": "La actriz francesa recuerda su rodaje con Fiennes y su próxima colaboración en 'El regreso de Ulises'.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/juliette-binoche-y-ralph-fiennes-tres-decadas-despues-de-cumbres-borra-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/juliette-binoche-y-ralph-fiennes-tres-decadas-despues-de-cumbres-borra-1126.jpg",
+    "fecha": "2026-11-26T16:36:00.204882",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme internacional"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Crunchyroll confirma redoblaje en español latino del episodio 2 de 'Dragon Ball Super: Beerus'",
     "artista": "Dragon Ball Super: Beerus",
     "intro": "El episodio 2 de 'Dragon Ball Super: Beerus' se estrenó en Crunchyroll con un redoblaje parcial al español latino…",
@@ -5790,19 +5804,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Marvel y DCU"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "El Callejón del Beso: la leyenda de amor y tragedia en el corazón de Guanajuato",
-    "artista": "el Callejón del Beso y otras leyendas de Guanajuato",
-    "intro": "Un pasaje estrecho, una historia de amor prohibido y una tradición que atrae a visitantes en busca de suerte en el amor.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-callejon-del-beso-la-leyenda-de-amor-y-tragedia-en-el-corazon-de-gu-1114.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-callejon-del-beso-la-leyenda-de-amor-y-tragedia-en-el-corazon-de-gu-1114.jpg",
-    "fecha": "2026-11-14T20:19:06.587113",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror"
   }
 ]
