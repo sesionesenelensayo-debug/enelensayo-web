@@ -2,6 +2,23 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Sony anuncia juegos de diciembre para PlayStation Plus",
+    "artista": "Tony Hawk",
+    "intro": "El 25 de noviembre de 2026, Sony Interactive Entertainment anunció a través de PlayStation Blog los juegos mensuales de PlayStation Plus para diciembre.",
+    "telegraph_url": "https://telegra.ph/Sony-anuncia-juegos-de-diciembre-para-PlayStation-Plus-11-27",
+    "url": "https://enelensayomedia.com/notas/sony-anuncia-juegos-de-diciembre-para-playstation-plus-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/sony-anuncia-juegos-de-diciembre-para-playstation-plus-1126.jpg",
+    "fecha": "2026-11-27T07:10:25.541422",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos",
+    "fecha_original": "2026-11-26T21:17:24.195691",
+    "ultima_actualizacion": "2026-11-27T07:10:25.541422",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Fuerza Regida anuncia gira por Centroamérica y Sudamérica 2027",
     "artista": "Fuerza Regida",
     "intro": "Fuerza Regida anunció en noviembre de 2026 la etapa latinoamericana de su gira 'This Is Our Dream Tour', con nueve conciertos entre el 11 y el 3 de marzo de 2027.",
@@ -96,20 +113,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Sony anuncia juegos de diciembre para PlayStation Plus",
-    "artista": "Tony Hawk",
-    "intro": "El 25 de noviembre de 2026, Sony Interactive Entertainment anunció a través de PlayStation Blog los juegos mensuales de PlayStation Plus para diciembre.",
-    "telegraph_url": "https://telegra.ph/Sony-anuncia-juegos-de-diciembre-para-PlayStation-Plus-11-27",
-    "url": "https://enelensayomedia.com/notas/sony-anuncia-juegos-de-diciembre-para-playstation-plus-1126.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/sony-anuncia-juegos-de-diciembre-para-playstation-plus-1126.jpg",
-    "fecha": "2026-11-26T21:17:24.195691",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos"
   },
   {
     "opinion": false,
