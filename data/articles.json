@@ -1,6 +1,23 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Atacan en plena presentación a cantante de Doble Blindaje; recibe 7 disparos",
+    "artista": "Doble Blindaje",
+    "intro": "El madrugada del miércoles 25 de noviembre de 2026, el vocalista del grupo de corridos bélicos Doble Blindaje fue atacado con siete disparos mientras se presentaba en la inauguración de la tienda…",
+    "telegraph_url": "https://telegra.ph/Atacan-en-plena-presentación-a-cantante-de-Doble-Blindaje-recibe-7-disparos-11-27",
+    "url": "https://enelensayomedia.com/notas/atacan-en-plena-presentacion-a-cantante-de-doble-blindaje-recibe-7-dis-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/atacan-en-plena-presentacion-a-cantante-de-doble-blindaje-recibe-7-dis-1126.jpg",
+    "fecha": "2026-11-27T12:59:24.604246",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura",
+    "fecha_original": "2026-11-26T20:17:38.382948",
+    "ultima_actualizacion": "2026-11-27T12:59:24.604246",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Lasso anuncia conciertos en México para junio de 2027",
     "artista": "Lasso",
@@ -470,20 +487,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Marvel y DCU"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Atacan en plena presentación a cantante de Doble Blindaje; recibe 7 disparos",
-    "artista": "Doble Blindaje",
-    "intro": "El madrugada del miércoles 25 de noviembre de 2026, el vocalista del grupo de corridos bélicos Doble Blindaje fue atacado con siete disparos mientras se presentaba en la inauguración de la tienda…",
-    "telegraph_url": "https://telegra.ph/Atacan-en-plena-presentación-a-cantante-de-Doble-Blindaje-recibe-7-disparos-11-27",
-    "url": "https://enelensayomedia.com/notas/atacan-en-plena-presentacion-a-cantante-de-doble-blindaje-recibe-7-dis-1126.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/atacan-en-plena-presentacion-a-cantante-de-doble-blindaje-recibe-7-dis-1126.jpg",
-    "fecha": "2026-11-26T20:17:38.382948",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   },
   {
     "opinion": false,
