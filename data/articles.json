@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Museo Leonora Carrington inaugura exposición 'CREA-ANDO' de Mari Carmen Hernández",
+    "artista": "Leonora Carrington",
+    "intro": "El Museo Leonora Carrington de San Luis Potosí inaugurará la exposición 'CREA-ANDO' de la artista Mari Carmen Hernández el viernes 27 de noviembre de 2026 a las 19:00 horas.",
+    "telegraph_url": "https://telegra.ph/Museo-Leonora-Carrington-inaugura-exposición-CREA-ANDO-de-Mari-Carmen-Hernández-11-27",
+    "url": "https://enelensayomedia.com/notas/museo-leonora-carrington-inaugura-exposicion-crea-ando-de-mari-carmen-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/museo-leonora-carrington-inaugura-exposicion-crea-ando-de-mari-carmen-1126.jpg",
+    "fecha": "2026-11-26T22:01:07.762916",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Reestreno de Spider-Man: Brand New Day incluye escena de Avengers: Doomsday",
     "artista": "Spider-Man: Brand New Day",
     "intro": "El reestreno de Spider-Man: Brand New Day, previsto para el 4 de diciembre en Estados Unidos y Canadá, incluirá una escena eliminada de Avengers: Doomsday, según reportes.",
@@ -5782,21 +5796,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Marvel y DCU"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Resultados y análisis de la Lucha Libre AAA del 7 de noviembre de 2026",
-    "artista": "AAA",
-    "intro": "Se ha difundido información sobre la jornada de Lucha Libre AAA del 7 de noviembre de 2026, destacando la cobertura en vivo del enfrentamiento entre El Fiscal y Abismo Negro Jr.",
-    "telegraph_url": "https://telegra.ph/Resultados-y-análisis-de-la-Lucha-Libre-AAA-del-7-de-noviembre-de-2026-11-09",
-    "url": "https://enelensayomedia.com/notas/resultados-y-analisis-de-la-lucha-libre-aaa-del-7-de-noviembre-de-2026-1109.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/resultados-y-analisis-de-la-lucha-libre-aaa-del-7-de-noviembre-de-2026-1109.jpg",
-    "fecha": "2026-11-15T10:12:19.890512",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Luchas",
-    "fecha_original": "2026-11-09T10:09:44.000667",
-    "actualizada": true
   }
 ]
