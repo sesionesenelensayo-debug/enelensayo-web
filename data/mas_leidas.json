@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27 03:58",
+ "actualizado": "2026-11-27 07:12",
  "general": [
   {
    "titulo": "Omega Hardcore de Guadalajara revela su lucha contra el abandono y la solidaridad en sus filas",
@@ -67,6 +67,11 @@
     "visitas": 5
    },
    {
+    "titulo": "Maná concierto en el Estadio GNP Seguros 2026: boletos y horarios",
+    "url": "https://enelensayomedia.com/notas/mana-concierto-en-el-estadio-gnp-seguros-2026-boletos-y-horarios-1121.html",
+    "visitas": 5
+   },
+   {
     "titulo": "Caifanes dará histórico concierto en Estadio GNP el 11 de julio",
     "url": "https://enelensayomedia.com/notas/caifanes-dara-historico-concierto-en-estadio-gnp-el-11-de-julio-1123.html",
     "visitas": 4
@@ -121,11 +126,6 @@
     "titulo": "Hayden Panettiere encontrada muerta en Nueva York",
     "url": "https://enelensayomedia.com/notas/hayden-panettiere-encontrada-muerta-en-nueva-york-1124.html",
     "visitas": 7
-   },
-   {
-    "titulo": "Músico es baleado tras discusión con su pareja policía en Chorrillos",
-    "url": "https://enelensayomedia.com/notas/musico-es-baleado-tras-discusion-con-su-pareja-policia-en-chorrillos-1122.html",
-    "visitas": 4
    }
   ],
   "streaming": [
@@ -162,13 +162,13 @@
     "visitas": 5
    },
    {
-    "titulo": "Solo Leveling: serie live-action no se estrenaría hasta 2028 en Netflix",
-    "url": "https://enelensayomedia.com/notas/solo-leveling-serie-live-action-no-se-estrenaria-hasta-2028-en-netflix-1122.html",
+    "titulo": "Boruto aterriza en Netflix con doblaje al castellano",
+    "url": "https://enelensayomedia.com/notas/boruto-aterriza-en-netflix-con-doblaje-al-castellano-1125.html",
     "visitas": 5
    },
    {
-    "titulo": "Blue Exorcist vuelve a Netflix con temporada 1 y doblaje original",
-    "url": "https://enelensayomedia.com/notas/blue-exorcist-vuelve-a-netflix-con-temporada-1-y-doblaje-original-1121.html",
+    "titulo": "Solo Leveling: serie live-action no se estrenaría hasta 2028 en Netflix",
+    "url": "https://enelensayomedia.com/notas/solo-leveling-serie-live-action-no-se-estrenaria-hasta-2028-en-netflix-1122.html",
     "visitas": 5
    }
   ],
@@ -228,6 +228,28 @@
     "visitas": 6
    }
   ],
+  "marvel y dcu": [
+   {
+    "titulo": "Rumor: Hayley Atwell dice que el tráiler de ‘Avengers: Doomsday’ saldrá el lunes 23",
+    "url": "https://enelensayomedia.com/notas/rumor-hayley-atwell-dice-que-el-trailer-de-avengers-doomsday-saldra-el-1122.html",
+    "visitas": 6
+   },
+   {
+    "titulo": "Regreso de Downey Jr.",
+    "url": "https://enelensayomedia.com/notas/regreso-de-downey-jr-1126.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "Spider-Man: Brand New Day se reestrena en diciembre con versión extendida",
+    "url": "https://enelensayomedia.com/notas/spider-man-brand-new-day-se-reestrena-en-diciembre-con-version-extendi-1125.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "Hailee Steinfeld confirma su regreso como Kate Bishop en Avengers: Doomsday",
+    "url": "https://enelensayomedia.com/notas/hailee-steinfeld-confirma-su-regreso-como-kate-bishop-en-avengers-doom-1123.html",
+    "visitas": 5
+   }
+  ],
   "videojuegos": [
    {
     "titulo": "Sony anuncia juegos de diciembre para PlayStation Plus",
@@ -245,31 +267,9 @@
     "visitas": 4
    },
    {
-    "titulo": "Team Cherry anuncia el evento Cherry Time! sobre Silksong",
-    "url": "https://enelensayomedia.com/notas/team-cherry-anuncia-el-evento-cherry-time-sobre-silksong-1125.html",
+    "titulo": "Análisis de Pikmin 4 Nintendo Switch 2 Edition",
+    "url": "https://enelensayomedia.com/notas/analisis-de-pikmin-4-nintendo-switch-2-edition-1124.html",
     "visitas": 4
-   }
-  ],
-  "marvel y dcu": [
-   {
-    "titulo": "Regreso de Downey Jr.",
-    "url": "https://enelensayomedia.com/notas/regreso-de-downey-jr-1126.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "Spider-Man: Brand New Day se reestrena en diciembre con versión extendida",
-    "url": "https://enelensayomedia.com/notas/spider-man-brand-new-day-se-reestrena-en-diciembre-con-version-extendi-1125.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "Hailee Steinfeld confirma su regreso como Kate Bishop en Avengers: Doomsday",
-    "url": "https://enelensayomedia.com/notas/hailee-steinfeld-confirma-su-regreso-como-kate-bishop-en-avengers-doom-1123.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "Rumor: Wanda Maximoff podría regresar en 'Avengers: Doomsday' según postcréditos de 'VisionQuest'",
-    "url": "https://enelensayomedia.com/notas/rumor-wanda-maximoff-podria-regresar-en-avengers-doomsday-segun-postcr-1121.html",
-    "visitas": 5
    }
   ],
   "internacional": [
@@ -290,13 +290,6 @@
    {
     "titulo": "Netflix estrena hoy 56 contenidos en guía de Espinof para 25 de noviembre",
     "url": "https://enelensayomedia.com/notas/netflix-estrena-hoy-56-contenidos-en-guia-de-espinof-para-25-de-noviem-1125.html",
-    "visitas": 4
-   }
-  ],
-  "esports": [
-   {
-    "titulo": "Mundial Sub-17 Qatar 2026: 48 selecciones, 104 partidos y el reto de la seguridad",
-    "url": "https://enelensayomedia.com/notas/mundial-sub-17-qatar-2026-48-selecciones-104-partidos-y-el-reto-de-la-1122.html",
     "visitas": 4
    }
   ]
