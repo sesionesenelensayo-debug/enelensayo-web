@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27 07:12",
+ "actualizado": "2026-11-27 10:25",
  "general": [
   {
    "titulo": "Omega Hardcore de Guadalajara revela su lucha contra el abandono y la solidaridad en sus filas",
@@ -17,18 +17,18 @@
    "visitas": 9
   },
   {
-   "titulo": "Cartel del Coachella 2026: edad media, países y quiénes están en el top 100",
-   "url": "https://enelensayomedia.com/notas/cartel-del-coachella-2026-edad-media-paises-y-quienes-estan-en-el-top-1121.html",
-   "visitas": 9
-  },
-  {
-   "titulo": "Estrenos de series y películas en Netflix, Disney+, Prime Video y HBO Max este jueves",
-   "url": "https://enelensayomedia.com/notas/estrenos-de-series-y-peliculas-en-netflix-disney-prime-video-y-hbo-max-1120.html",
-   "visitas": 9
-  },
-  {
    "titulo": "Tina Turner nació el 26 de noviembre de 1939, cumpliría 87 años hoy",
    "url": "https://enelensayomedia.com/notas/tina-turner-nacio-el-26-de-noviembre-de-1939-cumpliria-87-anos-hoy-1126.html",
+   "visitas": 7
+  },
+  {
+   "titulo": "Cinépolis confirma funciones especiales de 'El Grinch' en diciembre",
+   "url": "https://enelensayomedia.com/notas/cinepolis-confirma-funciones-especiales-de-el-grinch-en-diciembre-1124.html",
+   "visitas": 7
+  },
+  {
+   "titulo": "Hayden Panettiere encontrada muerta en Nueva York",
+   "url": "https://enelensayomedia.com/notas/hayden-panettiere-encontrada-muerta-en-nueva-york-1124.html",
    "visitas": 7
   }
  ],
@@ -40,11 +40,6 @@
     "visitas": 13
    },
    {
-    "titulo": "Cartel del Coachella 2026: edad media, países y quiénes están en el top 100",
-    "url": "https://enelensayomedia.com/notas/cartel-del-coachella-2026-edad-media-paises-y-quienes-estan-en-el-top-1121.html",
-    "visitas": 9
-   },
-   {
     "titulo": "Kid Voodoo es el primer chileno en ganar Los40 Music Awards",
     "url": "https://enelensayomedia.com/notas/kid-voodoo-es-el-primer-chileno-en-ganar-los40-music-awards-1123.html",
     "visitas": 5
@@ -53,6 +48,11 @@
     "titulo": "Nicki Nicole estrena el doble sencillo 'Rayo de Sol' y 'Eterna Soledad'",
     "url": "https://enelensayomedia.com/notas/nicki-nicole-estrena-el-doble-sencillo-rayo-de-sol-y-eterna-soledad-1123.html",
     "visitas": 5
+   },
+   {
+    "titulo": "Mateo De Dios revoluciona los corridos tumbados con identidad colombiana",
+    "url": "https://enelensayomedia.com/notas/mateo-de-dios-revoluciona-los-corridos-tumbados-con-identidad-colombia-1127.html",
+    "visitas": 4
    }
   ],
   "conciertos": [
@@ -72,8 +72,8 @@
     "visitas": 5
    },
    {
-    "titulo": "Caifanes dará histórico concierto en Estadio GNP el 11 de julio",
-    "url": "https://enelensayomedia.com/notas/caifanes-dara-historico-concierto-en-estadio-gnp-el-11-de-julio-1123.html",
+    "titulo": "Nacho Vegas presenta 'Vidas semipreciosas' en el Teatro Metropólitan",
+    "url": "https://enelensayomedia.com/notas/nacho-vegas-presenta-vidas-semipreciosas-en-el-teatro-metropolitan-1127.html",
     "visitas": 4
    }
   ],
@@ -99,23 +99,6 @@
     "visitas": 5
    }
   ],
-  "cultura": [
-   {
-    "titulo": "Estrenos de series y películas en Netflix, Disney+, Prime Video y HBO Max este jueves",
-    "url": "https://enelensayomedia.com/notas/estrenos-de-series-y-peliculas-en-netflix-disney-prime-video-y-hbo-max-1120.html",
-    "visitas": 9
-   },
-   {
-    "titulo": "Cinépolis confirma funciones especiales de 'El Grinch' en diciembre",
-    "url": "https://enelensayomedia.com/notas/cinepolis-confirma-funciones-especiales-de-el-grinch-en-diciembre-1124.html",
-    "visitas": 7
-   },
-   {
-    "titulo": "Maite Perroni regresa a las telenovelas",
-    "url": "https://enelensayomedia.com/notas/maite-perroni-regresa-a-las-telenovelas-1124.html",
-    "visitas": 4
-   }
-  ],
   "reportaje": [
    {
     "titulo": "Tina Turner nació el 26 de noviembre de 1939, cumpliría 87 años hoy",
@@ -128,6 +111,18 @@
     "visitas": 7
    }
   ],
+  "cultura": [
+   {
+    "titulo": "Cinépolis confirma funciones especiales de 'El Grinch' en diciembre",
+    "url": "https://enelensayomedia.com/notas/cinepolis-confirma-funciones-especiales-de-el-grinch-en-diciembre-1124.html",
+    "visitas": 7
+   },
+   {
+    "titulo": "Maite Perroni regresa a las telenovelas",
+    "url": "https://enelensayomedia.com/notas/maite-perroni-regresa-a-las-telenovelas-1124.html",
+    "visitas": 4
+   }
+  ],
   "streaming": [
    {
     "titulo": "GTA VI genera $1.8 mil mil millones y desata negocio para creadores",
@@ -135,8 +130,8 @@
     "visitas": 7
    },
    {
-    "titulo": "Plex entrevista a Sánchez y Feijóo en YouTube antes de las elecciones 29N",
-    "url": "https://enelensayomedia.com/notas/plex-entrevista-a-sanchez-y-feijoo-en-youtube-antes-de-las-elecciones-1125.html",
+    "titulo": "Itatí López y Anahí Ríos enfrentan polémica en La Mansión VIP 2",
+    "url": "https://enelensayomedia.com/notas/itati-lopez-y-anahi-rios-enfrentan-polemica-en-la-mansion-vip-2-1126.html",
     "visitas": 5
    },
    {
@@ -145,8 +140,8 @@
     "visitas": 4
    },
    {
-    "titulo": "Itatí López y Anahí Ríos enfrentan polémica en La Mansión VIP 2",
-    "url": "https://enelensayomedia.com/notas/itati-lopez-y-anahi-rios-enfrentan-polemica-en-la-mansion-vip-2-1126.html",
+    "titulo": "CostaKid agrediendo a una mujer en transmisión en vivo en Kick",
+    "url": "https://enelensayomedia.com/notas/costakid-agrediendo-a-una-mujer-en-transmision-en-vivo-en-kick-1123.html",
     "visitas": 4
    }
   ],
@@ -179,6 +174,11 @@
     "visitas": 6
    },
    {
+    "titulo": "Hijo de Eugenio Derbez enfrenta nueva denuncia por violación de menor de 15 años",
+    "url": "https://enelensayomedia.com/notas/hijo-de-eugenio-derbez-enfrenta-nueva-denuncia-por-violacion-de-menor-1127.html",
+    "visitas": 5
+   },
+   {
     "titulo": "Yeferson Cossio y Carolina Gómez confirman su ruptura tras cuatro años",
     "url": "https://enelensayomedia.com/notas/yeferson-cossio-y-carolina-gomez-confirman-su-ruptura-tras-cuatro-anos-1125.html",
     "visitas": 5
@@ -187,11 +187,6 @@
     "titulo": "Mía Rubín confirma ruptura con Tarik Othón por diferencias profesionales",
     "url": "https://enelensayomedia.com/notas/mia-rubin-confirma-ruptura-con-tarik-othon-por-diferencias-profesional-1121.html",
     "visitas": 5
-   },
-   {
-    "titulo": "Silvana Prince publica reflexión tras acusaciones contra Vadhir Derbez",
-    "url": "https://enelensayomedia.com/notas/silvana-prince-publica-reflexion-tras-acusaciones-contra-vadhir-derbez-1125.html",
-    "visitas": 4
    }
   ],
   "televisión": [
@@ -257,13 +252,13 @@
     "visitas": 5
    },
    {
-    "titulo": "Bad Bunny lidera la banda sonora latina de GTA 6 con Cocoteo FM",
-    "url": "https://enelensayomedia.com/notas/bad-bunny-lidera-la-banda-sonora-latina-de-gta-6-con-cocoteo-fm-1120.html",
-    "visitas": 5
-   },
-   {
     "titulo": "ShantyTown llega a Nintendo Switch 2 en 2027 con anuncio en Steam",
     "url": "https://enelensayomedia.com/notas/shantytown-llega-a-nintendo-switch-2-en-2027-con-anuncio-en-steam-1126.html",
+    "visitas": 4
+   },
+   {
+    "titulo": "Team Cherry anuncia el evento Cherry Time! sobre Silksong",
+    "url": "https://enelensayomedia.com/notas/team-cherry-anuncia-el-evento-cherry-time-sobre-silksong-1125.html",
     "visitas": 4
    },
    {
@@ -290,6 +285,13 @@
    {
     "titulo": "Netflix estrena hoy 56 contenidos en guía de Espinof para 25 de noviembre",
     "url": "https://enelensayomedia.com/notas/netflix-estrena-hoy-56-contenidos-en-guia-de-espinof-para-25-de-noviem-1125.html",
+    "visitas": 4
+   }
+  ],
+  "esports": [
+   {
+    "titulo": "Mundial Sub-17 Qatar 2026: 48 selecciones, 104 partidos y el reto de la seguridad",
+    "url": "https://enelensayomedia.com/notas/mundial-sub-17-qatar-2026-48-selecciones-104-partidos-y-el-reto-de-la-1122.html",
     "visitas": 4
    }
   ]
