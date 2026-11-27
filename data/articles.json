@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Julio Camejo cuestiona a Kunno y Gloria Murillo por comentarios en La Granja VIP",
+    "artista": "Julio Camejo",
+    "intro": "Julio Camejo se ha mantenido en el centro de las discusiones en La Granja VIP, donde ha cuestionado a Kunno por sus responsabilidades como capataz y ha recibido críticas de Gloria Murillo…",
+    "telegraph_url": "https://telegra.ph/Julio-Camejo-cuestiona-a-Kunno-y-Gloria-Murillo-por-comentarios-en-La-Granja-VIP-11-27",
+    "url": "https://enelensayomedia.com/notas/julio-camejo-cuestiona-a-kunno-y-gloria-murillo-por-comentarios-en-la-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/julio-camejo-cuestiona-a-kunno-y-gloria-murillo-por-comentarios-en-la-1127.jpg",
+    "fecha": "2026-11-27T09:25:57.673869",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reality"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Mateo De Dios revoluciona los corridos tumbados con identidad colombiana",
     "artista": "Mateo De Dios",
     "intro": "Mateo De Dios está redefiniendo los corridos tumbados al integrar la jerga, el acento y la espontaneidad de la cultura paisa de Medellín.",
@@ -5792,19 +5806,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Conciertos"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "VisionQuest marca récord de reproducciones en Disney+",
-    "artista": "VisionQuest",
-    "intro": "VisionQuest logra el final más visto de una serie de Marvel en Disney+ desde Loki.",
-    "telegraph_url": "https://telegra.ph/VisionQuest-marca-récord-de-reproducciones-en-Disney-11-15",
-    "url": "https://enelensayomedia.com/notas/visionquest-marca-record-de-reproducciones-en-disney-1115.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/visionquest-marca-record-de-reproducciones-en-disney-1115.jpg",
-    "fecha": "2026-11-15T12:44:14.625080",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU"
   }
 ]
