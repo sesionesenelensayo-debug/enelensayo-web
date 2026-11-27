@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Olympia y Astral revalidan títulos en Mr. y Miss CMLL 2026",
+    "artista": "Olympia",
+    "intro": "Durante el mes de noviembre de 2026, el Consejo Mundial de Lucha Libre celebró su tradicional certamen de fisicoconstructivismo en la Arena México…",
+    "telegraph_url": "https://telegra.ph/Olympia-y-Astral-revalidan-títulos-en-Mr-y-Miss-CMLL-2026-11-27",
+    "url": "https://enelensayomedia.com/notas/olympia-y-astral-revalidan-titulos-en-mr-y-miss-cmll-2026-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/olympia-y-astral-revalidan-titulos-en-mr-y-miss-cmll-2026-1127.jpg",
+    "fecha": "2026-11-27T10:08:54.501352",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Rita Piris y 'Tango Vivo SXXI' registran el tango contemporáneo con palabras que importan",
     "artista": "Rita Piris",
     "intro": "Rita Gisela Piris, periodista y productora cultural de Buenos Aires, lleva 'Tango Vivo SXXI' a documentar el tango del siglo XXI.",
@@ -5794,19 +5808,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Robo nocturno en la finca de Chris Hemsworth y Elsa Pataky en Broken Head",
-    "artista": "Chris Hemsworth",
-    "intro": "El miércoles 11 de noviembre de 2026, cuatro hombres encapuchados irrumpieron en la finca de Chris Hemsworth y Elsa Pataky, ubicada en Broken Head, cerca de Byron Bay, Nueva Gales del Sur.",
-    "telegraph_url": "https://telegra.ph/Robo-nocturno-en-la-finca-de-Chris-Hemsworth-y-Elsa-Pataky-en-Broken-Head-11-15",
-    "url": "https://enelensayomedia.com/notas/robo-nocturno-en-la-finca-de-chris-hemsworth-y-elsa-pataky-en-broken-h-1115.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/robo-nocturno-en-la-finca-de-chris-hemsworth-y-elsa-pataky-en-broken-h-1115.jpg",
-    "fecha": "2026-11-15T14:18:28.043300",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reportaje"
   }
 ]
