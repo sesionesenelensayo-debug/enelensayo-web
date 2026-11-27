@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Zeling arremete contra votante del PSOE: \"Tiene discapacidad, pero 100%\"",
+    "artista": "Zeling",
+    "intro": "En una transmisión en vivo, la streamer Alicia González, mejor conocida como Zeling, soltó una frase que se volvió viral en X: \"Tiene discapacidad, pero 100%\" al referirse a un votante del PSOE.",
+    "telegraph_url": "https://telegra.ph/Zeling-arremete-contra-votante-del-PSOE-Tiene-discapacidad-pero-100-11-27",
+    "url": "https://enelensayomedia.com/notas/zeling-arremete-contra-votante-del-psoe-tiene-discapacidad-pero-100-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/zeling-arremete-contra-votante-del-psoe-tiene-discapacidad-pero-100-1127.jpg",
+    "fecha": "2026-11-27T10:27:41.384623",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Live Streaming"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Natalia Lafourcade es nombrada Embajadora de Amigos MAP",
     "artista": "Natalia Lafourcade",
     "intro": "Natalia Lafourcade recibió el nombramiento de Embajadora de Amigos del Museo de Arte Popular (MAP)…",
@@ -5793,20 +5807,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Marvel y DCU"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Robo nocturno en mansión de Chris Hemsworth en Australia",
-    "artista": "Chris Hemsworth",
-    "intro": "En el video publicado por En el Ensayo Media se reporta un intento de robo en la mansión ubicada en las montañas de Broken Head, Australia…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/robo-nocturno-en-mansion-de-chris-hemsworth-en-australia-1115.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/robo-nocturno-en-mansion-de-chris-hemsworth-en-australia-1115.jpg",
-    "fecha": "2026-11-15T15:32:31.810719",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Chisme"
   }
 ]
