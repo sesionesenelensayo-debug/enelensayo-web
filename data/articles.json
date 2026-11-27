@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Estreno de 'Hermanastras' en Netflix con doblaje mexicano confirmado",
+    "artista": "Hermanastras",
+    "intro": "La película animada 'Hermanastras' de Netflix se estrena el 20 de noviembre de 2026, ofreciendo una versión alternativa de 'Cenicienta' desde la perspectiva de sus antagonistas.",
+    "telegraph_url": "https://telegra.ph/Estreno-de-Hermanastras-en-Netflix-con-doblaje-mexicano-confirmado-11-27",
+    "url": "https://enelensayomedia.com/notas/estreno-de-hermanastras-en-netflix-con-doblaje-mexicano-confirmado-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/estreno-de-hermanastras-en-netflix-con-doblaje-mexicano-confirmado-1127.jpg",
+    "fecha": "2026-11-27T17:17:00.493622",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Exatlón México 2026: Rojos arrebatan la Villa 360",
     "artista": "Equipos Azules y Rojos (Exatlón México 2026)",
     "intro": "La noche del jueves 26 de noviembre de 2026, el Equipo Rojo rompió la racha de los Azules al ganar la Villa 360 por un marcador de 7-2, obligándolos a regresar a la Barraca Metálica.",
@@ -5789,19 +5803,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Doblaje"
-  },
-  {
-    "opinion": true,
-    "tipo": "reportaje",
-    "titulo": "Chris Pratt y el declive creativo del DCU: la verdad sobre James Gunn",
-    "artista": "Chris Pratt",
-    "intro": "El anuncio de la salida de James Gunn y Peter Safran de la dirección conjunta de DC Studios deja al descubierto el estrepitoso fracaso de una gestión creativa que jamás estuvo a la altura…",
-    "telegraph_url": "https://telegra.ph/Chris-Pratt-y-el-declive-creativo-del-DCU-la-verdad-sobre-James-Gunn-11-16",
-    "url": "https://enelensayomedia.com/notas/chris-pratt-y-el-declive-creativo-del-dcu-la-verdad-sobre-james-gunn-1116.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/chris-pratt-y-el-declive-creativo-del-dcu-la-verdad-sobre-james-gunn-1116.jpg",
-    "fecha": "2026-11-16T12:27:00.626560",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU"
   }
 ]
