@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Rumor: Marvel Studios desarrollaría una nueva película de Deadpool",
+    "artista": "Deadpool",
+    "intro": "El 26 de noviembre de 2026, reportes no confirmados apuntan a que Marvel Studios inició el desarrollo de una nueva película del personaje.",
+    "telegraph_url": "https://telegra.ph/Rumor-Marvel-Studios-desarrollaría-una-nueva-película-de-Deadpool-11-27",
+    "url": "https://enelensayomedia.com/notas/rumor-marvel-studios-desarrollaria-una-nueva-pelicula-de-deadpool-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/rumor-marvel-studios-desarrollaria-una-nueva-pelicula-de-deadpool-1127.jpg",
+    "fecha": "2026-11-27T12:39:42.185491",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Confunden a streamer con Samuel García",
     "artista": "ElRaxeto",
     "intro": "Antes nadie imaginaba ver a un creador de contenido de videojuegos convertido en el centro de bromas políticas en internet…",
@@ -5790,19 +5804,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reportaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Monasterio de Santa Mónica: Historia y misterios del Desierto de los Leones",
-    "artista": "el Monasterio de Santa Mónica del Desierto de los Leones",
-    "intro": "Crónica sobre los orígenes, transformaciones y leyendas ocultas del emblemático exconvento carmelita en medio de los bosques de la capital mexicana.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/monasterio-de-santa-monica-historia-y-misterios-del-desierto-de-los-le-1115.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/monasterio-de-santa-monica-historia-y-misterios-del-desierto-de-los-le-1115.jpg",
-    "fecha": "2026-11-15T20:19:29.049020",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror"
   }
 ]
