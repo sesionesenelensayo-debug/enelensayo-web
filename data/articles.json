@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Natalia Lafourcade es nombrada Embajadora de Amigos MAP",
+    "artista": "Natalia Lafourcade",
+    "intro": "Natalia Lafourcade recibió el nombramiento de Embajadora de Amigos del Museo de Arte Popular (MAP)…",
+    "telegraph_url": "https://telegra.ph/Natalia-Lafourcade-es-nombrada-Embajadora-de-Amigos-MAP-11-27",
+    "url": "https://enelensayomedia.com/notas/natalia-lafourcade-es-nombrada-embajadora-de-amigos-map-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/natalia-lafourcade-es-nombrada-embajadora-de-amigos-map-1127.jpg",
+    "fecha": "2026-11-27T10:26:58.542794",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
+    "opinion": false,
     "tipo": "entrevista",
     "titulo": "Entrevista a Desireé González y Diego Becerril sobre el doblaje de Los diarios de la boticaria",
     "artista": "Los diarios de la boticaria",
@@ -5794,19 +5808,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Chisme"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Bettany y Feige acordaron que VisionQuest valiera por sí misma",
-    "artista": "VisionQuest",
-    "intro": "Paul Bettany reveló en una entrevista con The Playlist que él y Kevin Feige acordaron que VisionQuest debía valerse por sí misma, evitando que Wanda Maximoff tuviera un papel central.",
-    "telegraph_url": "https://telegra.ph/Bettany-y-Feige-acordaron-que-VisionQuest-valiera-por-sí-misma-11-15",
-    "url": "https://enelensayomedia.com/notas/bettany-y-feige-acordaron-que-visionquest-valiera-por-si-misma-1115.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/bettany-y-feige-acordaron-que-visionquest-valiera-por-si-misma-1115.jpg",
-    "fecha": "2026-11-15T14:54:20.326577",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU"
   }
 ]
