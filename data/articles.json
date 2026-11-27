@@ -1,6 +1,23 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Lasso anuncia conciertos en México para junio de 2027",
+    "artista": "Lasso",
+    "intro": "El cantautor venezolano Lasso llegará a México con su nueva gira mundial de conciertos para reencontrarse con sus fans.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/lasso-anuncia-conciertos-en-mexico-para-junio-de-2027-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/lasso-anuncia-conciertos-en-mexico-para-junio-de-2027-1127.jpg",
+    "fecha": "2026-11-27T12:46:32.138198",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Conciertos",
+    "fecha_original": "2026-11-27T11:06:11.572137",
+    "ultima_actualizacion": "2026-11-27T12:46:32.138198",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Rumor: Marvel Studios desarrollaría una nueva película de Deadpool",
     "artista": "Deadpool",
@@ -128,20 +145,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Televisión"
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Lasso anuncia conciertos en México para junio de 2027",
-    "artista": "Lasso",
-    "intro": "El cantautor venezolano Lasso llegará a México con su nueva gira mundial de conciertos para reencontrarse con sus fans.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/lasso-anuncia-conciertos-en-mexico-para-junio-de-2027-1127.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/lasso-anuncia-conciertos-en-mexico-para-junio-de-2027-1127.jpg",
-    "fecha": "2026-11-27T11:06:11.572137",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
   },
   {
     "opinion": false,
