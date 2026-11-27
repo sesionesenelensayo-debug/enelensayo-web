@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Pony Canyon anuncia anime de 'At 25:00, in Akasaka' para 2027",
+    "artista": "Akasaka",
+    "intro": "Pony Canyon anunció el 25 de noviembre de 2026 el anime para TV de 'At 25:00, in Akasaka', con un teaser visual, tráiler y reparto confirmado.",
+    "telegraph_url": "https://telegra.ph/Pony-Canyon-anuncia-anime-de-At-2500-in-Akasaka-para-2027-11-27",
+    "url": "https://enelensayomedia.com/notas/pony-canyon-anuncia-anime-de-at-25-00-in-akasaka-para-2027-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/pony-canyon-anuncia-anime-de-at-25-00-in-akasaka-para-2027-1127.jpg",
+    "fecha": "2026-11-27T14:45:11.278498",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Ibai bromea con ser presidente en 2034 y un partido de influencers",
     "artista": "Ibai",
     "intro": "La noche del miércoles 25 de noviembre de 2026, Ibai Llanos respondió a una sugerencia de crear un partido político de influencers con una promesa épica: 'Seré presidente de este país en 2034'.",
@@ -5789,22 +5803,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Marvel y DCU"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Dragon Ball Super: Beerus doblado en español con star talents en medio del debate",
-    "artista": "Dragon Ball Super",
-    "intro": "El doblaje al español latino de Dragon Ball Super: Beerus se estrenó el 12 de noviembre de 2026 en Crunchyroll…",
-    "telegraph_url": "https://telegra.ph/Dragon-Ball-Super-Beerus-doblado-en-español-con-star-talents-en-medio-del-debate-11-15",
-    "url": "https://enelensayomedia.com/notas/dragon-ball-super-beerus-doblado-en-espanol-con-star-talents-en-medio-1115.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/dragon-ball-super-beerus-doblado-en-espanol-con-star-talents-en-medio-1115.jpg",
-    "fecha": "2026-11-16T09:25:55.874608",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-11-15T13:16:55.121987",
-    "ultima_actualizacion": "2026-11-16T09:25:55.874608",
-    "actualizada": true
   }
 ]
