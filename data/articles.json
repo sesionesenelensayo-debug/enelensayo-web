@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "WB Games anuncia descuentos de hasta 90% en su campaña de Black Friday",
+    "artista": "WB Games",
+    "intro": "WB Games ha anunciado descuentos de hasta el 90 % en su campaña de Black Friday, con ofertas válidas en PlayStation, Xbox, Nintendo Switch y PC.",
+    "telegraph_url": "https://telegra.ph/WB-Games-anuncia-descuentos-de-hasta-90-en-su-campaña-de-Black-Friday-11-27",
+    "url": "https://enelensayomedia.com/notas/wb-games-anuncia-descuentos-de-hasta-90-en-su-campana-de-black-friday-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/wb-games-anuncia-descuentos-de-hasta-90-en-su-campana-de-black-friday-1127.jpg",
+    "fecha": "2026-11-27T13:09:29.581467",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Arkheron llega a Xbox Game Pass con sistema para 3 jugadores por suscripción",
     "artista": "XBOX Game Pass",
@@ -5795,20 +5809,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "5 curiosidades de Pearl Jam",
-    "artista": "Pearl Jam",
-    "intro": "El canal En el Ensayo Media presenta en su video '5 curiosidades de Pearl Jam' cinco datos poco conocidos sobre la banda, abordando temas como la historia familiar de Eddie Vedder…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/5-curiosidades-de-pearl-jam-1115.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/5-curiosidades-de-pearl-jam-1115.jpg",
-    "fecha": "2026-11-15T23:10:20.499595",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Datos curiosos"
   }
 ]
