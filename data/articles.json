@@ -1,5 +1,19 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "Silverman sujeta DC Comics a la rueda de prensa del nuevo orden Marvel",
+    "artista": "DC Comics",
+    "intro": "Josh Silverman, exejecutivo de Marvel durante una década, asumió la dirección estratégica de DC Comics tras la fusión de Paramount, Skydance y Warner Bros. Discovery.",
+    "telegraph_url": "https://telegra.ph/Silverman-sujeta-DC-Comics-a-la-rueda-de-prensa-del-nuevo-orden-Marvel-11-27",
+    "url": "https://enelensayomedia.com/notas/silverman-sujeta-dc-comics-a-la-rueda-de-prensa-del-nuevo-orden-marvel-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/silverman-sujeta-dc-comics-a-la-rueda-de-prensa-del-nuevo-orden-marvel-1126.jpg",
+    "fecha": "2026-11-26T19:50:42.817731",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "ShantyTown llega a Nintendo Switch 2 en 2027 con anuncio en Steam",
@@ -5785,21 +5799,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "El enigmático abandono del Mary Celeste: hechos y misterios del bergantín fantasma",
-    "artista": "el naufragio del Mary Celeste",
-    "intro": "Una crónica que recorre la construcción, la travesía, el hallazgo y la investigación del caso que sigue sin explicación definitiva.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-enigmatico-abandono-del-mary-celeste-hechos-y-misterios-del-bergant-1107.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-enigmatico-abandono-del-mary-celeste-hechos-y-misterios-del-bergant-1107.jpg",
-    "fecha": "2026-11-15T08:41:17.004957",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror",
-    "fecha_original": "2026-11-07T08:27:25.396247",
-    "actualizada": true
   }
 ]
