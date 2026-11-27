@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Square Enix duplica ventas de catálogo en H1 2026 tras Kingdom Hearts IV y FFVII Revelation",
+    "artista": "Square Enix",
+    "intro": "Square Enix presentó sus resultados del primer semestre fiscal, cerrado el 30 de septiembre de 2026…",
+    "telegraph_url": "https://telegra.ph/Square-Enix-duplica-ventas-de-catálogo-en-H1-2026-tras-Kingdom-Hearts-IV-y-FFVII-Revelation-11-27",
+    "url": "https://enelensayomedia.com/notas/square-enix-duplica-ventas-de-catalogo-en-h1-2026-tras-kingdom-hearts-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/square-enix-duplica-ventas-de-catalogo-en-h1-2026-tras-kingdom-hearts-1127.jpg",
+    "fecha": "2026-11-27T15:33:29.456305",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Latinoamérica busca la gloria en la Free Fire World Series 2026",
     "artista": "FFWS 2026",
     "intro": "La temporada competitiva de Free Fire llega a su punto decisivo este fin de semana en Bangkok, Tailandia, con los equipos de la región en la pelea.",
@@ -5789,19 +5803,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reality"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "18,000 fanáticos asisten a Final Slam en París",
-    "artista": "Lucha libre",
-    "intro": "Dieciocho mil personas asistieron al evento de lucha libre Final Slam, organizado por el streamer de Twitch AmineMaTue.",
-    "telegraph_url": "https://telegra.ph/18000-fanáticos-asisten-a-Final-Slam-en-París-11-16",
-    "url": "https://enelensayomedia.com/notas/18-000-fanaticos-asisten-a-final-slam-en-paris-1116.html",
-    "imagen_url": "https://enelensayomedia.com/img/og.jpg",
-    "fecha": "2026-11-16T10:37:52.346153",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Luchas"
   }
 ]
