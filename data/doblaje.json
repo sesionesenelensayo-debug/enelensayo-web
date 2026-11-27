@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-27 06:52",
+ "actualizado": "2026-11-27 08:22",
  "destacado": {
   "pelicula": "Wildwood: El bosque salvaje",
   "estudio": "LAIKA Studios",
@@ -102,6 +102,16 @@
    ],
    "estado": "anunciado",
    "resumen": "Se menciona la presencia de influencers en el doblaje de Avengers: Doomsday",
+   "anio": "2026",
+   "auto": true
+  },
+  {
+   "pelicula": "Dragon Ball Super",
+   "star_talents": [
+    "Beerus"
+   ],
+   "estado": "polémica",
+   "resumen": "El doblaje latino de Dragon Ball Super tuvo cambios en el personaje de Beerus, lo que avivó teorías y generó polémica entre los fans.",
    "anio": "2026",
    "auto": true
   }
