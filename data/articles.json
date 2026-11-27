@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Estrella Palacios gestiona recursos federales para luminarias en Mazatlán",
+    "artista": "Estrella Palacios",
+    "intro": "La presidenta municipal de Mazatlán, Estrella Palacios Domínguez, viajó a la Ciudad de México el jueves 27 de noviembre para reuniones de trabajo con el gabinete de la presidenta Claudia Sheinbaum.",
+    "telegraph_url": "https://telegra.ph/Estrella-Palacios-gestiona-recursos-federales-para-luminarias-en-Mazatlán-11-27",
+    "url": "https://enelensayomedia.com/notas/estrella-palacios-gestiona-recursos-federales-para-luminarias-en-mazat-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/estrella-palacios-gestiona-recursos-federales-para-luminarias-en-mazat-1127.jpg",
+    "fecha": "2026-11-27T17:44:17.778222",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Rojos recuperan Villa 360 y Medalla Grupal en Exatlón México 2026",
     "artista": "Exatlón México 2026",
     "intro": "Los equipos Rojos y Azules se enfrentaron este jueves 26 de noviembre en Exatlón México 2026, un día marcado por tensiones…",
@@ -5789,19 +5803,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Televisión"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Ebenezer: Los fantasmas de Navidad debuta en taquilla argentina con caída del 47%",
-    "artista": "Ebenezer",
-    "intro": "Del 12 al 15 de noviembre de 2026, 'Ebenezer: Los fantasmas de Navidad' debutó en la taquilla argentina, alcanzando 22.284 espectadores en 225 salas.",
-    "telegraph_url": "https://telegra.ph/Ebenezer-Los-fantasmas-de-Navidad-debuta-en-taquilla-argentina-con-caída-del-47-11-16",
-    "url": "https://enelensayomedia.com/notas/ebenezer-los-fantasmas-de-navidad-debuta-en-taquilla-argentina-con-cai-1116.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/ebenezer-los-fantasmas-de-navidad-debuta-en-taquilla-argentina-con-cai-1116.jpg",
-    "fecha": "2026-11-16T14:09:23.869619",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   }
 ]
