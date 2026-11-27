@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Tina Turner nació el 26 de noviembre de 1939, cumpliría 87 años hoy",
+    "artista": "Tina Turner",
+    "intro": "Hoy, 26 de noviembre de 2026, se conmemora el nacimiento de Anna Mae Bullock, conocida mundialmente como Tina Turner.",
+    "telegraph_url": "https://telegra.ph/Tina-Turner-nació-el-26-de-noviembre-de-1939-cumpliría-87-años-hoy-11-27",
+    "url": "https://enelensayomedia.com/notas/tina-turner-nacio-el-26-de-noviembre-de-1939-cumpliria-87-anos-hoy-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/tina-turner-nacio-el-26-de-noviembre-de-1939-cumpliria-87-anos-hoy-1126.jpg",
+    "fecha": "2026-11-26T19:26:46.136468",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Dragon Ball Super: Beerus y su nuevo doblaje latino",
     "artista": "Dragon Ball Super: Beerus",
     "intro": "El estreno del doblaje latino de Dragon Ball Super: Beerus en Crunchyroll ha generado discusión entre los seguidores de la franquicia en México y la región.",
@@ -5782,22 +5796,6 @@
     "views": 0,
     "categoria": "Historias de terror",
     "fecha_original": "2026-11-07T08:27:25.396247",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Denuncian a Ari Telch por daños y hostigamiento en Cuernavaca",
-    "artista": "Ari Telch",
-    "intro": "Mientras los escenarios teatrales han sido históricamente su espacio de reconocimiento, la realidad actual del actor mexicano muestra un giro hacia el ámbito judicial y la controversia pública.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/denuncian-a-ari-telch-por-danos-y-hostigamiento-en-cuernavaca-1113.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/denuncian-a-ari-telch-por-danos-y-hostigamiento-en-cuernavaca-1113.jpg",
-    "fecha": "2026-11-15T07:54:54.033532",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-13T21:04:16.464292",
     "actualizada": true
   }
 ]
