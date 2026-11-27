@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26 23:59",
+ "actualizado": "2026-11-27 06:07",
  "campeones": {
   "WWE": [
    {
@@ -372,25 +372,12 @@
  },
  "eventos": [
   {
-   "nombre": "Especial",
-   "promocion": "CMLL",
-   "fecha": "2026-11-26",
-   "lugar": "ARENA COLISEO",
-   "ciudad": "Ciudad de México",
-   "precio": "Boletos →",
-   "campeonatos": [],
-   "fuente": "https://cmll.com/cartelera/",
-   "img": "img/luchas/o-cmll-especial.jpg",
-   "credito": "Imagen: CMLL · cmll.com (sitio oficial)",
-   "credito_url": "https://cmll.com/cartelera/"
-  },
-  {
    "nombre": "Viernes Espectacular",
    "promocion": "CMLL",
    "fecha": "2026-11-27",
-   "lugar": "ARENA MÉXICO",
+   "lugar": "Arena México",
    "ciudad": "Ciudad de México",
-   "precio": "Boletos agotados Únete al canal Ver transmisión",
+   "precio": "Boletos agotados",
    "campeonatos": [],
    "fuente": "https://cmll.com/cartelera/",
    "img": "img/luchas/o-cmll-viernes-espectacular.jpg",
@@ -401,7 +388,7 @@
    "nombre": "Sábado",
    "promocion": "CMLL",
    "fecha": "2026-11-28",
-   "lugar": "ARENA COLISEO",
+   "lugar": "Arena Coliseo",
    "ciudad": "Ciudad de México",
    "precio": "Boletos →",
    "campeonatos": [],
@@ -411,23 +398,10 @@
    "credito_url": "https://cmll.com/cartelera/"
   },
   {
-   "nombre": "Survivor Series: WarGames",
-   "promocion": "WWE",
-   "fecha": "2026-11-28",
-   "lugar": "Daikin Park",
-   "ciudad": "Houston, TX",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://sportsbrackets.net/2026/07/29/2026-wwe-ppv-schedule/",
-   "img": "img/luchas/o-wwe-survivor-series-wargames.jpg",
-   "credito": "Imagen: WWE · sportsbrackets.net (sitio oficial)",
-   "credito_url": "https://sportsbrackets.net/2026/07/29/2026-wwe-ppv-schedule/"
-  },
-  {
    "nombre": "Domingo Familiar",
    "promocion": "CMLL",
    "fecha": "2026-11-29",
-   "lugar": "ARENA MÉXICO",
+   "lugar": "Arena México",
    "ciudad": "Ciudad de México",
    "precio": "Boletos →",
    "campeonatos": [],
@@ -454,7 +428,7 @@
    "nombre": "Lunes Clásico",
    "promocion": "CMLL",
    "fecha": "2026-11-30",
-   "lugar": "ARENA PUEBLA",
+   "lugar": "Arena Puebla",
    "ciudad": "Puebla",
    "precio": "Boletos →",
    "campeonatos": [],
@@ -491,47 +465,21 @@
    "credito_url": "https://conciertosenmonterrey.com/cartelera/aew-dynamite-collision-arena-monterrey-2026"
   },
   {
-   "nombre": "Wrestlepalooza Perth",
-   "promocion": "WWE",
-   "fecha": "2026-12-12",
-   "lugar": "RAC Arena",
-   "ciudad": "Perth, WA, US",
-   "precio": "desde $170",
-   "campeonatos": [],
-   "fuente": "https://www.wweschedule.com/wwe-ple-schedule",
-   "precio_fuente": "https://www.thepricer.org/how-much-does-wrestlepalooza-cost/"
-  },
-  {
-   "nombre": "John Cena Classic",
-   "promocion": "WWE",
-   "fecha": "2026-12-14",
-   "lugar": "ESPN Wide World of Sports",
-   "ciudad": "Orlando, FL, US",
-   "precio": "desde $85",
-   "campeonatos": [],
-   "fuente": "https://www.wweschedule.com/wwe-ple-schedule",
-   "precio_fuente": "https://www.koobit.com/john-cena-classic-e263583"
-  },
-  {
-   "nombre": "Worlds Collide: Doomsday",
-   "promocion": "WWE",
-   "fecha": "2026-12-15",
-   "lugar": "ESPN Wide World of Sports",
-   "ciudad": "Orlando, FL, US",
-   "precio": "",
-   "campeonatos": [],
-   "fuente": "https://www.wweschedule.com/wwe-ple-schedule"
-  },
-  {
-   "nombre": "Guerra De Titanes",
-   "promocion": "WWE",
+   "nombre": "Worlds End",
+   "promocion": "AEW",
    "fecha": "2026-12-19",
-   "lugar": "Arena Guadalajara",
-   "ciudad": "Guadalajara, JAL",
-   "precio": "desde $440",
-   "campeonatos": [],
-   "fuente": "https://www.wweschedule.com/wwe-ple-schedule",
-   "precio_fuente": "https://derevenmexico.com/guerra-de-titanes-arena-guadalajara-2026-lucha-libre-aaa/"
+   "lugar": "Target Center",
+   "ciudad": "Minneapolis, Minnesota",
+   "precio": "desde $95",
+   "campeonatos": [
+    "AEW Continental Championship",
+    "Undisputed AEW World Championship"
+   ],
+   "fuente": "https://en.wikipedia.org/wiki/Worlds_End_(2026)",
+   "precio_fuente": "https://www.ticketdata.com/events/194787590",
+   "img": "img/luchas/o-aew-worlds-end.jpg",
+   "credito": "Imagen: AEW · allelitewrestling.com (sitio oficial)",
+   "credito_url": "https://www.allelitewrestling.com/aew-event/aew-worlds-end-2026"
   },
   {
    "nombre": "New Year Party!",
@@ -547,15 +495,20 @@
    "credito_url": "https://wrestlekingdom.njpw.co.jp/en/"
   },
   {
-   "nombre": "WRESTLE KINGDOM 21 in TOKYO DOME",
+   "nombre": "Wrestle Kingdom 21",
    "promocion": "NJPW",
    "fecha": "2027-01-04",
-   "lugar": "TOKYO DOME",
+   "lugar": "Tokyo Dome",
    "ciudad": "Tokyo",
-   "precio": "ADVANCE ¥230,000",
-   "campeonatos": [],
-   "fuente": "https://wrestlekingdom.njpw.co.jp/en/",
-   "img": "img/luchas/o-njpw-wrestle-kingdom-21-in-tokyo-dome.jpg",
+   "precio": "",
+   "campeonatos": [
+    "IWGP Junior Heavyweight Championship",
+    "CMLL World Heavyweight Championship",
+    "IWGP Global Heavyweight Championship",
+    "IWGP Heavyweight Championship"
+   ],
+   "fuente": "https://en.wikipedia.org/wiki/Wrestle_Kingdom_21",
+   "img": "img/luchas/o-njpw-wrestle-kingdom-21.jpg",
    "credito": "Imagen: NJPW · wrestlekingdom.njpw.co.jp (sitio oficial)",
    "credito_url": "https://wrestlekingdom.njpw.co.jp/en/"
   },
