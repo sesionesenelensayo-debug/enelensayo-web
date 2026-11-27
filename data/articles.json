@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Immasoul lanza su nuevo EP 'Bendecida'",
+    "artista": "Immasoul",
+    "intro": "Immasoul regresa a las plataformas digitales con el lanzamiento de su nuevo EP titulado 'Bendecida', un proyecto de seis canciones que marca un reencuentro sonoro con el R&B…",
+    "telegraph_url": "https://telegra.ph/Immasoul-lanza-su-nuevo-EP-Bendecida-11-27",
+    "url": "https://enelensayomedia.com/notas/immasoul-lanza-su-nuevo-ep-bendecida-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/immasoul-lanza-su-nuevo-ep-bendecida-1127.jpg",
+    "fecha": "2026-11-27T10:07:08.011401",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Escena local"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Julio Camejo cuestiona a Kunno y Gloria Murillo por comentarios en La Granja VIP",
     "artista": "Julio Camejo",
     "intro": "Julio Camejo se ha mantenido en el centro de las discusiones en La Granja VIP, donde ha cuestionado a Kunno por sus responsabilidades como capataz y ha recibido críticas de Gloria Murillo…",
@@ -5792,19 +5806,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reportaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Morat anuncia concierto sin telonero y setlist estimado en el Palacio de los Deportes",
-    "artista": "Morat",
-    "intro": "Morat se presentará en el Palacio de los Deportes de la Ciudad de México los días 13, 14, 15 y 17 de noviembre de 2026, como parte del \"Ya Es Mañana World Tour\". Las puertas abrirán a las 6:00 p.m.",
-    "telegraph_url": "https://telegra.ph/Morat-anuncia-concierto-sin-telonero-y-setlist-estimado-en-el-Palacio-de-los-Deportes-11-15",
-    "url": "https://enelensayomedia.com/notas/morat-anuncia-concierto-sin-telonero-y-setlist-estimado-en-el-palacio-1115.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/morat-anuncia-concierto-sin-telonero-y-setlist-estimado-en-el-palacio-1115.jpg",
-    "fecha": "2026-11-15T13:31:35.922958",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
   }
 ]
