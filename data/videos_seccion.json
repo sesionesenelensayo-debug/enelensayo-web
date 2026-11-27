@@ -1,17 +1,12 @@
 {
- "Terror y misterio": {
-  "shorts": [],
-  "longs": [
-   {
-    "id": "nZuNBf_a0lw",
-    "titulo": "EL ÁNGEL DE LA MUERTE DE TORREÓN: 19 AÑOS, 3 DISPAROS Y UN SECRETO",
-    "fecha": "2026-11-25",
-    "nota": "https://enelensayomedia.com/notas/el-angel-de-la-muerte-de-torreon-19-anos-3-disparos-y-un-secreto-1125.html"
-   }
-  ]
- },
  "Reportaje": {
   "shorts": [
+   {
+    "id": "FDNA5_OusJQ",
+    "titulo": "Tina Turner nació el 26 de noviembre de 1939, cumpliría 87 años hoy",
+    "fecha": "2026-11-26",
+    "nota": "https://enelensayomedia.com/notas/tina-turner-nacio-el-26-de-noviembre-de-1939-cumpliria-87-anos-hoy-1126.html"
+   },
    {
     "id": "l4D0bQCPpLc",
     "titulo": "Inés Gómez Mont liberada tras fianza migratoria en Florida",
@@ -62,6 +57,17 @@
    }
   ],
   "longs": []
+ },
+ "Terror y misterio": {
+  "shorts": [],
+  "longs": [
+   {
+    "id": "nZuNBf_a0lw",
+    "titulo": "EL ÁNGEL DE LA MUERTE DE TORREÓN: 19 AÑOS, 3 DISPAROS Y UN SECRETO",
+    "fecha": "2026-11-25",
+    "nota": "https://enelensayomedia.com/notas/el-angel-de-la-muerte-de-torreon-19-anos-3-disparos-y-un-secreto-1125.html"
+   }
+  ]
  },
  "Biografía": {
   "shorts": [
