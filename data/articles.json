@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Sony anuncia juegos de diciembre para PlayStation Plus",
+    "artista": "Tony Hawk",
+    "intro": "El 25 de noviembre de 2026, Sony Interactive Entertainment anunció a través de PlayStation Blog los juegos mensuales de PlayStation Plus para diciembre.",
+    "telegraph_url": "https://telegra.ph/Sony-anuncia-juegos-de-diciembre-para-PlayStation-Plus-11-27",
+    "url": "https://enelensayomedia.com/notas/sony-anuncia-juegos-de-diciembre-para-playstation-plus-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/sony-anuncia-juegos-de-diciembre-para-playstation-plus-1126.jpg",
+    "fecha": "2026-11-26T21:17:24.195691",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Atacan en plena presentación a cantante de Doble Blindaje; recibe 7 disparos",
     "artista": "Doble Blindaje",
     "intro": "El madrugada del miércoles 25 de noviembre de 2026, el vocalista del grupo de corridos bélicos Doble Blindaje fue atacado con siete disparos mientras se presentaba en la inauguración de la tienda…",
@@ -5786,21 +5800,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cultura"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Vadhir Derbez enfrenta investigación legal",
-    "artista": "Vadhir Derbez",
-    "intro": "Vadhir Derbez enfrenta una denuncia por el presunto delito de violación interpuesta por una modelo estadounidense de 19 años.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/vadhir-derbez-enfrenta-investigacion-legal-1105.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/vadhir-derbez-enfrenta-investigacion-legal-1105.jpg",
-    "fecha": "2026-11-15T09:39:16.278637",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme",
-    "fecha_original": "2026-11-05T21:03:36.562818",
-    "actualizada": true
   }
 ]
