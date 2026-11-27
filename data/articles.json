@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Dragon Ball Super: Beerus y su nuevo doblaje latino",
+    "artista": "Dragon Ball Super: Beerus",
+    "intro": "El estreno del doblaje latino de Dragon Ball Super: Beerus en Crunchyroll ha generado discusión entre los seguidores de la franquicia en México y la región.",
+    "telegraph_url": "https://telegra.ph/Dragon-Ball-Super-Beerus-y-su-nuevo-doblaje-latino-11-27",
+    "url": "https://enelensayomedia.com/notas/dragon-ball-super-beerus-y-su-nuevo-doblaje-latino-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/dragon-ball-super-beerus-y-su-nuevo-doblaje-latino-1126.jpg",
+    "fecha": "2026-11-26T18:29:41.537939",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "La Granja VIP 2: definidos los cuatro nominados de la semana 12 y arranca la salvación",
     "artista": "La Granja VIP 2",
     "intro": "La Asamblea del miércoles 25 de noviembre cerró la lista de nominados: Mario 'Mono' Osuna, Manelyk González, Niurka Marcos y Kevyn 'Bicolor' Contreras.",
@@ -5784,22 +5798,6 @@
     "views": 0,
     "categoria": "Chisme",
     "fecha_original": "2026-11-13T21:04:16.464292",
-    "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "'La Gran Sangre: Ojo x Ojo' supera los 30 mil espectadores en su estreno",
-    "artista": "La Gran Sangre",
-    "intro": "La Gran Sangre: Ojo x Ojo superó los 30 mil espectadores en su primer día en cartelera y lideró la taquilla nacional en su estreno el 12 de noviembre de 2026…",
-    "telegraph_url": "https://telegra.ph/La-Gran-Sangre-Ojo-x-Ojo-supera-los-30-mil-espectadores-en-su-estreno-11-14",
-    "url": "https://enelensayomedia.com/notas/la-gran-sangre-ojo-x-ojo-supera-los-30-mil-espectadores-en-su-estreno-1114.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/la-gran-sangre-ojo-x-ojo-supera-los-30-mil-espectadores-en-su-estreno-1114.jpg",
-    "fecha": "2026-11-15T07:29:03.723901",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-14T11:52:58.429241",
     "actualizada": true
   }
 ]
