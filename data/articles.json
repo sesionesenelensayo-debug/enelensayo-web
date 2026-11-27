@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Netflix cancela 'The Hawk' tras una sola temporada",
+    "artista": "The Hawk",
+    "intro": "Netflix cancela la comedia de golf 'The Hawk', protagonizada por Will Ferrell, tras solo una temporada y cuatro meses al aire.",
+    "telegraph_url": "https://telegra.ph/Netflix-cancela-The-Hawk-tras-una-sola-temporada-11-27",
+    "url": "https://enelensayomedia.com/notas/netflix-cancela-the-hawk-tras-una-sola-temporada-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/netflix-cancela-the-hawk-tras-una-sola-temporada-1127.jpg",
+    "fecha": "2026-11-27T14:11:12.823313",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Televisión"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Bárbara de Regil da clase de cardio a 300 mujeres en penal de CDMX",
     "artista": "Bárbara de Regil",
     "intro": "Bárbara de Regil se convirtió en la primera artista pública en impartir una clase de cardio de 50 minutos a 300 mujeres privadas de la libertad en el Centro Femenil de Reinserción Social de Santa…",
@@ -5792,22 +5806,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Cleanser Man, jefe de Mega Man diseñado por fans, debuta en tráiler",
-    "artista": "Mega Man: Dual Override",
-    "intro": "Capcom presentó a Cleanser Man, el nuevo Robot Master de Mega Man: Dual Override, durante la TwitchCon 2026.",
-    "telegraph_url": "https://telegra.ph/Cleanser-Man-jefe-de-Mega-Man-diseñado-por-fans-debuta-en-tráiler-11-16",
-    "url": "https://enelensayomedia.com/notas/cleanser-man-jefe-de-mega-man-disenado-por-fans-debuta-en-trailer-1116.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/cleanser-man-jefe-de-mega-man-disenado-por-fans-debuta-en-trailer-1116.jpg",
-    "fecha": "2026-11-16T07:29:23.423916",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos",
-    "fecha_original": "2026-11-16T07:29:23.423916",
-    "ultima_actualizacion": "2026-11-17T15:08:50.775687",
-    "actualizada": true
   }
 ]
