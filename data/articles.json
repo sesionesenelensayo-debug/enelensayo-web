@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Mila Quifes revela acoso escolar y su papel en 'La bola negra'",
+    "artista": "Mila Quifes",
+    "intro": "Mila Quifes, actor de 25 años en 'La bola negra', habló en el pódcast 'Sabor a Queer' sobre el acoso escolar que sufrió en un colegio de Huelva.",
+    "telegraph_url": "https://telegra.ph/Mila-Quifes-revela-acoso-escolar-y-su-papel-en-La-bola-negra-11-27",
+    "url": "https://enelensayomedia.com/notas/mila-quifes-revela-acoso-escolar-y-su-papel-en-la-bola-negra-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/mila-quifes-revela-acoso-escolar-y-su-papel-en-la-bola-negra-1126.jpg",
+    "fecha": "2026-11-26T22:14:21.236268",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Estrena en México 'Pictópsia', la primera película documental de Henrique Vilão",
     "artista": "Henrique Vilão",
     "intro": "El cineasta portugués Henrique Vilão estrenó en México su primer documental de larga duración, 'Pictópsia', una obra que dialoga con la obra del artista plástico Fernando Gaspar.",
@@ -5780,19 +5794,5 @@
     "categoria": "Streaming",
     "fecha_original": "2026-11-07T11:26:06.782465",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Lucero felicita el 25.º cumpleaños de su hijo José Manuel",
-    "artista": "Lucero",
-    "intro": "Lucero celebró el 25.º cumpleaños de su hijo José Manuel con una tierna publicación en Instagram, convirtiéndose en la única felicitación pública del día.",
-    "telegraph_url": "https://telegra.ph/Lucero-felicita-el-25º-cumpleaños-de-su-hijo-José-Manuel-11-15",
-    "url": "https://enelensayomedia.com/notas/lucero-felicita-el-25-o-cumpleanos-de-su-hijo-jose-manuel-1115.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/lucero-felicita-el-25-o-cumpleanos-de-su-hijo-jose-manuel-1115.jpg",
-    "fecha": "2026-11-15T11:15:09.307707",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   }
 ]
