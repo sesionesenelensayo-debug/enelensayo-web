@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-26 21:15",
+ "actualizado": "2026-11-27 00:38",
  "general": [
   {
    "titulo": "Omega Hardcore de Guadalajara revela su lucha contra el abandono y la solidaridad en sus filas",
@@ -70,6 +70,11 @@
     "titulo": "Maná concierto en el Estadio GNP Seguros 2026: boletos y horarios",
     "url": "https://enelensayomedia.com/notas/mana-concierto-en-el-estadio-gnp-seguros-2026-boletos-y-horarios-1121.html",
     "visitas": 5
+   },
+   {
+    "titulo": "Caifanes dará histórico concierto en Estadio GNP el 11 de julio",
+    "url": "https://enelensayomedia.com/notas/caifanes-dara-historico-concierto-en-estadio-gnp-el-11-de-julio-1123.html",
+    "visitas": 4
    }
   ],
   "reality": [
@@ -104,11 +109,6 @@
     "titulo": "Cinépolis confirma funciones especiales de 'El Grinch' en diciembre",
     "url": "https://enelensayomedia.com/notas/cinepolis-confirma-funciones-especiales-de-el-grinch-en-diciembre-1124.html",
     "visitas": 7
-   },
-   {
-    "titulo": "Maite Perroni regresa a las telenovelas",
-    "url": "https://enelensayomedia.com/notas/maite-perroni-regresa-a-las-telenovelas-1124.html",
-    "visitas": 4
    }
   ],
   "reportaje": [
@@ -167,6 +167,28 @@
     "visitas": 5
    }
   ],
+  "chisme": [
+   {
+    "titulo": "Derbez y Mariana Bo enfrentan rumores de ruptura escandalosa",
+    "url": "https://enelensayomedia.com/notas/derbez-y-mariana-bo-enfrentan-rumores-de-ruptura-escandalosa-1126.html",
+    "visitas": 6
+   },
+   {
+    "titulo": "Yeferson Cossio y Carolina Gómez confirman su ruptura tras cuatro años",
+    "url": "https://enelensayomedia.com/notas/yeferson-cossio-y-carolina-gomez-confirman-su-ruptura-tras-cuatro-anos-1125.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "Mía Rubín confirma ruptura con Tarik Othón por diferencias profesionales",
+    "url": "https://enelensayomedia.com/notas/mia-rubin-confirma-ruptura-con-tarik-othon-por-diferencias-profesional-1121.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "Silvana Prince publica reflexión tras acusaciones contra Vadhir Derbez",
+    "url": "https://enelensayomedia.com/notas/silvana-prince-publica-reflexion-tras-acusaciones-contra-vadhir-derbez-1125.html",
+    "visitas": 4
+   }
+  ],
   "televisión": [
    {
     "titulo": "Estrena la temporada 3 de 'Percy Jackson' en Disney+ con nuevos dioses",
@@ -223,36 +245,12 @@
     "visitas": 5
    }
   ],
-  "chisme": [
-   {
-    "titulo": "Yeferson Cossio y Carolina Gómez confirman su ruptura tras cuatro años",
-    "url": "https://enelensayomedia.com/notas/yeferson-cossio-y-carolina-gomez-confirman-su-ruptura-tras-cuatro-anos-1125.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "Silvana Prince publica reflexión tras acusaciones contra Vadhir Derbez",
-    "url": "https://enelensayomedia.com/notas/silvana-prince-publica-reflexion-tras-acusaciones-contra-vadhir-derbez-1125.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "Roca Rey y Tana Rivera: una llamada de madrugada para cerrar las heridas",
-    "url": "https://enelensayomedia.com/notas/roca-rey-y-tana-rivera-una-llamada-de-madrugada-para-cerrar-las-herida-1125.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "Miley Cyrus cumple 34 años y se casa con Maxx Morando en California",
-    "url": "https://enelensayomedia.com/notas/miley-cyrus-cumple-34-anos-y-se-casa-con-maxx-morando-en-california-1123.html",
-    "visitas": 4
-   }
-  ],
-  "internacional": [
-   {
-    "titulo": "Timberlake y Fallon cantan 'Cha Cha Slide' en adelanto de Acción de Gracias de NBC",
-    "url": "https://enelensayomedia.com/notas/timberlake-y-fallon-cantan-cha-cha-slide-en-adelanto-de-accion-de-grac-1125.html",
-    "visitas": 5
-   }
-  ],
   "videojuegos": [
+   {
+    "titulo": "Sony anuncia juegos de diciembre para PlayStation Plus",
+    "url": "https://enelensayomedia.com/notas/sony-anuncia-juegos-de-diciembre-para-playstation-plus-1126.html",
+    "visitas": 5
+   },
    {
     "titulo": "Bad Bunny lidera la banda sonora latina de GTA 6 con Cocoteo FM",
     "url": "https://enelensayomedia.com/notas/bad-bunny-lidera-la-banda-sonora-latina-de-gta-6-con-cocoteo-fm-1120.html",
@@ -264,14 +262,16 @@
     "visitas": 4
    },
    {
-    "titulo": "Team Cherry anuncia el evento Cherry Time! sobre Silksong",
-    "url": "https://enelensayomedia.com/notas/team-cherry-anuncia-el-evento-cherry-time-sobre-silksong-1125.html",
-    "visitas": 4
-   },
-   {
     "titulo": "Análisis de Pikmin 4 Nintendo Switch 2 Edition",
     "url": "https://enelensayomedia.com/notas/analisis-de-pikmin-4-nintendo-switch-2-edition-1124.html",
     "visitas": 4
+   }
+  ],
+  "internacional": [
+   {
+    "titulo": "Timberlake y Fallon cantan 'Cha Cha Slide' en adelanto de Acción de Gracias de NBC",
+    "url": "https://enelensayomedia.com/notas/timberlake-y-fallon-cantan-cha-cha-slide-en-adelanto-de-accion-de-grac-1125.html",
+    "visitas": 5
    }
   ],
   "in memoriam": [
@@ -285,13 +285,6 @@
    {
     "titulo": "Netflix estrena hoy 56 contenidos en guía de Espinof para 25 de noviembre",
     "url": "https://enelensayomedia.com/notas/netflix-estrena-hoy-56-contenidos-en-guia-de-espinof-para-25-de-noviem-1125.html",
-    "visitas": 4
-   }
-  ],
-  "esports": [
-   {
-    "titulo": "Mundial Sub-17 Qatar 2026: 48 selecciones, 104 partidos y el reto de la seguridad",
-    "url": "https://enelensayomedia.com/notas/mundial-sub-17-qatar-2026-48-selecciones-104-partidos-y-el-reto-de-la-1122.html",
     "visitas": 4
    }
   ]
