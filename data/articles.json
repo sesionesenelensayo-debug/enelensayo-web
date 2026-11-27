@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "La Granja VIP 2: definidos los cuatro nominados de la semana 12 y arranca la salvación",
+    "artista": "La Granja VIP 2",
+    "intro": "La Asamblea del miércoles 25 de noviembre cerró la lista de nominados: Mario 'Mono' Osuna, Manelyk González, Niurka Marcos y Kevyn 'Bicolor' Contreras.",
+    "telegraph_url": "https://telegra.ph/La-Granja-VIP-2-definidos-los-cuatro-nominados-de-la-semana-12-y-arranca-la-salvación-11-27",
+    "url": "https://enelensayomedia.com/notas/la-granja-vip-2-definidos-los-cuatro-nominados-de-la-semana-12-y-arran-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/la-granja-vip-2-definidos-los-cuatro-nominados-de-la-semana-12-y-arran-1126.jpg",
+    "fecha": "2026-11-26T18:29:20.933960",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reality"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Streamer paga $4,000 de fianza para que recluso juegue GTA VI",
     "artista": "Streamer desconocido",
     "intro": "El popular streamer de Kick, JiDion, soltó $4,000 de fianza para liberar a David, un interno, y llevarlo a una partida de GTA VI.",
@@ -5786,21 +5800,6 @@
     "views": 0,
     "categoria": "Cine",
     "fecha_original": "2026-11-14T11:52:58.429241",
-    "actualizada": true
-  },
-  {
-    "tipo": "noticia",
-    "titulo": "Festival Internacional del Globo 2026 revela su canción oficial",
-    "artista": "Festival Internacional del Globo",
-    "intro": "El Festival Internacional del Globo 2026 cuenta con una canción oficial, según informó El Sol de México. El medio confirmó la existencia de la pieza musical que acompañará a la edición 2026 del evento",
-    "telegraph_url": "https://telegra.ph/Festival-Internacional-del-Globo-2026-revela-su-canción-oficial-10-31",
-    "url": "https://enelensayomedia.com/notas/festival-internacional-del-globo-2026-revela-su-cancion-oficial-1031.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/festival-internacional-del-globo-2026-revela-su-cancion-oficial-1031.jpg",
-    "fecha": "2026-11-14T22:23:12.102829",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura",
-    "fecha_original": "2026-10-31T14:04:47.188642",
     "actualizada": true
   }
 ]
