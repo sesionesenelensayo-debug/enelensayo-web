@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Retail Hell llega a PS5, Xbox Series X|S y Nintendo Switch",
+    "artista": "Retail Hell",
+    "intro": "El 26 de noviembre de 2026 Feardemic y LEAP Game Studios presentaron oficialmente el tráiler de Retail Hell para PlayStation 5, Xbox Series X|S y Nintendo Switch.",
+    "telegraph_url": "https://telegra.ph/Retail-Hell-llega-a-PS5-Xbox-Series-XS-y-Nintendo-Switch-11-27",
+    "url": "https://enelensayomedia.com/notas/retail-hell-llega-a-ps5-xbox-series-x-s-y-nintendo-switch-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/retail-hell-llega-a-ps5-xbox-series-x-s-y-nintendo-switch-1127.jpg",
+    "fecha": "2026-11-27T13:02:18.409741",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Videojuegos"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Atacan en plena presentación a cantante de Doble Blindaje; recibe 7 disparos",
     "artista": "Doble Blindaje",
     "intro": "El madrugada del miércoles 25 de noviembre de 2026, el vocalista del grupo de corridos bélicos Doble Blindaje fue atacado con siete disparos mientras se presentaba en la inauguración de la tienda…",
@@ -5796,19 +5810,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Reality"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Pearl Jam sin baterista permanente tras salida de Matt Cameron",
-    "artista": "Pearl Jam",
-    "intro": "Pearl Jam enfrenta una incertidumbre interna tras la partida de Matt Cameron en 2025. La banda, que lleva años rotando bateristas, ahora cuenta con Abe Laboriel Jr.",
-    "telegraph_url": "https://telegra.ph/Pearl-Jam-sin-baterista-permanente-tras-salida-de-Matt-Cameron-11-16",
-    "url": "https://enelensayomedia.com/notas/pearl-jam-sin-baterista-permanente-tras-salida-de-matt-cameron-1115.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/pearl-jam-sin-baterista-permanente-tras-salida-de-matt-cameron-1115.jpg",
-    "fecha": "2026-11-15T20:24:08.609774",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reportaje"
   }
 ]
