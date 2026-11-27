@@ -2,6 +2,23 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Angelina Jolie y Brad Pitt resuelven batalla legal por bodega francesa",
+    "artista": "Brad Pitt",
+    "intro": "Angelina Jolie y Brad Pitt llegaron a un acuerdo extrajudicial para poner fin a su prolongada batalla legal por el control del Château Miraval…",
+    "telegraph_url": "https://telegra.ph/Angelina-Jolie-y-Brad-Pitt-resuelven-batalla-legal-por-bodega-francesa-11-26",
+    "url": "https://enelensayomedia.com/notas/angelina-jolie-y-brad-pitt-resuelven-batalla-legal-por-bodega-francesa-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/angelina-jolie-y-brad-pitt-resuelven-batalla-legal-por-bodega-francesa-1126.jpg",
+    "fecha": "2026-11-27T08:36:27.388941",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-11-26T11:52:49.102823",
+    "ultima_actualizacion": "2026-11-27T08:36:27.388941",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Hijo de Eugenio Derbez enfrenta nueva denuncia por violación de menor de 15 años",
     "artista": "Eugenio Derbez",
     "intro": "Vadhir Derbez, hijo de Eugenio Derbez, enfrenta una nueva denuncia por presunto violación de una menor de 15 años, según reportes de la Fiscalía General de la República.",
@@ -389,20 +406,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Música"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Angelina Jolie y Brad Pitt resuelven batalla legal por bodega francesa",
-    "artista": "Brad Pitt",
-    "intro": "Angelina Jolie y Brad Pitt llegaron a un acuerdo extrajudicial para poner fin a su prolongada batalla legal por el control del Château Miraval…",
-    "telegraph_url": "https://telegra.ph/Angelina-Jolie-y-Brad-Pitt-resuelven-batalla-legal-por-bodega-francesa-11-26",
-    "url": "https://enelensayomedia.com/notas/angelina-jolie-y-brad-pitt-resuelven-batalla-legal-por-bodega-francesa-1126.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/angelina-jolie-y-brad-pitt-resuelven-batalla-legal-por-bodega-francesa-1126.jpg",
-    "fecha": "2026-11-26T11:52:49.102823",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   },
   {
     "opinion": false,
