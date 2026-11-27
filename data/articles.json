@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Exatlón México 2026: Rojos arrebatan la Villa 360",
+    "artista": "Equipos Azules y Rojos (Exatlón México 2026)",
+    "intro": "La noche del jueves 26 de noviembre de 2026, el Equipo Rojo rompió la racha de los Azules al ganar la Villa 360 por un marcador de 7-2, obligándolos a regresar a la Barraca Metálica.",
+    "telegraph_url": "https://telegra.ph/Exatlón-México-2026-Rojos-arrebatan-la-Villa-360-11-27",
+    "url": "https://enelensayomedia.com/notas/exatlon-mexico-2026-rojos-arrebatan-la-villa-360-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/exatlon-mexico-2026-rojos-arrebatan-la-villa-360-1127.jpg",
+    "fecha": "2026-11-27T15:58:28.594077",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reality"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Los Juegos del Hambre domina la taquilla de Acción de Gracias",
     "artista": "Las Jueves del Hambre",
     "intro": "Si antes los grandes estrenos de noviembre competían con cautela en las salas, hoy la taquilla responde con cifras contundentes que reafirman el poder comercial de las grandes franquicias.",
@@ -5789,19 +5803,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Marvel y DCU"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Fallece Lauri 'Cyanide' Happonen, campeón mundial de League of Legends con 16 años",
-    "artista": "Cyanide",
-    "intro": "El exjungla de Fnatic, fallecido el 31 de julio a los 31 años, fue anunciado públicamente el 26 de octubre.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fallece-lauri-cyanide-happonen-campeon-mundial-de-league-of-legends-co-1116.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-lauri-cyanide-happonen-campeon-mundial-de-league-of-legends-co-1116.jpg",
-    "fecha": "2026-11-16T11:15:13.139177",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Esports"
   }
 ]
