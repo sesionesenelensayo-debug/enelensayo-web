@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Atacan en plena presentación a cantante de Doble Blindaje; recibe 7 disparos",
+    "artista": "Doble Blindaje",
+    "intro": "El madrugada del miércoles 25 de noviembre de 2026, el vocalista del grupo de corridos bélicos Doble Blindaje fue atacado con siete disparos mientras se presentaba en la inauguración de la tienda…",
+    "telegraph_url": "https://telegra.ph/Atacan-en-plena-presentación-a-cantante-de-Doble-Blindaje-recibe-7-disparos-11-27",
+    "url": "https://enelensayomedia.com/notas/atacan-en-plena-presentacion-a-cantante-de-doble-blindaje-recibe-7-dis-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/atacan-en-plena-presentacion-a-cantante-de-doble-blindaje-recibe-7-dis-1126.jpg",
+    "fecha": "2026-11-26T20:17:38.382948",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "'Blade Runner 2099' estrena hoy su miniserie con dos policías replicantes",
     "artista": "Blade Runner 2099",
     "intro": "Prime Video estrenó hoy 'Blade Runner 2099', una miniserie de ocho episodios que eleva a dos mujeres a policías en una distopía robótica.",
@@ -5785,19 +5799,5 @@
     "categoria": "Chisme",
     "fecha_original": "2026-11-05T21:03:36.562818",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Amanda Seyfried hará su debut como anfitriona de Saturday Night Live el 5 de diciembre",
-    "artista": "Amanda Seyfried",
-    "intro": "La actriz de 40 años, nominada al Óscar, conducirá el programa con Don Toliver como invitado musical.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/amanda-seyfried-hara-su-debut-como-anfitriona-de-saturday-night-live-e-1115.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/amanda-seyfried-hara-su-debut-como-anfitriona-de-saturday-night-live-e-1115.jpg",
-    "fecha": "2026-11-15T09:30:20.719321",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme internacional"
   }
 ]
