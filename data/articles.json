@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Filtran rumores de salida de Rosa María Noguerón de La casa de los famosos",
+    "artista": "Rosa María Noguerón",
+    "intro": "Una nota publicada el 26 de noviembre de 2026 por TVNotas, firmada por Jazmín González, reportó la posible salida de Rosa María Noguerón del programa 'La casa de los famosos'.",
+    "telegraph_url": "https://telegra.ph/Filtran-rumores-de-salida-de-Rosa-María-Noguerón-de-La-casa-de-los-famosos-11-27",
+    "url": "https://enelensayomedia.com/notas/filtran-rumores-de-salida-de-rosa-maria-nogueron-de-la-casa-de-los-fam-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/filtran-rumores-de-salida-de-rosa-maria-nogueron-de-la-casa-de-los-fam-1127.jpg",
+    "fecha": "2026-11-27T14:18:26.788513",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reality"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Netflix cancela 'The Hawk' tras una sola temporada",
     "artista": "The Hawk",
     "intro": "Netflix cancela la comedia de golf 'The Hawk', protagonizada por Will Ferrell, tras solo una temporada y cuatro meses al aire.",
@@ -5792,19 +5806,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme internacional"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "El Hotel Cecil: crónica de un misterio histórico en el corazón de Los Ángeles",
-    "artista": "el Hotel Cecil de Los Ángeles",
-    "intro": "Un hotel con más de noventa años de historia, cargado de crímenes, desapariciones y leyendas que lo convierten en un caso único de terror sin resolver.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-hotel-cecil-cronica-de-un-misterio-historico-en-el-corazon-de-los-a-1116.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-hotel-cecil-cronica-de-un-misterio-historico-en-el-corazon-de-los-a-1116.jpg",
-    "fecha": "2026-11-16T08:14:34.697400",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror"
   }
 ]
