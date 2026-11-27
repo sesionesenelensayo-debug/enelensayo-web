@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Majo Aguilar estrena su quinto álbum de estudio titulado Caprichos",
+    "artista": "Majo Aguilar",
+    "intro": "El 12 de noviembre de 2026, la cantante y compositora mexicana Majo Aguilar estrenó formalmente su quinto álbum de estudio titulado Caprichos en formato digital y en streaming.",
+    "telegraph_url": "https://telegra.ph/Majo-Aguilar-estrena-su-quinto-álbum-de-estudio-titulado-Caprichos-11-27",
+    "url": "https://enelensayomedia.com/notas/majo-aguilar-estrena-su-quinto-album-de-estudio-titulado-caprichos-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/majo-aguilar-estrena-su-quinto-album-de-estudio-titulado-caprichos-1127.jpg",
+    "fecha": "2026-11-27T11:08:14.311681",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Escena local"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Netflix anuncia el estreno de Emily in Paris para diciembre de 2026",
     "artista": "Emily in Paris",
     "intro": "Llega el final esperado. Netflix programa el estreno de la temporada 6 de Emily in Paris para el 24 de diciembre de 2026.",
@@ -5788,19 +5802,5 @@
     "fecha_original": "2026-11-15T10:17:47.525792",
     "ultima_actualizacion": "2026-11-17T11:12:41.135557",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Dune: Part Three y Avengers: Doomsday compiten en taquilla navideña 2026",
-    "artista": "Dune",
-    "intro": "Dune: Part Three y Avengers: Doomsday se enfrentarán en Navidad 2026 al compartir fecha de estreno el 18 de diciembre, en un duelo calificado como 'Dunesday' que recuerda a Barbenheimer.",
-    "telegraph_url": "https://telegra.ph/Dune-Part-Three-y-Avengers-Doomsday-compiten-en-taquilla-navideña-2026-11-16",
-    "url": "https://enelensayomedia.com/notas/dune-part-three-y-avengers-doomsday-compiten-en-taquilla-navidena-2026-1115.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/dune-part-three-y-avengers-doomsday-compiten-en-taquilla-navidena-2026-1115.jpg",
-    "fecha": "2026-11-15T19:09:41.811597",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU"
   }
 ]
