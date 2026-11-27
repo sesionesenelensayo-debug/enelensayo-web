@@ -1,6 +1,21 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Lana Del Rey actualiza el estado de sus dos próximos discos",
+    "artista": "Lana Del Rey",
+    "intro": "El 27 de noviembre de 2026, Lana Del Rey publicó un mensaje en Instagram con motivo del Día de Acción de Gracias en el cual informó sobre el estado actual de sus dos próximos álbumes de estudio.",
+    "telegraph_url": "https://telegra.ph/Lana-Del-Rey-actualiza-el-estado-de-sus-dos-próximos-discos-11-27",
+    "url": "https://enelensayomedia.com/notas/lana-del-rey-actualiza-el-estado-de-sus-dos-proximos-discos-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/lana-del-rey-actualiza-el-estado-de-sus-dos-proximos-discos-1127.jpg",
+    "fecha": "2026-11-27T12:06:15.776529",
+    "author": "Oliver Ken",
+    "views": 0,
+    "nota_dia": true,
+    "categoria": "Internacional"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Jesús Ortiz Paz causa furor en redes tras ser comparado con Shrek guapo",
     "artista": "Jesús Ortiz Paz",
