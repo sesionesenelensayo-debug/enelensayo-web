@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Rita Piris y 'Tango Vivo SXXI' registran el tango contemporáneo con palabras que importan",
+    "artista": "Rita Piris",
+    "intro": "Rita Gisela Piris, periodista y productora cultural de Buenos Aires, lleva 'Tango Vivo SXXI' a documentar el tango del siglo XXI.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/rita-piris-y-tango-vivo-sxxi-registran-el-tango-contemporaneo-con-pala-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/rita-piris-y-tango-vivo-sxxi-registran-el-tango-contemporaneo-con-pala-1127.jpg",
+    "fecha": "2026-11-27T10:07:32.149316",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "escena_local": true,
+    "portada_parcial": true
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Immasoul lanza su nuevo EP 'Bendecida'",
     "artista": "Immasoul",
     "intro": "Immasoul regresa a las plataformas digitales con el lanzamiento de su nuevo EP titulado 'Bendecida', un proyecto de seis canciones que marca un reencuentro sonoro con el R&B…",
@@ -4908,20 +4924,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Precios de boletos para Kanye West en CDMX",
-    "artista": "Kanye West",
-    "intro": "Kanye West (Ye) se presentará el viernes 19 de marzo de 2027 en el Estadio Banorte (antes Estadio Azteca) de la Ciudad de México, como parte de su gira 'The Greatest Show on Earth'…",
-    "telegraph_url": "https://telegra.ph/Precios-de-boletos-para-Kanye-West-en-CDMX-11-18",
-    "url": "https://enelensayomedia.com/notas/precios-de-boletos-para-kanye-west-en-cdmx-1118.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/precios-de-boletos-para-kanye-west-en-cdmx-1118.jpg",
-    "fecha": "2026-11-18T07:06:31.572181",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   },
   {
     "opinion": true,
