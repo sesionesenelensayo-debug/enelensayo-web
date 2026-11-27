@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Cineteca Nacional Chapultepec renueva su cartelera para diciembre 2026",
+    "artista": "Cineteca Nacional",
+    "intro": "La Cineteca Nacional, sede Chapultepec, anunció la renovación de su programación para la primera quincena de diciembre de 2026.",
+    "telegraph_url": "https://telegra.ph/Cineteca-Nacional-Chapultepec-renueva-su-cartelera-para-diciembre-2026-11-27",
+    "url": "https://enelensayomedia.com/notas/cineteca-nacional-chapultepec-renueva-su-cartelera-para-diciembre-2026-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/cineteca-nacional-chapultepec-renueva-su-cartelera-para-diciembre-2026-1127.jpg",
+    "fecha": "2026-11-27T11:32:51.533239",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Peter Gabriel presenta su nuevo sencillo 'Yes It Will Go'",
     "artista": "Peter Gabriel",
@@ -5784,22 +5798,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Cine"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Karol G llena el Estadio GNP Seguros en CDMX con su Tropitour 2026",
-    "artista": "Karol G",
-    "intro": "¿Qué ofrece el concierto de Karol G en el Estadio GNP Seguros este fin de semana y por qué es relevante para los fans?",
-    "telegraph_url": "https://telegra.ph/Karol-G-llena-el-Estadio-GNP-Seguros-en-CDMX-con-su-Tropitour-2026-11-15",
-    "url": "https://enelensayomedia.com/notas/karol-g-llena-el-estadio-gnp-seguros-en-cdmx-con-su-tropitour-2026-1115.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/karol-g-llena-el-estadio-gnp-seguros-en-cdmx-con-su-tropitour-2026-1115.jpg",
-    "fecha": "2026-11-15T19:32:50.164337",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos",
-    "fecha_original": "2026-11-15T10:17:47.525792",
-    "ultima_actualizacion": "2026-11-17T11:12:41.135557",
-    "actualizada": true
   }
 ]
