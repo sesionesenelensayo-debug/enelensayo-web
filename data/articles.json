@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "El tráiler final de Avengers: Doomsday revela a Steve Rogers",
+    "artista": "Avengers: Doomsday",
+    "intro": "¿Qué muestra el avance definitivo de la próxima entrega de los Vengadores y cómo redefine el destino de Steve Rogers?",
+    "telegraph_url": "https://telegra.ph/El-tráiler-final-de-Avengers-Doomsday-revela-a-Steve-Rogers-11-27",
+    "url": "https://enelensayomedia.com/notas/el-trailer-final-de-avengers-doomsday-revela-a-steve-rogers-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/el-trailer-final-de-avengers-doomsday-revela-a-steve-rogers-1127.jpg",
+    "fecha": "2026-11-27T10:31:04.941323",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Marvel y DCU"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Zeling arremete contra votante del PSOE: \"Tiene discapacidad, pero 100%\"",
     "artista": "Zeling",
     "intro": "En una transmisión en vivo, la streamer Alicia González, mejor conocida como Zeling, soltó una frase que se volvió viral en X: \"Tiene discapacidad, pero 100%\" al referirse a un votante del PSOE.",
@@ -5793,19 +5807,5 @@
     "fecha_original": "2026-11-15T18:13:03.670730",
     "ultima_actualizacion": "2026-11-19T09:51:07.342944",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Postcréditos de 'VisionQuest' conecta con 'Vengadores: Doomsday'",
-    "artista": "VisionQuest",
-    "intro": "El episodio final de 'VisionQuest' se estrenó el 10 de noviembre de 2026 en Disney+ e incluyó una escena post-créditos que conecta con 'Vengadores: Doomsday'.",
-    "telegraph_url": "https://telegra.ph/Postcréditos-de-VisionQuest-conecta-con-Vengadores-Doomsday-11-15",
-    "url": "https://enelensayomedia.com/notas/postcreditos-de-visionquest-conecta-con-vengadores-doomsday-1115.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/postcreditos-de-visionquest-conecta-con-vengadores-doomsday-1115.jpg",
-    "fecha": "2026-11-15T17:04:47.151031",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU"
   }
 ]
