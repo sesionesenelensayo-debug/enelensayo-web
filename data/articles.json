@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Nacho Vegas presenta 'Vidas semipreciosas' en el Teatro Metropólitan",
+    "artista": "Nacho Vegas",
+    "intro": "Nacho Vegas ofrecerá este jueves 26 de noviembre su concierto en el Teatro Metropólitan de la Ciudad de México como parte de la gira promovida por su disco 'Vidas semipreciosas'.",
+    "telegraph_url": "https://telegra.ph/Nacho-Vegas-presenta-Vidas-semipreciosas-en-el-Teatro-Metropólitan-11-27",
+    "url": "https://enelensayomedia.com/notas/nacho-vegas-presenta-vidas-semipreciosas-en-el-teatro-metropolitan-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/nacho-vegas-presenta-vidas-semipreciosas-en-el-teatro-metropolitan-1127.jpg",
+    "fecha": "2026-11-27T08:43:31.827785",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Angelina Jolie y Brad Pitt resuelven batalla legal por bodega francesa",
     "artista": "Brad Pitt",
     "intro": "Angelina Jolie y Brad Pitt llegaron a un acuerdo extrajudicial para poner fin a su prolongada batalla legal por el control del Château Miraval…",
@@ -5789,19 +5803,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Marvel y DCU"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "s&box será gratuito tras un lanzamiento fallido",
-    "artista": "s&box",
-    "intro": "Facepunch Studios anunció que s&box pasará a ser gratuito a finales de año, tras un lanzamiento inicial en Steam el 28 de abril de 2026 que generó críticas mixtas y una baja retención de jugadores.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/s-box-sera-gratuito-tras-un-lanzamiento-fallido-1115.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/s-box-sera-gratuito-tras-un-lanzamiento-fallido-1115.jpg",
-    "fecha": "2026-11-15T12:30:35.709064",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Videojuegos"
   }
 ]
