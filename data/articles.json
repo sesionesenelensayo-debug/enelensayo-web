@@ -1,5 +1,19 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "'Blade Runner 2099' estrena hoy su miniserie con dos policías replicantes",
+    "artista": "Blade Runner 2099",
+    "intro": "Prime Video estrenó hoy 'Blade Runner 2099', una miniserie de ocho episodios que eleva a dos mujeres a policías en una distopía robótica.",
+    "telegraph_url": "https://telegra.ph/Blade-Runner-2099-estrena-hoy-su-miniserie-con-dos-policías-replicantes-11-27",
+    "url": "https://enelensayomedia.com/notas/blade-runner-2099-estrena-hoy-su-miniserie-con-dos-policias-replicante-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/blade-runner-2099-estrena-hoy-su-miniserie-con-dos-policias-replicante-1126.jpg",
+    "fecha": "2026-11-26T20:11:58.086710",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine"
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "Silverman sujeta DC Comics a la rueda de prensa del nuevo orden Marvel",
@@ -5785,19 +5799,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme internacional"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Fallece Juan Islas Mendoza, padre del actor Mauricio Islas",
-    "artista": "Mauricio Islas",
-    "intro": "El actor mexicano Mauricio Islas confirmó el fallecimiento de su padre, Juan Islas Mendoza, ocurrido el viernes 13 de noviembre de 2026 en la Ciudad de México.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/fallece-juan-islas-mendoza-padre-del-actor-mauricio-islas-1115.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-juan-islas-mendoza-padre-del-actor-mauricio-islas-1115.jpg",
-    "fecha": "2026-11-15T09:05:51.766387",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme"
   }
 ]
