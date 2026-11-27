@@ -1,6 +1,23 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Fuerza Regida anuncia gira por Centroamérica y Sudamérica 2027",
+    "artista": "Fuerza Regida",
+    "intro": "Fuerza Regida anunció en noviembre de 2026 la etapa latinoamericana de su gira 'This Is Our Dream Tour', con nueve conciertos entre el 11 y el 3 de marzo de 2027.",
+    "telegraph_url": "https://telegra.ph/Fuerza-Regida-anuncia-gira-por-Centroamérica-y-Sudamérica-2027-11-27",
+    "url": "https://enelensayomedia.com/notas/fuerza-regida-anuncia-gira-por-centroamerica-y-sudamerica-2027-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fuerza-regida-anuncia-gira-por-centroamerica-y-sudamerica-2027-1127.jpg",
+    "fecha": "2026-11-27T11:51:33.204336",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música",
+    "fecha_original": "2026-11-27T07:06:39.349520",
+    "ultima_actualizacion": "2026-11-27T11:51:33.204336",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "Cineteca Nacional Chapultepec renueva su cartelera para diciembre 2026",
     "artista": "Cineteca Nacional",
@@ -323,20 +340,6 @@
     "fecha_original": "2026-11-26T21:17:24.195691",
     "ultima_actualizacion": "2026-11-27T07:10:25.541422",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Fuerza Regida anuncia gira por Centroamérica y Sudamérica 2027",
-    "artista": "Fuerza Regida",
-    "intro": "Fuerza Regida anunció en noviembre de 2026 la etapa latinoamericana de su gira 'This Is Our Dream Tour', con nueve conciertos entre el 11 y el 3 de marzo de 2027.",
-    "telegraph_url": "https://telegra.ph/Fuerza-Regida-anuncia-gira-por-Centroamérica-y-Sudamérica-2027-11-27",
-    "url": "https://enelensayomedia.com/notas/fuerza-regida-anuncia-gira-por-centroamerica-y-sudamerica-2027-1127.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/fuerza-regida-anuncia-gira-por-centroamerica-y-sudamerica-2027-1127.jpg",
-    "fecha": "2026-11-27T07:06:39.349520",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Música"
   },
   {
     "opinion": false,
