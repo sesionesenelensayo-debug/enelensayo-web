@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Santos Motoapohua bendice su mural del metro de París, 29 años después",
+    "artista": "Santos Motoapohua",
+    "intro": "El 19 de noviembre de 2026, Santos Motoapohua de la Torre, artista wixárika de 84 años originario de Jalisco…",
+    "telegraph_url": "https://telegra.ph/Santos-Motoapohua-bendice-su-mural-del-metro-de-París-29-años-después-11-27",
+    "url": "https://enelensayomedia.com/notas/santos-motoapohua-bendice-su-mural-del-metro-de-paris-29-anos-despues-1126.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/santos-motoapohua-bendice-su-mural-del-metro-de-paris-29-anos-despues-1126.jpg",
+    "fecha": "2026-11-26T22:06:21.854274",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cultura"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Museo Leonora Carrington inaugura exposición 'CREA-ANDO' de Mari Carmen Hernández",
     "artista": "Leonora Carrington",
     "intro": "El Museo Leonora Carrington de San Luis Potosí inaugurará la exposición 'CREA-ANDO' de la artista Mari Carmen Hernández el viernes 27 de noviembre de 2026 a las 19:00 horas.",
@@ -5782,19 +5796,5 @@
     "categoria": "Videojuegos",
     "fecha_original": "2026-11-09T07:26:33.842949",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "VisionQuest confirma el regreso de Wanda Maximoff en su escena postcréditos",
-    "artista": "VisionQuest",
-    "intro": "El último episodio de VisionQuest, emitido el 10 de noviembre en Disney+, incluye una escena postcréditos que muestra a Wanda Maximoff, interpretada por Elizabeth Olsen…",
-    "telegraph_url": "https://telegra.ph/VisionQuest-confirma-el-regreso-de-Wanda-Maximoff-en-su-escena-postcréditos-11-15",
-    "url": "https://enelensayomedia.com/notas/visionquest-confirma-el-regreso-de-wanda-maximoff-en-su-escena-postcre-1115.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/visionquest-confirma-el-regreso-de-wanda-maximoff-en-su-escena-postcre-1115.jpg",
-    "fecha": "2026-11-15T10:59:10.286259",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU"
   }
 ]
