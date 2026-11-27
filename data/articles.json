@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Latinoamérica busca la gloria en la Free Fire World Series 2026",
+    "artista": "FFWS 2026",
+    "intro": "La temporada competitiva de Free Fire llega a su punto decisivo este fin de semana en Bangkok, Tailandia, con los equipos de la región en la pelea.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/latinoamerica-busca-la-gloria-en-la-free-fire-world-series-2026-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/latinoamerica-busca-la-gloria-en-la-free-fire-world-series-2026-1127.jpg",
+    "fecha": "2026-11-27T15:08:16.518503",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Esports"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Murió Andy Taylor, guitarrista de Duran Duran, a los 65 años",
     "artista": "Duran Duran",
     "intro": "El guitarrista de Duran Duran Andy Taylor falleció el lunes 23 de noviembre de 2026 a los 65 años, tras una lucha de cinco años contra un cáncer de próstera metastásico diagnosticado en 2018.",
@@ -5789,19 +5803,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Luchas"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Juan García compite en 'Los juegos del hambre' de MrBeast y queda eliminado",
-    "artista": "Juan García",
-    "intro": "El sábado 14 de noviembre de 2026 MrBeast lanzó su nuevo video de \"Los juegos del hambre\", donde el creador mexicano Juan García, oriundo de Santa María Xigui, Hidalgo…",
-    "telegraph_url": "https://telegra.ph/Juan-García-compite-en-Los-juegos-del-hambre-de-MrBeast-y-queda-eliminado-11-16",
-    "url": "https://enelensayomedia.com/notas/juan-garcia-compite-en-los-juegos-del-hambre-de-mrbeast-y-queda-elimin-1116.html",
-    "imagen_url": "https://enelensayomedia.com/img/og.jpg",
-    "fecha": "2026-11-16T10:16:52.858189",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Streaming"
   }
 ]
