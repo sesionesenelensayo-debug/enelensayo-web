@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Anuel AA y Ed Maverick lanzan discos en esta semana de noviembre",
+    "artista": "Discos de la semana",
+    "intro": "Esta semana el mapa de la música latina y el rock reciben nuevos lanzamientos que no pasan desapercibidos.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/anuel-aa-y-ed-maverick-lanzan-discos-en-esta-semana-de-noviembre-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/anuel-aa-y-ed-maverick-lanzan-discos-en-esta-semana-de-noviembre-1127.jpg",
+    "fecha": "2026-11-27T13:19:27.120420",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
     "tipo": "noticia",
     "titulo": "WB Games anuncia descuentos de hasta 90% en su campaña de Black Friday",
     "artista": "WB Games",
@@ -4039,20 +4053,6 @@
   {
     "opinion": false,
     "tipo": "reportaje",
-    "titulo": "Rammstein y Paloma Morphy lanzan discos en esta semana de rock y latín",
-    "artista": "Discos de la semana",
-    "intro": "Esta semana se estrenan varios discos en la escena musical, desde rock europeo hasta música latina contemporánea.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/rammstein-y-paloma-morphy-lanzan-discos-en-esta-semana-de-rock-y-latin-1120.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/rammstein-y-paloma-morphy-lanzan-discos-en-esta-semana-de-rock-y-latin-1120.jpg",
-    "fecha": "2026-11-20T14:22:59.808938",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Reportaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
     "titulo": "Pearl Jam: la gira que salvó al grupo del colapso en 1994",
     "artista": "Pearl Jam",
     "intro": "El video 'Pearl Jam: la gira que lo salvó del colapso (1994)' del canal En el Ensayo Media explora cómo la banda estadounidense de rock evitó su desintegración al mantener precios justos…",
@@ -5795,19 +5795,5 @@
     "fecha_original": "2026-11-16T07:29:23.423916",
     "ultima_actualizacion": "2026-11-17T15:08:50.775687",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Ricaldoni inaugura su exposición en La Noche de los Museos",
-    "artista": "Ricaldoni",
-    "intro": "El artista plástico Hernán Ricaldoni inaugura su muestra \"Paisajes del sur\" en el Museo de Bellas Artes de Tres Arroyos (MUBATA)…",
-    "telegraph_url": "https://telegra.ph/Ricaldoni-inaugura-su-exposición-en-La-Noche-de-los-Museos-11-16",
-    "url": "https://enelensayomedia.com/notas/ricaldoni-inaugura-su-exposicion-en-la-noche-de-los-museos-1116.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/ricaldoni-inaugura-su-exposicion-en-la-noche-de-los-museos-1116.jpg",
-    "fecha": "2026-11-16T07:09:13.368113",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cultura"
   }
 ]
