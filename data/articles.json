@@ -1,6 +1,20 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Jesús Ortiz Paz causa furor en redes tras ser comparado con Shrek guapo",
+    "artista": "Jesús Ortiz Paz",
+    "intro": "Jesús Ortiz Paz, vocalista de Fuerza Regida, se vuelve viral en internet tras rasurarse la barba y ser comparado por sus seguidores con la versión humana del personaje animado de 'Shrek 2'.",
+    "telegraph_url": "https://telegra.ph/Jesús-Ortiz-Paz-causa-furor-en-redes-tras-ser-comparado-con-Shrek-guapo-11-27",
+    "url": "https://enelensayomedia.com/notas/jesus-ortiz-paz-causa-furor-en-redes-tras-ser-comparado-con-shrek-guap-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/jesus-ortiz-paz-causa-furor-en-redes-tras-ser-comparado-con-shrek-guap-1127.jpg",
+    "fecha": "2026-11-27T11:52:49.888783",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Música"
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Fuerza Regida anuncia gira por Centroamérica y Sudamérica 2027",
     "artista": "Fuerza Regida",
@@ -4921,21 +4935,6 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "In memoriam"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "J Balvin desafía el mito del reggaetón como sonido de calle",
-    "artista": "J Balvin",
-    "intro": "En el video 'J Balvin: el mito del reggaeton como sonido de calle', el canal En el Ensayo Media analiza la trayectoria de J Balvin…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/j-balvin-desafia-el-mito-del-reggaeton-como-sonido-de-calle-1118.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/j-balvin-desafia-el-mito-del-reggaeton-como-sonido-de-calle-1118.jpg",
-    "fecha": "2026-11-18T18:38:10.718966",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Música"
   },
   {
     "opinion": false,
