@@ -1,32 +1,69 @@
 {
- "In memoriam": {
+ "Biografía": {
   "shorts": [
    {
     "id": "nEiB6hnMLEY",
-    "titulo": "Muere Bronson Reed, luchador de la WWE, a los 38 años",
+    "titulo": "Bronson Reed fallece a los 38 años por complicaciones médicas",
     "fecha": "2026-11-28",
-    "nota": "https://enelensayomedia.com/notas/muere-bronson-reed-luchador-de-la-wwe-a-los-38-anos-1128.html"
+    "nota": "https://enelensayomedia.com/notas/bronson-reed-fallece-a-los-38-anos-por-complicaciones-medicas-1128.html"
    },
    {
-    "id": "EmkWKCHJcI8",
-    "titulo": "Pat Morita, actor de The Karate Kid, fallece a los 73 años por insuficiencia renal",
-    "fecha": "2026-11-24",
-    "nota": "https://enelensayomedia.com/notas/pat-morita-actor-de-the-karate-kid-fallece-a-los-73-anos-por-insuficie-1124.html"
+    "id": "cXuprAXLAVM",
+    "titulo": "Michael Hutchens: la trágica muerte de un ídolo",
+    "fecha": "2026-11-22",
+    "nota": "https://enelensayomedia.com/notas/michael-hutchens-la-tragica-muerte-de-un-idolo-1122.html"
    },
    {
-    "id": "MzYhk1JIYDs",
-    "titulo": "Martha Valdés, actriz que dejó el cine en 1959, fallece a los 86",
+    "id": "Hvq8E_RVxwE",
+    "titulo": "Shemp Howard: el día que murió en un taxi tras un boxeo",
+    "fecha": "2026-11-22",
+    "nota": "https://enelensayomedia.com/notas/shemp-howard-el-dia-que-murio-en-un-taxi-tras-un-boxeo-1122.html"
+   },
+   {
+    "id": "WIkv3Ay5Crg",
+    "titulo": "Roberto Parada: actor chileno cuya vida marcó la dictadura",
     "fecha": "2026-11-20",
-    "nota": "https://enelensayomedia.com/notas/martha-valdes-actriz-que-dejo-el-cine-en-1959-fallece-a-los-86-1120.html"
+    "nota": "https://enelensayomedia.com/notas/roberto-parada-actor-chileno-cuya-vida-marco-la-dictadura-1120.html"
    },
    {
-    "id": "mgn-ud1VQqc",
-    "titulo": "Marilyn Monroe murió la madrugada del 5 de agosto de 1962 en su residencia de Los Ángeles",
-    "fecha": "2026-11-18",
-    "nota": "https://enelensayomedia.com/notas/marilyn-monroe-murio-la-madrugada-del-5-de-agosto-de-1962-en-su-reside-1118.html"
+    "id": "kUo8h9dOk7c",
+    "titulo": "Schubert: el prodigio musical que dejó su obra en 31 años",
+    "fecha": "2026-11-19",
+    "nota": "https://enelensayomedia.com/notas/schubert-el-prodigio-musical-que-dejo-su-obra-en-31-anos-1119.html"
    }
   ],
-  "longs": []
+  "longs": [
+   {
+    "id": "FfKkdPXyqcs",
+    "titulo": "El error que cambió la vida de Marilyn Monroe",
+    "fecha": "2026-11-24",
+    "nota": "https://enelensayomedia.com/notas/el-error-que-cambio-la-vida-de-marilyn-monroe-1124.html"
+   },
+   {
+    "id": "qEmUf8Ye2n8",
+    "titulo": "Red Hot Chili Peppers: Mundial Sub-17 Qatar 2026: 48 selecciones y el reto de la seguridad",
+    "fecha": "2026-11-22",
+    "nota": "https://enelensayomedia.com/notas/red-hot-chili-peppers-mundial-sub-17-qatar-2026-48-selecciones-y-el-re-1122.html"
+   },
+   {
+    "id": "MMcU-T0z-tg",
+    "titulo": "La Chica Dorada: el ascenso internacional de Paulina Rubio",
+    "fecha": "2026-11-21",
+    "nota": "https://enelensayomedia.com/notas/la-chica-dorada-el-ascenso-internacional-de-paulina-rubio-1121.html"
+   },
+   {
+    "id": "hmqizcysa48",
+    "titulo": "El enigma de la voz de George Michael: fama, identidad y legado musical",
+    "fecha": "2026-11-17",
+    "nota": "https://enelensayomedia.com/notas/el-enigma-de-la-voz-de-george-michael-fama-identidad-y-legado-musical-1117.html"
+   },
+   {
+    "id": "Sn1dHTURIR4",
+    "titulo": "El legado de Lucero: entre la estrella Venus y la artista mexicana",
+    "fecha": "2026-11-17",
+    "nota": "https://enelensayomedia.com/notas/el-legado-de-lucero-entre-la-estrella-venus-y-la-artista-mexicana-1117.html"
+   }
+  ]
  },
  "Reportaje": {
   "shorts": [
@@ -92,65 +129,28 @@
    }
   ]
  },
- "Biografía": {
+ "In memoriam": {
   "shorts": [
    {
-    "id": "cXuprAXLAVM",
-    "titulo": "Michael Hutchens: la trágica muerte de un ídolo",
-    "fecha": "2026-11-22",
-    "nota": "https://enelensayomedia.com/notas/michael-hutchens-la-tragica-muerte-de-un-idolo-1122.html"
+    "id": "EmkWKCHJcI8",
+    "titulo": "Pat Morita, actor de The Karate Kid, fallece a los 73 años por insuficiencia renal",
+    "fecha": "2026-11-24",
+    "nota": "https://enelensayomedia.com/notas/pat-morita-actor-de-the-karate-kid-fallece-a-los-73-anos-por-insuficie-1124.html"
    },
    {
-    "id": "Hvq8E_RVxwE",
-    "titulo": "Shemp Howard: el día que murió en un taxi tras un boxeo",
-    "fecha": "2026-11-22",
-    "nota": "https://enelensayomedia.com/notas/shemp-howard-el-dia-que-murio-en-un-taxi-tras-un-boxeo-1122.html"
-   },
-   {
-    "id": "WIkv3Ay5Crg",
-    "titulo": "Roberto Parada: actor chileno cuya vida marcó la dictadura",
+    "id": "MzYhk1JIYDs",
+    "titulo": "Martha Valdés, actriz que dejó el cine en 1959, fallece a los 86",
     "fecha": "2026-11-20",
-    "nota": "https://enelensayomedia.com/notas/roberto-parada-actor-chileno-cuya-vida-marco-la-dictadura-1120.html"
+    "nota": "https://enelensayomedia.com/notas/martha-valdes-actriz-que-dejo-el-cine-en-1959-fallece-a-los-86-1120.html"
    },
    {
-    "id": "kUo8h9dOk7c",
-    "titulo": "Schubert: el prodigio musical que dejó su obra en 31 años",
-    "fecha": "2026-11-19",
-    "nota": "https://enelensayomedia.com/notas/schubert-el-prodigio-musical-que-dejo-su-obra-en-31-anos-1119.html"
+    "id": "mgn-ud1VQqc",
+    "titulo": "Marilyn Monroe murió la madrugada del 5 de agosto de 1962 en su residencia de Los Ángeles",
+    "fecha": "2026-11-18",
+    "nota": "https://enelensayomedia.com/notas/marilyn-monroe-murio-la-madrugada-del-5-de-agosto-de-1962-en-su-reside-1118.html"
    }
   ],
-  "longs": [
-   {
-    "id": "FfKkdPXyqcs",
-    "titulo": "El error que cambió la vida de Marilyn Monroe",
-    "fecha": "2026-11-24",
-    "nota": "https://enelensayomedia.com/notas/el-error-que-cambio-la-vida-de-marilyn-monroe-1124.html"
-   },
-   {
-    "id": "qEmUf8Ye2n8",
-    "titulo": "Red Hot Chili Peppers: Mundial Sub-17 Qatar 2026: 48 selecciones y el reto de la seguridad",
-    "fecha": "2026-11-22",
-    "nota": "https://enelensayomedia.com/notas/red-hot-chili-peppers-mundial-sub-17-qatar-2026-48-selecciones-y-el-re-1122.html"
-   },
-   {
-    "id": "MMcU-T0z-tg",
-    "titulo": "La Chica Dorada: el ascenso internacional de Paulina Rubio",
-    "fecha": "2026-11-21",
-    "nota": "https://enelensayomedia.com/notas/la-chica-dorada-el-ascenso-internacional-de-paulina-rubio-1121.html"
-   },
-   {
-    "id": "hmqizcysa48",
-    "titulo": "El enigma de la voz de George Michael: fama, identidad y legado musical",
-    "fecha": "2026-11-17",
-    "nota": "https://enelensayomedia.com/notas/el-enigma-de-la-voz-de-george-michael-fama-identidad-y-legado-musical-1117.html"
-   },
-   {
-    "id": "Sn1dHTURIR4",
-    "titulo": "El legado de Lucero: entre la estrella Venus y la artista mexicana",
-    "fecha": "2026-11-17",
-    "nota": "https://enelensayomedia.com/notas/el-legado-de-lucero-entre-la-estrella-venus-y-la-artista-mexicana-1117.html"
-   }
-  ]
+  "longs": []
  },
  "Chisme": {
   "shorts": [
