@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Dave Keuning, guitarrista de The Killers, sufre derrame cerebral",
+    "artista": "The Killers",
+    "intro": "Dave Keuning, guitarrista principal y cofundador de The Killers, reveló que sufrió un accidente cerebrovascular grave dos semanas antes de hacerlo público el Día de Acción de Gracias de 2026.",
+    "telegraph_url": "https://telegra.ph/Dave-Keuning-guitarrista-de-The-Killers-sufre-derrame-cerebral-11-28",
+    "url": "https://enelensayomedia.com/notas/dave-keuning-guitarrista-de-the-killers-sufre-derrame-cerebral-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/dave-keuning-guitarrista-de-the-killers-sufre-derrame-cerebral-1127.jpg",
+    "fecha": "2026-11-27T19:57:42.367395",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Feria de León 2027 revela cartelera con Los Tigres del Norte, Kenia Os y Grupo Firme",
     "artista": "Los Tigres del Norte",
     "intro": "La Feria Estatal de León 2027, que se desarrollará del 8 de enero al 4 de febrero de 2027, anunció su cartelro con conciertos gratuitos de Los Tigres del Norte, Molotov y Kenia Os…",
@@ -5792,19 +5806,5 @@
     "fecha_original": "2026-11-15T16:33:49.725118",
     "ultima_actualizacion": "2026-11-16T14:55:32.194492",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Kevin Feige explica la llegada de los X-Men a Vengadores: Doomsday",
-    "artista": "Vengadores: Doomsday",
-    "intro": "Kevin Feige reveló que la inclusión de los X-Men originales en 'Vengadores: Doomsday' responde a una necesidad narrativa: culminar 25 años de historias de Marvel.",
-    "telegraph_url": "https://telegra.ph/Kevin-Feige-explica-la-llegada-de-los-X-Men-a-Vengadores-Doomsday-11-16",
-    "url": "https://enelensayomedia.com/notas/kevin-feige-explica-la-llegada-de-los-x-men-a-vengadores-doomsday-1116.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/kevin-feige-explica-la-llegada-de-los-x-men-a-vengadores-doomsday-1116.jpg",
-    "fecha": "2026-11-16T14:33:07.656249",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Marvel y DCU"
   }
 ]
