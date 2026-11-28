@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Hayley Williams en el Auditorio Nacional: su primer show solista en México",
+    "artista": "Hayley Williams",
+    "intro": "El sábado 28 de noviembre de 2026, Hayley Williams presenta en vivo en el Auditorio Nacional de la Ciudad de México su primer concierto en solitario en el país.",
+    "telegraph_url": "https://telegra.ph/Hayley-Williams-en-el-Auditorio-Nacional-su-primer-show-solista-en-México-11-28",
+    "url": "https://enelensayomedia.com/notas/hayley-williams-en-el-auditorio-nacional-su-primer-show-solista-en-mex-1128.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/hayley-williams-en-el-auditorio-nacional-su-primer-show-solista-en-mex-1128.jpg",
+    "fecha": "2026-11-28T08:34:26.348800",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Alejandra Guzmán sufre nueva dislocación de cadera en concierto",
     "artista": "Alejandra Guzmán sufre una nueva dislocación de cadera durante un concierto",
     "intro": "Mientras los escenarios suelen ser el espacio donde la fuerza y la energía de una artista se despliegan sin reservas…",
@@ -5793,19 +5807,5 @@
     "fecha_original": "2026-11-17T10:17:37.646117",
     "ultima_actualizacion": "2026-11-20T13:40:16.097592",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Charlize Theron: del Oscar a la lucha contra el doble rasero en Hollywood",
-    "artista": "Charlize Theron Hollywood",
-    "intro": "Con tres décadas de carrera, la sudafricana Oscar y productora denuncia la inequidad de género, revela sus inseguridades y sigue arriesgándose en papeles de acción.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/charlize-theron-del-oscar-a-la-lucha-contra-el-doble-rasero-en-hollywo-1117.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/charlize-theron-del-oscar-a-la-lucha-contra-el-doble-rasero-en-hollywo-1117.jpg",
-    "fecha": "2026-11-17T09:44:06.503466",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme internacional"
   }
 ]
