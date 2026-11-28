@@ -1,20 +1,15 @@
 {
- "actualizado": "2026-11-27 14:26",
+ "actualizado": "2026-11-27 19:44",
  "general": [
   {
    "titulo": "Omega Hardcore de Guadalajara revela su lucha contra el abandono y la solidaridad en sus filas",
    "url": "https://enelensayomedia.com/notas/omega-hardcore-de-guadalajara-revela-su-lucha-contra-el-abandono-y-la-1126.html",
-   "visitas": 14
+   "visitas": 15
   },
   {
    "titulo": "Lupita D'Alessio celebra 55 años",
    "url": "https://enelensayomedia.com/notas/lupita-d-alessio-celebra-55-anos-1124.html",
    "visitas": 10
-  },
-  {
-   "titulo": "Manelyk pone a prueba a Yann Lobo y le lanza fuerte reclamo en La Granja VIP",
-   "url": "https://enelensayomedia.com/notas/manelyk-pone-a-prueba-a-yann-lobo-y-le-lanza-fuerte-reclamo-en-la-gran-1126.html",
-   "visitas": 9
   },
   {
    "titulo": "Cartel del Coachella 2026: edad media, países y quiénes están en el top 100",
@@ -30,6 +25,11 @@
    "titulo": "Tina Turner nació el 26 de noviembre de 1939, cumpliría 87 años hoy",
    "url": "https://enelensayomedia.com/notas/tina-turner-nacio-el-26-de-noviembre-de-1939-cumpliria-87-anos-hoy-1126.html",
    "visitas": 7
+  },
+  {
+   "titulo": "Cinépolis confirma funciones especiales de 'El Grinch' en diciembre",
+   "url": "https://enelensayomedia.com/notas/cinepolis-confirma-funciones-especiales-de-el-grinch-en-diciembre-1124.html",
+   "visitas": 7
   }
  ],
  "categorias": {
@@ -37,7 +37,7 @@
    {
     "titulo": "Omega Hardcore de Guadalajara revela su lucha contra el abandono y la solidaridad en sus filas",
     "url": "https://enelensayomedia.com/notas/omega-hardcore-de-guadalajara-revela-su-lucha-contra-el-abandono-y-la-1126.html",
-    "visitas": 14
+    "visitas": 15
    },
    {
     "titulo": "Cartel del Coachella 2026: edad media, países y quiénes están en el top 100",
@@ -77,28 +77,6 @@
     "visitas": 4
    }
   ],
-  "reality": [
-   {
-    "titulo": "Manelyk pone a prueba a Yann Lobo y le lanza fuerte reclamo en La Granja VIP",
-    "url": "https://enelensayomedia.com/notas/manelyk-pone-a-prueba-a-yann-lobo-y-le-lanza-fuerte-reclamo-en-la-gran-1126.html",
-    "visitas": 9
-   },
-   {
-    "titulo": "La Granja VIP 2: definidos los cuatro nominados de la semana 12 y arranca la salvación",
-    "url": "https://enelensayomedia.com/notas/la-granja-vip-2-definidos-los-cuatro-nominados-de-la-semana-12-y-arran-1126.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "Nuevas dinámicas y reencuentros en La Mansión VIP 2",
-    "url": "https://enelensayomedia.com/notas/nuevas-dinamicas-y-reencuentros-en-la-mansion-vip-2-1125.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "Bebeshita y Bicolor llegan a La Granja VIP por caminos distintos",
-    "url": "https://enelensayomedia.com/notas/bebeshita-y-bicolor-llegan-a-la-granja-vip-por-caminos-distintos-1122.html",
-    "visitas": 5
-   }
-  ],
   "reportaje": [
    {
     "titulo": "Tina Turner nació el 26 de noviembre de 1939, cumpliría 87 años hoy",
@@ -106,9 +84,9 @@
     "visitas": 7
    },
    {
-    "titulo": "Hayden Panettiere encontrada muerta en Nueva York",
-    "url": "https://enelensayomedia.com/notas/hayden-panettiere-encontrada-muerta-en-nueva-york-1124.html",
-    "visitas": 7
+    "titulo": "Músico es baleado tras discusión con su pareja policía en Chorrillos",
+    "url": "https://enelensayomedia.com/notas/musico-es-baleado-tras-discusion-con-su-pareja-policia-en-chorrillos-1122.html",
+    "visitas": 4
    }
   ],
   "cultura": [
@@ -123,55 +101,16 @@
     "visitas": 4
    }
   ],
-  "streaming": [
-   {
-    "titulo": "GTA VI genera $1.8 mil mil millones y desata negocio para creadores",
-    "url": "https://enelensayomedia.com/notas/gta-vi-genera-1-8-mil-mil-millones-y-desata-negocio-para-creadores-1120.html",
-    "visitas": 7
-   },
-   {
-    "titulo": "Confunden a streamer con Samuel García",
-    "url": "https://enelensayomedia.com/notas/confunden-a-streamer-con-samuel-garcia-1127.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "Itatí López y Anahí Ríos enfrentan polémica en La Mansión VIP 2",
-    "url": "https://enelensayomedia.com/notas/itati-lopez-y-anahi-rios-enfrentan-polemica-en-la-mansion-vip-2-1126.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "Plex entrevista a Sánchez y Feijóo en YouTube antes de las elecciones 29N",
-    "url": "https://enelensayomedia.com/notas/plex-entrevista-a-sanchez-y-feijoo-en-youtube-antes-de-las-elecciones-1125.html",
-    "visitas": 5
-   }
-  ],
-  "doblaje": [
-   {
-    "titulo": "¿Doblaje arruinado? La polémica de Macarena García y Javier Ibarreche en Wildwood",
-    "url": "https://enelensayomedia.com/notas/doblaje-arruinado-la-polemica-de-macarena-garcia-y-javier-ibarreche-en-1120.html",
-    "visitas": 7
-   },
-   {
-    "titulo": "LaConve - Animex anuncia la FanParty 2026 en Cintermex",
-    "url": "https://enelensayomedia.com/notas/laconve-animex-anuncia-la-fanparty-2026-en-cintermex-1126.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "Boruto aterriza en Netflix con doblaje al castellano",
-    "url": "https://enelensayomedia.com/notas/boruto-aterriza-en-netflix-con-doblaje-al-castellano-1125.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "Solo Leveling: serie live-action no se estrenaría hasta 2028 en Netflix",
-    "url": "https://enelensayomedia.com/notas/solo-leveling-serie-live-action-no-se-estrenaria-hasta-2028-en-netflix-1122.html",
-    "visitas": 5
-   }
-  ],
   "chisme": [
    {
     "titulo": "Derbez y Mariana Bo enfrentan rumores de ruptura escandalosa",
     "url": "https://enelensayomedia.com/notas/derbez-y-mariana-bo-enfrentan-rumores-de-ruptura-escandalosa-1126.html",
     "visitas": 6
+   },
+   {
+    "titulo": "Hijo de Eugenio Derbez enfrenta nueva denuncia por violación de menor de 15 años",
+    "url": "https://enelensayomedia.com/notas/hijo-de-eugenio-derbez-enfrenta-nueva-denuncia-por-violacion-de-menor-1127.html",
+    "visitas": 5
    },
    {
     "titulo": "Yeferson Cossio y Carolina Gómez confirman su ruptura tras cuatro años",
@@ -182,11 +121,6 @@
     "titulo": "Mía Rubín confirma ruptura con Tarik Othón por diferencias profesionales",
     "url": "https://enelensayomedia.com/notas/mia-rubin-confirma-ruptura-con-tarik-othon-por-diferencias-profesional-1121.html",
     "visitas": 5
-   },
-   {
-    "titulo": "Roca Rey y Tana Rivera: una llamada de madrugada para cerrar las heridas",
-    "url": "https://enelensayomedia.com/notas/roca-rey-y-tana-rivera-una-llamada-de-madrugada-para-cerrar-las-herida-1125.html",
-    "visitas": 4
    }
   ],
   "televisión": [
@@ -218,17 +152,78 @@
     "visitas": 6
    },
    {
-    "titulo": "CMLL celebra Noche de Cascos y Máscaras con NFL y arranca eliminatoria Leyenda Azul 2026",
-    "url": "https://enelensayomedia.com/notas/cmll-celebra-noche-de-cascos-y-mascaras-con-nfl-y-arranca-eliminatoria-1120.html",
-    "visitas": 6
+    "titulo": "The Rock volverá a WWE el 28 de noviembre",
+    "url": "https://enelensayomedia.com/notas/the-rock-volvera-a-wwe-el-28-de-noviembre-1124.html",
+    "visitas": 5
+   }
+  ],
+  "streaming": [
+   {
+    "titulo": "Confunden a streamer con Samuel García",
+    "url": "https://enelensayomedia.com/notas/confunden-a-streamer-con-samuel-garcia-1127.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "Itatí López y Anahí Ríos enfrentan polémica en La Mansión VIP 2",
+    "url": "https://enelensayomedia.com/notas/itati-lopez-y-anahi-rios-enfrentan-polemica-en-la-mansion-vip-2-1126.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "Plex entrevista a Sánchez y Feijóo en YouTube antes de las elecciones 29N",
+    "url": "https://enelensayomedia.com/notas/plex-entrevista-a-sanchez-y-feijoo-en-youtube-antes-de-las-elecciones-1125.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "La Noche Dorada 2: Zein promete boxeo en vivo y gratis desde Lima",
+    "url": "https://enelensayomedia.com/notas/la-noche-dorada-2-zein-promete-boxeo-en-vivo-y-gratis-desde-lima-1126.html",
+    "visitas": 4
+   }
+  ],
+  "reality": [
+   {
+    "titulo": "La Granja VIP 2: definidos los cuatro nominados de la semana 12 y arranca la salvación",
+    "url": "https://enelensayomedia.com/notas/la-granja-vip-2-definidos-los-cuatro-nominados-de-la-semana-12-y-arran-1126.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "Nuevas dinámicas y reencuentros en La Mansión VIP 2",
+    "url": "https://enelensayomedia.com/notas/nuevas-dinamicas-y-reencuentros-en-la-mansion-vip-2-1125.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "Bebeshita y Bicolor llegan a La Granja VIP por caminos distintos",
+    "url": "https://enelensayomedia.com/notas/bebeshita-y-bicolor-llegan-a-la-granja-vip-por-caminos-distintos-1122.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "Moisés Peñaloza no olvida el pleito con Yahir en La Casa de los Famosos México",
+    "url": "https://enelensayomedia.com/notas/moises-penaloza-no-olvida-el-pleito-con-yahir-en-la-casa-de-los-famoso-1122.html",
+    "visitas": 5
+   }
+  ],
+  "doblaje": [
+   {
+    "titulo": "LaConve - Animex anuncia la FanParty 2026 en Cintermex",
+    "url": "https://enelensayomedia.com/notas/laconve-animex-anuncia-la-fanparty-2026-en-cintermex-1126.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "Boruto aterriza en Netflix con doblaje al castellano",
+    "url": "https://enelensayomedia.com/notas/boruto-aterriza-en-netflix-con-doblaje-al-castellano-1125.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "Solo Leveling: serie live-action no se estrenaría hasta 2028 en Netflix",
+    "url": "https://enelensayomedia.com/notas/solo-leveling-serie-live-action-no-se-estrenaria-hasta-2028-en-netflix-1122.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "Blue Exorcist vuelve a Netflix con temporada 1 y doblaje original",
+    "url": "https://enelensayomedia.com/notas/blue-exorcist-vuelve-a-netflix-con-temporada-1-y-doblaje-original-1121.html",
+    "visitas": 5
    }
   ],
   "marvel y dcu": [
-   {
-    "titulo": "Rumor: Hayley Atwell dice que el tráiler de ‘Avengers: Doomsday’ saldrá el lunes 23",
-    "url": "https://enelensayomedia.com/notas/rumor-hayley-atwell-dice-que-el-trailer-de-avengers-doomsday-saldra-el-1122.html",
-    "visitas": 6
-   },
    {
     "titulo": "Regreso de Downey Jr.",
     "url": "https://enelensayomedia.com/notas/regreso-de-downey-jr-1126.html",
@@ -243,14 +238,21 @@
     "titulo": "Hailee Steinfeld confirma su regreso como Kate Bishop en Avengers: Doomsday",
     "url": "https://enelensayomedia.com/notas/hailee-steinfeld-confirma-su-regreso-como-kate-bishop-en-avengers-doom-1123.html",
     "visitas": 5
+   },
+   {
+    "titulo": "Rumor: Wanda Maximoff podría regresar en 'Avengers: Doomsday' según postcréditos de 'VisionQuest'",
+    "url": "https://enelensayomedia.com/notas/rumor-wanda-maximoff-podria-regresar-en-avengers-doomsday-segun-postcr-1121.html",
+    "visitas": 5
+   }
+  ],
+  "internacional": [
+   {
+    "titulo": "Timberlake y Fallon cantan 'Cha Cha Slide' en adelanto de Acción de Gracias de NBC",
+    "url": "https://enelensayomedia.com/notas/timberlake-y-fallon-cantan-cha-cha-slide-en-adelanto-de-accion-de-grac-1125.html",
+    "visitas": 5
    }
   ],
   "videojuegos": [
-   {
-    "titulo": "Sony anuncia juegos de diciembre para PlayStation Plus",
-    "url": "https://enelensayomedia.com/notas/sony-anuncia-juegos-de-diciembre-para-playstation-plus-1126.html",
-    "visitas": 5
-   },
    {
     "titulo": "Retail Hell llega a PS5, Xbox Series X|S y Nintendo Switch",
     "url": "https://enelensayomedia.com/notas/retail-hell-llega-a-ps5-xbox-series-x-s-y-nintendo-switch-1127.html",
@@ -265,13 +267,11 @@
     "titulo": "Team Cherry anuncia el evento Cherry Time! sobre Silksong",
     "url": "https://enelensayomedia.com/notas/team-cherry-anuncia-el-evento-cherry-time-sobre-silksong-1125.html",
     "visitas": 4
-   }
-  ],
-  "internacional": [
+   },
    {
-    "titulo": "Timberlake y Fallon cantan 'Cha Cha Slide' en adelanto de Acción de Gracias de NBC",
-    "url": "https://enelensayomedia.com/notas/timberlake-y-fallon-cantan-cha-cha-slide-en-adelanto-de-accion-de-grac-1125.html",
-    "visitas": 5
+    "titulo": "Análisis de Pikmin 4 Nintendo Switch 2 Edition",
+    "url": "https://enelensayomedia.com/notas/analisis-de-pikmin-4-nintendo-switch-2-edition-1124.html",
+    "visitas": 4
    }
   ],
   "in memoriam": [
@@ -285,6 +285,13 @@
    {
     "titulo": "Netflix estrena hoy 56 contenidos en guía de Espinof para 25 de noviembre",
     "url": "https://enelensayomedia.com/notas/netflix-estrena-hoy-56-contenidos-en-guia-de-espinof-para-25-de-noviem-1125.html",
+    "visitas": 4
+   }
+  ],
+  "esports": [
+   {
+    "titulo": "Mundial Sub-17 Qatar 2026: 48 selecciones, 104 partidos y el reto de la seguridad",
+    "url": "https://enelensayomedia.com/notas/mundial-sub-17-qatar-2026-48-selecciones-104-partidos-y-el-reto-de-la-1122.html",
     "visitas": 4
    }
   ]
