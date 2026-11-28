@@ -1,5 +1,19 @@
 [
   {
+    "opinion": true,
+    "tipo": "reportaje",
+    "titulo": "Por qué los latinoamericanos no se identifican con categorías raciales estadounidenses",
+    "artista": "¿Por qué los latinoamericanos se identifican con cualquier raza?",
+    "intro": "La historia demográfica hispana en EE.UU. revela una desconexión entre su identidad cultural y los estándares raciales estadounidenses.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/por-que-los-latinoamericanos-no-se-identifican-con-categorias-raciales-1128.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/por-que-los-latinoamericanos-no-se-identifican-con-categorias-raciales-1128.jpg",
+    "fecha": "2026-11-28T07:51:36.064008",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Agenda woke"
+  },
+  {
     "opinion": false,
     "tipo": "reportaje",
     "titulo": "Sasha Sokol arremete contra la serie de Timbiriche",
@@ -5790,19 +5804,5 @@
     "views": 0,
     "archivo": true,
     "categoria": "Biografía"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Aguilar cuestiona el doblaje de 'Yo soy Rocky' con Tomás Galván",
-    "artista": "Víctor Hugo Aguilar",
-    "intro": "El actor de doblaje Víctor Hugo Aguilar publicó en TikTok una crítica al uso de Tomás Galván como voz latina de Sylvester Stallone en 'Yo soy Rocky'.",
-    "telegraph_url": "https://telegra.ph/Aguilar-cuestiona-el-doblaje-de-Yo-soy-Rocky-con-Tomás-Galván-11-16",
-    "url": "https://enelensayomedia.com/notas/aguilar-cuestiona-el-doblaje-de-yo-soy-rocky-con-tomas-galvan-1116.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/aguilar-cuestiona-el-doblaje-de-yo-soy-rocky-con-tomas-galvan-1116.jpg",
-    "fecha": "2026-11-16T17:09:03.840904",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Doblaje"
   }
 ]
