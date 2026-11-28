@@ -1,6 +1,23 @@
 [
   {
     "opinion": false,
+    "tipo": "noticia",
+    "titulo": "Cineteca Nacional Chapultepec renueva su cartelera para diciembre 2026",
+    "artista": "Cineteca Nacional",
+    "intro": "La Cineteca Nacional, sede Chapultepec, anunció la renovación de su programación para la primera quincena de diciembre de 2026.",
+    "telegraph_url": "https://telegra.ph/Cineteca-Nacional-Chapultepec-renueva-su-cartelera-para-diciembre-2026-11-27",
+    "url": "https://enelensayomedia.com/notas/cineteca-nacional-chapultepec-renueva-su-cartelera-para-diciembre-2026-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/cineteca-nacional-chapultepec-renueva-su-cartelera-para-diciembre-2026-1127.jpg",
+    "fecha": "2026-11-27T22:39:47.930735",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Cine",
+    "fecha_original": "2026-11-27T11:32:51.533239",
+    "ultima_actualizacion": "2026-11-27T22:39:47.930735",
+    "actualizada": true
+  },
+  {
+    "opinion": false,
     "tipo": "reportaje",
     "titulo": "Daniela Sarfati será voz en II Encuentro Nacional de Mujeres Exitosas",
     "artista": "Daniela Sarfati",
@@ -451,20 +468,6 @@
     "fecha_original": "2026-11-27T07:06:39.349520",
     "ultima_actualizacion": "2026-11-27T11:51:33.204336",
     "actualizada": true
-  },
-  {
-    "opinion": false,
-    "tipo": "noticia",
-    "titulo": "Cineteca Nacional Chapultepec renueva su cartelera para diciembre 2026",
-    "artista": "Cineteca Nacional",
-    "intro": "La Cineteca Nacional, sede Chapultepec, anunció la renovación de su programación para la primera quincena de diciembre de 2026.",
-    "telegraph_url": "https://telegra.ph/Cineteca-Nacional-Chapultepec-renueva-su-cartelera-para-diciembre-2026-11-27",
-    "url": "https://enelensayomedia.com/notas/cineteca-nacional-chapultepec-renueva-su-cartelera-para-diciembre-2026-1127.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/cineteca-nacional-chapultepec-renueva-su-cartelera-para-diciembre-2026-1127.jpg",
-    "fecha": "2026-11-27T11:32:51.533239",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine"
   },
   {
     "opinion": false,
