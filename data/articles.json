@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Sasha Sokol arremete contra la serie de Timbiriche",
+    "artista": "Sasha Sokol",
+    "intro": "Sasha Sokol criticó públicamente la serie 'Timbiriche' de ViX a raíz de sus materiales promocionales.",
+    "telegraph_url": "https://telegra.ph/Sasha-Sokol-arremete-contra-la-serie-de-Timbiriche-11-28",
+    "url": "https://enelensayomedia.com/notas/sasha-sokol-arremete-contra-la-serie-de-timbiriche-1128.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/sasha-sokol-arremete-contra-la-serie-de-timbiriche-1128.jpg",
+    "fecha": "2026-11-28T07:29:48.001759",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Bronson Reed fallece a los 38 años por complicaciones médicas",
     "artista": "Bronson Reed",
     "intro": "En el video publicado por el canal En el Ensayo Media, se informa del fallecimiento de Bronson Reed, luchador de la WWE, a los 38 años.",
@@ -5790,19 +5804,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Doblaje"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Javier Bardem revela por qué estaba nervioso filando con Julia Roberts",
-    "artista": "Javier Bardem sobre Julia Roberts",
-    "intro": "El actor español confesó en una entrevista que se sintió intimidado por la presencia de la estadounidense durante la grabación de 'Comer, rezar, amar'.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/javier-bardem-revela-por-que-estaba-nervioso-filando-con-julia-roberts-1116.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/javier-bardem-revela-por-que-estaba-nervioso-filando-con-julia-roberts-1116.jpg",
-    "fecha": "2026-11-16T17:02:27.536837",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Chisme internacional"
   }
 ]
