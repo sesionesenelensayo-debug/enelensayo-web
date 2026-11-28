@@ -1,15 +1,15 @@
 {
- "actualizado": "2026-11-27 19:44",
+ "actualizado": "2026-11-27 22:57",
  "general": [
-  {
-   "titulo": "Omega Hardcore de Guadalajara revela su lucha contra el abandono y la solidaridad en sus filas",
-   "url": "https://enelensayomedia.com/notas/omega-hardcore-de-guadalajara-revela-su-lucha-contra-el-abandono-y-la-1126.html",
-   "visitas": 15
-  },
   {
    "titulo": "Lupita D'Alessio celebra 55 años",
    "url": "https://enelensayomedia.com/notas/lupita-d-alessio-celebra-55-anos-1124.html",
-   "visitas": 10
+   "visitas": 11
+  },
+  {
+   "titulo": "Manelyk pone a prueba a Yann Lobo y le lanza fuerte reclamo en La Granja VIP",
+   "url": "https://enelensayomedia.com/notas/manelyk-pone-a-prueba-a-yann-lobo-y-le-lanza-fuerte-reclamo-en-la-gran-1126.html",
+   "visitas": 9
   },
   {
    "titulo": "Cartel del Coachella 2026: edad media, países y quiénes están en el top 100",
@@ -33,12 +33,46 @@
   }
  ],
  "categorias": {
-  "música": [
+  "conciertos": [
    {
-    "titulo": "Omega Hardcore de Guadalajara revela su lucha contra el abandono y la solidaridad en sus filas",
-    "url": "https://enelensayomedia.com/notas/omega-hardcore-de-guadalajara-revela-su-lucha-contra-el-abandono-y-la-1126.html",
-    "visitas": 15
+    "titulo": "Lupita D'Alessio celebra 55 años",
+    "url": "https://enelensayomedia.com/notas/lupita-d-alessio-celebra-55-anos-1124.html",
+    "visitas": 11
    },
+   {
+    "titulo": "Maná concierto en el Estadio GNP Seguros 2026: boletos y horarios",
+    "url": "https://enelensayomedia.com/notas/mana-concierto-en-el-estadio-gnp-seguros-2026-boletos-y-horarios-1121.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "Caifanes dará histórico concierto en Estadio GNP el 11 de julio",
+    "url": "https://enelensayomedia.com/notas/caifanes-dara-historico-concierto-en-estadio-gnp-el-11-de-julio-1123.html",
+    "visitas": 4
+   }
+  ],
+  "reality": [
+   {
+    "titulo": "Manelyk pone a prueba a Yann Lobo y le lanza fuerte reclamo en La Granja VIP",
+    "url": "https://enelensayomedia.com/notas/manelyk-pone-a-prueba-a-yann-lobo-y-le-lanza-fuerte-reclamo-en-la-gran-1126.html",
+    "visitas": 9
+   },
+   {
+    "titulo": "La Granja VIP 2: definidos los cuatro nominados de la semana 12 y arranca la salvación",
+    "url": "https://enelensayomedia.com/notas/la-granja-vip-2-definidos-los-cuatro-nominados-de-la-semana-12-y-arran-1126.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "Nuevas dinámicas y reencuentros en La Mansión VIP 2",
+    "url": "https://enelensayomedia.com/notas/nuevas-dinamicas-y-reencuentros-en-la-mansion-vip-2-1125.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "Bebeshita y Bicolor llegan a La Granja VIP por caminos distintos",
+    "url": "https://enelensayomedia.com/notas/bebeshita-y-bicolor-llegan-a-la-granja-vip-por-caminos-distintos-1122.html",
+    "visitas": 5
+   }
+  ],
+  "música": [
    {
     "titulo": "Cartel del Coachella 2026: edad media, países y quiénes están en el top 100",
     "url": "https://enelensayomedia.com/notas/cartel-del-coachella-2026-edad-media-paises-y-quienes-estan-en-el-top-1121.html",
@@ -53,28 +87,11 @@
     "titulo": "Kid Voodoo es el primer chileno en ganar Los40 Music Awards",
     "url": "https://enelensayomedia.com/notas/kid-voodoo-es-el-primer-chileno-en-ganar-los40-music-awards-1123.html",
     "visitas": 5
-   }
-  ],
-  "conciertos": [
-   {
-    "titulo": "Lupita D'Alessio celebra 55 años",
-    "url": "https://enelensayomedia.com/notas/lupita-d-alessio-celebra-55-anos-1124.html",
-    "visitas": 10
    },
    {
-    "titulo": "Babasónicos toca este miércoles en el Palacio de los Deportes",
-    "url": "https://enelensayomedia.com/notas/babasonicos-toca-este-miercoles-en-el-palacio-de-los-deportes-1125.html",
+    "titulo": "Nicki Nicole estrena el doble sencillo 'Rayo de Sol' y 'Eterna Soledad'",
+    "url": "https://enelensayomedia.com/notas/nicki-nicole-estrena-el-doble-sencillo-rayo-de-sol-y-eterna-soledad-1123.html",
     "visitas": 5
-   },
-   {
-    "titulo": "Maná concierto en el Estadio GNP Seguros 2026: boletos y horarios",
-    "url": "https://enelensayomedia.com/notas/mana-concierto-en-el-estadio-gnp-seguros-2026-boletos-y-horarios-1121.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "Nacho Vegas presenta 'Vidas semipreciosas' en el Teatro Metropólitan",
-    "url": "https://enelensayomedia.com/notas/nacho-vegas-presenta-vidas-semipreciosas-en-el-teatro-metropolitan-1127.html",
-    "visitas": 4
    }
   ],
   "reportaje": [
@@ -84,9 +101,9 @@
     "visitas": 7
    },
    {
-    "titulo": "Músico es baleado tras discusión con su pareja policía en Chorrillos",
-    "url": "https://enelensayomedia.com/notas/musico-es-baleado-tras-discusion-con-su-pareja-policia-en-chorrillos-1122.html",
-    "visitas": 4
+    "titulo": "Hayden Panettiere encontrada muerta en Nueva York",
+    "url": "https://enelensayomedia.com/notas/hayden-panettiere-encontrada-muerta-en-nueva-york-1124.html",
+    "visitas": 7
    }
   ],
   "cultura": [
@@ -118,20 +135,37 @@
     "visitas": 5
    },
    {
-    "titulo": "Mía Rubín confirma ruptura con Tarik Othón por diferencias profesionales",
-    "url": "https://enelensayomedia.com/notas/mia-rubin-confirma-ruptura-con-tarik-othon-por-diferencias-profesional-1121.html",
+    "titulo": "Roca Rey y Tana Rivera: una llamada de madrugada para cerrar las heridas",
+    "url": "https://enelensayomedia.com/notas/roca-rey-y-tana-rivera-una-llamada-de-madrugada-para-cerrar-las-herida-1125.html",
     "visitas": 5
+   }
+  ],
+  "streaming": [
+   {
+    "titulo": "Itatí López y Anahí Ríos enfrentan polémica en La Mansión VIP 2",
+    "url": "https://enelensayomedia.com/notas/itati-lopez-y-anahi-rios-enfrentan-polemica-en-la-mansion-vip-2-1126.html",
+    "visitas": 6
+   },
+   {
+    "titulo": "Confunden a streamer con Samuel García",
+    "url": "https://enelensayomedia.com/notas/confunden-a-streamer-con-samuel-garcia-1127.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "Plex entrevista a Sánchez y Feijóo en YouTube antes de las elecciones 29N",
+    "url": "https://enelensayomedia.com/notas/plex-entrevista-a-sanchez-y-feijoo-en-youtube-antes-de-las-elecciones-1125.html",
+    "visitas": 5
+   },
+   {
+    "titulo": "La Noche Dorada 2: Zein promete boxeo en vivo y gratis desde Lima",
+    "url": "https://enelensayomedia.com/notas/la-noche-dorada-2-zein-promete-boxeo-en-vivo-y-gratis-desde-lima-1126.html",
+    "visitas": 4
    }
   ],
   "televisión": [
    {
     "titulo": "Estrena la temporada 3 de 'Percy Jackson' en Disney+ con nuevos dioses",
     "url": "https://enelensayomedia.com/notas/estrena-la-temporada-3-de-percy-jackson-en-disney-con-nuevos-dioses-1123.html",
-    "visitas": 6
-   },
-   {
-    "titulo": "Oobah: Scams for a Better Tomorrow llega a HBO Max con un sérum de lágrimas de niños",
-    "url": "https://enelensayomedia.com/notas/oobah-scams-for-a-better-tomorrow-llega-a-hbo-max-con-un-serum-de-lagr-1122.html",
     "visitas": 6
    }
   ],
@@ -157,48 +191,48 @@
     "visitas": 5
    }
   ],
-  "streaming": [
+  "marvel y dcu": [
    {
-    "titulo": "Confunden a streamer con Samuel García",
-    "url": "https://enelensayomedia.com/notas/confunden-a-streamer-con-samuel-garcia-1127.html",
+    "titulo": "Rumor: Hayley Atwell dice que el tráiler de ‘Avengers: Doomsday’ saldrá el lunes 23",
+    "url": "https://enelensayomedia.com/notas/rumor-hayley-atwell-dice-que-el-trailer-de-avengers-doomsday-saldra-el-1122.html",
+    "visitas": 6
+   },
+   {
+    "titulo": "Regreso de Downey Jr.",
+    "url": "https://enelensayomedia.com/notas/regreso-de-downey-jr-1126.html",
     "visitas": 5
    },
    {
-    "titulo": "Itatí López y Anahí Ríos enfrentan polémica en La Mansión VIP 2",
-    "url": "https://enelensayomedia.com/notas/itati-lopez-y-anahi-rios-enfrentan-polemica-en-la-mansion-vip-2-1126.html",
+    "titulo": "Spider-Man: Brand New Day se reestrena en diciembre con versión extendida",
+    "url": "https://enelensayomedia.com/notas/spider-man-brand-new-day-se-reestrena-en-diciembre-con-version-extendi-1125.html",
     "visitas": 5
    },
    {
-    "titulo": "Plex entrevista a Sánchez y Feijóo en YouTube antes de las elecciones 29N",
-    "url": "https://enelensayomedia.com/notas/plex-entrevista-a-sanchez-y-feijoo-en-youtube-antes-de-las-elecciones-1125.html",
+    "titulo": "Hailee Steinfeld confirma su regreso como Kate Bishop en Avengers: Doomsday",
+    "url": "https://enelensayomedia.com/notas/hailee-steinfeld-confirma-su-regreso-como-kate-bishop-en-avengers-doom-1123.html",
     "visitas": 5
-   },
-   {
-    "titulo": "La Noche Dorada 2: Zein promete boxeo en vivo y gratis desde Lima",
-    "url": "https://enelensayomedia.com/notas/la-noche-dorada-2-zein-promete-boxeo-en-vivo-y-gratis-desde-lima-1126.html",
-    "visitas": 4
    }
   ],
-  "reality": [
+  "videojuegos": [
    {
-    "titulo": "La Granja VIP 2: definidos los cuatro nominados de la semana 12 y arranca la salvación",
-    "url": "https://enelensayomedia.com/notas/la-granja-vip-2-definidos-los-cuatro-nominados-de-la-semana-12-y-arran-1126.html",
+    "titulo": "Sony anuncia juegos de diciembre para PlayStation Plus",
+    "url": "https://enelensayomedia.com/notas/sony-anuncia-juegos-de-diciembre-para-playstation-plus-1126.html",
     "visitas": 5
    },
    {
-    "titulo": "Nuevas dinámicas y reencuentros en La Mansión VIP 2",
-    "url": "https://enelensayomedia.com/notas/nuevas-dinamicas-y-reencuentros-en-la-mansion-vip-2-1125.html",
-    "visitas": 5
+    "titulo": "Retail Hell llega a PS5, Xbox Series X|S y Nintendo Switch",
+    "url": "https://enelensayomedia.com/notas/retail-hell-llega-a-ps5-xbox-series-x-s-y-nintendo-switch-1127.html",
+    "visitas": 4
    },
    {
-    "titulo": "Bebeshita y Bicolor llegan a La Granja VIP por caminos distintos",
-    "url": "https://enelensayomedia.com/notas/bebeshita-y-bicolor-llegan-a-la-granja-vip-por-caminos-distintos-1122.html",
-    "visitas": 5
+    "titulo": "ShantyTown llega a Nintendo Switch 2 en 2027 con anuncio en Steam",
+    "url": "https://enelensayomedia.com/notas/shantytown-llega-a-nintendo-switch-2-en-2027-con-anuncio-en-steam-1126.html",
+    "visitas": 4
    },
    {
-    "titulo": "Moisés Peñaloza no olvida el pleito con Yahir en La Casa de los Famosos México",
-    "url": "https://enelensayomedia.com/notas/moises-penaloza-no-olvida-el-pleito-con-yahir-en-la-casa-de-los-famoso-1122.html",
-    "visitas": 5
+    "titulo": "Team Cherry anuncia el evento Cherry Time! sobre Silksong",
+    "url": "https://enelensayomedia.com/notas/team-cherry-anuncia-el-evento-cherry-time-sobre-silksong-1125.html",
+    "visitas": 4
    }
   ],
   "doblaje": [
@@ -223,28 +257,6 @@
     "visitas": 5
    }
   ],
-  "marvel y dcu": [
-   {
-    "titulo": "Regreso de Downey Jr.",
-    "url": "https://enelensayomedia.com/notas/regreso-de-downey-jr-1126.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "Spider-Man: Brand New Day se reestrena en diciembre con versión extendida",
-    "url": "https://enelensayomedia.com/notas/spider-man-brand-new-day-se-reestrena-en-diciembre-con-version-extendi-1125.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "Hailee Steinfeld confirma su regreso como Kate Bishop en Avengers: Doomsday",
-    "url": "https://enelensayomedia.com/notas/hailee-steinfeld-confirma-su-regreso-como-kate-bishop-en-avengers-doom-1123.html",
-    "visitas": 5
-   },
-   {
-    "titulo": "Rumor: Wanda Maximoff podría regresar en 'Avengers: Doomsday' según postcréditos de 'VisionQuest'",
-    "url": "https://enelensayomedia.com/notas/rumor-wanda-maximoff-podria-regresar-en-avengers-doomsday-segun-postcr-1121.html",
-    "visitas": 5
-   }
-  ],
   "internacional": [
    {
     "titulo": "Timberlake y Fallon cantan 'Cha Cha Slide' en adelanto de Acción de Gracias de NBC",
@@ -252,39 +264,17 @@
     "visitas": 5
    }
   ],
-  "videojuegos": [
+  "cine": [
    {
-    "titulo": "Retail Hell llega a PS5, Xbox Series X|S y Nintendo Switch",
-    "url": "https://enelensayomedia.com/notas/retail-hell-llega-a-ps5-xbox-series-x-s-y-nintendo-switch-1127.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "ShantyTown llega a Nintendo Switch 2 en 2027 con anuncio en Steam",
-    "url": "https://enelensayomedia.com/notas/shantytown-llega-a-nintendo-switch-2-en-2027-con-anuncio-en-steam-1126.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "Team Cherry anuncia el evento Cherry Time! sobre Silksong",
-    "url": "https://enelensayomedia.com/notas/team-cherry-anuncia-el-evento-cherry-time-sobre-silksong-1125.html",
-    "visitas": 4
-   },
-   {
-    "titulo": "Análisis de Pikmin 4 Nintendo Switch 2 Edition",
-    "url": "https://enelensayomedia.com/notas/analisis-de-pikmin-4-nintendo-switch-2-edition-1124.html",
-    "visitas": 4
+    "titulo": "Netflix estrena hoy 56 contenidos en guía de Espinof para 25 de noviembre",
+    "url": "https://enelensayomedia.com/notas/netflix-estrena-hoy-56-contenidos-en-guia-de-espinof-para-25-de-noviem-1125.html",
+    "visitas": 5
    }
   ],
   "in memoriam": [
    {
     "titulo": "Un marinero muere tras hundimiento del buque Med Emre cerca de Ibiza",
     "url": "https://enelensayomedia.com/notas/un-marinero-muere-tras-hundimiento-del-buque-med-emre-cerca-de-ibiza-1126.html",
-    "visitas": 4
-   }
-  ],
-  "cine": [
-   {
-    "titulo": "Netflix estrena hoy 56 contenidos en guía de Espinof para 25 de noviembre",
-    "url": "https://enelensayomedia.com/notas/netflix-estrena-hoy-56-contenidos-en-guia-de-espinof-para-25-de-noviem-1125.html",
     "visitas": 4
    }
   ],
