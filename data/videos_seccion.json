@@ -1,4 +1,33 @@
 {
+ "In memoriam": {
+  "shorts": [
+   {
+    "id": "nEiB6hnMLEY",
+    "titulo": "Muere Bronson Reed, luchador de la WWE, a los 38 años",
+    "fecha": "2026-11-28",
+    "nota": "https://enelensayomedia.com/notas/muere-bronson-reed-luchador-de-la-wwe-a-los-38-anos-1128.html"
+   },
+   {
+    "id": "EmkWKCHJcI8",
+    "titulo": "Pat Morita, actor de The Karate Kid, fallece a los 73 años por insuficiencia renal",
+    "fecha": "2026-11-24",
+    "nota": "https://enelensayomedia.com/notas/pat-morita-actor-de-the-karate-kid-fallece-a-los-73-anos-por-insuficie-1124.html"
+   },
+   {
+    "id": "MzYhk1JIYDs",
+    "titulo": "Martha Valdés, actriz que dejó el cine en 1959, fallece a los 86",
+    "fecha": "2026-11-20",
+    "nota": "https://enelensayomedia.com/notas/martha-valdes-actriz-que-dejo-el-cine-en-1959-fallece-a-los-86-1120.html"
+   },
+   {
+    "id": "mgn-ud1VQqc",
+    "titulo": "Marilyn Monroe murió la madrugada del 5 de agosto de 1962 en su residencia de Los Ángeles",
+    "fecha": "2026-11-18",
+    "nota": "https://enelensayomedia.com/notas/marilyn-monroe-murio-la-madrugada-del-5-de-agosto-de-1962-en-su-reside-1118.html"
+   }
+  ],
+  "longs": []
+ },
  "Reportaje": {
   "shorts": [
    {
@@ -122,29 +151,6 @@
     "nota": "https://enelensayomedia.com/notas/el-legado-de-lucero-entre-la-estrella-venus-y-la-artista-mexicana-1117.html"
    }
   ]
- },
- "In memoriam": {
-  "shorts": [
-   {
-    "id": "EmkWKCHJcI8",
-    "titulo": "Pat Morita, actor de The Karate Kid, fallece a los 73 años por insuficiencia renal",
-    "fecha": "2026-11-24",
-    "nota": "https://enelensayomedia.com/notas/pat-morita-actor-de-the-karate-kid-fallece-a-los-73-anos-por-insuficie-1124.html"
-   },
-   {
-    "id": "MzYhk1JIYDs",
-    "titulo": "Martha Valdés, actriz que dejó el cine en 1959, fallece a los 86",
-    "fecha": "2026-11-20",
-    "nota": "https://enelensayomedia.com/notas/martha-valdes-actriz-que-dejo-el-cine-en-1959-fallece-a-los-86-1120.html"
-   },
-   {
-    "id": "mgn-ud1VQqc",
-    "titulo": "Marilyn Monroe murió la madrugada del 5 de agosto de 1962 en su residencia de Los Ángeles",
-    "fecha": "2026-11-18",
-    "nota": "https://enelensayomedia.com/notas/marilyn-monroe-murio-la-madrugada-del-5-de-agosto-de-1962-en-su-reside-1118.html"
-   }
-  ],
-  "longs": []
  },
  "Chisme": {
   "shorts": [
