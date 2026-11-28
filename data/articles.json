@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Jim Carrey y Naomi Watts: los orígenes de 'Los padres de ella' y su secuela",
+    "artista": "Jim Carrey y Naomi Watts",
+    "intro": "Se revelan detalles sobre el casting cercano y el desarrollo de la nueva entrega de la saga familiar.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/jim-carrey-y-naomi-watts-los-origenes-de-los-padres-de-ella-y-su-secue-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/jim-carrey-y-naomi-watts-los-origenes-de-los-padres-de-ella-y-su-secue-1127.jpg",
+    "fecha": "2026-11-27T19:13:33.306743",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme internacional"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Square Enix duplica ventas de catálogo en H1 2026 tras Kingdom Hearts IV y FFVII Revelation",
     "artista": "Square Enix",
     "intro": "Square Enix presentó sus resultados del primer semestre fiscal, cerrado el 30 de septiembre de 2026…",
@@ -5789,19 +5803,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Marvel y DCU"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "El documental 'You Can See Everything' recauda US$ 45 millones",
-    "artista": "You Can See Everything",
-    "intro": "El documental 'You Can See Everything' recauda 45 millones de dólares en diez días tras su estreno en cines en octubre de 2026.",
-    "telegraph_url": "https://telegra.ph/El-documental-You-Can-See-Everything-recauda-US-45-millones-11-16",
-    "url": "https://enelensayomedia.com/notas/el-documental-you-can-see-everything-recauda-us-45-millones-1116.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-documental-you-can-see-everything-recauda-us-45-millones-1116.jpg",
-    "fecha": "2026-11-16T14:14:37.638577",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Televisión"
   }
 ]
