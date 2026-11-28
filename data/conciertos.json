@@ -1,5 +1,5 @@
 {
- "actualizado": "2026-11-28 06:14",
+ "actualizado": "2026-11-28 08:17",
  "eventos": [],
  "api": false,
  "ticketmaster": {
@@ -109,6 +109,12 @@
  ],
  "noticias": [
   {
+   "titulo": "Beth Gibbons llega al Teatro Metropólitan en 2027",
+   "fuente": "Bizarro FM",
+   "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41djNCa3Jaa21MOU9ncW43Rjl6dmZkTU9WS19WS09qWG80azZUSGlaSUFldWtFYXRRazBGQW9GQTY1dlFYcTdQTGFKQVpyUWw2OUZUanZrbGtkT1hockFZ?oc=5",
+   "fecha": "2026-11-28 12:30"
+  },
+  {
    "titulo": "Precios Pal Norte 2027: Boletos, Fases y Costo de Abonos Tras Revelación del Cartel",
    "fuente": "N+",
    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQaURWeVFhZjBBbW9haThUc1U5bG9nNF9CanBJTjhIUm1xY2xQVGhVNzd5RzBueEh5UVRJRkNQeVk4R0lnLTdNSE91RU10RzRZUXphRFBQbHRfR1JHSVBVZ2tjV0lQMFVmNjJLSkw2azgwS1FEeWpOdEdMcUtRTFRlaGxQNmR6SzhFTlNhbjM5UkxhNFRYczZoYXNPYVlUd2pIWE1jLUhNa3V1RWdubHNhVVZ1VlJ1bTJoaktuRk5ZenV2YUJ5TWJsLTJpUGxxT3BUVXozS05CY0I?oc=5",
@@ -119,6 +125,12 @@
    "fuente": "Infobae",
    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeGtSWDc5QTJRM2FHZGxjX2lWQUhnazhybGFkWlA5cGR0by1nV09UWjhkazZFa1paR1B5VE9pMHBYU3FUeXVILUdZXzllTkh3cGw3QWVrRUVrNTJISUU2dFFHVGF0c1lxRUVoM0pEV284T2FCUmo3QWVmQ1doOFNnWEZZdXpNWkZrOGZMemJYYU9EMWUtdWhtRUotdHdhT2tpakVRMTFnZW1iUjY0Nm5UT3RES2w2aC1NU3FJ0gHWAUFVX3lxTE91RGs4ejEwMThmYW5pZ3VKZUd1ZndPbkI2dWl5eWlLWkQ5TnA1ZE9WRG1aU0V4RnpienRlNFNFTWtjYTZCYzJCV2R4eklqVHRMb29oT3FaM3ZfcS16V0JqSTN6WnpuWFhHOWNKaFdZZ0xqZXpwU3U1bHY5a1IyX0tDbVZxSjVUVXNfTnl5QXRXNlRMMkpxMmlMU01aZGJTendhbkJwQ3paVndJdjUzMlBUX2ZzRkJZaTUtcXFGYWV4d1VTT2FCcmVSQS1INXprYlo1OUZKdEE?oc=5",
    "fecha": "2026-11-26 21:33"
+  },
+  {
+   "titulo": "Banda MS llega a El Salvador, anuncian fecha y precios de entradas para el concierto",
+   "fuente": "elsalvador.com",
+   "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRHFab3BxNmJPN2NmMTNSejJOMjRkb1pHNkFoN1pJdTh0QU4tcTduR2xQbmNiUFI0bjY5WGkxbmEwdnc4SDRNbjdWcktFWTkyRTl0SlVEejNFT2VSdkVqNW52X1BqbzM2TDBSYW12Sy05Q3NlbURYM3RWa3FObnhfYmxlTjBzcTNvazJFWDVMM1VWcG5KS3hv?oc=5",
+   "fecha": "2026-11-26 21:24"
   },
   {
    "titulo": "Mon Laferte dará concierto en el Estadio GNP por primera vez; cuándo es la preventa de boletos",
@@ -137,12 +149,6 @@
    "fuente": "Almomento.mx",
    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd3RXQmdCQjBYc2UtYzlQYWpJdkRMRE0xeHRYdFRkX3NTWjFCYjNUVlJrQVIwck9XNGxSb24xaGlUeng3Q0FGaTQ4Qm5hRlNBXzFYWTVMZFBlOVliOXVGdVFxc0pwd1E2SEpieUkyOG5Sa0RpX0YxZWF3MV90RWRwT05pY3ZoMUpwczFvaEhhVnhmaXV3QWxObDFYbFhMQQ?oc=5",
    "fecha": "2026-11-25 20:01"
-  },
-  {
-   "titulo": "Bruno Mars anuncia una pop-up store en CDMX: Fechas, accesos y precio de boletos",
-   "fuente": "EXA FM",
-   "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNGoxdHFTZUp4Z0Jtd3g1aXRKMVZuZnVnVUw5Z3lXTWtVZkNkd29wZFVVQVotam1VVGFGQWpuaFh1LUZxTmJKTDJtWjRzblhrYUMyZzRLcHFjd2UtcFMwRkw2bXZHdTVmc3NnM0hfTmFXT0l4TmdpTEF0YTRYRFA0WE9qNk04eTQ5RXJ5T1FWb1NxdUUzSXliMXZfUmxaVFJGWTNrYU12R29odDcxSGtxS2Fn?oc=5",
-   "fecha": "2026-11-25 00:30"
   },
   {
    "titulo": "Maluma confirma concierto en San Luis Potosí con su gira 'Loco X Volver World Tour 2027'",
@@ -169,6 +175,12 @@
    "fecha": "2026-11-20 09:58"
   },
   {
+   "titulo": "Usuarios Reportan Fallas en Ticketmaster Previo a Conciertos de Este Fin de Semana",
+   "fuente": "N+",
+   "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOZmROVVVGd256dWp2YlRIaFhzRmh3R3dSelFEMEdlYjZFQWVJMVZYbzFPZ181T3pVWUFISTJyMDRWSkJFdC1oUThxUzNkZml0dDdIeHRhS1Jfb3N2VzFYajc4NDJJYkxkU1NIOHVnUHEwM0d1MlZLcm8tMHVDSko4N2dScUdnNDRicXE0SnFWZXFWVUpKLTBMY2p0eGUyX1JYOFFubkZqcmFwRVpQRlhhUkV0N2d0NVpGMk92WUtpQmU?oc=5",
+   "fecha": "2026-11-20 08:00"
+  },
+  {
    "titulo": "Metric, Broken Social Scene y Stars en CDMX 2027",
    "fuente": "Bizarro FM",
    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOUFU4V21qaXAzbzBSQlVxUjBNUW44VFc0a3lXZ01BQm0zcHVpOU5xcE83VkgycE5hM0dUaXdkY1lLaGVFd0x1Rzd6bTNXaXUwVGd0TzB0ZjdtYVFOOHZJSUswa0RoS0VObjBad0dLWjVfSmZaVmhOTzdyekpmYWo5Mw?oc=5",
@@ -179,18 +191,6 @@
    "fuente": "Bizarro FM",
    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdlJIZ0h3dGpHeEprbTVkcllNa1ZQX0xISGpoUFdxZnd6WlJHelBPNHpJaDdnaEszN1RSUFBRNno3NlpzVTRaamNuMXZ5bDhfN2JNNmF4eDlNVnNKcFRMYURVaWtPa2UzYjNGb3I4cEdVRmEyZ29iWFJoYlYxMWd6ejNjaWdJTFE?oc=5",
    "fecha": "2026-11-20 03:04"
-  },
-  {
-   "titulo": "Don Omar vuelve a México: Preventa y precios oficiales en CDMX, Guadalajara, Monterrey",
-   "fuente": "Reporte Indigo",
-   "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQczNIRTBZS3dLRTZPRzB4Znh1RDU2MURrQnpnRnkzUWVHclFycXpNTHFoYTI5cVU1SGpQVVJuVXdDYWV5V2NuYXZMTHUtOXVyTE9NTHg4RnJXbjdBeG5NdENHekdmWGVGdDhQWERqZmMzWGExSVhxX0tVa05qQkxEWmZWSVpCX0I5c0ZTMWZCUmZwZklwbE1qeWNfUlpiTUp0X2w5M0ZtQmFIQXlIeDBJNUl0dDZGdENwVGRSb19RVEIyTUVCV2Z5UnRWN2JVOWIxVk5CTnJadnFmQ040R2tjczZn?oc=5",
-   "fecha": "2026-11-19 16:33"
-  },
-  {
-   "titulo": "Jueves 2x1 Ticketmaster: Estos son los conciertos válidos en la promoción de HOY 19 de noviembre",
-   "fuente": "Reporte Indigo",
-   "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOMkY0VWhnN2p2UFBycTlRU28wVndyQTNPUm1vb21CT2hmVEkzaHNtdFBTMllZMkhxRDVGczFwLVAyMTRwdUNmMzFzcnZHYk1HSlhjcmhfa1RrTlR6SVMtNWFlMzBxQVRYb1FNTldvZGZJVGJ0OTBHUHZlNmVRbEpSRWtrYTdDdy04Z1V2V1MwUEkydXRGRE5TcGh1Nk9xcVBaSnlYM1hRTWUwLXlNU3I2dWFtTkZTZFQ0S0JCNGVIcXdMTTdjaGNRd2RFNk16YkZ0Q2x5UnJuU05QdGNWTlB3WGEtVFI?oc=5",
-   "fecha": "2026-11-19 13:07"
   }
  ]
 }
