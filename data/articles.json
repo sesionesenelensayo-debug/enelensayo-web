@@ -2,6 +2,22 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Alejandra Guzmán sufre nueva dislocación de cadera en concierto",
+    "artista": "Alejandra Guzmán sufre una nueva dislocación de cadera durante un concierto",
+    "intro": "Mientras los escenarios suelen ser el espacio donde la fuerza y la energía de una artista se despliegan sin reservas…",
+    "telegraph_url": "https://telegra.ph/Alejandra-Guzmán-sufre-nueva-dislocación-de-cadera-en-concierto-11-28",
+    "url": "https://enelensayomedia.com/notas/alejandra-guzman-sufre-nueva-dislocacion-de-cadera-en-concierto-1128.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/alejandra-guzman-sufre-nueva-dislocacion-de-cadera-en-concierto-1128.jpg",
+    "fecha": "2026-11-28T08:20:42.519273",
+    "author": "Oliver Ken",
+    "views": 0,
+    "nota_dia": true,
+    "ultima_hora": true,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Fallece a los 88 años Gustavo Meza, director y dramaturgo chileno",
     "artista": "Fallece a los 88 años Gustavo Meza, destacado director y dramaturgo chileno",
     "intro": "El teatro chileno perdió a Gustavo Meza, reconocido director, dramaturgo y Premio Nacional de Artes de la Representación, quien falleció a los 88 años.",
@@ -5791,19 +5807,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Chisme internacional"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "El misterio de los fantasmas de la Torre de Londres",
-    "artista": "el caso del fantasma de la Torre de Londres",
-    "intro": "Historias de appariciones y leyendas que han recorrido sus muros durante siglos.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-misterio-de-los-fantasmas-de-la-torre-de-londres-1117.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-misterio-de-los-fantasmas-de-la-torre-de-londres-1117.jpg",
-    "fecha": "2026-11-17T08:33:52.918376",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Historias de terror"
   }
 ]
