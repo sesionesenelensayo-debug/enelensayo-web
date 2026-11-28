@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Ximena Santaolalla denuncia abuso sexual infantil de su padrastro Francisco Aguirre Gómez",
+    "artista": "Ximena Santaolalla",
+    "intro": "La escritora Ximena Santaolalla denunció públicamente a su padrastro, el empresario Francisco Aguirre Gómez, por presunto abuso sexual infantil.",
+    "telegraph_url": "",
+    "url": "https://enelensayomedia.com/notas/ximena-santaolalla-denuncia-abuso-sexual-infantil-de-su-padrastro-fran-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/ximena-santaolalla-denuncia-abuso-sexual-infantil-de-su-padrastro-fran-1127.jpg",
+    "fecha": "2026-11-27T21:04:25.761698",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Chisme"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Derbez y Mariana Bo enfrentan rumores de ruptura escandalosa",
     "artista": "José Eduardo Derbez",
     "intro": "José Eduardo Derbez y la DJ Mariana Bo se han convertido en centro de rumores tras la publicación de fotos juntos en un campo de tiro.",
@@ -5789,22 +5803,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Streaming"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Cómo ver Star Wars: guía definitiva con 36 entregas según cronología",
-    "artista": "Star Wars",
-    "intro": "Se explica el orden recomendado para seguir la saga con continuidad narrativa y maratón.",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/como-ver-star-wars-guia-definitiva-con-36-entregas-segun-cronologia-1115.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/como-ver-star-wars-guia-definitiva-con-36-entregas-segun-cronologia-1115.jpg",
-    "fecha": "2026-11-16T14:55:32.194492",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Cine",
-    "fecha_original": "2026-11-15T16:33:49.725118",
-    "ultima_actualizacion": "2026-11-16T14:55:32.194492",
-    "actualizada": true
   }
 ]
