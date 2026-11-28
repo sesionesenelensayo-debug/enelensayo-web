@@ -1,5 +1,21 @@
 [
   {
+    "opinion": false,
+    "tipo": "reportaje",
+    "titulo": "Fallece a los 88 años Gustavo Meza, director y dramaturgo chileno",
+    "artista": "Fallece a los 88 años Gustavo Meza, destacado director y dramaturgo chileno",
+    "intro": "El teatro chileno perdió a Gustavo Meza, reconocido director, dramaturgo y Premio Nacional de Artes de la Representación, quien falleció a los 88 años.",
+    "telegraph_url": "https://telegra.ph/Fallece-a-los-88-años-Gustavo-Meza-director-y-dramaturgo-chileno-11-28",
+    "url": "https://enelensayomedia.com/notas/fallece-a-los-88-anos-gustavo-meza-director-y-dramaturgo-chileno-1128.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/fallece-a-los-88-anos-gustavo-meza-director-y-dramaturgo-chileno-1128.jpg",
+    "fecha": "2026-11-28T08:18:04.552865",
+    "author": "Oliver Ken",
+    "views": 0,
+    "nota_dia": true,
+    "ultima_hora": true,
+    "categoria": "In memoriam"
+  },
+  {
     "opinion": true,
     "tipo": "reportaje",
     "titulo": "Por qué los latinoamericanos no se identifican con categorías raciales estadounidenses",
@@ -5789,20 +5805,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Historias de terror"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "El legado de Lucero: entre la estrella Venus y la artista mexicana",
-    "artista": "Lucero",
-    "intro": "El video publicado por el canal En el Ensayo Media explora el concepto de “lucero” desde dos perspectivas…",
-    "telegraph_url": "",
-    "url": "https://enelensayomedia.com/notas/el-legado-de-lucero-entre-la-estrella-venus-y-la-artista-mexicana-1117.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/el-legado-de-lucero-entre-la-estrella-venus-y-la-artista-mexicana-1117.jpg",
-    "fecha": "2026-11-17T01:55:05.751575",
-    "author": "Oliver Ken",
-    "views": 0,
-    "archivo": true,
-    "categoria": "Biografía"
   }
 ]
