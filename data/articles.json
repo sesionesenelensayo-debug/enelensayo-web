@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Daniela Sarfati será voz en II Encuentro Nacional de Mujeres Exitosas",
+    "artista": "Daniela Sarfati",
+    "intro": "Daniela Sarfati, actriz y comunicadora peruana, será una de las voces del II Encuentro Nacional de Mujeres Exitosas, que se celebrará el 4 de marzo de 2027 en el Hotel Novotel Lima.",
+    "telegraph_url": "https://telegra.ph/Daniela-Sarfati-será-voz-en-II-Encuentro-Nacional-de-Mujeres-Exitosas-11-28",
+    "url": "https://enelensayomedia.com/notas/daniela-sarfati-sera-voz-en-ii-encuentro-nacional-de-mujeres-exitosas-1127.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/daniela-sarfati-sera-voz-en-ii-encuentro-nacional-de-mujeres-exitosas-1127.jpg",
+    "fecha": "2026-11-27T21:53:15.907807",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "Reportaje"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Ximena Santaolalla denuncia abuso sexual infantil de su padrastro Francisco Aguirre Gómez",
     "artista": "Ximena Santaolalla",
     "intro": "La escritora Ximena Santaolalla denunció públicamente a su padrastro, el empresario Francisco Aguirre Gómez, por presunto abuso sexual infantil.",
@@ -5789,19 +5803,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Videojuegos"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Flor Vigna cambia su look antes de su primer proyecto en Estados Unidos",
-    "artista": "Flor Vigna",
-    "intro": "Flor Vigna sorprendió a sus seguidores el 15 de noviembre al publicar en Instagram un nuevo look con cabello largo y rojo intenso…",
-    "telegraph_url": "https://telegra.ph/Flor-Vigna-cambia-su-look-antes-de-su-primer-proyecto-en-Estados-Unidos-11-16",
-    "url": "https://enelensayomedia.com/notas/flor-vigna-cambia-su-look-antes-de-su-primer-proyecto-en-estados-unido-1116.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/flor-vigna-cambia-su-look-antes-de-su-primer-proyecto-en-estados-unido-1116.jpg",
-    "fecha": "2026-11-16T15:13:10.157932",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Streaming"
   }
 ]
