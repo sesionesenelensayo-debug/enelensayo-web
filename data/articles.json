@@ -2,6 +2,20 @@
   {
     "opinion": false,
     "tipo": "reportaje",
+    "titulo": "Muere Bronson Reed, luchador de la WWE, a los 38 años",
+    "artista": "Bronson Reed",
+    "intro": "El 27 de noviembre de 2026, la empresa WWE anunció el fallecimiento de Jermaine Haley, conocido en los encordados como Bronson Reed, a los 38 años de edad.",
+    "telegraph_url": "https://telegra.ph/Muere-Bronson-Reed-luchador-de-la-WWE-a-los-38-años-11-28",
+    "url": "https://enelensayomedia.com/notas/muere-bronson-reed-luchador-de-la-wwe-a-los-38-anos-1128.html",
+    "imagen_url": "https://enelensayomedia.com/img/notas/muere-bronson-reed-luchador-de-la-wwe-a-los-38-anos-1128.jpg",
+    "fecha": "2026-11-28T01:11:12.218311",
+    "author": "Oliver Ken",
+    "views": 0,
+    "categoria": "In memoriam"
+  },
+  {
+    "opinion": false,
+    "tipo": "reportaje",
     "titulo": "Centralia: el pueblo fantasma donde el fuego arde desde 1962",
     "artista": "el pueblo fantasma de Centralia",
     "intro": "Un incendio subterráneo obligó a evacuar a casi toda la población de este pueblo minero de Pensilvania.",
@@ -5792,19 +5806,5 @@
     "author": "Oliver Ken",
     "views": 0,
     "categoria": "Marvel y DCU"
-  },
-  {
-    "opinion": false,
-    "tipo": "reportaje",
-    "titulo": "Karol G y Thalía cantan '¿A quién le importa?' en el GNP de CDMX",
-    "artista": "Karol G y Thalía",
-    "intro": "Karol G y Thalía colaboraron en '¿A quién le importa?' durante el primer concierto de la gira Viajando por el Mundo Tropitour 2026 en el Estadio GNP Seguros de la Ciudad de México…",
-    "telegraph_url": "https://telegra.ph/Karol-G-y-Thalía-cantan-A-quién-le-importa-en-el-GNP-de-CDMX-11-16",
-    "url": "https://enelensayomedia.com/notas/karol-g-y-thalia-cantan-a-quien-le-importa-en-el-gnp-de-cdmx-1116.html",
-    "imagen_url": "https://enelensayomedia.com/img/notas/karol-g-y-thalia-cantan-a-quien-le-importa-en-el-gnp-de-cdmx-1116.jpg",
-    "fecha": "2026-11-16T16:20:06.420001",
-    "author": "Oliver Ken",
-    "views": 0,
-    "categoria": "Conciertos"
   }
 ]
